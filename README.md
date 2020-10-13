@@ -59,3 +59,4 @@ pip freeze > requirements.txt
 ### Install list of packages
 pip install -r requirements.txt
 
+[![Gitter](https://badges.gitter.im/radio2podcasts/community.svg)](https://gitter.im/radio2podcasts/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
