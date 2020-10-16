@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>30' cùng VOV2</title>
+    <link>http://vov2.vov.vn/30-phut-cung-vov2-cmobile138.aspx</link>
+    <description>30' cùng VOV2</description>
+    <itunes:explicit>no</itunes:explicit>
+    <copyright>30cv</copyright>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
+    <language>vi</language>
+    <lastBuildDate>Fri, 16 Oct 2020 20:16:13 +0700</lastBuildDate>
+    <itunes:author>catus.phan</itunes:author>
+    <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
+    <pubDate>Mon, 12 Oct 2020 07:00:00 +0700</pubDate>
+    <itunes:category text="Music">
+      <itunes:category text="Music Commentary"/>
+    </itunes:category>
+    <itunes:image href="https://catusf.github.io/radio2podcasts/30'cungVOV2.png"/>
+    <itunes:owner>
+      <itunes:name>catus.phan</itunes:name>
+      <itunes:email>catus.phan@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:subtitle>30' cùng VOV2</itunes:subtitle>
+    <atom:link href="https://catusf.github.io/radio2podcasts/30'cungVOV2.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Xử phạt người ép uống rượu bia: Liệu có khả thi? 12/10/2020</title>
+      <link>http://vov2.vov.vn/30-phut-cung-vov2/xu-phat-nguoi-ep-uong-ruou-bia-lieu-co-kha-thi-c138-35042.aspx</link>
+      <description><![CDATA[Từ ngày 15/11 tới, theo Nghị định 117/2020 (thay thế Nghị định 176/2013) của Chính phủ quy định xử phạt vi phạm hành chính trong lĩnh vực y tế, sẽ phạt tiền từ 500.000 - 1 triệu đồng đối với hành vi xúi giục, kích động, lôi kéo người khác uống rượu bia; phạt tiền từ 1 - 3 triệu đồng đối với hành vi ép buộc người khác uống rượu bia… Dư luận đồng tình khi các sai phạm liên quan đến rượu, bia được luật hóa một cách chi tiết, thế nhưng cũng có không ít băn khoăn. Bởi ngay cả khái niệm thế nào là mời rượu, thế nào là ép rượu… cũng còn rất mơ hồ. Rồi phạt ai, ai phạt? Liệu có khả thi hay không? Hay lại chỉ là “quy định cho có”?]]></description>
+      <guid isPermaLink="false">http://vov2.vov.vn/30-phut-cung-vov2/xu-phat-nguoi-ep-uong-ruou-bia-lieu-co-kha-thi-c138-35042.aspx</guid>
+      <enclosure url="http://media.vov2.vn/vov2\attachments/vanhoa/btvvh/2020_10/up_web_12-10_1210202018.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 12 Oct 2020 07:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Chuyện ở nhà dưỡng lão 9/10/2020</title>
+      <link>http://vov2.vov.vn/30-phut-cung-vov2/chuyen-o-nha-duong-lao-c138-35027.aspx</link>
+      <description><![CDATA[Viện dưỡng lão – một cái tên đã không còn xa lạ trong cuộc sống hiện đại. Ở nơi này niềm vui và nỗi buồn gắn với từng hoàn cảnh, số phận và cuộc đời riêng. Những mảnh ghép ấy tạo nên những thanh âm của cuộc sống...Vào sống ở trại dưỡng lão những ngày cuối đời, có lẽ đến giờ không phải ai cũng dễ dàng chấp nhận. Người Việt vốn theo quan niệm truyền thống, cha mẹ già thì con phải phụng dưỡng, về già sống quây quần bên con cháu...đó mới là hạnh phúc. Nhưng, liệu có bao nhiêu gia đình làm trọn được chữ hiếu theo quan niệm truyền thống này? Và gia đình có phải là sự lựa chọn duy nhất, tốt nhất cho các cụ? Những câu chuyện rất đời, rất thực mà chương trình "30 phút cùng VOV2" chuyển đến quý thính giả sẽ là những lát cắt về cuộc sống ở nơi dành riêng cho người già.]]></description>
+      <guid isPermaLink="false">http://vov2.vov.vn/30-phut-cung-vov2/chuyen-o-nha-duong-lao-c138-35027.aspx</guid>
+      <enclosure url="http://media.vov2.vn/vov2\attachments/talk/btvtalk/vien_duong_lao_up_page_910202017.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 09 Oct 2020 07:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Đánh giá, lựa chọn cán bộ đúng, trúng và câu chuyện rèn luyện những “hạt giống đỏ 8/10/2020</title>
+      <link>http://vov2.vov.vn/30-phut-cung-vov2/danh-gia-lua-chon-can-bo-dung-trung-va-cau-chuyen-ren-luyen-nhung-hat-giong-do-c138-35021.aspx</link>
+      <description><![CDATA[Trong thực hiện chiến lược cán bộ nói riêng, công tác xây dựng Đảng nói chung, Đảng luôn quan tâm, coi trọng việc đào tạo, bồi dưỡng, tạo điều kiện thuận lợi cho cán bộ trẻ phát triển, cống hiến; đồng thời xác định việc trẻ hóa đội ngũ cán bộ là yêu cầu cần thiết, nhằm đáp ứng những đòi hỏi của công cuộc đổi mới, phát triển đất nước.Tuy nhiên trong thực tế, không ít cán bộ trẻ, vì thiếu bản lĩnh, thiếu tu dưỡng, rèn luyện, dẫn đến những sai phạm nghiêm trọng khi nắm quyền lực trong tay. Vậy làm thế nào để những cán bộ trẻ - những “hạt giống đỏ” đang trong quá trình ươm tạo, tránh đi vào "vết xe đổ", tránh vấp phải những sai lầm đáng tiếc?]]></description>
+      <guid isPermaLink="false">http://vov2.vov.vn/30-phut-cung-vov2/danh-gia-lua-chon-can-bo-dung-trung-va-cau-chuyen-ren-luyen-nhung-hat-giong-do-c138-35021.aspx</guid>
+      <enclosure url="http://media.vov2.vn/vov2\attachments/talk/btvtalk/2020_10/chuyen_hom_nay_810_810202019.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 08 Oct 2020 07:00:00 +0700</pubDate>
+    </item>
+  </channel>
+</rss>
