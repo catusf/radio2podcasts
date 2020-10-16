@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Kể chuyện và hát ru cho bé</title>
+    <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru-cmobile43.aspx</link>
+    <description>Kể chuyện và hát ru cho bé</description>
+    <itunes:explicit>no</itunes:explicit>
+    <copyright>kchr</copyright>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
+    <language>vi</language>
+    <lastBuildDate>Fri, 16 Oct 2020 23:11:12 +0700</lastBuildDate>
+    <itunes:author>catus.phan</itunes:author>
+    <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
+    <pubDate>Thu, 08 Oct 2020 07:00:00 +0700</pubDate>
+    <itunes:category text="Music">
+      <itunes:category text="Music Commentary"/>
+    </itunes:category>
+    <itunes:image href="https://catusf.github.io/radio2podcasts/Kechuyenvahatruchobe.png"/>
+    <itunes:owner>
+      <itunes:name>catus.phan</itunes:name>
+      <itunes:email>catus.phan@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:subtitle>Kể chuyện và hát ru cho bé</itunes:subtitle>
+    <atom:link href="https://catusf.github.io/radio2podcasts/Kechuyenvahatruchobe.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Thỏ con và mặt trăng8/10/2020</title>
+      <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/tho-con-va-mat-trang-c43-31998.aspx</link>
+      <description><![CDATA[Thỏ con vốn ham chơi. Vậy nên đã đến giờ đi ngủ mà bạn ấy vẫn trốn mẹ, lẻn ra ngoài giữa trời đêm. Thật vô cùng nguy hiểm. May thay, có mặt trăng luôn dõi theo và bảo vệ bạn thỏ suốt quãng đường đi... (Kể chuyện và hát ru 07/10/2020)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/tho-con-va-mat-trang-c43-31998.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2020_10/v2_0710_21h45_ke_chuyen_hat_ru_810202022.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 08 Oct 2020 07:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Chàng nông dân tinh khôn  7/10/2020</title>
+      <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/chang-nong-dan-tinh-khon-c43-31994.aspx</link>
+      <description><![CDATA[Ở vùng nọ có cô gái rất xinh đẹp đã đến tuổi gả chồng. Cha của cô là một người giàu có và có tầm ảnh hưởng lớn trong vùng. Ông đưa ra các điều kiện kén rể rất khắt khe. Vậy mà chàng nông dân lại chẳng hề nghĩ đến xuất thân của mình, quyết tâm vượt qua thử thách... (Kể chuyện và hát ru 05/10/2020)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/chang-nong-dan-tinh-khon-c43-31994.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/v2_0510_21h45_ke_chuyen_hat_ru_1_810202022.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 07 Oct 2020 07:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Món quà của rùa 1/10/2020</title>
+      <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/mon-qua-cua-rua-c43-31985.aspx</link>
+      <description><![CDATA[Xưa kia có một cậu bé sống cùng gia  đình ở một vùng đất trũng. Thiên nhiên quanh cậu là những dãy núi, mặt hồ rộng lớn tưởng chừng vô tận và một chú rùa làm bạn. Họ vô cùng thân thiết với nhau, cho tới một ngày chú rùa bỗng dưng biến mất... (Kể chuyện và hát ru 30/10/2020)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/mon-qua-cua-rua-c43-31985.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2020_10/v2_3009_21h45_ke_chuyen_va_hat_ru_110202022.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 01 Oct 2020 07:00:00 +0700</pubDate>
+    </item>
+  </channel>
+</rss>
