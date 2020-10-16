@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Thời sự 21h30</title>
+    <link>http://vov1.vov.vn/thoi-su-21h30-cmobile29.aspx</link>
+    <description>Thời sự 21h30</description>
+    <itunes:explicit>no</itunes:explicit>
+    <copyright>ts22h</copyright>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
+    <language>vi</language>
+    <lastBuildDate>Fri, 16 Oct 2020 23:10:01 +0700</lastBuildDate>
+    <itunes:author>catus.phan</itunes:author>
+    <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
+    <pubDate>Thu, 15 Oct 2020 07:00:00 +0700</pubDate>
+    <itunes:category text="Music">
+      <itunes:category text="Music Commentary"/>
+    </itunes:category>
+    <itunes:image href="https://catusf.github.io/radio2podcasts/Thoisu21h30.png"/>
+    <itunes:owner>
+      <itunes:name>catus.phan</itunes:name>
+      <itunes:email>catus.phan@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:subtitle>Thời sự 21h30</itunes:subtitle>
+    <atom:link href="https://catusf.github.io/radio2podcasts/Thoisu21h30.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>THỜI SỰ 21H30 ĐÊM 15/10/2020: Thủ tướng Chính phủ chia buồn sâu sắc với gia đình các nạn nhân vụ sạt lở đất ở Thừa Thiên Huế</title>
+      <link>http://vov1.vov.vn/thoi-su-21h30/thoi-su-21h30-dem-15102020-thu-tuong-chinh-phu-chia-buon-sau-sac-voi-gia-dinh-c-c29-64388.aspx</link>
+      <description><![CDATA[- Tìm thấy thi thể 13 thành viên trong đoàn công tác gặp nạn tại tiểu khu 67 hôm 12/10.- Thủ tướng Chính phủ Nguyễn Xuân Phúc có Công điện yêu cầu thực hiện tốt chính sách đối với cán bộ, sỹ quan, chiến sỹ và thân nhân những người gặp nạn, chuẩn bị các phương án tổ chức lễ tang trang trọng, chu đáo.- Tỉnh Kiên Giang thông xe kỹ thuật tuyến Lộ Tẻ - Rạch Sỏi.- Hiệp ước Cắt giảm vũ khí tấn công chiến lược mới chưa thống nhất điều khoản gia hạn do Nga - Mỹ bất đồng quan điểm.- Thổ Nhĩ Kỳ tiếp tục gây hấn với Cộng hòa Síp, làm gia tăng căng thẳng quan hệ với Liên minh Châu Âu.]]></description>
+      <guid isPermaLink="false">http://vov1.vov.vn/thoi-su-21h30/thoi-su-21h30-dem-15102020-thu-tuong-chinh-phu-chia-buon-sau-sac-voi-gia-dinh-c-c29-64388.aspx</guid>
+      <enclosure url="http://vov1.vn:1953/vov1/attachments/vov1/hoanglienvov1/2020_10/v1_15_10_21h30_thoi_su_2020_1510202022.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 15 Oct 2020 07:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>THỜI SỰ 21H30 ĐÊM 12/10/2020: Thủ tướng Chính phủ ra Công điện về tập trung khắc phục hậu quả mưa lũ và ứng phó với bão số 7 và áp thấp nhiệt đới.</title>
+      <link>http://vov1.vov.vn/thoi-su-21h30/thoi-su-21h30-dem-12102020-thu-tuong-chinh-phu-ra-cong-dien-ve-tap-trung-khac-p-c29-64314.aspx</link>
+      <description><![CDATA[- Thủ tướng Chính phủ ra Công điện về việc tập trung khắc phục hậu quả mưa lũ và ứng phó với bão số 7 và áp thấp nhiệt đới.- Tỉnh Thừa Thiên Huế đang triển khai nhiều đoàn công tác tiếp cận khu vực có thông tin sạt lở thủy điện Rào Trăng 3, khiến hơn 10 công nhân bị vùi lấp.- Thi thể 1 nạn nhân bị lũ cuốn tại Quảng Bình vừa được tìm thấy sau 3 ngày mất tích.- Nhà máy điện khí tự nhiên hóa lỏng lớn nhất khu vực ĐBSCL sẽ phát điện thương mại vào năm 2024.- Nội các Israel vừa thông qua thỏa thuận bình thường hóa quan hệ với Các Tiểu vương quốc Ả-rập Thống nhất.]]></description>
+      <guid isPermaLink="false">http://vov1.vov.vn/thoi-su-21h30/thoi-su-21h30-dem-12102020-thu-tuong-chinh-phu-ra-cong-dien-ve-tap-trung-khac-p-c29-64314.aspx</guid>
+      <enclosure url="http://vov1.vn:1953/vov1/attachments/vov1/thuhienvov1/v1_12_10_21h30_thoi_su_2020_1210202022.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 12 Oct 2020 07:00:00 +0700</pubDate>
+    </item>
+  </channel>
+</rss>

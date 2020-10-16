@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Thức cùng VOV</title>
+    <link>http://vov1.vov.vn/thuc-cung-vov-cmobile133.aspx</link>
+    <description>Thức cùng VOV</description>
+    <itunes:explicit>no</itunes:explicit>
+    <copyright>tcvov</copyright>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
+    <language>vi</language>
+    <lastBuildDate>Fri, 16 Oct 2020 23:09:51 +0700</lastBuildDate>
+    <itunes:author>catus.phan</itunes:author>
+    <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
+    <pubDate>Thu, 15 Oct 2020 07:00:00 +0700</pubDate>
+    <itunes:category text="Music">
+      <itunes:category text="Music Commentary"/>
+    </itunes:category>
+    <itunes:image href="https://catusf.github.io/radio2podcasts/ThuccungVOV.png"/>
+    <itunes:owner>
+      <itunes:name>catus.phan</itunes:name>
+      <itunes:email>catus.phan@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:subtitle>Thức cùng VOV</itunes:subtitle>
+    <atom:link href="https://catusf.github.io/radio2podcasts/ThuccungVOV.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Chàng trai người Mông biến ước mơ thành hiện thực, xây dựng nên một thương hiệu thổ cẩm cho riêng mình (15/10/2020)</title>
+      <link>http://vov1.vov.vn/chuyen-dem/chang-trai-nguoi-mong-bien-uoc-mo-thanh-hien-thuc-xay-dung-nen-mot-thuong-hieu-c141-64387.aspx</link>
+      <description><![CDATA[Thanh niên luôn là những người tiên phong, dám nghĩ dám làm, đôi khi không sợ thất bại mới có thành công. Và chàng trai Sùng An Bình, người dân tộc Mông cũng vậy. Nhân ngày truyền thống Hội liên hiệp thanh niên Việt Nam, chuyện đêm hôm nay là cuộc trò chuyện với chàng thanh niên trẻ người Mông, dám biến ước mơ thành hiện thực, xây dựng nên một thương hiệu thổ cẩm cho riêng mình.]]></description>
+      <guid isPermaLink="false">http://vov1.vov.vn/chuyen-dem/chang-trai-nguoi-mong-bien-uoc-mo-thanh-hien-thuc-xay-dung-nen-mot-thuong-hieu-c141-64387.aspx</guid>
+      <enclosure url="http://vov1.vn:1953/vov1/attachments/vov1/hoanglienvov1/2020_10/v1_15_10_22h00_chuyen_dem_2020_1510202021.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 15 Oct 2020 07:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Thung lũng Bắc Sơn - “Bức bích họa” về cảnh sắc thiên nhiên và nét văn hóa, ẩm thực độc đáo (13/10/2020)</title>
+      <link>http://vov1.vov.vn/chuong-trinh-thuc-cung-vov/thung-lung-bac-son-buc-bich-hoa-ve-canh-sac-thien-nhien-va-net-van-hoa-am-thuc-c166-64339.aspx</link>
+      <description><![CDATA[- Vì sao những clip nhảm nhí, phản cảm, xấu độc - câu view, kiếm lời lại thu hút sự quan tâm đặc biệt của giới trẻ? Giải pháp nào hạn chế và ngăn chặn?- Viên kim cương màu hồng tím siêu hiếm sắp được bán đấu giá lên tới 38 triệu đô-la Mỹ.- Câu chuyện về một người cha đạp xe chở con gái 4 tuổi đi hơn 4.000 km để mừng sinh nhật.- Đến với thung lũng Bắc Sơn, cảm nhận “bức bích họa” về cảnh sắc thiên nhiên và hòa mình vào không gian sinh hoạt, văn hóa, ẩm thực độc đáo của cư dân bản địa nơi đây.- Cô gái trẻ Trần Thị Ngọc Hân, Giám đốc Công nghệ Giáo dục tại Teky Holding với niềm đam mê môn Tiếng Anh.]]></description>
+      <guid isPermaLink="false">http://vov1.vov.vn/chuong-trinh-thuc-cung-vov/thung-lung-bac-son-buc-bich-hoa-ve-canh-sac-thien-nhien-va-net-van-hoa-am-thuc-c166-64339.aspx</guid>
+      <enclosure url="http://vov1.vn:1953/vov1/attachments/vov1/baongocvov1/2020_10/v1_13_10_22h00_thuc_cung_vov1_2020_1310202021.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 13 Oct 2020 07:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Ông Trần Khắc Thạc – Người đam mê đưa công nghệ thông minh vào cuộc sống (12/10/2020)</title>
+      <link>http://vov1.vov.vn/chuyen-dem/ong-tran-khac-thac-nguoi-dam-me-dua-cong-nghe-thong-minh-vao-cuoc-song-12102020-c141-64318.aspx</link>
+      <description><![CDATA[Là Tiến sỹ Kỹ thuật, với hơn 20 năm kinh nghiệm làm việc trong lĩnh vực quản lý giáo dục và đào tạo, song với niềm đam mê đưa công nghệ thông minh vào cuộc sống, ông Trần Khắc Thạc đã cùng một số cộng sự xây dựng Công ty Cổ phần Phát triển Thương mại và Dịch vụ WeSmart từ năm 2014. Đội ngũ lãnh đạo của WeSmart đã nghiên cứu và phát triển một giải pháp tổng thể Nhà thông minh, để giúp người sử dụng có thể trải nghiệm các tiện ích của công nghệ, giúp cho cuộc sống thông minh hơn. Phóng viên Mai Hạnh trò chuyện với Tiến sỹ Trần Khắc Thạc - Giám đốc Dự án Nhà thông minh WeSmart, Công ty Cổ phần Phát triển Thương mại và Dịch vụ WeSmart - về những đam mê đưa công nghệ thông minh vào cuộc sống:]]></description>
+      <guid isPermaLink="false">http://vov1.vov.vn/chuyen-dem/ong-tran-khac-thac-nguoi-dam-me-dua-cong-nghe-thong-minh-vao-cuoc-song-12102020-c141-64318.aspx</guid>
+      <enclosure url="http://vov1.vn:1953/vov1/attachments/vov1/thuhienvov1/v1_12_10_22h00_chuyen_dem_2020_1210202022.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 12 Oct 2020 07:00:00 +0700</pubDate>
+    </item>
+  </channel>
+</rss>

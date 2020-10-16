@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Quà tặng âm nhạc</title>
+    <link>https://radio.voh.com.vn/qua-tang-am-nhac-394.html</link>
+    <description>Quà tặng âm nhạc trên VOH</description>
+    <itunes:explicit>no</itunes:explicit>
+    <copyright>qtan</copyright>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
+    <language>vi</language>
+    <lastBuildDate>Fri, 16 Oct 2020 23:12:19 +0700</lastBuildDate>
+    <itunes:author>catus.phan</itunes:author>
+    <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
+    <pubDate>Sun, 11 Oct 2020 18:00:00 +0700</pubDate>
+    <itunes:category text="Music">
+      <itunes:category text="Music Commentary"/>
+    </itunes:category>
+    <itunes:image href="https://catusf.github.io/radio2podcasts/Quatangamnhac.png"/>
+    <itunes:owner>
+      <itunes:name>catus.phan</itunes:name>
+      <itunes:email>catus.phan@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:subtitle>Quà tặng âm nhạc trên VOH</itunes:subtitle>
+    <atom:link href="https://catusf.github.io/radio2podcasts/Quatangamnhac.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Bão lũ - Quà tặng âm nhạc 11/10/2020</title>
+      <link>https://radio.voh.com.vn/qua-tang-am-nhac/bao-lu-qua-tang-am-nhac-11-10-2020-380472.html</link>
+      <description><![CDATA[11:00 - 11/10/2020]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/bao-lu-qua-tang-am-nhac-11-10-2020-380472.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/10/11/qtan-111020.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 11 Oct 2020 18:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Thu hát cho người - Quà tặng âm nhạc 4/10/2020</title>
+      <link>https://radio.voh.com.vn/qua-tang-am-nhac/thu-hat-cho-nguoi-qua-tang-am-nhac-4-10-2020-379714.html</link>
+      <description><![CDATA[11:00 - 04/10/2020]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/thu-hat-cho-nguoi-qua-tang-am-nhac-4-10-2020-379714.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/10/04/qtan-041020.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 04 Oct 2020 18:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Trung Thu xuống phố - Quà tặng âm nhạc 27/9/2020</title>
+      <link>https://radio.voh.com.vn/qua-tang-am-nhac/trung-thu-xuong-pho-qua-tang-am-nhac-27-9-2020-378879.html</link>
+      <description><![CDATA[11:00 - 27/09/2020]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/trung-thu-xuong-pho-qua-tang-am-nhac-27-9-2020-378879.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/09/27/QTAN-270920.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 27 Sep 2020 18:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Cho tôi một vé đi tuổi thơ - Quà tặng âm nhạc 20/9/2020</title>
+      <link>https://radio.voh.com.vn/qua-tang-am-nhac/cho-toi-mot-ve-di-tuoi-tho-qua-tang-am-nhac-20-9-2020-378146.html</link>
+      <description><![CDATA[11:00 - 20/09/2020]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/cho-toi-mot-ve-di-tuoi-tho-qua-tang-am-nhac-20-9-2020-378146.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/09/20/qtan200920_20200920185828.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 20 Sep 2020 18:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Hãy sống trong âm nhạc - Quà tặng âm nhạc 13/9/2020</title>
+      <link>https://radio.voh.com.vn/qua-tang-am-nhac/hay-song-trong-am-nhac-qua-tang-am-nhac-13-9-2020-377665.html</link>
+      <description><![CDATA[10:00 - 15/09/2020]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/hay-song-trong-am-nhac-qua-tang-am-nhac-13-9-2020-377665.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/09/16/FMQtan10h00p13092020_20200916094045.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 15 Sep 2020 17:00:00 +0700</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Chuyến đi kỳ thú</title>
+    <link>http://vov2.vov.vn/chuyen-di-ky-thu-cmobile111.aspx</link>
+    <description>Chuyến đi kỳ thú</description>
+    <itunes:explicit>no</itunes:explicit>
+    <copyright>cdkt</copyright>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
+    <language>vi</language>
+    <lastBuildDate>Fri, 16 Oct 2020 23:10:52 +0700</lastBuildDate>
+    <itunes:author>catus.phan</itunes:author>
+    <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
+    <pubDate>Fri, 09 Oct 2020 07:00:00 +0700</pubDate>
+    <itunes:category text="Music">
+      <itunes:category text="Music Commentary"/>
+    </itunes:category>
+    <itunes:image href="https://catusf.github.io/radio2podcasts/Chuyendikythu.png"/>
+    <itunes:owner>
+      <itunes:name>catus.phan</itunes:name>
+      <itunes:email>catus.phan@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:subtitle>Chuyến đi kỳ thú</itunes:subtitle>
+    <atom:link href="https://catusf.github.io/radio2podcasts/Chuyendikythu.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Đêm thiêng liêng 2: Sống như những đóa hoa9/10/2020</title>
+      <link>http://vov2.vov.vn/chuyen-di-ky-thu/dem-thieng-lieng-2-song-nhu-nhung-doa-hoa-c111-35022.aspx</link>
+      <description><![CDATA[Ban Quản lý Di tích Nhà tù Hỏa Lò vừa chính thức ra mắt chương trình tham quan, trải nghiệm “Đêm thiêng liêng 2: Sống như những đóa hoa” để phục vụ du khách khi đến thăm Hà Nội. Chương trình là lời tri ân đối với công lao, đóng góp, sự hy sinh to lớn của các nữ chiến sĩ yêu nước, cách mạng bị bắt giam tại Nhà tù Hỏa Lò giai đoạn 1930-1954...]]></description>
+      <guid isPermaLink="false">http://vov2.vov.vn/chuyen-di-ky-thu/dem-thieng-lieng-2-song-nhu-nhung-doa-hoa-c111-35022.aspx</guid>
+      <enclosure url="http://media.vov2.vn/vov2\attachments/vanhoa/btvvh/2020_10/dem_thieng_lieng_2_910202010.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 09 Oct 2020 07:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Bí ẩn động Ngườm Ngao đất Cao Bằng 7/10/2020</title>
+      <link>http://vov2.vov.vn/chuyen-di-ky-thu/bi-an-dong-nguom-ngao-dat-cao-bang-c111-35012.aspx</link>
+      <description><![CDATA[Động Ngườm Ngao ở bản Gun, xã Đàm Thủy, huyện Trùng Khánh, tỉnh Cao Bằng là một trong những động đẹp nhất Việt Nam. Cũng là thạch nhũ, cũng là cảnh quan đá vôi nhưng vẻ đẹp của Ngườm Ngao rất khác so với những hang động khác....]]></description>
+      <guid isPermaLink="false">http://vov2.vov.vn/chuyen-di-ky-thu/bi-an-dong-nguom-ngao-dat-cao-bang-c111-35012.aspx</guid>
+      <enclosure url="http://media.vov2.vn/vov2\attachments/vanhoa/btvvh/2020_10/v2_0710_06h5010h05_chuyen_di_ky_thu_710202014.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 07 Oct 2020 07:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Cà đắng da trâu: đặc sản Tây Nguyên 2/10/2020</title>
+      <link>http://vov2.vov.vn/chuyen-di-ky-thu/ca-dang-da-trau-dac-san-tay-nguyen-c111-34981.aspx</link>
+      <description><![CDATA[Đến với đại ngàn Tây Nguyên hùng vĩ, bạn sẽ không khỏi trầm trồ về vẻ đẹp hoang sơ và đặc biệt hơn là nền ẩm thực vô cùng phong phú và đặc trưng mà không một vùng nào có được. Một trong những món ăn “nhắc tới là thèm”, niềm tự hào của đại gia đình dân tộc nơi đây chính là cà đắng. Cà đắng có thể chế biến thành nhiều món ăn rất ngon: gỏi cà đắng cá mờm, cà đắng chua ngọt, cà đắng muối… trong đó, món cà đắng om da trâu là món độc đáo nhất.]]></description>
+      <guid isPermaLink="false">http://vov2.vov.vn/chuyen-di-ky-thu/ca-dang-da-trau-dac-san-tay-nguyen-c111-34981.aspx</guid>
+      <enclosure url="http://media.vov2.vn/vov2\attachments/vanhoa/btvvh/2020_10/v2_0210_06h5010h05_chuyen_di_ky_thu_210202013.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 02 Oct 2020 07:00:00 +0700</pubDate>
+    </item>
+  </channel>
+</rss>
