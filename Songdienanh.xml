@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 18 Oct 2020 20:17:22 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2020 21:18:53 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 12 Oct 2020 04:00:00 +0700</pubDate>
+    <pubDate>Mon, 19 Oct 2020 04:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sóng điện ảnh trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Songdienanh.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Phim Hàn nổi bật 9 tháng đầu năm 2020 (Kỳ 4) - Khung hình thứ 25 18/10/2020</title>
+      <link>https://radio.voh.com.vn/song-dien-anh/phim-han-noi-bat-9-thang-dau-nam-2020-ky-4-khung-hinh-thu-25-18-10-2020-381331.html</link>
+      <description><![CDATA[21:00 - 18/10/2020]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/song-dien-anh/phim-han-noi-bat-9-thang-dau-nam-2020-ky-4-khung-hinh-thu-25-18-10-2020-381331.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/10/18/khunghinh-181020.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 19 Oct 2020 04:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Phim Hàn nổi bật 9 tháng đầu năm 2020 (Kỳ 3) - Khung hình thứ 25 11/10/2020</title>
       <link>https://radio.voh.com.vn/song-dien-anh/phim-han-noi-bat-9-thang-dau-nam-2020-ky-3-khung-hinh-thu-25-11-10-2020-380474.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/song-dien-anh/nhung-yeu-to-tao-nen-suc-hut-cua-bo-phim-james-bond-diep-vien-007-khung-hinh-thu-25-20-9-2020-378148.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/09/20/khunghinh200920_20200920190751.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 21 Sep 2020 04:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Giao lưu với đoàn phim web drama Bộ tứ oan gia (Kỳ 2) - Khung hình thứ 25 13/9/2020</title>
-      <link>https://radio.voh.com.vn/song-dien-anh/giao-luu-voi-doan-phim-web-drama-bo-tu-oan-gia-ky-2-khung-hinh-thu-25-13-9-2020-377395.html</link>
-      <description><![CDATA[21:00 - 13/09/2020]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/song-dien-anh/giao-luu-voi-doan-phim-web-drama-bo-tu-oan-gia-ky-2-khung-hinh-thu-25-13-9-2020-377395.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/09/13/KHUNGHINH130920_20200913155450.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 14 Sep 2020 04:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
