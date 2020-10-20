@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 20 Oct 2020 18:17:40 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2020 19:20:54 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 08 Oct 2020 07:00:00 +0700</pubDate>
+    <pubDate>Tue, 20 Oct 2020 07:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Kể chuyện và hát ru cho bé</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Kechuyenvahatruchobe.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Thỏ con và mặt trăng8/10/2020</title>
+      <title>Hoàng tử út trong truyện "Ba chiếc lông chim"20/10/2020</title>
+      <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/hoang-tu-ut-trong-truyen-ba-chiec-long-chim-c43-32027.aspx</link>
+      <description><![CDATA[Chỉ với ba chiếc lông chim, vua cha đã biết được tài đức của ba chàng hoàng tử. Hoàng tử út vốn bị coi là ngốc ngếch được kế vị ngôi báu, trị vì đất nước. Hai người anh của chàng dù ghen tỵ thì cũng không thay đổi được, vì không ai đưa kẻ dối trá lên làm vua cả... (Kể chuyện và hát ru 19/10/2020)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/hoang-tu-ut-trong-truyen-ba-chiec-long-chim-c43-32027.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2020_10/192010_21h45_ke_chuyen_va_hat_ru_2010202018.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Oct 2020 07:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Thỏ con và mặt trăng 8/10/2020</title>
       <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/tho-con-va-mat-trang-c43-31998.aspx</link>
       <description><![CDATA[Thỏ con vốn ham chơi. Vậy nên đã đến giờ đi ngủ mà bạn ấy vẫn trốn mẹ, lẻn ra ngoài giữa trời đêm. Thật vô cùng nguy hiểm. May thay, có mặt trăng luôn dõi theo và bảo vệ bạn thỏ suốt quãng đường đi... (Kể chuyện và hát ru 07/10/2020)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/tho-con-va-mat-trang-c43-31998.aspx</guid>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/chang-nong-dan-tinh-khon-c43-31994.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/v2_0510_21h45_ke_chuyen_hat_ru_1_810202022.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 07 Oct 2020 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Món quà của rùa 1/10/2020</title>
-      <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/mon-qua-cua-rua-c43-31985.aspx</link>
-      <description><![CDATA[Xưa kia có một cậu bé sống cùng gia  đình ở một vùng đất trũng. Thiên nhiên quanh cậu là những dãy núi, mặt hồ rộng lớn tưởng chừng vô tận và một chú rùa làm bạn. Họ vô cùng thân thiết với nhau, cho tới một ngày chú rùa bỗng dưng biến mất... (Kể chuyện và hát ru 30/10/2020)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/mon-qua-cua-rua-c43-31985.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2020_10/v2_3009_21h45_ke_chuyen_va_hat_ru_110202022.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 01 Oct 2020 07:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
