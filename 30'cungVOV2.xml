@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 22 Oct 2020 11:20:40 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2020 12:17:39 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 20 Oct 2020 07:00:00 +0700</pubDate>
+    <pubDate>Wed, 21 Oct 2020 07:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,28 +24,28 @@
     <itunes:subtitle>30' cùng VOV2</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/30'cungVOV2.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Bão lũ dồn dập ở miền Trung: Nhân tai hay thiên tai?20/10/2020</title>
+      <title>Cứu trợ người dân gặp thiên tai - làm sao để hiệu quả cao nhất?21/10/2020</title>
+      <link>http://vov2.vov.vn/30-phut-cung-vov2/cuu-tro-nguoi-dan-gap-thien-tai-lam-sao-de-hieu-qua-cao-nhat-c138-35077.aspx</link>
+      <description><![CDATA[Những ngày qua, khi người dân miền Trung bị thiệt hại do thiên tai, bão lũ, cả hướng đều hướng về khúc ruột của đất nước với các hoạt động từ thiện. Tuy nhiên, rất nhiều người đau đáu trước câu hỏi làm thế nào để công tác cứu trợ người dân gặp thiên tai đạt được hiệu quả cao nhất?]]></description>
+      <guid isPermaLink="false">http://vov2.vov.vn/30-phut-cung-vov2/cuu-tro-nguoi-dan-gap-thien-tai-lam-sao-de-hieu-qua-cao-nhat-c138-35077.aspx</guid>
+      <enclosure url="http://media.vov2.vn/vov2\attachments/doisong/thutrang/2020_10/v2_2110_30_phut_cung_vov2_2110202018.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 21 Oct 2020 07:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Chất lượng và khả năng dự báo thiên tai của nước ta hiện nay như thế nào? 21/10/2020</title>
+      <link>http://vov2.vov.vn/30-phut-cung-vov2/chat-luong-va-kha-nang-du-bao-thien-tai-cua-nuoc-ta-hien-nay-nhu-the-nao-c138-35075.aspx</link>
+      <description><![CDATA[Chất lượng và khả năng dự báo thiên tai của nước ta hiện nay như thế nào? Đó là câu hỏi được đặt ra khi tình trạng ngập lụt ở khu vực miền Trung đang diễn ra rất nghiêm trọng. Nhiều tài sản, hoa màu bị phá hủy. Số người mất tích, tử vong do bão lũ, sạt lở đất đang tăng lên. Liệu có biện pháp dự phòng trước mưa bão nhằm hạn chế thiệt hại hay không?]]></description>
+      <guid isPermaLink="false">http://vov2.vov.vn/30-phut-cung-vov2/chat-luong-va-kha-nang-du-bao-thien-tai-cua-nuoc-ta-hien-nay-nhu-the-nao-c138-35075.aspx</guid>
+      <enclosure url="http://media.vov2.vn/vov2\attachments/talk/btvtalk/2020_10/nang_luc_du_bao_thoi_tiet_2110202015.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 21 Oct 2020 07:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Bão lũ dồn dập ở miền Trung: Nhân tai hay thiên tai? 20/10/2020</title>
       <link>http://vov2.vov.vn/30-phut-cung-vov2/bao-lu-don-dap-o-mien-trung-nhan-tai-hay-thien-tai-c138-35068.aspx</link>
       <description><![CDATA[Những ngày này, liên tiếp những cảnh báo và cả những con số thống kê thiệt hại do mưa lũ, thiên tai gây ra ở miền Trung tràn ngập trên các phương tiện thông tin đại chúng khiến ai cũng cảm thấy nhói lòng. Trước sự dị thường của thiên tai, nhiều người cũng đã bắt đầu hoài nghi đặt câu hỏi, phải chăng đó là sự giận dữ của mẹ thiên nhiên trước hành vi coi thường của con người với môi trường tự nhiên? Sự khốc liệt, dị thường của thời tiết với những hậu quả đau lòng mà người dân đang phải gồng mình gánh chịu chỉ là thiên tai hay còn là nhân tai?]]></description>
       <guid isPermaLink="false">http://vov2.vov.vn/30-phut-cung-vov2/bao-lu-don-dap-o-mien-trung-nhan-tai-hay-thien-tai-c138-35068.aspx</guid>
       <enclosure url="http://media.vov2.vn/vov2\attachments/talk/btvtalk/2020_10/chuyen_hom_nay_1910_2010202016.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 20 Oct 2020 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Xử phạt người ép uống rượu bia: Liệu có khả thi?  12/10/2020</title>
-      <link>http://vov2.vov.vn/30-phut-cung-vov2/xu-phat-nguoi-ep-uong-ruou-bia-lieu-co-kha-thi-c138-35042.aspx</link>
-      <description><![CDATA[Từ ngày 15/11 tới, theo Nghị định 117/2020 (thay thế Nghị định 176/2013) của Chính phủ quy định xử phạt vi phạm hành chính trong lĩnh vực y tế, sẽ phạt tiền từ 500.000 - 1 triệu đồng đối với hành vi xúi giục, kích động, lôi kéo người khác uống rượu bia; phạt tiền từ 1 - 3 triệu đồng đối với hành vi ép buộc người khác uống rượu bia… Dư luận đồng tình khi các sai phạm liên quan đến rượu, bia được luật hóa một cách chi tiết, thế nhưng cũng có không ít băn khoăn. Bởi ngay cả khái niệm thế nào là mời rượu, thế nào là ép rượu… cũng còn rất mơ hồ. Rồi phạt ai, ai phạt? Liệu có khả thi hay không? Hay lại chỉ là “quy định cho có”?]]></description>
-      <guid isPermaLink="false">http://vov2.vov.vn/30-phut-cung-vov2/xu-phat-nguoi-ep-uong-ruou-bia-lieu-co-kha-thi-c138-35042.aspx</guid>
-      <enclosure url="http://media.vov2.vn/vov2\attachments/vanhoa/btvvh/2020_10/up_web_12-10_1210202018.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 12 Oct 2020 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chuyện ở nhà dưỡng lão 9/10/2020</title>
-      <link>http://vov2.vov.vn/30-phut-cung-vov2/chuyen-o-nha-duong-lao-c138-35027.aspx</link>
-      <description><![CDATA[Viện dưỡng lão – một cái tên đã không còn xa lạ trong cuộc sống hiện đại. Ở nơi này niềm vui và nỗi buồn gắn với từng hoàn cảnh, số phận và cuộc đời riêng. Những mảnh ghép ấy tạo nên những thanh âm của cuộc sống...Vào sống ở trại dưỡng lão những ngày cuối đời, có lẽ đến giờ không phải ai cũng dễ dàng chấp nhận. Người Việt vốn theo quan niệm truyền thống, cha mẹ già thì con phải phụng dưỡng, về già sống quây quần bên con cháu...đó mới là hạnh phúc. Nhưng, liệu có bao nhiêu gia đình làm trọn được chữ hiếu theo quan niệm truyền thống này? Và gia đình có phải là sự lựa chọn duy nhất, tốt nhất cho các cụ? Những câu chuyện rất đời, rất thực mà chương trình "30 phút cùng VOV2" chuyển đến quý thính giả sẽ là những lát cắt về cuộc sống ở nơi dành riêng cho người già.]]></description>
-      <guid isPermaLink="false">http://vov2.vov.vn/30-phut-cung-vov2/chuyen-o-nha-duong-lao-c138-35027.aspx</guid>
-      <enclosure url="http://media.vov2.vn/vov2\attachments/talk/btvtalk/vien_duong_lao_up_page_910202017.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 09 Oct 2020 07:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
