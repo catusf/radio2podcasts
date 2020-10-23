@@ -9,10 +9,9 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 23 Oct 2020 16:18:25 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2020 17:20:03 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 02 Oct 2020 07:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,29 +22,5 @@
     </itunes:owner>
     <itunes:subtitle>Giữ gìn sự trong sáng của tiếng Việt</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/SutrongsangcuatiengViet.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>“Lấy muối làm ngon, lấy nước làm sạch, lấy con làm giàu” có ngụ ý gì?2/10/2020</title>
-      <link>http://vov2.vov.vn/giu-gin-su-trong-sang-cua-tieng-viet/lay-muoi-lam-ngon-lay-nuoc-lam-sach-lay-con-lam-giau-co-ngu-y-gi-c83-34987.aspx</link>
-      <description><![CDATA[“Dị hợm” có ý nghĩa là gì? “hợm hĩnh”, “hợm đời” có cùng nghĩa với “dị hợm” ? Có thể hiểu thế nào về câu thành ngữ “Kiến giả nhất phận”? Câu tục ngữ “lấy muối làm ngon, lấy nước làm sạch, lấy con làm giàu” có ngụ ý gì? PGS.TS Phạm Văn Tình - Viện Từ điển học và Bách khoa thư Việt Nam sẽ giải thích về những từ ngữ này.]]></description>
-      <guid isPermaLink="false">http://vov2.vov.vn/giu-gin-su-trong-sang-cua-tieng-viet/lay-muoi-lam-ngon-lay-nuoc-lam-sach-lay-con-lam-giau-co-ngu-y-gi-c83-34987.aspx</guid>
-      <enclosure url="http://media.vov2.vn/vov2\attachments/giaoduc/btvgd/2020_10/v2_273009_06h30_trong_sang_tieng_viet_pl_16h05_210202017.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 02 Oct 2020 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>“sen đầm” hay “sen đầm quốc tế” có ý nghĩa là gì? 25/9/2020</title>
-      <link>http://vov2.vov.vn/giu-gin-su-trong-sang-cua-tieng-viet/sen-dam-hay-sen-dam-quoc-te-co-y-nghia-la-gi-c83-34944.aspx</link>
-      <description><![CDATA[Cụm từ “sen đầm”  có ý nghĩa là gì? Có thể hiểu thế nào về chữ "sen" và chữ "đầm"? Cụm từ “cặp bài trùng” hiện đang được sử dụng có ý nghĩa ra sao?]]></description>
-      <guid isPermaLink="false">http://vov2.vov.vn/giu-gin-su-trong-sang-cua-tieng-viet/sen-dam-hay-sen-dam-quoc-te-co-y-nghia-la-gi-c83-34944.aspx</guid>
-      <enclosure url="http://media.vov2.vn/vov2\attachments/giaoduc/btvgd/2020_9/v2_202309_06h30_trong_sang_tieng_viet_pl_16h05_259202016.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 25 Sep 2020 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>“chỉn chu” hay “chỉnh chu”? 18/9/2020</title>
-      <link>http://vov2.vov.vn/giu-gin-su-trong-sang-cua-tieng-viet/chin-chu-hay-chinh-chu-c83-34894.aspx</link>
-      <description><![CDATA[“khẳng khái” - “khảng khái”, “chẩn đoán” - “chuẩn đoán”, “tri thức” - “trí thức”, “chỉn chu” - “chỉnh chu”.... Chuyên gia Ngôn ngữ, TS Đỗ Anh Vũ cùng quý thính giả tìm hiểu về những từ ngữ này.]]></description>
-      <guid isPermaLink="false">http://vov2.vov.vn/giu-gin-su-trong-sang-cua-tieng-viet/chin-chu-hay-chinh-chu-c83-34894.aspx</guid>
-      <enclosure url="http://media.vov2.vn/vov2\attachments/giaoduc/btvgd/2020_9/v2_131609_06h30_trong_sang_tieng_viet_pl_16h05_189202016.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 18 Sep 2020 07:00:00 +0700</pubDate>
-    </item>
   </channel>
 </rss>

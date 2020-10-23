@@ -9,10 +9,9 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 23 Oct 2020 16:18:17 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2020 17:20:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 22 Oct 2020 07:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,29 +22,5 @@
     </itunes:owner>
     <itunes:subtitle>30' cùng VOV2</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/30'cungVOV2.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Mạng xã hội con dao hai lưỡi với trẻ nhỏ22/10/2020</title>
-      <link>http://vov2.vov.vn/30-phut-cung-vov2/mang-xa-hoi-con-dao-hai-luoi-voi-tre-nho-c138-35080.aspx</link>
-      <description><![CDATA[Thời gian qua, không ít vụ tai nạn thương tích ở trẻ nhỏ mà nguyên nhân được cho là do trẻ học theo những thứ nhảm nhí trên Youtube. Mới đây nhất, vụ việc một bé gái 5 tuổi ở thành phố Hồ Chí Minh tử vong do bắt chước một video trên Youtube đã khiến nhiều người bàng hoàng, đau xót. Vậy làm thế nào để trẻ được an toàn khi sử dụng Youtube nói riêng và mạng xã hội nói chung? Ai sẽ là người phải chịu trách nhiệm khi những vụ việc đau lòng xảy ra với con trẻ?]]></description>
-      <guid isPermaLink="false">http://vov2.vov.vn/30-phut-cung-vov2/mang-xa-hoi-con-dao-hai-luoi-voi-tre-nho-c138-35080.aspx</guid>
-      <enclosure url="http://media.vov2.vn/vov2\attachments/vanhoa/btvvh/2020_10/huyen_up_web_22-10_2210202018.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 22 Oct 2020 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Cứu trợ người dân gặp thiên tai - làm sao để hiệu quả cao nhất? 21/10/2020</title>
-      <link>http://vov2.vov.vn/30-phut-cung-vov2/cuu-tro-nguoi-dan-gap-thien-tai-lam-sao-de-hieu-qua-cao-nhat-c138-35077.aspx</link>
-      <description><![CDATA[Những ngày qua, khi người dân miền Trung bị thiệt hại do thiên tai, bão lũ, cả hướng đều hướng về khúc ruột của đất nước với các hoạt động từ thiện. Tuy nhiên, rất nhiều người đau đáu trước câu hỏi làm thế nào để công tác cứu trợ người dân gặp thiên tai đạt được hiệu quả cao nhất?]]></description>
-      <guid isPermaLink="false">http://vov2.vov.vn/30-phut-cung-vov2/cuu-tro-nguoi-dan-gap-thien-tai-lam-sao-de-hieu-qua-cao-nhat-c138-35077.aspx</guid>
-      <enclosure url="http://media.vov2.vn/vov2\attachments/doisong/thutrang/2020_10/v2_2110_30_phut_cung_vov2_2110202018.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 21 Oct 2020 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chất lượng và khả năng dự báo thiên tai của nước ta hiện nay như thế nào? 21/10/2020</title>
-      <link>http://vov2.vov.vn/30-phut-cung-vov2/chat-luong-va-kha-nang-du-bao-thien-tai-cua-nuoc-ta-hien-nay-nhu-the-nao-c138-35075.aspx</link>
-      <description><![CDATA[Chất lượng và khả năng dự báo thiên tai của nước ta hiện nay như thế nào? Đó là câu hỏi được đặt ra khi tình trạng ngập lụt ở khu vực miền Trung đang diễn ra rất nghiêm trọng. Nhiều tài sản, hoa màu bị phá hủy. Số người mất tích, tử vong do bão lũ, sạt lở đất đang tăng lên. Liệu có biện pháp dự phòng trước mưa bão nhằm hạn chế thiệt hại hay không?]]></description>
-      <guid isPermaLink="false">http://vov2.vov.vn/30-phut-cung-vov2/chat-luong-va-kha-nang-du-bao-thien-tai-cua-nuoc-ta-hien-nay-nhu-the-nao-c138-35075.aspx</guid>
-      <enclosure url="http://media.vov2.vn/vov2\attachments/talk/btvtalk/2020_10/nang_luc_du_bao_thoi_tiet_2110202015.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 21 Oct 2020 07:00:00 +0700</pubDate>
-    </item>
   </channel>
 </rss>

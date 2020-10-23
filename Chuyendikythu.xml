@@ -9,10 +9,9 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 23 Oct 2020 16:18:21 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2020 17:20:01 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 21 Oct 2020 07:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,29 +22,5 @@
     </itunes:owner>
     <itunes:subtitle>Chuyến đi kỳ thú</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Chuyendikythu.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Phở chua Cao Bằng: Món ngon gây thương nhớ21/10/2020</title>
-      <link>http://vov2.vov.vn/chuyen-di-ky-thu/pho-chua-cao-bang-mon-ngon-gay-thuong-nho-c111-35071.aspx</link>
-      <description><![CDATA[Phở chua - món ăn dân dã nhưng người dân Cao Bằng nào cũng cảm thấy tự hào. Món ăn này đã hiện diện trong văn hóa ẩm thực của người dân nơi đây từ rất lâu và trở thành đặc sản khiến thực khách từng thưởng thức là nhớ mãi.]]></description>
-      <guid isPermaLink="false">http://vov2.vov.vn/chuyen-di-ky-thu/pho-chua-cao-bang-mon-ngon-gay-thuong-nho-c111-35071.aspx</guid>
-      <enclosure url="http://media.vov2.vn/vov2\attachments/vanhoa/btvvh/2020_10/v2_2110_06h50_chuyen_di_ky_thu_pl_10h05_211020209.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 21 Oct 2020 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đêm thiêng liêng 2: Sống như những đóa hoa 9/10/2020</title>
-      <link>http://vov2.vov.vn/chuyen-di-ky-thu/dem-thieng-lieng-2-song-nhu-nhung-doa-hoa-c111-35022.aspx</link>
-      <description><![CDATA[Ban Quản lý Di tích Nhà tù Hỏa Lò vừa chính thức ra mắt chương trình tham quan, trải nghiệm “Đêm thiêng liêng 2: Sống như những đóa hoa” để phục vụ du khách khi đến thăm Hà Nội. Chương trình là lời tri ân đối với công lao, đóng góp, sự hy sinh to lớn của các nữ chiến sĩ yêu nước, cách mạng bị bắt giam tại Nhà tù Hỏa Lò giai đoạn 1930-1954...]]></description>
-      <guid isPermaLink="false">http://vov2.vov.vn/chuyen-di-ky-thu/dem-thieng-lieng-2-song-nhu-nhung-doa-hoa-c111-35022.aspx</guid>
-      <enclosure url="http://media.vov2.vn/vov2\attachments/vanhoa/btvvh/2020_10/dem_thieng_lieng_2_910202010.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 09 Oct 2020 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Bí ẩn động Ngườm Ngao đất Cao Bằng 7/10/2020</title>
-      <link>http://vov2.vov.vn/chuyen-di-ky-thu/bi-an-dong-nguom-ngao-dat-cao-bang-c111-35012.aspx</link>
-      <description><![CDATA[Động Ngườm Ngao ở bản Gun, xã Đàm Thủy, huyện Trùng Khánh, tỉnh Cao Bằng là một trong những động đẹp nhất Việt Nam. Cũng là thạch nhũ, cũng là cảnh quan đá vôi nhưng vẻ đẹp của Ngườm Ngao rất khác so với những hang động khác....]]></description>
-      <guid isPermaLink="false">http://vov2.vov.vn/chuyen-di-ky-thu/bi-an-dong-nguom-ngao-dat-cao-bang-c111-35012.aspx</guid>
-      <enclosure url="http://media.vov2.vn/vov2\attachments/vanhoa/btvvh/2020_10/v2_0710_06h5010h05_chuyen_di_ky_thu_710202014.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 07 Oct 2020 07:00:00 +0700</pubDate>
-    </item>
   </channel>
 </rss>
