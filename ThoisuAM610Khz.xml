@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 23 Oct 2020 14:20:46 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2020 15:23:26 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 23 Oct 2020 13:28:00 +0700</pubDate>
+    <pubDate>Fri, 23 Oct 2020 18:31:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Bệnh viện Đại học Y Dược Thành phố hưởng ứng lời kêu gọi của Bộ Y tế - Thời sự 11g00 23/10/2020</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/benh-vien-dai-hoc-y-duoc-thanh-pho-huong-ung-loi-keu-goi-cua-bo-y-te-thoi-su-11g00-23-10-2020-381957.html</link>
+      <description><![CDATA[11:31 - 23/10/2020]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/benh-vien-dai-hoc-y-duoc-thanh-pho-huong-ung-loi-keu-goi-cua-bo-y-te-thoi-su-11g00-23-10-2020-381957.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/10/23/AMThoisu11h00p231020.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 23 Oct 2020 18:31:00 +0700</pubDate>
+    </item>
     <item>
       <title>Ngày làm việc thứ 3 kỳ họp thứ 10 của Quốc hội - Thời sự 5g30 23/10/2020</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/ngay-lam-viec-thu-3-ky-hop-thu-10-cua-quoc-hoi-thoi-su-5g30-23-10-2020-381920.html</link>
@@ -37,14 +45,6 @@
       <description><![CDATA[11:45 - 22/10/2020]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/chuyen-doi-so-tien-de-xay-dung-truong-hoc-thong-minh-thoi-su-11g00-22-10-2020-381811.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/10/22/AMThoisu11h00p221020.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 22 Oct 2020 18:45:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Thực thi nhiệm vụ biên phòng là nhiệm vụ của toàn dân - Thời sự 5g30 22/10/2020</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/thuc-thi-nhiem-vu-bien-phong-la-nhiem-vu-cua-toan-dan-thoi-su-5g30-22-10-2020-381810.html</link>
-      <description><![CDATA[11:45 - 22/10/2020]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/thuc-thi-nhiem-vu-bien-phong-la-nhiem-vu-cua-toan-dan-thoi-su-5g30-22-10-2020-381810.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/10/22/AMThoisu05h30p221020.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 22 Oct 2020 18:45:00 +0700</pubDate>
     </item>
   </channel>
