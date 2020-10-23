@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 23 Oct 2020 10:18:34 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2020 11:21:38 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 15 Oct 2020 07:00:00 +0700</pubDate>
+    <pubDate>Fri, 23 Oct 2020 07:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Đọc truyện đêm khuya</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Doctr.demkhuya.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>"Về làng": Luyến tiếc vẻ đẹp xưa cũ15/10/2020</title>
+      <title>Bên gốc sung già23/10/2020</title>
+      <link>http://vov6.vov.vn/doc-truyen-dem-khuya/ben-goc-sung-gia-c11-32041.aspx</link>
+      <description><![CDATA[Truyện xoay quanh  những vấn đề của lớp trẻ lớn lên ở làng quê nhưng thực chất cũng là xoay quanh câu chuyện của làng xã. Một làng quê, đang trên đà lên phố , dưới tác động của cơ chế thị trường. Sự thay đổi của làng quê đến chóng mặt gắn với những biến cố : Đường nâng cấp, đất mặt đường đội giá, bố Tăng nhượng mảnh vườn. Mảnh đất biến thành chốn nhậu nhẹt, bố Tăng bị tai nạn. Chi sa ngã khi đang học dở dang. Làng chặt hạ cây đa 200 tuổi....v.v và vv]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/doc-truyen-dem-khuya/ben-goc-sung-gia-c11-32041.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2020_10/v2_2210_22h30_doc_truyen_dem_khuya_2310202010.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 23 Oct 2020 07:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>"Về làng": Luyến tiếc vẻ đẹp xưa cũ 15/10/2020</title>
       <link>http://vov6.vov.vn/doc-truyen-dem-khuya/ve-lang-luyen-tiec-ve-dep-xua-cu-c11-32014.aspx</link>
       <description><![CDATA[Câu chuyện được tác giả kể với giọng văn nhẹ nhàng, chân thật pha chút tự giễu qua tự sự của nhân vật Phú. Những mâu thuẫn, xung đột giữa mới và cũ được lồng ghép tự nhiên khiến người đọc, người nghe nhất là người ở thôn quê dễ đồng cảm. Và chắc nhiều người sẽ tự nhủ thầm , giá như làng mình, thôn mình cũng vẫn giữ được nét đẹp như xưa.]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/doc-truyen-dem-khuya/ve-lang-luyen-tiec-ve-dep-xua-cu-c11-32014.aspx</guid>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/doc-truyen-dem-khuya/nang-cuoi-chieu-c11-32005.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/v2_1210_22h30_doc_truyen_dem_khuya_131020208.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 12 Oct 2020 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>"Sai phạm cuối đời": Yêu thương và chia sẻ 9/10/2020</title>
-      <link>http://vov6.vov.vn/doc-truyen-dem-khuya/sai-pham-cuoi-doi-yeu-thuong-va-chia-se-c11-32000.aspx</link>
-      <description><![CDATA[Bùi Hiển từ trước 1945 đã nổi tiếng với những truyện ngắn mang đậm chất sinh hoạt đời thường. Ngòi bút của ông rất có sở trường với những miêu tả chân thực, sống động cuộc sống ở thôn quê. Cho đến truyện ngắn này, ta một lần nữa lại thấy được sự linh hoạt trong bút pháp của ông khi miêu tả cuộc sống của con người ở thành phố. Đặt tên truyện là "Sai phạm cuối đời", sai phạm mà thực ra không hẳn là sai phạm, theo chúng tôi, nhà văn Bùi Hiển muốn mang tới cho độc giả một sự sẻ chia để chúng ta biết đồng cảm và yêu thương nhiều hơn những con người vốn dĩ rất bình dị, chất phác và chân thành trong cuộc sống quanh ta mỗi ngày.]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/doc-truyen-dem-khuya/sai-pham-cuoi-doi-yeu-thuong-va-chia-se-c11-32000.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2020_10/v2_0810_22h30_doc_truyen_dem_khuya_910202015.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 09 Oct 2020 07:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
