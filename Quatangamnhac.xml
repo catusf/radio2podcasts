@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 25 Oct 2020 17:21:08 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2020 18:18:30 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 18 Oct 2020 18:00:00 +0700</pubDate>
+    <pubDate>Sun, 25 Oct 2020 18:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Quà tặng âm nhạc trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Quatangamnhac.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Tuổi thần tiên - Quà tặng âm nhạc 25/10/2020</title>
+      <link>https://radio.voh.com.vn/qua-tang-am-nhac/tuoi-than-tien-qua-tang-am-nhac-25-10-2020-382127.html</link>
+      <description><![CDATA[11:00 - 25/10/2020]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/tuoi-than-tien-qua-tang-am-nhac-25-10-2020-382127.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/10/24/qtan-241020.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 25 Oct 2020 18:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Cảm ơn vẻ đẹp em - Quà tặng âm nhạc 18/10/2020</title>
       <link>https://radio.voh.com.vn/qua-tang-am-nhac/cam-on-ve-dep-em-qua-tang-am-nhac-18-10-2020-381332.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/trung-thu-xuong-pho-qua-tang-am-nhac-27-9-2020-378879.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/09/27/QTAN-270920.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 27 Sep 2020 18:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Cho tôi một vé đi tuổi thơ - Quà tặng âm nhạc 20/9/2020</title>
-      <link>https://radio.voh.com.vn/qua-tang-am-nhac/cho-toi-mot-ve-di-tuoi-tho-qua-tang-am-nhac-20-9-2020-378146.html</link>
-      <description><![CDATA[11:00 - 20/09/2020]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/cho-toi-mot-ve-di-tuoi-tho-qua-tang-am-nhac-20-9-2020-378146.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/09/20/qtan200920_20200920185828.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 20 Sep 2020 18:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
