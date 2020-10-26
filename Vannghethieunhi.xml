@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 26 Oct 2020 08:46:40 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2020 09:22:50 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 21 Oct 2020 07:00:00 +0700</pubDate>
+    <pubDate>Mon, 26 Oct 2020 07:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Văn nghệ thiếu nhi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Vannghethieunhi.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Đi tìm con mắt thơ 21/10/2020</title>
+      <title>Nơi sóng vẫn gọi 26/10/2020</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/noi-song-van-goi-c44-32042.aspx</link>
+      <description><![CDATA[Trang - cô sinh viên trường Y chuẩn bị tốt nghiệp về làm bác sĩ chữa trị cho những người mắc bệnh phong. Sự thấu hiểu và cảm thông sâu sắc với những người bệnh giúp Trang luôn mạnh mẽ, sẵn sàng bảo vệ những con người yếu thế bằng việc làm thiết thực hằng ngày... (Trang văn học tuổi mới lớn 13/10/2020)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/noi-song-van-goi-c44-32042.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2020_10/v2_1310_10h4518h15_van_nghe_thieu_nhi_1_261020208.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 26 Oct 2020 07:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Đi tìm con mắt thơ  21/10/2020</title>
       <link>http://vov6.vov.vn/van-nghe-thieu-nhi/di-tim-con-mat-tho-c44-32034.aspx</link>
       <description><![CDATA[Người xưa từng nói đôi mắt là cửa sổ tâm hồn, soi vào đôi mắt có thể thấy được hồn người, thấy tâm tư ẩn chứa sâu kín bên trong, cái vô thanh không thể nói bằng lời. Trong văn chương nghệ thuật, trong thơ ca cũng vậy. Luôn có những đôi mắt chứa đựng thông điệp của tác phẩm, những nhắn nhủ, tâm tư ký thác... (Văn nghệ thiếu nhi 19/10/2020)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/di-tim-con-mat-tho-c44-32034.aspx</guid>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-khu-vuon-bi-mat-buoi-54-hoi-sinh-c44-32033.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2020_10/v2_1810_10h4518h15_van_nghe_thieu_nhi_2110202018.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 21 Oct 2020 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đọc truyện "Khu vườn bí mật" - Buổi 53 - Vị khách quý  20/10/2020</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-khu-vuon-bi-mat-buoi-53-vi-khach-quy-c44-32029.aspx</link>
-      <description><![CDATA[Một buổi sáng trong lành, Colin ngạc nhiên khi có một vị khách tới thăm mình. Bà Susan, mẹ của Đickon trìu mến hỏi thăm sức khỏe Coin. Sự quan tâm của bà khiến Colin và Mary rất xúc động... (Văn nghệ thiếu nhi 17/10/2020)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-khu-vuon-bi-mat-buoi-53-vi-khach-quy-c44-32029.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2020_10/v2_1710_10h4518h15_van_nghe_thieu_nhi_2010202019.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 20 Oct 2020 07:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
