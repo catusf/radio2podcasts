@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 27 Oct 2020 09:22:53 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2020 23:27:47 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 17 Oct 2020 07:00:00 +0700</pubDate>
+    <pubDate>Tue, 27 Oct 2020 07:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,9 +24,19 @@
     <itunes:subtitle>Điểm hẹn văn nghệ</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Diemhenvannghe.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Hoa sữa tuổi thơ
+
+27/10/2020</title>
+      <link>http://vov6.vov.vn/diem-hen-van-nghe/hoa-sua-tuoi-tho-c158-32053.aspx</link>
+      <description><![CDATA[“Tôi yêu lắm mùa hoa sữa nở/ Hoa rụng ven hè gợi nhớ bước chân qua”...Ca khúc “Hoa sữa tuổi thơ” được nhạc sĩ Đào Quang Minh phổ nhạc từ bài thơ cùng tên của tác giả Đào Trọng Thắng. Giai điệu tha thiết gợi nhớ về tuổi trẻ khi anh dắt tay em đi qua những tuyến phố nồng nàn hương hoa sữa. (Điểm hẹn văn nghệ 10/10/2020)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/hoa-sua-tuoi-tho-c158-32053.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/v2_1010_08h0018h30_diem_hen_van_nghe_2710202020.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 27 Oct 2020 07:00:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Mối tình hơn 70 năm trong phim “Mình ơi, xin đừng qua sông”
 
-17/10/2020</title>
+ 17/10/2020</title>
       <link>http://vov6.vov.vn/diem-hen-van-nghe/moi-tinh-hon-70-nam-trong-phim-minh-oi-xin-dung-qua-song-c158-32016.aspx</link>
       <description><![CDATA[Bộ phim tài liệu của đạo diễn Jin Mo Young từng trở thành hiện tượng của màn ảnh Hàn Quốc kể về cuộc sống của cụ ông Jo Byeong Man 98 tuổi và cụ bà Kang Gye Yeol 89 tuổi  tại vùng núi của tỉnh Gang Won, Hàn Quốc. (Điểm hẹn văn nghệ 26/9/2020)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/moi-tinh-hon-70-nam-trong-phim-minh-oi-xin-dung-qua-song-c158-32016.aspx</guid>
@@ -42,16 +52,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/tieng-noi-nang-do-noi-bo-vo-c158-31931.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2020_9/v2_0509_08h0018h30_diem_hen_van_nghe_89202020.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 08 Sep 2020 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Em gọi mùa thu đi hoang cùng gió
-
- 30/8/2020</title>
-      <link>http://vov6.vov.vn/diem-hen-van-nghe/em-goi-mua-thu-di-hoang-cung-gio-c158-31902.aspx</link>
-      <description><![CDATA[“Anh ủ em vào đâu / Mà mùa thu đứng bên hiên dịu hiền quá đỗi / Hình như anh vẽ em / Bằng đôi mắt tình nhân” (nhạc sĩ Bùi Tiến Thường phổ nhạc bài thơ “Mùa thu” của nhà thơ Vân Anh (Hội viên Hội Nhà văn Việt Nam). (Điểm hẹn văn nghệ 22/8/2020)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/em-goi-mua-thu-di-hoang-cung-gio-c158-31902.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2020_8/v2_2208_08h0018h30_diem_hen_van_nghe_308202021.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 30 Aug 2020 07:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
