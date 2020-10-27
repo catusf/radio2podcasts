@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 27 Oct 2020 08:46:39 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2020 09:22:58 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 23 Oct 2020 07:00:00 +0700</pubDate>
+    <pubDate>Tue, 27 Oct 2020 07:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Đọc truyện đêm khuya</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Doctr.demkhuya.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Bên gốc sung già23/10/2020</title>
+      <title>Chiếc thùng phuy đựng cát27/10/2020</title>
+      <link>http://vov6.vov.vn/doc-truyen-dem-khuya/chiec-thung-phuy-dung-cat-c11-32049.aspx</link>
+      <description><![CDATA[Câu chuyện kể về ông Thanh đi tìm đông đội . Cuối cùng ông vỡ òa trong sung sướng khi biết tin thị đội Quảng Trị đã tìm được hài cốt của hai người lính trong chiếc thùng phuy. Hình ảnh chiếc thùng phuy đựng hài cốt người lính hi sinh và đoàn cựu chiến binh nguồi đầy khoang tàu tìm lại đồng đội khiến người đọc, người nghe nghẹn ngào cảm xúc...]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/doc-truyen-dem-khuya/chiec-thung-phuy-dung-cat-c11-32049.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2020_10/v2_2610_22h30_doc_truyen_dem_khuya_271020209.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 27 Oct 2020 07:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Bên gốc sung già 23/10/2020</title>
       <link>http://vov6.vov.vn/doc-truyen-dem-khuya/ben-goc-sung-gia-c11-32041.aspx</link>
       <description><![CDATA[Truyện xoay quanh  những vấn đề của lớp trẻ lớn lên ở làng quê nhưng thực chất cũng là xoay quanh câu chuyện của làng xã. Một làng quê, đang trên đà lên phố , dưới tác động của cơ chế thị trường. Sự thay đổi của làng quê đến chóng mặt gắn với những biến cố : Đường nâng cấp, đất mặt đường đội giá, bố Tăng nhượng mảnh vườn. Mảnh đất biến thành chốn nhậu nhẹt, bố Tăng bị tai nạn. Chi sa ngã khi đang học dở dang. Làng chặt hạ cây đa 200 tuổi....v.v và vv]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/doc-truyen-dem-khuya/ben-goc-sung-gia-c11-32041.aspx</guid>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/doc-truyen-dem-khuya/ve-lang-luyen-tiec-ve-dep-xua-cu-c11-32014.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/v2_1510_22h30_doc_truyen_dem_khuya_161020209.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 15 Oct 2020 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Nắng cuối chiều  12/10/2020</title>
-      <link>http://vov6.vov.vn/doc-truyen-dem-khuya/nang-cuoi-chieu-c11-32005.aspx</link>
-      <description><![CDATA[Đây là truyện ngắn có lối viết không giống như những truyện ngắn được kể, được viết thông thường. Đó là một lối viết tự sự. Cả truyện ngắn không một mẩu đối thoại, song không kém phần hấp dẫn, dẫn dụ người đọc người nghe mong muốn hiểu hơn và đồng cảm hơn với một con người. Từ đó mà chiêm nghiệm, rằng con người có tham vọng thế nào, hoài bão đến đâu thì trước thiên nhiên vẫn rất nhỏ bé, vậy nên hãy gắng sống khiêm nhường, với mình, với người xung quanh và với cả xã hội. Rằng con người có thể dùng tiểu xảo để che mắt thế gian chứ không thể che giấu được lòng mình, vậy nên hãy sống trung thực, và trước tiên hãy trung thực với chính mình.]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/doc-truyen-dem-khuya/nang-cuoi-chieu-c11-32005.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/v2_1210_22h30_doc_truyen_dem_khuya_131020208.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 12 Oct 2020 07:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
