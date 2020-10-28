@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 28 Oct 2020 05:21:35 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2020 06:19:26 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 27 Oct 2020 00:45:00 +0700</pubDate>
+    <pubDate>Tue, 27 Oct 2020 19:22:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Khai mạc VCK cuộc thi Tài năng sân khấu diễn viên cải lương Trần Hữu Trang- Thời sự 11g00 27/10/2020</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/khai-mac-vck-cuoc-thi-tai-nang-san-khau-dien-vien-cai-luong-tran-huu-trang-thoi-su-11g00-27-10-2020-382358.html</link>
+      <description><![CDATA[12:22 - 27/10/2020]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/khai-mac-vck-cuoc-thi-tai-nang-san-khau-dien-vien-cai-luong-tran-huu-trang-thoi-su-11g00-27-10-2020-382358.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/10/27/AMThoisu11h00p271020.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 27 Oct 2020 19:22:00 +0700</pubDate>
+    </item>
     <item>
       <title>Trạm cấp cứu vệ tinh phát huy hiệu quả mạng lưới cấp cứu ngoài bệnh viện! - Thời sự 11g00 26/10/2020</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tram-cap-cuu-ve-tinh-phat-huy-hieu-qua-mang-luoi-cap-cuu-ngoai-benh-vien-thoi-su-11g00-26-10-2020-382307.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/mien-trung-len-phuong-an-so-tan-dan-doi-pho-bao-so-9-thoi-su-17g00-26-10-2020-382306.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/10/26/ts17g-261020.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 27 Oct 2020 00:45:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Cải cách hành chính tại TPHCM: Tạo niềm tin và sự hài lòng cho nhân dân - Thời sự 05g30 26/10/2020</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/cai-cach-hanh-chinh-tai-tphcm-tao-niem-tin-va-su-hai-long-cho-nhan-dan-thoi-su-05g30-26-10-2020-382229.html</link>
-      <description><![CDATA[06:00 - 26/10/2020]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/cai-cach-hanh-chinh-tai-tphcm-tao-niem-tin-va-su-hai-long-cho-nhan-dan-thoi-su-05g30-26-10-2020-382229.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/10/26/ts0530-261020.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 26 Oct 2020 13:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
