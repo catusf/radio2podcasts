@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 28 Oct 2020 10:19:44 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2020 21:21:01 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 27 Oct 2020 07:00:00 +0700</pubDate>
+    <pubDate>Wed, 28 Oct 2020 07:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Văn nghệ thiếu nhi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Vannghethieunhi.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Đọc truyện "Dế mèn phiêu lưu ký" - Buổi đầu tiên - Tiểu sử Dế Mèn 27/10/2020</title>
+      <title>Tình huống truyện trong tác phẩm tự sự 28/10/2020</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/tinh-huong-truyen-trong-tac-pham-tu-su-c44-32055.aspx</link>
+      <description><![CDATA[Tình huống truyện trong tác phẩm tự sự là một trong những phương diện khá quan trọng. Nắm bắt được tình huống truyện, nhận thức được ý nghĩa của nó trong việc chuyển tải nội dung tác phẩm là yêu cầu của việc đọc hiểu văn bản... (Văn nghệ thiếu nhi 26/10/2020)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/tinh-huong-truyen-trong-tac-pham-tu-su-c44-32055.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2020_10/v2_2610_10h45_van_nghe_thieu_nhi_2810202015.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 28 Oct 2020 07:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Đọc truyện "Dế mèn phiêu lưu ký" - Buổi đầu tiên - Tiểu sử Dế Mèn  27/10/2020</title>
       <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-de-men-phieu-luu-ky-buoi-dau-tien-tieu-su-de-men-c44-32051.aspx</link>
       <description><![CDATA[Từ khi tác phẩm ra đời, không chỉ các bạn nhỏ mà ngay cả người lớn cũng say mê, cuốn hút vào từng trang truyện. Nhân vật Dế Mèn can đảm, trượng nghĩa nhưng có phần kiêu căng, hiếu thắng. Qua thời gian, qua những bước phiêu lưu, Dế Mèn trưởng thành dần lên, với biết bao trải nghiệm thú vị... (Văn nghệ thiếu nhi 25/10/2020)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-de-men-phieu-luu-ky-buoi-dau-tien-tieu-su-de-men-c44-32051.aspx</guid>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/ve-tranh-ve-thanh-pho-xanh-tuong-lai-c44-32050.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2020_10/v2_2110_10h4518h15_van_nghe_thieu_nhi_2710202011.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 27 Oct 2020 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đọc truyện "Khu vườn bí mật" - Buổi 56 - Happy ending 26/10/2020</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-khu-vuon-bi-mat-buoi-56-happy-ending-c44-32048.aspx</link>
-      <description><![CDATA[Niềm hạnh phúc tột cùng của ông Craven là khi ông nhận ra đứa con trai vốn tật nguyền đau ốm của mình nay đã mạnh khỏe, tự đi trên đôi chân của mình. Colin vui vẻ, hoạt bát và yêu đời, đặc biệt cậu yêu thích khu vườn, nơi đó lưu giữ những kỷ niệm về gia đình, về những người bạn thân thiết. Họ sống chan hòa với thiên nhiên trong không gian đầy hoa và những bí mật diệu kỳ mà mỗi ngày, Colin và các bạn đang khám phá trong niềm thích thú say mê... (Văn nghệ thiếu nhi 24/10/2020)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-khu-vuon-bi-mat-buoi-56-happy-ending-c44-32048.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/v2_2410_10h45_van_nghe_thieu_nhi_hc_2610202016.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 26 Oct 2020 07:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
