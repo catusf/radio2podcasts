@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 29 Oct 2020 13:22:45 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2020 14:21:19 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 29 Oct 2020 00:09:00 +0700</pubDate>
+    <pubDate>Thu, 29 Oct 2020 19:57:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Sài Gòn Buổi Sáng - 29/10/2020</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-29-10-2020-382626.html</link>
+      <description><![CDATA[12:57 - 29/10/2020]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-29-10-2020-382626.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/10/29/FMSGBS06h00p291020.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 29 Oct 2020 19:57:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Sài Gòn buổi sáng - 28/10/2020</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-28-10-2020-382537.html</link>
       <description><![CDATA[17:09 - 28/10/2020]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-28-10-2020-382537.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/10/28/FMSGBS06h00p281020-Lan2.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 29 Oct 2020 00:09:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Sài Gòn buổi sáng 27/10/2020</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-27-10-2020-382362.html</link>
-      <description><![CDATA[12:22 - 27/10/2020]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-27-10-2020-382362.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/10/27/FMSGBS06h00p271020.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 27 Oct 2020 19:22:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
