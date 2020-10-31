@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 29 Oct 2020 14:19:59 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2020 23:19:08 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 27 Oct 2020 07:00:00 +0700</pubDate>
+    <pubDate>Wed, 28 Oct 2020 07:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Đọc truyện đêm khuya</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Doctr.demkhuya.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Chiếc thùng phuy đựng cát27/10/2020</title>
+      <title>“Bạn cùng quê”: Phác họa bức tranh quê28/10/2020</title>
+      <link>http://vov6.vov.vn/doc-truyen-dem-khuya/ban-cung-que-phac-hoa-buc-tranh-que-c11-32056.aspx</link>
+      <description><![CDATA[Truyện phản ánh chân thực bức tranh làng quê với những đổi thay mà hậu quả của việc xây dựng những khu công nghiệp, nhà máy…gây ra nhiều tổn thất mà người dân phải hứng chịu. Chính quyền các cấp loay hoay với nhiều phương án xử lý trong khi những cán bộ như Hán đã kịp thay đổi vị trí khi có điều kiện. Một nỗi buồn xâm chiếm tâm can người đọc, người nghe với những câu hỏi chưa có lời đáp…]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/doc-truyen-dem-khuya/ban-cung-que-phac-hoa-buc-tranh-que-c11-32056.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/v2_2910_22h30_doc_truyen_dem_khuya_3010202011.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 28 Oct 2020 07:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Chiếc thùng phuy đựng cát 27/10/2020</title>
       <link>http://vov6.vov.vn/doc-truyen-dem-khuya/chiec-thung-phuy-dung-cat-c11-32049.aspx</link>
       <description><![CDATA[Câu chuyện kể về ông Thanh đi tìm đông đội . Cuối cùng ông vỡ òa trong sung sướng khi biết tin thị đội Quảng Trị đã tìm được hài cốt của hai người lính trong chiếc thùng phuy. Hình ảnh chiếc thùng phuy đựng hài cốt người lính hi sinh và đoàn cựu chiến binh nguồi đầy khoang tàu tìm lại đồng đội khiến người đọc, người nghe nghẹn ngào cảm xúc...]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/doc-truyen-dem-khuya/chiec-thung-phuy-dung-cat-c11-32049.aspx</guid>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/doc-truyen-dem-khuya/ben-goc-sung-gia-c11-32041.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2020_10/v2_2210_22h30_doc_truyen_dem_khuya_2310202010.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 23 Oct 2020 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>"Về làng": Luyến tiếc vẻ đẹp xưa cũ 15/10/2020</title>
-      <link>http://vov6.vov.vn/doc-truyen-dem-khuya/ve-lang-luyen-tiec-ve-dep-xua-cu-c11-32014.aspx</link>
-      <description><![CDATA[Câu chuyện được tác giả kể với giọng văn nhẹ nhàng, chân thật pha chút tự giễu qua tự sự của nhân vật Phú. Những mâu thuẫn, xung đột giữa mới và cũ được lồng ghép tự nhiên khiến người đọc, người nghe nhất là người ở thôn quê dễ đồng cảm. Và chắc nhiều người sẽ tự nhủ thầm , giá như làng mình, thôn mình cũng vẫn giữ được nét đẹp như xưa.]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/doc-truyen-dem-khuya/ve-lang-luyen-tiec-ve-dep-xua-cu-c11-32014.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/v2_1510_22h30_doc_truyen_dem_khuya_161020209.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 15 Oct 2020 07:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
