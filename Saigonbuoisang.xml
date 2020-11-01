@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 01 Nov 2020 17:15:23 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2020 18:12:48 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 31 Oct 2020 15:09:00 +0700</pubDate>
+    <pubDate>Sun, 01 Nov 2020 18:58:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Sài Gòn buổi sáng - 1/11/2020</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-1-11-2020-382950.html</link>
+      <description><![CDATA[11:58 - 01/11/2020]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-1-11-2020-382950.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/11/01/FMSaigonbuoisang06h00p011120sss.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 01 Nov 2020 18:58:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Tạp chí cuối tuần - Sài Gòn buổi sáng 31/10/2020</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/tap-chi-cuoi-tuan-sai-gon-buoi-sang-31-10-2020-382863.html</link>
       <description><![CDATA[08:09 - 31/10/2020]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/tap-chi-cuoi-tuan-sai-gon-buoi-sang-31-10-2020-382863.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/10/31/FMSaigonbuoisang06h00p311020.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 31 Oct 2020 15:09:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Vụ sạt lở tại Nam Trà My: đã cứu được 36 người - Sài Gòn buổi sáng 30/10/2020</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/vu-sat-lo-tai-nam-tra-my-da-cuu-duoc-36-nguoi-sai-gon-buoi-sang-30-10-2020-382760.html</link>
-      <description><![CDATA[10:44 - 30/10/2020]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/vu-sat-lo-tai-nam-tra-my-da-cuu-duoc-36-nguoi-sai-gon-buoi-sang-30-10-2020-382760.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/10/30/FMSGBS06h00p301020-Copy.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 30 Oct 2020 17:44:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
