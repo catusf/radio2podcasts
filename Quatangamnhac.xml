@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 02 Nov 2020 02:11:55 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2020 23:23:46 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 25 Oct 2020 18:00:00 +0700</pubDate>
+    <pubDate>Sun, 01 Nov 2020 18:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Quà tặng âm nhạc trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Quatangamnhac.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Đường về miền Trung - Quà tặng âm nhạc 1/11/2020</title>
+      <link>https://radio.voh.com.vn/qua-tang-am-nhac/duong-ve-mien-trung-qua-tang-am-nhac-1-11-2020-382995.html</link>
+      <description><![CDATA[11:00 - 01/11/2020]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/duong-ve-mien-trung-qua-tang-am-nhac-1-11-2020-382995.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/11/01/qtan-01112020.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 01 Nov 2020 18:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Tuổi thần tiên - Quà tặng âm nhạc 25/10/2020</title>
       <link>https://radio.voh.com.vn/qua-tang-am-nhac/tuoi-than-tien-qua-tang-am-nhac-25-10-2020-382127.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/thu-hat-cho-nguoi-qua-tang-am-nhac-4-10-2020-379714.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/10/04/qtan-041020.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 04 Oct 2020 18:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Trung Thu xuống phố - Quà tặng âm nhạc 27/9/2020</title>
-      <link>https://radio.voh.com.vn/qua-tang-am-nhac/trung-thu-xuong-pho-qua-tang-am-nhac-27-9-2020-378879.html</link>
-      <description><![CDATA[11:00 - 27/09/2020]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/trung-thu-xuong-pho-qua-tang-am-nhac-27-9-2020-378879.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/09/27/QTAN-270920.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 27 Sep 2020 18:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
