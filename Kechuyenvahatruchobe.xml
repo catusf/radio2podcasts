@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 03 Nov 2020 10:13:08 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2020 11:16:40 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 01 Nov 2020 07:00:00 +0700</pubDate>
+    <pubDate>Tue, 03 Nov 2020 07:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Kể chuyện và hát ru cho bé</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Kechuyenvahatruchobe.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Tình bạn của Cóc Tía và Sóc Bông Lau 1/11/2020</title>
+      <title>Tình cảm gia đình trong truyện "Nhà Lừ đi tìm cha mẹ"3/11/2020</title>
+      <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/tinh-cam-gia-dinh-trong-truyen-nha-lu-di-tim-cha-me-c43-32069.aspx</link>
+      <description><![CDATA[Gia đình là mái ấm có cha mẹ và người thân yêu. Tình cảm gia đình sẽ giúp con người vượt qua những khó khăn, thử thách của cuộc sống. Và chàng trai người dân tộc Mông tên là Nhà Lừ đã có cuộc phiêu lưu kỳ lạ để đi tìm cha mẹ của mình... (Kể chuyện và hát ru 02/11/2020)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/tinh-cam-gia-dinh-trong-truyen-nha-lu-di-tim-cha-me-c43-32069.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2020_11/v2_0211_21h45_ke_truyen_va_hat_ru_311202010.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 03 Nov 2020 07:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Tình bạn của Cóc Tía và Sóc Bông Lau  1/11/2020</title>
       <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/tinh-ban-cua-coc-tia-va-soc-bong-lau-c43-32063.aspx</link>
       <description><![CDATA[Cóc Tía và Sóc Bông Lau là bạn thân của nhau. Chính vì thân thiết nên hai bạn luôn nghĩ ra những trò chơi vô cùng thú vị. Ví dụ như ai ghép được nhiều từ nhất, ai kêu được lâu nhất, và ai là người giữ im lặng được lâu nhất. Phần thắng sẽ nghiêng về bên nào nhỉ? (Kể chuyện và hát ru cho bé 30/10/2020)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/tinh-ban-cua-coc-tia-va-soc-bong-lau-c43-32063.aspx</guid>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/truyen-co-tich-ve-chu-cho-trung-thanh-c43-32062.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2020_11/v2_2810_21h45_ke_chuyen_va_hat_ru_111202016.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 01 Nov 2020 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Bài học bình tĩnh từ một quả táo  29/10/2020</title>
-      <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/bai-hoc-binh-tinh-tu-mot-qua-tao-c43-32061.aspx</link>
-      <description><![CDATA[Thỏ, Nhím và Quạ không chịu nhường nhịn nhau một quả táo. Con nào cũng cho rằng mình đã nhìn thấy trước, chẳng hề lắng nghe nhau. Vậy ai sẽ đứng ra phân xử cho chúng đây? (Kể chuyện và hát ru 26/10/2020)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/bai-hoc-binh-tinh-tu-mot-qua-tao-c43-32061.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2020_10/v2_2610_21h45_ke_chuyen_va_hat_ru_2910202020.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 29 Oct 2020 07:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
