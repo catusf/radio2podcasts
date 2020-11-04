@@ -9,14 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-<<<<<<< HEAD
-    <lastBuildDate>Wed, 04 Nov 2020 17:53:33 +0700</lastBuildDate>
-=======
-    <lastBuildDate>Wed, 04 Nov 2020 18:13:04 +0700</lastBuildDate>
->>>>>>> a15f7bbbc0cd460072621683f55c78ebdfc9dc4d
+    <lastBuildDate>Wed, 04 Nov 2020 18:52:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 01 Nov 2020 21:00:00 +0700</pubDate>
+    <pubDate>Mon, 02 Nov 2020 04:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -33,7 +29,7 @@
       <description><![CDATA[21:00 - 01/11/2020]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/khung-hinh-thu-25/giao-luu-cung-doan-phim-tiec-trang-mau-ky-2-khung-hinh-thu-25-1-11-2020-382997.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/11/01/khunghinh-011120.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 01 Nov 2020 21:00:00 +0700</pubDate>
+      <pubDate>Mon, 02 Nov 2020 04:00:00 +0700</pubDate>
     </item>
     <item>
       <title>Giao lưu cùng đoàn phim Tiệc trăng máu (Kỳ 1) - Khung hình thứ 25 27/10/2020</title>
@@ -41,7 +37,7 @@
       <description><![CDATA[22:00 - 27/10/2020]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/khung-hinh-thu-25/giao-luu-cung-doan-phim-tiec-trang-mau-ky-1-khung-hinh-thu-25-27-10-2020-382522.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/10/28/khunghinh-271020.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 27 Oct 2020 22:00:00 +0700</pubDate>
+      <pubDate>Wed, 28 Oct 2020 05:00:00 +0700</pubDate>
     </item>
     <item>
       <title>Phim Hàn nổi bật 9 tháng đầu năm 2020 (Kỳ 4) - Khung hình thứ 25 18/10/2020</title>
@@ -49,7 +45,7 @@
       <description><![CDATA[21:00 - 18/10/2020]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/khung-hinh-thu-25/phim-han-noi-bat-9-thang-dau-nam-2020-ky-4-khung-hinh-thu-25-18-10-2020-381331.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/10/21/FMKhunghinhthuhaimuoilam20h00p201020.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 18 Oct 2020 21:00:00 +0700</pubDate>
+      <pubDate>Mon, 19 Oct 2020 04:00:00 +0700</pubDate>
     </item>
     <item>
       <title>Phim Hàn nổi bật 9 tháng đầu năm 2020 (Kỳ 3) - Khung hình thứ 25 11/10/2020</title>
@@ -57,7 +53,7 @@
       <description><![CDATA[21:00 - 11/10/2020]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/khung-hinh-thu-25/phim-han-noi-bat-9-thang-dau-nam-2020-ky-3-khung-hinh-thu-25-11-10-2020-380474.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/10/11/khung-hinh.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 11 Oct 2020 21:00:00 +0700</pubDate>
+      <pubDate>Mon, 12 Oct 2020 04:00:00 +0700</pubDate>
     </item>
     <item>
       <title>Phim Hàn nổi bật 9 tháng đầu năm 2020 (Kỳ 2) - Khung hình thứ 25 4/10/2020</title>
@@ -65,7 +61,7 @@
       <description><![CDATA[21:00 - 04/10/2020]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/khung-hinh-thu-25/phim-han-noi-bat-9-thang-dau-nam-2020-ky-2-khung-hinh-thu-25-4-10-2020-379713.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/10/04/khunghinh-041020.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 04 Oct 2020 21:00:00 +0700</pubDate>
+      <pubDate>Mon, 05 Oct 2020 04:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

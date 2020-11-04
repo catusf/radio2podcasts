@@ -9,14 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-<<<<<<< HEAD
-    <lastBuildDate>Wed, 04 Nov 2020 17:53:43 +0700</lastBuildDate>
-=======
-    <lastBuildDate>Wed, 04 Nov 2020 18:13:32 +0700</lastBuildDate>
->>>>>>> a15f7bbbc0cd460072621683f55c78ebdfc9dc4d
+    <lastBuildDate>Wed, 04 Nov 2020 18:52:27 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 30 Oct 2020 09:06:00 +0700</pubDate>
+    <pubDate>Fri, 30 Oct 2020 16:06:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -33,7 +29,7 @@
       <description><![CDATA[09:06 - 30/10/2020]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/top-10-ca-khuc-quoc-te/top-ten-30-10-2020-382602.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/10/29/FMTopten01h30p301020.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 30 Oct 2020 09:06:00 +0700</pubDate>
+      <pubDate>Fri, 30 Oct 2020 16:06:00 +0700</pubDate>
     </item>
     <item>
       <title>Top ten - 23/10/2020</title>
@@ -41,7 +37,7 @@
       <description><![CDATA[10:08 - 23/10/2020]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/top-10-ca-khuc-quoc-te/top-ten-23-10-2020-381674.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/10/21/FMTopten01h30p231020.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 23 Oct 2020 10:08:00 +0700</pubDate>
+      <pubDate>Fri, 23 Oct 2020 17:08:00 +0700</pubDate>
     </item>
     <item>
       <title>Top ten - 16/10/2020</title>
@@ -49,7 +45,7 @@
       <description><![CDATA[08:59 - 16/10/2020]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/top-10-ca-khuc-quoc-te/top-ten-16-10-2020-381113.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/10/16/FMTopten01h30p161020.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 16 Oct 2020 08:59:00 +0700</pubDate>
+      <pubDate>Fri, 16 Oct 2020 15:59:00 +0700</pubDate>
     </item>
     <item>
       <title>Top ten - 9/10/2020</title>
@@ -57,7 +53,7 @@
       <description><![CDATA[19:44 - 09/10/2020]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/top-10-ca-khuc-quoc-te/top-ten-9-10-2020-380073.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/10/07/FMTopten01h30p091020.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 09 Oct 2020 19:44:00 +0700</pubDate>
+      <pubDate>Sat, 10 Oct 2020 02:44:00 +0700</pubDate>
     </item>
     <item>
       <title>Top ten - 2/10/2020</title>
@@ -65,7 +61,7 @@
       <description><![CDATA[08:41 - 02/10/2020]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/top-10-ca-khuc-quoc-te/top-ten-2-10-2020-379357.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/10/01/FMTopten01h30p021020.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 02 Oct 2020 08:41:00 +0700</pubDate>
+      <pubDate>Fri, 02 Oct 2020 15:41:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
