@@ -1,0 +1,347 @@
+{
+  "podcasts": {
+    "host": "https://radio2podcasts.s3-ap-southeast-1.amazonaws.com/",
+    "bucket_name": "radio2podcasts",
+    "podcast_ext": ".xml",
+    "name": "catusf",
+    "email": "catus.phan@gmail.com"
+  },
+  "websites": {
+    "PPUD": {
+      "home": "https://phatphapungdung.com/sach-noi/",
+      "name": "Sách nói - Phật pháp ứng dụng",
+      "function": null,
+      "programs": {
+        "tct": {
+          "url": "https://phatphapungdung.com/sach-noi/sach-noi-tong-hop/truyen-co-tich",
+          "title": "Truyện cổ tích",
+          "subtitle": "Trang 1",
+          "cover": "",
+          "no": 100
+        },
+        "hg1": {
+          "url": "https://phatphapungdung.com/sach-noi/hat-giong-tam-hon",
+          "title": "① Hạt giống tâm hồn",
+          "subtitle": "Trang 1",
+          "cover": "",
+          "no": 100
+        },
+        "hg2": {
+          "url": "https://phatphapungdung.com/sach-noi/hat-giong-tam-hon/page/2",
+          "title": "② Hạt giống tâm hồn",
+          "subtitle": "Trang 2",
+          "cover": "",
+          "no": 200
+        },
+        "hg3": {
+          "url": "https://phatphapungdung.com/sach-noi/hat-giong-tam-hon/page/3",
+          "title": "③ Hạt giống tâm hồn",
+          "subtitle": "Trang 3",
+          "cover": "",
+          "no": 300
+        },
+        "hg4": {
+          "url": "https://phatphapungdung.com/sach-noi/hat-giong-tam-hon/page/4",
+          "title": "④ Hạt giống tâm hồn",
+          "subtitle": "Trang 4",
+          "cover": "",
+          "no": 400
+        },
+        "hg5": {
+          "url": "https://phatphapungdung.com/sach-noi/hat-giong-tam-hon/page/5",
+          "title": "⑤ Hạt giống tâm hồn",
+          "subtitle": "Trang 5",
+          "cover": "",
+          "no": 500
+        },
+        "hg6": {
+          "url": "https://phatphapungdung.com/sach-noi/hat-giong-tam-hon/page/6",
+          "title": "⑥ Hạt giống tâm hồn",
+          "subtitle": "Trang 6",
+          "cover": "",
+          "no": 600
+        },
+        "hg7": {
+          "url": "https://phatphapungdung.com/sach-noi/hat-giong-tam-hon/page/7",
+          "title": "⑦ Hạt giống tâm hồn",
+          "subtitle": "Trang 7",
+          "cover": "",
+          "no": 700
+        },
+        "hg8": {
+          "url": "https://phatphapungdung.com/sach-noi/hat-giong-tam-hon/page/8",
+          "title": "⑧ Hạt giống tâm hồn",
+          "subtitle": "Trang 8",
+          "cover": "",
+          "no": 800
+        },
+        "hg9": {
+          "url": "https://phatphapungdung.com/sach-noi/hat-giong-tam-hon/page/9",
+          "title": "⑨ Hạt giống tâm hồn",
+          "subtitle": "Trang 9",
+          "cover": "",
+          "no": 900
+        },
+        "hg10": {
+          "url": "https://phatphapungdung.com/sach-noi/hat-giong-tam-hon/page/10",
+          "title": "⑩ Hạt giống tâm hồn",
+          "subtitle": "Trang 10",
+          "cover": "",
+          "no": 1000
+        },
+        "hg11": {
+          "url": "https://phatphapungdung.com/sach-noi/hat-giong-tam-hon/page/11",
+          "title": "⑪ Hạt giống tâm hồn",
+          "subtitle": "Trang 11",
+          "cover": "",
+          "no": 1100
+        },
+        "hg12": {
+          "url": "https://phatphapungdung.com/sach-noi/hat-giong-tam-hon/page/12",
+          "title": "⑫ Hạt giống tâm hồn",
+          "subtitle": "Trang 12",
+          "cover": "",
+          "no": 1200
+        },
+        "hg13": {
+          "url": "https://phatphapungdung.com/sach-noi/hat-giong-tam-hon/page/13",
+          "title": "⑬ Hạt giống tâm hồn",
+          "subtitle": "Trang 13",
+          "cover": "",
+          "no": 1300
+        },
+        "hg14": {
+          "url": "https://phatphapungdung.com/sach-noi/hat-giong-tam-hon/page/14",
+          "title": "⑭ Hạt giống tâm hồn",
+          "subtitle": "Trang 14",
+          "cover": "",
+          "no": 1400
+        },
+        "hg15": {
+          "url": "https://phatphapungdung.com/sach-noi/hat-giong-tam-hon/page/15",
+          "title": "⑮ Hạt giống tâm hồn",
+          "subtitle": "Trang 154",
+          "cover": "",
+          "no": 15400
+        },
+        "tt1": {
+          "url": "https://phatphapungdung.com/sach-noi/tieu-thuyet-audio",
+          "title": "① Tiểu thuyết",
+          "subtitle": "Trang 1",
+          "cover": "",
+          "no": 100
+        },
+        "tt2": {
+          "url": "https://phatphapungdung.com/sach-noi/tieu-thuyet-audio/page/2",
+          "title": "② Tiểu thuyết",
+          "subtitle": "Trang 2",
+          "cover": "",
+          "no": 200
+        },
+        "tt3": {
+          "url": "https://phatphapungdung.com/sach-noi/tieu-thuyet-audio/page/3",
+          "title": "③ Tiểu thuyết",
+          "subtitle": "Trang 3",
+          "cover": "",
+          "no": 300
+        },
+        "tt4": {
+          "url": "https://phatphapungdung.com/sach-noi/tieu-thuyet-audio/page/4",
+          "title": "④ Tiểu thuyết",
+          "subtitle": "Trang 4",
+          "cover": "",
+          "no": 400
+        },
+        "tt5": {
+          "url": "https://phatphapungdung.com/sach-noi/tieu-thuyet-audio/page/5",
+          "title": "⑤ Tiểu thuyết",
+          "subtitle": "Trang 5",
+          "cover": "",
+          "no": 500
+        },
+        "tt6": {
+          "url": "https://phatphapungdung.com/sach-noi/tieu-thuyet-audio/page/6",
+          "title": "⑥ Tiểu thuyết",
+          "subtitle": "Trang 6",
+          "cover": "",
+          "no": 600
+        },
+        "tt7": {
+          "url": "https://phatphapungdung.com/sach-noi/tieu-thuyet-audio/page/7",
+          "title": "⑦ Tiểu thuyết",
+          "subtitle": "Trang 7",
+          "cover": "",
+          "no": 700
+        },
+        "tt8": {
+          "url": "https://phatphapungdung.com/sach-noi/tieu-thuyet-audio/page/8",
+          "title": "⑧ Tiểu thuyết",
+          "subtitle": "Trang 8",
+          "cover": "",
+          "no": 800
+        },
+        "tt9": {
+          "url": "https://phatphapungdung.com/sach-noi/tieu-thuyet-audio/page/9",
+          "title": "⑨ Tiểu thuyết",
+          "subtitle": "Trang 9",
+          "cover": "",
+          "no": 900
+        },
+        "tt10": {
+          "url": "https://phatphapungdung.com/sach-noi/tieu-thuyet-audio/page/10",
+          "title": "⑩ Tiểu thuyết",
+          "subtitle": "Trang 10",
+          "cover": "",
+          "no": 1000
+        },
+        "tt11": {
+          "url": "https://phatphapungdung.com/sach-noi/tieu-thuyet-audio/page/11",
+          "title": "⑪ Tiểu thuyết",
+          "subtitle": "Trang 11",
+          "cover": "",
+          "no": 1100
+        },
+        "tt12": {
+          "url": "https://phatphapungdung.com/sach-noi/tieu-thuyet-audio/page/12",
+          "title": "⑫ Tiểu thuyết",
+          "subtitle": "Trang 12",
+          "cover": "",
+          "no": 1200
+        },
+        "tt13": {
+          "url": "https://phatphapungdung.com/sach-noi/tieu-thuyet-audio/page/13",
+          "title": "⑬ Tiểu thuyết",
+          "subtitle": "Trang 13",
+          "cover": "",
+          "no": 1300
+        },
+        "stn1": {
+          "url": "https://phatphapungdung.com/sach-noi/sach-thieu-nhi",
+          "title": "① Sách thiếu nhi",
+          "subtitle": "Trang 1",
+          "cover": "",
+          "no": 100
+        },
+        "stn2": {
+          "url": "https://phatphapungdung.com/sach-noi/sach-thieu-nhi/page/2",
+          "title": "② Sách thiếu nhi",
+          "subtitle": "Trang 2",
+          "cover": "",
+          "no": 100
+        },
+        "stn3": {
+          "url": "https://phatphapungdung.com/sach-noi/sach-thieu-nhi/page/3",
+          "title": "③ Sách thiếu nhi",
+          "subtitle": "Trang 3",
+          "cover": "",
+          "no": 100
+        },
+        "stn4": {
+          "url": "https://phatphapungdung.com/sach-noi/sach-thieu-nhi/page/4",
+          "title": "④ Sách thiếu nhi",
+          "subtitle": "Trang 4",
+          "cover": "",
+          "no": 100
+        },
+        "stn5": {
+          "url": "https://phatphapungdung.com/sach-noi/sach-thieu-nhi/page/5",
+          "title": "⑤ Sách thiếu nhi",
+          "subtitle": "Trang 5",
+          "cover": "",
+          "no": 100
+        },
+        "stn6": {
+          "url": "https://phatphapungdung.com/sach-noi/sach-thieu-nhi/page/6",
+          "title": "⑥ Sách thiếu nhi",
+          "subtitle": "Trang 6",
+          "cover": "",
+          "no": 100
+        },
+        "stn7": {
+          "url": "https://phatphapungdung.com/sach-noi/sach-thieu-nhi/page/7",
+          "title": "⑦ Sách thiếu nhi",
+          "subtitle": "Trang 7",
+          "cover": "",
+          "no": 100
+        },
+        "stn8": {
+          "url": "https://phatphapungdung.com/sach-noi/sach-thieu-nhi/page/8",
+          "title": "⑧ Sách thiếu nhi",
+          "subtitle": "Trang 8",
+          "cover": "",
+          "no": 100
+        },
+        "stn9": {
+          "url": "https://phatphapungdung.com/sach-noi/sach-thieu-nhi/page/9",
+          "title": "⑨ Sách thiếu nhi",
+          "subtitle": "Trang 9",
+          "cover": "",
+          "no": 100
+        },
+        "stn10": {
+          "url": "https://phatphapungdung.com/sach-noi/sach-thieu-nhi/page/10",
+          "title": "⑩ Sách thiếu nhi",
+          "subtitle": "Trang 10",
+          "cover": "",
+          "no": 100
+        },
+        "td1": {
+          "url": "https://phatphapungdung.com/sach-noi/truyen-dai-audio/",
+          "title": "① Truyện dài",
+          "subtitle": "Trang 1",
+          "cover": "",
+          "no": 100
+        },
+        "td2": {
+          "url": "https://phatphapungdung.com/sach-noi/truyen-dai-audio/page/2",
+          "title": "② Truyện dài",
+          "subtitle": "Trang 2",
+          "cover": "",
+          "no": 100
+        },
+        "td3": {
+          "url": "https://phatphapungdung.com/sach-noi/truyen-dai-audio/page/3",
+          "title": "③ Truyện dài",
+          "subtitle": "Trang 3",
+          "cover": "",
+          "no": 100
+        },
+        "td4": {
+          "url": "https://phatphapungdung.com/sach-noi/truyen-dai-audio/page/4",
+          "title": "④ Truyện dài",
+          "subtitle": "Trang 4",
+          "cover": "",
+          "no": 100
+        },
+        "td5": {
+          "url": "https://phatphapungdung.com/sach-noi/truyen-dai-audio/page/5",
+          "title": "⑤ Truyện dài",
+          "subtitle": "Trang 5",
+          "cover": "",
+          "no": 100
+        },
+        "td6": {
+          "url": "https://phatphapungdung.com/sach-noi/truyen-dai-audio/page/6",
+          "title": "⑥ Truyện dài",
+          "subtitle": "Trang 6",
+          "cover": "",
+          "no": 100
+        },
+        "td7": {
+          "url": "https://phatphapungdung.com/sach-noi/truyen-dai-audio/page/7",
+          "title": "⑦ Truyện dài",
+          "subtitle": "Trang 7",
+          "cover": "",
+          "no": 100
+        },
+        "td8": {
+          "url": "https://phatphapungdung.com/sach-noi/truyen-dai-audio/page/8",
+          "title": "⑧ Truyện dài",
+          "subtitle": "Trang 8",
+          "cover": "",
+          "no": 100
+        }
+      }
+    }
+  }
+}

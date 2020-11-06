@@ -1,0 +1,508 @@
+{
+  "podcasts": {
+    "host": "https://radio2podcasts.s3-ap-southeast-1.amazonaws.com/",
+    "bucket_name": "radio2podcasts",
+    "podcast_ext": ".xml",
+    "name": "catusf",
+    "email": "catus.phan@gmail.com"
+  },
+  "websites": {
+    "PPUD": {
+      "home": "https://phatphapungdung.com/sach-noi/",
+      "name": "Sách nói - Phật pháp ứng dụng",
+      "function": null,
+      "programs": {
+        "tkh1": {
+          "url": "https://phatphapungdung.com/sach-noi/truyen-kiem-hiep-audio/page/1",
+          "title": "Truyện kiếm hiệp",
+          "subtitle": "Trang 1",
+          "cover": "",
+          "no": 100
+        },
+        "tkh2": {
+          "url": "https://phatphapungdung.com/sach-noi/truyen-kiem-hiep-audio/page/2",
+          "title": "Truyện kiếm hiệp",
+          "subtitle": "Trang 2",
+          "cover": "",
+          "no": 100
+        },
+        "tls1": {
+          "url": "https://phatphapungdung.com/sach-noi/truyen-lich-su-audio/page/1",
+          "title": "Truyện lịch sử",
+          "subtitle": "Trang 1",
+          "cover": "",
+          "no": 100
+        },
+        "tls2": {
+          "url": "https://phatphapungdung.com/sach-noi/truyen-lich-su-audio/page/2",
+          "title": "Truyện lịch sử",
+          "subtitle": "Trang 2",
+          "cover": "",
+          "no": 100
+        },
+        "tls3": {
+          "url": "https://phatphapungdung.com/sach-noi/truyen-lich-su-audio/page/3",
+          "title": "Truyện lịch sử",
+          "subtitle": "Trang 3",
+          "cover": "",
+          "no": 100
+        },
+        "tls4": {
+          "url": "https://phatphapungdung.com/sach-noi/truyen-lich-su-audio/page/4",
+          "title": "Truyện lịch sử",
+          "subtitle": "Trang 4",
+          "cover": "",
+          "no": 100
+        },
+        "sdn1": {
+          "url": "https://phatphapungdung.com/sach-noi/sach-noi-tong-hop/danh-nhan/page/1",
+          "title": "Sách nói danh nhân",
+          "subtitle": "Trang 1",
+          "cover": "",
+          "no": 100
+        },
+        "sdn2": {
+          "url": "https://phatphapungdung.com/sach-noi/sach-noi-tong-hop/danh-nhan/page/2",
+          "title": "Sách nói danh nhân",
+          "subtitle": "Trang 2",
+          "cover": "",
+          "no": 100
+        },
+        "sdn3": {
+          "url": "https://phatphapungdung.com/sach-noi/sach-noi-tong-hop/danh-nhan/page/3",
+          "title": "Sách nói danh nhân",
+          "subtitle": "Trang 3",
+          "cover": "",
+          "no": 100
+        },
+        "sdn4": {
+          "url": "https://phatphapungdung.com/sach-noi/sach-noi-tong-hop/danh-nhan/page/4",
+          "title": "Sách nói danh nhân",
+          "subtitle": "Trang 4",
+          "cover": "",
+          "no": 100
+        },
+        "sdn5": {
+          "url": "https://phatphapungdung.com/sach-noi/sach-noi-tong-hop/danh-nhan/page/5",
+          "title": "Sách nói danh nhân",
+          "subtitle": "Trang 5",
+          "cover": "",
+          "no": 100
+        },
+        "sdl1": {
+          "url": "https://phatphapungdung.com/sach-noi/sach-noi-tong-hop/du-lich-sn/page/1",
+          "title": "Sách nói du lịch",
+          "subtitle": "Trang 1",
+          "cover": "",
+          "no": 100
+        },
+        "sdl2": {
+          "url": "https://phatphapungdung.com/sach-noi/sach-noi-tong-hop/du-lich-sn/page/2",
+          "title": "Sách nói du lịch",
+          "subtitle": "Trang 2",
+          "cover": "",
+          "no": 100
+        },
+        "kncs1": {
+          "url": "https://phatphapungdung.com/sach-noi/ky-nang-cuoc-song/page/1",
+          "title": "Kỹ năng CS",
+          "subtitle": "Trang 1",
+          "cover": "",
+          "no": 100
+        },
+        "kncs2": {
+          "url": "https://phatphapungdung.com/sach-noi/ky-nang-cuoc-song/page/2",
+          "title": "Kỹ năng CS",
+          "subtitle": "Trang 2",
+          "cover": "",
+          "no": 100
+        },
+        "kncs3": {
+          "url": "https://phatphapungdung.com/sach-noi/ky-nang-cuoc-song/page/3",
+          "title": "Kỹ năng CS",
+          "subtitle": "Trang 3",
+          "cover": "",
+          "no": 100
+        },
+        "kncs4": {
+          "url": "https://phatphapungdung.com/sach-noi/ky-nang-cuoc-song/page/4",
+          "title": "Kỹ năng CS",
+          "subtitle": "Trang 4",
+          "cover": "",
+          "no": 100
+        },
+        "kncs5": {
+          "url": "https://phatphapungdung.com/sach-noi/ky-nang-cuoc-song/page/5",
+          "title": "Kỹ năng CS",
+          "subtitle": "Trang 5",
+          "cover": "",
+          "no": 100
+        },
+        "kncs6": {
+          "url": "https://phatphapungdung.com/sach-noi/ky-nang-cuoc-song/page/6",
+          "title": "Kỹ năng CS",
+          "subtitle": "Trang 6",
+          "cover": "",
+          "no": 100
+        },
+        "kncs7": {
+          "url": "https://phatphapungdung.com/sach-noi/ky-nang-cuoc-song/page/7",
+          "title": "Kỹ năng CS",
+          "subtitle": "Trang 7",
+          "cover": "",
+          "no": 100
+        },
+        "kncs8": {
+          "url": "https://phatphapungdung.com/sach-noi/ky-nang-cuoc-song/page/8",
+          "title": "Kỹ năng CS",
+          "subtitle": "Trang 8",
+          "cover": "",
+          "no": 100
+        },
+        "kncs9": {
+          "url": "https://phatphapungdung.com/sach-noi/ky-nang-cuoc-song/page/9",
+          "title": "Kỹ năng CS",
+          "subtitle": "Trang 9",
+          "cover": "",
+          "no": 100
+        },
+        "kncs10": {
+          "url": "https://phatphapungdung.com/sach-noi/ky-nang-cuoc-song/page/10",
+          "title": "Kỹ năng CS",
+          "subtitle": "Trang 10",
+          "cover": "",
+          "no": 100
+        },
+        "hg1": {
+          "url": "https://phatphapungdung.com/sach-noi/hat-giong-tam-hon",
+          "title": "Hạt giống tâm hồn",
+          "subtitle": "Trang 1",
+          "cover": "",
+          "no": 100
+        },
+        "hg2": {
+          "url": "https://phatphapungdung.com/sach-noi/hat-giong-tam-hon/page/2",
+          "title": "Hạt giống tâm hồn",
+          "subtitle": "Trang 2",
+          "cover": "",
+          "no": 100
+        },
+        "hg3": {
+          "url": "https://phatphapungdung.com/sach-noi/hat-giong-tam-hon/page/3",
+          "title": "Hạt giống tâm hồn",
+          "subtitle": "Trang 3",
+          "cover": "",
+          "no": 100
+        },
+        "hg4": {
+          "url": "https://phatphapungdung.com/sach-noi/hat-giong-tam-hon/page/4",
+          "title": "Hạt giống tâm hồn",
+          "subtitle": "Trang 4",
+          "cover": "",
+          "no": 100
+        },
+        "hg5": {
+          "url": "https://phatphapungdung.com/sach-noi/hat-giong-tam-hon/page/5",
+          "title": "Hạt giống tâm hồn",
+          "subtitle": "Trang 5",
+          "cover": "",
+          "no": 100
+        },
+        "hg6": {
+          "url": "https://phatphapungdung.com/sach-noi/hat-giong-tam-hon/page/6",
+          "title": "Hạt giống tâm hồn",
+          "subtitle": "Trang 6",
+          "cover": "",
+          "no": 100
+        },
+        "hg7": {
+          "url": "https://phatphapungdung.com/sach-noi/hat-giong-tam-hon/page/7",
+          "title": "Hạt giống tâm hồn",
+          "subtitle": "Trang 7",
+          "cover": "",
+          "no": 100
+        },
+        "hg8": {
+          "url": "https://phatphapungdung.com/sach-noi/hat-giong-tam-hon/page/8",
+          "title": "Hạt giống tâm hồn",
+          "subtitle": "Trang 8",
+          "cover": "",
+          "no": 100
+        },
+        "hg9": {
+          "url": "https://phatphapungdung.com/sach-noi/hat-giong-tam-hon/page/9",
+          "title": "Hạt giống tâm hồn",
+          "subtitle": "Trang 9",
+          "cover": "",
+          "no": 100
+        },
+        "hg10": {
+          "url": "https://phatphapungdung.com/sach-noi/hat-giong-tam-hon/page/10",
+          "title": "Hạt giống tâm hồn",
+          "subtitle": "Trang 10",
+          "cover": "",
+          "no": 100
+        },
+        "hg11": {
+          "url": "https://phatphapungdung.com/sach-noi/hat-giong-tam-hon/page/11",
+          "title": "Hạt giống tâm hồn",
+          "subtitle": "Trang 11",
+          "cover": "",
+          "no": 100
+        },
+        "hg12": {
+          "url": "https://phatphapungdung.com/sach-noi/hat-giong-tam-hon/page/12",
+          "title": "Hạt giống tâm hồn",
+          "subtitle": "Trang 12",
+          "cover": "",
+          "no": 100
+        },
+        "hg13": {
+          "url": "https://phatphapungdung.com/sach-noi/hat-giong-tam-hon/page/13",
+          "title": "Hạt giống tâm hồn",
+          "subtitle": "Trang 13",
+          "cover": "",
+          "no": 100
+        },
+        "hg14": {
+          "url": "https://phatphapungdung.com/sach-noi/hat-giong-tam-hon/page/14",
+          "title": "Hạt giống tâm hồn",
+          "subtitle": "Trang 14",
+          "cover": "",
+          "no": 100
+        },
+        "hg15": {
+          "url": "https://phatphapungdung.com/sach-noi/hat-giong-tam-hon/page/15",
+          "title": "Hạt giống tâm hồn",
+          "subtitle": "Trang 15",
+          "cover": "",
+          "no": 1100
+        },
+        "tt1": {
+          "url": "https://phatphapungdung.com/sach-noi/tieu-thuyet-audio",
+          "title": "Tiểu thuyết",
+          "subtitle": "Trang 1",
+          "cover": "",
+          "no": 100
+        },
+        "tt2": {
+          "url": "https://phatphapungdung.com/sach-noi/tieu-thuyet-audio/page/2",
+          "title": "Tiểu thuyết",
+          "subtitle": "Trang 2",
+          "cover": "",
+          "no": 100
+        },
+        "tt3": {
+          "url": "https://phatphapungdung.com/sach-noi/tieu-thuyet-audio/page/3",
+          "title": "Tiểu thuyết",
+          "subtitle": "Trang 3",
+          "cover": "",
+          "no": 100
+        },
+        "tt4": {
+          "url": "https://phatphapungdung.com/sach-noi/tieu-thuyet-audio/page/4",
+          "title": "Tiểu thuyết",
+          "subtitle": "Trang 4",
+          "cover": "",
+          "no": 100
+        },
+        "tt5": {
+          "url": "https://phatphapungdung.com/sach-noi/tieu-thuyet-audio/page/5",
+          "title": "Tiểu thuyết",
+          "subtitle": "Trang 5",
+          "cover": "",
+          "no": 100
+        },
+        "tt6": {
+          "url": "https://phatphapungdung.com/sach-noi/tieu-thuyet-audio/page/6",
+          "title": "Tiểu thuyết",
+          "subtitle": "Trang 6",
+          "cover": "",
+          "no": 100
+        },
+        "tt7": {
+          "url": "https://phatphapungdung.com/sach-noi/tieu-thuyet-audio/page/7",
+          "title": "Tiểu thuyết",
+          "subtitle": "Trang 7",
+          "cover": "",
+          "no": 100
+        },
+        "tt8": {
+          "url": "https://phatphapungdung.com/sach-noi/tieu-thuyet-audio/page/8",
+          "title": "Tiểu thuyết",
+          "subtitle": "Trang 8",
+          "cover": "",
+          "no": 100
+        },
+        "tt9": {
+          "url": "https://phatphapungdung.com/sach-noi/tieu-thuyet-audio/page/9",
+          "title": "Tiểu thuyết",
+          "subtitle": "Trang 9",
+          "cover": "",
+          "no": 100
+        },
+        "tt10": {
+          "url": "https://phatphapungdung.com/sach-noi/tieu-thuyet-audio/page/10",
+          "title": "Tiểu thuyết",
+          "subtitle": "Trang 10",
+          "cover": "",
+          "no": 100
+        },
+        "tt11": {
+          "url": "https://phatphapungdung.com/sach-noi/tieu-thuyet-audio/page/11",
+          "title": "Tiểu thuyết",
+          "subtitle": "Trang 11",
+          "cover": "",
+          "no": 100
+        },
+        "tt12": {
+          "url": "https://phatphapungdung.com/sach-noi/tieu-thuyet-audio/page/12",
+          "title": "Tiểu thuyết",
+          "subtitle": "Trang 12",
+          "cover": "",
+          "no": 100
+        },
+        "tt13": {
+          "url": "https://phatphapungdung.com/sach-noi/tieu-thuyet-audio/page/13",
+          "title": "Tiểu thuyết",
+          "subtitle": "Trang 13",
+          "cover": "",
+          "no": 100
+        },
+        "stn1": {
+          "url": "https://phatphapungdung.com/sach-noi/sach-thieu-nhi",
+          "title": "Sách thiếu nhi",
+          "subtitle": "Trang 1",
+          "cover": "",
+          "no": 100
+        },
+        "stn2": {
+          "url": "https://phatphapungdung.com/sach-noi/sach-thieu-nhi/page/2",
+          "title": "Sách thiếu nhi",
+          "subtitle": "Trang 2",
+          "cover": "",
+          "no": 100
+        },
+        "stn3": {
+          "url": "https://phatphapungdung.com/sach-noi/sach-thieu-nhi/page/3",
+          "title": "Sách thiếu nhi",
+          "subtitle": "Trang 3",
+          "cover": "",
+          "no": 100
+        },
+        "stn4": {
+          "url": "https://phatphapungdung.com/sach-noi/sach-thieu-nhi/page/4",
+          "title": "Sách thiếu nhi",
+          "subtitle": "Trang 4",
+          "cover": "",
+          "no": 100
+        },
+        "stn5": {
+          "url": "https://phatphapungdung.com/sach-noi/sach-thieu-nhi/page/5",
+          "title": "Sách thiếu nhi",
+          "subtitle": "Trang 5",
+          "cover": "",
+          "no": 100
+        },
+        "stn6": {
+          "url": "https://phatphapungdung.com/sach-noi/sach-thieu-nhi/page/6",
+          "title": "Sách thiếu nhi",
+          "subtitle": "Trang 6",
+          "cover": "",
+          "no": 100
+        },
+        "stn7": {
+          "url": "https://phatphapungdung.com/sach-noi/sach-thieu-nhi/page/7",
+          "title": "Sách thiếu nhi",
+          "subtitle": "Trang 7",
+          "cover": "",
+          "no": 100
+        },
+        "stn8": {
+          "url": "https://phatphapungdung.com/sach-noi/sach-thieu-nhi/page/8",
+          "title": "Sách thiếu nhi",
+          "subtitle": "Trang 8",
+          "cover": "",
+          "no": 100
+        },
+        "stn9": {
+          "url": "https://phatphapungdung.com/sach-noi/sach-thieu-nhi/page/9",
+          "title": "Sách thiếu nhi",
+          "subtitle": "Trang 9",
+          "cover": "",
+          "no": 100
+        },
+        "stn10": {
+          "url": "https://phatphapungdung.com/sach-noi/sach-thieu-nhi/page/10",
+          "title": "Sách thiếu nhi",
+          "subtitle": "Trang 10",
+          "cover": "",
+          "no": 100
+        },
+        "td1": {
+          "url": "https://phatphapungdung.com/sach-noi/truyen-dai-audio/",
+          "title": "Truyện dài",
+          "subtitle": "Trang 1",
+          "cover": "",
+          "no": 100
+        },
+        "td2": {
+          "url": "https://phatphapungdung.com/sach-noi/truyen-dai-audio/page/2",
+          "title": "Truyện dài",
+          "subtitle": "Trang 2",
+          "cover": "",
+          "no": 100
+        },
+        "td3": {
+          "url": "https://phatphapungdung.com/sach-noi/truyen-dai-audio/page/3",
+          "title": "Truyện dài",
+          "subtitle": "Trang 3",
+          "cover": "",
+          "no": 100
+        },
+        "td4": {
+          "url": "https://phatphapungdung.com/sach-noi/truyen-dai-audio/page/4",
+          "title": "Truyện dài",
+          "subtitle": "Trang 4",
+          "cover": "",
+          "no": 100
+        },
+        "td5": {
+          "url": "https://phatphapungdung.com/sach-noi/truyen-dai-audio/page/5",
+          "title": "Truyện dài",
+          "subtitle": "Trang 5",
+          "cover": "",
+          "no": 100
+        },
+        "td6": {
+          "url": "https://phatphapungdung.com/sach-noi/truyen-dai-audio/page/6",
+          "title": "Truyện dài",
+          "subtitle": "Trang 6",
+          "cover": "",
+          "no": 100
+        },
+        "td7": {
+          "url": "https://phatphapungdung.com/sach-noi/truyen-dai-audio/page/7",
+          "title": "Truyện dài",
+          "subtitle": "Trang 7",
+          "cover": "",
+          "no": 100
+        },
+        "td8": {
+          "url": "https://phatphapungdung.com/sach-noi/truyen-dai-audio/page/8",
+          "title": "Truyện dài",
+          "subtitle": "Trang 8",
+          "cover": "",
+          "no": 100
+        },
+        "tct": {
+          "url": "https://phatphapungdung.com/sach-noi/sach-noi-tong-hop/truyen-co-tich",
+          "title": "Truyện cổ tích",
+          "subtitle": "Trang 1",
+          "cover": "",
+          "no": 100
+        }
+      }
+    }
+  }
+}

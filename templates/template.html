@@ -1,0 +1,22 @@
+{% extends 'base.html' %}
+
+{% block title%}About page{% endblock %}
+
+{% block content %}
+    <div class="row">
+      <div class="col-12">
+        <ul class="list-group">
+
+		{% for site in sites %}
+			<li class="list-group-item list-group-item-primary"><a href='{{site.url}}'><i class="fas fa-globe mx-2"></a></i><a href='{{site.url}}'>{{site.name}}</a></li>
+			{% for podcast in site.podcasts %}
+				{% if podcast.item_titles is defined and podcast.item_titles|length %}
+					<li class="list-group-item"><a href='{{podcast.subslink}}'><i class="fas fa-podcast mx-3"></a></i><a href='{{podcast.link}}'>{{podcast.title}}</a>: {{podcast.item_titles}}</li>
+				{% else %}
+					<li class="list-group-item"><a href='{{podcast.subslink}}'><i class="fas fa-podcast mx-3"></a></i><a href='{{podcast.link}}'>{{podcast.title}}</a></li>
+				{% endif %}
+			{% endfor %}
+		{% endfor %}
+		</div>
+    </div>
+{% endblock %}
