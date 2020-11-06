@@ -35,14 +35,12 @@ jobs:
         echo "---------------------------------"
         ls
         echo "---------------------------------"
-        git add .
-        git stash push
         git config user.name catusf
         git config user.email catusf@users.noreply.github.com
-        git checkout gh-pages
-        git stash pop
-        git add site/*.*
-        git commit -m "Update gh-pages for site"
+        git branch --show-current
+        git add site
+        git status
+        git commit -m "Update website"
         git fetch
         git push origin --force
 
