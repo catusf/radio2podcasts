@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Top 10 ca khúc quốc tế</title>
+    <link>https://radio.voh.com.vn/top-10-ca-khuc-quoc-te-402.html</link>
+    <description>Top 10 ca khúc quốc tế thứ hai hàng tuần trên VOH</description>
+    <itunes:explicit>no</itunes:explicit>
+    <copyright>top10</copyright>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
+    <language>vi</language>
+    <lastBuildDate>Mon, 09 Nov 2020 20:14:28 +0700</lastBuildDate>
+    <itunes:author>catus.phan</itunes:author>
+    <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
+    <pubDate>Fri, 06 Nov 2020 20:58:00 +0700</pubDate>
+    <itunes:category text="Music">
+      <itunes:category text="Music Commentary"/>
+    </itunes:category>
+    <itunes:image href="https://catusf.github.io/radio2podcasts/Top10cakhucquocte.png"/>
+    <itunes:owner>
+      <itunes:name>catus.phan</itunes:name>
+      <itunes:email>catus.phan@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:subtitle>Top 10 ca khúc quốc tế thứ hai hàng tuần trên VOH</itunes:subtitle>
+    <atom:link href="https://catusf.github.io/radio2podcasts/Top10cakhucquocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Top ten - 6/11/2020</title>
+      <link>https://radio.voh.com.vn/top-10-ca-khuc-quoc-te/top-ten-6-11-2020-383261.html</link>
+      <description><![CDATA[13:58 - 06/11/2020]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/top-10-ca-khuc-quoc-te/top-ten-6-11-2020-383261.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/11/03/FMTopten01h30p061120.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 06 Nov 2020 20:58:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Top ten - 30/10/2020</title>
+      <link>https://radio.voh.com.vn/top-10-ca-khuc-quoc-te/top-ten-30-10-2020-382602.html</link>
+      <description><![CDATA[09:06 - 30/10/2020]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/top-10-ca-khuc-quoc-te/top-ten-30-10-2020-382602.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/10/29/FMTopten01h30p301020.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 30 Oct 2020 16:06:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Top ten - 23/10/2020</title>
+      <link>https://radio.voh.com.vn/top-10-ca-khuc-quoc-te/top-ten-23-10-2020-381674.html</link>
+      <description><![CDATA[10:08 - 23/10/2020]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/top-10-ca-khuc-quoc-te/top-ten-23-10-2020-381674.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/10/21/FMTopten01h30p231020.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 23 Oct 2020 17:08:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Top ten - 16/10/2020</title>
+      <link>https://radio.voh.com.vn/top-10-ca-khuc-quoc-te/top-ten-16-10-2020-381113.html</link>
+      <description><![CDATA[08:59 - 16/10/2020]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/top-10-ca-khuc-quoc-te/top-ten-16-10-2020-381113.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/10/16/FMTopten01h30p161020.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 16 Oct 2020 15:59:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Top ten - 9/10/2020</title>
+      <link>https://radio.voh.com.vn/top-10-ca-khuc-quoc-te/top-ten-9-10-2020-380073.html</link>
+      <description><![CDATA[19:44 - 09/10/2020]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/top-10-ca-khuc-quoc-te/top-ten-9-10-2020-380073.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/10/07/FMTopten01h30p091020.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 10 Oct 2020 02:44:00 +0700</pubDate>
+    </item>
+  </channel>
+</rss>
