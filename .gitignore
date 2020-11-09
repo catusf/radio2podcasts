@@ -10,8 +10,7 @@ radio2podcasts/__pycache__/
 *.so
 
 # Distribution / packaging
-site/*.xml
-site/*.html
+
 .Python
 env/
 build/
