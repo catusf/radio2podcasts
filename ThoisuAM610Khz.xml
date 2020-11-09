@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Thời sự AM 610 Khz</title>
+    <link>https://radio.voh.com.vn/thoi-su-am-610-khz-599.html</link>
+    <description>Thời sự AM 610 Khz hàng ngày trên VOH</description>
+    <itunes:explicit>no</itunes:explicit>
+    <copyright>am610</copyright>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
+    <language>vi</language>
+    <lastBuildDate>Mon, 09 Nov 2020 20:15:05 +0700</lastBuildDate>
+    <itunes:author>catus.phan</itunes:author>
+    <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
+    <pubDate>Mon, 09 Nov 2020 13:12:00 +0700</pubDate>
+    <itunes:category text="Music">
+      <itunes:category text="Music Commentary"/>
+    </itunes:category>
+    <itunes:image href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.png"/>
+    <itunes:owner>
+      <itunes:name>catus.phan</itunes:name>
+      <itunes:email>catus.phan@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
+    <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Tọa đàm “Để pháp luật thực sự đi vào cuộc sống” (Kỳ 1) – Thời sự 5g30 9/11/2020</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/toa-dam-de-phap-luat-thuc-su-di-vao-cuoc-song-ky-1-thoi-su-5g30-9-11-2020-383850.html</link>
+      <description><![CDATA[06:12 - 09/11/2020]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/toa-dam-de-phap-luat-thuc-su-di-vao-cuoc-song-ky-1-thoi-su-5g30-9-11-2020-383850.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/11/09/AMThoisu05h30p091120.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 09 Nov 2020 13:12:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Quận 9 tiến hành kiểm tra toàn diện đối với Trường Tiểu học Trần Thị Bưởi - Thời sự 11g00 8/11/2020</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/quan-9-tien-hanh-kiem-tra-toan-dien-doi-voi-truong-tieu-hoc-tran-thi-buoi-thoi-su-11g00-8-11-2020-383819.html</link>
+      <description><![CDATA[13:43 - 08/11/2020]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/quan-9-tien-hanh-kiem-tra-toan-dien-doi-voi-truong-tieu-hoc-tran-thi-buoi-thoi-su-11g00-8-11-2020-383819.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/11/08/AMThoisu11h00p081120.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 08 Nov 2020 20:43:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>UNDP hỗ trợ khẩn cấp cho người dân miền Trung Việt Nam - Thời sự 5g30 8/11/2020</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/undp-ho-tro-khan-cap-cho-nguoi-dan-mien-trung-viet-nam-thoi-su-5g30-8-11-2020-383788.html</link>
+      <description><![CDATA[06:27 - 08/11/2020]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/undp-ho-tro-khan-cap-cho-nguoi-dan-mien-trung-viet-nam-thoi-su-5g30-8-11-2020-383788.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/11/08/FMThoisu05h30p081120.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 08 Nov 2020 13:27:00 +0700</pubDate>
+    </item>
+  </channel>
+</rss>
