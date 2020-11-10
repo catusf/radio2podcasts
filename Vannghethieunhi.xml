@@ -9,7 +9,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 10 Nov 2020 15:13:29 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2020 16:12:03 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
     <pubDate>Tue, 10 Nov 2020 07:00:00 +0700</pubDate>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Văn nghệ thiếu nhi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Vannghethieunhi.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Chụp ảnh bằng điện thoại thông minh cùng nhiếp ảnh gia Đoàn Bắc (Phần 2)10/11/2020</title>
+      <title>Đọc truyện "Dế Mèn phiêu lưu ký" - Buổi thứ năm - Đào tẩu 10/11/2020</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-de-men-phieu-luu-ky-buoi-thu-nam-dao-tau-c44-32089.aspx</link>
+      <description><![CDATA[Xiến Tóc bay đến cắt cụt đôi râu dài kiêu hãnh của Dế Mèn khiến cậu vừa sợ hãi, vừa choàng tỉnh với bài học đường đời tiếp theo. Buồn bã với lỗi lầm của bản thân và chán cảnh bị chôn chân trong lồng, Dế Mèn nung nấu ý định chạy trốn... (Văn nghệ thiếu nhi 06/11/2020)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-de-men-phieu-luu-ky-buoi-thu-nam-dao-tau-c44-32089.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2020_11/v2_0611_10h4518h15_van_nghe_thieu_nhi_1011202015.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 10 Nov 2020 07:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Chụp ảnh bằng điện thoại thông minh cùng nhiếp ảnh gia Đoàn Bắc (Phần 2) 10/11/2020</title>
       <link>http://vov6.vov.vn/van-nghe-thieu-nhi/chup-anh-bang-dien-thoai-thong-minh-cung-nhiep-anh-gia-doan-bac-phan-2-c44-32086.aspx</link>
       <description><![CDATA[Trong chương trình trước, nhiếp ảnh gia Đoàn Bắc đã hướng dẫn chúng mình cách lấy sáng và căn chỉnh khung hình khi chụp ảnh bằng điện thoại thông minh. Trong chương trình này, anh sẽ chia sẻ  những bài chụp chi tiết như chụp chân dung, chụp vật chuyển động... (Văn nghệ thiếu nhi 04/11/2020)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/chup-anh-bang-dien-thoai-thong-minh-cung-nhiep-anh-gia-doan-bac-phan-2-c44-32086.aspx</guid>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/hoat-dong-ngoai-khoa-bo-ich-ve-truyen-kieu-c44-32077.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2020_11/v2_0211_10h4518h15_van_nghe_thieu_nhi_511202012.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 05 Nov 2020 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đọc truyện "Dế Mèn phiêu lưu ký" - Buổi thứ tư - Trận chiến  3/11/2020</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-de-men-phieu-luu-ky-buoi-thu-tu-tran-chien-c44-32073.aspx</link>
-      <description><![CDATA[Bị mất tự do, Dế Mèn chán nản buồn rầu. Thế nhưng, khi nghe lỏm câu chuyện của đám trẻ về một chú dế nào đó “bất khả chiến bại”,  máu phiêu lưu của Dế mèn nổi lên. Dế Mèn nóng lòng đợi đến ngày được đấu với kẻ đồng loại đang nổi như cồn đó... (Văn nghệ thiếu nhi 01/11/2020)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-de-men-phieu-luu-ky-buoi-thu-tu-tran-chien-c44-32073.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2020_11/v2_0111_10h4518h15_van_nghe_thieu_nhi_1_311202016.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 03 Nov 2020 07:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
