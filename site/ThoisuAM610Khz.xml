@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 12 Nov 2020 10:14:23 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2020 11:16:24 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 11 Nov 2020 20:02:00 +0700</pubDate>
+    <pubDate>Thu, 12 Nov 2020 13:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Kiều bào Mỹ trao tặng gần 10.000 quyển sách cho sinh viên TPHCM - Thời sự 05g30 12/11/2020</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/kieu-bao-my-trao-tang-gan-10-000-quyen-sach-cho-sinh-vien-tphcm-thoi-su-05g30-12-11-2020-384257.html</link>
+      <description><![CDATA[06:00 - 12/11/2020]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/kieu-bao-my-trao-tang-gan-10-000-quyen-sach-cho-sinh-vien-tphcm-thoi-su-05g30-12-11-2020-384257.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/11/12/ts0530-121120.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Nov 2020 13:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Hơn 5.000 tỷ đồng xây cầu Rạch Miễu 2 - Thời sự 17g00 8/11/2020</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/hon-5-000-ty-dong-xay-cau-rach-mieu-2-thoi-su-17g00-8-11-2020-384158.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/ho-tro-nguoi-dan-vung-bao-lu-mien-trung-khoi-phuc-san-xuat-thoi-su-11g00-11-11-2020-384155.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/11/11/ts11g00-111120.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 11 Nov 2020 18:45:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đề xuất giá vé metro Bến Thành - Suối Tiên dự kiến 10.000 đồng/lượt - Thời sự 05g30 11/11/2020</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/de-xuat-gia-ve-metro-ben-thanh-suoi-tien-du-kien-10-000-dong-luot-thoi-su-05g30-11-11-2020-384146.html</link>
-      <description><![CDATA[06:00 - 11/11/2020]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/de-xuat-gia-ve-metro-ben-thanh-suoi-tien-du-kien-10-000-dong-luot-thoi-su-05g30-11-11-2020-384146.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/11/11/ts1100-111120.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 11 Nov 2020 13:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
