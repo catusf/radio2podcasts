@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 13 Nov 2020 10:14:22 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2020 11:16:19 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 12 Nov 2020 14:00:00 +0700</pubDate>
+    <pubDate>Fri, 13 Nov 2020 13:58:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Sài Gòn buổi sáng - 13/11/2020</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-13-11-2020-384350.html</link>
+      <description><![CDATA[06:58 - 13/11/2020]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-13-11-2020-384350.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/11/13/FMSGBS06h00p131120.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 13 Nov 2020 13:58:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Phó thủ tướng đồng ý đánh giá TP Thủ Đức là đô thị loại I - Sài Gòn buổi sáng 12/11/2020</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/pho-thu-tuong-dong-y-danh-gia-tp-thu-duc-la-do-thi-loai-i-sai-gon-buoi-sang-12-11-2020-384258.html</link>
       <description><![CDATA[07:00 - 12/11/2020]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/pho-thu-tuong-dong-y-danh-gia-tp-thu-duc-la-do-thi-loai-i-sai-gon-buoi-sang-12-11-2020-384258.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/11/12/sgbs-121120.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 12 Nov 2020 14:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Công nhận xã Thạnh An, huyện Cần Giờ là xã đảo - Sài Gòn buổi sáng 11/11/2020</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/cong-nhan-xa-thanh-an-huyen-can-gio-la-xa-dao-sai-gon-buoi-sang-11-11-2020-384147.html</link>
-      <description><![CDATA[07:00 - 11/11/2020]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/cong-nhan-xa-thanh-an-huyen-can-gio-la-xa-dao-sai-gon-buoi-sang-11-11-2020-384147.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/11/11/sgbs-111120.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 11 Nov 2020 14:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
