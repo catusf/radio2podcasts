@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 15 Nov 2020 14:14:17 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2020 15:15:41 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 15 Nov 2020 01:08:00 +0700</pubDate>
+    <pubDate>Sun, 15 Nov 2020 18:30:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,28 +24,28 @@
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Tưởng niệm nạn nhân tử vong do tai nạn giao thông 2020 - Thời sự 11g00 15/11/2020</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tuong-niem-nan-nhan-tu-vong-do-tai-nan-giao-thong-2020-thoi-su-11g00-15-11-2020-384566.html</link>
+      <description><![CDATA[11:30 - 15/11/2020]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tuong-niem-nan-nhan-tu-vong-do-tai-nan-giao-thong-2020-thoi-su-11g00-15-11-2020-384566.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/11/15/ts11-151120.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 15 Nov 2020 18:30:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Liên kết du lịch TPHCM và 8 tỉnh Tây Bắc góp phần phục hồi ngành du lịch - Thời sự 05g30 15/11/2020</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/lien-ket-du-lich-tphcm-va-8-tinh-tay-bac-gop-phan-phuc-hoi-nganh-du-lich-thoi-su-05g30-15-11-2020-384565.html</link>
+      <description><![CDATA[06:00 - 15/11/2020]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/lien-ket-du-lich-tphcm-va-8-tinh-tay-bac-gop-phan-phuc-hoi-nganh-du-lich-thoi-su-05g30-15-11-2020-384565.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/11/15/ts05g30-151120.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 15 Nov 2020 13:00:00 +0700</pubDate>
+    </item>
+    <item>
       <title>TPHCM yêu cầu công khai 108 dự án 'treo' được hủy bỏ, điều chỉnh - Thời sự 17g00 14/11/2020</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-yeu-cau-cong-khai-108-du-an-treo-duoc-huy-bo-dieu-chinh-thoi-su-17g00-14-11-2020-384532.html</link>
       <description><![CDATA[18:08 - 14/11/2020]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-yeu-cau-cong-khai-108-du-an-treo-duoc-huy-bo-dieu-chinh-thoi-su-17g00-14-11-2020-384532.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/11/14/AMThoisu17h00p141120.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 15 Nov 2020 01:08:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đường sắt ngừng chạy nhiều đoàn tàu do ảnh hưởng bão số 13 – Thời sự 11g00 14/11/2020</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/duong-sat-ngung-chay-nhieu-doan-tau-do-anh-huong-bao-so-13-thoi-su-11g00-14-11-2020-384510.html</link>
-      <description><![CDATA[11:49 - 14/11/2020]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/duong-sat-ngung-chay-nhieu-doan-tau-do-anh-huong-bao-so-13-thoi-su-11g00-14-11-2020-384510.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/11/14/AMThoisu11h00p141120.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 14 Nov 2020 18:49:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>8 tỉnh ra lệnh cấm biển, sơ tán 315.000 người để tránh bão số 13 - Thời sự 5g30 14/11/2020</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/8-tinh-ra-lenh-cam-bien-so-tan-315-000-nguoi-de-tranh-bao-so-13-thoi-su-5g30-14-11-2020-384499.html</link>
-      <description><![CDATA[09:21 - 14/11/2020]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/8-tinh-ra-lenh-cam-bien-so-tan-315-000-nguoi-de-tranh-bao-so-13-thoi-su-5g30-14-11-2020-384499.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/11/14/AMThoisu05h30p141120.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 14 Nov 2020 16:21:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
