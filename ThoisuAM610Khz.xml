@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 17 Nov 2020 21:18:08 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2020 22:16:21 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 17 Nov 2020 12:29:00 +0700</pubDate>
+    <pubDate>Wed, 18 Nov 2020 01:14:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,28 +24,28 @@
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Chiều nay, bế mạc Kỳ họp thứ 10 Quốc hội khóa XIV – Thời sự 17g00 17/11/2020</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/chieu-nay-be-mac-ky-hop-thu-10-quoc-hoi-khoa-xiv-thoi-su-17g00-17-11-2020-384831.html</link>
+      <description><![CDATA[18:14 - 17/11/2020]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/chieu-nay-be-mac-ky-hop-thu-10-quoc-hoi-khoa-xiv-thoi-su-17g00-17-11-2020-384831.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/11/17/AMThoisu17h00p171120A.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 18 Nov 2020 01:14:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>TPHCM ủng hộ đề xuất tổ chức Lễ hội Nghệ thuật đường phố - Thời sự 11g00 17/11/2020</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-ung-ho-de-xuat-to-chuc-le-hoi-nghe-thuat-duong-pho-thoi-su-11g00-17-11-2020-384760.html</link>
+      <description><![CDATA[12:05 - 17/11/2020]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-ung-ho-de-xuat-to-chuc-le-hoi-nghe-thuat-duong-pho-thoi-su-11g00-17-11-2020-384760.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/11/17/AMThoisu11h00p171120.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 17 Nov 2020 19:05:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Đề xuất xây dựng một tổ hợp tín dụng để cứu các doanh nghiệp nhỏ và vừa – Thời sự 5g30 17/11/2020</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/de-xuat-xay-dung-mot-to-hop-tin-dung-de-cuu-cac-doanh-nghiep-nho-va-vua-thoi-su-5g30-17-11-2020-384732.html</link>
       <description><![CDATA[05:29 - 17/11/2020]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/de-xuat-xay-dung-mot-to-hop-tin-dung-de-cuu-cac-doanh-nghiep-nho-va-vua-thoi-su-5g30-17-11-2020-384732.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/11/17/AMThoisu05h30p171120.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 17 Nov 2020 12:29:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Cơ hội vàng cho xuất khẩu nông sản Việt Nam vào thị trường châu Âu - Thời sự 11g00 16/11/2020</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/co-hoi-vang-cho-xuat-khau-nong-san-viet-nam-vao-thi-truong-chau-au-thoi-su-11g00-16-11-2020-384659.html</link>
-      <description><![CDATA[12:12 - 16/11/2020]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/co-hoi-vang-cho-xuat-khau-nong-san-viet-nam-vao-thi-truong-chau-au-thoi-su-11g00-16-11-2020-384659.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/11/16/AMThoisu11h00p161120-Copy.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 16 Nov 2020 19:12:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Bài 3: Mở ra cánh cửa đổi mới mô hình quản lý đô thị cho cả nước –Thời sự 5g30 16/11/2020</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/bai-3-mo-ra-canh-cua-doi-moi-mo-hinh-quan-ly-do-thi-cho-ca-nuoc-thoi-su-5g30-16-11-2020-384610.html</link>
-      <description><![CDATA[07:13 - 16/11/2020]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/bai-3-mo-ra-canh-cua-doi-moi-mo-hinh-quan-ly-do-thi-cho-ca-nuoc-thoi-su-5g30-16-11-2020-384610.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/11/16/AMThoisu05h30p161120-Copy.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 16 Nov 2020 14:13:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
