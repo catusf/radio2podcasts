@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 18 Nov 2020 10:14:46 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2020 11:17:17 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 17 Nov 2020 15:32:00 +0700</pubDate>
+    <pubDate>Wed, 18 Nov 2020 14:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Sài Gòn buổi sáng - 18/11/2020</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-18-11-2020-384881.html</link>
+      <description><![CDATA[07:00 - 18/11/2020]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-18-11-2020-384881.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/11/18/sgbs-181120.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 18 Nov 2020 14:00:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Phạt nặng hành vi lựa chọn giới tính thai nhi - Sài Gòn buổi sáng 17/11/2020</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/phat-nang-hanh-vi-lua-chon-gioi-tinh-thai-nhi-sai-gon-buoi-sang-17-11-2020-384747.html</link>
       <description><![CDATA[08:32 - 17/11/2020]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/phat-nang-hanh-vi-lua-chon-gioi-tinh-thai-nhi-sai-gon-buoi-sang-17-11-2020-384747.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/11/17/FMSGBS06h00p171120.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 17 Nov 2020 15:32:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Sau bão số 13, bãi biển miền Trung bị sóng đánh tan tác - Sài Gòn buổi sáng 16/11/2020</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sau-bao-so-13-bai-bien-mien-trung-bi-song-danh-tan-tac-sai-gon-buoi-sang-16-11-2020-384611.html</link>
-      <description><![CDATA[07:13 - 16/11/2020]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sau-bao-so-13-bai-bien-mien-trung-bi-song-danh-tan-tac-sai-gon-buoi-sang-16-11-2020-384611.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/11/16/FMSGBS06h00p161120-Copy.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 16 Nov 2020 14:13:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
