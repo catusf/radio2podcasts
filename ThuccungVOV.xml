@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 18 Nov 2020 06:12:25 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2020 07:32:59 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 13 Nov 2020 07:00:00 +0700</pubDate>
+    <pubDate>Tue, 17 Nov 2020 07:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,12 +24,20 @@
     <itunes:subtitle>Thức cùng VOV</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThuccungVOV.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Anh Nguyễn Văn Vinh - tấm gương điển hình trong phong trào thi đua yêu nước của ngành xăng dầu (13/11/2020)</title>
-      <link>http://vov1.vov.vn/chuyen-dem/anh-nguyen-van-vinh-tam-guong-dien-hinh-trong-phong-trao-thi-dua-yeu-nuoc-cua-n-c141-65132.aspx</link>
-      <description><![CDATA[Anh Nguyễn Văn Vinh, công nhân Cảng dầu B12 trực thuộc Công ty Xăng dầu B12, một tấm gương lao động, không quản khó khăn, gian khổ để hoàn thành mọi nhiệm vụ được giao. PV Thành Trung trao đổi với anh Nguyễn Văn Vinh, một tấm gương điển hình trong phong trào thi đua yêu nước của ngành xăng dầu giai đoạn 2015-2020.]]></description>
-      <guid isPermaLink="false">http://vov1.vov.vn/chuyen-dem/anh-nguyen-van-vinh-tam-guong-dien-hinh-trong-phong-trao-thi-dua-yeu-nuoc-cua-n-c141-65132.aspx</guid>
-      <enclosure url="http://vov1.vn:1953/vov1/attachments/vov1/thuhienvov1/v1_13_11_22h00_chuyen_dem_2020_1611202012.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 13 Nov 2020 07:00:00 +0700</pubDate>
+      <title>Vẳng điệu then - đàn tính giữa thành phố Hồ Chí Minh (17/11/2020)</title>
+      <link>http://vov1.vov.vn/chuong-trinh-thuc-cung-vov/vang-dieu-then-dan-tinh-giua-thanh-pho-ho-chi-minh-17112020-c166-65225.aspx</link>
+      <description><![CDATA[- Hiệu quả của dự án chỉnh trang đô thị tại Hà Nội và sự lãng phí của việc lát đá vỉa hè một cách vô tội vạ.- Vẳng điệu then - đàn tính giữa thành phố Hồ Chí Minh.- Cô giáo Đinh Thị Kem, người dân tộc H're, giáo viên Trường Tiểu học Hành Dũng, xã Hành Dũng, huyện Nghĩa Hành, tỉnh Quảng Ngãi là 1 trong 63 giáo viên tiêu biểu vừa được Bộ Giáo dục và Đào tạo tuyên dương năm 2020.]]></description>
+      <guid isPermaLink="false">http://vov1.vov.vn/chuong-trinh-thuc-cung-vov/vang-dieu-then-dan-tinh-giua-thanh-pho-ho-chi-minh-17112020-c166-65225.aspx</guid>
+      <enclosure url="http://vov1.vn:1953/vov1/attachments/vov1/thuhienvov1/2020_11/v1_17_11_22h00_thuc_cung_vov1_2020_1711202018.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 17 Nov 2020 07:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Nhìn lại sau 1 tháng lấy ý kiến nhân dân vào dự thảo văn kiện Đại hội XIII (12/11/2020)</title>
+      <link>http://vov1.vov.vn/chuong-trinh-thuc-cung-vov/nhin-lai-sau-1-thang-lay-y-kien-nhan-dan-vao-du-thao-van-kien-dai-hoi-xiii-1211-c166-65102.aspx</link>
+      <description><![CDATA[- Nhìn lại sau 1 tháng lấy ý kiến nhân dân vào dự thảo văn kiện Đại hội XIII.- Chuyện giữ nếp nhà ở những gia đình “Tứ đại đồng đường”.- Cô giáo dân tộc Mường lọt "bảng vàng" 10 giáo viên toàn cầu.]]></description>
+      <guid isPermaLink="false">http://vov1.vov.vn/chuong-trinh-thuc-cung-vov/nhin-lai-sau-1-thang-lay-y-kien-nhan-dan-vao-du-thao-van-kien-dai-hoi-xiii-1211-c166-65102.aspx</guid>
+      <enclosure url="http://vov1.vn:1953/vov1/attachments/vov1/hoanglienvov1/2020_11/v1_12_11_22h00_thuc_cung_vov_2020_1211202021.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Nov 2020 07:00:00 +0700</pubDate>
     </item>
     <item>
       <title>Bác sĩ Đỗ Thúy Nga, Trung tâm Hy Vọng, thuộc Hội Cứu trợ trẻ em tàn tật TP Hà Nội - người thắp sáng niềm hy vọng cho trẻ khuyết tật (11/11/2020)</title>
@@ -37,14 +45,6 @@
       <description><![CDATA[Tốt nghiệp Đại học Y Hà Nội, sau 10 năm làm bác sĩ Nhi, Bác sĩ Đỗ Thúy Nga về công tác tại Ủy ban Bảo vệ Bà Mẹ và Chăm sóc Trẻ em, rồi làm Phó Phòng Giáo dục quận Ba Đình. Tâm huyết với việc chăm sóc trẻ chậm phát triển trí tuệ, sau khi về hưu, Bác sĩ Đỗ Thúy Nga mở Trung tâm Hy Vọng (thuộc Hội Cứu trợ trẻ em tàn tật TP Hà Nội). Không chỉ tiếp nhận trẻ em ở địa bàn Hà Nội, Trung tâm còn tiếp nhận trẻ em ở hơn 20 tỉnh và thành phố như: Cao Bằng, Lạng Sơn, Quảng Ninh, Bắc Giang, Nghệ An, Quảng Trị, Huế, TPHCM... Căn nhà nằm sâu trong ngõ 290, đường Kim Mã, Hà Nội bề ngoài bình thường như tất cả các căn nhà khác, nhưng đã trở thành nơi thắp sáng niềm hy vọng cho 300 trẻ khuyết tật về trí não trong hàng chục năm qua. Trong Chuyện đêm hôm nay, chúng tôi mời quí vị gặp gỡ một người thầy đặc biệt - người thắp sáng niềm hy vọng cho trẻ khuyết tật.]]></description>
       <guid isPermaLink="false">http://vov1.vov.vn/chuyen-dem/bac-si-do-thuy-nga-trung-tam-hy-vong-thuoc-hoi-cuu-tro-tre-em-tan-tat-tp-ha-noi-c141-65083.aspx</guid>
       <enclosure url="http://vov1.vn:1953/vov1/attachments/vov1/phamvanan/2020_11/v1_1111_22h00_thuc_cung_vov_hoan_thien_1111202023.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 11 Nov 2020 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Cuốn sách hay  “Tuyên Bố Về Quyền“  do Nhà Xuất bản Kim đồng ấn hành. (11/11/2020)</title>
-      <link>http://vov1.vov.vn/trang-sach-cua-ban/cuon-sach-hay-tuyen-bo-ve-quyen-do-nha-xuat-ban-kim-dong-an-hanh-11112020-c163-65082.aspx</link>
-      <description><![CDATA[Gia đình thời hiện đại có những thay đổi như thế nào với gia đình truyền thống và quyền của mỗi thành viên? Đây không chỉ là mối quan tâm của nhiều nhà nghiên cứu về gia đình, mà còn là câu hỏi, nỗi băn khoăn của nhiều người đã và đang có những suy tư về sự chuyển đổi của thời đại, của những điều tốt đẹp trong truyền thống gia đình và phong cách, xu hướng sống của lớp trẻ trong thời buổi công nghệ 4.0 hiện nay. Điều này có ý nghĩa to lớn đối với cuộc sống gia đình, với thế hệ trẻ và ông bà, cha mẹ vốn quen với lễ, nghĩa, nền nếp truyền thống. Trong một trừng mực nào đó người lớn có thể có cái nhìn yêu thương độ lượng với người trẻ, nhưng người trẻ không vì thế mà không biết để chia sẻ và có cách đối xử phù hớp với người lớn. Trang sách của bạn đêm nay giới thiệu tới quý vị và các bạn bộ sách  “Tuyên Bố Về Quyền“  do Nhà Xuất bản Kim đồng ấn hành.]]></description>
-      <guid isPermaLink="false">http://vov1.vov.vn/trang-sach-cua-ban/cuon-sach-hay-tuyen-bo-ve-quyen-do-nha-xuat-ban-kim-dong-an-hanh-11112020-c163-65082.aspx</guid>
-      <enclosure url="http://vov1.vn:1953/vov1/attachments/vov1/phamvanan/2020_11/v1_1111_22h00_trang_sach_cua_ban_1_1111202022.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 11 Nov 2020 07:00:00 +0700</pubDate>
     </item>
   </channel>
