@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 19 Nov 2020 08:20:42 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2020 09:15:15 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 17 Nov 2020 07:00:00 +0700</pubDate>
+    <pubDate>Thu, 19 Nov 2020 07:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,12 +24,20 @@
     <itunes:subtitle>Thức cùng VOV</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThuccungVOV.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Vẳng điệu then - đàn tính giữa thành phố Hồ Chí Minh (17/11/2020)</title>
-      <link>http://vov1.vov.vn/chuong-trinh-thuc-cung-vov/vang-dieu-then-dan-tinh-giua-thanh-pho-ho-chi-minh-17112020-c166-65225.aspx</link>
-      <description><![CDATA[- Hiệu quả của dự án chỉnh trang đô thị tại Hà Nội và sự lãng phí của việc lát đá vỉa hè một cách vô tội vạ.- Vẳng điệu then - đàn tính giữa thành phố Hồ Chí Minh.- Cô giáo Đinh Thị Kem, người dân tộc H're, giáo viên Trường Tiểu học Hành Dũng, xã Hành Dũng, huyện Nghĩa Hành, tỉnh Quảng Ngãi là 1 trong 63 giáo viên tiêu biểu vừa được Bộ Giáo dục và Đào tạo tuyên dương năm 2020.]]></description>
-      <guid isPermaLink="false">http://vov1.vov.vn/chuong-trinh-thuc-cung-vov/vang-dieu-then-dan-tinh-giua-thanh-pho-ho-chi-minh-17112020-c166-65225.aspx</guid>
-      <enclosure url="http://vov1.vn:1953/vov1/attachments/vov1/thuhienvov1/2020_11/v1_17_11_22h00_thuc_cung_vov1_2020_1711202018.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 17 Nov 2020 07:00:00 +0700</pubDate>
+      <title>Cô giáo Đinh Thị Kem - Người giáo viên tiêu biểu năm 2020 (17/11/2020)</title>
+      <link>http://vov1.vov.vn/chuyen-dem/co-giao-dinh-thi-kem-nguoi-giao-vien-tieu-bieu-nam-2020-17112020-c141-65246.aspx</link>
+      <description><![CDATA[Gần chục năm gắn bó với nghề, cô giáo Đinh Thị Kem, người dân tộc H're, giáo viên Trường Tiểu học Hành Dũng, xã Hành Dũng, huyện Nghĩa Hành, tỉnh Quảng Ngãi chưa bao giờ nản lòng mà càng ngày càng gắn bó yêu nghề và người dân nơi cô công tác. Đặc thù là một bản làng có dân tộc H're sinh sống, ở vùng sâu vùng xa, giao thông cách trở, hiểu biết còn nhiều hạn chế nên việc vận động con em đến trường học là một điều rất khó khăn. Thế nhưng, là một người con của xã Hành Dũng, thấu hiểu những vất vả và những tâm tư nguyện vọng của con em dân tộc đã khiến cô Đinh Thị Kem tình nguyện cắm bản để gieo con chữ cho thế hệ học trò nơi mình sinh ra và lớn lên. Cô là 1 trong 63 giáo viên tiêu biểu đến từ 26 dân tộc thiểu số vừa được Bộ Giáo dục và Đào tạo tuyên dương trong chương trình Chia sẻ cùng thầy cô năm 2020. Phóng viên Thu Hiền trò chuyện với cô giáo Đinh Thị Kem, người dân tộc H're để nghe cô chia sẻ về những khó khăn vất vả và vượt qua trong quá trình dạy học. Mời quý vị và các bạn cùng nghe:]]></description>
+      <guid isPermaLink="false">http://vov1.vov.vn/chuyen-dem/co-giao-dinh-thi-kem-nguoi-giao-vien-tieu-bieu-nam-2020-17112020-c141-65246.aspx</guid>
+      <enclosure url="http://vov1.vn:1953/vov1/attachments/vov1/thuhienvov1/2020_11/v1_17_11_22h00_chuyen_dem_2020_191120208.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 19 Nov 2020 07:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Cô giáo dân tộc Mường lọt "bảng vàng" 10 giáo viên toàn cầu (12/11/2020)</title>
+      <link>http://vov1.vov.vn/chuyen-dem/co-giao-dan-toc-muong-lot-bang-vang-10-giao-vien-toan-cau-12112020-c141-65103.aspx</link>
+      <description><![CDATA[Cô giáo tiếng Anh Hà Ánh Phượng, Trường THPT Hương Cần, Thanh Sơn, Phú Thọ vừa vinh dự lọt top 10 giáo viên toàn cầu do Varkey Foundation bình chọn.]]></description>
+      <guid isPermaLink="false">http://vov1.vov.vn/chuyen-dem/co-giao-dan-toc-muong-lot-bang-vang-10-giao-vien-toan-cau-12112020-c141-65103.aspx</guid>
+      <enclosure url="http://vov1.vn:1953/vov1/attachments/vov1/hoanglienvov1/2020_11/v1_12_11_22h00_chuyen_dem_2020_1211202021.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Nov 2020 07:00:00 +0700</pubDate>
     </item>
     <item>
       <title>Nhìn lại sau 1 tháng lấy ý kiến nhân dân vào dự thảo văn kiện Đại hội XIII (12/11/2020)</title>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov1.vov.vn/chuong-trinh-thuc-cung-vov/nhin-lai-sau-1-thang-lay-y-kien-nhan-dan-vao-du-thao-van-kien-dai-hoi-xiii-1211-c166-65102.aspx</guid>
       <enclosure url="http://vov1.vn:1953/vov1/attachments/vov1/hoanglienvov1/2020_11/v1_12_11_22h00_thuc_cung_vov_2020_1211202021.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 12 Nov 2020 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Bác sĩ Đỗ Thúy Nga, Trung tâm Hy Vọng, thuộc Hội Cứu trợ trẻ em tàn tật TP Hà Nội - người thắp sáng niềm hy vọng cho trẻ khuyết tật (11/11/2020)</title>
-      <link>http://vov1.vov.vn/chuyen-dem/bac-si-do-thuy-nga-trung-tam-hy-vong-thuoc-hoi-cuu-tro-tre-em-tan-tat-tp-ha-noi-c141-65083.aspx</link>
-      <description><![CDATA[Tốt nghiệp Đại học Y Hà Nội, sau 10 năm làm bác sĩ Nhi, Bác sĩ Đỗ Thúy Nga về công tác tại Ủy ban Bảo vệ Bà Mẹ và Chăm sóc Trẻ em, rồi làm Phó Phòng Giáo dục quận Ba Đình. Tâm huyết với việc chăm sóc trẻ chậm phát triển trí tuệ, sau khi về hưu, Bác sĩ Đỗ Thúy Nga mở Trung tâm Hy Vọng (thuộc Hội Cứu trợ trẻ em tàn tật TP Hà Nội). Không chỉ tiếp nhận trẻ em ở địa bàn Hà Nội, Trung tâm còn tiếp nhận trẻ em ở hơn 20 tỉnh và thành phố như: Cao Bằng, Lạng Sơn, Quảng Ninh, Bắc Giang, Nghệ An, Quảng Trị, Huế, TPHCM... Căn nhà nằm sâu trong ngõ 290, đường Kim Mã, Hà Nội bề ngoài bình thường như tất cả các căn nhà khác, nhưng đã trở thành nơi thắp sáng niềm hy vọng cho 300 trẻ khuyết tật về trí não trong hàng chục năm qua. Trong Chuyện đêm hôm nay, chúng tôi mời quí vị gặp gỡ một người thầy đặc biệt - người thắp sáng niềm hy vọng cho trẻ khuyết tật.]]></description>
-      <guid isPermaLink="false">http://vov1.vov.vn/chuyen-dem/bac-si-do-thuy-nga-trung-tam-hy-vong-thuoc-hoi-cuu-tro-tre-em-tan-tat-tp-ha-noi-c141-65083.aspx</guid>
-      <enclosure url="http://vov1.vn:1953/vov1/attachments/vov1/phamvanan/2020_11/v1_1111_22h00_thuc_cung_vov_hoan_thien_1111202023.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 11 Nov 2020 07:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
