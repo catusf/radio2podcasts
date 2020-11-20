@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 20 Nov 2020 22:14:58 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2020 23:20:34 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 19 Nov 2020 07:00:00 +0700</pubDate>
+    <pubDate>Fri, 20 Nov 2020 07:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Kể chuyện và hát ru cho bé</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Kechuyenvahatruchobe.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Chàng trai thông minh trong truyện cổ tích "Phép màu" (P1)19/11/2020</title>
+      <title>Chàng trai thông minh trong truyện cổ tích "Phép màu" (P2)20/11/2020</title>
+      <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/chang-trai-thong-minh-trong-truyen-co-tich-phep-mau-p2-c43-32120.aspx</link>
+      <description><![CDATA[Thoát khỏi lão phù thủy, chàng trai cũng học được những phép màu. Song những thử thách vẫn đến với chàng. Với trí thông minh, sự nhanh nhẹn và can đảm, chàng trai ấy đã vượt qua những trở ngại như thế nào để có cuộc sống bình yên? (Kể chuyện và hát ru cho bé 19/11/2020)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/chang-trai-thong-minh-trong-truyen-co-tich-phep-mau-p2-c43-32120.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2020_11/v2_1911_21h45_ke_chuyen_va_hat_ru_cho_be_2011202022.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 20 Nov 2020 07:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Chàng trai thông minh trong truyện cổ tích "Phép màu" (P1) 19/11/2020</title>
       <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/chang-trai-thong-minh-trong-truyen-co-tich-phep-mau-p1-c43-32115.aspx</link>
       <description><![CDATA[Chàng trai trong câu chuyện này rất thông minh nhanh nhẹn. Mặc dù bị lão phù thủy biến thành các con vật khác nhau nhưng chàng đã chỉ cách cho cha mình nhận ra. Sau đó, chàng trai cũng học được nhiều phép thuật. Những phép thuật này có giúp ích hay đem lại phiền toái cho cha con chàng? (Kể chuyện và hát ru 18/11/2020)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/chang-trai-thong-minh-trong-truyen-co-tich-phep-mau-p1-c43-32115.aspx</guid>
@@ -37,14 +45,6 @@
       <description><![CDATA[Hoa nhài bé nhỏ trắng ngần có hương dịu mát. Mùi thơm của hoa nhài đặc biệt thanh khiết và sâu thẳm khi đêm xuống. Một loài hoa quý nhưng luôn khiêm nhường, tận tụy. Các bé đã biết nguồn gốc của hoa nhài chưa? (Kể chuyện và hát ru 16/11/2020)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/su-tich-hoa-nhai-c43-32102.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/v2_1611_21h45_ke_chuyen_va_hat_ru_1811202012.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 18 Nov 2020 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Sự tích hoa nhài  18/11/2020</title>
-      <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/su-tich-hoa-nhai-c43-32101.aspx</link>
-      <description><![CDATA[Hoa nhài bé nhỏ trắng ngần và hương thơm dịu mát. Mùi thơm của hoa nhài đặc biệt thanh khiết và sâu thẳm khi đêm xuống. Một loài hoa quý nhưng luôn khiêm nhường, tận tụy. Các bé đã biết nguồn gốc của hoa nhài chưa? (Kể chuyện và hát ru 16/11/2020)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/su-tich-hoa-nhai-c43-32101.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2020_11/v2_1611_21h45_ke_chuyen_va_hat_ru_1811202011.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 18 Nov 2020 07:00:00 +0700</pubDate>
     </item>
   </channel>
