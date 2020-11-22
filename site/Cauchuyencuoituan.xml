@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 22 Nov 2020 18:11:43 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2020 19:15:40 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 15 Nov 2020 07:00:00 +0700</pubDate>
+    <pubDate>Sun, 22 Nov 2020 07:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,10 +24,18 @@
     <itunes:subtitle>Câu chuyện cuối tuần</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Cauchuyencuoituan.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Câu chuyện cuối tuần 15-11-2020</title>
+      <title>Câu chuyện cuối tuần 22-11-2020</title>
       <link>http://www.drt.danang.vn/chuong_trinh-203-cau_chuyen_cuoi_tuan</link>
-      <description><![CDATA[Câu chuyện cuối tuần 15-11-2020]]></description>
+      <description><![CDATA[Câu chuyện cuối tuần 22-11-2020]]></description>
       <guid isPermaLink="false">http://www.drt.danang.vn/chuong_trinh-203-cau_chuyen_cuoi_tuan</guid>
+      <enclosure url="http://www.drt.danang.vn/Uploads/Media/AUDIO/CAU CHUYEN CUOI TUAN/NAM 2020/CAU CHUYEN CUOI TUAN PHAT TOI 22-11-2020.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 22 Nov 2020 07:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Câu chuyện cuối tuần 15-11-2020</title>
+      <link>http://www.drt.danang.vn/truyen_hinh-40565-203</link>
+      <description><![CDATA[Câu chuyện cuối tuần 15-11-2020]]></description>
+      <guid isPermaLink="false">http://www.drt.danang.vn/truyen_hinh-40565-203</guid>
       <enclosure url="http://www.drt.danang.vn/Uploads/Media/AUDIO/CAU CHUYEN CUOI TUAN/NAM 2020/CAU CHUYEN CUOI TUAN PHAT TOI 15-11-2020.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 15 Nov 2020 07:00:00 +0700</pubDate>
     </item>
@@ -62,14 +70,6 @@
       <guid isPermaLink="false">http://www.drt.danang.vn/truyen_hinh-39891-203</guid>
       <enclosure url="http://www.drt.danang.vn/Uploads/Media/AUDIO/CAU CHUYEN CUOI TUAN/NAM 2020/CAU CHUYEN CUOI TUAN PHAT TOI 18.10.2020.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 18 Oct 2020 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Câu chuyện cuối tuần 11-10-2020</title>
-      <link>http://www.drt.danang.vn/truyen_hinh-39726-203</link>
-      <description><![CDATA[Câu chuyện cuối tuần 11-10-2020]]></description>
-      <guid isPermaLink="false">http://www.drt.danang.vn/truyen_hinh-39726-203</guid>
-      <enclosure url="http://www.drt.danang.vn/Uploads/Media/AUDIO/CAU CHUYEN CUOI TUAN/NAM 2020/CAU CHUYEN CUOI TUAN TOI 11-10-2020.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 11 Oct 2020 07:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
