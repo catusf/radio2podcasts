@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 24 Nov 2020 15:17:48 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2020 16:15:13 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 23 Nov 2020 13:00:00 +0700</pubDate>
+    <pubDate>Tue, 24 Nov 2020 14:39:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Còn 1-2 cơn bão,áp thấp nhiệt đới có thể hướng vào đất liền Việt Nam - Sài Gòn buổi sáng 24/11/2020</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/con-1-2-con-bao-ap-thap-nhiet-doi-co-the-huong-vao-dat-lien-viet-nam-sai-gon-buoi-sang-24-11-2020-385561.html</link>
+      <description><![CDATA[07:39 - 24/11/2020]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/con-1-2-con-bao-ap-thap-nhiet-doi-co-the-huong-vao-dat-lien-viet-nam-sai-gon-buoi-sang-24-11-2020-385561.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/11/24/FMSGBS06h00p241120cuon1-Copy.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 24 Nov 2020 14:39:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Sài Gòn buổi sáng - 23/11/2020</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-23-11-2020-385427.html</link>
       <description><![CDATA[06:00 - 23/11/2020]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-23-11-2020-385427.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/11/23/FMSGBS06h00p231120.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 23 Nov 2020 13:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Sài Gòn buổi sáng - 22/11/2020</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-22-11-2020-385365.html</link>
-      <description><![CDATA[09:58 - 22/11/2020]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-22-11-2020-385365.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/11/22/FMSaigonbuoisang06h00p221120.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 22 Nov 2020 16:58:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
