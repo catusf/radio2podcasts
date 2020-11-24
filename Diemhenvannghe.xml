@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 24 Nov 2020 11:16:11 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2020 12:13:41 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 27 Oct 2020 07:00:00 +0700</pubDate>
+    <pubDate>Mon, 23 Nov 2020 07:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Điểm hẹn văn nghệ</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Diemhenvannghe.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Hoa sữa tuổi thơ  27/10/2020</title>
+      <title>“Ròm”: Bộ phim đoạt giải phim hay nhất tại LHP Quốc tế Busan lần thứ 22  23/11/2020</title>
+      <link>http://vov6.vov.vn/diem-hen-van-nghe/rom-bo-phim-doat-giai-phim-hay-nhat-tai-lhp-quoc-te-busan-lan-thu-22-c158-32122.aspx</link>
+      <description><![CDATA[Là phim Việt đầu tiên đoạt giải cao nhất tại Liên hoan phim Quốc tế Busan - Hàn Quốc, một trong những LHP lớn nhất châu Á, bộ phim “Ròm” của đạo diễn Trần Thanh Huy khai thác chủ đề người lao động, đặc biệt các thiếu niên đường phố. Phim được công chiếu tại các rạp trên toàn quốc sau nhiều lần lỡ hẹn. (Điểm hẹn văn nghệ 24/10/2020)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/rom-bo-phim-doat-giai-phim-hay-nhat-tai-lhp-quoc-te-busan-lan-thu-22-c158-32122.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/24-10_dhvn_hoan_chinh_2411202011.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 23 Nov 2020 07:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Hoa sữa tuổi thơ   27/10/2020</title>
       <link>http://vov6.vov.vn/diem-hen-van-nghe/hoa-sua-tuoi-tho-c158-32053.aspx</link>
       <description><![CDATA[“Tôi yêu lắm mùa hoa sữa nở/ Hoa rụng ven hè gợi nhớ bước chân qua”...Ca khúc “Hoa sữa tuổi thơ” được nhạc sĩ Đào Quang Minh phổ nhạc từ bài thơ cùng tên của tác giả Đào Trọng Thắng. Giai điệu tha thiết gợi nhớ về tuổi trẻ khi anh dắt tay em đi qua những tuyến phố nồng nàn hương hoa sữa. (Điểm hẹn văn nghệ 10/10/2020)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/hoa-sua-tuoi-tho-c158-32053.aspx</guid>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/moi-tinh-hon-70-nam-trong-phim-minh-oi-xin-dung-qua-song-c158-32016.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2020_10/v2_2609_08h00_18h30_diem_hen_van_nghe_1710202011.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 17 Oct 2020 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Tiếng nói nâng đỡ nỗi bơ vơ   8/9/2020</title>
-      <link>http://vov6.vov.vn/diem-hen-van-nghe/tieng-noi-nang-do-noi-bo-vo-c158-31931.aspx</link>
-      <description><![CDATA[Bài viết của tiến sĩ giáo dục, nhà thơ Nguyễn Thụy Anh là những cung bậc cảm xúc của một thính giả đã gắn bó với sóng phát thanh từ khi còn nhỏ. Sau này, chị có điều kiện ra nước ngoài học tập và làm việc. Chiếc đài một lần nữa là người bạn tri kỷ. Bởi khi thanh âm phát lên, chị như thấy bớt nhớ quê hương, bớt nhớ gia đình và nâng đỡ tâm hồn nơi đất khách quê người…(Điểm hẹn văn nghệ 05/9/2020)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/tieng-noi-nang-do-noi-bo-vo-c158-31931.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2020_9/v2_0509_08h0018h30_diem_hen_van_nghe_89202020.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 08 Sep 2020 07:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
