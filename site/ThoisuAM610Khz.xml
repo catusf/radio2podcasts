@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 24 Nov 2020 15:18:03 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2020 16:15:28 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 23 Nov 2020 18:00:00 +0700</pubDate>
+    <pubDate>Tue, 24 Nov 2020 20:25:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,28 +24,28 @@
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>14.600 tỷ đồng làm hai đoạn Vành đai 2 TPHCM - Thời sự 17g00 23/11/2020</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/14-600-ty-dong-lam-hai-doan-vanh-dai-2-tphcm-thoi-su-17g00-23-11-2020-385608.html</link>
+      <description><![CDATA[13:25 - 24/11/2020]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/14-600-ty-dong-lam-hai-doan-vanh-dai-2-tphcm-thoi-su-17g00-23-11-2020-385608.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/11/24/AMThoisu17h00p231120.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 24 Nov 2020 20:25:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Hà Nội và TPHCM gia tăng ô nhiễm không khí - Thời sự 11g00 24/11/2020</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/ha-noi-va-tphcm-gia-tang-o-nhiem-khong-khi-thoi-su-11g00-24-11-2020-385606.html</link>
+      <description><![CDATA[13:18 - 24/11/2020]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/ha-noi-va-tphcm-gia-tang-o-nhiem-khong-khi-thoi-su-11g00-24-11-2020-385606.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/11/24/AMThoisu11h00p241120-Copy.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 24 Nov 2020 20:18:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Quỹ Tiền tệ Quốc tế: Kinh tế Việt Nam sẽ phục hồi mạnh trong năm 2021 - Thời sự 11g00 23/11/2020</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/quy-tien-te-quoc-te-kinh-te-viet-nam-se-phuc-hoi-manh-trong-nam-2021-thoi-su-11g00-23-11-2020-385462.html</link>
       <description><![CDATA[11:00 - 23/11/2020]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/quy-tien-te-quoc-te-kinh-te-viet-nam-se-phuc-hoi-manh-trong-nam-2021-thoi-su-11g00-23-11-2020-385462.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/11/23/AMThoisu11h00p231120.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 23 Nov 2020 18:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Kỷ niệm 80 năm ngày Nam Kỳ khởi nghĩa (23/11/1940 - 23/11/2020) - Thời sự 5g30 23/11/2020</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/ky-niem-80-nam-ngay-nam-ky-khoi-nghia-23-11-1940-23-11-2020-thoi-su-5g30-23-11-2020-385428.html</link>
-      <description><![CDATA[06:00 - 23/11/2020]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/ky-niem-80-nam-ngay-nam-ky-khoi-nghia-23-11-1940-23-11-2020-thoi-su-5g30-23-11-2020-385428.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/11/23/AMThoisu05h30p231120.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 23 Nov 2020 13:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Hội nghị thượng đỉnh G20: Hiện thực hóa các cơ hội trong thế kỷ 21 - Thời sự 11g00 22/11/2020</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/hoi-nghi-thuong-dinh-g20-hien-thuc-hoa-cac-co-hoi-trong-the-ky-21-thoi-su-11g00-22-11-2020-385426.html</link>
-      <description><![CDATA[10:20 - 23/11/2020]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/hoi-nghi-thuong-dinh-g20-hien-thuc-hoa-cac-co-hoi-trong-the-ky-21-thoi-su-11g00-22-11-2020-385426.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/11/23/AMThoisu11h00p221120cuon1.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 23 Nov 2020 17:20:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
