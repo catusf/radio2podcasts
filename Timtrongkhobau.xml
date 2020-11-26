@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 26 Nov 2020 10:16:19 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2020 11:17:19 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 18 Nov 2020 07:00:00 +0700</pubDate>
+    <pubDate>Thu, 26 Nov 2020 07:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Tìm trong kho báu</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Timtrongkhobau.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Ngài Uy Viễn tướng công và nợ duyên chiếu hát ả đào   18/11/2020</title>
+      <title>Đại hội Hội Nhà văn Việt Nam lần thứ 10: Tạo dựng những giá trị nhân văn mới cho xã hội thông qua văn học26/11/2020</title>
+      <link>http://vov6.vov.vn/tim-trong-kho-bau/dai-hoi-hoi-nha-van-viet-nam-lan-thu-10-tao-dung-nhung-gia-tri-nhan-van-moi-cho-c54-32133.aspx</link>
+      <description><![CDATA[Sau 3 ngày diễn ra, Đại hội Đại biểu Hội Nhà văn Việt Nam khóa X, nhiệm kỳ 2020-2025 đã thành công tốt đẹp với lễ bế mạc và ra mắt Ban chấp hành mới vào ngày 25/11. Nhà thơ Nguyễn Quang Thiều được tín nhiệm bầu làm Chủ tịch Hội Nhà văn Việt Nam. Một nhiệm kỳ mới hứa hẹn những đột phá không chỉ trong Ban chấp hành Hội Nhà văn Việt Nam, mà còn cho tất cả các hội viên Hội Nhà văn Việt Nam, những người đang dùng ngòi bút của mình để phản ánh công cuộc xây dựng và phát triển đất nước, nói lên tiếng lòng của nhân thông qua tác phẩm văn chương cụ thể, chất lượng, đưa vị thế nền văn chương nước nhà lên tầm cao mới, được bạn bè năm châu đón nhận. Chúng ta cùng hi vọng và kỳ vọng Hội Nhà văn Việt Nam trong thời gian tới sẽ thay đổi cả về chất và lượng, để văn chương luôn là cấu nối gắn kết những con người với nhau...(Văn nghệ 26/11/2020)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/dai-hoi-hoi-nha-van-viet-nam-lan-thu-10-tao-dung-nhung-gia-tri-nhan-van-moi-cho-c54-32133.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/v2_2611_08h0018h30_van_nghe_2611202010.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 26 Nov 2020 07:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Ngài Uy Viễn tướng công và nợ duyên chiếu hát ả đào    18/11/2020</title>
       <link>http://vov6.vov.vn/tim-trong-kho-bau/ngai-uy-vien-tuong-cong-va-no-duyen-chieu-hat-a-dao-c54-32104.aspx</link>
       <description><![CDATA[Học giả Nguyễn Văn Ngọc từng nói về hấp lực để các văn nhân tài tử sáng tác hát nói là “đưa cho ca nương lên giọng hát đi với cung đàn, nhịp phách rồi chính mình cầm chầu thưởng thức văn của mình giữa chỗ trù nhân quảng tọa, trước chiếu rượu tưng bừng nhộn nhịp”. Từ sáng tác theo điệu hát nói của nhà thơ Nguyễn Công Trứ, PGS – TS Vũ Nho đã làm sáng hơn nữa vẻ đẹp nguyên gốc của một sinh hoạt văn hóa cũng như tài năng của ca nương, văn nhân, tài tử, trong đó có nhà thơ Nguyễn Công Trứ - người có công đầu trong việc đưa hát nói vào văn học và phát triển thành một thể tài độc đáo mang đậm đà bản sắc dân tộc]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/ngai-uy-vien-tuong-cong-va-no-duyen-chieu-hat-a-dao-c54-32104.aspx</guid>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/nguyen-cong-tru-va-tho-van-nang-c54-32093.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/v2_121611_08h00_tim_trong_kho_bau_pl_18h30_1211202011.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 12 Nov 2020 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Nguyễn Công Trứ: Cuộc đời như tiểu thuyết 5/11/2020</title>
-      <link>http://vov6.vov.vn/tim-trong-kho-bau/nguyen-cong-tru-cuoc-doi-nhu-tieu-thuyet-c54-32080.aspx</link>
-      <description><![CDATA[Nguyễn Công Trứ làm quan dưới bốn triều vua Gia Long, Minh Mạng, Thiệu Trị và Tự Đức, lập nhiều chiến công như khai hoang, mộ dân, đánh dẹp các cuộc nổi dậy chống triều đình. Địa vị hiển hách nhưng cũng có những lúc, Nguyễn Công Trứ bị giáng chức, đỉnh điểm là bị lột mũ áo, giáng làm lính thú ở nơi biên thùy. Chương trình hôm nay, mời các bạn cùng dõi theo những bước đường đời của kẻ sĩ: “Khi Thủ khoa, khi Tham tán, khi Tổng đốc Đông/ Gồm thao lược đã nên tay ngất ngưởng/ Lúc bình Tây, cờ đại tướng/ Có khi về Phủ doãn Thừa Thiên”.]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/nguyen-cong-tru-cuoc-doi-nhu-tieu-thuyet-c54-32080.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2020_11/v2_050911_08h00_tim_trong_kho_bau_pl_18h30_511202014.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 05 Nov 2020 07:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
