@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 27 Nov 2020 09:18:39 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2020 10:16:15 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 26 Nov 2020 19:34:00 +0700</pubDate>
+    <pubDate>Fri, 27 Nov 2020 13:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Bài 4: Liên kết ba nhà: Cần bắt tay đi chặng đường dài - Thời sự 05g30 27/11/2020</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/bai-4-lien-ket-ba-nha-can-bat-tay-di-chang-duong-dai-thoi-su-05g30-27-11-2020-385905.html</link>
+      <description><![CDATA[06:00 - 27/11/2020]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/bai-4-lien-ket-ba-nha-can-bat-tay-di-chang-duong-dai-thoi-su-05g30-27-11-2020-385905.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/11/27/ts0530-271120.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 27 Nov 2020 13:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Chủ tịch UBND TPHCM Nguyễn Thành Phong tiếp xúc cử tri Quận 1 - Thời sự 11g00 26/11/2020</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/chu-tich-ubnd-tphcm-nguyen-thanh-phong-tiep-xuc-cu-tri-quan-1-thoi-su-11g00-26-11-2020-385824.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/bai-3-lien-ket-ba-nha-su-hop-tac-tat-yeu-thoi-su-5g30-26-11-2020-385795.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/11/26/AMThoisu05h30p261120.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 26 Nov 2020 16:02:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Công bố sản phẩm đạt Thương hiệu quốc gia Việt Nam năm 2020 - Thời sự 17g00 25/11/2020</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/cong-bo-san-pham-dat-thuong-hieu-quoc-gia-viet-nam-nam-2020-thoi-su-17g00-25-11-2020-385740.html</link>
-      <description><![CDATA[19:35 - 25/11/2020]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/cong-bo-san-pham-dat-thuong-hieu-quoc-gia-viet-nam-nam-2020-thoi-su-17g00-25-11-2020-385740.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/11/25/AMThoisu17h00p251120.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 26 Nov 2020 02:35:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
