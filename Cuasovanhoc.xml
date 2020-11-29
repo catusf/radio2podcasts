@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 29 Nov 2020 19:20:23 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 29 Nov 2020 20:14:42 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 23 Nov 2020 05:00:00 +0700</pubDate>
+    <pubDate>Mon, 30 Nov 2020 02:50:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Cửa sổ văn học trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Cuasovanhoc.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Phát động cuộc thi viết “Nhớ thương mùi Tết" - Cửa sổ văn học 29/11/2020</title>
+      <link>https://radio.voh.com.vn/cua-so-van-hoc/phat-dong-cuoc-thi-viet-nho-thuong-mui-tet-cua-so-van-hoc-29-11-2020-386042.html</link>
+      <description><![CDATA[19:50 - 29/11/2020]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/phat-dong-cuoc-thi-viet-nho-thuong-mui-tet-cua-so-van-hoc-29-11-2020-386042.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/11/28/FMCuasovanhoc07h00p291120.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 30 Nov 2020 02:50:00 +0700</pubDate>
+    </item>
     <item>
       <title>Cửa sổ văn học - 22/11/2020</title>
       <link>https://radio.voh.com.vn/cua-so-van-hoc/cua-so-van-hoc-22-11-2020-385336.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/phat-duong-sinh-doi-sau-mua-dich-cua-so-van-hoc-15-11-2020-384620.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/11/16/FMCuasovanhoc07h00p151120.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 16 Nov 2020 15:42:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>"Bên suối bịt tai nghe gió" cùng Văn Thành Lê trở về với giấc mơ tuổi thơ - Cửa sổ văn học 8/11/2020</title>
-      <link>https://radio.voh.com.vn/cua-so-van-hoc/ben-suoi-bit-tai-nghe-gio-cung-van-thanh-le-tro-ve-voi-giac-mo-tuoi-tho-cua-so-van-hoc-8-11-2020-383764.html</link>
-      <description><![CDATA[21:03 - 08/11/2020]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/ben-suoi-bit-tai-nghe-gio-cung-van-thanh-le-tro-ve-voi-giac-mo-tuoi-tho-cua-so-van-hoc-8-11-2020-383764.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/11/07/FMCuasovanhoc07h00p081120.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 09 Nov 2020 04:03:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
