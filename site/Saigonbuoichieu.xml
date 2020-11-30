@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 30 Nov 2020 16:16:50 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 30 Nov 2020 17:17:31 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 25 Nov 2020 00:09:00 +0700</pubDate>
+    <pubDate>Mon, 30 Nov 2020 22:18:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi chiều hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Saigonbuoichieu.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Sài Gòn buổi chiều - 29/11/2020</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-chieu/sai-gon-buoi-chieu-29-11-2020-386234.html</link>
+      <description><![CDATA[15:18 - 30/11/2020]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-chieu/sai-gon-buoi-chieu-29-11-2020-386234.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/11/30/FMSaigonbuoichieu18h00p291120.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 30 Nov 2020 22:18:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Sài Gòn buổi chiều - 22/11/2020</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-chieu/sai-gon-buoi-chieu-22-11-2020-385640.html</link>
       <description><![CDATA[17:09 - 24/11/2020]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-chieu/sai-gon-buoi-chieu-22-11-2020-385640.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/11/24/SGBC-221120.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 25 Nov 2020 00:09:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Sài Gòn buổi chiều - 15/11/2020</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-chieu/sai-gon-buoi-chieu-15-11-2020-385624.html</link>
-      <description><![CDATA[15:36 - 15/11/2020]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-chieu/sai-gon-buoi-chieu-15-11-2020-385624.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/11/24/SGBC-15112020.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 15 Nov 2020 22:36:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
