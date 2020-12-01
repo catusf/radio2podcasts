@@ -9,7 +9,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 01 Dec 2020 11:18:51 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 01 Dec 2020 12:14:59 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
     <pubDate>Sun, 29 Nov 2020 07:00:00 +0700</pubDate>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Văn nghệ thiếu nhi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Vannghethieunhi.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Đọc truyện "Dế Mèn phiêu lưu ký" - Buổi 15 - Thoát nạn29/11/2020</title>
+      <title>Đọc truyện "Dế Mèn phiêu lưu ký" - Buổi 16 - Xung đột ở vùng đất Kiến  29/11/2020</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-de-men-phieu-luu-ky-buoi-16-xung-dot-o-vung-dat-kien-c44-32149.aspx</link>
+      <description><![CDATA[Dế Mèn và các bạn lên đường đến vùng Kiến. Nói đến Kiến, Dế Mèn vô cùng cảm phục bởi đức tính đoàn kết, chăm chỉ, kiên cường, đặc biệt là biết lo xa. Tuy nhiên, Dế Mèn và các bạn đã bị hiểu lầm ở vùng đất Kiến. Một cuộc xung đột dữ dội diễn ra... (Văn nghệ thiếu nhi 29/11/2020)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-de-men-phieu-luu-ky-buoi-16-xung-dot-o-vung-dat-kien-c44-32149.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/v2_2911_10h4518h15_van_nghe_thieu_nhi_112202011.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 29 Nov 2020 07:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Đọc truyện "Dế Mèn phiêu lưu ký" - Buổi 15 - Thoát nạn 29/11/2020</title>
       <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-de-men-phieu-luu-ky-buoi-15-thoat-nan-c44-32148.aspx</link>
       <description><![CDATA[Nhờ Dế Trũi, bác Xiến Tóc và các bạn Châu chấu voi, Dế Mèn được cứu khỏi hang lão chim Trả. Tất cả gặp nhau vô cùng mừng rỡ. Họ nhanh chóng lên đường đến vùng đất mới... (Văn nghệ thiếu nhi 28/11/2020)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-de-men-phieu-luu-ky-buoi-15-thoat-nan-c44-32148.aspx</guid>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-de-men-phieu-luu-ky-buoi-14-tu-binh-c44-32147.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2020_11/v2_2711_10h4518h15_van_nghe_thieu_nhi_2_291120209.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 29 Nov 2020 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Nặn tò he ở phố đi bộ Hồ Gươm  27/11/2020</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/nan-to-he-o-pho-di-bo-ho-guom-c44-32143.aspx</link>
-      <description><![CDATA[Phố đi bộ quanh hồ Gươm ở Hà Nội là không gian văn hóa được người dân thủ đô và du khách mong chờ mỗi dịp cuối tuần.  Nhiều hoạt động nghệ thuật được diễn sôi nổi hấp dẫn, như các tụ điểm biểu diễn âm nhạc, ca múa, trò chơi…Và có một điểm đặc biệt ấn tượng đó là gian hàng Tò He của các nghệ nhân làng Phượng Dực - Phú Xuyên - Hà Nội, bền bỉ lưu giữ nét đẹp văn hóa dân gian... (Văn nghệ thiếu nhi 25/11/2020)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/nan-to-he-o-pho-di-bo-ho-guom-c44-32143.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2020_11/v2_2511_10h4518h15_van_nghe_thieu_nhi_2711202016.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 27 Nov 2020 07:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
