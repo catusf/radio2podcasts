@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 10 Dec 2020 08:42:39 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 10 Dec 2020 09:24:10 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 08 Dec 2020 07:00:00 +0700</pubDate>
+    <pubDate>Wed, 09 Dec 2020 07:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,28 +24,29 @@
     <itunes:subtitle>Thức cùng VOV</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThuccungVOV.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Nhạc sỹ, họa sỹ Trần Ngọc, người nổi tiếng với nhiều bài hát gắn liền với tuổi thơ (08/12/2020)</title>
-      <link>http://vov1.vov.vn/chuyen-dem/nhac-sy-hoa-sy-tran-ngoc-nguoi-noi-tieng-voi-nhieu-bai-hat-gan-lien-voi-tuoi-th-c141-66700.aspx</link>
-      <description><![CDATA[Nhạc sỹ Trần Ngọc, tác giả ca khúc “Em như chim câu trắng”, top 50 ca khúc hay nhất cho thiếu nhi thế kỷ 20. Ông được giới văn nghệ sỹ đánh giá là người đa tài. Mặc dù đã gần 80 tuổi nhưng ông vẫn đều đặn sáng tác nhiều bài hát cho trẻ em, nhạc gắn với thời sự như các bài hát về phòng chống dịch bệnh Covid bằng sự kết hợp nhuần nhuyễn thể loại múa và âm nhạc với hội họa. Không chỉ nổi tiếng với những bài hát về tuổi thơ, ông còn nổi tiếng với nhiều bài hát ở các vùng miền gắn với tên tuổi ông.]]></description>
-      <guid isPermaLink="false">http://vov1.vov.vn/chuyen-dem/nhac-sy-hoa-sy-tran-ngoc-nguoi-noi-tieng-voi-nhieu-bai-hat-gan-lien-voi-tuoi-th-c141-66700.aspx</guid>
-      <enclosure url="http://vov1.vn:1953/vov1/attachments/vov1/phamvanan/2020_12/chuyen_an_812202023.mp3" length="0" type="audio/mpeg"/>
+      <title>Doanh nhân 9x ở Đắc Nông, một trong 56 gương mặt trẻ nhận giải thưởng Lương Định Của lần  năm 2020 (09/12/2020)</title>
+      <link>http://vov1.vov.vn/chuyen-dem/doanh-nhan-9x-o-dac-nong-mot-trong-56-guong-mat-tre-nhan-giai-thuong-luong-dinh-c141-66722.aspx</link>
+      <description><![CDATA[Tốt nghiệp đại học với chuyên ngành kế toán, nhưng “bén duyên với cà phê”, niềm đam mê có thể làm được một điều gì đó từ cà phê mà năm 2004, Lê Văn Hoàng, chàng trai 24 tuổi đã quyết định rẽ ngang sang lĩnh vực hoàn toàn khác. Quán cà phê mang tên Enjoy được Lê Văn Hoàng mở ngay tại thị xã Gia Nghĩa, tỉnh Đắc Nông để bắt đầu con đường khởi nghiệp. 
+Năm 2015, anh thành lập Công ty TNHH Một thành viên Cà phê Bazan Đắk Nông, tên thương hiệu Enjoy Coffee chuyên trồng và chế biến cà phê. Hiện tại, công ty có nông trại 17 ha trồng cây cà phê và liên kết với khoản 30 nông hộ tại Đắk Nông với sản lượng 300 tấn/năm. Doanh thu đạt 15 tỷ đồng/năm, lợi nhuận đạt 2 tỷ đồng/năm, giải quyết việc làm thường xuyên cho 25 thanh niên và 55 lao động thời vụ. Với những thành tích đó, Lê Văn Hoàng đã được chọn là một trong 56 gương mặt trẻ được Trung ương Đoàn Thanh niên cộng sản Hồ Chí Minh trao giải thưởng Lương Đình Của lần thứ 15 năm 2020.]]></description>
+      <guid isPermaLink="false">http://vov1.vov.vn/chuyen-dem/doanh-nhan-9x-o-dac-nong-mot-trong-56-guong-mat-tre-nhan-giai-thuong-luong-dinh-c141-66722.aspx</guid>
+      <enclosure url="http://vov1.vn:1953/vov1/attachments/vov1/phamvanan/2020_12/dem_912202021.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 09 Dec 2020 07:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Tăng trưởng kinh tế trong năm 2020 và sự điều hành của Chính phủ (08/12/20200)</title>
+      <link>http://vov1.vov.vn/thuc-cung-vov/tang-truong-kinh-te-trong-nam-2020-va-su-dieu-hanh-cua-chinh-phu-081220200-c133-66699.aspx</link>
+      <description><![CDATA[-  Dấu ấn tăng trưởng kinh tế.- Già làng A Blong, ngọn cờ đầu của người Rơ Măm trên biên giới Mô Rai, tỉnh Kon Tum.]]></description>
+      <guid isPermaLink="false">http://vov1.vov.vn/thuc-cung-vov/tang-truong-kinh-te-trong-nam-2020-va-su-dieu-hanh-cua-chinh-phu-081220200-c133-66699.aspx</guid>
+      <enclosure url="http://vov1.vn:1953/vov1/attachments/vov1/phamvanan/2020_12/v1_0812_22h00_thuc_cung_vov1_812202023.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 08 Dec 2020 07:00:00 +0700</pubDate>
     </item>
     <item>
-      <title>Dự án sử dụng rác thải để tạo thành các tác phẩm nghệ thuật của một nghệ sĩ Hàn Quốc (3/12/2020)</title>
-      <link>http://vov1.vov.vn/chuong-trinh-thuc-cung-vov/du-an-su-dung-rac-thai-de-tao-thanh-cac-tac-pham-nghe-thuat-cua-mot-nghe-si-han-c166-66592.aspx</link>
-      <description><![CDATA[- Kích cầu cho ngành du lịch đang bị ảnh hưởng nặng nề do dịch bệnh Covid-19: Tặng du khách 1 triệu đồng/ tour, liệu có vực dậy thị trường du lịch?- Anh Phan Minh Tiến, chủ thương hiệu mật dừa nước Ông Sáu với mong muốn đưa mật dừa nước ra thị trường thế giới.- Đức trải nghiệm đi chợ Giáng sinh bằng xe ô tô.- Dự án sử dụng rác thải để tạo thành các tác phẩm nghệ thuật tại của một nghệ sĩ Hàn Quốc.]]></description>
-      <guid isPermaLink="false">http://vov1.vov.vn/chuong-trinh-thuc-cung-vov/du-an-su-dung-rac-thai-de-tao-thanh-cac-tac-pham-nghe-thuat-cua-mot-nghe-si-han-c166-66592.aspx</guid>
-      <enclosure url="http://vov1.vn:1953/vov1/attachments/vov1/thuhienvov1/v1_03_12_22h00_thuc_cung_vov_ok_2020_312202018.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 03 Dec 2020 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>An toàn trường học: Khai mở “điểm nghẽn” từ chính sách đến thực tế (02/12/2020)</title>
-      <link>http://vov1.vov.vn/thuc-cung-vov/an-toan-truong-hoc-khai-mo-diem-nghen-tu-chinh-sach-den-thuc-te-02122020-c133-66570.aspx</link>
-      <description><![CDATA[- An toàn trường học: Khai mở “điểm nghẽn” từ chính sách đến thực tế.- Câu chuyện về người phụ nữ Oman nuôi trong nhà gần 500 động vật bị bỏ rơi.- Giới thiệu cuốn sách “Phương Đông lướt ngoài cửa sổ” của tác giả Paul Theroux.- Quà tặng VOV1 chúng ta cùng nghe bài thơ “Thư mùa đông” của nhà thơ Hữu Thỉnh.]]></description>
-      <guid isPermaLink="false">http://vov1.vov.vn/thuc-cung-vov/an-toan-truong-hoc-khai-mo-diem-nghen-tu-chinh-sach-den-thuc-te-02122020-c133-66570.aspx</guid>
-      <enclosure url="http://vov1.vn:1953/vov1/attachments/vov1/phamvanan/2020_12/v1_0212_22h00_thuc_cung_vov_31220208.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 02 Dec 2020 07:00:00 +0700</pubDate>
+      <title>Lễ cưới tập thể - Nơi hiện thực hoá giấc mơ của nhiều cặp đôi (7/12/2020)</title>
+      <link>http://vov1.vov.vn/chuong-trinh-thuc-cung-vov/le-cuoi-tap-the-noi-hien-thuc-hoa-giac-mo-cua-nhieu-cap-doi-7122020-c166-66670.aspx</link>
+      <description><![CDATA[Giáo sư Tiến sỹ Trần Bình Giang, Giám đốc Bệnh viện Hữu nghị Việt Đức - Người đưa kỹ thuật nội soi Việt Nam sánh ngang tầm thế giới.- Lễ cưới tập thể - Nơi hiện thực hoá giấc mơ của nhiều cặp đôi.- 2 nhà khoa học, chuyên gia về Trí tuệ nhân tạo Phạm Thành Nam và Phạm Minh Toàn - đồng sáng chế Rô bốt trí tuệ nhân tạo (AI) đầu tiên tại nước ta được ứng dụng trong giáo dục.]]></description>
+      <guid isPermaLink="false">http://vov1.vov.vn/chuong-trinh-thuc-cung-vov/le-cuoi-tap-the-noi-hien-thuc-hoa-giac-mo-cua-nhieu-cap-doi-7122020-c166-66670.aspx</guid>
+      <enclosure url="http://vov1.vn:1953/vov1/attachments/vov1/thuhienvov1/v1_07_12_22h00_thuc_cung_vov_moi_2020_81220203.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 07 Dec 2020 07:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
