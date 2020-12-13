@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 13 Dec 2020 17:17:58 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 13 Dec 2020 18:15:36 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 10 Dec 2020 07:00:00 +0700</pubDate>
+    <pubDate>Sat, 12 Dec 2020 07:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,10 +24,26 @@
     <itunes:subtitle>Cuộc sống muôn màu</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/CSmuonmau.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Cuộc sống muôn màu 10-12-2020</title>
+      <title>Cuộc sống muôn màu 12-12-2020</title>
       <link>http://www.drt.danang.vn/chuong_trinh-199-cuoc_song_muon_mau</link>
-      <description><![CDATA[Cuộc sống muôn màu 10-12-2020]]></description>
+      <description><![CDATA[Cuộc sống muôn màu 12-12-2020]]></description>
       <guid isPermaLink="false">http://www.drt.danang.vn/chuong_trinh-199-cuoc_song_muon_mau</guid>
+      <enclosure url="http://www.drt.danang.vn/Uploads/Media/AUDIO/CUOC SONG MUON MAU/NAM 2020/THANG 12/CUOC SONG MUON MAU PHAT 12-12-2020.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 12 Dec 2020 07:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Cuộc sống muôn màu 11-12-2020</title>
+      <link>http://www.drt.danang.vn/truyen_hinh-41230-199</link>
+      <description><![CDATA[Cuộc sống muôn màu 11-12-2020]]></description>
+      <guid isPermaLink="false">http://www.drt.danang.vn/truyen_hinh-41230-199</guid>
+      <enclosure url="http://www.drt.danang.vn/Uploads/Media/AUDIO/CUOC SONG MUON MAU/NAM 2020/THANG 12/CUOC SONG MUON MAU PHAT 11-12-2020.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 11 Dec 2020 07:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Cuộc sống muôn màu 10-12-2020</title>
+      <link>http://www.drt.danang.vn/truyen_hinh-41159-199</link>
+      <description><![CDATA[Cuộc sống muôn màu 10-12-2020]]></description>
+      <guid isPermaLink="false">http://www.drt.danang.vn/truyen_hinh-41159-199</guid>
       <enclosure url="http://www.drt.danang.vn/Uploads/Media/AUDIO/CUOC SONG MUON MAU/NAM 2020/THANG 12/CUOC SONG MUON MAU PHAT 10-12-2020.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 10 Dec 2020 07:00:00 +0700</pubDate>
     </item>
@@ -54,22 +70,6 @@
       <guid isPermaLink="false">http://www.drt.danang.vn/truyen_hinh-41074-199</guid>
       <enclosure url="http://www.drt.danang.vn/Uploads/Media/AUDIO/CUOC SONG MUON MAU/NAM 2020/THANG 12/CSMM PHAT 7-12.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 07 Dec 2020 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Cuộc sống muôn màu 05-12-2020</title>
-      <link>http://www.drt.danang.vn/truyen_hinh-41073-199</link>
-      <description><![CDATA[Cuộc sống muôn màu 05-12-2020]]></description>
-      <guid isPermaLink="false">http://www.drt.danang.vn/truyen_hinh-41073-199</guid>
-      <enclosure url="http://www.drt.danang.vn/Uploads/Media/AUDIO/CUOC SONG MUON MAU/NAM 2020/THANG 12/CUOC SONG MUON MAU PHAT 05-12-2020.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 05 Dec 2020 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Cuộc sống muôn màu 04-12-2020</title>
-      <link>http://www.drt.danang.vn/truyen_hinh-41072-199</link>
-      <description><![CDATA[Cuộc sống muôn màu 04-12-2020]]></description>
-      <guid isPermaLink="false">http://www.drt.danang.vn/truyen_hinh-41072-199</guid>
-      <enclosure url="http://www.drt.danang.vn/Uploads/Media/AUDIO/CUOC SONG MUON MAU/NAM 2020/THANG 12/CUOC SONG MUON MAU PHAT 04-12-2020.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 04 Dec 2020 07:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
