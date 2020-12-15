@@ -9,10 +9,17 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 01 Dec 2020 14:16:52 +0700</lastBuildDate>
+<<<<<<< HEAD
+    <lastBuildDate>Tue, 15 Dec 2020 11:56:41 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 01 Dec 2020 00:27:00 +0700</pubDate>
+    <pubDate>Mon, 14 Dec 2020 20:14:00 +0700</pubDate>
+=======
+    <lastBuildDate>Tue, 15 Dec 2020 11:47:11 +0700</lastBuildDate>
+    <itunes:author>catus.phan</itunes:author>
+    <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
+    <pubDate>Tue, 15 Dec 2020 03:14:00 +0700</pubDate>
+>>>>>>> b2360081e2fd92a2f1e8eb55c743cc6e44ecd2f0
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,28 +31,40 @@
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Tổng Bí thư, Chủ tịch nước chủ trì Hội nghị Quân ủy Trung ương – Thời sự 17g00 30/11/2020</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tong-bi-thu-chu-tich-nuoc-chu-tri-hoi-nghi-quan-uy-trung-uong-thoi-su-17g00-30-11-2020-386274.html</link>
-      <description><![CDATA[17:27 - 30/11/2020]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tong-bi-thu-chu-tich-nuoc-chu-tri-hoi-nghi-quan-uy-trung-uong-thoi-su-17g00-30-11-2020-386274.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/11/30/AMThoisu17h00p301120.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 01 Dec 2020 00:27:00 +0700</pubDate>
+      <title>Cả nước có hơn 5.300 doanh nghiệp quay trở lại hoạt động trong tháng 11 - Thời sự 17g00 14/12/2020</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/ca-nuoc-co-hon-5-300-doanh-nghiep-quay-tro-lai-hoat-dong-trong-thang-11-thoi-su-17g00-14-12-2020-387756.html</link>
+      <description><![CDATA[20:14 - 14/12/2020]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/ca-nuoc-co-hon-5-300-doanh-nghiep-quay-tro-lai-hoat-dong-trong-thang-11-thoi-su-17g00-14-12-2020-387756.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/12/14/AMThoisu17h00p141220.mp3" length="0" type="audio/mpeg"/>
+<<<<<<< HEAD
+      <pubDate>Mon, 14 Dec 2020 20:14:00 +0700</pubDate>
+=======
+      <pubDate>Tue, 15 Dec 2020 03:14:00 +0700</pubDate>
+>>>>>>> b2360081e2fd92a2f1e8eb55c743cc6e44ecd2f0
     </item>
     <item>
-      <title>Người dân được bắn pháo hoa không tiếng nổ dịp lễ, tết - Thời Sự 17g00 29/11/2020</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/nguoi-dan-duoc-ban-phao-hoa-khong-tieng-no-dip-le-tet-thoi-su-17g00-29-11-2020-386233.html</link>
-      <description><![CDATA[15:18 - 30/11/2020]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/nguoi-dan-duoc-ban-phao-hoa-khong-tieng-no-dip-le-tet-thoi-su-17g00-29-11-2020-386233.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/11/30/AMThoisu17h00p291120.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 30 Nov 2020 22:18:00 +0700</pubDate>
+      <title>Lãi cho vay vẫn cao, lãi suất tiền gửi liên tục giảm – Thời sự 11g00 14/12/2020</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/lai-cho-vay-van-cao-lai-suat-tien-gui-lien-tuc-giam-thoi-su-11g00-14-12-2020-387704.html</link>
+      <description><![CDATA[13:59 - 14/12/2020]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/lai-cho-vay-van-cao-lai-suat-tien-gui-lien-tuc-giam-thoi-su-11g00-14-12-2020-387704.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/12/14/AMThoisu11h00p141220.mp3" length="0" type="audio/mpeg"/>
+<<<<<<< HEAD
+      <pubDate>Mon, 14 Dec 2020 13:59:00 +0700</pubDate>
+=======
+      <pubDate>Mon, 14 Dec 2020 20:59:00 +0700</pubDate>
+>>>>>>> b2360081e2fd92a2f1e8eb55c743cc6e44ecd2f0
     </item>
     <item>
-      <title>Ngành mía đường cần chủ động trong hội nhập (Kỳ 1) - Thời sự 11g00 30/11/2020</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/nganh-mia-duong-can-chu-dong-trong-hoi-nhap-ky-1-thoi-su-11g00-30-11-2020-386175.html</link>
-      <description><![CDATA[12:17 - 30/11/2020]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/nganh-mia-duong-can-chu-dong-trong-hoi-nhap-ky-1-thoi-su-11g00-30-11-2020-386175.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/11/30/AMThoisu11h00p301120.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 30 Nov 2020 19:17:00 +0700</pubDate>
+      <title>Thử  thách để tỏa sáng và thăng hoa kỳ 3 – Thời sự 05g00 14/10/2020</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/thu-thach-de-toa-sang-va-thang-hoa-ky-3-thoi-su-05g00-14-10-2020-387674.html</link>
+      <description><![CDATA[10:58 - 14/12/2020]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/thu-thach-de-toa-sang-va-thang-hoa-ky-3-thoi-su-05g00-14-10-2020-387674.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/12/14/AMThoisu05h30p141220.mp3" length="0" type="audio/mpeg"/>
+<<<<<<< HEAD
+      <pubDate>Mon, 14 Dec 2020 10:58:00 +0700</pubDate>
+=======
+      <pubDate>Mon, 14 Dec 2020 17:58:00 +0700</pubDate>
+>>>>>>> b2360081e2fd92a2f1e8eb55c743cc6e44ecd2f0
     </item>
   </channel>
 </rss>

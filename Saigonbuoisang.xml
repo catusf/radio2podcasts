@@ -9,10 +9,17 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 01 Dec 2020 14:16:33 +0700</lastBuildDate>
+<<<<<<< HEAD
+    <lastBuildDate>Tue, 15 Dec 2020 11:56:32 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 30 Nov 2020 21:36:00 +0700</pubDate>
+    <pubDate>Tue, 15 Dec 2020 08:05:00 +0700</pubDate>
+=======
+    <lastBuildDate>Tue, 15 Dec 2020 11:46:54 +0700</lastBuildDate>
+    <itunes:author>catus.phan</itunes:author>
+    <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
+    <pubDate>Tue, 15 Dec 2020 15:05:00 +0700</pubDate>
+>>>>>>> b2360081e2fd92a2f1e8eb55c743cc6e44ecd2f0
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +31,28 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Sài Gòn buổi sáng - 28/11/2020</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-28-11-2020-386223.html</link>
-      <description><![CDATA[14:36 - 30/11/2020]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-28-11-2020-386223.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/11/30/FMSaigonbuoisang06h00p281120.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 30 Nov 2020 21:36:00 +0700</pubDate>
+      <title>Sài Gòn buổi sáng 15/12/2020</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-15-12-2020-387779.html</link>
+      <description><![CDATA[08:05 - 15/12/2020]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-15-12-2020-387779.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/12/15/FMSGBS06h00p151220.mp3" length="0" type="audio/mpeg"/>
+<<<<<<< HEAD
+      <pubDate>Tue, 15 Dec 2020 08:05:00 +0700</pubDate>
+=======
+      <pubDate>Tue, 15 Dec 2020 15:05:00 +0700</pubDate>
+>>>>>>> b2360081e2fd92a2f1e8eb55c743cc6e44ecd2f0
     </item>
     <item>
-      <title>Sài Gòn buổi sáng - 30/11/2020</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-30-11-2020-386133.html</link>
-      <description><![CDATA[08:59 - 30/11/2020]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-30-11-2020-386133.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/11/30/FMSGBS06h00p301120.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 30 Nov 2020 15:59:00 +0700</pubDate>
+      <title>Sài Gòn buổi sáng - 14/12/2020</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-14-12-2020-387675.html</link>
+      <description><![CDATA[11:00 - 14/12/2020]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-14-12-2020-387675.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/12/14/FMSGBS06h00p141220.mp3" length="0" type="audio/mpeg"/>
+<<<<<<< HEAD
+      <pubDate>Mon, 14 Dec 2020 11:00:00 +0700</pubDate>
+=======
+      <pubDate>Mon, 14 Dec 2020 18:00:00 +0700</pubDate>
+>>>>>>> b2360081e2fd92a2f1e8eb55c743cc6e44ecd2f0
     </item>
   </channel>
 </rss>

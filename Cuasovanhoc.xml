@@ -9,10 +9,17 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 01 Dec 2020 14:17:01 +0700</lastBuildDate>
+<<<<<<< HEAD
+    <lastBuildDate>Tue, 15 Dec 2020 11:56:45 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 30 Nov 2020 02:50:00 +0700</pubDate>
+    <pubDate>Sun, 13 Dec 2020 21:18:00 +0700</pubDate>
+=======
+    <lastBuildDate>Tue, 15 Dec 2020 11:47:20 +0700</lastBuildDate>
+    <itunes:author>catus.phan</itunes:author>
+    <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
+    <pubDate>Mon, 14 Dec 2020 04:18:00 +0700</pubDate>
+>>>>>>> b2360081e2fd92a2f1e8eb55c743cc6e44ecd2f0
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,28 +31,40 @@
     <itunes:subtitle>Cửa sổ văn học trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Cuasovanhoc.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Cửa sổ văn học - 13/12/2020</title>
+      <link>https://radio.voh.com.vn/cua-so-van-hoc/cua-so-van-hoc-13-12-2020-387609.html</link>
+      <description><![CDATA[21:18 - 13/12/2020]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/cua-so-van-hoc-13-12-2020-387609.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/12/13/FMCuasovanhoc07h00p131220.mp3" length="0" type="audio/mpeg"/>
+<<<<<<< HEAD
+      <pubDate>Sun, 13 Dec 2020 21:18:00 +0700</pubDate>
+=======
+      <pubDate>Mon, 14 Dec 2020 04:18:00 +0700</pubDate>
+>>>>>>> b2360081e2fd92a2f1e8eb55c743cc6e44ecd2f0
+    </item>
+    <item>
+      <title>Cửa sổ văn học - 6/12/2020</title>
+      <link>https://radio.voh.com.vn/cua-so-van-hoc/cua-so-van-hoc-6-12-2020-386882.html</link>
+      <description><![CDATA[21:16 - 06/12/2020]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/cua-so-van-hoc-6-12-2020-386882.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/12/05/FMCuasovanhoc07h00p061220.mp3" length="0" type="audio/mpeg"/>
+<<<<<<< HEAD
+      <pubDate>Sun, 06 Dec 2020 21:16:00 +0700</pubDate>
+=======
+      <pubDate>Mon, 07 Dec 2020 04:16:00 +0700</pubDate>
+>>>>>>> b2360081e2fd92a2f1e8eb55c743cc6e44ecd2f0
+    </item>
+    <item>
       <title>Phát động cuộc thi viết “Nhớ thương mùi Tết" - Cửa sổ văn học 29/11/2020</title>
       <link>https://radio.voh.com.vn/cua-so-van-hoc/phat-dong-cuoc-thi-viet-nho-thuong-mui-tet-cua-so-van-hoc-29-11-2020-386042.html</link>
       <description><![CDATA[19:50 - 29/11/2020]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/phat-dong-cuoc-thi-viet-nho-thuong-mui-tet-cua-so-van-hoc-29-11-2020-386042.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/11/28/FMCuasovanhoc07h00p291120.mp3" length="0" type="audio/mpeg"/>
+<<<<<<< HEAD
+      <pubDate>Sun, 29 Nov 2020 19:50:00 +0700</pubDate>
+=======
       <pubDate>Mon, 30 Nov 2020 02:50:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Cửa sổ văn học - 22/11/2020</title>
-      <link>https://radio.voh.com.vn/cua-so-van-hoc/cua-so-van-hoc-22-11-2020-385336.html</link>
-      <description><![CDATA[22:00 - 22/11/2020]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/cua-so-van-hoc-22-11-2020-385336.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/11/21/FMCuasovanhoc07h00p221120.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 23 Nov 2020 05:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Phát Dương “sinh đôi” sau mùa dịch - Cửa sổ văn học 15/11/2020</title>
-      <link>https://radio.voh.com.vn/cua-so-van-hoc/phat-duong-sinh-doi-sau-mua-dich-cua-so-van-hoc-15-11-2020-384620.html</link>
-      <description><![CDATA[08:42 - 16/11/2020]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/phat-duong-sinh-doi-sau-mua-dich-cua-so-van-hoc-15-11-2020-384620.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/11/16/FMCuasovanhoc07h00p151120.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 16 Nov 2020 15:42:00 +0700</pubDate>
+>>>>>>> b2360081e2fd92a2f1e8eb55c743cc6e44ecd2f0
     </item>
   </channel>
 </rss>

@@ -9,10 +9,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 15 Dec 2020 11:21:13 +0700</lastBuildDate>
+<<<<<<< HEAD
+    <lastBuildDate>Tue, 15 Dec 2020 11:57:39 +0700</lastBuildDate>
+=======
+    <lastBuildDate>Tue, 15 Dec 2020 11:48:51 +0700</lastBuildDate>
+>>>>>>> b2360081e2fd92a2f1e8eb55c743cc6e44ecd2f0
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 13 Dec 2020 07:00:00 +0700</pubDate>
+    <pubDate>Sun, 13 Dec 2020 00:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -29,7 +33,7 @@
       <description><![CDATA[Vừa thủ thỉ, nhẩn nha, vừa khôi hài dí dỏm, lại rất mực sâu sắc kỹ càng - đó là giọng điệu của tác giả Nguyễn Trương Quý thể hiện trong tập tản văn "Hà Nội bảo thế là thường". Cuốn sách ghi lại những câu chuyện đời thường giản dị, góp phần lý giải về một Hà Nội hào hoa và thanh lịch... (Trang văn học tuổi mới lớn 08/12/2020)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/nep-nghi-nguoi-ha-noi-qua-cuon-sach-ha-noi-bao-the-la-thuong-c44-32169.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2020_12/v2_0812_10h4518h15_van_nghe_thieu_nhi_1312202021.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 13 Dec 2020 07:00:00 +0700</pubDate>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0700</pubDate>
     </item>
     <item>
       <title>Đọc truyện "Trong gia đình" - Buổi thứ hai - Đặt chân đến Paris 11/12/2020</title>
@@ -37,7 +41,7 @@
       <description><![CDATA[Mẹ Perrin đang ốm nặng, lại chẳng có ai giúp đỡ nơi ăn chốn ở. Hoàn cảnh hết sức khó khăn. Paris là một thành phố xa lạ, lộng lẫy. Liệu thành phố ấy có mở lòng đón hai mẹ con Perrin? (Văn nghệ thiếu nhi 06/12/2020)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-trong-gia-dinh-buoi-thu-hai-dat-chan-den-paris-c44-32168.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2020_12/v2_0612_10h4518h15_van_nghe_thieu_nhi_1112202019.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 11 Dec 2020 07:00:00 +0700</pubDate>
+      <pubDate>Fri, 11 Dec 2020 00:00:00 +0700</pubDate>
     </item>
     <item>
       <title>Đọc truyện "Trong gia đình" - Buổi thứ nhất - Cô bé Perrin 11/12/2020</title>
@@ -45,7 +49,7 @@
       <description><![CDATA[Ở những trang đầu tiên, chúng ta  làm quen với cô bé Perrin 12 tuổi với mái tóc vàng đậm, khuôn mặt dịu dàng, đôi mắt đen vừa láu lỉnh vừa nghiêm trang. Cô cùng với mẹ lên thành phố Paris để tìm cha và gia đình nhà nội... (Văn nghệ thiếu nhi 05/12/2020)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-trong-gia-dinh-buoi-thu-nhat-co-be-perrin-c44-32167.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2020_12/v2_0512_10h4518h15_van_nghe_thieu_nhi_1112202019.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 11 Dec 2020 07:00:00 +0700</pubDate>
+      <pubDate>Fri, 11 Dec 2020 00:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
