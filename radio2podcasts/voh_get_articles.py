@@ -58,7 +58,7 @@ def get_articles_from_html(soup, url, no_items, item_titles=None):
         parsed = urlparse(url)
         home = urlunparse((parsed[0], parsed[1], '', '', '', ''))
 
-        media = home + rmedia
+        media = rmedia
         # # print(media)
 
         true_url = get_true_url(media)  # Get length of media file
