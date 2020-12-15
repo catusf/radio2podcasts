@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 15 Dec 2020 12:18:23 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 15 Dec 2020 13:20:24 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 13 Dec 2020 21:18:00 +0700</pubDate>
+    <pubDate>Mon, 14 Dec 2020 04:18:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -29,7 +29,7 @@
       <description><![CDATA[21:18 - 13/12/2020]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/cua-so-van-hoc-13-12-2020-387609.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/12/13/FMCuasovanhoc07h00p131220.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 13 Dec 2020 21:18:00 +0700</pubDate>
+      <pubDate>Mon, 14 Dec 2020 04:18:00 +0700</pubDate>
     </item>
     <item>
       <title>Cửa sổ văn học - 6/12/2020</title>
@@ -37,7 +37,7 @@
       <description><![CDATA[21:16 - 06/12/2020]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/cua-so-van-hoc-6-12-2020-386882.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/12/05/FMCuasovanhoc07h00p061220.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 06 Dec 2020 21:16:00 +0700</pubDate>
+      <pubDate>Mon, 07 Dec 2020 04:16:00 +0700</pubDate>
     </item>
     <item>
       <title>Phát động cuộc thi viết “Nhớ thương mùi Tết" - Cửa sổ văn học 29/11/2020</title>
@@ -45,7 +45,7 @@
       <description><![CDATA[19:50 - 29/11/2020]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/phat-dong-cuoc-thi-viet-nho-thuong-mui-tet-cua-so-van-hoc-29-11-2020-386042.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/11/28/FMCuasovanhoc07h00p291120.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 29 Nov 2020 19:50:00 +0700</pubDate>
+      <pubDate>Mon, 30 Nov 2020 02:50:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
