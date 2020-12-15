@@ -9,10 +9,17 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 01 Dec 2020 14:16:26 +0700</lastBuildDate>
+<<<<<<< HEAD
+    <lastBuildDate>Tue, 15 Dec 2020 11:56:29 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 29 Nov 2020 17:00:00 +0700</pubDate>
+    <pubDate>Sun, 13 Dec 2020 10:00:00 +0700</pubDate>
+=======
+    <lastBuildDate>Tue, 15 Dec 2020 11:46:47 +0700</lastBuildDate>
+    <itunes:author>catus.phan</itunes:author>
+    <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
+    <pubDate>Sun, 13 Dec 2020 17:00:00 +0700</pubDate>
+>>>>>>> b2360081e2fd92a2f1e8eb55c743cc6e44ecd2f0
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,12 +31,36 @@
     <itunes:subtitle>Quà tặng âm nhạc trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Quatangamnhac.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>We wish you a Merry Christmas - Quà tặng âm nhạc 13/12/2020</title>
+      <link>https://radio.voh.com.vn/qua-tang-am-nhac/we-wish-you-a-merry-christmas-qua-tang-am-nhac-13-12-2020-387581.html</link>
+      <description><![CDATA[10:00 - 13/12/2020]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/we-wish-you-a-merry-christmas-qua-tang-am-nhac-13-12-2020-387581.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/12/13/QTAN-131220.mp3" length="0" type="audio/mpeg"/>
+<<<<<<< HEAD
+      <pubDate>Sun, 13 Dec 2020 10:00:00 +0700</pubDate>
+=======
+      <pubDate>Sun, 13 Dec 2020 17:00:00 +0700</pubDate>
+>>>>>>> b2360081e2fd92a2f1e8eb55c743cc6e44ecd2f0
+    </item>
+    <item>
+      <title>Gọi tên bốn mùa - Quà tặng âm nhạc 6/12/2020</title>
+      <link>https://radio.voh.com.vn/qua-tang-am-nhac/goi-ten-bon-mua-qua-tang-am-nhac-6-12-2020-386900.html</link>
+      <description><![CDATA[10:00 - 06/12/2020]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/goi-ten-bon-mua-qua-tang-am-nhac-6-12-2020-386900.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/12/06/qtan-061220.mp3" length="0" type="audio/mpeg"/>
+<<<<<<< HEAD
+      <pubDate>Sun, 06 Dec 2020 10:00:00 +0700</pubDate>
+=======
+      <pubDate>Sun, 06 Dec 2020 17:00:00 +0700</pubDate>
+>>>>>>> b2360081e2fd92a2f1e8eb55c743cc6e44ecd2f0
+    </item>
+    <item>
       <title>Như một lời chia tay - Quà tặng âm nhạc 29/11/2020</title>
       <link>https://radio.voh.com.vn/qua-tang-am-nhac/nhu-mot-loi-chia-tay-qua-tang-am-nhac-29-11-2020-386076.html</link>
       <description><![CDATA[10:00 - 29/11/2020]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/nhu-mot-loi-chia-tay-qua-tang-am-nhac-29-11-2020-386076.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/11/29/qtan-291120.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 29 Nov 2020 17:00:00 +0700</pubDate>
+      <pubDate>Sun, 29 Nov 2020 10:00:00 +0700</pubDate>
     </item>
     <item>
       <title>Em về tinh khôi - Quà tặng âm nhạc 22/11/2020</title>
@@ -37,7 +68,7 @@
       <description><![CDATA[10:00 - 22/11/2020]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/em-ve-tinh-khoi-qua-tang-am-nhac-22-11-2020-385364.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/11/22/qtan-221120.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 22 Nov 2020 17:00:00 +0700</pubDate>
+      <pubDate>Sun, 22 Nov 2020 10:00:00 +0700</pubDate>
     </item>
     <item>
       <title>Lời thầy cô - Quà tặng âm nhạc 15/11/2020</title>
@@ -45,23 +76,11 @@
       <description><![CDATA[11:00 - 15/11/2020]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/loi-thay-co-qua-tang-am-nhac-15-11-2020-384569.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/11/15/qtan-151120.mp3" length="0" type="audio/mpeg"/>
+<<<<<<< HEAD
+      <pubDate>Sun, 15 Nov 2020 11:00:00 +0700</pubDate>
+=======
       <pubDate>Sun, 15 Nov 2020 18:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Tiếng thu - Quà tặng âm nhạc 8/11/2020</title>
-      <link>https://radio.voh.com.vn/qua-tang-am-nhac/tieng-thu-qua-tang-am-nhac-8-11-2020-383809.html</link>
-      <description><![CDATA[11:00 - 08/11/2020]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/tieng-thu-qua-tang-am-nhac-8-11-2020-383809.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/11/08/QTAN-081120.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 08 Nov 2020 18:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đường về miền Trung - Quà tặng âm nhạc 1/11/2020</title>
-      <link>https://radio.voh.com.vn/qua-tang-am-nhac/duong-ve-mien-trung-qua-tang-am-nhac-1-11-2020-382995.html</link>
-      <description><![CDATA[11:00 - 01/11/2020]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/duong-ve-mien-trung-qua-tang-am-nhac-1-11-2020-382995.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/11/01/qtan-01112020.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 01 Nov 2020 18:00:00 +0700</pubDate>
+>>>>>>> b2360081e2fd92a2f1e8eb55c743cc6e44ecd2f0
     </item>
   </channel>
 </rss>

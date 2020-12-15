@@ -9,10 +9,17 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 01 Dec 2020 14:15:56 +0700</lastBuildDate>
+<<<<<<< HEAD
+    <lastBuildDate>Tue, 15 Dec 2020 11:56:16 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 29 Nov 2020 16:50:00 +0700</pubDate>
+    <pubDate>Sun, 06 Dec 2020 15:26:00 +0700</pubDate>
+=======
+    <lastBuildDate>Tue, 15 Dec 2020 11:46:18 +0700</lastBuildDate>
+    <itunes:author>catus.phan</itunes:author>
+    <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
+    <pubDate>Sun, 06 Dec 2020 22:26:00 +0700</pubDate>
+>>>>>>> b2360081e2fd92a2f1e8eb55c743cc6e44ecd2f0
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,12 +31,24 @@
     <itunes:subtitle>Làn sóng xanh trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Lansongxanh.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Làn Sóng Xanh - 6/12/2020</title>
+      <link>https://radio.voh.com.vn/lan-song-xanh/lan-song-xanh-6-12-2020-386866.html</link>
+      <description><![CDATA[15:26 - 06/12/2020]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/lan-song-xanh/lan-song-xanh-6-12-2020-386866.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/12/05/FMLansongxanh08h00p061220.mp3" length="0" type="audio/mpeg"/>
+<<<<<<< HEAD
+      <pubDate>Sun, 06 Dec 2020 15:26:00 +0700</pubDate>
+=======
+      <pubDate>Sun, 06 Dec 2020 22:26:00 +0700</pubDate>
+>>>>>>> b2360081e2fd92a2f1e8eb55c743cc6e44ecd2f0
+    </item>
+    <item>
       <title>Làn Sóng Xanh - 29/11/2020</title>
       <link>https://radio.voh.com.vn/lan-song-xanh/lan-song-xanh-29-11-2020-386043.html</link>
       <description><![CDATA[09:50 - 29/11/2020]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/lan-song-xanh/lan-song-xanh-29-11-2020-386043.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/11/28/FMLansongxanh08h00p291120.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 29 Nov 2020 16:50:00 +0700</pubDate>
+      <pubDate>Sun, 29 Nov 2020 09:50:00 +0700</pubDate>
     </item>
     <item>
       <title>Làn Sóng Xanh - 22/11/2020</title>
@@ -37,7 +56,7 @@
       <description><![CDATA[10:00 - 22/11/2020]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/lan-song-xanh/lan-song-xanh-22-11-2020-385338.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/11/21/FMLansongxanh08h00p221120.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 22 Nov 2020 17:00:00 +0700</pubDate>
+      <pubDate>Sun, 22 Nov 2020 10:00:00 +0700</pubDate>
     </item>
     <item>
       <title>Làn Sóng Xanh - 15/11/2020</title>
@@ -45,7 +64,7 @@
       <description><![CDATA[08:42 - 16/11/2020]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/lan-song-xanh/lan-song-xanh-15-11-2020-384621.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/11/16/FMLansongxanh08h00p151120.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 16 Nov 2020 15:42:00 +0700</pubDate>
+      <pubDate>Mon, 16 Nov 2020 08:42:00 +0700</pubDate>
     </item>
     <item>
       <title>Làn Sóng Xanh - 8/11/2020</title>
@@ -53,15 +72,11 @@
       <description><![CDATA[21:03 - 08/11/2020]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/lan-song-xanh/lan-song-xanh-8-11-2020-383761.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/11/07/FMLansongxanh08h00p081120.mp3" length="0" type="audio/mpeg"/>
+<<<<<<< HEAD
+      <pubDate>Sun, 08 Nov 2020 21:03:00 +0700</pubDate>
+=======
       <pubDate>Mon, 09 Nov 2020 04:03:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Làn Sóng Xanh - 1/11/2020</title>
-      <link>https://radio.voh.com.vn/lan-song-xanh/lan-song-xanh-1-11-2020-382742.html</link>
-      <description><![CDATA[09:19 - 01/11/2020]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/lan-song-xanh/lan-song-xanh-1-11-2020-382742.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/10/30/FMLansongxanh08h00p011120.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 01 Nov 2020 16:19:00 +0700</pubDate>
+>>>>>>> b2360081e2fd92a2f1e8eb55c743cc6e44ecd2f0
     </item>
   </channel>
 </rss>
