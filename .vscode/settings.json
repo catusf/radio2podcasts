@@ -1,4 +1,5 @@
 {
     "python.linting.pylintEnabled": true,
-    "python.linting.enabled": true
+    "python.linting.enabled": true,
+    "python.pythonPath": "c:\\Python39\\venvs\\r2p\\Scripts\\python.exe"
 }
