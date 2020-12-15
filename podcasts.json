@@ -7,6 +7,40 @@
     "email": "catus.phan@gmail.com"
   },
   "websites": {
+    "VNE": {
+      "home": "https://vnexpress.net/podcast",
+      "name": "VnExpress Podcast",
+      "function": null,
+      "programs": {
+        "vehn": {
+          "url": "https://vnexpress.net/podcast/vnexpress-hom-nay",
+          "title": "VnExpress hôm nay",
+          "subtitle": "VnExpress hôm nay",
+          "cover": "",
+          "no": 5
+        },
+        "vetlg": {
+          "url": "https://vnexpress.net/podcast/tien-lam-gi",
+          "title": "Tiền làm gì?",
+          "subtitle": "Tiền làm gì?",
+          "cover": "",
+          "no": 5
+        },        "vetlg": {
+          "url": "https://vnexpress.net/podcast/ban-on-khong",
+          "title": "Bạn ổn không?",
+          "subtitle": "Bạn ổn không?",
+          "cover": "",
+          "no": 5
+        },
+        "vett": {
+          "url": "https://vnexpress.net/podcast/tham-thi",
+          "title": "Thầm thì",
+          "subtitle": "Thầm thì",
+          "cover": "",
+          "no": 5
+        }
+      }
+    },
     "VOH": {
       "home": "http://radio.voh.com.vn",
       "name": "VOH Đài tiếng nói nhân dân TPHCM",
