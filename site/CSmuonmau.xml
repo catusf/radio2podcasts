@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 17 Dec 2020 11:21:47 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 17 Dec 2020 12:17:47 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 12 Dec 2020 07:00:00 +0700</pubDate>
+    <pubDate>Thu, 17 Dec 2020 07:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,10 +24,42 @@
     <itunes:subtitle>Cuộc sống muôn màu</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/CSmuonmau.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Cuộc sống muôn màu 12-12-2020</title>
+      <title>Cuộc sống muôn màu 17-12-2020</title>
       <link>http://www.drt.danang.vn/chuong_trinh-199-cuoc_song_muon_mau</link>
-      <description><![CDATA[Cuộc sống muôn màu 12-12-2020]]></description>
+      <description><![CDATA[Cuộc sống muôn màu 17-12-2020]]></description>
       <guid isPermaLink="false">http://www.drt.danang.vn/chuong_trinh-199-cuoc_song_muon_mau</guid>
+      <enclosure url="http://www.drt.danang.vn/Uploads/Media/AUDIO/CUOC SONG MUON MAU/NAM 2020/THANG 12/CUOC SONG MUON MAU PHAT 17-12-2020.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 17 Dec 2020 07:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Cuộc sống muôn màu 16-12-2020</title>
+      <link>http://www.drt.danang.vn/truyen_hinh-41303-199</link>
+      <description><![CDATA[Cuộc sống muôn màu 16-12-2020]]></description>
+      <guid isPermaLink="false">http://www.drt.danang.vn/truyen_hinh-41303-199</guid>
+      <enclosure url="http://www.drt.danang.vn/Uploads/Media/AUDIO/CUOC SONG MUON MAU/NAM 2020/THANG 12/CUOC SONG MUON MAU PHAT 16-12-2020.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 16 Dec 2020 07:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Cuộc sống muôn màu 15-12-2020</title>
+      <link>http://www.drt.danang.vn/truyen_hinh-41302-199</link>
+      <description><![CDATA[Cuộc sống muôn màu 15-12-2020]]></description>
+      <guid isPermaLink="false">http://www.drt.danang.vn/truyen_hinh-41302-199</guid>
+      <enclosure url="http://www.drt.danang.vn/Uploads/Media/AUDIO/CUOC SONG MUON MAU/NAM 2020/THANG 12/CUOC SONG MUON MAU PHAT 15-12-2020.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 15 Dec 2020 07:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Cuộc sống muôn màu 14-12-2020</title>
+      <link>http://www.drt.danang.vn/truyen_hinh-41301-199</link>
+      <description><![CDATA[Cuộc sống muôn màu 14-12-2020]]></description>
+      <guid isPermaLink="false">http://www.drt.danang.vn/truyen_hinh-41301-199</guid>
+      <enclosure url="http://www.drt.danang.vn/Uploads/Media/AUDIO/CUOC SONG MUON MAU/NAM 2020/THANG 12/CUOC SONG MUON MAU PHAT 14-12-2020.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 14 Dec 2020 07:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Cuộc sống muôn màu 12-12-2020</title>
+      <link>http://www.drt.danang.vn/truyen_hinh-41231-199</link>
+      <description><![CDATA[Cuộc sống muôn màu 12-12-2020]]></description>
+      <guid isPermaLink="false">http://www.drt.danang.vn/truyen_hinh-41231-199</guid>
       <enclosure url="http://www.drt.danang.vn/Uploads/Media/AUDIO/CUOC SONG MUON MAU/NAM 2020/THANG 12/CUOC SONG MUON MAU PHAT 12-12-2020.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 12 Dec 2020 07:00:00 +0700</pubDate>
     </item>
@@ -38,38 +70,6 @@
       <guid isPermaLink="false">http://www.drt.danang.vn/truyen_hinh-41230-199</guid>
       <enclosure url="http://www.drt.danang.vn/Uploads/Media/AUDIO/CUOC SONG MUON MAU/NAM 2020/THANG 12/CUOC SONG MUON MAU PHAT 11-12-2020.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 11 Dec 2020 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Cuộc sống muôn màu 10-12-2020</title>
-      <link>http://www.drt.danang.vn/truyen_hinh-41159-199</link>
-      <description><![CDATA[Cuộc sống muôn màu 10-12-2020]]></description>
-      <guid isPermaLink="false">http://www.drt.danang.vn/truyen_hinh-41159-199</guid>
-      <enclosure url="http://www.drt.danang.vn/Uploads/Media/AUDIO/CUOC SONG MUON MAU/NAM 2020/THANG 12/CUOC SONG MUON MAU PHAT 10-12-2020.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 10 Dec 2020 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Cuộc sống muôn màu 09-12-2020</title>
-      <link>http://www.drt.danang.vn/truyen_hinh-41158-199</link>
-      <description><![CDATA[Cuộc sống muôn màu 09-12-2020]]></description>
-      <guid isPermaLink="false">http://www.drt.danang.vn/truyen_hinh-41158-199</guid>
-      <enclosure url="http://www.drt.danang.vn/Uploads/Media/AUDIO/CUOC SONG MUON MAU/NAM 2020/THANG 12/CUOC SONG MUON MAU PHAT 09-12-2020.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 09 Dec 2020 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Cuộc sống muôn màu 08-12-2020</title>
-      <link>http://www.drt.danang.vn/truyen_hinh-41157-199</link>
-      <description><![CDATA[Cuộc sống muôn màu 08-12-2020]]></description>
-      <guid isPermaLink="false">http://www.drt.danang.vn/truyen_hinh-41157-199</guid>
-      <enclosure url="http://www.drt.danang.vn/Uploads/Media/AUDIO/CUOC SONG MUON MAU/NAM 2020/THANG 12/CUOC SONG MUON MAU PHAT 08-12-2020.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 08 Dec 2020 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Cuộc sống muôn màu 07-12-2020</title>
-      <link>http://www.drt.danang.vn/truyen_hinh-41074-199</link>
-      <description><![CDATA[Cuộc sống muôn màu 07-12-2020]]></description>
-      <guid isPermaLink="false">http://www.drt.danang.vn/truyen_hinh-41074-199</guid>
-      <enclosure url="http://www.drt.danang.vn/Uploads/Media/AUDIO/CUOC SONG MUON MAU/NAM 2020/THANG 12/CSMM PHAT 7-12.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 07 Dec 2020 07:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
