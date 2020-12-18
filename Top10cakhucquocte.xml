@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 18 Dec 2020 18:18:43 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 18 Dec 2020 19:23:49 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 11 Dec 2020 17:59:00 +0700</pubDate>
+    <pubDate>Fri, 18 Dec 2020 17:20:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Top 10 ca khúc quốc tế thứ hai hàng tuần trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Top10cakhucquocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Top ten - 18/12/2020</title>
+      <link>https://radio.voh.com.vn/top-10-ca-khuc-quoc-te/top-ten-18-12-2020-388032.html</link>
+      <description><![CDATA[10:20 - 18/12/2020]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/top-10-ca-khuc-quoc-te/top-ten-18-12-2020-388032.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/12/17/FMTopten01h30p181220.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 18 Dec 2020 17:20:00 +0700</pubDate>
+    </item>
     <item>
       <title>Top ten - 11/12/2020</title>
       <link>https://radio.voh.com.vn/top-10-ca-khuc-quoc-te/top-ten-11-12-2020-387203.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/top-10-ca-khuc-quoc-te/top-ten-20-11-2020-384878.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/11/18/FMTopten01h30p201120.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 20 Nov 2020 15:50:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Top ten - 13/11/2020</title>
-      <link>https://radio.voh.com.vn/top-10-ca-khuc-quoc-te/top-ten-13-11-2020-384362.html</link>
-      <description><![CDATA[09:24 - 13/11/2020]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/top-10-ca-khuc-quoc-te/top-ten-13-11-2020-384362.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/11/13/FMTopten01h30p131120.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 13 Nov 2020 16:24:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
