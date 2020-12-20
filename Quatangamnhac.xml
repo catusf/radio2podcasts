@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 20 Dec 2020 16:17:58 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 20 Dec 2020 17:19:26 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 13 Dec 2020 17:00:00 +0700</pubDate>
+    <pubDate>Sun, 20 Dec 2020 17:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Quà tặng âm nhạc trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Quatangamnhac.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Bài ca người lính - Quà tặng âm nhạc 20/12/2020</title>
+      <link>https://radio.voh.com.vn/qua-tang-am-nhac/bai-ca-nguoi-linh-qua-tang-am-nhac-20-12-2020-388412.html</link>
+      <description><![CDATA[10:00 - 20/12/2020]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/bai-ca-nguoi-linh-qua-tang-am-nhac-20-12-2020-388412.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/12/20/qtan-201220.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 20 Dec 2020 17:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>We wish you a Merry Christmas - Quà tặng âm nhạc 13/12/2020</title>
       <link>https://radio.voh.com.vn/qua-tang-am-nhac/we-wish-you-a-merry-christmas-qua-tang-am-nhac-13-12-2020-387581.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/em-ve-tinh-khoi-qua-tang-am-nhac-22-11-2020-385364.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/11/22/qtan-221120.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 22 Nov 2020 17:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Lời thầy cô - Quà tặng âm nhạc 15/11/2020</title>
-      <link>https://radio.voh.com.vn/qua-tang-am-nhac/loi-thay-co-qua-tang-am-nhac-15-11-2020-384569.html</link>
-      <description><![CDATA[11:00 - 15/11/2020]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/loi-thay-co-qua-tang-am-nhac-15-11-2020-384569.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/11/15/qtan-151120.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 15 Nov 2020 18:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
