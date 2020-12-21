@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 21 Dec 2020 18:21:28 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 21 Dec 2020 19:26:35 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 17 Dec 2020 07:00:00 +0700</pubDate>
+    <pubDate>Mon, 21 Dec 2020 07:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,27 +24,27 @@
     <itunes:subtitle>Văn nghệ thiếu nhi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Vannghethieunhi.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Đọc truyện "Trong gia đình" - Buổi thứ năm - Đi tìm thầy thuốc 17/12/2020</title>
+      <title>Gặp lại người họa sỹ già vẽ tranh truyền thần 21/12/2020</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/gap-lai-nguoi-hoa-sy-gia-ve-tranh-truyen-than-c44-32190.aspx</link>
+      <description><![CDATA[Tuần trước, chúng mình đã gặp gỡ nghệ nhân Bảo Nguyên để nghe ông chia sẻ về cơ duyên theo đuổi nghiệp vẽ tranh truyền thần. Hôm nay, nghệ nhân Bảo Nguyên tiếp tục đồng hành cùng chúng mình để giúp các bạn hiểu hơn về những kỹ thuật của thể loại tranh độc đáo này... (Văn nghệ thiếu nhi 16/12/2020)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/gap-lai-nguoi-hoa-sy-gia-ve-tranh-truyen-than-c44-32190.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2020_12/v2_1612_10h4518h15_van_nghe_thieu_nhi_2112202018.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 21 Dec 2020 07:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Giờ học văn "Bánh trôi nước" 21/12/2020</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/gio-hoc-van-banh-troi-nuoc-c44-32189.aspx</link>
+      <description><![CDATA[Sinh động, tươi tắn cùng tính biểu tượng cao - đó là bài thơ "Bánh trôi nước" của nữ sĩ Hồ Xuân Hương. Hình ảnh cái bánh trôi dung dị của đời thường đi vào thơ thật sắc nét, hàm ẩn nhiều ý tình sâu sắc... (Văn nghệ thiếu nhi - Trang văn học nhà trường 14/12/2020)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/gio-hoc-van-banh-troi-nuoc-c44-32189.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2020_12/v2_1412_10h4518h15_van_nghe_thieu_nhi_2112202018.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 21 Dec 2020 07:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Đọc truyện "Trong gia đình" - Buổi thứ năm - Đi tìm thầy thuốc  17/12/2020</title>
       <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-trong-gia-dinh-buoi-thu-nam-di-tim-thay-thuoc-c44-32179.aspx</link>
       <description><![CDATA[Được lão Hạt Muối chỉ dẫn, Perrin đến nhà thầy thuốc Cendrier để mời ông tới chữa bệnh cho mẹ. Vì Cendrier là một thày thuốc có tiếng ở Paris nên cô bé phải trả một số tiền lớn là 60 xu. Sau khi Perrin trả đủ tiền, bác sỹ Cendrier tới khám cho mẹ của cô ngay lập tức... (Văn nghệ thiếu nhi 13/12/2020)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-trong-gia-dinh-buoi-thu-nam-di-tim-thay-thuoc-c44-32179.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2020_12/v2_1312_10h4518h15_van_nghe_thieu_nhi_1712202018.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 17 Dec 2020 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đọc truyện "Trong gia đình" - Buổi thứ tư - Kỉ vật  17/12/2020</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-trong-gia-dinh-buoi-thu-tu-ki-vat-c44-32178.aspx</link>
-      <description><![CDATA[Perrin phân tích với mẹ về chuyến hành trình còn dài phía trước. Cô bé bàn với mẹ bán đi chiếc máy ảnh vì hiện giờ rất vắng khách và có lẽ phải bán luôn cả chiếc xe lừa mà bố để lại. Điều ấy khiến mẹ của Perrin buồn rầu vì đó đều là những vật đong đầy kỷ niệm... (Văn nghệ thiếu nhi 12/12/2020)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-trong-gia-dinh-buoi-thu-tu-ki-vat-c44-32178.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2020_12/v2_1212_10h4518h15_van_nghe_thieu_nhi_1712202018.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 17 Dec 2020 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đọc truyện "Trong gia đình" - Buổi thứ ba - Tập làm người lớn  17/12/2020</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-trong-gia-dinh-buoi-thu-ba-tap-lam-nguoi-lon-c44-32177.aspx</link>
-      <description><![CDATA[Một ngày thuê xe, Perrin sẽ phải trả cho lão Hạt Muối chín xu. Sức khỏe của mẹ càng ngày càng yếu. Perrin bật khóc vì quá lo lắng và thương mẹ. Em bày tỏ với mẹ rằng sẽ tìm thầy thuốc giỏi ở Pari để chữa cho bà... (Văn nghệ thiếu nhi 11/12/2020)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-trong-gia-dinh-buoi-thu-ba-tap-lam-nguoi-lon-c44-32177.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2020_12/v2_1112_10h4518h15_van_nghe_thieu_nhi_1712202018.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 17 Dec 2020 07:00:00 +0700</pubDate>
     </item>
   </channel>
