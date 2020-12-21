@@ -9,9 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 21 Dec 2020 20:27:01 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 21 Dec 2020 21:21:52 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
+    <pubDate>Sun, 20 Dec 2020 07:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -22,5 +23,21 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự 21h30</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Thoisu21h30.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>THỜI SỰ 21H30 ĐÊM 20/12/2020: Phó Thủ tướng thường trực Trương Hòa Bình chúc mừng Giáng sinh đồng bào giáo dân Thủ đô</title>
+      <link>http://vov1.vov.vn/thoi-su-21h30/thoi-su-21h30-dem-20122020-pho-thu-tuong-thuong-truc-truong-hoa-binh-chuc-mung-c29-66940.aspx</link>
+      <description><![CDATA[- Phó Thủ tướng thường trực Trương Hòa Bình chúc mừng Giáng sinh đồng bào giáo dân Thủ đô.- Dự báo, bão số 14 trên biển Đông còn mạnh lên, vùng biển khu vực giữa và nam Biển Đông, bao gồm cả vùng biển quần đảo Trường Sa có thể có sóng biển cao từ 5 đến 7m.- Hơn 6.000 bị hại sẽ dự phiên toà xét xử vụ án “Lừa đảo chiếm đoạt tài sản” xảy ra tại Công ty Cổ phần Liên kết sản xuất thương mại Việt Nam diễn ra từ ngày mai.- Nước Anh có thể sẽ phải phong tỏa toàn quốc vì biến thể SARS-COV2 mới. Hà Lan và Pháp cân nhắc việc đình chỉ các dịch vụ giao thông từ Anh nhằm ngăn ngừa nguy cơ lây lan từ quốc gia này.-  Gần 10.000 người dân Philippines được sơ tán vì mưa bão gây ngập lụt nghiêm trọng.]]></description>
+      <guid isPermaLink="false">http://vov1.vov.vn/thoi-su-21h30/thoi-su-21h30-dem-20122020-pho-thu-tuong-thuong-truc-truong-hoa-binh-chuc-mung-c29-66940.aspx</guid>
+      <enclosure url="http://vov1.vn:1953/vov1/attachments/vov1/hoanglienvov1/2020_12/v1_20_12_21h30_thoi_su_2020_2012202022.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 20 Dec 2020 07:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>THỜI SỰ ĐÊM 21H30 17/12/2020: 371 tỷ đồng giúp đỡ hơn 1 triệu thiếu nhi có hoàn cảnh khó khăn trong năm nay</title>
+      <link>http://vov1.vov.vn/thoi-su-21h30/thoi-su-dem-21h30-17122020-371-ty-dong-giup-do-hon-1-trieu-thieu-nhi-co-hoan-ca-c29-66895.aspx</link>
+      <description><![CDATA[Bộ Lao động – Thương binh và xã hội dự kiến trình Chủ tịch nước việc tặng quà Tết Tân Sửu năm 2021 với 2 mức đối với người có công với cách mạng.- Thành phố Hà Nội đang xây dựng cơ chế thí điểm mua lại biệt thự cổ để bảo tồn.- Tổng thống Nga V. Putin hy vọng, mối quan hệ Nga – Mỹ sẽ được cải thiện dưới thời Tổng thống đắc cử Mỹ Joe Biden.- Liên minh châu Âu bắt đầu tiêm vắc-xin ngừa Covid-19 trên toàn khối từ ngày 27/12 tới đây.]]></description>
+      <guid isPermaLink="false">http://vov1.vov.vn/thoi-su-21h30/thoi-su-dem-21h30-17122020-371-ty-dong-giup-do-hon-1-trieu-thieu-nhi-co-hoan-ca-c29-66895.aspx</guid>
+      <enclosure url="http://vov1.vn:1953/vov1/attachments/vov1/phamvanan/2020_12/v1_1712_21h30_thoi_su_1712202022.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 17 Dec 2020 07:00:00 +0700</pubDate>
+    </item>
   </channel>
 </rss>
