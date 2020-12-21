@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 21 Dec 2020 18:21:16 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 21 Dec 2020 19:26:23 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 27 Nov 2020 07:00:00 +0700</pubDate>
+    <pubDate>Mon, 21 Dec 2020 07:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,28 +24,28 @@
     <itunes:subtitle>Kể chuyện và hát ru cho bé</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Kechuyenvahatruchobe.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Chàng trai tài giỏi trong truyện cổ tích 'Hoa khô" 27/11/2020</title>
+      <title>"Cô dâu đích thực" - truyện cổ tích về những cô nàng đáng yêu (Phần 1)21/12/2020</title>
+      <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/co-dau-dich-thuc-truyen-co-tich-ve-nhung-co-nang-dang-yeu-phan-1-c43-32192.aspx</link>
+      <description><![CDATA[Cô thiếu nữ trong truyện cổ tích này rất đáng yêu, nhưng luôn bị dì ghẻ hành hạ. Cô phải làm bao nhiêu việc khó khăn nặng nhọc, vậy mà bà vẫn tiếp tục gây khó dễ. Cô phải làm gì để thoát khỏi cuộc sống ấy? (Kể chuyện và hát ru 14/12/2020)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/co-dau-dich-thuc-truyen-co-tich-ve-nhung-co-nang-dang-yeu-phan-1-c43-32192.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2020_12/v2_141612_21h45_ke_chuyen_va_hat_ru_cho_be_2112202019.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 21 Dec 2020 07:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Truyện kể về vị vua ưa nịnh  21/12/2020</title>
+      <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/truyen-ke-ve-vi-vua-ua-ninh-c43-32191.aspx</link>
+      <description><![CDATA[Có một ông vua nọ chỉ thích nghe lời nói ngọt. Ông luôn muốn mọi người phải nói những điều hay ý đẹp về mình, trong khi ông là một người chưa sống trọn đạo hiếu với cha mẹ, chưa  trọn nghĩa tình với quê hương. Điều sắp xảy đến có làm ông thay đổi tính tình hay không? (Kể chuyện và hát ru 04/12/2020)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/truyen-ke-ve-vi-vua-ua-ninh-c43-32191.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2020_12/v2_0412_21h45_ke_chuyen_hat_ru_2112202019.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 21 Dec 2020 07:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Chàng trai tài giỏi trong truyện cổ tích 'Hoa khô"  27/11/2020</title>
       <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/chang-trai-tai-gioi-trong-truyen-co-tich-hoa-kho-c43-32142.aspx</link>
       <description><![CDATA[Hoa Khô chính là tên của một chàng trai sinh ra vào đúng thời kỳ hạn hán, cỏ cây khô héo, mặt đất nứt nẻ, dân làng thiếu nước nên đời sống rất khó khăn. Chàng Hoa Khô đã làm gì để ông trời ban mưa xuống cho dân làng? (Kể chuyện và hát ru 28/11/2020)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/chang-trai-tai-gioi-trong-truyen-co-tich-hoa-kho-c43-32142.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/v2_2811_21h45_ke_chuyen_va_hat_ru_291120208.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 27 Nov 2020 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Loài Kiến và những con vật ở trong rừng 27/11/2020</title>
-      <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/loai-kien-va-nhung-con-vat-o-trong-rung-c43-32141.aspx</link>
-      <description><![CDATA[Kiến là loài vật bé nhỏ. Xưa kia Kiến sống riêng lẻ chứ không sống từng đàn như bây giờ nên đã yếu lại càng yếu hơn, dễ bị bắt nạt. Kiến làm thế nào để có được sức mạnh như bây giờ? (Kể chuyện và hát ru 25/11/2020)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/loai-kien-va-nhung-con-vat-o-trong-rung-c43-32141.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/v2_2511_21h45_ke_chuyen_va_hat_ru_2711202012.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 27 Nov 2020 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chàng trai thông minh trong truyện cổ tích "Phép màu" (P2) 20/11/2020</title>
-      <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/chang-trai-thong-minh-trong-truyen-co-tich-phep-mau-p2-c43-32120.aspx</link>
-      <description><![CDATA[Thoát khỏi lão phù thủy, chàng trai cũng học được những phép màu. Song những thử thách vẫn đến với chàng. Với trí thông minh, sự nhanh nhẹn và can đảm, chàng trai ấy đã vượt qua những trở ngại như thế nào để có cuộc sống bình yên? (Kể chuyện và hát ru cho bé 19/11/2020)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/chang-trai-thong-minh-trong-truyen-co-tich-phep-mau-p2-c43-32120.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2020_11/v2_1911_21h45_ke_chuyen_va_hat_ru_cho_be_2011202022.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 20 Nov 2020 07:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
