@@ -9,7 +9,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 22 Dec 2020 22:22:22 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 22 Dec 2020 23:36:22 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
     <pubDate>Tue, 22 Dec 2020 07:00:00 +0700</pubDate>
@@ -24,12 +24,20 @@
     <itunes:subtitle>Thức cùng VOV</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThuccungVOV.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Tết quân dân: Nét đẹp truyền thống của lực lượng vũ trang Quân khu 9 (22/12/2020)</title>
-      <link>http://vov1.vov.vn/thuc-cung-vov/tet-quan-dan-net-dep-truyen-thong-cua-luc-luong-vu-trang-quan-khu-9-22122020-c133-66995.aspx</link>
-      <description><![CDATA[Tết quân dân nét đẹp truyền thống của lực lượng vũ trang Quân khu 9.-  Quản lý mua bán và sử dụng pháo thế nào khi nghị định 137 có hiệu lực.]]></description>
-      <guid isPermaLink="false">http://vov1.vov.vn/thuc-cung-vov/tet-quan-dan-net-dep-truyen-thong-cua-luc-luong-vu-trang-quan-khu-9-22122020-c133-66995.aspx</guid>
-      <enclosure url="http://vov1.vn:1953/vov1/attachments/vov1/phamvanan/2020_12/v1_2212_22h_thuc_cung_vov_1_2212202022.mp3" length="0" type="audio/mpeg"/>
+      <title>Lịch sử từ cuốn sách "Chiến dịch Hồ Chí Minh" giữa lòng Paris của nhà ngoại giao lão thành Võ Văn Sung (22/12/2020)</title>
+      <link>http://vov1.vov.vn/chuyen-dem/lich-su-tu-cuon-sach-chien-dich-ho-chi-minh-giua-long-paris-cua-nha-ngoai-giao-c141-66996.aspx</link>
+      <description><![CDATA[Ấn bản tiếng Việt cuốn Chiến dịch Hồ Chí Minh giữa lòng Paris của Nhà ngoại giao Võ Văn Sung (sinh năm 1928 mất năm 2018) ra mắt bạn đọc lần đầu tiên vào năm 2005, do NXB Quân đội Nhân dân ấn hành. Cuốn sách sau đó được Nhà xuất bản Chính trị Quốc gia tái bản hai lần vào năm 2012 và 2015. Mới đây, cuốn hồi ký bằng tiếng Pháp được xuất bản dựa theo nguyên văn hồi ký phát hành lần đầu của tác giả vào năm 2005, nhằm giữ tính chân thực lịch sử của bản gốc tiếng Việt vừa được giới thiệu gửi đến công chúng trong và ngoài nước để có cái nhìn toàn diện về công cuộc đấu tranh ngoại giao của nước ta, góp một phần không nhỏ vào cuộc chiến giành độc lập dân tộc. Chuyện đêm là cuộc trò chuyện giữa phóng viên Thu Hiền và ông Nguyễn Dy Niên, nguyên Bộ trưởng Bộ Ngoại giao về cuốn sách này.]]></description>
+      <guid isPermaLink="false">http://vov1.vov.vn/chuyen-dem/lich-su-tu-cuon-sach-chien-dich-ho-chi-minh-giua-long-paris-cua-nha-ngoai-giao-c141-66996.aspx</guid>
+      <enclosure url="http://vov1.vn:1953/vov1/attachments/vov1/phamvanan/2020_12/v1_2212_22h_chuyen_dem_2212202022.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 22 Dec 2020 07:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Cuộc sống mưu sinh của người miền Tây ở "Sài thành" (21/12/2020)</title>
+      <link>http://vov1.vov.vn/thuc-cung-vov/cuoc-song-muu-sinh-cua-nguoi-mien-tay-o-sai-thanh-21122020-c133-66956.aspx</link>
+      <description><![CDATA[Bồi dưỡng, đặc cách nhân tài: Sao chỉ nhắm “huy chương”? - Cuộc sống mưu sinh của người miền Tây ở "Sài thành"]]></description>
+      <guid isPermaLink="false">http://vov1.vov.vn/thuc-cung-vov/cuoc-song-muu-sinh-cua-nguoi-mien-tay-o-sai-thanh-21122020-c133-66956.aspx</guid>
+      <enclosure url="http://vov1.vn:1953/vov1/attachments/vov1/phamvanan/2020_12/v1_2112_22h00_thuc_cung_vov_1_2112202018.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 21 Dec 2020 07:00:00 +0700</pubDate>
     </item>
     <item>
       <title>Đừng để thực phẩm bẩn vào bữa ăn hàng ngày. (17/12/2020)</title>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov1.vov.vn/thuc-cung-vov/dung-de-thuc-pham-ban-vao-bua-an-hang-ngay-17122020-c133-66892.aspx</guid>
       <enclosure url="http://vov1.vn:1953/vov1/attachments/vov1/phamvanan/2020_12/v1_1712_22h00_thuc_cung_vov_ok_1712202020.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 17 Dec 2020 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Học tiếng Anh bằng Nhị ngữ, phương pháp mới, thân thiện hơn (15/12/2020)</title>
-      <link>http://vov1.vov.vn/chuyen-dem/hoc-tieng-anh-bang-nhi-ngu-phuong-phap-moi-than-thien-hon-15122020-c141-66874.aspx</link>
-      <description><![CDATA[Nắm bắt được tâm lý của người học, người làm chuyên ngành phải sử dụng Tiếng Anh và từ kinh nghiệm, trải nghiệm của bản thân cũng đã gặp không ít khó khăn khi sử dụng tiếng Anh trong quá trình làm việc, Luật sư Nguyễn Tiến Nùng– Đoàn Luật sư Hà Nội, đã nghiên cứu sáng tạo cách học Tiếng Anh bằng Nhị Ngữ - Bilet, với ứng dụng Biletlingo (Bai-lịt- lin- go) có thể được cài đặt trên điện thoại đi động hoặc Ipad. Phần mềm này đã có hàng nghìn người cài đặt. Mới đây đã được đưa vào trường THCS Nghĩa Tân, quận Cầu Giấy Hà Nội để cho học sinh, phụ huynh và giáo viên có thể trải nghiệm nâng cao nhu cầu học Tiếng Anh. Vậy ứng dụng học Tiếng Anh –Bilet (Bai-lịt) có tác dụng, ý nghĩa như thế nào trong việc nâng cao khả năng tiếng Anh cho người Việt? Chuyện đêm hôm nay, phóng viên Thu Hiền gặp gỡ trò chuyện với Luật sư Nguyễn Tiến Nùng để nghe những chia sẻ của ông về niềm đam mê sáng tạo cách học Tiếng Anh bằng Nhị Ngữ - Bilet.]]></description>
-      <guid isPermaLink="false">http://vov1.vov.vn/chuyen-dem/hoc-tieng-anh-bang-nhi-ngu-phuong-phap-moi-than-thien-hon-15122020-c141-66874.aspx</guid>
-      <enclosure url="http://vov1.vn:1953/vov1/attachments/vov1/phamvanan/2020_12/chuyen_dem_15-12-2020_171220209.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 15 Dec 2020 07:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
