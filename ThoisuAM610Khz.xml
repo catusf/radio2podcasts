@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 23 Dec 2020 21:23:32 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 23 Dec 2020 22:22:16 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 23 Dec 2020 19:13:00 +0700</pubDate>
+    <pubDate>Thu, 24 Dec 2020 00:08:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Trên 78,3 triệu người nhiễm Covid-19 trên toàn cầu - Thời sự 17g00 23/12/2020</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tren-78-3-trieu-nguoi-nhiem-covid-19-tren-toan-cau-thoi-su-17g00-23-12-2020-388812.html</link>
+      <description><![CDATA[17:08 - 23/12/2020]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tren-78-3-trieu-nguoi-nhiem-covid-19-tren-toan-cau-thoi-su-17g00-23-12-2020-388812.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/12/23/AMThoisu17h00p231220.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 24 Dec 2020 00:08:00 +0700</pubDate>
+    </item>
     <item>
       <title>Hoàn thành thi công đắp trả nhà ga Ba Son và khu vực hầm đào hở - Thời sự 11g 23/12/2020</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/hoan-thanh-thi-cong-dap-tra-nha-ga-ba-son-va-khu-vuc-ham-dao-ho-thoi-su-11g-23-12-2020-388785.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tang-cuong-tau-tu-tphcm-di-mien-trung-dip-tet-tan-suu-2021-thoi-su-5g30-23-12-2020-388784.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/12/23/AMThoisu05h30p231220.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 23 Dec 2020 19:13:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>TPHCM tổ chức các hoạt động chào năm mới 2021 - Thời sự 17g00 22/12/2020</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-to-chuc-cac-hoat-dong-chao-nam-moi-2021-thoi-su-17g00-22-12-2020-388693.html</link>
-      <description><![CDATA[17:00 - 22/12/2020]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-to-chuc-cac-hoat-dong-chao-nam-moi-2021-thoi-su-17g00-22-12-2020-388693.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/12/22/ts17g-221220.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 23 Dec 2020 00:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
