@@ -149,6 +149,9 @@ def generate_rss_from_articles(feed_settings, articles):
         pastdate = max(pastdate, article.pub_date)
         # episode.media = Media.create_from_server_response(article.media, size=None, duration=None)
         episode.media = Media(article.media, size=None, duration=None, type=article.type)
+    
+    podcast.last_updated = pastdate
+    podcast.publication_date = pastdate
 
     return podcast
 
