@@ -135,7 +135,8 @@ def generate_rss_from_articles(feed_settings, articles):
     # p.xslt = "http://example.com/stylesheet.xsl"
 
     vt_tz = pytz.timezone('Asia/Ho_Chi_Minh')
-    podcast.last_updated = datetime.datetime.now(vt_tz)
+    pastdate = datetime.datetime(2000,1,1,0,0).astimezone(vt_tz)
+    # podcast.last_updated = datetime.datetime.now(vt_tz)
 
     for article in articles:
         episode = podcast.add_episode()
@@ -145,6 +146,7 @@ def generate_rss_from_articles(feed_settings, articles):
         episode.link = article.link
         # episode.authors = [Person('Lars Kiesow', 'lkiesow@uos.de')]
         episode.publication_date = article.pub_date
+        pastdate = max(pastdate, article.pub_date)
         # episode.media = Media.create_from_server_response(article.media, size=None, duration=None)
         episode.media = Media(article.media, size=None, duration=None, type=article.type)
 
