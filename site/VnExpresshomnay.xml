@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 28 Dec 2020 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 29 Dec 2020 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 28 Dec 2020 11:00:00 +0700</pubDate>
+    <pubDate>Tue, 29 Dec 2020 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VnExpress hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VnExpresshomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Vaccine có giúp kết thúc đại dịch trong 2021?</title>
+      <link>https://vnexpress.net/vaccine-co-giup-ket-thuc-dai-dich-trong-2021-4213187.html</link>
+      <description><![CDATA[31 nước tham gia vào cuộc đua phát triển vaccine Covid-19, 56 loại đang thử nghiệm lâm sàng, nhiều loại hiệu quả hơn 90%. Liệu vaccine có đủ sức mạnh chấm dứt đại dịch trong năm sau?]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/vaccine-co-giup-ket-thuc-dai-dich-trong-2021-4213187.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2020/12/29/vaccine-co-ket-thuc-dai-dich-trong-2021-1609176791.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 29 Dec 2020 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Đế chế mạng xã hội của Mark Zuckerberg có bị phá hủy?</title>
       <link>https://vnexpress.net/de-che-mang-xa-hoi-cua-mark-zuckerberg-co-bi-pha-huy-4212642.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/ben-trong-nha-tho-dem-giang-sinh-o-sai-gon-4211621.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2020/12/25/khong-khi-le-giang-sinh-cua-dao-cong-giao-1608833170.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 25 Dec 2020 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Giáng sinh khác biệt của người Việt ở nước ngoài</title>
-      <link>https://vnexpress.net/giang-sinh-khac-biet-cua-nguoi-viet-o-nuoc-ngoai-4211048.html</link>
-      <description><![CDATA[Không còn phiên chợ, bữa tiệc náo nhiệt, Xuân Oanh sống tại Đức phải ngắm lại ảnh Giáng sinh những năm trước. Trong khi Hải Hà, ở Hàn Quốc, viết thiệp tặng qua lại với bạn cùng phòng...]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/giang-sinh-khac-biet-cua-nguoi-viet-o-nuoc-ngoai-4211048.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2020/12/24/giang-sinh-khac-biet-cua-nguoi-viet-o-nuoc-ngoai-1608775565.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 24 Dec 2020 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
