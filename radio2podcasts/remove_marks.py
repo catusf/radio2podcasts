@@ -195,8 +195,13 @@ def remove_marks(marked):
     Remove Vietnamese specific characters with Latin characters for safe file 
     names. Also remove spaces.
     '''
+    cleaned = ''
+    for character in marked:
+        if character.isalnum():
+            cleaned += character
+            
     return ''.join(
-        [VIETNAMESE_CHAR_MAP[i] if i in VIETNAMESE_CHAR_MAP else i for i in marked])
+        [VIETNAMESE_CHAR_MAP[i] if i in VIETNAMESE_CHAR_MAP else i for i in cleaned])
 
 
 def main():

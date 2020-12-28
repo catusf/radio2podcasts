@@ -18,6 +18,7 @@ import vov1_get_articles
 import vov2_get_articles
 import vov6_get_articles
 import drt_get_articles
+import vnexpress_get_articles
 
 CWD = os.getcwd()
 
@@ -34,6 +35,7 @@ PROCESS_FUNCTIONS = {
     'http://vov6.vov.vn/': vov6_get_articles.get_articles_from_html,
     'http://radio.voh.com.vn': voh_get_articles.get_articles_from_html,
     'http://www.drt.danang.vn/': drt_get_articles.get_articles_from_html,
+    'https://vnexpress.net/podcast': vnexpress_get_articles.get_articles_from_html,
 }
 
 def main():
