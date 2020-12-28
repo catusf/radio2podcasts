@@ -1,24 +1,12 @@
-<<<<<<< HEAD
-"""This module purse VOH website to get the contents for podcast feed.
+"""This module purse VnExpress website to get the contents for podcast feed.
 """
 
 import collections
-from urllib.parse import urljoin, urlparse, urlunparse
-=======
-"""This module parse VOH website to get the contents for podcast feed.
-"""
-
-import collections
-from urllib.parse import urljoin, urlunparse, urlparse
->>>>>>> adfcd5eaeb168834c3be469bfc58c67f98bcf9aa
 import datetime
 import re
 import pytz
 import requests
 from bs4 import BeautifulSoup
-
-from podcasts_utils import get_true_url
-
 
 def get_articles_from_html(soup, url, no_items, item_titles=None):
     """
@@ -41,7 +29,7 @@ def get_articles_from_html(soup, url, no_items, item_titles=None):
             break
 
         item = i.select_one('h2.title-news')
-        link = urljoin(url, item.a.get('href'))
+        link = item.a.get('href')
         title = item.text.strip()
         description = i.select_one('p.description').text.strip()
 
