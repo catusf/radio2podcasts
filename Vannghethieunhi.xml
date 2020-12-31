@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 30 Dec 2020 07:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 31 Dec 2020 07:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 30 Dec 2020 07:00:00 +0700</pubDate>
+    <pubDate>Thu, 31 Dec 2020 07:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Văn nghệ thiếu nhi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Vannghethieunhi.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Cách tiếp cận tác phẩm văn học 30/12/2020</title>
+      <title>Vẽ tranh trên toan chủ đề Noel31/12/2020</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/ve-tranh-tren-toan-chu-de-noel-c44-32230.aspx</link>
+      <description><![CDATA[Bên cạnh việc mua các vật dụng trang trí Noel thì chúng ta hoàn toàn có thể tự mình sáng tạo những bức tranh, những hình ảnh để tạo nên một không khí giáng sinh ý nghĩa.  Vẽ về chủ đề Noel để trang trí ngôi nhà của mình chính là một buổi sáng tạo thú vị và giàu ý nghĩa của các bạn nhỏ thuộc trung tâm Go go kids - Hà Nội... (Văn nghệ thiếu nhi - Trang nghệ thuật 23/12/2020)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/ve-tranh-tren-toan-chu-de-noel-c44-32230.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2020_12/v2_2312_10h4518h15_van_nghe_thieu_nhi_3112202011.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 31 Dec 2020 07:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Cách tiếp cận tác phẩm văn học  30/12/2020</title>
       <link>http://vov6.vov.vn/van-nghe-thieu-nhi/cach-tiep-can-tac-pham-van-hoc-c44-32228.aspx</link>
       <description><![CDATA[Ôn tập các tác phẩm văn học, thực hành viết các bài làm văn theo hướng mở, bày tỏ quan điểm tình cảm của mình trong mỗi bài văn. Đây là những bí quyết tự học chuẩn bị cho mỗi kỳ thi. Trong chương trình hôm nay, cô giáo - nhà thơ Nguyễn Vân Anh, giáo viên ngữ văn trường THCS Đặng Thai Mai, thành phố Vinh, Nghệ An trao đổi với chúng mình về cách tiếp cận tác phẩm một cách chủ động, đồng sáng tạo... (Văn nghệ thiếu nhi - Trang văn học nhà trường 28/12/2020)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/cach-tiep-can-tac-pham-van-hoc-c44-32228.aspx</guid>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/cuon-sach-em-yeu-di-cau-cung-tong-thong-c44-32227.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2020_12/v2_1712_10h4518h15_van_nghe_thieu_nhi_3012202021.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 30 Dec 2020 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đọc truyện "Trong gia đình" - Buổi 11 - Vào rừng 27/12/2020</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-trong-gia-dinh-buoi-11-vao-rung-c44-32216.aspx</link>
-      <description><![CDATA[Trú mưa dưới tán cây to trong rừng, Perrin nghĩ đến việc tìm kiếm thức ăn. Những loài cây có thể ăn được lá là một gợi ý không tồi. Cô đi vào sâu khu rừng và tìm kiếm. Liệu Perrin có tìm được loài cây mà mình cần hay không? (Văn nghệ thiếu nhi - Đọc truyện dài kỳ 27/12/2020)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-trong-gia-dinh-buoi-11-vao-rung-c44-32216.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2020_12/v2_2712_10h4518h15_van_nghe_thieu_nhi_2712202013.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 27 Dec 2020 07:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
