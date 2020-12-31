@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 30 Dec 2020 21:44:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 31 Dec 2020 05:10:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 30 Dec 2020 21:44:00 +0700</pubDate>
+    <pubDate>Thu, 31 Dec 2020 05:10:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Thảo luận điều chỉnh Quy hoạch chung TPHCM đến năm 2040 – Thời sự 17g00 30/12/2020</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/thao-luan-dieu-chinh-quy-hoach-chung-tphcm-den-nam-2040-thoi-su-17g00-30-12-2020-389586.html</link>
+      <description><![CDATA[22:10 - 30/12/2020]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/thao-luan-dieu-chinh-quy-hoach-chung-tphcm-den-nam-2040-thoi-su-17g00-30-12-2020-389586.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/12/30/AMThoisu17h00p301220.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 31 Dec 2020 05:10:00 +0700</pubDate>
+    </item>
     <item>
       <title>Mô hình đưa y tế đến dân, y tế gần dân! - Thời sự 11g00 30/12/2020</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/mo-hinh-dua-y-te-den-dan-y-te-gan-dan-thoi-su-11g00-30-12-2020-389518.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/giu-cho-cac-dong-kenh-khong-bi-tai-o-nhiem-ky-1-thoi-su-05g30-30-12-2020-389513.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/12/30/AMThoisu05h30p301220.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 30 Dec 2020 21:16:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đại học Quốc gia TPHCM năm 2021: “Mô hình tự chủ - Vươn tầm thế giới” – Thời sự 17g00 29/12/2020</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/dai-hoc-quoc-gia-tphcm-nam-2021-mo-hinh-tu-chu-vuon-tam-the-gioi-thoi-su-17g00-29-12-2020-389444.html</link>
-      <description><![CDATA[17:00 - 29/12/2020]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/dai-hoc-quoc-gia-tphcm-nam-2021-mo-hinh-tu-chu-vuon-tam-the-gioi-thoi-su-17g00-29-12-2020-389444.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/12/29/ts17g00-291220.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 30 Dec 2020 00:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
