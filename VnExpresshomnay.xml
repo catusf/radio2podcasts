@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 01 Jan 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 02 Jan 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 01 Jan 2021 11:00:00 +0700</pubDate>
+    <pubDate>Sat, 02 Jan 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VnExpress hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VnExpresshomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Những mẩu chuyện vui trong năm qua</title>
+      <link>https://vnexpress.net/nhung-mau-chuyen-vui-trong-nam-qua-4215166.html</link>
+      <description><![CDATA[Sinh em bé giữa đại dịch, trải nghiệm việc nhiễm và khỏi Covid... là niềm vui lớn nhất của những người bình thường trong một năm đặc biệt đã qua.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/nhung-mau-chuyen-vui-trong-nam-qua-4215166.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/01/02/chuyen-vui-cua-nam-2020-1609523668.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 02 Jan 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Năm mới của những vị khách 'mắc kẹt' ở Việt Nam</title>
       <link>https://vnexpress.net/nam-moi-cua-nhung-vi-khach-mac-ket-o-viet-nam-4214886.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/vaccine-co-giup-ket-thuc-dai-dich-trong-2021-4213187.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2020/12/29/vaccine-co-ket-thuc-dai-dich-trong-2021-1609176791.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 29 Dec 2020 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đế chế mạng xã hội của Mark Zuckerberg có bị phá hủy?</title>
-      <link>https://vnexpress.net/de-che-mang-xa-hoi-cua-mark-zuckerberg-co-bi-pha-huy-4212642.html</link>
-      <description><![CDATA[Chính phủ Mỹ cùng 48 tiểu bang khẳng định Facebook đã lạm dụng vị thế độc quyền trong ngành công nghiệp mạng xã hội để bóp nghẹt sự cạnh tranh. Nếu thua, Facebook sẽ phải thoái vốn khỏi Instagram và WhatsApp.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/de-che-mang-xa-hoi-cua-mark-zuckerberg-co-bi-pha-huy-4212642.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2020/12/27/facebook-co-kha-nang-thang-kien-truoc-chinh-phu-my-khong-1609086727.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 28 Dec 2020 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
