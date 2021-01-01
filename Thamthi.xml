@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 26 Dec 2020 03:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 02 Jan 2021 03:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 26 Dec 2020 03:00:00 +0700</pubDate>
+    <pubDate>Sat, 02 Jan 2021 03:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thầm thì</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Thamthi.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Tại sao sex khiến con người hạnh phúc?</title>
+      <link>https://vnexpress.net/tai-sao-sex-khien-con-nguoi-hanh-phuc-4215121.html</link>
+      <description><![CDATA[Khi đạt đỉnh, cơ thể chúng ta tiết ra một loại hormone hạnh phúc. Tuy nhiên chúng ta thoả mãn lâu dài nhờ những cử chỉ vuốt ve, âu yếm sau ân ái chứ không phải vì cực khoái.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/tai-sao-sex-khien-con-nguoi-hanh-phuc-4215121.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/01/01/tai-sao-sex-khien-con-nguoi-hanh-phuc-1609504906.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 02 Jan 2021 03:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>5 tiêu chuẩn của 'đồng thuận tình dục'</title>
       <link>https://vnexpress.net/5-tieu-chuan-cua-dong-thuan-tinh-duc-4211989.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/vo-bat-nhin-yeu-vi-dang-mang-bau-4198258.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2020/11/27/vo-bat-nhin-yeu-vi-dang-mang-bau-1606480062.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 28 Nov 2020 03:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Lần đầu 'lâm trận' thất bại</title>
-      <link>https://vnexpress.net/lan-dau-lam-tran-that-bai-4194575.html</link>
-      <description><![CDATA[Dù đã "tìm hiểu và tập tành" kỹ lưỡng nhưng khi "xung trận" lần đầu, chàng trai 20 tuổi lại thấy không giống như tưởng tượng. Hẹn bạn gái lần sau nhưng chàng lo lắng, sợ người yêu chê.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/lan-dau-lam-tran-that-bai-4194575.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2020/11/20/lan-dau-that-bai-toi-so-ban-gai-che-minh-yeu-1605856897.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 21 Nov 2020 03:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
