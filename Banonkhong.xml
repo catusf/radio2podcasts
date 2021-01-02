@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 27 Dec 2020 03:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 03 Jan 2021 03:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 27 Dec 2020 03:00:00 +0700</pubDate>
+    <pubDate>Sun, 03 Jan 2021 03:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Bạn ổn không?</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Banonkhong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>'Khi vợ đòi ly hôn, tôi mới thấy cô ấy quan trọng'</title>
+      <link>https://vnexpress.net/khi-vo-doi-ly-hon-toi-moi-thay-co-ay-quan-trong-4213894.html</link>
+      <description><![CDATA[Sau cưới, Văn dọn về nhà vợ ở nhưng thường xuyên phó thác mọi việc cho mẹ, dành thời gian chơi game. Suốt một năm cưới nhau, anh tự nhận mình cọc cằn, ích kỷ nên đây là lý do hai vợ chồng chưa "quan hệ".]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/khi-vo-doi-ly-hon-toi-moi-thay-co-ay-quan-trong-4213894.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2020/12/30/khi-vo-doi-ly-hon-toi-moi-thay-co-ay-quan-trong-1609294832.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 03 Jan 2021 03:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Bạn trai qua đêm với đồng nghiệp</title>
       <link>https://vnexpress.net/ban-trai-qua-dem-voi-dong-nghiep-4208236.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/vo-co-bau-khi-toi-da-yeu-nguoi-moi-4198286.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2020/11/27/ly-than-4-thang-vo-dot-nhien-co-bau-trong-khi-toi-dang-quen-mot-co-gai-khac-1606478313.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 29 Nov 2020 03:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>'Chồng mất, gia đình nội giày vò chuyện chia đất'</title>
-      <link>https://vnexpress.net/chong-mat-gia-dinh-noi-giay-vo-chuyen-chia-dat-4194259.html</link>
-      <description><![CDATA[Chồng mất hơn 10 năm, chị Nguyên lăn lộn nuôi con mà không có sự hỗ trợ từ bố mẹ hay gia đình chồng. Không những giày vò chuyện chia đất đai, nhà nội còn tỏ ý ngăn cản khi hiểu nhầm chị lập gia đình mới.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/chong-mat-gia-dinh-noi-giay-vo-chuyen-chia-dat-4194259.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2020/12/05/chong-mat-gia-dinh-noi-giay-vo-chuyen-chia-dat-1607165408.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 06 Dec 2020 03:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
