@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 03 Jan 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 04 Jan 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 03 Jan 2021 11:00:00 +0700</pubDate>
+    <pubDate>Mon, 04 Jan 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VnExpress hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VnExpresshomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Rap và hài độc thoại gây chú ý trong thời Covid</title>
+      <link>https://vnexpress.net/rap-va-hai-doc-thoai-gay-chu-y-trong-thoi-covid-4215656.html</link>
+      <description><![CDATA[Hoạt động của showbiz ngưng trệ trong năm qua, khán giả giải trí chủ yếu qua màn hình tivi, máy tính... Điều này tạo cơ hội cho chương trình trực tuyến và thể loại mới, nổi bật là rap và hài độc thoại.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/rap-va-hai-doc-thoai-gay-chu-y-trong-thoi-covid-4215656.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/01/03/fghj-1609692900.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 04 Jan 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Việt Nam ghi nhận biến thể nCoV từ Anh có đáng lo ngại?</title>
       <link>https://vnexpress.net/viet-nam-ghi-nhan-bien-the-ncov-tu-anh-co-dang-lo-ngai-4215445.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/2020-nam-xao-tron-cua-nghe-thuat-viet-nam-4214349.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2020/12/31/2020-nam-xao-tron-cua-nghe-thuat-viet-nam-1609350039.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 31 Dec 2020 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chuyên viên y tế gốc Việt tự hào khi được tiêm vaccine ở Mỹ</title>
-      <link>https://vnexpress.net/chuyen-vien-y-te-goc-viet-tu-hao-khi-duoc-tiem-vaccine-o-my-4213776.html</link>
-      <description><![CDATA[Tự hào khi là một trong những người đầu tiên được tiêm vaccine Covid-19 tại Mỹ, vợ chồng chuyên viên y tế Mỹ gốc Việt hy vọng nhiều người sẽ tin tưởng vào y học để đại dịch sớm kết thúc.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/chuyen-vien-y-te-goc-viet-tu-hao-khi-duoc-tiem-vaccine-o-my-4213776.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2020/12/30/bac-si-my-goc-viet-tu-hao-khi-o-nhom-tiem-vaccine-dau-tien-1609264826.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 30 Dec 2020 07:35:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
