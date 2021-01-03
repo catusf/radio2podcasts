@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 03 Jan 2021 00:42:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 03 Jan 2021 17:50:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 03 Jan 2021 00:42:00 +0700</pubDate>
+    <pubDate>Sun, 03 Jan 2021 17:50:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Sài Gòn buổi sáng - 03/01/2021</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-03-01-2021-389872.html</link>
+      <description><![CDATA[10:50 - 03/01/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-03-01-2021-389872.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/01/03/FMSaigonbuoisang06h00p030121-Copy.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 03 Jan 2021 17:50:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Sài Gòn buổi sáng - 02/01/2021</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-02-01-2021-389836.html</link>
       <description><![CDATA[17:42 - 02/01/2021]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-02-01-2021-389836.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/01/02/FMSaigonbuoisang06h00p020121.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 03 Jan 2021 00:42:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Sài Gòn buổi sáng - 1/1/2021</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-1-1-2021-389765.html</link>
-      <description><![CDATA[08:31 - 01/01/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-1-1-2021-389765.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/01/01/FMSGBS06h00p010121.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 01 Jan 2021 15:31:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

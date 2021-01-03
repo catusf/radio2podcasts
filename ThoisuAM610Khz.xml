@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 03 Jan 2021 17:31:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 03 Jan 2021 18:29:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 03 Jan 2021 17:31:00 +0700</pubDate>
+    <pubDate>Sun, 03 Jan 2021 18:29:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>13 người chết vì tai nạn giao thông trong ngày nghỉ Tết thứ 2 - Thời sự 11g00 3/1/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/13-nguoi-chet-vi-tai-nan-giao-thong-trong-ngay-nghi-tet-thu-2-thoi-su-11g00-3-1-2021-389874.html</link>
+      <description><![CDATA[11:29 - 03/01/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/13-nguoi-chet-vi-tai-nan-giao-thong-trong-ngay-nghi-tet-thu-2-thoi-su-11g00-3-1-2021-389874.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/01/03/AMThoisu11h00p030121-Copy.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 03 Jan 2021 18:29:00 +0700</pubDate>
+    </item>
     <item>
       <title>Kỳ 2: Tọa đàm: Giá trị và tiềm năng ẩm thực Việt Nam - Thời sự 5g30 3/1/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/ky-2-toa-dam-gia-tri-va-tiem-nang-am-thuc-viet-nam-thoi-su-5g30-3-1-2021-389871.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/thu-1-000-ty-dong-tien-thue-tu-cac-ca-nhan-kinh-doanh-tren-facebook-google-thoi-su-17g00-02-01-20-389845.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/01/02/AMThoisu17h00p020121.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 03 Jan 2021 01:31:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>11 người chết vì tai nạn giao thông trong ngày đầu năm 2021 - Thời sự 11g00 02/01/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/11-nguoi-chet-vi-tai-nan-giao-thong-trong-ngay-dau-nam-2021-thoi-su-11g00-02-01-2021-389829.html</link>
-      <description><![CDATA[13:34 - 02/01/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/11-nguoi-chet-vi-tai-nan-giao-thong-trong-ngay-dau-nam-2021-thoi-su-11g00-02-01-2021-389829.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/01/02/AMThoisu05h30p020121.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 02 Jan 2021 20:34:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
