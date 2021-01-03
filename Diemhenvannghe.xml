@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 01 Jan 2021 07:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 03 Jan 2021 07:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 01 Jan 2021 07:00:00 +0700</pubDate>
+    <pubDate>Sun, 03 Jan 2021 07:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Điểm hẹn văn nghệ</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Diemhenvannghe.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Rót lời hát xuống chén trà mời nhau  1/1/2021</title>
+      <title>“Bơ không phải để ăn”: Lung linh một món quà xinh 3/1/2021</title>
+      <link>http://vov6.vov.vn/diem-hen-van-nghe/bo-khong-phai-de-an-lung-linh-mot-mon-qua-xinh-c158-32242.aspx</link>
+      <description><![CDATA["Mình là Bơ. Nhưng bơ này không phải để ăn nhé!"- tác phẩm văn học thiếu nhi có nhan đề dễ thương “Bơ không phải để ăn” (Nhà xuất bản Phụ nữ) của nhóm tác giả Trần Quốc Anh, Huỳnh Trọng Khang và Chung Bảo Ngân. (Điểm hẹn văn nghệ 26/12/2020)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/bo-khong-phai-de-an-lung-linh-mot-mon-qua-xinh-c158-32242.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_1/v2_2612_08h00_18h30_diem_hen_van_nghe_31202113.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 03 Jan 2021 07:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Rót lời hát xuống chén trà mời nhau   1/1/2021</title>
       <link>http://vov6.vov.vn/diem-hen-van-nghe/rot-loi-hat-xuong-chen-tra-moi-nhau-c158-32235.aspx</link>
       <description><![CDATA[Ca khúc “Khách đến chơi nhà”, nhạc sĩ Lê Minh phổ thơ từ bài “Ra ngõ mà trông” của tác giả Đỗ Việt Dũng. Nhạc sĩ quê xứ Thanh, kết hợp cùng tác giả thơ quê Hà Nam cho ra đời một ca khúc đậm đà xứ Kinh Bắc thực sự tạo nhiều bất ngờ và thú vị. (Điểm hẹn văn nghệ 12/12/2020)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/rot-loi-hat-xuong-chen-tra-moi-nhau-c158-32235.aspx</guid>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/mien-trung-oi-nhung-cau-ca-sau-nang-nghia-tinh-c158-32217.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2020_12/v2_2811_08h0018h30_diem_hen_van_nghe_2712202016.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 27 Dec 2020 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>“Vì an ninh Tổ quốc và bình yên cuộc sống”: Đề tài thu hút các cây bút    28/11/2020</title>
-      <link>http://vov6.vov.vn/diem-hen-van-nghe/vi-an-ninh-to-quoc-va-binh-yen-cuoc-song-de-tai-thu-hut-cac-cay-but-c158-32145.aspx</link>
-      <description><![CDATA[20 tác phẩm được trao giải trong Cuộc thi sáng tác tiểu thuyết, truyện và ký về đề tài “Vì an ninh Tổ quốc và bình yên cuộc sống” lần thứ 4 (2017 - 2020) do Bộ Công an phối hợp với Hội Nhà văn Việt Nam tổ chức. (Điểm hẹn văn nghệ 14/11/2020)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/vi-an-ninh-to-quoc-va-binh-yen-cuoc-song-de-tai-thu-hut-cac-cay-but-c158-32145.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2020_11/v2_1411_18h30_diem_hen_van_nghe_-_moi_2811202014.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 28 Nov 2020 07:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
