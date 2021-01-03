@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 02 Jan 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 03 Jan 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 02 Jan 2021 11:00:00 +0700</pubDate>
+    <pubDate>Sun, 03 Jan 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VnExpress hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VnExpresshomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Việt Nam ghi nhận biến thể nCoV từ Anh có đáng lo ngại?</title>
+      <link>https://vnexpress.net/viet-nam-ghi-nhan-bien-the-ncov-tu-anh-co-dang-lo-ngai-4215445.html</link>
+      <description><![CDATA[Các chuyên gia cho rằng, dù độc lực không tăng nhưng đặc tính siêu lây nhiễm của biến thể nCoV này vẫn đáng lo ngại. Nếu biến thể tiếp cận được nhóm nguy cơ cao thì tỷ lệ nhiễm tăng, tỷ lệ tử vong cũng tăng theo.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/viet-nam-ghi-nhan-bien-the-ncov-tu-anh-co-dang-lo-ngai-4215445.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/01/03/viet-nam-ghi-nhan-bien-the-ncov-tu-anh-co-dang-lo-ngai-1609612921.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 03 Jan 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Chuyện vui trong năm</title>
       <link>https://vnexpress.net/chuyen-vui-trong-nam-4215166.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/chuyen-vien-y-te-goc-viet-tu-hao-khi-duoc-tiem-vaccine-o-my-4213776.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2020/12/30/bac-si-my-goc-viet-tu-hao-khi-o-nhom-tiem-vaccine-dau-tien-1609264826.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 30 Dec 2020 07:35:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Vaccine có giúp kết thúc đại dịch trong 2021?</title>
-      <link>https://vnexpress.net/vaccine-co-giup-ket-thuc-dai-dich-trong-2021-4213187.html</link>
-      <description><![CDATA[31 nước tham gia vào cuộc đua phát triển vaccine Covid-19, 56 loại đang thử nghiệm lâm sàng, nhiều loại hiệu quả hơn 90%. Liệu vaccine có đủ sức mạnh chấm dứt đại dịch trong năm sau?]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/vaccine-co-giup-ket-thuc-dai-dich-trong-2021-4213187.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2020/12/29/vaccine-co-ket-thuc-dai-dich-trong-2021-1609176791.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 29 Dec 2020 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
