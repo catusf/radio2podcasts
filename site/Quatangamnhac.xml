@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 27 Dec 2020 17:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 03 Jan 2021 17:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 27 Dec 2020 17:00:00 +0700</pubDate>
+    <pubDate>Sun, 03 Jan 2021 17:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Quà tặng âm nhạc trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Quatangamnhac.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Giai điệu mùa xuân - Quà tặng âm nhạc 3/1/2021</title>
+      <link>https://radio.voh.com.vn/qua-tang-am-nhac/giai-dieu-mua-xuan-qua-tang-am-nhac-3-1-2021-389883.html</link>
+      <description><![CDATA[10:00 - 03/01/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/giai-dieu-mua-xuan-qua-tang-am-nhac-3-1-2021-389883.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/01/03/qtan030121.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 03 Jan 2021 17:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Khúc giao mùa - Quà tặng âm nhạc 27/12/2020</title>
       <link>https://radio.voh.com.vn/qua-tang-am-nhac/khuc-giao-mua-qua-tang-am-nhac-27-12-2020-389250.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/goi-ten-bon-mua-qua-tang-am-nhac-6-12-2020-386900.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/12/06/qtan-061220.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 06 Dec 2020 17:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Như một lời chia tay - Quà tặng âm nhạc 29/11/2020</title>
-      <link>https://radio.voh.com.vn/qua-tang-am-nhac/nhu-mot-loi-chia-tay-qua-tang-am-nhac-29-11-2020-386076.html</link>
-      <description><![CDATA[10:00 - 29/11/2020]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/nhu-mot-loi-chia-tay-qua-tang-am-nhac-29-11-2020-386076.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/11/29/qtan-291120.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 29 Nov 2020 17:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
