@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 28 Dec 2020 03:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 04 Jan 2021 03:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 28 Dec 2020 03:00:00 +0700</pubDate>
+    <pubDate>Mon, 04 Jan 2021 03:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sóng điện ảnh trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Songdienanh.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Tìm hiểu hậu trường phim Chị Mười Ba và Người cần quên phải nhớ (Kỳ 2) - Khung hình thứ 25 3/1/2021</title>
+      <link>https://radio.voh.com.vn/khung-hinh-thu-25/tim-hieu-hau-truong-phim-chi-muoi-ba-va-nguoi-can-quen-phai-nho-ky-2-khung-hinh-thu-25-3-1-2021-389882.html</link>
+      <description><![CDATA[20:00 - 03/01/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/khung-hinh-thu-25/tim-hieu-hau-truong-phim-chi-muoi-ba-va-nguoi-can-quen-phai-nho-ky-2-khung-hinh-thu-25-3-1-2021-389882.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/01/03/nltx020121.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 04 Jan 2021 03:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Tìm hiểu hậu trường phim Chị Mười Ba và Người cần quên phải nhớ - Khung hình thứ 25 27/12/2020</title>
       <link>https://radio.voh.com.vn/khung-hinh-thu-25/tim-hieu-hau-truong-phim-chi-muoi-ba-va-nguoi-can-quen-phai-nho-khung-hinh-thu-25-27-12-2020-389248.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/khung-hinh-thu-25/giao-luu-voi-hoang-yen-chibi-va-kha-ngan-trong-phim-bi-mat-cua-gio-khung-hinh-thu-25-6-12-2020-386912.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/12/06/khunghinh-061220.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 07 Dec 2020 03:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Giao lưu với êkíp đoàn phim Trái tim quái vật (Kỳ 2) - Khung hình thứ 25 29/11/2020</title>
-      <link>https://radio.voh.com.vn/khung-hinh-thu-25/giao-luu-voi-ekip-doan-phim-trai-tim-quai-vat-ky-2-khung-hinh-thu-25-29-11-2020-386091.html</link>
-      <description><![CDATA[20:00 - 29/11/2020]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/khung-hinh-thu-25/giao-luu-voi-ekip-doan-phim-trai-tim-quai-vat-ky-2-khung-hinh-thu-25-29-11-2020-386091.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/11/29/KHUNGHINH-291120.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 30 Nov 2020 03:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
