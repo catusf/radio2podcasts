@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 28 Dec 2020 18:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 04 Jan 2021 18:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 28 Dec 2020 18:00:00 +0700</pubDate>
+    <pubDate>Mon, 04 Jan 2021 18:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Tiền làm gì?</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Tienlamgi.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Với mục đích cho thuê, nên mua chung cư hay nhà đất?</title>
+      <link>https://vnexpress.net/voi-muc-dich-cho-thue-nen-mua-chung-cu-hay-nha-dat-4215838.html</link>
+      <description><![CDATA[Chuyên gia tài chính cho rằng, 5 tỷ đồng có thể mua một căn nhà ở ngoại thành hoặc vài căn chung cư trả góp. Với mục đích cho thuê thì chung cư sẽ đem về thu nhập cao hơn nhưng cần lưu ý các rủi ro pháp lý đi kèm.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/voi-muc-dich-cho-thue-nen-mua-chung-cu-hay-nha-dat-4215838.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/01/04/voi-muc-dich-cho-thue-nen-mua-chung-cu-hay-nha-dat-1609731270.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 04 Jan 2021 18:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Có nên bán nhà 3 tỷ ở quê để lên phố?</title>
       <link>https://vnexpress.net/co-nen-ban-nha-3-ty-o-que-de-len-pho-4212746.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/dau-tu-gi-voi-50-trieu-du-moi-thang-4194730.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2020/12/10/dau-tu-gi-voi-50-trieu-du-moi-thang-1607571690.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 10 Dec 2020 18:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Làm sao để bắt đầu kinh doanh homestay?</title>
-      <link>https://vnexpress.net/lam-sao-de-bat-dau-kinh-doanh-homestay-4205845.html</link>
-      <description><![CDATA[Ngoài việc xác định phân khúc người thuê, phân bổ vốn và chọn nhà phù hợp thì kinh doanh homestay cũng cần lưu ý điều khoản về mục đích thuê để tránh rủi ro liên đới khi bên thuê thực hiện hành vi phạm pháp trong nhà.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/lam-sao-de-bat-dau-kinh-doanh-homestay-4205845.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2020/12/14/lam-sao-de-bat-dau-kinh-doanh-homestay-1607917836.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 14 Dec 2020 18:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
