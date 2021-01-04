@@ -25,7 +25,7 @@ def process_item(title, rmedia, rlink, url):
     year, month, day = int(match.group(3)), int(match.group(2)), int(match.group(1))
 
     pub_date = datetime.datetime(
-        year, month, day, 0, 0).astimezone(vt_tz)
+        year, month, day, 12, 0).astimezone(vt_tz)
 
     return (link, media, pub_date)
 

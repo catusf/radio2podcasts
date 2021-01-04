@@ -49,7 +49,7 @@ def get_articles_from_html(soup, url, no_items, item_titles=None):
         vt_tz = pytz.timezone('Asia/Ho_Chi_Minh')
         year, month, day = int(match.group(3)), int(match.group(2)), int(match.group(1))
 
-        pub_date = datetime.datetime(year, month, day, 0, 0).astimezone(vt_tz)
+        pub_date = datetime.datetime(year, month, day, 12, 0).astimezone(vt_tz)
 
         spage = requests.get(link)
         ssoup = BeautifulSoup(spage.content, 'html.parser')
