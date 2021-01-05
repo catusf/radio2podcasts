@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 05 Jan 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 06 Jan 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 05 Jan 2021 11:00:00 +0700</pubDate>
+    <pubDate>Wed, 06 Jan 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Vì sao ngày càng nhiều người trẻ bị đột quỵ?</title>
+      <link>https://vnexpress.net/vi-sao-ngay-cang-nhieu-nguoi-tre-bi-dot-quy-4216741.html</link>
+      <description><![CDATA[Đột quỵ có thể xảy ra ở mọi lứa tuổi, thậm chí đã ghi nhận bệnh nhân 12 tuổi. Theo bác sĩ, lối sống thiếu lành mạnh, lười vận động, uống nhiều rượu bia, béo phì... là nguyên nhân đột quỵ ngày càng trẻ hoá.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/vi-sao-ngay-cang-nhieu-nguoi-tre-bi-dot-quy-4216741.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/01/05/vi-sao-ngay-cang-nhieu-nguoi-tre-bi-dot-quy-1609865345.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 06 Jan 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Chiến dịch 'lật kèo' của Trump có khả thi?</title>
       <link>https://vnexpress.net/chien-dich-lat-keo-cua-trump-co-kha-thi-4216192.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/chuyen-vui-trong-nam-4215166.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/01/02/chuyen-vui-cua-nam-2020-1609523668.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 02 Jan 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Năm mới của những vị khách 'mắc kẹt' ở Việt Nam</title>
-      <link>https://vnexpress.net/nam-moi-cua-nhung-vi-khach-mac-ket-o-viet-nam-4214886.html</link>
-      <description><![CDATA[Dịch bệnh khiến du khách nước ngoài mắc kẹt tại Việt Nam gần một năm không thể về bên gia đình dịp Tết. Nhưng phần lớn họ đều cảm thấy yên bình khi đón năm mới tại đất nước "không phong toả".]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/nam-moi-cua-nhung-vi-khach-mac-ket-o-viet-nam-4214886.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2020/12/31/nam-moi-cua-nhung-vi-khach-mac-ket-o-viet-nam-1609430623.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 01 Jan 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
