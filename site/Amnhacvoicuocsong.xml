@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Âm nhạc với cuộc sống</title>
+    <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+    <description>Âm nhạc với cuộc sống</description>
+    <itunes:explicit>no</itunes:explicit>
+    <copyright>ancs</copyright>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
+    <language>vi</language>
+    <lastBuildDate>Tue, 29 Dec 2020 19:00:00 +0700</lastBuildDate>
+    <itunes:author>catus.phan</itunes:author>
+    <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
+    <pubDate>Tue, 29 Dec 2020 19:00:00 +0700</pubDate>
+    <itunes:category text="Music">
+      <itunes:category text="Music Commentary"/>
+    </itunes:category>
+    <itunes:image href="https://catusf.github.io/radio2podcasts/Amnhacvoicuocsong.png"/>
+    <itunes:owner>
+      <itunes:name>catus.phan</itunes:name>
+      <itunes:email>catus.phan@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:subtitle>Âm nhạc với cuộc sống</itunes:subtitle>
+    <atom:link href="https://catusf.github.io/radio2podcasts/Amnhacvoicuocsong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>“Bản tình ca bên dòng sông”: Tác phẩm âm nhạc tái hiện tình yêu đầy kịch tính của vị đại tướng huyền thoại Nguyễn Chí Thanh</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[- Nhân kỷ niệm 107 năm ngày sinh Đại tướng Nguyễn Chí Thanh (1/1/1914-1/1/2021), cùng lắng nghe câu chuyện về một tình yêu có thật đầy kịch tính của vị đại tướng huyền thoại. Chuyện tình lãng mạn đã được nhạc sĩ, NSƯT Doãn Nguyên và tác giả thơ Châu La Việt tái hiện lại qua tác phẩm âm nhạc “Bản tình ca bên dòng sông” cùng giọng hát của NSƯT Đăng Dương và ca sĩ Trần Hồng Nhung.   
+- Những kỷ niệm ký ức của nhạc sĩ Thanh Phúc khi sinh thời và hoàn cảnh ra đời ca khúc “Hà Nội chiến thắng” và “Trong vườn bách thảo”.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2020/12/29/vovlive_am_nhac_voi_cuoc_song_ban_tinh_ca_ben_dong_song.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 29 Dec 2020 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Gặp gỡ Thiếu tướng, PGS, TS, Thầy thuốc nhân dân, Giám đốc BV quân y 175 Bộ Quốc Phòng Nguyễn Hồng Sơn, tác giả ca khúc “Chiến sĩ mũ nồi xanh”</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[Từ hình ảnh đội quân nhà Phật, một cụm từ quen thuộc của đồng bào Campuchia nói về những người lính tình nguyện Việt Nam trong những năm tháng giúp đỡ nhân dân Campuchia thoát khỏi thảm họa diệt chủng, ngày nay là hình ảnh những người lính mũ nồi xanh với một tầm vóc khác, một sứ mệnh cao cả trong lực lượng gìn giữ hòa bình Liên Hợp Quốc, Thiếu tướng, PGS, TS, Thầy thuốc nhân dân, Giám đốc BV quân y 175 Bộ Quốc Phòng, bác sỹ Nguyễn Hồng Sơn đã cho ra đời ca khúc “Chiến sĩ mũ nồi xanh”.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2020/12/23/vovlive_am_nhac_voi_cuoc_song_tro_chuyen_tac_gia_chien_si_mu_noi_xanh.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 23 Dec 2020 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Gặp gỡ nghệ sĩ, nhạc sĩ Nguyễn Thúy My với những tác phẩm khí nhạc</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[Trong chương trình, chúng ta cùng thưởng thức tác phẩm của nhạc sĩ Nguyễn Thúy My: “Nét duyên quê” (hòa tấu dàn nhạc dân tộc), “Vị quê” (độc tấu đàn nhị cùng dàn nhạc dân tộc).]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2020/12/15/vovlive_am_nhac_voi_cuoc_song_gap_go_nhac_si_thuy_mi_voi_nhung_tac_pham_khi_nhac.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 15 Dec 2020 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Gặp gỡ giọng dân ca triển vọng Lê Minh Ngọc - Á quân Giọng hát hay HN 2020</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[-Ca sĩ Lê Minh Ngọc chia sẻ về bước đường âm nhạc và MV “Mẹ quê” – sản phẩm đầu tay đã được công chúng yêu nhạc đón nhận với tình cảm quý mến đặc biệt.
+-Tìm hiểu và khám phá nét nhạc độc đáo của bản tình ca huyền thoại Tây Ban Nha “Besame mucho”.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2020/12/15/vovlive_am_nhac_voi_cuoc_song_gap_go_ca_si_le_minh_ngoc.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 15 Dec 2020 19:00:00 +0700</pubDate>
+    </item>
+  </channel>
+</rss>
