@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 03 Jan 2021 23:10:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 04 Jan 2021 06:10:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 03 Jan 2021 23:10:00 +0700</pubDate>
+    <pubDate>Mon, 04 Jan 2021 06:10:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -29,7 +29,7 @@
       <description><![CDATA[23:10 - 03/01/2021]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/cua-so-van-hoc-3-1-2021-389853.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/01/02/FMCuasovanhoc07h00p030121.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 03 Jan 2021 23:10:00 +0700</pubDate>
+      <pubDate>Mon, 04 Jan 2021 06:10:00 +0700</pubDate>
     </item>
     <item>
       <title>Nhà văn Trần Luân Tín: Thiền thật ra không khó - Cửa sổ văn học 27/12/2020</title>
@@ -37,7 +37,7 @@
       <description><![CDATA[13:43 - 27/12/2020]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/nha-van-tran-luan-tin-thien-that-ra-khong-kho-cua-so-van-hoc-27-12-2020-389213.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/12/27/FMCuasovanhoc07h00p271220.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 27 Dec 2020 13:43:00 +0700</pubDate>
+      <pubDate>Sun, 27 Dec 2020 20:43:00 +0700</pubDate>
     </item>
     <item>
       <title>Nguyễn Văn Học-Nhà văn nặng lòng với đề tài môi trường - Cửa sổ văn học 24/12/2020</title>
@@ -45,7 +45,7 @@
       <description><![CDATA[09:25 - 25/12/2020]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/nguyen-van-hoc-nha-van-nang-long-voi-de-tai-moi-truong-cua-so-van-hoc-24-12-2020-389033.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/12/25/FMCuasovanhoc21h00p241220.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 25 Dec 2020 09:25:00 +0700</pubDate>
+      <pubDate>Fri, 25 Dec 2020 16:25:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
