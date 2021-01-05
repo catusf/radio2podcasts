@@ -1,4 +1,6 @@
 # Todo List
+[ ] Add Site name next to Site abbreviation in HTML
+[ ] Add episode name in HTML
 [ ] Combine two main files, using argument for input JSON files, edit Action file accordingly 
 [X] Add a page introducing the podcasts in GH Pages
 [X] Change way PPUD podcasts are added

@@ -38,9 +38,10 @@ def get_articles_from_html(soup, url, no_items, item_titles=None):
         link = url
         media = item.a.get('data-source')
         description = i.select_one('div.b-grid__desc').text.strip()
+        time_string = i.select_one('span.b-grid__time').text
 
         time_regex = r'(\d+)/(\d+)/(\d+)'
-        match = re.search(time_regex, title, re.M | re.I)
+        match = re.search(time_regex, time_string, re.M | re.I)
 
         vt_tz = pytz.timezone('Asia/Ho_Chi_Minh')
         year, month, day = int(match.group(3)), int(match.group(2)), int(match.group(1))
@@ -50,20 +51,7 @@ def get_articles_from_html(soup, url, no_items, item_titles=None):
 
         print(link, title, pub_date)
 
-        # spage = requests.get(link)
-        # ssoup = BeautifulSoup(spage.content, 'html.parser')
-
         mime = 'audio/mpeg'
-        # # print(spage.content)
-        # rmedia = ssoup.select_one('source')['src']
-        # mime = ssoup.select_one('source')['type']
-        # parsed = urlparse(url)
-        # home = urlunparse((parsed[0], parsed[1], '', '', '', ''))
-
-        # media = rmedia
-        # # print(media)
-
-        # true_url = get_true_url(media)  # Get length of media file
 
         articles.append(
             feed_article(
