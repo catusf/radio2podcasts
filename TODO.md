@@ -1,4 +1,5 @@
 # Todo List
+[ ] Combine two main files, using argument for input JSON files, edit Action file accordingly 
 [X] Add a page introducing the podcasts in GH Pages
 [X] Change way PPUD podcasts are added
 [X] Gen list of programs for PPUD

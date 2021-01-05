@@ -7,6 +7,20 @@
     "email": "catus.phan@gmail.com"
   },
   "websites": {
+    "VOVL": {
+      "home": "https://vovlive.vn/",
+      "name": "VOV Live",
+      "function": null,
+      "programs": {
+        "tt7n": {
+          "url": "https://vovlive.vn/the-thao-7-ngay-p160.html",
+          "title": "Thể thao 7 ngày",
+          "subtitle": "Thể thao 7 ngày",
+          "cover": "",
+          "no": 5
+        }
+      }
+    },
     "VNE": {
       "home": "https://vnexpress.net/podcast",
       "name": "VnExpress Podcast",
@@ -14,8 +28,8 @@
       "programs": {
         "vehn": {
           "url": "https://vnexpress.net/podcast/vnexpress-hom-nay",
-          "title": "VnExpress hôm nay",
-          "subtitle": "VnExpress hôm nay",
+          "title": "VNE hôm nay",
+          "subtitle": "VNE hôm nay",
           "cover": "",
           "no": 5
         },
