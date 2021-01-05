@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Thể thao 7 ngày</title>
+    <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
+    <description>Thể thao 7 ngày</description>
+    <itunes:explicit>no</itunes:explicit>
+    <copyright>tt7n</copyright>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
+    <language>vi</language>
+    <lastBuildDate>Sun, 20 Dec 2020 12:00:00 +0700</lastBuildDate>
+    <itunes:author>catus.phan</itunes:author>
+    <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
+    <pubDate>Sun, 20 Dec 2020 12:00:00 +0700</pubDate>
+    <itunes:category text="Music">
+      <itunes:category text="Music Commentary"/>
+    </itunes:category>
+    <itunes:image href="https://catusf.github.io/radio2podcasts/Thethao7ngay.png"/>
+    <itunes:owner>
+      <itunes:name>catus.phan</itunes:name>
+      <itunes:email>catus.phan@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:subtitle>Thể thao 7 ngày</itunes:subtitle>
+    <atom:link href="https://catusf.github.io/radio2podcasts/Thethao7ngay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Chương trình thể thao 7 ngày 27/12/2012</title>
+      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
+      <description><![CDATA[+ Điểm lại 10 sự kiện thể thao trong nước và quốc tế nổi bật trong năm 2020 do VOV bình chọn.
++ Nhìn lại trận giao hữu đầu tiên của ĐTQG Việt Nam và ĐTQG U22 Việt Nam ngày 23/12 vừa qua.
++ Cùng tìm hiểu bộ môn thể thao mạo hiểm dù lượn]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2020/12/28/vovlive_thethao-7-ngay_2712.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 27 Dec 2012 12:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Chương trình thể thao 7 ngày 20/12/2020</title>
+      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
+      <description><![CDATA[- Những sự kiện thể thao trong nước và quốc tế nổi bật tuần qua
+- Đội tuyển bóng đá Việt Nam thay đổi để chiến thắng
+- Khuyến cáo của chuyên gia y tế về cách phòng tránh và sơ cứu chấn thương khi đá bóng.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2020/12/21/vovlive_thethao-7-ngay_2012.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 20 Dec 2020 12:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Chương trình thể thao 7 ngày 12/12/2020</title>
+      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
+      <description><![CDATA[+ Những sự kiện thể thao trong nước và quốc tế nổi bật trong tuần.
++ Điểm nhấn thể thao: ĐTQG bóng đá nam có đợt tập trung đầu tiên và duy nhất trong năm 2020.
++ Thể thao và cuộc sống: Mục tiêu phát triển chuyên nghiệp môn Golf ở Việt Nam qua hệ thống giải GPA Tour.
++ Kiến thức thể thao: Một số lưu ý khi tập luyện môn bơi trong mùa đông lạnh giá.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2020/12/14/vovlive_thethao-7-ngay_1212.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 12 Dec 2020 12:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Chương trình thể thao 7 ngày 6/12/2020</title>
+      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
+      <description><![CDATA[- Điểm các sự kiện thể thao nổi bật trong nước và quốc tế tuần qua.
+- Điểm nhấn thể thao: Giải bóng đá U17 Quốc gia - Sân chơi cho các tài năng trẻ. 
+- Kiến thức thể thao: Thất bại của Real Madrid tại vòng bảng UEFA Champions League khiến chiếc ghế của HLV Zinedine Zidane lung lay dữ dội.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2020/12/07/vovlive_thethao-7-ngay_0612.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 06 Dec 2020 12:00:00 +0700</pubDate>
+    </item>
+  </channel>
+</rss>
