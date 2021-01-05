@@ -9,17 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-<<<<<<< HEAD
-    <lastBuildDate>Mon, 04 Jan 2021 07:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 04 Jan 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 04 Jan 2021 07:00:00 +0700</pubDate>
-=======
-    <lastBuildDate>Mon, 04 Jan 2021 12:00:00 +0700</lastBuildDate>
-    <itunes:author>catus.phan</itunes:author>
-    <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 04 Jan 2021 12:00:00 +0700</pubDate>
->>>>>>> f659d775 (Update podcasts)
+    <pubDate>Mon, 04 Jan 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -36,11 +29,7 @@
       <description><![CDATA[Tối nay diễn ra Lễ trao giải Báo chí 75 năm Quốc hội Việt Nam.-  Cảng Quy Nhơn bứt phá ngoại mục với 11 triệu tấn hàng trong năm 2020.- Hoạt động thương mại giữa Anh và Liên minh châu Âu được nối lại với công suất tối đa. Đây được xem là phép thử đầu tiên sau khi Anh đạt được thỏa thuận thương mại hậu Brexit.- Hồng Kông (Trung Quốc) đình chỉ nhập khẩu gia cầm từ nhiều nước do dịch cúm gia cầm.]]></description>
       <guid isPermaLink="false">http://vov1.vov.vn/thoi-su-21h30/hoi-su-21h30-dem-04012021-bo-y-te-de-xuat-dung-chuyen-bay-tu-quoc-gia-vung-lanh-c29-68284.aspx</guid>
       <enclosure url="http://vov1.vn:1953/vov1/attachments/vov1/phamvanan/v1_0401_21h30_thoiu_su_moi_5120219.mp3" length="0" type="audio/mpeg"/>
-<<<<<<< HEAD
-      <pubDate>Mon, 04 Jan 2021 07:00:00 +0700</pubDate>
-=======
-      <pubDate>Mon, 04 Jan 2021 12:00:00 +0700</pubDate>
->>>>>>> f659d775 (Update podcasts)
+      <pubDate>Mon, 04 Jan 2021 19:00:00 +0700</pubDate>
     </item>
     <item>
       <title>THỜI SỰ 21H30 ĐÊM 2/1/2021: Khu Di tích Bạch Đằng Giang nhận Bằng xếp hạng Di tích lịch sử quốc gia .</title>
@@ -48,11 +37,7 @@
       <description><![CDATA[- Thủ tướng dự Lễ đón nhận Bằng xếp hạng Di tích lịch sử quốc gia Khu Di tích Bạch Đằng Giang.- Ngành Y tế thực hiện cao điểm phòng, chống dịch COVID-19, trong đó đặc biệt chú trọng công tác kiểm soát nhập cảnh.- Đại học Kinh tế Quốc dân sẽ là trường đại học đầu tiên ở Việt Nam đào tạo chính quy bậc Đại học cho lực lượng quản lý thị trường.- Ngày 7/1 sắp tới, cầu Thăng Long sẽ chính thức thông xe sau 5 tháng sửa chữa.- Ngoại trưởng Trung quốc đánh giá quan hệ Trung – Mỹ xấu đi là do chính sách sai lầm của phía Mỹ.- Chiến dịch tiêm vắc-xin ngừa Covid-19 tại nhiều quốc gia diễn ra chậm chạp do những vấn đề về hậu cần và nguồn cung.]]></description>
       <guid isPermaLink="false">http://vov1.vov.vn/thoi-su-21h30/thoi-su-21h30-dem-212021-khu-di-tich-bach-dang-giang-nhan-bang-xep-hang-di-tich-c29-68243.aspx</guid>
       <enclosure url="http://vov1.vn:1953/vov1/attachments/vov1/thuhienvov1/2021_1/v1_02_01_21h30_thoi_su_2020_21202123.mp3" length="0" type="audio/mpeg"/>
-<<<<<<< HEAD
-      <pubDate>Sat, 02 Jan 2021 07:00:00 +0700</pubDate>
-=======
-      <pubDate>Sat, 02 Jan 2021 12:00:00 +0700</pubDate>
->>>>>>> f659d775 (Update podcasts)
+      <pubDate>Sat, 02 Jan 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
