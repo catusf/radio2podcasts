@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 28 Dec 2020 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 05 Jan 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 28 Dec 2020 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 05 Jan 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,16 @@
     </itunes:owner>
     <itunes:subtitle>Thể thao 7 ngày</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Thethao7ngay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Chương trình thể thao 7 ngày 03/01/2020</title>
+      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
+      <description><![CDATA[- Điểm nhấn thể thao: "Bức tranh" về nhiệm vụ 6 tháng đầu năm của thể thao Việt Nam
+- Chia sẻ của Lều Thị Thanh Thảo, người từ một sinh viên kế toán trở thành HLV thể hình cá nhân - một nghề thời thượng nhưng cũng đối mặt với  không ít định kiến
+- Kiến thức thể thao: Hiểu đúng về bộ môn tập luyện đi bộ.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/01/05/vovlive_thethao-7-ngay_0301.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 05 Jan 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Chương trình thể thao 7 ngày 27/12/2012</title>
       <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
@@ -53,16 +63,6 @@
       <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2020/12/14/vovlive_thethao-7-ngay_1212.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 14 Dec 2020 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chương trình thể thao 7 ngày 6/12/2020</title>
-      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
-      <description><![CDATA[- Điểm các sự kiện thể thao nổi bật trong nước và quốc tế tuần qua.
-- Điểm nhấn thể thao: Giải bóng đá U17 Quốc gia - Sân chơi cho các tài năng trẻ. 
-- Kiến thức thể thao: Thất bại của Real Madrid tại vòng bảng UEFA Champions League khiến chiếc ghế của HLV Zinedine Zidane lung lay dữ dội.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2020/12/07/vovlive_thethao-7-ngay_0612.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 07 Dec 2020 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
