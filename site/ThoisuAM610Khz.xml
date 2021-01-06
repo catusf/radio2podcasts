@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 06 Jan 2021 15:02:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 06 Jan 2021 21:25:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 06 Jan 2021 15:02:00 +0700</pubDate>
+    <pubDate>Wed, 06 Jan 2021 21:25:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>4 trường hợp tiếp xúc ca dương tính COVID-19 khi cách ly tại Hà Nội âm tính - Thời sự 11g00 6/1/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/4-truong-hop-tiep-xuc-ca-duong-tinh-covid-19-khi-cach-ly-tai-ha-noi-am-tinh-thoi-su-11g00-6-1-2021-390121.html</link>
+      <description><![CDATA[14:25 - 06/01/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/4-truong-hop-tiep-xuc-ca-duong-tinh-covid-19-khi-cach-ly-tai-ha-noi-am-tinh-thoi-su-11g00-6-1-2021-390121.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/01/06/AMThoisu11h00p060121.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 06 Jan 2021 21:25:00 +0700</pubDate>
+    </item>
     <item>
       <title>Năm 2021: TPHCM dự kiến đầu tư 3.300 tỷ đồng cho các công trình giao thông -Thời sự 5g30 6/1/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/nam-2021-tphcm-du-kien-dau-tu-3-300-ty-dong-cho-cac-cong-trinh-giao-thong-thoi-su-5g30-6-1-2021-390090.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/chi-ho-tro-cho-nguoi-chan-nuoi-bi-thiet-hai-do-dich-ta-heo-chau-phi-thoi-su-17g00-5-1-2021-390064.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/01/05/AMThoisu17h00p050121.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 06 Jan 2021 02:27:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>TPHCM siết chặt kiểm tra giám sát phương tiện giao thông dịp Tết Tân Sửu - Thời sự 11g 5/1/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-siet-chat-kiem-tra-giam-sat-phuong-tien-giao-thong-dip-tet-tan-suu-thoi-su-11g-5-1-2021-390032.html</link>
-      <description><![CDATA[14:29 - 05/01/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-siet-chat-kiem-tra-giam-sat-phuong-tien-giao-thong-dip-tet-tan-suu-thoi-su-11g-5-1-2021-390032.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/01/05/AMThoisu11h00p050121.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 05 Jan 2021 21:29:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
