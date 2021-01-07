@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 29 Dec 2020 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 06 Jan 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 29 Dec 2020 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 06 Jan 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Âm nhạc với cuộc sống</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Amnhacvoicuocsong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Đề tài về Quốc hội trong những tác phẩm âm nhạc</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[Cách đây 75 năm, hưởng ứng lời hiệu triệu của chủ tịch Hồ Chí Minh, ngày 6/1/1946 công dân Việt Nam từ 18 tuổi trở lên trên khắp mọi miền của Tổ quốc, không phân biệt nam, nữ, giàu nghèo, dân tộc, tôn giáo...... đã nô nức tham gia bầu cử Đại biểu Quốc hội lần đầu tiên, bất chấp sự phá hoại điên cuồng của các thế lực xâm lược và chống đối. Thắng lợi của cuộc Tổng tuyển cử vào ngày 6/1/1946 đã đánh dấu sự khai sinh Quốc hội nước Việt Nam Dân chủ Cộng hòa (nay là nước Cộng hòa Xã hội Chủ nghĩa Việt Nam). Đề tài về cuộc Tổng tuyển cử đầu tiên của nước Việt Nam độc lập đã được phản ánh qua giai điệu và lời ca trong bài hát "Ngày Quốc hội" của cố nhạc sĩ Đỗ Nhuận…]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/01/06/vovlive_am_nhac_voi_cuoc_song_de_tai_quoc_hoi.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 06 Jan 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>“Bản tình ca bên dòng sông”: Tác phẩm âm nhạc tái hiện tình yêu đầy kịch tính của vị đại tướng huyền thoại Nguyễn Chí Thanh</title>
       <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
@@ -46,15 +54,6 @@
       <description><![CDATA[Trong chương trình, chúng ta cùng thưởng thức tác phẩm của nhạc sĩ Nguyễn Thúy My: “Nét duyên quê” (hòa tấu dàn nhạc dân tộc), “Vị quê” (độc tấu đàn nhị cùng dàn nhạc dân tộc).]]></description>
       <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2020/12/15/vovlive_am_nhac_voi_cuoc_song_gap_go_nhac_si_thuy_mi_voi_nhung_tac_pham_khi_nhac.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 15 Dec 2020 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Gặp gỡ giọng dân ca triển vọng Lê Minh Ngọc - Á quân Giọng hát hay HN 2020</title>
-      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[-Ca sĩ Lê Minh Ngọc chia sẻ về bước đường âm nhạc và MV “Mẹ quê” – sản phẩm đầu tay đã được công chúng yêu nhạc đón nhận với tình cảm quý mến đặc biệt.
--Tìm hiểu và khám phá nét nhạc độc đáo của bản tình ca huyền thoại Tây Ban Nha “Besame mucho”.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2020/12/15/vovlive_am_nhac_voi_cuoc_song_gap_go_ca_si_le_minh_ngoc.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 15 Dec 2020 19:00:00 +0700</pubDate>
     </item>
   </channel>
