@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 08 Jan 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 09 Jan 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 08 Jan 2021 11:00:00 +0700</pubDate>
+    <pubDate>Sat, 09 Jan 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Người ủng hộ Trump nói gì sau bạo loạn 6/1?</title>
+      <link>https://vnexpress.net/nguoi-ung-ho-trump-noi-gi-sau-bao-loan-6-1-4218417.html</link>
+      <description><![CDATA[Do ủng hộ Đảng khác nhau, gia đình anh Quang Minh tại Florida càng xung đột hơn sau sự việc 6/1. Còn anh Lợi tại Washington thì cảm thấy thương Trump vì cho rằng ông không cố ý kích động bạo loạn.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/nguoi-ung-ho-trump-noi-gi-sau-bao-loan-6-1-4218417.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/01/09/nguoi-ung-ho-trump-noi-gi-sau-bao-loan-61-1610139278.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 09 Jan 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Ngày đen tối của nước Mỹ</title>
       <link>https://vnexpress.net/ngay-den-toi-cua-nuoc-my-4217853.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/chien-dich-lat-keo-cua-trump-co-kha-thi-4216192.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/01/04/chien-dich-lat-keo-cua-trump-co-kha-thi-1609776970.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 05 Jan 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Rap và hài độc thoại gây chú ý trong thời Covid</title>
-      <link>https://vnexpress.net/rap-va-hai-doc-thoai-gay-chu-y-trong-thoi-covid-4215656.html</link>
-      <description><![CDATA[Hoạt động của showbiz ngưng trệ trong năm qua, khán giả giải trí chủ yếu qua màn hình tivi, máy tính... Điều này tạo cơ hội cho chương trình trực tuyến và thể loại mới, nổi bật là rap và hài độc thoại.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/rap-va-hai-doc-thoai-gay-chu-y-trong-thoi-covid-4215656.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/01/03/fghj-1609692900.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 04 Jan 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
