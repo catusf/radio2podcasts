@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 07 Jan 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 08 Jan 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 07 Jan 2021 11:00:00 +0700</pubDate>
+    <pubDate>Fri, 08 Jan 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ngày đen tối của nước Mỹ</title>
+      <link>https://vnexpress.net/ngay-den-toi-cua-nuoc-my-4217853.html</link>
+      <description><![CDATA["Cuộc xâm chiếm" toà nhà Quốc hội của những người ủng hộ Trump hôm 6/1 được ví như nỗi hổ thẹn trong lịch sử Mỹ. Cuộc đụng độ khiến 4 người chết, trong đó 1 phụ nữ bị bắn là cựu binh Không quân Mỹ.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/ngay-den-toi-cua-nuoc-my-4217853.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/01/08/ngay-den-toi-cua-nuoc-my-1610041511.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 08 Jan 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Tại sao 240 người tiêm vaccine Pfizer vẫn nhiễm Covid-19?</title>
       <link>https://vnexpress.net/tai-sao-240-nguoi-tiem-vaccine-pfizer-van-nhiem-covid-19-4217299.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/rap-va-hai-doc-thoai-gay-chu-y-trong-thoi-covid-4215656.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/01/03/fghj-1609692900.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 04 Jan 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Việt Nam ghi nhận biến thể nCoV từ Anh có đáng lo ngại?</title>
-      <link>https://vnexpress.net/viet-nam-ghi-nhan-bien-the-ncov-tu-anh-co-dang-lo-ngai-4215445.html</link>
-      <description><![CDATA[Các chuyên gia cho rằng, dù độc lực không tăng nhưng đặc tính siêu lây nhiễm của biến thể nCoV này vẫn đáng lo ngại. Nếu biến thể tiếp cận được nhóm nguy cơ cao thì tỷ lệ nhiễm tăng, tỷ lệ tử vong cũng tăng theo.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/viet-nam-ghi-nhan-bien-the-ncov-tu-anh-co-dang-lo-ngai-4215445.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/01/03/viet-nam-ghi-nhan-bien-the-ncov-tu-anh-co-dang-lo-ngai-1609612921.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 03 Jan 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
