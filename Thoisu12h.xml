@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 07 Jan 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jan 2000 07:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 07 Jan 2021 19:00:00 +0700</pubDate>
+    <pubDate>Sat, 01 Jan 2000 07:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,21 +23,5 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự 12h</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Thoisu12h.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>THỜI SỰ 12H TRƯA 7/1/2021: Bắc Bộ bắt đầu đợt rét đậm, rét hại thứ 3 trong mùa đông năm nay.</title>
-      <link>http://vov1.vov.vn/thoi-su-12h/thoi-su-12h-trua-712021-bac-bo-bat-dau-dot-ret-dam-ret-hai-thu-3-trong-mua-dong-c12-68353.aspx</link>
-      <description><![CDATA[- Thủ tướng Nguyễn Xuân Phúc dự Hội nghị Tổng kết năm 2020 và triển khai nhiệm vụ năm 2021 ngành công thương.- Ban Chỉ đạo Quốc gia phòng, chống dịch COVID-19 triển khai các biện pháp phòng, chống dịch từ nay đến Tết nguyên đán. Đặc biệt kiểm soát nguồn lây từ nước ngoài và các trường hợp nhập cảnh trái phép.- Cầu Thăng Long, Hà Nội chính thức thông xe sau 5 tháng sửa chữa. Sớm hơn 10 ngày so với kế hoạch đề ra.- Bắc Bộ bắt đầu đợt rét đậm, rét hại thứ 3 trong mùa đông năm nay. Dự báo đợt rét kéo dài trong 3 ngày với nhiệt độ có nơi dưới 0 độ C, khả năng xảy ra mưa tuyết, băng giá ở các địa phương vùng núi.- Quốc hội Mỹ chưa thể chính thức xác nhận ai là Tổng thống thứ 46 của nước Mỹ trong 4 năm tới, dù đã bắt đầu cuộc họp kiểm đếm phiếu đại cử tri từ rạng sáng nay theo giờ Việt Nam, khi xảy ra tình hình hỗn loạn chưa từng có, ngáng trở cuộc kiểm phiếu.]]></description>
-      <guid isPermaLink="false">http://vov1.vov.vn/thoi-su-12h/thoi-su-12h-trua-712021-bac-bo-bat-dau-dot-ret-dam-ret-hai-thu-3-trong-mua-dong-c12-68353.aspx</guid>
-      <enclosure url="http://vov1.vn:1953/vov1/attachments/vov1/thuhienvov1/v1_07_01_12h00_thoi_su_2021_71202114.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 07 Jan 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>THỜI SỰ 12H TRƯA 4/1/2021: Thủ tướng Nguyễn Xuân Phúc dự lễ khởi công cao tốc Mỹ Thuận - Cần Thơ</title>
-      <link>http://vov1.vov.vn/thoi-su-12h/thoi-su-12h-trua-412021-thu-tuong-nguyen-xuan-phuc-du-le-khoi-cong-cao-toc-my-t-c12-68270.aspx</link>
-      <description><![CDATA[- Chính phủ ban hành các Nghị quyết số 01 và 02 nhằm đề ra các giải pháp quyết liệt triển khai các nhiệm vụ phát triển kinh tế-xã hội, trong đó nhiệm vụ trọng tâm là cải thiện môi trường kinh doanh và nâng cao năng lực cạnh tranh quốc gia.- Thủ tướng Nguyễn Xuân Phúc dự lễ khởi công cao tốc Mỹ Thuận - Cần Thơ.- Giá gạo xuất khẩu của Việt Nam lập đỉnh, tăng lên hơn 500 đô la Mỹ một tấn,  mức cao nhất trong vòng 9 năm qua.- Từ hôm nay, Bộ Y tế mở đợt cao điểm phòng chống dịch COVID-19, đặc biệt chú ý công tác kiểm soát người nhập cảnh.- Với thông tin, Ngoại trưởng Nhật Bản có chuyến công du kéo dài nửa tháng tới khu vực Mỹ Latinh và châu Phi, nhằm thúc đẩy “một Ấn Độ Dương -Thái Bình Dương tự do và rộng mở” mà nước này đang theo đuổi.]]></description>
-      <guid isPermaLink="false">http://vov1.vov.vn/thoi-su-12h/thoi-su-12h-trua-412021-thu-tuong-nguyen-xuan-phuc-du-le-khoi-cong-cao-toc-my-t-c12-68270.aspx</guid>
-      <enclosure url="http://vov1.vn:1953/vov1/attachments/vov1/hoanglienvov1/2021_1/v1_04_01_12h00_thoi_su_2020_41202114.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 04 Jan 2021 19:00:00 +0700</pubDate>
-    </item>
   </channel>
 </rss>
