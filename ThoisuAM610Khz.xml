@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 08 Jan 2021 15:03:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 08 Jan 2021 18:33:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 08 Jan 2021 15:03:00 +0700</pubDate>
+    <pubDate>Fri, 08 Jan 2021 18:33:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Anh kỹ sư nhiều sáng kiến - Thời sự 11g00 8/1/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/anh-ky-su-nhieu-sang-kien-thoi-su-11g00-8-1-2021-390314.html</link>
+      <description><![CDATA[11:33 - 08/01/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/anh-ky-su-nhieu-sang-kien-thoi-su-11g00-8-1-2021-390314.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/01/08/AMThoisu11h00p080121ss.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 08 Jan 2021 18:33:00 +0700</pubDate>
+    </item>
     <item>
       <title>Tín hiệu xấu đối với vấn đề hạt nhân Iran? - Thời sự 05g30 8/1/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tin-hieu-xau-doi-voi-van-de-hat-nhan-iran-thoi-su-05g30-8-1-2021-390288.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/thanh-tra-so-giao-thong-van-tai-xu-phat-hon-41-ty-dong-nam-2020-thoi-su-17g00-7-1-2021-390255.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/01/07/ts17g-070121.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 08 Jan 2021 00:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Hạn chế các phương tiện giao thông đường thủy lưu thông qua sông Sài Gòn - Thời sự 11g00 7/1/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/han-che-cac-phuong-tien-giao-thong-duong-thuy-luu-thong-qua-song-sai-gon-thoi-su-11g00-7-1-2021-390228.html</link>
-      <description><![CDATA[11:00 - 07/01/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/han-che-cac-phuong-tien-giao-thong-duong-thuy-luu-thong-qua-song-sai-gon-thoi-su-11g00-7-1-2021-390228.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/01/07/ts11g00-070121.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 07 Jan 2021 18:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
