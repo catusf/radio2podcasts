@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 09 Jan 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 10 Jan 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 09 Jan 2021 11:00:00 +0700</pubDate>
+    <pubDate>Sun, 10 Jan 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Xu hướng du lịch Tết Nguyên đán 2021</title>
+      <link>https://vnexpress.net/xu-huong-du-lich-tet-nguyen-dan-2021-4218766.html</link>
+      <description><![CDATA[Sức mua tour dịp Tết bắt đầu tăng, 52% du khách Việt cũng cho rằng sẽ đi nhiều hơn để bù đắp năm 2020. Xu hướng du lịch của người dân thời gian tới là đi theo nhóm nhỏ, ưu tiên nghỉ dưỡng do còn e ngại dịch bệnh.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/xu-huong-du-lich-tet-nguyen-dan-2021-4218766.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/01/10/xu-huong-du-lich-tet-2021-1610213603.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 10 Jan 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Người ủng hộ Trump nói gì sau bạo loạn?</title>
       <link>https://vnexpress.net/nguoi-ung-ho-trump-noi-gi-sau-bao-loan-4218417.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/dot-quy-o-nguoi-tre-4216741.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/01/05/vi-sao-ngay-cang-nhieu-nguoi-tre-bi-dot-quy-1609865345.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 06 Jan 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chiến dịch 'lật kèo' của Trump có khả thi?</title>
-      <link>https://vnexpress.net/chien-dich-lat-keo-cua-trump-co-kha-thi-4216192.html</link>
-      <description><![CDATA[Ông Trump và phe đồng minh có hai kịch bản "lật kèo" vào ngày họp chung của lưỡng viện quốc hội Mỹ hôm 6/1. Kế hoạch này được dự đoán là sẽ gây nên cuộc xáo trộn không tưởng.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/chien-dich-lat-keo-cua-trump-co-kha-thi-4216192.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/01/04/chien-dich-lat-keo-cua-trump-co-kha-thi-1609776970.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 05 Jan 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
