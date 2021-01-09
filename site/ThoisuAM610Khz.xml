@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 09 Jan 2021 22:38:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 10 Jan 2021 00:19:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 09 Jan 2021 22:38:00 +0700</pubDate>
+    <pubDate>Sun, 10 Jan 2021 00:19:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>TPHCM đạt được "mục tiêu kép" vừa chống dịch, vừa tăng trưởng kinh tế - Thời sự 17g00 9/1/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-dat-duoc-muc-tieu-kep-vua-chong-dich-vua-tang-truong-kinh-te-thoi-su-17g00-9-1-2021-390477.html</link>
+      <description><![CDATA[17:19 - 09/01/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-dat-duoc-muc-tieu-kep-vua-chong-dich-vua-tang-truong-kinh-te-thoi-su-17g00-9-1-2021-390477.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/01/09/AMThoisu17h00p090121.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 10 Jan 2021 00:19:00 +0700</pubDate>
+    </item>
     <item>
       <title>Gala bông lúa vàng 2020 – Thời sự 11g00 9/1/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/gala-bong-lua-vang-2020-thoi-su-11g00-9-1-2021-390458.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/toa-sang-tai-nang-cai-luong-bong-lua-vang-2020-thoi-su-5g30-9-1-2021-390401.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/01/09/AMThoisu05h30p090121.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 09 Jan 2021 15:43:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>TPHCM đẩy mạnh ứng dụng khoa học công nghệ trong đảm bảo trật tự ATGT - Thời sự 17g00 8/1/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-day-manh-ung-dung-khoa-hoc-cong-nghe-trong-dam-bao-trat-tu-atgt-thoi-su-17g00-8-1-2021-390364.html</link>
-      <description><![CDATA[19:45 - 08/01/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-day-manh-ung-dung-khoa-hoc-cong-nghe-trong-dam-bao-trat-tu-atgt-thoi-su-17g00-8-1-2021-390364.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/01/08/AMThoisu17h00p080121sss.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 09 Jan 2021 02:45:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
