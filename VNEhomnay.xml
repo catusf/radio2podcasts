@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 10 Jan 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 11 Jan 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 10 Jan 2021 11:00:00 +0700</pubDate>
+    <pubDate>Mon, 11 Jan 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Tại sao chính quyền Mỹ nỗ lực phế truất Trump?</title>
+      <link>https://vnexpress.net/tai-sao-chinh-quyen-my-no-luc-phe-truat-trump-4218994.html</link>
+      <description><![CDATA[Hạ Viện đang tổ chức bỏ phiếu và đợi Thượng viện xem xét thông qua nhằm luận tội Trump sớm nhất vào 19/1. Vậy tại sao chính quyền cố gắng phế truất khi thời gian tại vị của Trump chỉ còn vài ngày?]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/tai-sao-chinh-quyen-my-no-luc-phe-truat-trump-4218994.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/01/11/tai-sao-chinh-quyen-my-no-luc-phe-truat-trump-1610299101.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 11 Jan 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Xu hướng du lịch Tết Nguyên đán 2021</title>
       <link>https://vnexpress.net/xu-huong-du-lich-tet-nguyen-dan-2021-4218766.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/tai-sao-240-nguoi-tiem-vaccine-pfizer-van-nhiem-covid-19-4217299.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/01/07/tai-sao-240-nguoi-tiem-vaccine-pfizer-van-nhiem-covid-19-1609953948.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 07 Jan 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đột quỵ ở người trẻ</title>
-      <link>https://vnexpress.net/dot-quy-o-nguoi-tre-4216741.html</link>
-      <description><![CDATA[Nhiều nghiên cứu cho thấy tỷ lệ đột quỵ não ở người trẻ tuổi đang ngày càng tăng, thậm chí đã ghi nhận bệnh nhân 12 tuổi. Theo bác sĩ, lối sống là nguyên nhân đột quỵ ngày càng trẻ hoá.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/dot-quy-o-nguoi-tre-4216741.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/01/05/vi-sao-ngay-cang-nhieu-nguoi-tre-bi-dot-quy-1609865345.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 06 Jan 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
