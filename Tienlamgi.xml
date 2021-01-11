@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 04 Jan 2021 18:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 11 Jan 2021 18:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 04 Jan 2021 18:00:00 +0700</pubDate>
+    <pubDate>Mon, 11 Jan 2021 18:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Tiền làm gì?</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Tienlamgi.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Các chiêu trò lừa đảo đầu tư Forex</title>
+      <link>https://vnexpress.net/cac-chieu-tro-lua-dao-dau-tu-forex-4219046.html</link>
+      <description><![CDATA[Hiện Việt Nam chưa cấp phép cho sàn đầu tư Forex. Các công ty núp bóng sàn nước ngoài lôi kéo cá nhân đầu tư với lãi xuất vài chục phần trăm một tháng.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/cac-chieu-tro-lua-dao-dau-tu-forex-4219046.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/01/11/cac-chieu-tro-lua-dao-dau-tu-forex-1610326922.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 11 Jan 2021 18:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Với mục đích cho thuê, nên mua chung cư hay nhà đất?</title>
       <link>https://vnexpress.net/voi-muc-dich-cho-thue-nen-mua-chung-cu-hay-nha-dat-4215838.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/thu-nhap-20-trieu-thang-co-nen-vay-tien-mua-nha-4207787.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2020/12/17/thu-nhap-20-trieuthang-co-nen-vay-tien-mua-nha-1608181403.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 17 Dec 2020 18:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đầu tư gì với 50 triệu dư mỗi tháng?</title>
-      <link>https://vnexpress.net/dau-tu-gi-voi-50-trieu-du-moi-thang-4194730.html</link>
-      <description><![CDATA[Nếu có khoản dư 50 triệu đồng mỗi tháng, nên gửi tiết kiệm hay đầu tư chứng khoán? Hãy lắng nghe những phân tích từ TS. Phạm Văn Kiên - Chuyên gia tư vấn Tài chính.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/dau-tu-gi-voi-50-trieu-du-moi-thang-4194730.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2020/12/10/dau-tu-gi-voi-50-trieu-du-moi-thang-1607571690.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 10 Dec 2020 18:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
