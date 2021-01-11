@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 04 Jan 2021 06:10:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 11 Jan 2021 14:11:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 04 Jan 2021 06:10:00 +0700</pubDate>
+    <pubDate>Mon, 11 Jan 2021 14:11:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Cửa sổ văn học trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Cuasovanhoc.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Cửa sổ văn học - 10/1/2021</title>
+      <link>https://radio.voh.com.vn/cua-so-van-hoc/cua-so-van-hoc-10-1-2021-390575.html</link>
+      <description><![CDATA[07:11 - 11/01/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/cua-so-van-hoc-10-1-2021-390575.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/01/11/FMCuasovanhoc07h00p100121.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 11 Jan 2021 14:11:00 +0700</pubDate>
+    </item>
     <item>
       <title>Cửa sổ văn học - 3/1/2021</title>
       <link>https://radio.voh.com.vn/cua-so-van-hoc/cua-so-van-hoc-3-1-2021-389853.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/nha-van-tran-luan-tin-thien-that-ra-khong-kho-cua-so-van-hoc-27-12-2020-389213.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/12/27/FMCuasovanhoc07h00p271220.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 27 Dec 2020 20:43:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Nguyễn Văn Học-Nhà văn nặng lòng với đề tài môi trường - Cửa sổ văn học 24/12/2020</title>
-      <link>https://radio.voh.com.vn/cua-so-van-hoc/nguyen-van-hoc-nha-van-nang-long-voi-de-tai-moi-truong-cua-so-van-hoc-24-12-2020-389033.html</link>
-      <description><![CDATA[09:25 - 25/12/2020]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/nguyen-van-hoc-nha-van-nang-long-voi-de-tai-moi-truong-cua-so-van-hoc-24-12-2020-389033.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/12/25/FMCuasovanhoc21h00p241220.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 25 Dec 2020 16:25:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
