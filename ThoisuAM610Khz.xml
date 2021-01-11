@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 11 Jan 2021 00:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 11 Jan 2021 15:59:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 11 Jan 2021 00:00:00 +0700</pubDate>
+    <pubDate>Mon, 11 Jan 2021 15:59:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Nhiều sở ngành TPHCM đồng ý đề xuất mở 5 tuyến xe buýt điện – Thời sự 5g30 11/01/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/nhieu-so-nganh-tphcm-dong-y-de-xuat-mo-5-tuyen-xe-buyt-dien-thoi-su-5g30-11-01-2021-390585.html</link>
+      <description><![CDATA[08:59 - 11/01/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/nhieu-so-nganh-tphcm-dong-y-de-xuat-mo-5-tuyen-xe-buyt-dien-thoi-su-5g30-11-01-2021-390585.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/01/11/AMThoisu05h30p110121.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 11 Jan 2021 15:59:00 +0700</pubDate>
+    </item>
     <item>
       <title>Trao trao tặng 40 tủ sách cho các trường học tại TPHCM - Thời sự 17g00 10/1/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/trao-trao-tang-40-tu-sach-cho-cac-truong-hoc-tai-tphcm-thoi-su-17g00-10-1-2021-390535.html</link>
@@ -37,14 +45,6 @@
       <description><![CDATA[11:00 - 10/01/2021]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/chieu-cao-cua-nguoi-viet-vao-top-4-khu-vuc-dong-nam-a-thoi-su-05g30-10-01-2021-390515.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/01/10/AMThoisu05h30p100121.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 10 Jan 2021 18:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>UBTVQH cho ý kiến về công tác bầu cử đại biểu Quốc hội khóa XV - Thời sự 11g00 10/01/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/ubtvqh-cho-y-kien-ve-cong-tac-bau-cu-dai-bieu-quoc-hoi-khoa-xv-thoi-su-11g00-10-01-2021-390514.html</link>
-      <description><![CDATA[11:00 - 10/01/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/ubtvqh-cho-y-kien-ve-cong-tac-bau-cu-dai-bieu-quoc-hoi-khoa-xv-thoi-su-11g00-10-01-2021-390514.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/01/10/AMThoisu11h00p100121.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 10 Jan 2021 18:00:00 +0700</pubDate>
     </item>
   </channel>
