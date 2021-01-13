@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 13 Jan 2021 21:07:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 14 Jan 2021 02:15:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 13 Jan 2021 21:07:00 +0700</pubDate>
+    <pubDate>Thu, 14 Jan 2021 02:15:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Đoàn ĐBQH TP tiếp nhận 5.051 ý kiến đóng góp cho các dự án luật – Thời sự 17g00 13/1/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/doan-dbqh-tp-tiep-nhan-5-051-y-kien-dong-gop-cho-cac-du-an-luat-thoi-su-17g00-13-1-2021-390838.html</link>
+      <description><![CDATA[19:15 - 13/01/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/doan-dbqh-tp-tiep-nhan-5-051-y-kien-dong-gop-cho-cac-du-an-luat-thoi-su-17g00-13-1-2021-390838.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/01/13/AMThoisu17h00p130121.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 14 Jan 2021 02:15:00 +0700</pubDate>
+    </item>
     <item>
       <title>Hành trình Hoa bàng vuông lần 2 đến Tây Ninh - Thời sự 11g00 13/1/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/hanh-trinh-hoa-bang-vuong-lan-2-den-tay-ninh-thoi-su-11g00-13-1-2021-390822.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/can-chu-trong-dao-tao-nhan-luc-de-htx-phat-trien-ben-vung-thoi-su-5g30-13-1-2020-390770.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/01/13/AMThoisu05h30p130121.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 13 Jan 2021 13:12:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Bến xe miền Đông chính thức mở bán vé Tết Tân Sửu 2021 - Thời sự 17g00 12/1/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/ben-xe-mien-dong-chinh-thuc-mo-ban-ve-tet-tan-suu-2021-thoi-su-17g00-12-1-2021-390754.html</link>
-      <description><![CDATA[17:40 - 12/01/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/ben-xe-mien-dong-chinh-thuc-mo-ban-ve-tet-tan-suu-2021-thoi-su-17g00-12-1-2021-390754.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/01/12/AMThoisu17h00p120121-Copy.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 13 Jan 2021 00:40:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
