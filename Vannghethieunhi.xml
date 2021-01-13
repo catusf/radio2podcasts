@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 08 Jan 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 13 Jan 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 08 Jan 2021 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 13 Jan 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Văn nghệ thiếu nhi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Vannghethieunhi.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Sắc màu kỳ ảo trong tác phẩm "Cầu vồng diên vĩ"8/1/2021</title>
+      <title>Họa sỹ Lê Tiến Vượng với kinh nghiệm thẩm định tranh thiếu nhi 13/1/2021</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/hoa-sy-le-tien-vuong-voi-kinh-nghiem-tham-dinh-tranh-thieu-nhi-c44-32269.aspx</link>
+      <description><![CDATA[Những bức tranh được vẽ từ những đôi tay mềm mại tuổi nhỏ luôn mang vẻ đẹp riêng. Có cần thiết áp đặt tư duy khuôn mẫu vào sự sáng tạo, để rồi làm mất đi năng khiếu trời phú của các tay cọ nhí? Đó cũng là điều mà họa sỹ Lê Tiến Vượng muốn chia sẻ cùng chúng mình và các phụ huynh... (Văn nghệ thiếu nhi - Trang nghệ thuật 06/01/2021)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/hoa-sy-le-tien-vuong-voi-kinh-nghiem-tham-dinh-tranh-thieu-nhi-c44-32269.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_1/v2_0601_10h4518h15_van_nghe_thieu_nhi_131202111.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 13 Jan 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Sắc màu kỳ ảo trong tác phẩm "Cầu vồng diên vĩ" 8/1/2021</title>
       <link>http://vov6.vov.vn/van-nghe-thieu-nhi/sac-mau-ky-ao-trong-tac-pham-cau-vong-dien-vi-c44-32264.aspx</link>
       <description><![CDATA[“Cầu vồng Diên vĩ” xoay quanh cuộc đời nhiều sóng gió nhưng cũng rất thú vị của chàng trai Alred Lá Non. Một lần tình cờ Alred đã cứu được cô gái Irisha Maygreen đang bị đàn sói hung dữ bao vây giữa đêm tối. Sau cuộc giải cứu đó, Alred Lá Non đã cùng với Maygreen bước vào cuộc hành trình nhiều thử thách... (Trang văn học nghệ thuật tuổi mới lớn 05/01/2021)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/sac-mau-ky-ao-trong-tac-pham-cau-vong-dien-vi-c44-32264.aspx</guid>
@@ -37,14 +45,6 @@
       <description><![CDATA[Đang trong lúc tuyệt vọng, Perrin đã gặp lại chú lừa Pa-li-ke và bà La-hun-cơ-ry. Với tấm lòng thơm thảo, bà La-hun-cơ-ry không những sắp xếp cho Perrin một công việc phù hợp mà còn hứa tìm cách giúp cô bé nhanh chóng tìm được về gia đình nhà nội... (Văn nghệ thiếu nhi 03/01/2021)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-trong-gia-dinh-buoi-13-perrin-duoc-giup-do-c44-32255.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_1/v2_0301_10h4518h15_van_nghe_thieu_nhi_61202117.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 06 Jan 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đọc truyện "Trong gia đình" - Buổi 12 - Lại lên đường  6/1/2021</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-trong-gia-dinh-buoi-12-lai-len-duong-c44-32254.aspx</link>
-      <description><![CDATA[Perrin là cô bé can đảm và giàu nghị lực sống. Cô sẽ phải một thân một mình vượt qua quãng đường dài để tìm đến gia đình nhà nội. Những cơn đói và khát khiến Perrin như gục ngã. Nhưng rồi cô bé lại dần vượt qua bởi sự lạc quan... (Văn nghệ thiếu nhi 02/01/2021)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-trong-gia-dinh-buoi-12-lai-len-duong-c44-32254.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_1/v2_0201_10h4518h15_van_nghe_thieu_nhi_61202116.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 06 Jan 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
