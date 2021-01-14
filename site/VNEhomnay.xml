@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 14 Jan 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 15 Jan 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 14 Jan 2021 11:00:00 +0700</pubDate>
+    <pubDate>Fri, 15 Jan 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Người Việt tại Mỹ nói gì sau nhiệm kỳ của Trump?</title>
+      <link>https://vnexpress.net/nguoi-viet-tai-my-noi-gi-sau-nhiem-ky-cua-trump-4221271.html</link>
+      <description><![CDATA[Kinh tế, an sinh xã hội, chính sách giáo dục là những điểm được khen ngợi sau 4 năm nhiệm kỳ của Trump. Tuy nhiên, ông vẫn bị phê phán về việc phân biệt chủng độc, chính sách cho dân nhập cư và kiểm soát dịch bệnh.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/nguoi-viet-tai-my-noi-gi-sau-nhiem-ky-cua-trump-4221271.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/01/15/nguoi-viet-tai-my-noi-gi-sau-nhiem-ky-cua-trump-1610648505.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 15 Jan 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Các ông lớn công nghệ có quyền khoá tài khoản Tổng thống Trump?</title>
       <link>https://vnexpress.net/cac-ong-lon-cong-nghe-co-quyen-khoa-tai-khoan-tong-thong-trump-4220612.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/tai-sao-chinh-quyen-my-no-luc-phe-truat-trump-4218994.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/01/11/tai-sao-chinh-quyen-my-no-luc-phe-truat-trump-1610299101.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 11 Jan 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Xu hướng du lịch Tết Nguyên đán 2021</title>
-      <link>https://vnexpress.net/xu-huong-du-lich-tet-nguyen-dan-2021-4218766.html</link>
-      <description><![CDATA[Sức mua tour dịp Tết bắt đầu tăng, 52% du khách Việt cũng cho rằng sẽ đi nhiều hơn để bù đắp năm 2020. Xu hướng du lịch của người dân thời gian tới là đi theo nhóm nhỏ, ưu tiên nghỉ dưỡng do còn e ngại dịch bệnh.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/xu-huong-du-lich-tet-nguyen-dan-2021-4218766.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/01/10/xu-huong-du-lich-tet-2021-1610213603.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 10 Jan 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
