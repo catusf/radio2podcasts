@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 13 Jan 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 14 Jan 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 13 Jan 2021 11:00:00 +0700</pubDate>
+    <pubDate>Thu, 14 Jan 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Các ông lớn công nghệ có quyền khoá tài khoản Tổng thống Trump?</title>
+      <link>https://vnexpress.net/cac-ong-lon-cong-nghe-co-quyen-khoa-tai-khoan-tong-thong-trump-4220612.html</link>
+      <description><![CDATA[Cuối nhiệm kỳ, hàng loạt ông lớn công nghệ như Twitter, Facebook, YouTube đồng loạt khóa tài khoản của Trump. Việc này có vi phạm quyền tự do ngôn luận hay lạm dụng sự độc quyền hay không?]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/cac-ong-lon-cong-nghe-co-quyen-khoa-tai-khoan-tong-thong-trump-4220612.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/01/14/cac-ong-lon-cong-nghe-co-quyen-khoa-tai-khoan-tong-thong-trump-1610569989.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 14 Jan 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Tiếp viên Vietnam Airlines: 'Sai sót trong quản lý cách ly khiến tôi chủ quan'</title>
       <link>https://vnexpress.net/tiep-vien-vietnam-airlines-sai-sot-trong-quan-ly-cach-ly-khien-toi-chu-quan-4220096.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/xu-huong-du-lich-tet-nguyen-dan-2021-4218766.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/01/10/xu-huong-du-lich-tet-2021-1610213603.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 10 Jan 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Người ủng hộ Trump nói gì sau bạo loạn?</title>
-      <link>https://vnexpress.net/nguoi-ung-ho-trump-noi-gi-sau-bao-loan-4218417.html</link>
-      <description><![CDATA[Do ủng hộ Đảng khác nhau, gia đình anh Quang Minh tại Arizona càng xung đột hơn sau sự việc 6/1. Còn anh Lợi tại Washington thì "cảm thấy thương Trump" vì cho rằng ông không cố ý kích động bạo loạn.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/nguoi-ung-ho-trump-noi-gi-sau-bao-loan-4218417.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/01/09/nguoi-ung-ho-trump-noi-gi-sau-bao-loan-61-1610140929.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 09 Jan 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
