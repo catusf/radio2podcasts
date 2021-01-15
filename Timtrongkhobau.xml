@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 06 Jan 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 14 Jan 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 06 Jan 2021 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 14 Jan 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Tìm trong kho báu</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Timtrongkhobau.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Nghệ thuật lục bát "Truyện Kiều"6/1/2021</title>
+      <title>"Hát nói trong dòng văn học chữ Nôm"14/1/2021</title>
+      <link>http://vov6.vov.vn/tim-trong-kho-bau/hat-noi-trong-dong-van-hoc-chu-nom-c54-32270.aspx</link>
+      <description><![CDATA[Từ sự kết hợp giữa nghệ thuật ca trù và ngôn ngữ thơ Nôm, hát nói ra đời và trở thành một thể tài độc đáo trong dòng văn học Quốc âm của dân tộc. Với khả năng diễn tả nhiều cảm xúc tinh tế của tâm hồn người Việt ta, hát nói đã đáp ứng được trước tiên là tỏ bày nỗi niềm tâm sự, sau nữa là nhu cầu giải trí của nhiều tầng lớp trong xã hội. Qua việc đi sâu vào một số đặc điểm của thơ Nôm sáng tác theo thể hát nói, buổi “Tìm trong kho báu” hôm nay gợi lại những âm điệu đẹp đẽ và đáng nhớ trong kho tàng văn học của dân tộc.]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/hat-noi-trong-dong-van-hoc-chu-nom-c54-32270.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/v2_141801_08h0018h30_tim_trong_kho_bau_151202110.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 14 Jan 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Nghệ thuật lục bát "Truyện Kiều" 6/1/2021</title>
       <link>http://vov6.vov.vn/tim-trong-kho-bau/nghe-thuat-luc-bat-truyen-kieu-c54-32252.aspx</link>
       <description><![CDATA[Càng đi sâu vào sự phát triển của dòng thơ Nôm dân tộc, chúng ta càng thấy được những biến thể cũng như trưởng thành theo hướng đa dạng, hiện đại, tinh tuyển. Thật đáng tôn vinh di sản thơ Nôm của những tác giả tầm cỡ như vua Trần Nhân Tông, vua Lê Thánh Tông, Đại thi hào Nguyễn Trãi, Nguyễn Bỉnh Khiêm, Đoàn Thị Điểm, Hồ Xuân Hương, Nguyễn Du, Nguyễn Công Trứ, Bà Huyện Thanh Quan, Cao Bá Quát, Nguyễn Khuyến, Tú Xương; Và cũng thật tự hào với những thành quả về mặt thể tài, thể loại trong kho tàng văn học chúng ta như sự sáng tạo đổi mới trong thể thơ Đường luật, song thất lục bát, sự ra đời và thăng hoa của hát nói, thể thơ lục bát chắp cánh cho những truyện thơ đã trở thành món ăn tinh thần của người bình dân nhiều đời nay.]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/nghe-thuat-luc-bat-truyen-kieu-c54-32252.aspx</guid>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/tho-nom-vinh-canh-mua-dong-c54-32225.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/v2_3112_08h00_tim_trong_kho_bau_pl_18h30_11120218.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 30 Dec 2020 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>"Truyện Kiều" tiếng Đức 23/12/2020</title>
-      <link>http://vov6.vov.vn/tim-trong-kho-bau/truyen-kieu-tieng-duc-c54-32197.aspx</link>
-      <description><![CDATA[Những năm quân và dân ta chiến đấu bảo vệ đất nước đánh đuổi đế quốc Mỹ, tại Đức, “Truyện Kiều” đã được vợ chồng nhà khảo cứu kiêm dịch giả Irene và nhà thơ Franz Faber chuyển ngữ. Năm 1964, một năm trước dịp kỷ niệm 200 năm ngày sinh Nguyễn Du, ấn phẩm “Das Mädchen Kiều” đã ra mắt công chúng, bạn đọc nước Đức. Theo Tiến sĩ ngôn ngữ Trương Hồng Quang, sau lần xuất bản đầu tiên và lần tái bản duy nhất năm 1980, “Truyện Kiều” tiếng Đức đã từ lâu tuyệt bản. Nhằm làm sống dậy bản tiếng Đức kỳ công chuyển ngữ kiệt tác của Đại thi hào Nguyễn Du, dự án “Truyện Kiều” song ngữ Đức – Việt đã được thực hiện và ra mắt năm 2016.]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/truyen-kieu-tieng-duc-c54-32197.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/v2_24_2812_08h00_tim_trong_kho_bau_pl_18h30_241220209.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 23 Dec 2020 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
