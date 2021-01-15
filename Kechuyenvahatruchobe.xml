@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 06 Jan 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 15 Jan 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 06 Jan 2021 19:00:00 +0700</pubDate>
+    <pubDate>Fri, 15 Jan 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Kể chuyện và hát ru cho bé</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Kechuyenvahatruchobe.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Truyện cổ tích về người con út hiếu thảo 6/1/2021</title>
+      <title>Truyện cổ tích về công chúa Hoa Hồng (Phần 1)15/1/2021</title>
+      <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/truyen-co-tich-ve-cong-chua-hoa-hong-phan-1-c43-32275.aspx</link>
+      <description><![CDATA[Trong khi cha mẹ cùng hai chị rất xấu tính thì Hoa Hồng là cô gái tốt bụng, khiêm tốn và biết nghe lời. Vào ngày sinh nhật của các chị gái, Hoa Hồng lại bị chính người thân của mình đố kị ghen ghét bởi nhan sắc xinh đẹp lộng lẫy... (Kể chuyện và hát ru 04/01/2021)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/truyen-co-tich-ve-cong-chua-hoa-hong-phan-1-c43-32275.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_1/v2_040601_21h45_ke_chuyen_va_hat_ru_151202113.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 15 Jan 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Truyện cổ tích về người con út hiếu thảo  6/1/2021</title>
       <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/truyen-co-tich-ve-nguoi-con-ut-hieu-thao-c43-32259.aspx</link>
       <description><![CDATA[Người cha nọ bị bệnh nặng. Theo lời thầy thuốc thì cần phải vượt ngàn dặm xa để tìm thuốc quý mang về thì người cha  mới có thể qua khỏi. Hai người con lớn rất muốn thừa kế gia sản, muốn đi tìm thuốc để lĩnh công nhưng họ nhanh chóng bỏ cuộc vì đường đi vất vả. Chỉ còn người con út. Chàng có đủ nghị lực để vượt qua hay cũng để mặc cha đang lâm bệnh nặng... (Kể chuyện và hát ru 02/01/2020)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/truyen-co-tich-ve-nguoi-con-ut-hieu-thao-c43-32259.aspx</guid>
@@ -37,14 +45,6 @@
       <description><![CDATA[Hồ Tây là hồ tự nhiên lớn nhất Hà Nội. Đứng trước hồ, cảm giác như mình đang đứng trước mặt biển rộng lớn. Hồ Tây gắn với nhiều truyền thuyết về văn hóa và lịch sử của đất nước. Chúng ta cùng khám phá nào! (Kể chuyện và hát ru 30/12/2020)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/truyen-thuyet-ve-ho-tay-c43-32258.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_1/v2_3012_21h45_co_tich_hat_ru_61202118.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 06 Jan 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Điều bất ngờ từ truyện cổ tích "Viên ngọc ước và con quạ trả ơn"  6/1/2021</title>
-      <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/dieu-bat-ngo-tu-truyen-co-tich-vien-ngoc-uoc-va-con-qua-tra-on-c43-32257.aspx</link>
-      <description><![CDATA[Có anh chàng chăn trâu nọ, sau khi cứu giúp một con quạ, anh đã được quạ trả ơn bằng viên ngọc quý. Nhờ viên ngọc anh có thể ước gì được nấy và từ đó cuộc sống trở nên giàu sang, phú quý. Tuy nhiên những rắc rối cũng nảy sinh từ đó... (Kể chuyện và hát ru 28/12/2020)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/dieu-bat-ngo-tu-truyen-co-tich-vien-ngoc-uoc-va-con-qua-tra-on-c43-32257.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_1/v2_2812_21h45_co_tich_hat_ru_61202118.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 06 Jan 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
