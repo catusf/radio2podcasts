@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 15 Jan 2021 12:30:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 15 Jan 2021 18:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 15 Jan 2021 12:30:00 +0700</pubDate>
+    <pubDate>Fri, 15 Jan 2021 18:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Cao tốc TPHCM - Long Thành - Dầu Giây sẽ có đoạn mở rộng lên 8 làn xe - Thời sự 15/1/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/cao-toc-tphcm-long-thanh-dau-giay-se-co-doan-mo-rong-len-8-lan-xe-thoi-su-15-1-2021-390995.html</link>
+      <description><![CDATA[11:00 - 15/01/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/cao-toc-tphcm-long-thanh-dau-giay-se-co-doan-mo-rong-len-8-lan-xe-thoi-su-15-1-2021-390995.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/01/15/ts11g-150121.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 15 Jan 2021 18:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>2.000 xe Grab được trang bị thiết bị cải thiện chất lượng không khí - Thời sự 05g30 15/1/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/2-000-xe-grab-duoc-trang-bi-thiet-bi-cai-thien-chat-luong-khong-khi-thoi-su-05g30-15-1-2021-390971.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/gop-y-du-thao-van-kien-dai-hoi-lan-thu-xiii-cua-dang-thoi-su-11g00-14-1-2021-390897.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/01/14/AMThoisu11h00p140121.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 14 Jan 2021 18:50:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Sở GTVT và Sở QH - KT Thành phố ký kết hợp tác nhiều lĩnh vực - Thời sự 5g30 14/1/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/so-gtvt-va-so-qh-kt-thanh-pho-ky-ket-hop-tac-nhieu-linh-vuc-thoi-su-5g30-14-1-2021-390894.html</link>
-      <description><![CDATA[10:38 - 14/01/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/so-gtvt-va-so-qh-kt-thanh-pho-ky-ket-hop-tac-nhieu-linh-vuc-thoi-su-5g30-14-1-2021-390894.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/01/14/AMThoisu05h30p140121.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 14 Jan 2021 17:38:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
