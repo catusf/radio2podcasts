@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 15 Jan 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 16 Jan 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 15 Jan 2021 11:00:00 +0700</pubDate>
+    <pubDate>Sat, 16 Jan 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Nghề giáo viên mầm non có độc hại, nguy hiểm?</title>
+      <link>https://vnexpress.net/nghe-giao-vien-mam-non-co-doc-hai-nguy-hiem-4221841.html</link>
+      <description><![CDATA[Làm giáo viên mầm non không có cả thời gian để buồn; nghề này nguy hiểm vì giữ trong tay rất nhiều sinh mạng... Đây là ý kiến của các cô nuôi dạy trẻ trước kiến nghị họ được nghỉ hưu sớm 5 năm.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/nghe-giao-vien-mam-non-co-doc-hai-nguy-hiem-4221841.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/01/15/nghe-giao-vien-mam-non-co-doc-hai-nguy-hiem-1610723446.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 16 Jan 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Người Việt tại Mỹ nói gì về nhiệm kỳ của Trump?</title>
       <link>https://vnexpress.net/nguoi-viet-tai-my-noi-gi-ve-nhiem-ky-cua-trump-4221271.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/ho-so-an-toan-hang-khong-cua-indonesia-4219567.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/01/11/ho-so-an-toan-hang-khong-cua-indonesia-1610384383.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 12 Jan 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Tại sao chính quyền Mỹ nỗ lực phế truất Trump?</title>
-      <link>https://vnexpress.net/tai-sao-chinh-quyen-my-no-luc-phe-truat-trump-4218994.html</link>
-      <description><![CDATA[Hạ Viện đang tổ chức bỏ phiếu và đợi Thượng viện xem xét thông qua nhằm luận tội Trump sớm nhất vào 19/1. Vậy tại sao chính quyền cố gắng phế truất khi thời gian tại vị của Trump chỉ còn vài ngày?]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/tai-sao-chinh-quyen-my-no-luc-phe-truat-trump-4218994.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/01/11/tai-sao-chinh-quyen-my-no-luc-phe-truat-trump-1610299101.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 11 Jan 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
