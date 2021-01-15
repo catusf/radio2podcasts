@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 13 Jan 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 15 Jan 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 13 Jan 2021 19:00:00 +0700</pubDate>
+    <pubDate>Fri, 15 Jan 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Văn nghệ thiếu nhi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Vannghethieunhi.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Họa sỹ Lê Tiến Vượng với kinh nghiệm thẩm định tranh thiếu nhi 13/1/2021</title>
+      <title>Đọc truyện "Trong gia đình" - Buổi 15 - Vùng đất Ma-cu-ru15/1/2021</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-trong-gia-dinh-buoi-15-vung-dat-ma-cu-ru-c44-32272.aspx</link>
+      <description><![CDATA[Vùng đất Ma-ru-cu hiện ra khiến Perrin choáng ngợp với hình ảnh nhà máy và nổi bật nhất là tòa lâu đài của gia đình ông nội. Rô-sa-li nhanh nhảu dẫn Perrin về ngôi nhà mà cô sống cùng bà Frăng-côi.  Perrin sẽ phải làm gì để chứng minh thân phận của mình? (Văn nghệ thiếu nhi 09/01/2021)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-trong-gia-dinh-buoi-15-vung-dat-ma-cu-ru-c44-32272.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_1/v2_0901_10h4518h15_van_nghe_thieu_nhi_151202112.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 15 Jan 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Họa sỹ Lê Tiến Vượng với kinh nghiệm thẩm định tranh thiếu nhi  13/1/2021</title>
       <link>http://vov6.vov.vn/van-nghe-thieu-nhi/hoa-sy-le-tien-vuong-voi-kinh-nghiem-tham-dinh-tranh-thieu-nhi-c44-32269.aspx</link>
       <description><![CDATA[Những bức tranh được vẽ từ đôi tay mềm mại tuổi nhỏ luôn mang vẻ đẹp riêng. Có cần thiết áp đặt tư duy khuôn mẫu vào sự sáng tạo, để rồi làm mất đi năng khiếu trời phú của các cây cọ nhí? Đó cũng là điều mà họa sỹ Lê Tiến Vượng muốn chia sẻ cùng chúng mình và các phụ huynh... (Văn nghệ thiếu nhi - Trang nghệ thuật 06/01/2021)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/hoa-sy-le-tien-vuong-voi-kinh-nghiem-tham-dinh-tranh-thieu-nhi-c44-32269.aspx</guid>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/sac-mau-ky-ao-trong-tac-pham-cau-vong-dien-vi-c44-32264.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_1/v2_05012021_10h4518h15_van_nghe_thieu_nhi_81202119.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 08 Jan 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đọc truyện "Trong gia đình" - Buổi 14 - Đường về quê nội  6/1/2021</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-trong-gia-dinh-buoi-14-duong-ve-que-noi-c44-32256.aspx</link>
-      <description><![CDATA[Được sự giúp đỡ của bà La-hun-cơ-ry và ông bán trứng, giờ đây Perrin đã có đủ số tiền để đến vùng A-mim, nơi có người thân bên họ nội của cô bé. Tinh thần của Perrin phấn khích hẳn lên bởi không bao lâu nữa, cô bé sẽ đặt chân tới Ma-ru-cu. Đó là đích đến trong hành trình của mẹ con cô... (Văn nghệ thiếu nhi 08/01/2021)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-trong-gia-dinh-buoi-14-duong-ve-que-noi-c44-32256.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/v2_0801_10h4518h15_van_nghe_thieu_nhi_1_131202123.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 06 Jan 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
