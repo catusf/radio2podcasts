@@ -24,6 +24,14 @@
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Giảm 50% giá vé tàu cho trẻ em trong dịp Tết Tân Sửu - Thời sự 17g00 15/1/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/giam-50-gia-ve-tau-cho-tre-em-trong-dip-tet-tan-suu-thoi-su-17g00-15-1-2021-391101.html</link>
+      <description><![CDATA[17:00 - 15/01/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/giam-50-gia-ve-tau-cho-tre-em-trong-dip-tet-tan-suu-thoi-su-17g00-15-1-2021-391101.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/01/16/ts17g-150121.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 16 Jan 2021 00:00:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Sẽ tạo không khí ấm áp cho ngôi nhà văn học thành phố - Thời sự 05g30 16/1/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/se-tao-khong-khi-am-ap-cho-ngoi-nha-van-hoc-thanh-pho-thoi-su-05g30-16-1-2021-391077.html</link>
       <description><![CDATA[10:57 - 16/01/2021]]></description>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/cao-toc-tphcm-long-thanh-dau-giay-se-co-doan-mo-rong-len-8-lan-xe-thoi-su-11g00-15-1-2021-390995.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/01/15/ts11g-150121.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 15 Jan 2021 18:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Giải Mai Vàng lần thứ 26 góp mặt nhiều nhân tố mới - Thời sự 17g00 14/1/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/giai-mai-vang-lan-thu-26-gop-mat-nhieu-nhan-to-moi-thoi-su-17g00-14-1-2021-390984.html</link>
-      <description><![CDATA[09:44 - 15/01/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/giai-mai-vang-lan-thu-26-gop-mat-nhieu-nhan-to-moi-thoi-su-17g00-14-1-2021-390984.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/01/15/AMThoisu17h00p140121.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 15 Jan 2021 16:44:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
