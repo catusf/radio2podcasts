@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 10 Jan 2021 03:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 17 Jan 2021 03:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 10 Jan 2021 03:00:00 +0700</pubDate>
+    <pubDate>Sun, 17 Jan 2021 03:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Bạn ổn không?</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Banonkhong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Nhảy việc 4 lần, tôi vẫn không biết mình muốn gì</title>
+      <link>https://vnexpress.net/nhay-viec-4-lan-toi-van-khong-biet-minh-muon-gi-4219670.html</link>
+      <description><![CDATA[Sang, 25 tuổi, là con một trong gia đình có bố bệnh tật, mẹ phải gồng gánh kinh tế lo toan cho cả nhà. Anh cảm thấy mình vô dụng vì đến giờ vẫn chưa thực sự biết mình đam mê gì. Đã có lúc bế tắc, Sang muốn tìm đến cái chết.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/nhay-viec-4-lan-toi-van-khong-biet-minh-muon-gi-4219670.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/01/12/25-tuoi-toi-van-khong-biet-minh-thuc-su-muon-gi-1610418193.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 17 Jan 2021 03:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Hôn nhân không tình yêu</title>
       <link>https://vnexpress.net/hon-nhan-khong-tinh-yeu-4218145.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/muon-ly-hon-vi-me-chong-noi-qua-nhieu-4207918.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2020/12/19/muon-ly-hon-vi-me-chong-noi-qua-nhieu-1608379212.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 20 Dec 2020 03:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Sống cùng người chồng bí ẩn hơn 20 tuổi</title>
-      <link>https://vnexpress.net/song-cung-nguoi-chong-bi-an-hon-20-tuoi-4200734.html</link>
-      <description><![CDATA[Được mai mối, chị Bé cưới người chồng thứ 2 vì nghĩ anh có thể lo cho chị và 2 con riêng. Nhưng sau 1 năm kết hôn chị vẫn không biết anh làm nghề gì. Anh cũng từng nói dối về tình trạng hôn nhân với vợ cũ.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/song-cung-nguoi-chong-bi-an-hon-20-tuoi-4200734.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2020/12/12/song-cung-nguoi-chong-bi-an-hon-20-tuoi-1607776918.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 13 Dec 2020 03:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
