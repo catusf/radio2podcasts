@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 11 Jan 2021 03:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 18 Jan 2021 03:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 11 Jan 2021 03:00:00 +0700</pubDate>
+    <pubDate>Mon, 18 Jan 2021 03:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sóng điện ảnh trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Songdienanh.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Giao lưu với đoàn phim "Em là của em" (P.2) - Khung hình thứ 25 17/1/2021</title>
+      <link>https://radio.voh.com.vn/khung-hinh-thu-25/giao-luu-voi-doan-phim-em-la-cua-em-p-2-khung-hinh-thu-25-17-1-2021-391206.html</link>
+      <description><![CDATA[20:00 - 17/01/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/khung-hinh-thu-25/giao-luu-voi-doan-phim-em-la-cua-em-p-2-khung-hinh-thu-25-17-1-2021-391206.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/01/17/khunghinh-170121.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 18 Jan 2021 03:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Giao lưu với đoàn phim "Em là của em" - Khung hình thứ 25 10/1/2021</title>
       <link>https://radio.voh.com.vn/khung-hinh-thu-25/giao-luu-voi-doan-phim-em-la-cua-em-khung-hinh-thu-25-10-1-2021-390530.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/khung-hinh-thu-25/phim-han-noi-bat-9-thang-dau-nam-2020-ky-6-khung-hinh-thu-25-20-12-2020-388410.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/12/20/khunghinh-201220.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 21 Dec 2020 03:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Phim Hàn nổi bật 9 tháng đầu năm 2020 (Kỳ 5) - Khung hình thứ 25 13/12/2020</title>
-      <link>https://radio.voh.com.vn/khung-hinh-thu-25/phim-han-noi-bat-9-thang-dau-nam-2020-ky-5-khung-hinh-thu-25-13-12-2020-387611.html</link>
-      <description><![CDATA[20:00 - 13/12/2020]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/khung-hinh-thu-25/phim-han-noi-bat-9-thang-dau-nam-2020-ky-5-khung-hinh-thu-25-13-12-2020-387611.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/12/13/khunghinh-131220.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 14 Dec 2020 03:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
