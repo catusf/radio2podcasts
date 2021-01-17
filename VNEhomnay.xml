@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 16 Jan 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 17 Jan 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 16 Jan 2021 11:00:00 +0700</pubDate>
+    <pubDate>Sun, 17 Jan 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Lễ nhậm chức khác thường của Tổng thống Mỹ</title>
+      <link>https://vnexpress.net/le-nham-chuc-khac-thuong-cua-tong-thong-my-4222161.html</link>
+      <description><![CDATA[Lễ nhậm chức 3 ngày tới của ông Joe Biden sẽ là buổi lễ "vô tiền khoáng hậu", giữa căng thẳng của dịch bệnh và những lo ngại về bạo loạn. Không có đông đảo người dân chứng kiến và cũng không có mặt của tổng thống tiền nhiệm.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/le-nham-chuc-khac-thuong-cua-tong-thong-my-4222161.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/01/16/le-nham-chuc-khac-thuong-cua-ong-biden-1610811544.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 17 Jan 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Nghề giáo viên mầm non có độc hại, nguy hiểm?</title>
       <link>https://vnexpress.net/nghe-giao-vien-mam-non-co-doc-hai-nguy-hiem-4221841.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/tiep-vien-vietnam-airlines-sai-sot-trong-quan-ly-cach-ly-khien-toi-chu-quan-4220096.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/01/13/benh-nhan-1342-cac-sai-sot-trong-quan-ly-cach-ly-khien-toi-chu-quan-1610475332.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 13 Jan 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Hồ sơ an toàn hàng không của Indonesia</title>
-      <link>https://vnexpress.net/ho-so-an-toan-hang-khong-cua-indonesia-4219567.html</link>
-      <description><![CDATA[Từ năm 1945, Indonesia xảy ra 104 vụ tai nạn máy bay dân dụng, hơn 1.300 trường hợp tử vong. Sau sự cố gần đây, thủy quân lục chiến Mỹ đánh giá, Indonesia là nơi có hồ sơ an toàn bay tệ nhất thế giới.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/ho-so-an-toan-hang-khong-cua-indonesia-4219567.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/01/11/ho-so-an-toan-hang-khong-cua-indonesia-1610384383.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 12 Jan 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
