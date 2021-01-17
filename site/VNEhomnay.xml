@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 17 Jan 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 18 Jan 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 17 Jan 2021 11:00:00 +0700</pubDate>
+    <pubDate>Mon, 18 Jan 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Thấp thỏm làm điện mặt trời</title>
+      <link>https://vnexpress.net/thap-thom-lam-dien-mat-troi-4222423.html</link>
+      <description><![CDATA[Sau thời gian ồ ạt phát triển, các dự án năng lượng mặt trời đều dừng lại vì văn bản ngừng thu mua. Nhiều doanh nghiệp sản xuất, lắp đặt trong ngành đang “đóng băng" hoạt động, ngóng chờ chính sách có lộ trình rõ ràng.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/thap-thom-lam-dien-mat-troi-4222423.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/01/17/thap-thom-lam-dien-mat-troi-1610900760.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 18 Jan 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Lễ nhậm chức khác thường của Tổng thống Mỹ</title>
       <link>https://vnexpress.net/le-nham-chuc-khac-thuong-cua-tong-thong-my-4222161.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/cac-ong-lon-cong-nghe-co-quyen-khoa-tai-khoan-tong-thong-trump-4220612.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/01/14/cac-ong-lon-cong-nghe-co-quyen-khoa-tai-khoan-tong-thong-trump-1610587907.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 14 Jan 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Tiếp viên Vietnam Airlines: 'Sai sót trong quản lý cách ly khiến tôi chủ quan'</title>
-      <link>https://vnexpress.net/tiep-vien-vietnam-airlines-sai-sot-trong-quan-ly-cach-ly-khien-toi-chu-quan-4220096.html</link>
-      <description><![CDATA[Nghĩ rằng cách ly theo đúng quy trình, 2 lần xét nghiệm âm tính và đã được về nhà là không nhiễm bệnh nên Dương Tấn Hậu chủ quan. Anh mong nhận được sự khoan hồng và sẵn sàng tham gia chống dịch để chuộc lỗi.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/tiep-vien-vietnam-airlines-sai-sot-trong-quan-ly-cach-ly-khien-toi-chu-quan-4220096.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/01/13/benh-nhan-1342-cac-sai-sot-trong-quan-ly-cach-ly-khien-toi-chu-quan-1610475332.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 13 Jan 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
