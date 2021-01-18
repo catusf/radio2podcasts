@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 18 Jan 2021 13:09:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 18 Jan 2021 21:54:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 18 Jan 2021 13:09:00 +0700</pubDate>
+    <pubDate>Mon, 18 Jan 2021 21:54:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>TPHCM sẵn sàng phục vụ vận tải hành khách đi lại dịp tết Tân Sửu 2021 – Thời sự 1100 18/1/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-san-sang-phuc-vu-van-tai-hanh-khach-di-lai-dip-tet-tan-suu-2021-thoi-su-1100-18-1-2021-391321.html</link>
+      <description><![CDATA[14:54 - 18/01/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-san-sang-phuc-vu-van-tai-hanh-khach-di-lai-dip-tet-tan-suu-2021-thoi-su-1100-18-1-2021-391321.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/01/18/AMThoisu11h00p180121.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 18 Jan 2021 21:54:00 +0700</pubDate>
+    </item>
     <item>
       <title>Đại biểu Quốc hội TPHCM luôn đồng hành vì sự phát triển của Thành phố – Thời sự 5g30 18/12021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/dai-bieu-quoc-hoi-tphcm-luon-dong-hanh-vi-su-phat-trien-cua-thanh-pho-thoi-su-5g30-18-12021-391232.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/cat-toc-0-dong-net-dep-cua-nguoi-dan-thanh-pho-thoi-su-11g00-17-1-2021-391209.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/01/17/AMThoisu11h00p170121.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 17 Jan 2021 22:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Tổng kết và những giải pháp việc thực hiện Nghị quyết 35 của Bộ Chính trị - Thời sự 5g30 17/1/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tong-ket-va-nhung-giai-phap-viec-thuc-hien-nghi-quyet-35-cua-bo-chinh-tri-thoi-su-5g30-17-1-2021-391142.html</link>
-      <description><![CDATA[05:23 - 17/01/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tong-ket-va-nhung-giai-phap-viec-thuc-hien-nghi-quyet-35-cua-bo-chinh-tri-thoi-su-5g30-17-1-2021-391142.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/01/17/AMThoisu05h30p170121.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 17 Jan 2021 12:23:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
