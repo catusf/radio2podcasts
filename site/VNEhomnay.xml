@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 18 Jan 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 19 Jan 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 18 Jan 2021 11:00:00 +0700</pubDate>
+    <pubDate>Tue, 19 Jan 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Vì sao WHO điều tra về nguồn gốc nCoV?</title>
+      <link>https://vnexpress.net/vi-sao-who-dieu-tra-ve-nguon-goc-ncov-4222997.html</link>
+      <description><![CDATA[Việc xác định nguồn gốc, cách thức, thời điểm lây giúp ngăn chặn sự xuất hiện của đại dịch khác trong tương lai. Đồng thời, cuộc điều tra làm sáng tỏ nghi ngờ liệu phòng thí nghiệm có phải nơi khởi phát của virus?]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/vi-sao-who-dieu-tra-ve-nguon-goc-ncov-4222997.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/01/18/vi-sao-who-dieu-tra-ve-nguon-goc-ncov-1610985591.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 19 Jan 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Thấp thỏm làm điện mặt trời</title>
       <link>https://vnexpress.net/thap-thom-lam-dien-mat-troi-4222423.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/nguoi-viet-tai-my-noi-gi-ve-nhiem-ky-cua-trump-4221271.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/01/15/nguoi-viet-tai-my-noi-gi-sau-nhiem-ky-cua-trump-1610648505.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 15 Jan 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Các ông lớn công nghệ có quyền khoá tài khoản Tổng thống Trump?</title>
-      <link>https://vnexpress.net/cac-ong-lon-cong-nghe-co-quyen-khoa-tai-khoan-tong-thong-trump-4220612.html</link>
-      <description><![CDATA[Cuối nhiệm kỳ, hàng loạt ông lớn công nghệ như Twitter, Facebook, YouTube đồng loạt khóa tài khoản của Trump. Việc này có vi phạm quyền tự do ngôn luận hay lạm dụng sự độc quyền hay không?]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/cac-ong-lon-cong-nghe-co-quyen-khoa-tai-khoan-tong-thong-trump-4220612.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/01/14/cac-ong-lon-cong-nghe-co-quyen-khoa-tai-khoan-tong-thong-trump-1610587907.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 14 Jan 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
