@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 13 Jan 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 19 Jan 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 13 Jan 2021 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 19 Jan 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Âm nhạc với cuộc sống</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Amnhacvoicuocsong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Gặp gỡ Nhạc sĩ, Trung tá Hoàng Anh Thông,Trưởng đoàn Văn công Phòng không - Không quân với tác phẩm  đoạt giải A thể loại Ca khúc giải thưởng Hội Nhạc sĩ Việt Nam 2020: “Nơi ấy tình yêu bắt đầu”</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[Tối 17/1/2021, tại Đài TNVN, Hội Nhạc sỹ Việt Nam đã tổ chức Lễ trao Giải thưởng Âm nhạc Việt Nam năm 2020, vinh danh các nhạc sỹ, nghệ sỹ và công diễn một số tác phẩm đoạt Giải thưởng Âm nhạc năm 2020. Ca khúc “Nơi ấy tình yêu bắt đầu” (lời thơ Nguyễn Hồng Sơn) của nhạc sĩ Hoàng Anh Thông được hội đồng nghệ thuật trao Giải A ở hạng  mục Ca khúc.  Chúng ta cùng lắng nghe những chia sẻ của nhạc sĩ về tác phẩm đặc biệt này …]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/01/19/vovlive_am_nhac_voi_cuoc_song_noi_ay_tinh_yeu_bat_dau_hoang_anh_thong.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 19 Jan 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Tìm hiểu về nguồn gốc của bài dân ca “Bèo dạt mây trôi”</title>
       <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
@@ -47,14 +55,6 @@
       <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2020/12/29/vovlive_am_nhac_voi_cuoc_song_ban_tinh_ca_ben_dong_song.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 29 Dec 2020 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Gặp gỡ Thiếu tướng, PGS, TS, Thầy thuốc nhân dân, Giám đốc BV quân y 175 Bộ Quốc Phòng Nguyễn Hồng Sơn, tác giả ca khúc “Chiến sĩ mũ nồi xanh”</title>
-      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[Từ hình ảnh đội quân nhà Phật, một cụm từ quen thuộc của đồng bào Campuchia nói về những người lính tình nguyện Việt Nam trong những năm tháng giúp đỡ nhân dân Campuchia thoát khỏi thảm họa diệt chủng, ngày nay là hình ảnh những người lính mũ nồi xanh với một tầm vóc khác, một sứ mệnh cao cả trong lực lượng gìn giữ hòa bình Liên Hợp Quốc, Thiếu tướng, PGS, TS, Thầy thuốc nhân dân, Giám đốc BV quân y 175 Bộ Quốc Phòng, bác sỹ Nguyễn Hồng Sơn đã cho ra đời ca khúc “Chiến sĩ mũ nồi xanh”.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2020/12/23/vovlive_am_nhac_voi_cuoc_song_tro_chuyen_tac_gia_chien_si_mu_noi_xanh.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 23 Dec 2020 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
