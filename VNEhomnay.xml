@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 19 Jan 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 20 Jan 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 19 Jan 2021 11:00:00 +0700</pubDate>
+    <pubDate>Wed, 20 Jan 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ông Trump sẽ ra sao sau ngày Biden nhậm chức?</title>
+      <link>https://vnexpress.net/ong-trump-se-ra-sao-sau-ngay-biden-nham-chuc-4223549.html</link>
+      <description><![CDATA[Kết thúc nhiệm kỳ, ông Trump vẫn phải đối mặt với lần luận thứ 2. Điều này có thể ảnh hưởng đến lợi ích một cựu tổng thống có thể nhận bao gồm lương hưu, quyền được bảo vệ, quyền tái tranh cử...]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/ong-trump-se-ra-sao-sau-ngay-biden-nham-chuc-4223549.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/01/19/ong-trump-se-ra-sao-sau-ngay-biden-nham-chuc-1611073031.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 20 Jan 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Những hướng điều tra về nguồn gốc nCoV?</title>
       <link>https://vnexpress.net/nhung-huong-dieu-tra-ve-nguon-goc-ncov-4222997.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/nghe-giao-vien-mam-non-co-doc-hai-nguy-hiem-4221841.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/01/15/nghe-giao-vien-mam-non-co-doc-hai-nguy-hiem-1610723446.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 16 Jan 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Người Việt tại Mỹ nói gì về nhiệm kỳ của Trump?</title>
-      <link>https://vnexpress.net/nguoi-viet-tai-my-noi-gi-ve-nhiem-ky-cua-trump-4221271.html</link>
-      <description><![CDATA[Kinh tế, an sinh xã hội, chính sách giáo dục là những điểm được khen ngợi sau 4 năm nhiệm kỳ của Trump. Tuy nhiên, ông vẫn bị phê phán về việc phân biệt chủng độc, chính sách cho dân nhập cư và kiểm soát dịch bệnh.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/nguoi-viet-tai-my-noi-gi-ve-nhiem-ky-cua-trump-4221271.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/01/15/nguoi-viet-tai-my-noi-gi-sau-nhiem-ky-cua-trump-1610648505.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 15 Jan 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
