@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 11 Jan 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 19 Jan 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 11 Jan 2021 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 19 Jan 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,17 @@
     </itunes:owner>
     <itunes:subtitle>Thể thao 7 ngày</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Thethao7ngay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Chương trình thể thao 7 ngày 17/1/2021</title>
+      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
+      <description><![CDATA[+ Tình hình chuẩn bị của các đội bóng cho mùa giải mới LS V.league 2021.
++ Premier League đứng trước nguy cơ tạm hoãn vì dịch Covid 19.
++ Kiến thức thể thao: 5 ngôi sao đang chơi bóng tại châu Âu  sẽ được chuyển nhượng tự do vào mùa hè này.
++ Cuộc tái ngộ giữa Mike Tyson và Evander Holyfield: 24 năm sau sự kiện: "Cái tai bị cắn dở".]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/01/19/vovlive_thethao-7-ngay_1701.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 19 Jan 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Chương trình thể thao 7 ngày 10/1/2020</title>
       <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
@@ -51,16 +62,6 @@
       <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2020/12/28/vovlive_thethao-7-ngay_2712.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 28 Dec 2020 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chương trình thể thao 7 ngày 20/12/2020</title>
-      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
-      <description><![CDATA[- Những sự kiện thể thao trong nước và quốc tế nổi bật tuần qua
-- Đội tuyển bóng đá Việt Nam thay đổi để chiến thắng
-- Khuyến cáo của chuyên gia y tế về cách phòng tránh và sơ cứu chấn thương khi đá bóng.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2020/12/21/vovlive_thethao-7-ngay_2012.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 21 Dec 2020 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
