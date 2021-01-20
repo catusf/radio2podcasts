@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 20 Jan 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 21 Jan 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 20 Jan 2021 11:00:00 +0700</pubDate>
+    <pubDate>Thu, 21 Jan 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Những phát ngôn 'dậy sóng' của Trump khi là Tổng thống</title>
+      <link>https://vnexpress.net/nhung-phat-ngon-day-song-cua-trump-khi-la-tong-thong-4224149.html</link>
+      <description><![CDATA[Không chỉ thẳng thắn công kích đối thủ và truyền thông trong nước, Trump cũng sẵn sàng chê bai với đối tác ngoại giao quốc tế. Dù có bị nhận định ra sao, Trump luôn thể hiện sự tự hào và đánh giá cao bản thân mình.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/nhung-phat-ngon-day-song-cua-trump-khi-la-tong-thong-4224149.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/01/21/nhung-phat-ngon-day-song-cua-trump-khi-la-tong-thong-1611176402.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 21 Jan 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Ông Trump sẽ ra sao sau ngày Biden nhậm chức?</title>
       <link>https://vnexpress.net/ong-trump-se-ra-sao-sau-ngay-biden-nham-chuc-4223549.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/le-nham-chuc-khac-thuong-cua-tong-thong-my-4222161.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/01/16/le-nham-chuc-khac-thuong-cua-ong-biden-1610811544.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 17 Jan 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Nghề giáo viên mầm non có độc hại, nguy hiểm?</title>
-      <link>https://vnexpress.net/nghe-giao-vien-mam-non-co-doc-hai-nguy-hiem-4221841.html</link>
-      <description><![CDATA[Làm giáo viên mầm non không có cả thời gian để buồn; nghề này nguy hiểm vì giữ trong tay rất nhiều sinh mạng... Đây là ý kiến của các cô nuôi dạy trẻ trước kiến nghị họ được nghỉ hưu sớm 5 năm.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/nghe-giao-vien-mam-non-co-doc-hai-nguy-hiem-4221841.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/01/15/nghe-giao-vien-mam-non-co-doc-hai-nguy-hiem-1610723446.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 16 Jan 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
