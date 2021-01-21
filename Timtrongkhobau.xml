@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 14 Jan 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 21 Jan 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 14 Jan 2021 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 21 Jan 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Tìm trong kho báu</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Timtrongkhobau.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>"Hát nói trong dòng văn học chữ Nôm"14/1/2021</title>
+      <title>Từ Truyện thơ Nôm đến thơ Nôm lục bát hiện đại21/1/2021</title>
+      <link>http://vov6.vov.vn/tim-trong-kho-bau/tu-truyen-tho-nom-den-tho-nom-luc-bat-hien-dai-c54-32293.aspx</link>
+      <description><![CDATA[Cùng với thơ Nôm Đường luật thì truyện thơ Nôm đóng vai trò quan trọng đồng hành với đời sống tinh thần người Việt ta nhiều đời nay. Truyện Nôm hướng tới tầng lớp xã hội nào, lấy cốt truyện Trung Hoa hay sáng tác, ra đời trong dân gian hay có đề tác giả thì đều hướng tới những giá trị đạo đức và ứng xử tốt đẹp, nêu cao thuần phong mỹ tục của dân tộc. Chương trình hôm nay đưa ra một số góc nhìn về sự chuyển động của truyện thơ Nôm gắn với thể thơ lục bát truyền thống...]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/tu-truyen-tho-nom-den-tho-nom-luc-bat-hien-dai-c54-32293.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_1/v2_21_2501_08h00_tim_trong_kho_bau_pl_18h30_211202111.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 21 Jan 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>"Hát nói trong dòng văn học chữ Nôm" 14/1/2021</title>
       <link>http://vov6.vov.vn/tim-trong-kho-bau/hat-noi-trong-dong-van-hoc-chu-nom-c54-32270.aspx</link>
       <description><![CDATA[Từ sự kết hợp giữa nghệ thuật ca trù và ngôn ngữ thơ Nôm, hát nói ra đời và trở thành một thể tài độc đáo trong dòng văn học Quốc âm của dân tộc. Với khả năng diễn tả nhiều cảm xúc tinh tế của tâm hồn người Việt ta, hát nói đã đáp ứng được trước tiên là tỏ bày nỗi niềm tâm sự, sau nữa là nhu cầu giải trí của nhiều tầng lớp trong xã hội. Qua việc đi sâu vào một số đặc điểm của thơ Nôm sáng tác theo thể hát nói, buổi “Tìm trong kho báu” hôm nay gợi lại những âm điệu đẹp đẽ và đáng nhớ trong kho tàng văn học của dân tộc.]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/hat-noi-trong-dong-van-hoc-chu-nom-c54-32270.aspx</guid>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/nghe-thuat-luc-bat-truyen-kieu-c54-32252.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/v2_07011101_08h0018h30_tim_trong_kho_bau_71202110.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 06 Jan 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Thơ Nôm vịnh cảnh mùa đông 30/12/2020</title>
-      <link>http://vov6.vov.vn/tim-trong-kho-bau/tho-nom-vinh-canh-mua-dong-c54-32225.aspx</link>
-      <description><![CDATA[Những ngày giá rét này, chúng ta cùng nghe và ngẫm lại ý tình trong những áng thơ Nôm vịnh cảnh mùa đông. Cũng từ đó để thấy rằng các thi nhân xưa không chỉ tinh tế, nhạy cảm với chuyển động của đất trời mà qua đó còn thể hiện bản lĩnh, cốt cách, gửi gắm nỗi lòng với cuộc đời, với nhân sinh...]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/tho-nom-vinh-canh-mua-dong-c54-32225.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/v2_3112_08h00_tim_trong_kho_bau_pl_18h30_11120218.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 30 Dec 2020 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 20 Jan 2021 14:51:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 21 Jan 2021 15:10:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 20 Jan 2021 14:51:00 +0700</pubDate>
+    <pubDate>Thu, 21 Jan 2021 15:10:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Sài Gòn buổi sáng - 21/1/2021</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-21-1-2021-391640.html</link>
+      <description><![CDATA[08:10 - 21/01/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-21-1-2021-391640.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/01/21/FMSGBS06h00p210121.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 21 Jan 2021 15:10:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Sài Gòn buổi sáng - 20/1/2020</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-20-1-2020-391527.html</link>
       <description><![CDATA[07:51 - 20/01/2021]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-20-1-2020-391527.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/01/20/FMSaigonbuoisang06h00p200121-Copy.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 20 Jan 2021 14:51:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Sài Gòn Buổi Sáng - 19/01/2021</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-19-01-2021-391425.html</link>
-      <description><![CDATA[10:55 - 19/01/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-19-01-2021-391425.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/01/19/FMSGBS06h00p190121.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 19 Jan 2021 17:55:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
