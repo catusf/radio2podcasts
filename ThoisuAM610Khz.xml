@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 21 Jan 2021 13:24:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 21 Jan 2021 18:57:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 21 Jan 2021 13:24:00 +0700</pubDate>
+    <pubDate>Thu, 21 Jan 2021 18:57:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Quý 1/2021, các ngân hàng phải lên sàn chứng khoán - Thời sự 11g00 21/1/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/quy-1-2021-cac-ngan-hang-phai-len-san-chung-khoan-thoi-su-11g00-21-1-2021-391665.html</link>
+      <description><![CDATA[11:57 - 21/01/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/quy-1-2021-cac-ngan-hang-phai-len-san-chung-khoan-thoi-su-11g00-21-1-2021-391665.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/01/21/AMThoisu11h00p210121.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 21 Jan 2021 18:57:00 +0700</pubDate>
+    </item>
     <item>
       <title>Chương trình cầu truyền hình với chủ đề “Non sông liền một dải” - Thời sự 5g30 21/1/2020</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/chuong-trinh-cau-truyen-hinh-voi-chu-de-non-song-lien-mot-dai-thoi-su-5g30-21-1-2020-391624.html</link>
@@ -37,14 +45,6 @@
       <description><![CDATA[17:11 - 20/01/2021]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/thoi-tiet-tro-lanh-cuoi-nam-cong-dong-can-tang-cuong-phong-benh-thoi-su-17g00-20-1-2021-391598.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/01/20/AMThoisu17h00p200121cuon1-Copy.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 21 Jan 2021 00:11:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Công dân trẻ tiêu biểu TPHCM gửi gắm nguyện vọng đến đại hội XIII - Thời sự 11g00 20/1/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/cong-dan-tre-tieu-bieu-tphcm-gui-gam-nguyen-vong-den-dai-hoi-xiii-thoi-su-11g00-20-1-2021-391596.html</link>
-      <description><![CDATA[17:11 - 20/01/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/cong-dan-tre-tieu-bieu-tphcm-gui-gam-nguyen-vong-den-dai-hoi-xiii-thoi-su-11g00-20-1-2021-391596.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/01/20/AMThoisu11h00p200121-Copy.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 21 Jan 2021 00:11:00 +0700</pubDate>
     </item>
   </channel>
