@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 21 Jan 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 22 Jan 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 21 Jan 2021 19:00:00 +0700</pubDate>
+    <pubDate>Fri, 22 Jan 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Kể chuyện và hát ru cho bé</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Kechuyenvahatruchobe.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Người vợ đảm đang trong truyện "Chàng thợ săn Alek"21/1/2021</title>
+      <title>Hành trình gian nan của những cô gái đi tìm mặt trời 22/1/2021</title>
+      <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/hanh-trinh-gian-nan-cua-nhung-co-gai-di-tim-mat-troi-c43-32297.aspx</link>
+      <description><![CDATA[Từng có truyện về những chàng trai đi tìm mặt trời cho dân làng. Vậy nhưng câu chuyện hôm nay lại kể về  ba thiếu nữ xinh đẹp dũng cảm đã quyết tâm lên đường tìm lại ánh sáng cho trái đất. Hành trình của họ vô cùng gian khổ khó khăn. Họ có thành công và trở về như mong đợi của mọi người? (Kể chuyện và hát ru 15/01/2021)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/hanh-trinh-gian-nan-cua-nhung-co-gai-di-tim-mat-troi-c43-32297.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_1/v2_1501_21h45_co_tich_va_hat_ru_cho_be_1_221202119.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 22 Jan 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Người vợ đảm đang trong truyện "Chàng thợ săn Alek" 21/1/2021</title>
       <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/nguoi-vo-dam-dang-trong-truyen-chang-tho-san-alek-c43-32296.aspx</link>
       <description><![CDATA[Làm vợ người thợ săn vốn chẳng nhàn hạ chút nào, lại phải đối phó với những tình huống bất ngờ xảy ra. Người vợ của chàng thợ săn Alek cũng vậy. Song cô ấy chẳng hề kêu ca. Cô ấy cũng không khuất phục cường quyền bạo lực, cho dù người ra lệnh cho cô là một ông vua. Cô ấy đã nỗ lực vượt qua những khó khăn ấy như thế nào? (Kể chuyện và hát ru 13/01/2021)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/nguoi-vo-dam-dang-trong-truyen-chang-tho-san-alek-c43-32296.aspx</guid>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/co-be-co-mai-toc-mau-xanh-truyen-co-tich-tu-xu-so-than-tien-c43-32295.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_1/v2_1101_21h45_co_tich_va_hat_ru_cho_be_211202118.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 21 Jan 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Điều kì lạ từ truyện cổ tích "Con chim bồ câu bạc" 15/1/2021</title>
-      <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/dieu-ki-la-tu-truyen-co-tich-con-chim-bo-cau-bac-c43-32279.aspx</link>
-      <description><![CDATA[Con chim bồ câu đã lấy trộm rất nhiều vàng bạc trong kho của nhà vua. Nhà vua ra lệnh mở cuộc thi tài, ai bắt được chim câu sẽ được ngài nhường ngôi báu. Điều kiện này đâu khó khăn, các bé nhỉ. Vậy nhưng chỉ có một người làm được. Người đó là ai, và chim bồ câu này có phải là phù thủy hay không mà dám làm những việc động trời? (Kể chuyện và hát ru 08/01/2021)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/dieu-ki-la-tu-truyen-co-tich-con-chim-bo-cau-bac-c43-32279.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_1/v2_0801_21h45_ke_chuyen_va_hat_ru_151202115.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 15 Jan 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
