@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 24 Jan 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 25 Jan 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 24 Jan 2021 11:00:00 +0700</pubDate>
+    <pubDate>Mon, 25 Jan 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Biến thể nCoV có giảm hiệu quả vaccine?</title>
+      <link>https://vnexpress.net/bien-the-ncov-co-giam-hieu-qua-vaccine-4225852.html</link>
+      <description><![CDATA[Ba biến thể nCoV ở Anh, Nam Phi, Brazil đang lan nhanh khắp thế giới. Riêng biến chủng tại Anh có thể làm tăng 30% tỷ lệ tử vong. Giới y tế lo ngại, chúng sẽ khiến người khỏi Covid-19 bị tái nhiễm hoặc làm giảm hiệu quả vaccine.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/bien-the-ncov-co-giam-hieu-qua-vaccine-4225852.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/01/24/bien-the-ncov-co-giam-hieu-qua-vaccine-1611503920.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 25 Jan 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Thương hiệu Trump ra sao sau khi rời Nhà Trắng?</title>
       <link>https://vnexpress.net/thuong-hieu-trump-ra-sao-sau-khi-roi-nha-trang-4225604.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/nhung-phat-ngon-day-song-cua-ong-trump-4224149.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/01/21/nhung-phat-ngon-day-song-cua-trump-khi-la-tong-thong-1611176402.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 21 Jan 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Ông Trump sẽ ra sao sau ngày Biden nhậm chức?</title>
-      <link>https://vnexpress.net/ong-trump-se-ra-sao-sau-ngay-biden-nham-chuc-4223549.html</link>
-      <description><![CDATA[Kết thúc nhiệm kỳ, ông Trump vẫn phải đối mặt với lần luận thứ 2. Điều này có thể ảnh hưởng đến lợi ích một cựu tổng thống có thể nhận bao gồm lương hưu, quyền được bảo vệ, quyền tái tranh cử...]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/ong-trump-se-ra-sao-sau-ngay-biden-nham-chuc-4223549.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/01/20/ong-trump-se-ra-sao-sau-ngay-biden-nham-chuc-1611107467.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 20 Jan 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
