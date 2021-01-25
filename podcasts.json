@@ -6,7 +6,7 @@
     "name": "catusf",
     "email": "catus.phan@gmail.com"
   },
-  "websites": {
+  "websites": {  
     "VOVL": {
       "home": "https://vovlive.vn/",
       "name": "VOV Live",
@@ -168,6 +168,20 @@
         }
       }
     },
+    "RFI": {
+      "home": "https://www.rfi.fr/vi/",
+      "name": "RFI Tiếng Việt",
+      "function": null,
+      "programs": {
+        "cc60p": {
+          "url": "https://www.rfi.fr/vi/tag/t%E1%BB%95ng-h%E1%BB%A3p/",
+          "title": "Chương trình 60'",
+          "subtitle": "Chương trình 60'",
+          "cover": "",
+          "no": 5
+        }
+      }
+    },  
     "VOV1": {
       "home": "http://vov1.vov.vn/",
       "name": "VOV1 Đài tiếng nói Việt Nam",
