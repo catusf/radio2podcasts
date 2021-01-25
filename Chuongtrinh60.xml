@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Chương trình 60'</title>
+    <link>https://www.rfi.fr/vi/tag/t%E1%BB%95ng-h%E1%BB%A3p/</link>
+    <description>Chương trình 60'</description>
+    <itunes:explicit>no</itunes:explicit>
+    <copyright>cc60p</copyright>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
+    <language>vi</language>
+    <lastBuildDate>Sun, 24 Jan 2021 17:48:34 +0100</lastBuildDate>
+    <itunes:author>catus.phan</itunes:author>
+    <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
+    <pubDate>Sun, 24 Jan 2021 17:48:34 +0100</pubDate>
+    <itunes:category text="Music">
+      <itunes:category text="Music Commentary"/>
+    </itunes:category>
+    <itunes:image href="https://catusf.github.io/radio2podcasts/Chuongtrinh60.png"/>
+    <itunes:owner>
+      <itunes:name>catus.phan</itunes:name>
+      <itunes:email>catus.phan@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:subtitle>Chương trình 60'</itunes:subtitle>
+    <atom:link href="https://catusf.github.io/radio2podcasts/Chuongtrinh60.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>CHƯƠNG TRÌNH 60 PHÚT 2021-01-24</title>
+      <link>https://www.rfi.fr/vi/tổng-hợp/20210124-chương-trình-60-phút-1</link>
+      <description><![CDATA[CHƯƠNG TRÌNH 60 PHÚT 2021-01-24]]></description>
+      <guid isPermaLink="false">https://www.rfi.fr/vi/tổng-hợp/20210124-chương-trình-60-phút-1</guid>
+      <enclosure url="https://aod-rfi.akamaized.net/rfi/vietnamien/audio/modules/actu/202101/VN_60MN_2021_01_24.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 24 Jan 2021 17:48:34 +0100</pubDate>
+    </item>
+    <item>
+      <title>CHƯƠNG TRÌNH 60 PHÚT 2021-01-24</title>
+      <link>https://www.rfi.fr/vi/tổng-hợp/20210124-chương-trình-60-phút</link>
+      <description><![CDATA[CHƯƠNG TRÌNH 60 PHÚT 2021-01-24]]></description>
+      <guid isPermaLink="false">https://www.rfi.fr/vi/tổng-hợp/20210124-chương-trình-60-phút</guid>
+      <enclosure url="https://aod-rfi.akamaized.net/rfi/vietnamien/audio/modules/actu/202101/VN_60MN_2021_01_24.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 24 Jan 2021 16:03:08 +0100</pubDate>
+    </item>
+    <item>
+      <title>CHƯƠNG TRÌNH 60 PHÚT 2021-01-23</title>
+      <link>https://www.rfi.fr/vi/tổng-hợp/20210123-chương-trình-60-phút</link>
+      <description><![CDATA[CHƯƠNG TRÌNH 60 PHÚT 2021-01-23]]></description>
+      <guid isPermaLink="false">https://www.rfi.fr/vi/tổng-hợp/20210123-chương-trình-60-phút</guid>
+      <enclosure url="https://aod-rfi.akamaized.net/rfi/vietnamien/audio/modules/actu/202101/VN_60MN_2021_01_23.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 23 Jan 2021 15:23:13 +0100</pubDate>
+    </item>
+    <item>
+      <title>CHƯƠNG TRÌNH 60 PHÚT 2021-01-22</title>
+      <link>https://www.rfi.fr/vi/tổng-hợp/20210122-chương-trình-60-phút</link>
+      <description><![CDATA[CHƯƠNG TRÌNH 60 PHÚT 2021-01-22]]></description>
+      <guid isPermaLink="false">https://www.rfi.fr/vi/tổng-hợp/20210122-chương-trình-60-phút</guid>
+      <enclosure url="https://aod-rfi.akamaized.net/rfi/vietnamien/audio/modules/actu/202101/VN_60MN_2021_01_22.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 22 Jan 2021 15:26:54 +0100</pubDate>
+    </item>
+    <item>
+      <title>CHƯƠNG TRÌNH 60 PHÚT 2021-01-21</title>
+      <link>https://www.rfi.fr/vi/tổng-hợp/20210121-chương-trình-60-phút</link>
+      <description><![CDATA[CHƯƠNG TRÌNH 60 PHÚT 2021-01-21]]></description>
+      <guid isPermaLink="false">https://www.rfi.fr/vi/tổng-hợp/20210121-chương-trình-60-phút</guid>
+      <enclosure url="https://aod-rfi.akamaized.net/rfi/vietnamien/audio/modules/actu/202101/VN_60MN_2021_01_21.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 21 Jan 2021 15:18:16 +0100</pubDate>
+    </item>
+  </channel>
+</rss>
