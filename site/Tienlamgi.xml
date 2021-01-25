@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 18 Jan 2021 18:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 25 Jan 2021 18:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 18 Jan 2021 18:00:00 +0700</pubDate>
+    <pubDate>Mon, 25 Jan 2021 18:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Tiền làm gì?</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Tienlamgi.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Cách lập kế hoạch tài chính cá nhân cho năm mới</title>
+      <link>https://vnexpress.net/cach-lap-ke-hoach-tai-chinh-ca-nhan-cho-nam-moi-4225871.html</link>
+      <description><![CDATA[Sau một năm đầy biến động do Covid-19, cần nhìn lại ngân sách năm 2020, xác định lại mục tiêu tài chính, cân đối thu chi, với khoản dư nên ưu tiên tiết kiệm.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/cach-lap-ke-hoach-tai-chinh-ca-nhan-cho-nam-moi-4225871.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/01/24/cach-lap-ke-hoach-tai-chinh-ca-nhan-cho-nam-moi-1611506232.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 25 Jan 2021 18:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Cách chi tiêu tiết kiệm khi du lịch cuối năm</title>
       <link>https://vnexpress.net/cach-chi-tieu-tiet-kiem-khi-du-lich-cuoi-nam-4222019.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/co-nen-ban-nha-3-ty-o-que-de-len-pho-4212746.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2020/12/28/co-nen-ban-nha-3-ty-o-que-de-len-pho-1609121026.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 28 Dec 2020 18:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>300 triệu đồng có nên mua ôtô chạy dịch vụ?</title>
-      <link>https://vnexpress.net/300-trieu-dong-co-nen-mua-oto-chay-dich-vu-4201090.html</link>
-      <description><![CDATA[Dư 10 triệu/tháng và khoản tiết kiệm 300 triệu, có nên bỏ việc, vay thêm tiền để mua xe chạy dịch vụ hay không? Cùng nghe chuyên gia Lâm Minh Chánh lý giải.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/300-trieu-dong-co-nen-mua-oto-chay-dich-vu-4201090.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2020/12/21/300-trieu-dong-co-nen-mua-oto-chay-dich-vu-1608513131.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 21 Dec 2020 18:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
