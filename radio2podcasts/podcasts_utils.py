@@ -95,8 +95,9 @@ def rss_from_webpage(feed_settings, get_articles_from_html, item_titles=None):
     :param feed_settings:
     :return:
     """
+    headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0'}
 
-    source_page_html = requests.get(feed_settings.source_page_url).content
+    source_page_html = requests.get(feed_settings.source_page_url, headers=headers).content
     soup = BeautifulSoup(source_page_html, 'html.parser')
 
     container_html = soup  # soup.select(feed_settings.container_CSS_selector)
