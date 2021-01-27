@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 19 Jan 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 26 Jan 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 19 Jan 2021 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 26 Jan 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Âm nhạc với cuộc sống</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Amnhacvoicuocsong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Câu chuyện về quê hương và chân dung người vẽ cờ Tổ quốc, người chiến sĩ Cộng sản kiên trung Nguyễn Hữu Tiến</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[Ca khúc “Về Hà Nam anh nhé” của nhà báo Tào Khánh Hưng, Phó TBT Báo Xây Dựng gửi đến chương trình như một món quà để chào mừng Đại hội Đại biểu toàn quốc của Đảng lần thứ XIII. Ca khúc là bức tranh bằng âm thanh sinh động về quê hương Hà Nam anh hùng, đồng thời khắc họa chân dung của người anh hùng kiên trung Nguyễn Hữu Tiến …]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/01/26/vovlive_am_nhac_voi_cuoc_song_ve_ha_nam_anh_nhe.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 26 Jan 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Gặp gỡ Nhạc sĩ, Trung tá Hoàng Anh Thông,Trưởng đoàn Văn công Phòng không - Không quân với tác phẩm  đoạt giải A thể loại Ca khúc giải thưởng Hội Nhạc sĩ Việt Nam 2020: “Nơi ấy tình yêu bắt đầu”</title>
       <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
@@ -46,15 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2021/01/06/vovlive_am_nhac_voi_cuoc_song_de_tai_quoc_hoi.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 06 Jan 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>“Bản tình ca bên dòng sông”: Tác phẩm âm nhạc tái hiện tình yêu đầy kịch tính của vị đại tướng huyền thoại Nguyễn Chí Thanh</title>
-      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[- Nhân kỷ niệm 107 năm ngày sinh Đại tướng Nguyễn Chí Thanh (1/1/1914-1/1/2021), cùng lắng nghe câu chuyện về một tình yêu có thật đầy kịch tính của vị đại tướng huyền thoại. Chuyện tình lãng mạn đã được nhạc sĩ, NSƯT Doãn Nguyên và tác giả thơ Châu La Việt tái hiện lại qua tác phẩm âm nhạc “Bản tình ca bên dòng sông” cùng giọng hát của NSƯT Đăng Dương và ca sĩ Trần Hồng Nhung.   
-- Những kỷ niệm ký ức của nhạc sĩ Thanh Phúc khi sinh thời và hoàn cảnh ra đời ca khúc “Hà Nội chiến thắng” và “Trong vườn bách thảo”.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2020/12/29/vovlive_am_nhac_voi_cuoc_song_ban_tinh_ca_ben_dong_song.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 29 Dec 2020 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
