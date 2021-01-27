@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 19 Jan 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 26 Jan 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 19 Jan 2021 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 26 Jan 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,16 @@
     </itunes:owner>
     <itunes:subtitle>Thể thao 7 ngày</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Thethao7ngay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Chương trình thể thao 7 ngày 24/1/2021</title>
+      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
+      <description><![CDATA[+ Những sự kiện thể thao trong nước và quốc tế nổi bật tuần qua
++ Điểm nhấn thể thao: Đội tuyển bóng đá nữ Việt Nam nỗ lực từng ngày hướng tới các giải đấu quan trọng trong năm 2021 và tấm vé  tham dự World Cup 2023.
++ Thể thao và cuộc sống: Gặp gỡ những bạn trẻ có niềm đam mê môn bắn cung]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/01/26/vovlive_thethao-7-ngay_2401.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 26 Jan 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Chương trình thể thao 7 ngày 17/1/2021</title>
       <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
@@ -52,16 +62,6 @@
       <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2021/01/05/vovlive_thethao-7-ngay_0301.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 05 Jan 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chương trình thể thao 7 ngày 27/12/2012</title>
-      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
-      <description><![CDATA[+ Điểm lại 10 sự kiện thể thao trong nước và quốc tế nổi bật trong năm 2020 do VOV bình chọn.
-+ Nhìn lại trận giao hữu đầu tiên của ĐTQG Việt Nam và ĐTQG U22 Việt Nam ngày 23/12 vừa qua.
-+ Cùng tìm hiểu bộ môn thể thao mạo hiểm dù lượn]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2020/12/28/vovlive_thethao-7-ngay_2712.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 28 Dec 2020 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
