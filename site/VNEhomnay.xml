@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 29 Jan 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 30 Jan 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 29 Jan 2021 11:00:00 +0700</pubDate>
+    <pubDate>Sat, 30 Jan 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>2.000 công nhân Poyun đang cách ly hiện ra sao?</title>
+      <link>https://vnexpress.net/2-000-cong-nhan-poyun-dang-cach-ly-hien-ra-sao-4228733.html</link>
+      <description><![CDATA[Hoang mang khi nhận tin dương tính, nhiều công nhân tự mua thuốc uống điều trị triệu chứng. Dù biết nguy cơ nhiễm cao khi từng tiếp xúc BN 1552, nhưng với họ, sức ảnh hưởng và tốc độ lan của virus là không ngờ.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/2-000-cong-nhan-poyun-dang-cach-ly-hien-ra-sao-4228733.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/01/30/ben-trong-khu-cach-ly-tap-trung-cua-cong-nhan-poyun-1611941242.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 30 Jan 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Các động thái kiểm soát hai ổ dịch mới</title>
       <link>https://vnexpress.net/cac-dong-thai-kiem-soat-hai-o-dich-moi-4228139.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/nhung-nguoi-khong-dam-mong-thuong-tet-4226417.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/01/26/nhung-nguoi-khong-mong-thuong-tet-1611597355.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 26 Jan 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Biến thể nCoV có giảm hiệu quả vaccine?</title>
-      <link>https://vnexpress.net/bien-the-ncov-co-giam-hieu-qua-vaccine-4225852.html</link>
-      <description><![CDATA[Ba biến thể nCoV ở Anh, Nam Phi, Brazil đang lan nhanh khắp thế giới. Riêng biến chủng tại Anh có thể làm tăng 30% tỷ lệ tử vong. Giới y tế lo ngại, chúng sẽ khiến người khỏi Covid-19 bị tái nhiễm hoặc làm giảm hiệu quả vaccine.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/bien-the-ncov-co-giam-hieu-qua-vaccine-4225852.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/01/24/bien-the-ncov-co-giam-hieu-qua-vaccine-1611503920.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 25 Jan 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
