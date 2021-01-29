@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 26 Jan 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 28 Jan 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 26 Jan 2021 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 28 Jan 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Đọc truyện đêm khuya</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Doctrdemkhuya.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>“Trăng khuya”: Ấm áp tình cảm mẹ chồng nàng dâu26/1/2021</title>
+      <title>“Con gà rừng” (P1): Về quê 28/1/2021</title>
+      <link>http://vov6.vov.vn/doc-truyen-dem-khuya/con-ga-rung-p1-ve-que-c11-32316.aspx</link>
+      <description><![CDATA[Vậy là câu chuyện giữa ông già và cô cháu họ trong truyện ngắn "Con gà rừng" của tác giả Vân Hà đã dẫn dắt chúng ta tìm về một miền quê của ông: Thung Dài. Đó là một vùng quê núi non điệp trùng và người dân bám vào rừng để mưu sinh. Có lẽ rời quê hương đã lâu nên trong hình dung của ông già về làng Thung Dài ngày xưa, nay đã không còn nữa. Những câu chuyện chắp vá của quá khứ, hiện tại đan xen giữa ông và cô cháu trong bữa cơm gợi cho người đọc, người nghe những câu hỏi, băn khoăn. Liệu ông già có thực hiện được mong muốn ước mình trong chuyến về quê này không? (Lời bình của BTV Vân Khánh)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/doc-truyen-dem-khuya/con-ga-rung-p1-ve-que-c11-32316.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/v2_2801_22h30_doc_truyen_dem_khuya_291202110.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 28 Jan 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>“Trăng khuya”: Ấm áp tình cảm mẹ chồng nàng dâu 26/1/2021</title>
       <link>http://vov6.vov.vn/doc-truyen-dem-khuya/trang-khuya-am-ap-tinh-cam-me-chong-nang-dau-c11-32311.aspx</link>
       <description><![CDATA[Nhân vật cô gái Ngần đã rất may mắn khi gặp được bà mẹ chồng bao dung, tốt bụng. Nếu bà không chấp nhận đứa bé không phải cháu mình và phanh phui mọi chuyện thì không biết cuộc đời Ngần sẽ sang ngã rẽ nào...Mọi người cứ khen cô số tốt khi được gả vào gia đình khá giả. Nhưng là người trong cuộc, Ngần mới hiểu được nỗi khổ khi gả cho người chồng ham chơi, lười biếng. Tuy vậy cô vẫn hết lòng làm trọn phận sự người vợ, người con dâu ngay cả lúc chồng tai nạn nằm liệt giường. Số phận lại đưa đẩy một lần nữa khi trong đêm khuya Ngần gặp người đàn ông lạ lúc tắm sông. Nhu cầu sinh lý của cơ thể khiến việc chống đối của Ngần yếu ớt như có, như không. Nếu Ngần không mang thai thì có lẽ sự cố này như giấc mộng đêm trăng mà thôi. Nhưng cái thai trong bụng Ngần lớn từng ngày, từng tháng là bằng chứng cho sự ngoại tình của cô. Ngần tìm cách dấu diếm nhưng sao qua mắt được bà mẹ chồng có phần xét nét của mình. Thế nhưng cô may mắn khi mẹ chồng chấp nhận hai mẹ con. Có lẽ cũng là phụ nữ, cũng là người vợ, người mẹ nên bà thấu hiểu hoàn cảnh và cái khó của con dâu mình. Truyện ngắn được viết rất thật, đi vào tâm tư tình cảm, những khát khao cơ thể và đấu tranh nội tâm của người đàn bà gặp nhiều sự cố bất thường trong đời mình. Người đọc, người nghe mừng cho số phận của cô gái Ngần khi có cái kết có hậu. Nhưng có lẽ cuộc đời không phải ai cũng may mắn như Ngần. (Lời bình của BTV Hoàng Hiệp)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/doc-truyen-dem-khuya/trang-khuya-am-ap-tinh-cam-me-chong-nang-dau-c11-32311.aspx</guid>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/doc-truyen-dem-khuya/chiec-la-hinh-giot-le-sau-lang-mot-noi-niem-xu-hue-c11-32310.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_1/v2_2101_22h30_doc_truyen_dem_khuya_26120219.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 26 Jan 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>“Ông Tiến Vlog và cây đa làng Lường” (P2): Ứng xử của con người với thiên nhiên 19/1/2021</title>
-      <link>http://vov6.vov.vn/doc-truyen-dem-khuya/ong-tien-vlog-va-cay-da-lang-luong-p2-ung-xu-cua-con-nguoi-voi-thien-nhien-c11-32284.aspx</link>
-      <description><![CDATA[Với truyện ngắn này tác giả Đặng Ngọc Hưng đã có một góc tiếp cận khá mới mẻ hiện đại. Chi tiết Vlog cho thấy phương tiện truyền thông hiện đại đã kịp len lỏi vào đời sống nông thôn, bằng những chiêu trò mánh lới hết sức láu cá. Đó là việc thực hiện những video, clip giật gân, tạo dựng những nội dung hấp dẫn để tải lên mạng thu hút đông đảo người xem từ đó kiếm bội tiền. Một người như ông Tiến chạy ăn từng bữa, kiếm sống bằng việc leo treò, chặt hạ cây thì dễ dàng bị mua chuộc, bị lôi kéo vào việc kiếm tiền kiểu sống sít, chụp giựt thời thượng của giới trẻ. Bức tranh đời sống nông thôn hôm nay ít nhiều đã được tác giả tái hiện qua một vài nét phác họa. Người nông dân không còn phải cày bừa bằng trâu bò mà đã có máy móc, cũng không gieo mạ mà gieo sạ, không làm cỏ mà đã có thuốc diệt cỏ trừ sâu. Máy móc phương tiện thay thế con người. Người nông dân dường như đã và đang quen với cung cách kiếm sống một cách dễ dãi. Kịch tính truyện được đẩy dần lên với chi tiết cao trào: nhóm làm vlog yêu cầu ông Tiến chặt cây đa cổ thụ của làng. Ở đây cũng ghi nhận tác giả truyện ngắn đã khéo cài cắm chi tiết về ngôi miếu cổ, về mảnh đạn găm vào cây đa năm nào đã cứu sống ông Tiến. Đây là những chi tiết hay, ít nhiều mang tính tâm linh, cũng đồng thời là điểm sáng của truyện. Vì điều này khiến ông Tiến phải do dự, đấu tranh với sự cám dỗ của bản thân. Chi tiết cuối mảnh đạn găm năm xưa khiến ông Tiến bị thương chảy máu ở tay khi leo trèo, tiến hành chặt cây đa được coi là chi tiết thắt nút mang tính thức tỉnh, cảnh cáo về hành động đi quá ranh giới của ông Tiến. Truyện mang nhiều thông điệp với mỗi chúng ta. Về đạo đức, về nhân cách, lối sống, hành vi ứng xử của con người trong cuộc sống. Không chỉ là sự ứng xử giữa con người với con người mà còn là sự ứng xử giữa con người, với thiên nhiên, với những giá trị văn hóa tinh thần cần trân trọng, gìn giữ.]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/doc-truyen-dem-khuya/ong-tien-vlog-va-cay-da-lang-luong-p2-ung-xu-cua-con-nguoi-voi-thien-nhien-c11-32284.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/v2_1901_22h30_doc_truyen_dem_khuya_21120219.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 19 Jan 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
