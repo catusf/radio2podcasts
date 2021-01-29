@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 29 Jan 2021 02:34:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 29 Jan 2021 15:44:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 29 Jan 2021 02:34:00 +0700</pubDate>
+    <pubDate>Fri, 29 Jan 2021 15:44:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ngày làm việc thứ 3 của Đại hội đại biểu toàn quốc lần thứ XIII của Đảng - Thời sự 5g30 29/1/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/ngay-lam-viec-thu-3-cua-dai-hoi-dai-bieu-toan-quoc-lan-thu-xiii-cua-dang-thoi-su-5g30-29-1-2021-392453.html</link>
+      <description><![CDATA[08:44 - 29/01/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/ngay-lam-viec-thu-3-cua-dai-hoi-dai-bieu-toan-quoc-lan-thu-xiii-cua-dang-thoi-su-5g30-29-1-2021-392453.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/01/29/AMThoisu05h30p290121.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 29 Jan 2021 15:44:00 +0700</pubDate>
+    </item>
     <item>
       <title>Bổ nhiệm 11 trưởng phòng, ban UBND TP Thủ Đức - Thời Sự 17g00 24/01/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/bo-nhiem-11-truong-phong-ban-ubnd-tp-thu-duc-thoi-su-17g00-24-01-2021-392428.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/nguoi-ve-mang-mua-xuan-toi-thoi-su-17g00-28-1-2021-392420.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/01/28/AMThoisu17h00p280121-Copy.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 29 Jan 2021 00:11:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Không để công nhân lao động nào không có tết - Thời sự 11g00 28/1/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/khong-de-cong-nhan-lao-dong-nao-khong-co-tet-thoi-su-11g00-28-1-2021-392395.html</link>
-      <description><![CDATA[15:30 - 28/01/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/khong-de-cong-nhan-lao-dong-nao-khong-co-tet-thoi-su-11g00-28-1-2021-392395.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/01/28/AMThoisu11h00p280121-Copy.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 28 Jan 2021 22:30:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
