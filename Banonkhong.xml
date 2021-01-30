@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 24 Jan 2021 03:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 31 Jan 2021 03:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 24 Jan 2021 03:00:00 +0700</pubDate>
+    <pubDate>Sun, 31 Jan 2021 03:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Bạn ổn không?</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Banonkhong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Chồng quyết ly hôn khi tôi thất nghiệp</title>
+      <link>https://vnexpress.net/chong-quyet-ly-hon-khi-toi-that-nghiep-4228710.html</link>
+      <description><![CDATA[Sau nhiều năm làm lụng nuôi chồng, Vân bị anh chửi bới khi mất việc vì nghỉ thai sản. Ra đi nhưng vẫn phải gánh thay chồng khoản nợ tín dụng đen, cô không dám giành nuôi 2 con nhỏ vì lo không chu toàn được cho các bé.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/chong-quyet-ly-hon-khi-toi-that-nghiep-4228710.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/01/30/bi-tach-khoi-2-con-nho-toi-roi-nha-chong-cung-khoan-no-khong-lo-1612005280.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 31 Jan 2021 03:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>'Sống địa ngục vì chồng kiểm soát, coi trọng sự trong trắng'</title>
       <link>https://vnexpress.net/song-dia-nguc-vi-chong-kiem-soat-coi-trong-su-trong-trang-4225414.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/khi-vo-doi-ly-hon-toi-moi-thay-co-ay-quan-trong-4213894.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2020/12/30/khi-vo-doi-ly-hon-toi-moi-thay-co-ay-quan-trong-1609294832.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 03 Jan 2021 03:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Bạn trai qua đêm với đồng nghiệp</title>
-      <link>https://vnexpress.net/ban-trai-qua-dem-voi-dong-nghiep-4208236.html</link>
-      <description><![CDATA["Tôi phát hiện bạn trai qua đêm với đồng nghiệp trong một lần công tác nhưng anh nói không có tình cảm với cô ta. Sau lần đó, tôi không tin tưởng và tự ý kiểm tra điện thoại, anh cho rằng đó là xâm phạm quyền riêng tư"]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/ban-trai-qua-dem-voi-dong-nghiep-4208236.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2020/12/27/ban-trai-qua-dem-voi-dong-nghiep-1609059311.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 27 Dec 2020 03:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
