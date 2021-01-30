@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 30 Jan 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 31 Jan 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 30 Jan 2021 11:00:00 +0700</pubDate>
+    <pubDate>Sun, 31 Jan 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Hành trình tìm công lý của người phụ nữ Việt trên đất Pháp</title>
+      <link>https://vnexpress.net/hanh-trinh-tim-cong-ly-cua-nguoi-phu-nu-viet-tren-dat-phap-4229153.html</link>
+      <description><![CDATA[Hơn 10 năm tranh đấu pháp lý, phiên tòa xét xử vụ kiện những gã khổng lồ hoá chất của bà Trần Tố Nga đã diễn ra tại Pháp. Người phụ nữ 80 tuổi cho biết, bà quyết tâm chiến đấu dù chưa biết ngày về.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/hanh-trinh-tim-cong-ly-cua-nguoi-phu-nu-viet-tren-dat-phap-4229153.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/01/30/hanh-trinh-tim-cong-ly-cua-nguoi-phu-nu-viet-tren-dat-phap-1612025733.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 31 Jan 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>2.000 công nhân Poyun đang cách ly ra sao?</title>
       <link>https://vnexpress.net/2-000-cong-nhan-poyun-dang-cach-ly-ra-sao-4228733.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/clb-cuu-tong-thong-my-hoat-dong-nhu-the-nao-4226979.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/01/26/cau-lac-bo-cuu-tong-thong-my-hoat-dong-nhu-the-nao-1611678361.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 27 Jan 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Những người không dám mong thưởng Tết</title>
-      <link>https://vnexpress.net/nhung-nguoi-khong-dam-mong-thuong-tet-4226417.html</link>
-      <description><![CDATA[Thất nghiệp, mất nguồn thu do Covid-19, nhiều lao động cho rằng tìm được việc mới và có thu nhập hàng tháng đã là phần thưởng, không dám mong tới khoản thưởng cuối năm.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/nhung-nguoi-khong-dam-mong-thuong-tet-4226417.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/01/26/nhung-nguoi-khong-mong-thuong-tet-1611597355.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 26 Jan 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
