@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 30 Jan 2021 20:07:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 31 Jan 2021 01:51:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 30 Jan 2021 20:07:00 +0700</pubDate>
+    <pubDate>Sun, 31 Jan 2021 01:51:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Mở rộng các khu cách ly quận, huyện chuẩn bị đáp ứng nhu cầu cách ly y tế - Thời sự 17g00 30/1/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/mo-rong-cac-khu-cach-ly-quan-huyen-chuan-bi-dap-ung-nhu-cau-cach-ly-y-te-thoi-su-17g00-30-1-2021-392594.html</link>
+      <description><![CDATA[18:51 - 30/01/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/mo-rong-cac-khu-cach-ly-quan-huyen-chuan-bi-dap-ung-nhu-cau-cach-ly-y-te-thoi-su-17g00-30-1-2021-392594.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/01/30/AMThoisu17h00p300121cuon1.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 31 Jan 2021 01:51:00 +0700</pubDate>
+    </item>
     <item>
       <title>Tổ chức khai báo, xét nghiệm người từ ổ dịch về - Thời sự 11g00 30/1/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/to-chuc-khai-bao-xet-nghiem-nguoi-tu-o-dich-ve-thoi-su-11g00-30-1-2021-392582.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tinh-cam-cua-cac-nghe-nhan-danh-cho-duong-hoa-nguyen-hue-tan-suu-2021-thoi-su-5g30-30-1-2021-392556.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/01/30/AMThoisu05h30p300121.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 30 Jan 2021 13:30:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Nhân sự Đại hội XIII được chuẩn bị bài bản, chu đáo - Thời sự 17g00 29/1/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/nhan-su-dai-hoi-xiii-duoc-chuan-bi-bai-ban-chu-dao-thoi-su-17g00-29-1-2021-392539.html</link>
-      <description><![CDATA[22:18 - 29/01/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/nhan-su-dai-hoi-xiii-duoc-chuan-bi-bai-ban-chu-dao-thoi-su-17g00-29-1-2021-392539.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/01/29/AMThoisu17h00p290121sss.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 30 Jan 2021 05:18:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
