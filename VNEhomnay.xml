@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 01 Feb 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 02 Feb 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 01 Feb 2021 11:00:00 +0700</pubDate>
+    <pubDate>Tue, 02 Feb 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Cuộc sống 35 học sinh trong khu cách ly</title>
+      <link>https://vnexpress.net/cuoc-song-35-hoc-sinh-trong-khu-cach-ly-4230042.html</link>
+      <description><![CDATA[Sau 2 ngày cách ly, hiện tâm lý 35 em đã ổn định hơn. Hằng ngày, các bé được tập thể dục, đọc truyện, học qua video... Thầy cô và phụ huynh cũng đang lên ý tưởng tổ chức hoạt động đón Tết cho các bé.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/cuoc-song-35-hoc-sinh-trong-khu-cach-ly-4230042.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/02/02/cuoc-song-35-hoc-sinh-trong-khu-cach-ly-1612202538.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 02 Feb 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Lý do khiến dịch lan nhanh</title>
       <link>https://vnexpress.net/ly-do-khien-dich-lan-nhanh-4229472.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/cac-dong-thai-kiem-soat-hai-o-dich-moi-4228139.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/01/29/toan-canh-hai-o-dich-lon-nhat-ca-nuoc-tu-truoc-den-nay-1611853231.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 29 Jan 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Thủ đoạn lừa đảo qua SMS banking</title>
-      <link>https://vnexpress.net/thu-doan-lua-dao-qua-sms-banking-4227545.html</link>
-      <description><![CDATA[Làm theo tin nhắn từ chính tên ngân hàng (SMS brandname), chị Dương mất sạch tiền trong tài khoản. Anh Ngô Minh Hiếu, chuyên gia tại Trung tâm Giám sát An toàn không gian mạng quốc gia nêu 4 giả thuyết về chiêu thức của kẻ gian.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/thu-doan-lua-dao-qua-sms-banking-4227545.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/01/28/thu-doan-lua-dao-qua-sms-banking-1611806193.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 28 Jan 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
