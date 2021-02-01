@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 31 Jan 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 01 Feb 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 31 Jan 2021 11:00:00 +0700</pubDate>
+    <pubDate>Mon, 01 Feb 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Lý do khiến dịch lan nhanh</title>
+      <link>https://vnexpress.net/ly-do-khien-dich-lan-nhanh-4229472.html</link>
+      <description><![CDATA[Phó thủ tướng nhận định, dịch lan nhanh do liên quan tới biến thể của Anh, có thể virus đã ở trong cộng đồng 10 ngày trước khi bị phát hiện. Việc mất dấu F0 cũng khiến dịch âm thầm lan truyền.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/ly-do-khien-dich-lan-nhanh-4229472.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/02/01/ly-do-khien-dich-lan-nhanh-1612114016.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 01 Feb 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Hành trình tìm công lý của người phụ nữ Việt trên đất Pháp</title>
       <link>https://vnexpress.net/hanh-trinh-tim-cong-ly-cua-nguoi-phu-nu-viet-tren-dat-phap-4229153.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/thu-doan-lua-dao-qua-sms-banking-4227545.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/01/28/thu-doan-lua-dao-qua-sms-banking-1611806193.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 28 Jan 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>CLB cựu tổng thống Mỹ hoạt động như thế nào?</title>
-      <link>https://vnexpress.net/clb-cuu-tong-thong-my-hoat-dong-nhu-the-nao-4226979.html</link>
-      <description><![CDATA[CLB được thành lập năm 1989 hiện có 4 người. Các thành viên này đã cố gắng vượt lên sự khác biệt chính trị để ngồi lại với nhau. Ông Trump khó có khả năng sẽ trở thành một phần trong số họ.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/clb-cuu-tong-thong-my-hoat-dong-nhu-the-nao-4226979.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/01/26/cau-lac-bo-cuu-tong-thong-my-hoat-dong-nhu-the-nao-1611678361.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 27 Jan 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
