@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 17 Jan 2021 17:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 31 Jan 2021 17:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 17 Jan 2021 17:00:00 +0700</pubDate>
+    <pubDate>Sun, 31 Jan 2021 17:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Quà tặng âm nhạc trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Quatangamnhac.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Mùa hoa trở lại - Quà tặng âm nhạc 31/1/2021</title>
+      <link>https://radio.voh.com.vn/qua-tang-am-nhac/mua-hoa-tro-lai-qua-tang-am-nhac-31-1-2021-392711.html</link>
+      <description><![CDATA[10:00 - 31/01/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/mua-hoa-tro-lai-qua-tang-am-nhac-31-1-2021-392711.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/02/01/qtan.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 31 Jan 2021 17:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Khúc xuân - Quà tặng âm nhạc 17/1/2021</title>
       <link>https://radio.voh.com.vn/qua-tang-am-nhac/khuc-xuan-qua-tang-am-nhac-17-1-2021-391207.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/khuc-giao-mua-qua-tang-am-nhac-27-12-2020-389250.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/12/28/qtan-271220.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 27 Dec 2020 17:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Bài ca người lính - Quà tặng âm nhạc 20/12/2020</title>
-      <link>https://radio.voh.com.vn/qua-tang-am-nhac/bai-ca-nguoi-linh-qua-tang-am-nhac-20-12-2020-388412.html</link>
-      <description><![CDATA[10:00 - 20/12/2020]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/bai-ca-nguoi-linh-qua-tang-am-nhac-20-12-2020-388412.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2020/12/20/qtan-201220.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 20 Dec 2020 17:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
