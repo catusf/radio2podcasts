@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 26 Jan 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 02 Feb 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 26 Jan 2021 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 02 Feb 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,25 @@
     </itunes:owner>
     <itunes:subtitle>Âm nhạc với cuộc sống</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Amnhacvoicuocsong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Những tác phẩm ca ngợi Tổ quốc: Sự kết hợp của hai tâm hồn thơ và nhạc</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[Trong chương trình, lắng nghe một số tác phẩm ca ngợi Tổ quốc:
+- Ca khúc: Cung đàn mùa xuân 
+                  Sáng tác: Nhạc sĩ, NSND Cao Việt Bách
+                  Thơ: Lưu Trọng Lư
+“Cung đàn mùa xuân” như một minh chứng cho câu chuyện tình yêu đôi lứa hòa chung tình yêu đất nước mênh mang, cũng là minh chứng cho sự đồng điệu giữa tâm hồn nhạc sĩ và tâm hồn nhà thơ đã tạo ra tác phẩm âm nhạc hay đi cùng năm tháng.
+ – Ca khúc: Tổ quốc
+                  Âm nhạc: Nhạc sĩ Lê Quang
+                   Lời thơ: Nhà Thơ Nguyễn Thế Kỷ
+Bài hát ngay từ khi ra đời đã được đón nhận sự yêu thích, mến mộ của đông đảo công chúng yêu nhạc.
+- Ca khúc: Tổ quốc gọi tên mình
+                 Âm nhạc: Nhạc sĩ Đinh Trung Cẩn
+                Thơ: Nguyễn Phan Quế Mai)]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/02/02/vovlive_am_nhac_voi_cuoc_song_nhung_ca_khuc_ca_ngoi_to_quoc.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 02 Feb 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Câu chuyện về quê hương và chân dung người vẽ cờ Tổ quốc, người chiến sĩ Cộng sản kiên trung Nguyễn Hữu Tiến</title>
       <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
@@ -46,14 +65,6 @@
       <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2021/01/13/vovlive_am_nhac_voi_cuoc_song_beo_dat_may_troi.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 13 Jan 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đề tài về Quốc hội trong những tác phẩm âm nhạc</title>
-      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[Cách đây 75 năm, hưởng ứng lời hiệu triệu của chủ tịch Hồ Chí Minh, ngày 6/1/1946 công dân Việt Nam từ 18 tuổi trở lên trên khắp mọi miền của Tổ quốc, không phân biệt nam, nữ, giàu nghèo, dân tộc, tôn giáo...... đã nô nức tham gia bầu cử Đại biểu Quốc hội lần đầu tiên, bất chấp sự phá hoại điên cuồng của các thế lực xâm lược và chống đối. Thắng lợi của cuộc Tổng tuyển cử vào ngày 6/1/1946 đã đánh dấu sự khai sinh Quốc hội nước Việt Nam Dân chủ Cộng hòa (nay là nước Cộng hòa Xã hội Chủ nghĩa Việt Nam). Đề tài về cuộc Tổng tuyển cử đầu tiên của nước Việt Nam độc lập đã được phản ánh qua giai điệu và lời ca trong bài hát "Ngày Quốc hội" của cố nhạc sĩ Đỗ Nhuận…]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/01/06/vovlive_am_nhac_voi_cuoc_song_de_tai_quoc_hoi.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 06 Jan 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
