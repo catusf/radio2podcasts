@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 01 Feb 2021 06:42:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 01 Feb 2021 19:02:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 01 Feb 2021 06:42:00 +0700</pubDate>
+    <pubDate>Mon, 01 Feb 2021 19:02:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,28 +24,28 @@
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Đưa vào khai thác 4 công trình giao thông trước Tết Nguyên đán 2021 -Thời sự 11g00 1/2/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/dua-vao-khai-thac-4-cong-trinh-giao-thong-truoc-tet-nguyen-dan-2021-thoi-su-11g00-1-2-2021-392746.html</link>
+      <description><![CDATA[12:02 - 01/02/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/dua-vao-khai-thac-4-cong-trinh-giao-thong-truoc-tet-nguyen-dan-2021-thoi-su-11g00-1-2-2021-392746.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/02/01/AMThoisu11h00p010221.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 01 Feb 2021 19:02:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Công tác bảo đảm an ninh, trật tự Đại hội XIII của Đảng theo cấp độ cao nhất - Thời sự 5g30 1/2/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/cong-tac-bao-dam-an-ninh-trat-tu-dai-hoi-xiii-cua-dang-theo-cap-do-cao-nhat-thoi-su-5g30-1-2-2021-392714.html</link>
+      <description><![CDATA[09:54 - 01/02/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/cong-tac-bao-dam-an-ninh-trat-tu-dai-hoi-xiii-cua-dang-theo-cap-do-cao-nhat-thoi-su-5g30-1-2-2021-392714.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/02/01/AMThoisu05h30p010221.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 01 Feb 2021 16:54:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Đồng chí Nguyễn Phú Trọng được tín nhiệm bầu làm Tổng Bí thư - Thời sự 17g00 31/1/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/dong-chi-nguyen-phu-trong-duoc-tin-nhiem-bau-lam-tong-bi-thu-thoi-su-17g00-31-1-2021-392664.html</link>
       <description><![CDATA[23:42 - 31/01/2021]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/dong-chi-nguyen-phu-trong-duoc-tin-nhiem-bau-lam-tong-bi-thu-thoi-su-17g00-31-1-2021-392664.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/01/31/AMThoisu17h00p310121.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 01 Feb 2021 06:42:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Sở Du lịch TPHCM rà soát khách đến từ Hải Dương và Quảng Ninh - Thời sự 11g00 31/1/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/so-du-lich-tphcm-ra-soat-khach-den-tu-hai-duong-va-quang-ninh-thoi-su-11g00-31-1-2021-392629.html</link>
-      <description><![CDATA[11:05 - 31/01/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/so-du-lich-tphcm-ra-soat-khach-den-tu-hai-duong-va-quang-ninh-thoi-su-11g00-31-1-2021-392629.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/01/31/AMThoisu11h00p310121.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 31 Jan 2021 18:05:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Giảm 15% giá vé tàu hỏa cho hành khách đi lại dịp Tết Tân Sửu 2021 - Thời sự 5g30 31/1/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/giam-15-gia-ve-tau-hoa-cho-hanh-khach-di-lai-dip-tet-tan-suu-2021-thoi-su-5g30-31-1-2021-392628.html</link>
-      <description><![CDATA[11:05 - 31/01/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/giam-15-gia-ve-tau-hoa-cho-hanh-khach-di-lai-dip-tet-tan-suu-2021-thoi-su-5g30-31-1-2021-392628.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/01/31/AMThoisu05h30p310121.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 31 Jan 2021 18:05:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
