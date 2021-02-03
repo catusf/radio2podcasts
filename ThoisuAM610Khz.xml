@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 02 Feb 2021 21:27:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 03 Feb 2021 14:18:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 02 Feb 2021 21:27:00 +0700</pubDate>
+    <pubDate>Wed, 03 Feb 2021 14:18:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,28 +24,28 @@
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Kỷ niệm 91 năm Ngày thành lập Đảng – Thời sự 5g30 3/2/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/ky-niem-91-nam-ngay-thanh-lap-dang-thoi-su-5g30-3-2-2021-392921.html</link>
+      <description><![CDATA[07:18 - 03/02/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/ky-niem-91-nam-ngay-thanh-lap-dang-thoi-su-5g30-3-2-2021-392921.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/02/03/AMThoisu05h30p030221.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 03 Feb 2021 14:18:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Thành lập các Đảng bộ trực thuộc Thành ủy Thủ Đức - Thời sự 17g00 1/2/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/thanh-lap-cac-dang-bo-truc-thuoc-thanh-uy-thu-duc-thoi-su-17g00-1-2-2021-392879.html</link>
+      <description><![CDATA[16:35 - 02/02/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/thanh-lap-cac-dang-bo-truc-thuoc-thanh-uy-thu-duc-thoi-su-17g00-1-2-2021-392879.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/02/02/Thoisu17h00p010221.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 02 Feb 2021 23:35:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Bộ Y tế chính thức cấp phép nhập khẩu vắc-xin Covid-19 – Thời sự 5g30 02/02/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/bo-y-te-chinh-thuc-cap-phep-nhap-khau-vac-xin-covid-19-thoi-su-5g30-02-02-2021-392871.html</link>
       <description><![CDATA[14:27 - 02/02/2021]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/bo-y-te-chinh-thuc-cap-phep-nhap-khau-vac-xin-covid-19-thoi-su-5g30-02-02-2021-392871.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/02/02/AMThoisu05h30p020221.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 02 Feb 2021 21:27:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Ổn định, tạo niềm tin cả về kinh tế và y tế trong quý 1-2021 - Thời sự 11g00 02/02/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/on-dinh-tao-niem-tin-ca-ve-kinh-te-va-y-te-trong-quy-1-2021-thoi-su-11g00-02-02-2021-392870.html</link>
-      <description><![CDATA[14:25 - 02/02/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/on-dinh-tao-niem-tin-ca-ve-kinh-te-va-y-te-trong-quy-1-2021-thoi-su-11g00-02-02-2021-392870.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/02/02/AMThoisu11h00p020221.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 02 Feb 2021 21:25:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đưa vào khai thác 4 công trình giao thông trước Tết Nguyên đán 2021 -Thời sự 11g00 1/2/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/dua-vao-khai-thac-4-cong-trinh-giao-thong-truoc-tet-nguyen-dan-2021-thoi-su-11g00-1-2-2021-392746.html</link>
-      <description><![CDATA[12:02 - 01/02/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/dua-vao-khai-thac-4-cong-trinh-giao-thong-truoc-tet-nguyen-dan-2021-thoi-su-11g00-1-2-2021-392746.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/02/01/AMThoisu11h00p010221.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 01 Feb 2021 19:02:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
