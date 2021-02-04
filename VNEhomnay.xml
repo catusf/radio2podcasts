@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 04 Feb 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 05 Feb 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 04 Feb 2021 11:00:00 +0700</pubDate>
+    <pubDate>Fri, 05 Feb 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Cuộc sống cách ly của các học sinh tại tâm dịch Hải Dương</title>
+      <link>https://vnexpress.net/cuoc-song-cach-ly-cua-cac-hoc-sinh-tai-tam-dich-hai-duong-4231811.html</link>
+      <description><![CDATA[4 cụm trường với hơn 300 học sinh ở Hải Dương đang cách ly tập trung. Khi thầy cô, phụ huynh lo lắng về sức khoẻ và chuỗi ngày xa nhà của con thì các bé tỏ ra lạc quan, chỉ mong vài bộ váy, mấy cuốn sách truyện... để đón Tết.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/cuoc-song-cach-ly-cua-cac-hoc-sinh-tai-tam-dich-hai-duong-4231811.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/02/05/cuoc-song-cach-ly-cua-cac-hoc-sinh-tai-tam-dich-hai-duong-1612458396.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 05 Feb 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Tiễn ông Táo về trời mùa dịch bệnh</title>
       <link>https://vnexpress.net/tien-ong-tao-ve-troi-mua-dich-benh-4231254.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/ly-do-khien-dich-lan-nhanh-4229472.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/02/01/ly-do-khien-dich-lan-nhanh-1612114016.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 01 Feb 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Hành trình tìm công lý của người phụ nữ Việt trên đất Pháp</title>
-      <link>https://vnexpress.net/hanh-trinh-tim-cong-ly-cua-nguoi-phu-nu-viet-tren-dat-phap-4229153.html</link>
-      <description><![CDATA[Hơn 10 năm tranh đấu pháp lý, phiên tòa xét xử vụ kiện những gã khổng lồ hoá chất của bà Trần Tố Nga đã diễn ra tại Pháp. Người phụ nữ 80 tuổi cho biết, bà quyết tâm chiến đấu dù chưa biết ngày về.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/hanh-trinh-tim-cong-ly-cua-nguoi-phu-nu-viet-tren-dat-phap-4229153.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/01/30/hanh-trinh-tim-cong-ly-cua-nguoi-phu-nu-viet-tren-dat-phap-1612025733.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 31 Jan 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
