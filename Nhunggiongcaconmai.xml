@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 11 Jan 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 04 Feb 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 11 Jan 2021 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 04 Feb 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Những giọng ca còn mãi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Nhunggiongcaconmai.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>NSND Thanh Tuấn: Giọng ca vàng vượt thời gian</title>
+      <link>https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</link>
+      <description><![CDATA[Với những vai diễn ấn tượng, chất giọng trời phú, làn hơi rộng cùng khả năng biểu diễn linh hoạt đã giúp cho NSND Thanh Tuấn gặt hái được nhiều huy chương và thành công trên sân khấu cải lương. Đặc biệt, với vai diễn đại úy Huy Bình (vở cải lương “Tìm lại cuộc đời”) đã đánh dấu một bước ngoặt quan trọng trong cuộc đời hoạt động Nghệ thuật của ông…]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/02/04/vovlive_nhung_giong_ca_con_mai_nsnd_thanh_tuan_giong_ca_vang_vuot_thoi_gian.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 04 Feb 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>NSND Mẫn Thu: Hơn nửa đời người cháy hết mình với nghệ thuật Tuồng</title>
       <link>https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2020/12/10/vovlive_nhung_giong_ca_con_mai_nsut_do_tung.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 10 Dec 2020 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>NSND Thúy Cải: “Cánh chim đầu đàn” của Dân ca quan họ Bắc Ninh</title>
-      <link>https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</link>
-      <description><![CDATA[Với giọng hát vang, rền, luyến láy điêu luyện... NSND Thúy Cải đã chiếm trọn cảm tình của thính giả yêu dân ca quan họ. Dù biểu diễn ở sân khấu đơn sơ, nơi vùng sâu vùng xa hay những sân khấu sang trọng ở nước ngoài, dù khán giả là những người dân lao động chân lấm tay bùn hay những chính khách... bất cứ khi nào được hát là NSND Thúy Cải đều cảm thấy thật hạnh phúc…]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2020/12/01/vovlive_nhung_giong_ca_con_mai_nsnd_thuy_cai.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 01 Dec 2020 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
