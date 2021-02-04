@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 27 Jan 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 04 Feb 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 27 Jan 2021 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 04 Feb 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Tìm trong kho báu</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Timtrongkhobau.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Truyện Kiều và Nguyễn Du trên báo chí quốc ngữ Nam Bộ nửa đầu thế kỷ 2027/1/2021</title>
+      <title>Dấu ấn sáng tác Nôm của "Thánh Thơ" Cao Bá Quát4/2/2021</title>
+      <link>http://vov6.vov.vn/tim-trong-kho-bau/dau-an-sang-tac-nom-cua-thanh-tho-cao-ba-quat-c54-32327.aspx</link>
+      <description><![CDATA[Từ nhỏ đã nổi tiếng thần đồng, tuổi trưởng thành, Cao Bá Quát dành nhiều tâm huyết để sáng tác thơ, trong đó phần nhiều là thơ chữ Hán. Trong đó phải kể đến các tập “Cao Bá Quát thi tập”, “Cúc Đường thi thảo”, “Cao Chu Thần di cảo”, “Mẫn Hiên thi tập”. Tổng cộng thơ chữ Hán của ông phải đến hơn nghìn bài. Tuy số lượng thơ Nôm không nhiều nhưng suốt cuộc đời, nhà thơ Cao Bá Quát luôn coi trọng vai trò, vị trí của dòng thơ Quốc âm trong nền văn học dân tộc. Những quan niệm về văn chương, học thuật của ông được trình bày ở một số bài Tự, Bạt và thơ của ông, thí dụ bài “Tựa Truyện Hoa Tiên” của Nguyễn Huy Tự, bài “Bạt” cho tập thơ của Thương Sơn (tức Tùng Thiện vương Miên Thẩm), Bài “Hậu đề” cho tập thơ “Yên đài anh ngữ” của Bùi Quỹ...]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/dau-an-sang-tac-nom-cua-thanh-tho-cao-ba-quat-c54-32327.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_2/v2_040802_08h00_tim_trong_kho_bau_pl_18h30_42202115.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 04 Feb 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Truyện Kiều và Nguyễn Du trên báo chí quốc ngữ Nam Bộ nửa đầu thế kỷ 20 27/1/2021</title>
       <link>http://vov6.vov.vn/tim-trong-kho-bau/truyen-kieu-va-nguyen-du-tren-bao-chi-quoc-ngu-nam-bo-nua-dau-the-ky-20-c54-32314.aspx</link>
       <description><![CDATA[Như chúng ta đã biết, tác phẩm “Truyện Kiều” của Đại thi hào Nguyễn Du với những giá trị nhân văn và thời đại lớn lao đã song hành cùng dân tộc qua nhiều biến động lịch sử. Trước năm 1975, những hoạt động sôi nổi kỷ niệm tác giả “Truyện Kiều” do các học giả miền Bắc khởi xướng đã truyền sức nóng tới người làm văn, làm báo ở Nam bộ. Từ đó, trên báo chí văn nghệ miền Nam đã luận bàn dài kỳ, sôi nổi về kiệt tác Quốc âm của nền văn học dân tộc]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/truyen-kieu-va-nguyen-du-tren-bao-chi-quoc-ngu-nam-bo-nua-dau-the-ky-20-c54-32314.aspx</guid>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/tu-truyen-tho-nom-den-tho-nom-luc-bat-hien-dai-c54-32293.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_1/v2_21_2501_08h00_tim_trong_kho_bau_pl_18h30_211202111.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 21 Jan 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>"Hát nói trong dòng văn học chữ Nôm" 14/1/2021</title>
-      <link>http://vov6.vov.vn/tim-trong-kho-bau/hat-noi-trong-dong-van-hoc-chu-nom-c54-32270.aspx</link>
-      <description><![CDATA[Từ sự kết hợp giữa nghệ thuật ca trù và ngôn ngữ thơ Nôm, hát nói ra đời và trở thành một thể tài độc đáo trong dòng văn học Quốc âm của dân tộc. Với khả năng diễn tả nhiều cảm xúc tinh tế của tâm hồn người Việt ta, hát nói đã đáp ứng được trước tiên là tỏ bày nỗi niềm tâm sự, sau nữa là nhu cầu giải trí của nhiều tầng lớp trong xã hội. Qua việc đi sâu vào một số đặc điểm của thơ Nôm sáng tác theo thể hát nói, buổi “Tìm trong kho báu” hôm nay gợi lại những âm điệu đẹp đẽ và đáng nhớ trong kho tàng văn học của dân tộc.]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/hat-noi-trong-dong-van-hoc-chu-nom-c54-32270.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/v2_141801_08h0018h30_tim_trong_kho_bau_151202110.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 14 Jan 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
