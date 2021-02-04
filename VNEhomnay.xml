@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 03 Feb 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 04 Feb 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 03 Feb 2021 11:00:00 +0700</pubDate>
+    <pubDate>Thu, 04 Feb 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Tiễn ông Táo về trời mùa dịch bệnh</title>
+      <link>https://vnexpress.net/tien-ong-tao-ve-troi-mua-dich-benh-4231254.html</link>
+      <description><![CDATA[Dịch bệnh khiến cuộc sống người dân đảo lộn, nhiều gia đình cúng sớm vì cho rằng ông Táo cần thời gian cách ly, có nhà thì chỉ lễ đơn giản bằng mâm hoa quả.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/tien-ong-tao-ve-troi-mua-dich-benh-4231254.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/02/03/tien-ong-cong-ong-tao-ve-troi-mua-dich-benh-1612368326.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 04 Feb 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Cách lây lan của biến thể nCoV Anh có gì đặc biệt?</title>
       <link>https://vnexpress.net/cach-lay-lan-cua-bien-the-ncov-anh-co-gi-dac-biet-4230664.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/hanh-trinh-tim-cong-ly-cua-nguoi-phu-nu-viet-tren-dat-phap-4229153.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/01/30/hanh-trinh-tim-cong-ly-cua-nguoi-phu-nu-viet-tren-dat-phap-1612025733.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 31 Jan 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>2.000 công nhân Poyun đang cách ly ra sao?</title>
-      <link>https://vnexpress.net/2-000-cong-nhan-poyun-dang-cach-ly-ra-sao-4228733.html</link>
-      <description><![CDATA[Chị Lan, người từng làm việc chung với "bệnh nhân 1552", hoang mang khi nhận tin dương tính, đã tự mua thuốc uống điều trị. Với nhiều người nhiễm nCoV khác, họ không có triệu chứng.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/2-000-cong-nhan-poyun-dang-cach-ly-ra-sao-4228733.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/01/30/2-000-cong-nhan-poyun-dang-cach-ly-ra-sao-1611962174.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 30 Jan 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
