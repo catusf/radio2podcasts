@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 30 Jan 2021 03:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 06 Feb 2021 03:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 30 Jan 2021 03:00:00 +0700</pubDate>
+    <pubDate>Sat, 06 Feb 2021 03:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -30,6 +30,14 @@
       <guid isPermaLink="false">https://vnexpress.net/tinh-duc-co-the-gay-ra-dot-quy-4228517.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/01/29/dot-quy-va-quan-he-tinh-duc-co-moi-lien-he-gi-1611908929.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 30 Jan 2021 03:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Đàn ông ngực nở có bình thường?</title>
+      <link>https://vnexpress.net/dan-ong-nguc-no-co-binh-thuong-4228498.html</link>
+      <description><![CDATA[Ngực nở có thể là biểu hiện của suy giảm nội tiết tố nam. Việc này có thể ảnh hưởng tới ham muốn cũng như khả năng "giường chiếu" của các anh, theo bác sĩ.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/dan-ong-nguc-no-co-binh-thuong-4228498.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/01/29/nguc-to-bat-thuong-o-nam-gioi-1611906954.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 06 Feb 2021 03:00:00 +0700</pubDate>
     </item>
     <item>
       <title>Có thể cải thiện số đo 'cậu nhỏ'?</title>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/ruou-thuoc-co-thuc-su-giup-cac-anh-manh-chuyen-ay-4218211.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/01/08/ruou-thuoc-co-thuc-su-giup-cac-anh-manh-chuyen-ay-1610105467.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 09 Jan 2021 03:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Tại sao sex khiến con người hạnh phúc?</title>
-      <link>https://vnexpress.net/tai-sao-sex-khien-con-nguoi-hanh-phuc-4215121.html</link>
-      <description><![CDATA[Khi đạt đỉnh, cơ thể tiết ra một loại hormone hạnh phúc. Tuy nhiên chúng ta thoả mãn lâu dài nhờ những cử chỉ vuốt ve, âu yếm sau ân ái chứ không phải vì cực khoái.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/tai-sao-sex-khien-con-nguoi-hanh-phuc-4215121.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/01/01/tai-sao-sex-khien-con-nguoi-hanh-phuc-1609504906.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 02 Jan 2021 03:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
