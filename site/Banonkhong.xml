@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 31 Jan 2021 03:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 07 Feb 2021 03:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 31 Jan 2021 03:00:00 +0700</pubDate>
+    <pubDate>Sun, 07 Feb 2021 03:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Bạn ổn không?</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Banonkhong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Thù hận vì 'vợ quen người mới sau một tháng ly hôn'</title>
+      <link>https://vnexpress.net/thu-han-vi-vo-quen-nguoi-moi-sau-mot-thang-ly-hon-4231980.html</link>
+      <description><![CDATA[Làm ăn thất bại và mang trong mình căn bệnh u màng não, Công "quyết định ly hôn để vợ bắt đầu lại cuộc sống". Nhưng chỉ sau một tháng, vợ anh đã quen người mới khiến anh suy sụp trong thù hận.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/thu-han-vi-vo-quen-nguoi-moi-sau-mot-thang-ly-hon-4231980.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/02/06/vo-quen-nguoi-moi-sau-mot-thang-ly-hon-1612581451.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 07 Feb 2021 03:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Chồng chửi bới khi tôi không thể tiếp tục nuôi anh</title>
       <link>https://vnexpress.net/chong-chui-boi-khi-toi-khong-the-tiep-tuc-nuoi-anh-4228710.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/hon-nhan-khong-tinh-yeu-4218145.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/01/09/hon-nhan-khong-tinh-yeu-1610196963.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 10 Jan 2021 03:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>'Khi vợ đòi ly hôn, tôi mới thấy cô ấy quan trọng'</title>
-      <link>https://vnexpress.net/khi-vo-doi-ly-hon-toi-moi-thay-co-ay-quan-trong-4213894.html</link>
-      <description><![CDATA[Sau cưới, Văn dọn về nhà vợ ở nhưng thường xuyên phó thác mọi việc cho mẹ, dành thời gian chơi game. Suốt một năm cưới nhau, anh tự nhận mình cọc cằn, ích kỷ nên đây là lý do hai vợ chồng chưa "quan hệ".]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/khi-vo-doi-ly-hon-toi-moi-thay-co-ay-quan-trong-4213894.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2020/12/30/khi-vo-doi-ly-hon-toi-moi-thay-co-ay-quan-trong-1609294832.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 03 Jan 2021 03:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
