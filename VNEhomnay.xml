@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 05 Feb 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 06 Feb 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 05 Feb 2021 11:00:00 +0700</pubDate>
+    <pubDate>Sat, 06 Feb 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>'Tết này con không về'</title>
+      <link>https://vnexpress.net/tet-nay-con-khong-ve-4232365.html</link>
+      <description><![CDATA[Chị Ngọc, nhân viên y tế tại TP HCM không dám về quê vì áy náy với đồng nghiệp đang ngày đêm dập dịch. Yến Minh, một sinh viên xa nhà dành dụm từng ngày nghỉ để về quê dịp tết nhưng dịch đã không cho cô được nghỉ bù.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/tet-nay-con-khong-ve-4232365.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/02/06/tet-nay-con-khong-ve-1612544864.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 06 Feb 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Bên trong những khu cách ly của học sinh Hải Dương</title>
       <link>https://vnexpress.net/ben-trong-nhung-khu-cach-ly-cua-hoc-sinh-hai-duong-4231811.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/cuoc-song-cua-35-hoc-sinh-lop-3-trong-khu-cach-ly-4230042.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/02/02/cuoc-song-cua-35-hoc-sinh-lop-3-trong-khu-cach-ly-1612236389.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 02 Feb 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Lý do khiến dịch lan nhanh</title>
-      <link>https://vnexpress.net/ly-do-khien-dich-lan-nhanh-4229472.html</link>
-      <description><![CDATA[Phó thủ tướng nhận định, dịch lan nhanh do liên quan tới biến thể của Anh, có thể virus đã ở trong cộng đồng 10 ngày trước khi bị phát hiện. Việc mất dấu F0 cũng khiến dịch âm thầm lan truyền.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/ly-do-khien-dich-lan-nhanh-4229472.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/02/01/ly-do-khien-dich-lan-nhanh-1612114016.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 01 Feb 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
