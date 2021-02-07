@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 01 Feb 2021 03:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 08 Feb 2021 03:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 01 Feb 2021 03:00:00 +0700</pubDate>
+    <pubDate>Mon, 08 Feb 2021 03:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sóng điện ảnh trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Songdienanh.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Giao lưu với đoàn phim "Lật mặt: 48 giờ" - Khung hình thứ 25 7/2/2021</title>
+      <link>https://radio.voh.com.vn/khung-hinh-thu-25/giao-luu-voi-doan-phim-lat-mat-48-gio-khung-hinh-thu-25-7-2-2021-393357.html</link>
+      <description><![CDATA[20:00 - 07/02/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/khung-hinh-thu-25/giao-luu-voi-doan-phim-lat-mat-48-gio-khung-hinh-thu-25-7-2-2021-393357.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/02/07/KHUNGHINH-070221.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 08 Feb 2021 03:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Đằng sau scandal Trịnh Sảng - Khung hình thứ 25 31/1/2021</title>
       <link>https://radio.voh.com.vn/khung-hinh-thu-25/dang-sau-scandal-trinh-sang-khung-hinh-thu-25-31-1-2021-392697.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/khung-hinh-thu-25/giao-luu-voi-doan-phim-em-la-cua-em-khung-hinh-thu-25-10-1-2021-390530.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/01/10/khunghinh-100121.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 11 Jan 2021 03:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Tìm hiểu hậu trường phim Chị Mười Ba và Người cần quên phải nhớ (Kỳ 2) - Khung hình thứ 25 3/1/2021</title>
-      <link>https://radio.voh.com.vn/khung-hinh-thu-25/tim-hieu-hau-truong-phim-chi-muoi-ba-va-nguoi-can-quen-phai-nho-ky-2-khung-hinh-thu-25-3-1-2021-389882.html</link>
-      <description><![CDATA[20:00 - 03/01/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/khung-hinh-thu-25/tim-hieu-hau-truong-phim-chi-muoi-ba-va-nguoi-can-quen-phai-nho-ky-2-khung-hinh-thu-25-3-1-2021-389882.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/01/03/nltx020121.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 04 Jan 2021 03:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
