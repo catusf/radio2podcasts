@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 07 Feb 2021 12:30:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 07 Feb 2021 18:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 07 Feb 2021 12:30:00 +0700</pubDate>
+    <pubDate>Sun, 07 Feb 2021 18:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>TPHCM: Thi công xuyên tết 2 công trình giao thông trọng điểm - Thời sự 11g00 7/2/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-thi-cong-xuyen-tet-2-cong-trinh-giao-thong-trong-diem-thoi-su-11g00-7-2-2021-393376.html</link>
+      <description><![CDATA[11:00 - 07/02/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-thi-cong-xuyen-tet-2-cong-trinh-giao-thong-trong-diem-thoi-su-11g00-7-2-2021-393376.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/02/07/ts11g00-070221.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 07 Feb 2021 18:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Bài 3: Tết vui tươi, an toàn, tiết kiệm, nghĩa tình - Thời sự 05g30 7/2/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/bai-3-tet-vui-tuoi-an-toan-tiet-kiem-nghia-tinh-thoi-su-05g30-7-2-2021-393356.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-trao-tang-1-2-ty-dong-cham-lo-tet-cho-tinh-hau-giang-va-tp-can-tho-thoi-su-17g-6-2-2021-393333.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/02/06/AMThoisu17h00p060221Cuon1.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 07 Feb 2021 02:57:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đấu tranh chống gian lận thương mại đảm bảo cho người dân đón Tết an toàn – Thời sự 11g 6/2/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/dau-tranh-chong-gian-lan-thuong-mai-dam-bao-cho-nguoi-dan-don-tet-an-toan-thoi-su-11g-6-2-2021-393308.html</link>
-      <description><![CDATA[14:56 - 06/02/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/dau-tranh-chong-gian-lan-thuong-mai-dam-bao-cho-nguoi-dan-don-tet-an-toan-thoi-su-11g-6-2-2021-393308.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/02/06/AMThoisu11h00p060221.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 06 Feb 2021 21:56:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
