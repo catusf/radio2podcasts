@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 06 Feb 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 07 Feb 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 06 Feb 2021 11:00:00 +0700</pubDate>
+    <pubDate>Sun, 07 Feb 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Chiêu thức dụ dỗ vay tín dụng đen cuối năm</title>
+      <link>https://vnexpress.net/chieu-thuc-du-do-vay-tin-dung-den-cuoi-nam-4232768.html</link>
+      <description><![CDATA[Tổ chức tín dụng đen mời dùng mạng xã hội, app... để tìm kiếm và chào mời người vay dịp Tết. Chúng lách luật bằng cách "núp bóng" cầm đồ hoặc để lãi suất dưới 20% nhưng thu thêm vô vàn phụ phí khác.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/chieu-thuc-du-do-vay-tin-dung-den-cuoi-nam-4232768.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/02/07/chieu-thuc-du-do-vay-tin-dung-den-cuoi-nam-1612633296.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 07 Feb 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Tết này con không về</title>
       <link>https://vnexpress.net/tet-nay-con-khong-ve-4232365.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/cach-lay-lan-cua-bien-the-ncov-anh-co-gi-dac-biet-4230664.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/02/03/cach-bien-the-ncov-anh-lay-lan-1612285482.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 03 Feb 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Cuộc sống của 35 học sinh lớp 3 trong khu cách ly</title>
-      <link>https://vnexpress.net/cuoc-song-cua-35-hoc-sinh-lop-3-trong-khu-cach-ly-4230042.html</link>
-      <description><![CDATA[Sau 2 ngày cách ly, hiện tâm lý 35 em đã ổn định hơn. Hàng ngày, các bé được tập thể dục, đọc truyện, học trực tuyến... Thầy cô và phụ huynh cũng đang lên ý tưởng tổ chức Tết cho các con "như ở nhà".]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/cuoc-song-cua-35-hoc-sinh-lop-3-trong-khu-cach-ly-4230042.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/02/02/cuoc-song-cua-35-hoc-sinh-lop-3-trong-khu-cach-ly-1612236389.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 02 Feb 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
