@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 07 Feb 2021 02:57:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 07 Feb 2021 12:30:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 07 Feb 2021 02:57:00 +0700</pubDate>
+    <pubDate>Sun, 07 Feb 2021 12:30:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Bài 3: Tết vui tươi, an toàn, tiết kiệm, nghĩa tình - Thời sự 05g30 7/2/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/bai-3-tet-vui-tuoi-an-toan-tiet-kiem-nghia-tinh-thoi-su-05g30-7-2-2021-393356.html</link>
+      <description><![CDATA[05:30 - 07/02/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/bai-3-tet-vui-tuoi-an-toan-tiet-kiem-nghia-tinh-thoi-su-05g30-7-2-2021-393356.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/02/07/ts05g30-070221.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 07 Feb 2021 12:30:00 +0700</pubDate>
+    </item>
     <item>
       <title>TPHCM trao tặng 1,2 tỷ đồng chăm lo Tết cho tỉnh Hậu Giang và TP Cần Thơ - Thời sự 17g 6/2/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-trao-tang-1-2-ty-dong-cham-lo-tet-cho-tinh-hau-giang-va-tp-can-tho-thoi-su-17g-6-2-2021-393333.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/dau-tranh-chong-gian-lan-thuong-mai-dam-bao-cho-nguoi-dan-don-tet-an-toan-thoi-su-11g-6-2-2021-393308.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/02/06/AMThoisu11h00p060221.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 06 Feb 2021 21:56:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Bài 2: TPHCM mang “Tết nghĩa tình" đến với người khó khăn ở nhiều tỉnh, thành- Thời sự 5g30 6/2/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/bai-2-tphcm-mang-tet-nghia-tinh-den-voi-nguoi-kho-khan-o-nhieu-tinh-thanh-thoi-su-5g30-6-2-2021-393273.html</link>
-      <description><![CDATA[06:46 - 06/02/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/bai-2-tphcm-mang-tet-nghia-tinh-den-voi-nguoi-kho-khan-o-nhieu-tinh-thanh-thoi-su-5g30-6-2-2021-393273.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/02/06/AMThoisu05h30p060221.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 06 Feb 2021 13:46:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
