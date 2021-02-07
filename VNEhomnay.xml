@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 07 Feb 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 08 Feb 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 07 Feb 2021 11:00:00 +0700</pubDate>
+    <pubDate>Mon, 08 Feb 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ý niệm về Tết của người già và người trẻ</title>
+      <link>https://vnexpress.net/y-niem-ve-tet-cua-nguoi-gia-va-nguoi-tre-4233084.html</link>
+      <description><![CDATA[Với các cụ, Tết là khoảng thời gian của gia đình, "được thấy con cháu là sướng rồi". Còn với người trẻ, Tết để nghỉ ngơi và vui chơi, là khoảng thời gian dành cho bản thân.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/y-niem-ve-tet-cua-nguoi-gia-va-nguoi-tre-4233084.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/02/07/y-niem-ve-tet-xua-va-nay-1612716261.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 08 Feb 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Chiêu thức dụ dỗ vay tín dụng đen cuối năm</title>
       <link>https://vnexpress.net/chieu-thuc-du-do-vay-tin-dung-den-cuoi-nam-4232768.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/tien-ong-tao-ve-troi-mua-dich-benh-4231254.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/02/03/tien-ong-cong-ong-tao-ve-troi-mua-dich-benh-1612368326.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 04 Feb 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Cách lây lan của biến thể nCoV Anh có gì đặc biệt?</title>
-      <link>https://vnexpress.net/cach-lay-lan-cua-bien-the-ncov-anh-co-gi-dac-biet-4230664.html</link>
-      <description><![CDATA[Với biến thể nCoV Anh, cơ thể người nhiễm có tải lượng virus cao hơn, tức giọt bắn nước bọt mang theo nhiều virus. Theo chuyên gia, nguy cơ lớn nhất nằm ở các giọt bắn li ti lơ lửng trong không khí nhiều giờ.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/cach-lay-lan-cua-bien-the-ncov-anh-co-gi-dac-biet-4230664.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/02/03/cach-bien-the-ncov-anh-lay-lan-1612285482.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 03 Feb 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
