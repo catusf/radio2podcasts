@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 08 Feb 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 09 Feb 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 08 Feb 2021 11:00:00 +0700</pubDate>
+    <pubDate>Tue, 09 Feb 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Nguy cơ từ ổ dịch sân bay Tân Sơn Nhất</title>
+      <link>https://vnexpress.net/nguy-co-tu-o-dich-san-bay-tan-son-nhat-4233651.html</link>
+      <description><![CDATA[Nguồn lây và đường đi của bệnh chưa được xác định rõ. Ổ dịch lan ra 7 khu vực trong thành phố sau 3 ngày phát hiện ca nhiễm đầu tiên. Giới y tế nhận định, virus đã đi rất xa, khả năng số ca nhiễm còn tăng.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/nguy-co-tu-o-dich-san-bay-tan-son-nhat-4233651.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/02/09/nguy-co-tu-o-dich-san-bay-tan-son-nhat-1612817515.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 09 Feb 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Ý niệm về Tết của người già và người trẻ</title>
       <link>https://vnexpress.net/y-niem-ve-tet-cua-nguoi-gia-va-nguoi-tre-4233084.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/ben-trong-nhung-khu-cach-ly-cua-hoc-sinh-hai-duong-4231811.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/02/05/cuoc-song-cach-ly-cua-cac-hoc-sinh-tai-tam-dich-hai-duong-1612458396.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 05 Feb 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Tiễn ông Táo về trời mùa dịch bệnh</title>
-      <link>https://vnexpress.net/tien-ong-tao-ve-troi-mua-dich-benh-4231254.html</link>
-      <description><![CDATA[Nhiều gia đình làm lễ cúng sớm ông Công ông Táo vì cho rằng "ông cần thời gian cách ly. Trần sao âm vậy", có nhà chỉ làm mâm lễ đơn giản bằng hoa quả.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/tien-ong-tao-ve-troi-mua-dich-benh-4231254.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/02/03/tien-ong-cong-ong-tao-ve-troi-mua-dich-benh-1612368326.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 04 Feb 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
