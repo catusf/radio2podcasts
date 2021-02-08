@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 03 Feb 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jan 2000 07:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 03 Feb 2021 19:00:00 +0700</pubDate>
+    <pubDate>Sat, 01 Jan 2000 07:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,46 +23,5 @@
     </itunes:owner>
     <itunes:subtitle>Thể thao 7 ngày</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Thethao7ngay.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Chương trình thể thao 7 ngày 31/1/2021</title>
-      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
-      <description><![CDATA[+ Thể thao Việt Nam với trọng tâm Sea Games 31 tổ chức trên sân nhà
-+ Phỏng vấn ông Nguyễn Hồng Minh, Phó Tổng Cục trưởng Tổng cục thể dục thể thao về sự chuẩn bị của thể thao Việt Nam cho ASEAN Paragames 11.
-+  Giải đấu bóng đá của trường Đại học Kinh tế quốc dân, giải đấu duy nhất của sinh viên tổ chức theo phương thức League.
-+ Bí quyết giữ cân nặng ổn định trong ngày nghỉ lễ Tết nguyên đán.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/02/03/vovlive_thethao-7-ngay_3101.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 03 Feb 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chương trình thể thao 7 ngày 24/1/2021</title>
-      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
-      <description><![CDATA[+ Những sự kiện thể thao trong nước và quốc tế nổi bật tuần qua
-+ Điểm nhấn thể thao: Đội tuyển bóng đá nữ Việt Nam nỗ lực từng ngày hướng tới các giải đấu quan trọng trong năm 2021 và tấm vé  tham dự World Cup 2023.
-+ Thể thao và cuộc sống: Gặp gỡ những bạn trẻ có niềm đam mê môn bắn cung]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/01/26/vovlive_thethao-7-ngay_2401.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 26 Jan 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chương trình thể thao 7 ngày 17/1/2021</title>
-      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
-      <description><![CDATA[+ Tình hình chuẩn bị của các đội bóng cho mùa giải mới LS V.league 2021.
-+ Premier League đứng trước nguy cơ tạm hoãn vì dịch Covid 19.
-+ Kiến thức thể thao: 5 ngôi sao đang chơi bóng tại châu Âu  sẽ được chuyển nhượng tự do vào mùa hè này.
-+ Cuộc tái ngộ giữa Mike Tyson và Evander Holyfield: 24 năm sau sự kiện: "Cái tai bị cắn dở".]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/01/19/vovlive_thethao-7-ngay_1701.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 19 Jan 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chương trình thể thao 7 ngày 10/1/2020</title>
-      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
-      <description><![CDATA[+  V. League 2021 - Bất ngờ và kịch tính
-+ Đảm bảo dinh dưỡng trong việc tập luyện thể thao]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/01/11/vovlive_thethao-7-ngay_1001.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 11 Jan 2021 19:00:00 +0700</pubDate>
-    </item>
   </channel>
 </rss>

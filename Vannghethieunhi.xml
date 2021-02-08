@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 04 Feb 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 08 Feb 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 04 Feb 2021 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 08 Feb 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Văn nghệ thiếu nhi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Vannghethieunhi.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Nghĩ về tình yêu quê hương 4/2/2021</title>
+      <title>Cuốn sách em yêu: "Tết xưa thơ bé" 8/2/2021</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/cuon-sach-em-yeu-tet-xua-tho-be-c44-32332.aspx</link>
+      <description><![CDATA[Trong dịp xuân Tân Sửu, Nhà xuất bản Kim Đồng giới thiệu với bạn đọc bộ sách về ngày Tết. Trong đó có cuốn “Tết xưa thơ bé” của tác giả Hương Thị. Cuốn sách giống như lời thủ thỉ của một bà mẹ, kể lại cho con nghe những kí ức về Tết của một thời chưa xa, nhưng có lẽ đã khá lạ lẫm với những bạn nhỏ hôm nay. Ngôn ngữ kể chuyện khi rủ rỉ đầy xúc cảm, lúc dí dỏm, khi dồn dập gay cấn... (Văn nghệ thiếu nhi 04/02/2020)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/cuon-sach-em-yeu-tet-xua-tho-be-c44-32332.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_2/v2_0402_10h4518h15_van_nghe_thieu_nhi_82202113.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 08 Feb 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Nghĩ về tình yêu quê hương  4/2/2021</title>
       <link>http://vov6.vov.vn/van-nghe-thieu-nhi/nghi-ve-tinh-yeu-que-huong-c44-32329.aspx</link>
       <description><![CDATA[Những người trẻ được sinh ra và lớn lên khi đất nước đã hoàn toàn độc lập. Vậy nên tinh thần yêu nước của các bạn phần lớn được thể hiện ở tình yêu gia đình, yêu mảnh đất nơi mình lớn lên, yêu cộng đồng chung quanh. “Yêu quê hương chính là yêu những điều bình thường, giản dị trong cuộc sống” - Đó cũng là nhan đề bài viết của bạn Nguyễn Thanh Hà gửi tới chương trình... (Trang văn học nghệ thuật tuổi mới lớn 02/01/2021)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/nghi-ve-tinh-yeu-que-huong-c44-32329.aspx</guid>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/bi-mat-nao-o-truyen-ngan-bi-mat-cua-to-mang-ten-cau-c44-32328.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_2/v2_2601_10h4518h15_van_nghe_thieu_nhi_42202116.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 04 Feb 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đọc truyện "Trong gia đình" - Buổi 25 - Bộ đồ ăn 1/2/2021</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-trong-gia-dinh-buoi-25-bo-do-an-c44-32321.aspx</link>
-      <description><![CDATA[Một ngày nọ, Perrin nhặt được những chiếc vỏ lon vỏ hộp. Em có thể tận dụng để làm xoong nồi và bát ăn. Sau khi có dụng cụ để nấu ăn rồi, cô bé nghĩ tới việc làm món súp. Nhưng để làm được món súp, Perrin cần mua thêm bơ và kiếm thêm một số loại rau dại ở cánh đồng... (Văn nghệ thiếu nhi 31/01/2021)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-trong-gia-dinh-buoi-25-bo-do-an-c44-32321.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_2/v2_3101_10h4518h15_van_nghe_thieu_nhi_12202123.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 01 Feb 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
