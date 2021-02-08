@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 01 Feb 2021 18:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 08 Feb 2021 18:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 01 Feb 2021 18:00:00 +0700</pubDate>
+    <pubDate>Mon, 08 Feb 2021 18:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Tiền làm gì?</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Tienlamgi.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ưu và nhược của tiền mặt, thẻ ghi nợ, thẻ tín dụng</title>
+      <link>https://vnexpress.net/uu-va-nhuoc-cua-tien-mat-the-ghi-no-the-tin-dung-4233056.html</link>
+      <description><![CDATA[Cách thức thanh toán có thể ảnh hưởng tới hành vi chi tiêu. Theo chuyên gia, mỗi hình thức có ưu và nhược riêng, hỗ trợ được cho việc quản lý tài chính cá nhân.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/uu-va-nhuoc-cua-tien-mat-the-ghi-no-the-tin-dung-4233056.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/02/07/uu-va-nhuoc-cua-tien-mat-the-ghi-no-the-tin-dung-1612708782.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 08 Feb 2021 18:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Những lưu ý khi vay tiêu dùng dịp cuối năm</title>
       <link>https://vnexpress.net/nhung-luu-y-khi-vay-tieu-dung-dip-cuoi-nam-4225878.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/cac-chieu-tro-lua-dao-dau-tu-forex-4219046.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/01/11/cac-chieu-tro-lua-dao-dau-tu-forex-1610360464.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 11 Jan 2021 18:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Với mục đích cho thuê, nên mua chung cư hay nhà đất?</title>
-      <link>https://vnexpress.net/voi-muc-dich-cho-thue-nen-mua-chung-cu-hay-nha-dat-4215838.html</link>
-      <description><![CDATA[Chuyên gia tài chính cho rằng, 5 tỷ đồng có thể mua một căn nhà ở ngoại thành hoặc vài căn chung cư trả góp. Với mục đích cho thuê thì chung cư sẽ đem về thu nhập cao hơn nhưng cần lưu ý các rủi ro pháp lý đi kèm.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/voi-muc-dich-cho-thue-nen-mua-chung-cu-hay-nha-dat-4215838.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/01/04/voi-muc-dich-cho-thue-nen-mua-chung-cu-hay-nha-dat-1609731270.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 04 Jan 2021 18:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
