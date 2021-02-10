@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 09 Feb 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 10 Feb 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 09 Feb 2021 11:00:00 +0700</pubDate>
+    <pubDate>Wed, 10 Feb 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Cách tự bảo vệ bản thân khỏi biến thể nCoV</title>
+      <link>https://vnexpress.net/cach-tu-bao-ve-ban-than-khoi-bien-the-ncov-4234192.html</link>
+      <description><![CDATA[Việt Nam đã xuất hiện biến thể nCoV được cho là có thể lây qua không khí. Đợt dịch này lại bùng phát cận Tết, khi nhu cầu gặp gỡ, đi lại tăng cao. Vậy những biện pháp chống dịch trước đây còn hiệu quả?]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/cach-tu-bao-ve-ban-than-khoi-bien-the-ncov-4234192.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/02/09/cach-tu-bao-ve-ban-than-khoi-bien-the-ncov-1612888236.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 10 Feb 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Nguy cơ từ ổ dịch sân bay Tân Sơn Nhất</title>
       <link>https://vnexpress.net/nguy-co-tu-o-dich-san-bay-tan-son-nhat-4233651.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/tet-nay-con-khong-ve-4232365.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/02/06/tet-nay-con-khong-ve-1612544864.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 06 Feb 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Bên trong những khu cách ly của học sinh Hải Dương</title>
-      <link>https://vnexpress.net/ben-trong-nhung-khu-cach-ly-cua-hoc-sinh-hai-duong-4231811.html</link>
-      <description><![CDATA[Hoài An, 8 tuổi nói rất nhớ bố và anh khi phải đi cách ly nhưng tự hào vì "con tự ăn, tự tắm gội, đánh răng...". Còn với 75 trẻ mầm non trường Bạch Đằng, việc làm quen với cuộc sống mới khó khăn hơn.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/ben-trong-nhung-khu-cach-ly-cua-hoc-sinh-hai-duong-4231811.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/02/05/cuoc-song-cach-ly-cua-cac-hoc-sinh-tai-tam-dich-hai-duong-1612458396.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 05 Feb 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
