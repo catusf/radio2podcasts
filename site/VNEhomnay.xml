@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 10 Feb 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 11 Feb 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 10 Feb 2021 11:00:00 +0700</pubDate>
+    <pubDate>Thu, 11 Feb 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Tết của những người ở tuyến đầu chống dịch</title>
+      <link>https://vnexpress.net/tet-cua-nhung-nguoi-o-tuyen-dau-chong-dich-4234511.html</link>
+      <description><![CDATA[Bác sĩ Vũ Minh Điền cho hay, cành đào, bánh chưng được các đồng nghiệp gửi tới để "đưa" Tết vào tâm dịch Hải Dương. Không khí Tết còn được cảm nhận qua cuộc gọi video với người thân.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/tet-cua-nhung-nguoi-o-tuyen-dau-chong-dich-4234511.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/02/10/tet-cua-nhung-nguoi-o-tuyen-dau-chong-dich-1612973580.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 11 Feb 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Cách tự bảo vệ bản thân khỏi biến thể nCoV</title>
       <link>https://vnexpress.net/cach-tu-bao-ve-ban-than-khoi-bien-the-ncov-4234192.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/chieu-thuc-du-do-vay-tin-dung-den-cuoi-nam-4232768.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/02/07/chieu-thuc-du-do-vay-tin-dung-den-cuoi-nam-1612633296.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 07 Feb 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Tết này con không về</title>
-      <link>https://vnexpress.net/tet-nay-con-khong-ve-4232365.html</link>
-      <description><![CDATA[Lê gọi về cho bố ngập ngừng: 'Tết ni con không về nhá'. Lặng thinh giây lát, ông bảo: 'Về mà bắt cách ly cũng bằng nhau. Buồn nhưng cũng phải chịu, biết làm sao được'.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/tet-nay-con-khong-ve-4232365.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/02/06/tet-nay-con-khong-ve-1612544864.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 06 Feb 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
