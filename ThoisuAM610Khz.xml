@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 11 Feb 2021 18:41:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 11 Feb 2021 20:51:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 11 Feb 2021 18:41:00 +0700</pubDate>
+    <pubDate>Thu, 11 Feb 2021 20:51:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Khuyến cáo người dân hạn chế đến nơi đông người, vui Tết tại nhà - Thời sự 17g00 10/2/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/khuyen-cao-nguoi-dan-han-che-den-noi-dong-nguoi-vui-tet-tai-nha-thoi-su-17g00-10-2-2021-393778.html</link>
+      <description><![CDATA[13:51 - 11/02/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/khuyen-cao-nguoi-dan-han-che-den-noi-dong-nguoi-vui-tet-tai-nha-thoi-su-17g00-10-2-2021-393778.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/02/11/AMThoisu17h00p100221.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 11 Feb 2021 20:51:00 +0700</pubDate>
+    </item>
     <item>
       <title>Vì sự bình yên cho nhân dân – Thời sự 11g00 11/2/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/vi-su-binh-yen-cho-nhan-dan-thoi-su-11g00-11-2-2021-393759.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-niem-tin-va-hy-vong-truoc-them-nam-tan-suu-2021-393751.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/02/11/AMThoisu05h30p110221.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 11 Feb 2021 15:04:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đã có 1.324 trường hợp tiếp xúc gần F1, 369 F2 được lấy mẫu xét nghiệm - Thời sự 5g30 10/2/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/da-co-1-324-truong-hop-tiep-xuc-gan-f1-369-f2-duoc-lay-mau-xet-nghiem-thoi-su-5g30-10-2-2021-393701.html</link>
-      <description><![CDATA[11:06 - 10/02/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/da-co-1-324-truong-hop-tiep-xuc-gan-f1-369-f2-duoc-lay-mau-xet-nghiem-thoi-su-5g30-10-2-2021-393701.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/02/10/AMThoisu05h30p100221.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 10 Feb 2021 18:06:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
