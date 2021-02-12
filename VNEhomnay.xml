@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 11 Feb 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 12 Feb 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 11 Feb 2021 11:00:00 +0700</pubDate>
+    <pubDate>Fri, 12 Feb 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Lý giải những tục lệ, kiêng kỵ ngày Tết</title>
+      <link>https://vnexpress.net/ly-giai-nhung-tuc-le-kieng-ky-ngay-tet-4234818.html</link>
+      <description><![CDATA[Tại sao phải xông đất, mua muối, mua lửa đầu năm? Con gà thiến trên mâm cúng giao thừa biểu tượng cho điều gì?... PGS.TS Phạm Ngọc Trung sẽ lý giải tục lệ của người Việt trong ngày Tết.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/ly-giai-nhung-tuc-le-kieng-ky-ngay-tet-4234818.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/02/11/ly-giai-tuc-le-tet-co-truyen-1613059900.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 12 Feb 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Tết đặc biệt của những bác sĩ trong tâm dịch</title>
       <link>https://vnexpress.net/tet-dac-biet-cua-nhung-bac-si-trong-tam-dich-4234511.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/y-niem-ve-tet-cua-nguoi-gia-va-nguoi-tre-4233084.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/02/07/y-niem-ve-tet-xua-va-nay-1612716261.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 08 Feb 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chiêu thức dụ dỗ vay tín dụng đen cuối năm</title>
-      <link>https://vnexpress.net/chieu-thuc-du-do-vay-tin-dung-den-cuoi-nam-4232768.html</link>
-      <description><![CDATA[Tổ chức tín dụng đen mời dùng mạng xã hội, app... để tìm kiếm và chào mời người vay dịp Tết. Chúng lách luật bằng cách "núp bóng" cầm đồ hoặc để lãi suất dưới 20% nhưng thu thêm vô vàn phụ phí khác.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/chieu-thuc-du-do-vay-tin-dung-den-cuoi-nam-4232768.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/02/07/chieu-thuc-du-do-vay-tin-dung-den-cuoi-nam-1612633296.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 07 Feb 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
