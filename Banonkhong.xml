@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 07 Feb 2021 03:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 14 Feb 2021 03:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 07 Feb 2021 03:00:00 +0700</pubDate>
+    <pubDate>Sun, 14 Feb 2021 03:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -30,6 +30,14 @@
       <guid isPermaLink="false">https://vnexpress.net/thu-han-vi-vo-quen-nguoi-moi-sau-mot-thang-ly-hon-4231980.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/02/06/vo-quen-nguoi-moi-sau-mot-thang-ly-hon-1612581451.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 07 Feb 2021 03:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>'Không san sẻ kinh tế, chồng còn muốn giữ tiền của tôi'</title>
+      <link>https://vnexpress.net/khong-san-se-kinh-te-chong-con-muon-giu-tien-cua-toi-4231433.html</link>
+      <description><![CDATA[Chồng mặc cho Mũm Mĩm gánh mọi sinh hoạt phí trong gia đình. Khi lương của cô không đủ cho chồng vay, anh nghi ngờ cô giấu diếm và bắt chứng minh thu chi cá nhân.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/khong-san-se-kinh-te-chong-con-muon-giu-tien-cua-toi-4231433.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/02/13/khong-san-se-kinh-te-chong-con-muon-giu-tien-cua-toi-1613205101.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 14 Feb 2021 03:00:00 +0700</pubDate>
     </item>
     <item>
       <title>Chồng chửi bới khi tôi không thể tiếp tục nuôi anh</title>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/nhay-viec-4-lan-toi-van-khong-biet-minh-muon-gi-4219670.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/01/12/25-tuoi-toi-van-khong-biet-minh-thuc-su-muon-gi-1610418193.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 17 Jan 2021 03:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Hôn nhân không tình yêu</title>
-      <link>https://vnexpress.net/hon-nhan-khong-tinh-yeu-4218145.html</link>
-      <description><![CDATA[Vì sự thúc ép của gia đình, Tiên quyết định cưới chồng dù biết anh chơi đề, nhậu nhẹt. Sống với nhau nhiều năm, cô cũng không biết anh làm gì, lương bao nhiêu, thỉnh thoảng lại bị đòi nợ đến mức phải bán nhà trả thay cho chồng.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/hon-nhan-khong-tinh-yeu-4218145.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/01/09/hon-nhan-khong-tinh-yeu-1610196963.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 10 Jan 2021 03:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
