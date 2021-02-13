@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 12 Feb 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 13 Feb 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 12 Feb 2021 11:00:00 +0700</pubDate>
+    <pubDate>Sat, 13 Feb 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Người Việt tha hương đón Tết</title>
+      <link>https://vnexpress.net/nguoi-viet-tha-huong-don-tet-4235029.html</link>
+      <description><![CDATA[Ở Singapore, Lâm Anh thèm không khí Tết tại Việt Nam với tiếng nhạc xuân, mùi củi lửa, vị dưa hành bánh chưng... Như Ý, ở Hàn Quốc thì không dám lên mạng xã hội vì sợ thấy cảnh bạn bè đón Tết tại quê nhà.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/nguoi-viet-tha-huong-don-tet-4235029.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/02/12/nguoi-viet-tha-huong-don-tet-1613141391.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 13 Feb 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Lý giải những tục lệ, kiêng kỵ ngày Tết</title>
       <link>https://vnexpress.net/ly-giai-nhung-tuc-le-kieng-ky-ngay-tet-4234818.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/nguy-co-tu-o-dich-san-bay-tan-son-nhat-4233651.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/02/09/nguy-co-tu-o-dich-san-bay-tan-son-nhat-1612817515.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 09 Feb 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Ý niệm về Tết của người già và người trẻ</title>
-      <link>https://vnexpress.net/y-niem-ve-tet-cua-nguoi-gia-va-nguoi-tre-4233084.html</link>
-      <description><![CDATA[Với các cụ, Tết là khoảng thời gian của gia đình, "được thấy con cháu là sướng rồi". Còn với người trẻ, Tết để nghỉ ngơi và vui chơi, là khoảng thời gian dành cho bản thân.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/y-niem-ve-tet-cua-nguoi-gia-va-nguoi-tre-4233084.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/02/07/y-niem-ve-tet-xua-va-nay-1612716261.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 08 Feb 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
