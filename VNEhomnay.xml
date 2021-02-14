@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 13 Feb 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 14 Feb 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 13 Feb 2021 11:00:00 +0700</pubDate>
+    <pubDate>Sun, 14 Feb 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Vì sao giới trẻ nhờ công nghệ hỗ trợ tìm tình yêu?</title>
+      <link>https://vnexpress.net/vi-sao-gioi-tre-nho-cong-nghe-ho-tro-tim-tinh-yeu-4235256.html</link>
+      <description><![CDATA[Theo thống kê nửa đầu năm 2020 của app hẹn hò Tinder, lượt "quẹt" trên ứng dụng này tại Việt Nam tăng 36%, và tăng vọt trong giai đoạn dịch. Nhóm sử dụng đông nhất là 18-25 tuổi.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/vi-sao-gioi-tre-nho-cong-nghe-ho-tro-tim-tinh-yeu-4235256.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/02/13/vi-sao-gioi-tre-nho-cong-nghe-tim-tinh-yeu-1613231458.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 14 Feb 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Người Việt tha hương đón Tết</title>
       <link>https://vnexpress.net/nguoi-viet-tha-huong-don-tet-4235029.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/cach-tu-bao-ve-ban-than-khoi-bien-the-ncov-4234192.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/02/09/cach-tu-bao-ve-ban-than-khoi-bien-the-ncov-1612888236.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 10 Feb 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Nguy cơ từ ổ dịch sân bay Tân Sơn Nhất</title>
-      <link>https://vnexpress.net/nguy-co-tu-o-dich-san-bay-tan-son-nhat-4233651.html</link>
-      <description><![CDATA[Nguồn lây và đường đi của bệnh chưa được xác định rõ; ổ dịch lan ra 7 khu vực trong thành phố sau 3 ngày phát hiện ca nhiễm đầu tiên.... Giới y tế nhận định, virus đã đi rất xa, khả năng số ca nhiễm còn tăng.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/nguy-co-tu-o-dich-san-bay-tan-son-nhat-4233651.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/02/09/nguy-co-tu-o-dich-san-bay-tan-son-nhat-1612817515.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 09 Feb 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
