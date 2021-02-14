@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 14 Feb 2021 13:42:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 14 Feb 2021 19:25:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 14 Feb 2021 13:42:00 +0700</pubDate>
+    <pubDate>Sun, 14 Feb 2021 19:25:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Xuân Tân Sửu: Nghệ sĩ chúc Tết và ước vọng nghề trong năm mới – Thời sự 11g 14/2/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/xuan-tan-suu-nghe-si-chuc-tet-va-uoc-vong-nghe-trong-nam-moi-thoi-su-11g-14-2-2021-393871.html</link>
+      <description><![CDATA[12:25 - 14/02/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/xuan-tan-suu-nghe-si-chuc-tet-va-uoc-vong-nghe-trong-nam-moi-thoi-su-11g-14-2-2021-393871.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/02/14/AMThoisu11h00p140221.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 14 Feb 2021 19:25:00 +0700</pubDate>
+    </item>
     <item>
       <title>Độc đáo văn hóa ẩm thực Việt ngày Tết (Kỳ 1) - Thời sự 5g30 14/2/2020</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/doc-dao-van-hoa-am-thuc-viet-ngay-tet-ky-1-thoi-su-5g30-14-2-2020-393855.html</link>
@@ -37,14 +45,6 @@
       <description><![CDATA[18:38 - 13/02/2021]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/phong-tuc-don-tet-cua-nguoi-hoa-thoi-su-17g00-13-2-2021-393851.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/02/13/AMThoisu17h00p130221Cuon1-Copy.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 14 Feb 2021 01:38:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Tết của tình thân - Tết của đoàn viên - Thời sự 11g00 13/2/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tet-cua-tinh-than-tet-cua-doan-vien-thoi-su-11g00-13-2-2021-393850.html</link>
-      <description><![CDATA[18:38 - 13/02/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tet-cua-tinh-than-tet-cua-doan-vien-thoi-su-11g00-13-2-2021-393850.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/02/13/AMThoisu11h00p130221-Copy.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 14 Feb 2021 01:38:00 +0700</pubDate>
     </item>
   </channel>
