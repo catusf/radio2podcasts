@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 14 Feb 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 15 Feb 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 14 Feb 2021 11:00:00 +0700</pubDate>
+    <pubDate>Mon, 15 Feb 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Mệnh giá trong bao lì xì</title>
+      <link>https://vnexpress.net/menh-gia-trong-bao-li-xi-4235477.html</link>
+      <description><![CDATA[Nhiều trẻ em bóc bao, đếm tiền ngay khi nhận; phụ huynh thì áp lực phải cân đối số được nhận và số đi mừng. Theo chuyên gia giáo dục, mệnh giá trong bao ngày càng được quan tâm hơn ý nghĩa vốn có của tục lì xì.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/menh-gia-trong-bao-li-xi-4235477.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/02/14/menh-gia-trong-phong-bao-li-xi-1613314359.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 15 Feb 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Vì sao giới trẻ Việt nhờ công nghệ tìm tình yêu?</title>
       <link>https://vnexpress.net/vi-sao-gioi-tre-viet-nho-cong-nghe-tim-tinh-yeu-4235256.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/tet-dac-biet-cua-nhung-bac-si-trong-tam-dich-4234511.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/02/11/tet-dac-biet-cua-nhung-bac-si-trong-tam-dich-1613001402.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 11 Feb 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Cách tự bảo vệ bản thân khỏi biến thể nCoV</title>
-      <link>https://vnexpress.net/cach-tu-bao-ve-ban-than-khoi-bien-the-ncov-4234192.html</link>
-      <description><![CDATA[Việt Nam đã xuất hiện biến thể nCoV được cho là có thể lây qua không khí. Đợt dịch này lại bùng phát cận Tết, khi nhu cầu gặp gỡ, đi lại tăng cao. Vậy những biện pháp chống dịch trước đây còn hiệu quả?]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/cach-tu-bao-ve-ban-than-khoi-bien-the-ncov-4234192.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/02/09/cach-tu-bao-ve-ban-than-khoi-bien-the-ncov-1612888236.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 10 Feb 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
