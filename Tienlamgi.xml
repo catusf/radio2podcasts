@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 08 Feb 2021 18:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 15 Feb 2021 18:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 08 Feb 2021 18:00:00 +0700</pubDate>
+    <pubDate>Mon, 15 Feb 2021 18:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Tiền làm gì?</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Tienlamgi.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Diễn viên Quốc Trường: 'Tôi khởi nghiệp từ số vốn âm'</title>
+      <link>https://vnexpress.net/dien-vien-quoc-truong-toi-khoi-nghiep-tu-so-von-am-4235518.html</link>
+      <description><![CDATA[Quốc Trường chia sẻ, khi mới lên TP HCM lập nghiệp từng có lúc cạn tiền, anh phải sống nhờ cơm đoàn phim. Sau vài lần kinh doanh nhỏ, anh quyết mở nhà hàng đầu tiên với số vốn 30 triệu đi vay.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/dien-vien-quoc-truong-toi-khoi-nghiep-tu-so-von-am-4235518.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/02/15/dien-vien-quoc-truong-toi-khoi-nghiep-tu-so-von-am-1613324602.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 15 Feb 2021 18:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Ưu và nhược của tiền mặt, thẻ ghi nợ, thẻ tín dụng</title>
       <link>https://vnexpress.net/uu-va-nhuoc-cua-tien-mat-the-ghi-no-the-tin-dung-4233056.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/cach-chi-tieu-tiet-kiem-khi-du-lich-cuoi-nam-4222019.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/01/16/cach-chi-tieu-tiet-kiem-va-khong-bi-chat-chem-trong-ky-nghi-cuoi-nam-1610775265.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 18 Jan 2021 18:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Các chiêu trò lừa đảo đầu tư Forex</title>
-      <link>https://vnexpress.net/cac-chieu-tro-lua-dao-dau-tu-forex-4219046.html</link>
-      <description><![CDATA[Hiện Việt Nam chưa cấp phép cho các sàn đầu tư Forex. Nhằm "lách luật", các công ty này "núp bóng" sàn nước ngoài, lôi kéo cá nhân đầu tư với lãi suất siêu cao để lừa đảo.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/cac-chieu-tro-lua-dao-dau-tu-forex-4219046.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/01/11/cac-chieu-tro-lua-dao-dau-tu-forex-1610360464.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 11 Jan 2021 18:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
