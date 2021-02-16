@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 15 Feb 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 16 Feb 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 15 Feb 2021 11:00:00 +0700</pubDate>
+    <pubDate>Tue, 16 Feb 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>nCoV trên tử thi có khả năng lây truyền?</title>
+      <link>https://vnexpress.net/ncov-tren-tu-thi-co-kha-nang-lay-truyen-4235782.html</link>
+      <description><![CDATA[Liên quan đến người Nhật nhiễm nCoV tử vong trong khách sạn, 139 người đã bị cách ly và điều tra dịch tễ. Liệu virus trên tử thi truyền bệnh bằng cách nào?]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/ncov-tren-tu-thi-co-kha-nang-lay-truyen-4235782.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/02/16/ncov-tren-tu-thi-co-kha-nang-lay-truyen-1613411487.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 16 Feb 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Trượt giá của bao lì xì</title>
       <link>https://vnexpress.net/truot-gia-cua-bao-li-xi-4235477.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/ly-giai-nhung-tuc-le-kieng-ky-ngay-tet-4234818.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/02/11/ly-giai-tuc-le-tet-co-truyen-1613059900.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 12 Feb 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Tết đặc biệt của những bác sĩ trong tâm dịch</title>
-      <link>https://vnexpress.net/tet-dac-biet-cua-nhung-bac-si-trong-tam-dich-4234511.html</link>
-      <description><![CDATA[Được điều động vào tâm dịch Chí Linh, Hải Dương, bác sĩ Vũ Minh Điền của bệnh viện Bệnh Nhiệt đới Trung ương vẫn có cành đào, bánh chưng..., cảm nhận rõ không khí Tết qua những cuộc gọi video mỗi ngày.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/tet-dac-biet-cua-nhung-bac-si-trong-tam-dich-4234511.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/02/11/tet-dac-biet-cua-nhung-bac-si-trong-tam-dich-1613001402.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 11 Feb 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
