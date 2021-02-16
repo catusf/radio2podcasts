@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 02 Feb 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 09 Feb 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 02 Feb 2021 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 09 Feb 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Âm nhạc với cuộc sống</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Amnhacvoicuocsong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Nhạc sĩ Ngô Tự Lập với những cung bậc cảm xúc về tình yêu cùng “Chúc mừng năm mới”</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[Từ lời hẹn về việc cùng nhóm tác giả M6 (Ngô Tự Lập, Trần Đức Minh, Giáng Son, Nguyễn Lê Tâm, Nguyễn Vĩnh Tiến, Nguyễn Thắng) ra mắt một album mang tên Chúc mừng năm mới với tất cả 6 ca khúc cùng tên, Nhạc sĩ Ngô Tự Lập đã sáng tác ca khúc “Chúc mừng năm mới”. Ca khúc với nét nhạc trữ tình da diết, là lời chúc mừng năm mới và những khát khao về tình yêu, niềm tin và hy vọng nhân dịp đầu xuân …]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/02/09/vovlive_am_nhac_voi_cuoc_song_chuc_mung_nam_moi_ngo_tu_lap.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 09 Feb 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Những tác phẩm ca ngợi Tổ quốc: Sự kết hợp của hai tâm hồn thơ và nhạc</title>
       <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
@@ -57,14 +65,6 @@ Bài hát ngay từ khi ra đời đã được đón nhận sự yêu thích, m
       <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2021/01/19/vovlive_am_nhac_voi_cuoc_song_noi_ay_tinh_yeu_bat_dau_hoang_anh_thong.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 19 Jan 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Tìm hiểu về nguồn gốc của bài dân ca “Bèo dạt mây trôi”</title>
-      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[“Bèo dạt mây trôi” là một bài dân ca với ca từ giản dị, gần gũi với nông thôn Việt Nam. “Bèo dạt mây trôi” sử dụng những hình tượng nghệ thuật như cánh bèo, chim, cá, mây, trăng, gió …tạo ra một khung cảnh nhớ nhung sâu lắng. Tuy rất quen thuộc nhưng hiện chưa có nghiên cứu xác định được chính xác nguồn gốc của bài dân ca này. Bên cạnh ý kiến cho rằng “Bèo dạt mây trôi” là dân ca quan họ Bắc Ninh, nhưng cũng có rất nhiều ý kiến khác nhau về nguồn gốc của bài “Bèo dạt mây trôi”…]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/01/13/vovlive_am_nhac_voi_cuoc_song_beo_dat_may_troi.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 13 Jan 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
