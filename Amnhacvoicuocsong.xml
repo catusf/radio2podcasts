@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 09 Feb 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 17 Feb 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 09 Feb 2021 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 17 Feb 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Âm nhạc với cuộc sống</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Amnhacvoicuocsong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Gặp gỡ nhạc sĩ Đỗ Hồng Quân với tác phẩm âm nhạc  “Xuân”</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[Mùa xuân là mùa của sức sống dâng trào, mùa của vạn vật sinh sôi nảy nở. Mùa xuân cũng chính là nguồn cảm hứng mãnh liệt của các nhà thơ, các nhạc sĩ khi sáng tác những ca khúc say đắm lòng người. Cùng thưởng thức tác phẩm âm nhạc “Xuân” (âm nhạc: nhạc sĩ Đỗ Hồng Quân-Chủ tịch hội Nhạc sĩ Việt Nam, Phó Chủ tịch liên hiệp các Hội Văn học nghệ thuật Việt Nam; lời thơ Lê Ngọc Ninh) với tiếng hát của ca sĩ Đào Tố Loan và lắng nghe chia sẻ của nhạc sĩ về ca khúc này …]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/02/17/vovlive_am_nhac_voi_cuoc_song_gap_go_nhac_si_do_hong_quan_tac_pham_am_nhac_xuan.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 17 Feb 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Nhạc sĩ Ngô Tự Lập với những cung bậc cảm xúc về tình yêu cùng “Chúc mừng năm mới”</title>
       <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
@@ -57,14 +65,6 @@ Bài hát ngay từ khi ra đời đã được đón nhận sự yêu thích, m
       <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2021/01/26/vovlive_am_nhac_voi_cuoc_song_ve_ha_nam_anh_nhe.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 26 Jan 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Gặp gỡ Nhạc sĩ, Trung tá Hoàng Anh Thông,Trưởng đoàn Văn công Phòng không - Không quân với tác phẩm  đoạt giải A thể loại Ca khúc giải thưởng Hội Nhạc sĩ Việt Nam 2020: “Nơi ấy tình yêu bắt đầu”</title>
-      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[Tối 17/1/2021, tại Đài TNVN, Hội Nhạc sỹ Việt Nam đã tổ chức Lễ trao Giải thưởng Âm nhạc Việt Nam năm 2020, vinh danh các nhạc sỹ, nghệ sỹ và công diễn một số tác phẩm đoạt Giải thưởng Âm nhạc năm 2020. Ca khúc “Nơi ấy tình yêu bắt đầu” (lời thơ Nguyễn Hồng Sơn) của nhạc sĩ Hoàng Anh Thông được hội đồng nghệ thuật trao Giải A ở hạng  mục Ca khúc.  Chúng ta cùng lắng nghe những chia sẻ của nhạc sĩ về tác phẩm đặc biệt này …]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/01/19/vovlive_am_nhac_voi_cuoc_song_noi_ay_tinh_yeu_bat_dau_hoang_anh_thong.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 19 Jan 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
