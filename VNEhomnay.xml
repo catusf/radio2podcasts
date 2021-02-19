@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 18 Feb 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 19 Feb 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 18 Feb 2021 11:00:00 +0700</pubDate>
+    <pubDate>Fri, 19 Feb 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Cuộc sống người dân trong tâm dịch Hải Dương</title>
+      <link>https://vnexpress.net/cuoc-song-nguoi-dan-trong-tam-dich-hai-duong-4236996.html</link>
+      <description><![CDATA[3 ngày sau cách ly toàn tỉnh, mọi hoạt động tại Hải Dương tạm ngưng, rào chắn được lập giữa các thôn, xã. Người dân cho hay, chưa bao giờ họ chứng kiến khung cảnh vắng lặng, căng thẳng đến vậy.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/cuoc-song-nguoi-dan-trong-tam-dich-hai-duong-4236996.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/02/19/cuoc-song-nguoi-dan-trong-tam-dich-hai-duong-1613669736.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 19 Feb 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>4 biến thể nCoV ở Việt Nam khác nhau ra sao?</title>
       <link>https://vnexpress.net/4-bien-the-ncov-o-viet-nam-khac-nhau-ra-sao-4236521.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/truot-gia-cua-bao-li-xi-4235477.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/02/14/menh-gia-trong-phong-bao-li-xi-1613314359.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 15 Feb 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Vì sao giới trẻ Việt nhờ công nghệ tìm tình yêu?</title>
-      <link>https://vnexpress.net/vi-sao-gioi-tre-viet-nho-cong-nghe-tim-tinh-yeu-4235256.html</link>
-      <description><![CDATA[Theo thống kê nửa đầu năm 2020 của một app hẹn hò, lượt "quẹt" trên ứng dụng này tại Việt Nam tăng 36%, và tăng vọt trong giai đoạn dịch. Nhóm sử dụng đông nhất là 18-25 tuổi.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/vi-sao-gioi-tre-viet-nho-cong-nghe-tim-tinh-yeu-4235256.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/02/13/vi-sao-gioi-tre-nho-cong-nghe-tim-tinh-yeu-1613231458.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 14 Feb 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
