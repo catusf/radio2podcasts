@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 19 Feb 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 20 Feb 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 19 Feb 2021 11:00:00 +0700</pubDate>
+    <pubDate>Sat, 20 Feb 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Những người rời Hải Dương trước cách ly nói gì?</title>
+      <link>https://vnexpress.net/nhung-nguoi-roi-hai-duong-truoc-cach-ly-noi-gi-4237485.html</link>
+      <description><![CDATA[Trở lại các tỉnh, thành khác sau kỳ nghỉ Tết, người lao động Hải Dương cho biết, họ áp lực vì phải đối mặt với nỗi lo về sức khoẻ, công việc, và cả ánh mắt đề phòng của người xung quanh.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/nhung-nguoi-roi-hai-duong-truoc-cach-ly-noi-gi-4237485.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/02/19/nhung-nguoi-roi-hai-duong-truoc-gio-cach-ly-1613751227.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 20 Feb 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Hải Dương những ngày phong tỏa</title>
       <link>https://vnexpress.net/hai-duong-nhung-ngay-phong-toa-4236996.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/ncov-tren-tu-thi-co-kha-nang-lay-truyen-4235782.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/02/16/ncov-tren-tu-thi-co-kha-nang-lay-truyen-1613411487.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 16 Feb 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Trượt giá của bao lì xì</title>
-      <link>https://vnexpress.net/truot-gia-cua-bao-li-xi-4235477.html</link>
-      <description><![CDATA[Nhiều trẻ em bóc bao, đếm tiền ngay khi nhận; phụ huynh thì áp lực phải cân đối số được nhận và số đi mừng. Theo chuyên gia giáo dục, mệnh giá trong bao ngày càng được quan tâm hơn ý nghĩa vốn có của tục lì xì.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/truot-gia-cua-bao-li-xi-4235477.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/02/14/menh-gia-trong-phong-bao-li-xi-1613314359.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 15 Feb 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
