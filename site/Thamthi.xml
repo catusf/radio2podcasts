@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 13 Feb 2021 03:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 20 Feb 2021 03:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 13 Feb 2021 03:00:00 +0700</pubDate>
+    <pubDate>Sat, 20 Feb 2021 03:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thầm thì</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Thamthi.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Làm sao để cải thiện xuất tinh sớm?</title>
+      <link>https://vnexpress.net/lam-sao-de-cai-thien-xuat-tinh-som-4237346.html</link>
+      <description><![CDATA[Bài tập "hoãn binh", dùng bao cao su dày... là cách nam giới có thể tự cải thiện xuất tinh sớm. Tuy nhiên, cần dựa vào thời gian, chất lượng "cuộc yêu" để chữa được nguyên nhân gốc rễ, theo bác sĩ.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/lam-sao-de-cai-thien-xuat-tinh-som-4237346.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/02/19/cach-cai-thien-xuat-tinh-som-1613724647.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 20 Feb 2021 03:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Tại sao nhiều phụ nữ chưa từng 'đạt đỉnh'?</title>
       <link>https://vnexpress.net/tai-sao-nhieu-phu-nu-chua-tung-dat-dinh-4234933.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/co-the-cai-thien-so-do-cau-nho-4225204.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/01/22/nam-gioi-co-the-cai-thien-so-do-cau-nho-1611314041.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 23 Jan 2021 03:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Vì sao không thể xuất tinh?</title>
-      <link>https://vnexpress.net/vi-sao-khong-the-xuat-tinh-4221605.html</link>
-      <description><![CDATA[Vợ đi làm xa 2 tháng mới về một lần, người đàn ông 30 tuổi thường "tự sướng". Nhưng khi ân ái cùng vợ, anh lại không thể xuất tinh. Bác sĩ cho đây là một loại bệnh lý có thể ảnh hưởng rất nhiều đến sức khỏe và tinh thần.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/vi-sao-khong-the-xuat-tinh-4221605.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/01/15/vi-sao-khong-the-xuat-tinh-1610709614.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 16 Jan 2021 03:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
