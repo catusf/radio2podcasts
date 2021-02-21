@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 20 Feb 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 21 Feb 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 20 Feb 2021 11:00:00 +0700</pubDate>
+    <pubDate>Sun, 21 Feb 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Chuyện 'dở khóc dở cười' khi học online</title>
+      <link>https://vnexpress.net/chuyen-do-khoc-do-cuoi-khi-hoc-online-4237874.html</link>
+      <description><![CDATA[Học sinh nghịch ngợm phát video Huấn 'Hoa Hồng', các cuộc trò chuyện gia đình vô tình được ghi lại... Những tình huống khó kiểm soát khi học online vẫn diễn ra dù đã triển khai rộng từ năm trước.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/chuyen-do-khoc-do-cuoi-khi-hoc-online-4237874.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/02/20/chuyen-do-khoc-do-cuoi-khi-hoc-online-1613833876.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 21 Feb 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Áp lực vì 'ánh mắt đề phòng' người Hải Dương</title>
       <link>https://vnexpress.net/ap-luc-vi-anh-mat-de-phong-nguoi-hai-duong-4237485.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/karaoke-ngay-tet-4236028.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/02/16/khi-tet-que-chim-trong-karaoke-1613490777.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 17 Feb 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>nCoV trên tử thi có khả năng lây truyền?</title>
-      <link>https://vnexpress.net/ncov-tren-tu-thi-co-kha-nang-lay-truyen-4235782.html</link>
-      <description><![CDATA[Liên quan đến người Nhật nhiễm nCoV tử vong trong khách sạn, 139 người đã bị cách ly và điều tra dịch tễ. Liệu virus trên tử thi truyền bệnh bằng cách nào?]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/ncov-tren-tu-thi-co-kha-nang-lay-truyen-4235782.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/02/16/ncov-tren-tu-thi-co-kha-nang-lay-truyen-1613411487.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 16 Feb 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
