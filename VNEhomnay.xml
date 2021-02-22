@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 22 Feb 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 23 Feb 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 22 Feb 2021 11:00:00 +0700</pubDate>
+    <pubDate>Tue, 23 Feb 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Khả năng thành lập đảng mới của Trump</title>
+      <link>https://vnexpress.net/kha-nang-thanh-lap-dang-moi-cua-trump-4238721.html</link>
+      <description><![CDATA[Nước Mỹ có nhiều đảng phái, việc Trump thành lập một đảng mới là khả thi. 70% đảng viên Cộng Hoà cho rằng sẽ cân nhắc tham gia. Dù vậy, nhiều nhận định cho rằng việc Trump tái đắc cử ở vị trí lãnh đạo đảng mới là rất thấp.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/kha-nang-thanh-lap-dang-moi-cua-trump-4238721.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/02/22/kha-nang-thanh-lap-dang-moi-cua-trump-1614012373.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 23 Feb 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Người Việt ở Texas đùm bọc nhau trong thảm họa giá rét</title>
       <link>https://vnexpress.net/nguoi-viet-o-texas-dum-boc-nhau-trong-tham-hoa-gia-ret-4238161.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/hai-duong-nhung-ngay-phong-toa-4236996.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/02/19/hai-duong-nhung-ngay-phong-toa-1613692998.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 19 Feb 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>4 biến thể nCoV ở Việt Nam khác nhau ra sao?</title>
-      <link>https://vnexpress.net/4-bien-the-ncov-o-viet-nam-khac-nhau-ra-sao-4236521.html</link>
-      <description><![CDATA[Biến thể nCoV của Anh gây bệnh tại Hải Dương có khả năng lây nhanh hơn 30-70%. Còn biến thể của Châu Phi liên quan đến ổ dịch Tân Sơn Nhất được cho là có thể lẩn tránh hệ miễn dịch.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/4-bien-the-ncov-o-viet-nam-khac-nhau-ra-sao-4236521.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/02/17/dac-diem-4-bien-the-ncov-o-viet-nam-1613580899.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 18 Feb 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
