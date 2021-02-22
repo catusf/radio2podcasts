@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 15 Feb 2021 18:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 22 Feb 2021 18:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 15 Feb 2021 18:00:00 +0700</pubDate>
+    <pubDate>Mon, 22 Feb 2021 18:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Tiền làm gì?</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Tienlamgi.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Hành trình gây dựng 100 nhà hàng của Quốc Trường</title>
+      <link>https://vnexpress.net/hanh-trinh-gay-dung-100-nha-hang-cua-quoc-truong-4238033.html</link>
+      <description><![CDATA[Không có kiến thức về quản lý vốn, nhân sự, vận hành kinh doanh...Quốc Trường tự nhận mình là "đứa trẻ" khởi nghiệp. Chỉ sau 2 tháng, anh có thêm 2 chi nhánh khác và nhượng quyền thương hiệu ngay trong năm đầu tiên.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/hanh-trinh-gay-dung-100-nha-hang-cua-quoc-truong-4238033.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/02/21/hanh-trinh-gay-dung-100-nha-hang-cua-quoc-truong-1613892752.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 22 Feb 2021 18:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Diễn viên Quốc Trường: 'Tôi khởi nghiệp từ số vốn âm'</title>
       <link>https://vnexpress.net/dien-vien-quoc-truong-toi-khoi-nghiep-tu-so-von-am-4235518.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/cach-lap-ke-hoach-tai-chinh-ca-nhan-cho-nam-moi-4225871.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/01/26/cach-lap-ke-hoach-tai-chinh-ca-nhan-cho-nam-moi-1611625888.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 25 Jan 2021 18:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Cách chi tiêu tiết kiệm khi du lịch cuối năm</title>
-      <link>https://vnexpress.net/cach-chi-tieu-tiet-kiem-khi-du-lich-cuoi-nam-4222019.html</link>
-      <description><![CDATA["Đi là phải hỏi" là cách tiết kiệm hiệu quả nhất của travel blogger Ngô Trần Hải An. Đồng thời, cần lên kế hoạch cụ thể và có một khoản dự trù khoảng 15% trên tổng số tiền định chi tiêu.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/cach-chi-tieu-tiet-kiem-khi-du-lich-cuoi-nam-4222019.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/01/16/cach-chi-tieu-tiet-kiem-va-khong-bi-chat-chem-trong-ky-nghi-cuoi-nam-1610775265.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 18 Jan 2021 18:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
