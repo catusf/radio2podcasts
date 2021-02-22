@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 21 Feb 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 22 Feb 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 21 Feb 2021 11:00:00 +0700</pubDate>
+    <pubDate>Mon, 22 Feb 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Người Việt tại Mỹ hoảng loạn vì giá rét, mất điện</title>
+      <link>https://vnexpress.net/nguoi-viet-tai-my-hoang-loan-vi-gia-ret-mat-dien-4238161.html</link>
+      <description><![CDATA[Là một bang có khí hậu nóng nhưng chỉ sau 1 đêm, Texas hạ nhiệt thấp kỷ lục khiến mọi người không kịp trở tay. Người dân "lùng sục" nhu yếu phẩm gắt gao hơn cả khi đại dịch Covid-19 mới bùng phát.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/nguoi-viet-tai-my-hoang-loan-vi-gia-ret-mat-dien-4238161.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/02/21/nguoi-viet-tai-my-chat-vat-trong-gia-ret-1613922674.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 22 Feb 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Chuyện 'dở khóc dở cười' khi học online</title>
       <link>https://vnexpress.net/chuyen-do-khoc-do-cuoi-khi-hoc-online-4237874.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/4-bien-the-ncov-o-viet-nam-khac-nhau-ra-sao-4236521.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/02/17/dac-diem-4-bien-the-ncov-o-viet-nam-1613580899.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 18 Feb 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Karaoke ngày Tết</title>
-      <link>https://vnexpress.net/karaoke-ngay-tet-4236028.html</link>
-      <description><![CDATA[Với nhiều người, Tết chỉ đơn giản là dịch chuyển việc ăn nhậu và hát karaoke nhưng với các thính giả bất đắc dĩ, đây là nỗi ám ảnh vì bị "tra tấn lỗ tai" từ sáng đến đêm.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/karaoke-ngay-tet-4236028.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/02/16/khi-tet-que-chim-trong-karaoke-1613490777.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 17 Feb 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
