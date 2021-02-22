@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 22 Feb 2021 14:24:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 22 Feb 2021 18:54:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 22 Feb 2021 14:24:00 +0700</pubDate>
+    <pubDate>Mon, 22 Feb 2021 18:54:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Số hoá đường hoa Nguyễn Huệ - Thời sự 11g00 22/2/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/so-hoa-duong-hoa-nguyen-hue-thoi-su-11g00-22-2-2021-394482.html</link>
+      <description><![CDATA[11:54 - 22/02/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/so-hoa-duong-hoa-nguyen-hue-thoi-su-11g00-22-2-2021-394482.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/02/22/AMThoisu11h00p220221.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 22 Feb 2021 18:54:00 +0700</pubDate>
+    </item>
     <item>
       <title>Bài 1 “Chủ động cho hành trình mới” - Thời sự 5g30 22/2/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/bai-1-chu-dong-cho-hanh-trinh-moi-thoi-su-5g30-22-2-2021-394420.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/lanh-dao-dang-nha-nuoc-vieng-nguyen-pho-thu-tuong-truong-vinh-trong-thoi-su-17g00-21-2-2021-394403.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/02/21/AMThoisu17h00p210221.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 22 Feb 2021 06:20:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Vang vọng trống Chầu – tìm về nguồn cội - Thời sự 11g00 21/2/20201</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/vang-vong-trong-chau-tim-ve-nguon-coi-thoi-su-11g00-21-2-20201-394389.html</link>
-      <description><![CDATA[17:35 - 21/02/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/vang-vong-trong-chau-tim-ve-nguon-coi-thoi-su-11g00-21-2-20201-394389.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/02/21/AMThoisu11h00p210221-Copy.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 22 Feb 2021 00:35:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
