@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 24 Jan 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 16 Feb 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 24 Jan 2021 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 16 Feb 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Điểm hẹn văn nghệ</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Diemhenvannghe.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>“Gió lạnh đầu mùa”: Nhen lên ngọn lửa yêu thương 24/1/2021</title>
+      <title>"Người trở về": Bộ phim xúc động về đề tài hậu chiến 16/2/2021</title>
+      <link>http://vov6.vov.vn/diem-hen-van-nghe/nguoi-tro-ve-bo-phim-xuc-dong-ve-de-tai-hau-chien-c158-32351.aspx</link>
+      <description><![CDATA[Lấy ý tưởng từ truyện ngắn “Người về bên bến sông Châu” của nhà văn Sương Nguyệt Minh, "Người trở về" nói về cuộc đời của Mây - cô gái trẻ từ chiến trường trở về vào đúng ngày người yêu đi lấy vợ. (Điểm hẹn văn nghệ 06/02/2021)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/nguoi-tro-ve-bo-phim-xuc-dong-ve-de-tai-hau-chien-c158-32351.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_2/v2_06_02_08h00_diem_hen_van_nghe_pl_18h30_162202115.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 16 Feb 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>“Gió lạnh đầu mùa”: Nhen lên ngọn lửa yêu thương  24/1/2021</title>
       <link>http://vov6.vov.vn/diem-hen-van-nghe/gio-lanh-dau-mua-nhen-len-ngon-lua-yeu-thuong-c158-32306.aspx</link>
       <description><![CDATA[Nhà văn Thạch Lam là cây bút xuất sắc của văn học Việt Nam giai đoạn 1930 - 1945. “Gió lạnh đầu mùa” (sáng tác năm 1937) là một trong những tác phẩm nổi tiếng của ông. (Điểm hẹn văn nghệ 23/01/2021)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/gio-lanh-dau-mua-nhen-len-ngon-lua-yeu-thuong-c158-32306.aspx</guid>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/mua-xuan-vinh-cuu-kiet-tac-cua-danh-hoa-botticeli-c158-32266.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_1/v2_09_01_08h0018h30_diem_hen_van_nghe_121202121.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 12 Jan 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>“Bơ không phải để ăn”: Lung linh một món quà xinh  3/1/2021</title>
-      <link>http://vov6.vov.vn/diem-hen-van-nghe/bo-khong-phai-de-an-lung-linh-mot-mon-qua-xinh-c158-32242.aspx</link>
-      <description><![CDATA["Mình là Bơ. Nhưng bơ này không phải để ăn nhé!"- tác phẩm văn học thiếu nhi có nhan đề dễ thương “Bơ không phải để ăn” (Nhà xuất bản Phụ nữ) của nhóm tác giả Trần Quốc Anh, Huỳnh Trọng Khang và Chung Bảo Ngân. (Điểm hẹn văn nghệ 26/12/2020)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/bo-khong-phai-de-an-lung-linh-mot-mon-qua-xinh-c158-32242.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_1/v2_2612_08h00_18h30_diem_hen_van_nghe_31202113.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 03 Jan 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

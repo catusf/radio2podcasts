@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 04 Feb 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 05 Feb 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 04 Feb 2021 19:00:00 +0700</pubDate>
+    <pubDate>Fri, 05 Feb 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Tìm trong kho báu</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Timtrongkhobau.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Dấu ấn sáng tác Nôm của "Thánh Thơ" Cao Bá Quát4/2/2021</title>
+      <title>Đặc sắc cảnh ngày xuân trong kiệt tác "Truyện Kiều"5/2/2021</title>
+      <link>http://vov6.vov.vn/tim-trong-kho-bau/dac-sac-canh-ngay-xuan-trong-kiet-tac-truyen-kieu-c54-32330.aspx</link>
+      <description><![CDATA[Trong 3254 câu thơ lục bát “Truyện Kiều”, chữ “Xuân” trở đi trở lại. Theo các nhà nghiên cứu có 55 dòng thơ chứa 58 chữ “Xuân”. Dưới ngòi bút điêu luyện của Đại thi hào Nguyễn Du, chữ “Xuân” biến ảo trong nhiều ý nghĩa, hay nói cách khác, trường nghĩa của “Xuân” rất rộng. Đặc biệt, nhữn ngày xuân, đọc lại tuyệt tác “Truyện Kiều” và thong dong ngẫm ngợi nghĩa lý của chữ “Xuân” cũng là một sự thú vị. Nói theo cách của nhà văn Nguyễn Tuân là “tìm thấy cái nhã thú văn chương trong chữ xuân” (Tìm trong kho báu phát 11/2/2020)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/dac-sac-canh-ngay-xuan-trong-kiet-tac-truyen-kieu-c54-32330.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/v2_111502_08h00_tim_trong_kho_bau_pl_18h30_13220219.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 05 Feb 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Dấu ấn sáng tác Nôm của "Thánh Thơ" Cao Bá Quát 4/2/2021</title>
       <link>http://vov6.vov.vn/tim-trong-kho-bau/dau-an-sang-tac-nom-cua-thanh-tho-cao-ba-quat-c54-32327.aspx</link>
       <description><![CDATA[Từ nhỏ đã nổi tiếng thần đồng, tuổi trưởng thành, Cao Bá Quát dành nhiều tâm huyết để sáng tác thơ, trong đó phần nhiều là thơ chữ Hán. Trong đó phải kể đến các tập “Cao Bá Quát thi tập”, “Cúc Đường thi thảo”, “Cao Chu Thần di cảo”, “Mẫn Hiên thi tập”. Tổng cộng thơ chữ Hán của ông phải đến hơn nghìn bài. Tuy số lượng thơ Nôm không nhiều nhưng suốt cuộc đời, nhà thơ Cao Bá Quát luôn coi trọng vai trò, vị trí của dòng thơ Quốc âm trong nền văn học dân tộc. Những quan niệm về văn chương, học thuật của ông được trình bày ở một số bài Tự, Bạt và thơ của ông, thí dụ bài “Tựa Truyện Hoa Tiên” của Nguyễn Huy Tự, bài “Bạt” cho tập thơ của Thương Sơn (tức Tùng Thiện vương Miên Thẩm), Bài “Hậu đề” cho tập thơ “Yên đài anh ngữ” của Bùi Quỹ...]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/dau-an-sang-tac-nom-cua-thanh-tho-cao-ba-quat-c54-32327.aspx</guid>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/truyen-kieu-va-nguyen-du-tren-bao-chi-quoc-ngu-nam-bo-nua-dau-the-ky-20-c54-32314.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/v2_28010102_08h00_tim_trong_kho_bau_pl_18h30_281202115.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 27 Jan 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Từ Truyện thơ Nôm đến thơ Nôm lục bát hiện đại 21/1/2021</title>
-      <link>http://vov6.vov.vn/tim-trong-kho-bau/tu-truyen-tho-nom-den-tho-nom-luc-bat-hien-dai-c54-32293.aspx</link>
-      <description><![CDATA[Cùng với thơ Nôm Đường luật thì truyện thơ Nôm đóng vai trò quan trọng đồng hành với đời sống tinh thần người Việt ta nhiều đời nay. Truyện Nôm hướng tới tầng lớp xã hội nào, lấy cốt truyện Trung Hoa hay sáng tác, ra đời trong dân gian hay có đề tác giả thì đều hướng tới những giá trị đạo đức và ứng xử tốt đẹp, nêu cao thuần phong mỹ tục của dân tộc. Chương trình hôm nay đưa ra một số góc nhìn về sự chuyển động của truyện thơ Nôm gắn với thể thơ lục bát truyền thống...]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/tu-truyen-tho-nom-den-tho-nom-luc-bat-hien-dai-c54-32293.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_1/v2_21_2501_08h00_tim_trong_kho_bau_pl_18h30_211202111.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 21 Jan 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
