@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 15 Feb 2021 03:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 22 Feb 2021 03:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 15 Feb 2021 03:00:00 +0700</pubDate>
+    <pubDate>Mon, 22 Feb 2021 03:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sóng điện ảnh trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Songdienanh.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Phim Thái Lan - Khung hình thứ 25 21/2/2021</title>
+      <link>https://radio.voh.com.vn/khung-hinh-thu-25/phim-thai-lan-khung-hinh-thu-25-21-2-2021-394399.html</link>
+      <description><![CDATA[20:00 - 21/02/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/khung-hinh-thu-25/phim-thai-lan-khung-hinh-thu-25-21-2-2021-394399.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/02/21/khunghinh-210221.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 22 Feb 2021 03:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Nhìn lại điện ảnh Việt Nam 2020 - Khung hình thứ 25 14/2/2021</title>
       <link>https://radio.voh.com.vn/khung-hinh-thu-25/nhin-lai-dien-anh-viet-nam-2020-khung-hinh-thu-25-14-2-2021-393986.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/khung-hinh-thu-25/5-phim-an-khach-nhat-5-phim-hay-nhat-va-5-phim-tham-hoa-nhat-nam-2020-khung-hinh-thu-25-24-1-2021-391966.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/01/25/khunghinh-240121.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 25 Jan 2021 03:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Giao lưu với đoàn phim "Em là của em" (P.2) - Khung hình thứ 25 17/1/2021</title>
-      <link>https://radio.voh.com.vn/khung-hinh-thu-25/giao-luu-voi-doan-phim-em-la-cua-em-p-2-khung-hinh-thu-25-17-1-2021-391206.html</link>
-      <description><![CDATA[20:00 - 17/01/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/khung-hinh-thu-25/giao-luu-voi-doan-phim-em-la-cua-em-p-2-khung-hinh-thu-25-17-1-2021-391206.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/01/17/khunghinh-170121.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 18 Jan 2021 03:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
