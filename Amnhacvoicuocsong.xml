@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 17 Feb 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 23 Feb 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 17 Feb 2021 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 23 Feb 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Âm nhạc với cuộc sống</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Amnhacvoicuocsong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Câu chuyện tình bạn giữa Nhạc sĩ Hoàng Giai và Bác sĩ Nguyễn Hồng Hà thể hiện trong thơ, nhạc và cuộc sống</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[Kỷ niệm 66 năm ngày thầy thuốc Việt Nam (27/2/1955-27/2/2021) cùng gặp gỡ Đại tá, Bác sĩ, Tiến sĩ Y học Nguyễn Hồng Hà, nguyên Phó chủ nhiệm bộ môn Phẫu thuật thực nghiệm Học viện Quân y và Nhạc sĩ Hoàng Giai.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/02/23/vovlive_am_nhac_voi_cuoc_song_tinh_ban_nhac_si_bac_si.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 23 Feb 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Gặp gỡ nhạc sĩ Đỗ Hồng Quân với tác phẩm âm nhạc  “Xuân”</title>
       <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
@@ -57,14 +65,6 @@ Bài hát ngay từ khi ra đời đã được đón nhận sự yêu thích, m
       <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2021/02/02/vovlive_am_nhac_voi_cuoc_song_nhung_ca_khuc_ca_ngoi_to_quoc.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 02 Feb 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Câu chuyện về quê hương và chân dung người vẽ cờ Tổ quốc, người chiến sĩ Cộng sản kiên trung Nguyễn Hữu Tiến</title>
-      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[Ca khúc “Về Hà Nam anh nhé” của nhà báo Tào Khánh Hưng, Phó TBT Báo Xây Dựng gửi đến chương trình như một món quà để chào mừng Đại hội Đại biểu toàn quốc của Đảng lần thứ XIII. Ca khúc là bức tranh bằng âm thanh sinh động về quê hương Hà Nam anh hùng, đồng thời khắc họa chân dung của người anh hùng kiên trung Nguyễn Hữu Tiến …]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/01/26/vovlive_am_nhac_voi_cuoc_song_ve_ha_nam_anh_nhe.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 26 Jan 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
