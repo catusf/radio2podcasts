@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 20 Feb 2021 03:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 27 Feb 2021 03:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 20 Feb 2021 03:00:00 +0700</pubDate>
+    <pubDate>Sat, 27 Feb 2021 03:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thầm thì</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Thamthi.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Tại sao 'cậu nhỏ' mất hứng khi mặc 'áo mưa'?</title>
+      <link>https://vnexpress.net/tai-sao-cau-nho-mat-hung-khi-mac-ao-mua-4240777.html</link>
+      <description><![CDATA[Nhiều nam giới cho rằng mình gặp vấn đề sinh lý vì "cậu nhỏ" tiu nghỉu khi mặc "áo mưa". Theo bác sĩ, nguyên nhân có thể do rối loạn rung cảm hoặc chọn nhầm "áo mưa".]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/tai-sao-cau-nho-mat-hung-khi-mac-ao-mua-4240777.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/02/26/tai-sao-cau-nho-mat-hung-khi-mac-ao-mua-1614342810.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 27 Feb 2021 03:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Làm sao để cải thiện xuất tinh sớm?</title>
       <link>https://vnexpress.net/lam-sao-de-cai-thien-xuat-tinh-som-4237346.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/dan-ong-nguc-no-co-binh-thuong-4228498.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/01/29/nguc-to-bat-thuong-o-nam-gioi-1611906954.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 06 Feb 2021 03:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Có thể cải thiện số đo 'cậu nhỏ'?</title>
-      <link>https://vnexpress.net/co-the-cai-thien-so-do-cau-nho-4225204.html</link>
-      <description><![CDATA[Chăm chỉ luyện tập, bổ sung testosterone hay phẫu thuật thẩm mỹ, bơm mỡ tự thân... được nhiều người cho là giúp tăng số đo "cậu nhỏ". Liệu những phương pháp này hiệu quả tới đâu?]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/co-the-cai-thien-so-do-cau-nho-4225204.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/01/22/nam-gioi-co-the-cai-thien-so-do-cau-nho-1611314041.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 23 Jan 2021 03:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
