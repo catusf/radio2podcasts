@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 21 Feb 2021 03:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 28 Feb 2021 03:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 21 Feb 2021 03:00:00 +0700</pubDate>
+    <pubDate>Sun, 28 Feb 2021 03:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -30,6 +30,14 @@
       <guid isPermaLink="false">https://vnexpress.net/toi-khong-biet-lam-sao-de-co-tinh-cam-voi-chong-4237510.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/02/21/toi-khong-biet-lam-sao-de-co-tinh-cam-voi-chong-1613878088.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 21 Feb 2021 03:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>'Kiếm tiền nuôi chồng, tôi bị chì chiết theo trai'</title>
+      <link>https://vnexpress.net/kiem-tien-nuoi-chong-toi-bi-chi-chiet-theo-trai-4235013.html</link>
+      <description><![CDATA[Sau 8 năm về nhà chồng, tài sản của Tuyết chỉ có 2 đứa con và 3 bộ quần áo. Do chồng bỏ mặc kinh tế gia đình, Tuyết quyết định đi xa kiếm tiền thì bị nhà chồng xúc phạm "cô đi theo trai".]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/kiem-tien-nuoi-chong-toi-bi-chi-chiet-theo-trai-4235013.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/02/27/kiem-tien-nuoi-chong-toi-bi-chi-chiet-theo-trai-1614435242.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 28 Feb 2021 03:00:00 +0700</pubDate>
     </item>
     <item>
       <title>Thù hận vì 'vợ quen người mới sau một tháng ly hôn'</title>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/chong-chui-boi-khi-toi-khong-the-tiep-tuc-nuoi-anh-4228710.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/01/30/bi-tach-khoi-2-con-nho-toi-roi-nha-chong-cung-khoan-no-khong-lo-1612005280.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 31 Jan 2021 03:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>'Sống địa ngục vì chồng kiểm soát, coi trọng sự trong trắng'</title>
-      <link>https://vnexpress.net/song-dia-nguc-vi-chong-kiem-soat-coi-trong-su-trong-trang-4225414.html</link>
-      <description><![CDATA[Như bảo, chồng cô cho rằng việc vợ không còn trong trắng là một sự sỉ nhục. Sát ngày cưới, anh buộc cô đốt hết quần áo để khép lại quá khứ. Nhưng cuộc hôn nhân cũng không kéo dài lâu.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/song-dia-nguc-vi-chong-kiem-soat-coi-trong-su-trong-trang-4225414.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/01/23/song-dia-nguc-vi-chong-coi-trong-su-trong-trang-1611405974.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 24 Jan 2021 03:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
