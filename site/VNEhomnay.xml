@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 28 Feb 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 01 Mar 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 28 Feb 2021 11:00:00 +0700</pubDate>
+    <pubDate>Mon, 01 Mar 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>'Tác dụng phụ của vaccine có thể là dấu hiệu tốt'</title>
+      <link>https://vnexpress.net/tac-dung-phu-cua-vaccine-co-the-la-dau-hieu-tot-4241437.html</link>
+      <description><![CDATA[78% người tiêm vaccine Pfizer bị đau cơ, số người bị sốt, mệt mỏi là khoảng 50-60%. AstraZeneca gây nhiều tác dụng phụ hơn Pfizer. Tuy nhiên theo bác sĩ, đây có thể là dấu hiệu tốt.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/tac-dung-phu-cua-vaccine-co-the-la-dau-hieu-tot-4241437.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/01/tac-dung-phu-cua-vaccine-co-the-la-dau-hieu-tot-1614531941.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 01 Mar 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Nhìn nhận vaccine khác biệt của Anh và EU</title>
       <link>https://vnexpress.net/nhin-nhan-vaccine-khac-biet-cua-anh-va-eu-4241181.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/vaccine-astrazeneca-hieu-qua-ra-sao-voi-bien-the-ncov-4239833.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/02/24/vaccine-astrazeneca-hieu-qua-ra-sao-voi-cac-bien-the-ncov-1614184685.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 25 Feb 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Lễ chùa, cầu an, giải hạn mùa dịch bệnh</title>
-      <link>https://vnexpress.net/le-chua-cau-an-giai-han-mua-dich-benh-4239241.html</link>
-      <description><![CDATA[Theo các thiền sư, các lễ giải hạn chỉ là nghi thức. Để phòng dịch, người dân nên thành tâm cầu an tại nhà hoặc trực tuyến thông qua mạng xã hội của Giáo hội Phật giáo Việt Nam.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/le-chua-cau-an-giai-han-mua-dich-benh-4239241.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/02/23/le-chua-cau-an-giai-han-mua-dich-benh-1614094592.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 24 Feb 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
