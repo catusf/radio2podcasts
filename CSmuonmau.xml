@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 22 Feb 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 27 Feb 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 22 Feb 2021 19:00:00 +0700</pubDate>
+    <pubDate>Sat, 27 Feb 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,12 +24,44 @@
     <itunes:subtitle>Cuộc sống muôn màu</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/CSmuonmau.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Cuộc sống muôn màu 22-02-2021</title>
+      <title>Cuộc sống muôn màu 27-02-2021</title>
       <link>http://www.drt.danang.vn/chuong_trinh-199-cuoc_song_muon_mau</link>
-      <description><![CDATA[Cuộc sống muôn màu 22-02-2021]]></description>
+      <description><![CDATA[Cuộc sống muôn màu 27-02-2021]]></description>
       <guid isPermaLink="false">http://www.drt.danang.vn/chuong_trinh-199-cuoc_song_muon_mau</guid>
-      <enclosure url="http://www.drt.danang.vn/Uploads/Media/AUDIO/CUOC SONG MUON MAU/NAM 2021/THANG 2/CUOC SONG MUON MAU PHAT 22-02-2021.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 22 Feb 2021 19:00:00 +0700</pubDate>
+      <enclosure url="http://www.drt.danang.vn/Uploads/Media/AUDIO/CUOC SONG MUON MAU/NAM 2021/THANG 2/CUOC SONG MUON MAU PHAT 27-02-2021.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 27 Feb 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Cuộc sống muôn màu 26-02-2021</title>
+      <link>http://www.drt.danang.vn/truyen_hinh-43151-199</link>
+      <description><![CDATA[Cuộc sống muôn màu 26-02-2021]]></description>
+      <guid isPermaLink="false">http://www.drt.danang.vn/truyen_hinh-43151-199</guid>
+      <enclosure url="http://www.drt.danang.vn/Uploads/Media/AUDIO/CUOC SONG MUON MAU/NAM 2021/THANG 2/CUOC SONG MUON MAU PHAT 26-02-2021.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 26 Feb 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Cuộc sống muôn màu 25-02-2021</title>
+      <link>http://www.drt.danang.vn/truyen_hinh-43150-199</link>
+      <description><![CDATA[Cuộc sống muôn màu 25-02-2021]]></description>
+      <guid isPermaLink="false">http://www.drt.danang.vn/truyen_hinh-43150-199</guid>
+      <enclosure url="http://www.drt.danang.vn/Uploads/Media/AUDIO/CUOC SONG MUON MAU/NAM 2021/THANG 2/CUOC SONG MUON MAU PHAT 25-02-2021.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 25 Feb 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Cuộc sống muôn màu 24-02-2021</title>
+      <link>http://www.drt.danang.vn/truyen_hinh-43149-199</link>
+      <description><![CDATA[Cuộc sống muôn màu 24-02-2021]]></description>
+      <guid isPermaLink="false">http://www.drt.danang.vn/truyen_hinh-43149-199</guid>
+      <enclosure url="http://www.drt.danang.vn/Uploads/Media/AUDIO/CUOC SONG MUON MAU/NAM 2021/THANG 2/CUOC SONG MUON MAU PHAT 24-02-2021.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 24 Feb 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Cuộc sống muôn màu 23-02-2021</title>
+      <link>http://www.drt.danang.vn/truyen_hinh-43148-199</link>
+      <description><![CDATA[Cuộc sống muôn màu 23-02-2021]]></description>
+      <guid isPermaLink="false">http://www.drt.danang.vn/truyen_hinh-43148-199</guid>
+      <enclosure url="http://www.drt.danang.vn/Uploads/Media/AUDIO/CUOC SONG MUON MAU/NAM 2021/THANG 2/CUOC SONG MUON MAU PHAT 23-02-2021.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 23 Feb 2021 19:00:00 +0700</pubDate>
     </item>
     <item>
       <title>Cuộc sống muôn màu 22-02-2021</title>
@@ -38,38 +70,6 @@
       <guid isPermaLink="false">http://www.drt.danang.vn/truyen_hinh-42979-199</guid>
       <enclosure url="http://www.drt.danang.vn/Uploads/Media/AUDIO/CUOC SONG MUON MAU/NAM 2021/THANG 2/CUOC SONG MUON MAU PHAT 22-02-2021.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 22 Feb 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Cuộc sống muôn màu 20-02-2021</title>
-      <link>http://www.drt.danang.vn/truyen_hinh-42978-199</link>
-      <description><![CDATA[Cuộc sống muôn màu 20-02-2021]]></description>
-      <guid isPermaLink="false">http://www.drt.danang.vn/truyen_hinh-42978-199</guid>
-      <enclosure url="http://www.drt.danang.vn/Uploads/Media/AUDIO/CUOC SONG MUON MAU/NAM 2021/THANG 2/CUOC SONG MUON MAU PHAT 20-02-2021.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 20 Feb 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Cuộc sống muôn màu 19-02-2021</title>
-      <link>http://www.drt.danang.vn/truyen_hinh-42977-199</link>
-      <description><![CDATA[Cuộc sống muôn màu 19-02-2021]]></description>
-      <guid isPermaLink="false">http://www.drt.danang.vn/truyen_hinh-42977-199</guid>
-      <enclosure url="http://www.drt.danang.vn/Uploads/Media/AUDIO/CUOC SONG MUON MAU/NAM 2021/THANG 2/CUOC SONG MUON MAU PHAT 19-02-2021.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 19 Feb 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Cuộc sống muôn màu 18-02-2021</title>
-      <link>http://www.drt.danang.vn/truyen_hinh-42976-199</link>
-      <description><![CDATA[Cuộc sống muôn màu 18-02-2021]]></description>
-      <guid isPermaLink="false">http://www.drt.danang.vn/truyen_hinh-42976-199</guid>
-      <enclosure url="http://www.drt.danang.vn/Uploads/Media/AUDIO/CUOC SONG MUON MAU/NAM 2021/THANG 2/CUOC SONG MUON MAU PHAT 18-02-2021.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 18 Feb 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Cuộc sống muôn màu 17-02-2021</title>
-      <link>http://www.drt.danang.vn/truyen_hinh-42975-199</link>
-      <description><![CDATA[Cuộc sống muôn màu 17-02-2021]]></description>
-      <guid isPermaLink="false">http://www.drt.danang.vn/truyen_hinh-42975-199</guid>
-      <enclosure url="http://www.drt.danang.vn/Uploads/Media/AUDIO/CUOC SONG MUON MAU/NAM 2021/THANG 2/CUOC SONG MUON MAU PHAT 17-02-2021.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 17 Feb 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
