@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 22 Feb 2021 18:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 01 Mar 2021 18:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 22 Feb 2021 18:00:00 +0700</pubDate>
+    <pubDate>Mon, 01 Mar 2021 18:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Tiền làm gì?</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Tienlamgi.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Midu: 'Kinh doanh là phải chấp nhận rủi ro'</title>
+      <link>https://vnexpress.net/midu-kinh-doanh-la-phai-chap-nhan-rui-ro-4241457.html</link>
+      <description><![CDATA[Có trong tay một thương hiệu quần áo và mỹ phẩm riêng, Midu cho rằng, điều cô học được sau 10 năm kinh doanh là chấp nhận rủi ro, thất bại là điều tất yếu.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/midu-kinh-doanh-la-phai-chap-nhan-rui-ro-4241457.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/01/midu-kinh-doanh-la-phai-chap-nhan-rui-ro-1614533262.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 01 Mar 2021 18:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Hành trình gây dựng 100 nhà hàng của Quốc Trường</title>
       <link>https://vnexpress.net/hanh-trinh-gay-dung-100-nha-hang-cua-quoc-truong-4238033.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/nhung-luu-y-khi-vay-tieu-dung-dip-cuoi-nam-4225878.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/02/01/nhung-luu-y-khi-vay-tieu-dung-dip-cuoi-nam-1612115492.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 01 Feb 2021 18:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Cách lập kế hoạch tài chính cá nhân cho năm mới</title>
-      <link>https://vnexpress.net/cach-lap-ke-hoach-tai-chinh-ca-nhan-cho-nam-moi-4225871.html</link>
-      <description><![CDATA[Sau một năm biến động do Covid-19, người lao động cần nhìn lại ngân sách năm 2020, xác định lại mục tiêu tài chính, cân đối thu chi, với khoản dư nên ưu tiên tiết kiệm.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/cach-lap-ke-hoach-tai-chinh-ca-nhan-cho-nam-moi-4225871.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/01/26/cach-lap-ke-hoach-tai-chinh-ca-nhan-cho-nam-moi-1611625888.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 25 Jan 2021 18:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
