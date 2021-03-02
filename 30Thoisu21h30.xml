@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>Thức cùng VOV</title>
-    <link>http://vov1.vov.vn/thuc-cung-vov-cmobile133.aspx</link>
-    <description>Thức cùng VOV</description>
+    <title>30 Thời sự 21h30</title>
+    <link>http://vov1.vov.vn/thoi-su-21h30-cmobile29.aspx</link>
+    <description>Thời sự 21h30</description>
     <itunes:explicit>no</itunes:explicit>
-    <copyright>tcvov</copyright>
+    <copyright>ts22h</copyright>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
@@ -16,12 +16,12 @@
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
-    <itunes:image href="https://catusf.github.io/radio2podcasts/ThuccungVOV.png"/>
+    <itunes:image href="https://catusf.github.io/radio2podcasts/30Thoisu21h30.png"/>
     <itunes:owner>
       <itunes:name>catus.phan</itunes:name>
       <itunes:email>catus.phan@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:subtitle>Thức cùng VOV</itunes:subtitle>
-    <atom:link href="https://catusf.github.io/radio2podcasts/ThuccungVOV.xml" rel="self" type="application/rss+xml"/>
+    <itunes:subtitle>Thời sự 21h30</itunes:subtitle>
+    <atom:link href="https://catusf.github.io/radio2podcasts/30Thoisu21h30.xml" rel="self" type="application/rss+xml"/>
   </channel>
 </rss>
