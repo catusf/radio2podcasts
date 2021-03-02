@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 23 Feb 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 02 Mar 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 23 Feb 2021 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 02 Mar 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Âm nhạc với cuộc sống</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Amnhacvoicuocsong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>“Xuân biên cương” - Món quà âm nhạc gửi tặng những người lính biên phòng</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[Kỷ niệm 62 năm ngày truyền thống Bộ đội Biên phòng Việt Nam (3/3/1959-3/3/2021), cùng lắng nghe ca khúc “Xuân biên cương” của Giảng viên thanh nhạc trường Đại học Văn hóa Nghệ thuật Quân đội - Ca sĩ Hiền Xuân cùng những chia sẻ của nữ tác giả về ca khúc này…]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/03/02/vovlive_am_nhac_voi_cuoc_song_xuan_bien_cuong_hien_xuan.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 02 Mar 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Câu chuyện tình bạn giữa Nhạc sĩ Hoàng Giai và Bác sĩ Nguyễn Hồng Hà thể hiện trong thơ, nhạc và cuộc sống</title>
       <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
@@ -46,25 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2021/02/09/vovlive_am_nhac_voi_cuoc_song_chuc_mung_nam_moi_ngo_tu_lap.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 09 Feb 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Những tác phẩm ca ngợi Tổ quốc: Sự kết hợp của hai tâm hồn thơ và nhạc</title>
-      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[Trong chương trình, lắng nghe một số tác phẩm ca ngợi Tổ quốc:
-- Ca khúc: Cung đàn mùa xuân 
-                  Sáng tác: Nhạc sĩ, NSND Cao Việt Bách
-                  Thơ: Lưu Trọng Lư
-“Cung đàn mùa xuân” như một minh chứng cho câu chuyện tình yêu đôi lứa hòa chung tình yêu đất nước mênh mang, cũng là minh chứng cho sự đồng điệu giữa tâm hồn nhạc sĩ và tâm hồn nhà thơ đã tạo ra tác phẩm âm nhạc hay đi cùng năm tháng.
- – Ca khúc: Tổ quốc
-                  Âm nhạc: Nhạc sĩ Lê Quang
-                   Lời thơ: Nhà Thơ Nguyễn Thế Kỷ
-Bài hát ngay từ khi ra đời đã được đón nhận sự yêu thích, mến mộ của đông đảo công chúng yêu nhạc.
-- Ca khúc: Tổ quốc gọi tên mình
-                 Âm nhạc: Nhạc sĩ Đinh Trung Cẩn
-                Thơ: Nguyễn Phan Quế Mai)]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/02/02/vovlive_am_nhac_voi_cuoc_song_nhung_ca_khuc_ca_ngoi_to_quoc.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 02 Feb 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
