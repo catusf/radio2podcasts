@@ -8,8 +8,9 @@
             "name": "Python: Current File",
             "type": "python",
             "request": "launch",
-            "program": "${file}",
-            "console": "integratedTerminal"
+            "program": "radio2podcasts/__main__.py",
+            "console": "integratedTerminal",
+            "args": ["--input=podcasts.json", "--output=index.html", "--debug="]
         }
     ]
 }
