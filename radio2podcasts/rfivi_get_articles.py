@@ -46,19 +46,16 @@ def get_articles_from_html(soup, url, no_items, item_titles=None):
         vt_tz = pytz.timezone('Europe/Paris')
 
         pub_date = parser.parse(time_string).astimezone(vt_tz)
-
         
         headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0'}
 
         spage = requests.get(link, headers=headers)
         ssoup = BeautifulSoup(spage.content, 'html.parser')
 
-        # print(spage.content)
-        child = ssoup.select_one('button.m-feed-sub__audio').select_one('script')
+        child = ssoup.select_one('div.t-content__body').select_one('a')
+        description = pub_date.strftime(r'%d-%m-%Y ') + title
+        media = child.get('href')
         
-        j=json.loads(list(child.children)[0])
-        media = j['sources'][0]['url']
-        title = description = j['diffusion']['title'] + " " + str(pub_date.date())
         mime = 'audio/mpeg'
 
         print(link, title, pub_date)

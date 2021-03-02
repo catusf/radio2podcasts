@@ -6,10 +6,12 @@ import collections
 import os
 import os.path
 import json
+import re
+import argparse
 
 from jinja2 import Environment, FileSystemLoader
 
-from podcasts_utils import output_rss, rss_from_webpage, send_mail_on_error
+from podcasts_utils import output_rss, rss_from_webpage, number_in_cirle, send_mail_on_error
 
 from create_cover_image import create_image
 from remove_marks import remove_marks
@@ -21,6 +23,9 @@ import drt_get_articles
 import vnexpress_get_articles
 import vovlive_get_articles
 import rfivi_get_articles
+import ppud_get_articles
+
+DE = True # False  
 
 CWD = os.getcwd()
 
@@ -40,25 +45,39 @@ PROCESS_FUNCTIONS = {
     'https://vnexpress.net/podcast': vnexpress_get_articles.get_articles_from_html,
     'https://vovlive.vn/': vovlive_get_articles.get_articles_from_html,
     'https://www.rfi.fr/vi/': rfivi_get_articles.get_articles_from_html,
+    'https://phatphapungdung.com/sach-noi/': ppud_get_articles.get_articles_from_html,
 }
 
 def main():
     """
-    Entry point
-    :return:
+    Entry point of the module
+    :return: error code is issue occurs
     """
 
+    parser = argparse.ArgumentParser()
+    parser.add_argument('-i', '--input', help='Name of JSON input file for podcast feed', type=str, required=True)
+    parser.add_argument('-o', '--output', help='Name of HTML output file containing description of all podcasts', type=str, required=True)
+    parser.add_argument('-d','--debug', help='Debug mode True/False', default=False, type=bool)
+    args = parser.parse_args()
+
     global PODCASTS
+
+    if args.debug:
+        debug_sites = {'RFI',}
 
     if not os.path.exists(PODCASTS_FOLDER):
         os.makedirs(PODCASTS_FOLDER)
 
-    with open('podcasts.json', 'r', encoding='utf-8') as outfile:
+    with open(args.input, 'r', encoding='utf-8') as outfile:
         PODCASTS = json.load(outfile)
 
-    for site in PODCASTS['websites']:
-        site_url = PODCASTS['websites'][site]['home']
-        PODCASTS['websites'][site]['function'] = PROCESS_FUNCTIONS[site_url]
+    for sitename in PODCASTS['websites']:
+        if args.debug:
+            if not sitename in debug_sites:
+                continue
+
+        site_url = PODCASTS['websites'][sitename]['home']
+        PODCASTS['websites'][sitename]['function'] = PROCESS_FUNCTIONS[site_url]
 
     feed_settings = collections.namedtuple('feed_settings',
                                            {'source_page_url',
@@ -76,7 +95,7 @@ def main():
 
     file_loader = FileSystemLoader(os.path.join(os.getcwd(), 'templates'))
     env = Environment(loader=file_loader)
-    index_file_name = 'index.html'
+    index_file_name = args.output
     index_file_path = PODCASTS_FOLDER + index_file_name
 
     template = env.get_template('template.html')
@@ -84,6 +103,10 @@ def main():
     render_sites = []
 
     for sitename in PODCASTS['websites']:
+        if args.debug:
+            if not sitename in debug_sites:
+                continue
+
         website = PODCASTS['websites'][sitename]
 
         render_site = {'name': sitename,
@@ -96,6 +119,14 @@ def main():
             no_items = program['no']
 
             subtitle = program['subtitle']
+
+            time_regex = r'(\d+)$'
+            match = re.search(time_regex, subtitle, re.I)
+            if match: # If there is episode number in subtitle, then makes a number in circle and puts it in title
+                episode = int(match.group(0))
+
+                title = number_in_cirle(episode) + " " + title
+
             url = program['url']
             bare_title = remove_marks(title)
             filename = bare_title + PODCASTS['podcasts']['podcast_ext']
@@ -133,8 +164,13 @@ def main():
             # if sitename in {'VOV2'}:
             #     print('Here')
 
-            rss = rss_from_webpage(this_feed_settings, website['function'])
+            item_titles = []
+
+            rss = rss_from_webpage(this_feed_settings, website['function'], item_titles)
             output_rss(rss, this_feed_settings.output_file)
+            
+            render_site['podcasts'].append(
+                {'title': title, 'subslink': subslink, 'link': output_url, 'item_titles': ', '.join(item_titles)})
 
         render_sites.append(render_site)
 
@@ -143,8 +179,6 @@ def main():
 
     with open(index_file_path, 'w', encoding='utf-8') as file:
         file.write(output)
-
-DE = False  # True
 
 if __name__ == "__main__":
     try:

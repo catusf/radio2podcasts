@@ -31,7 +31,7 @@ jobs:
 
     - name: Create podcasts
       run: |
-        python radio2podcasts/__main__.py
+        python radio2podcasts/__main__.py --input=podcasts.json --output=index.html
         echo "---------------------------------"
         ls
         echo "---------------------------------"

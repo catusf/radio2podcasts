@@ -162,7 +162,8 @@ def number_in_cirle(num):
     Gets the Unicode character coresponding to a number
     '''
     if num < 0 or num > 20:
-        print(f'Number {num} too big for number-in-circle.')
-        raise ValueError
+        print(f'Number {num} too big for number-in-circle. Use original')
+        return str(num)
+        # raise ValueError
 
     return chr(9311+num)
