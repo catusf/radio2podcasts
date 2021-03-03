@@ -25,7 +25,7 @@ import vovlive_get_articles
 import rfivi_get_articles
 import ppud_get_articles
 
-DE = True # False  
+DE = True # False
 
 CWD = os.getcwd()
 
@@ -57,7 +57,7 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('-i', '--input', help='Name of JSON input file for podcast feed', type=str, required=True)
     parser.add_argument('-o', '--output', help='Name of HTML output file containing description of all podcasts', type=str, required=True)
-    parser.add_argument('-d','--debug', help='Debug mode True/False', default=False, type=bool)
+    parser.add_argument('-d', '--debug', help='Debug mode True/False', default=False, type=bool)
     args = parser.parse_args()
 
     global PODCASTS
@@ -168,7 +168,7 @@ def main():
 
             rss = rss_from_webpage(this_feed_settings, website['function'], item_titles)
             output_rss(rss, this_feed_settings.output_file)
-            
+
             render_site['podcasts'].append(
                 {'title': title, 'subslink': subslink, 'link': output_url, 'item_titles': ', '.join(item_titles)})
 

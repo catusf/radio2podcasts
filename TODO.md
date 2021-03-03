@@ -1,4 +1,6 @@
 # Todo List
+[x] Update Actions so that when having nothing to commit, quits gracefully
+[x] Fix duplicating issue for every podcasts.
 [ ] Add Site name next to Site abbreviation in HTML
 [X] Add episode name in HTML
 [X] Combine two main files, using argument for input JSON files, edit Action file accordingly 
