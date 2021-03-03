@@ -35,7 +35,7 @@ jobs:
         echo "---------------------------------"
         ls
         echo "---------------------------------"
-        git config user.name catusf
+        git config user.name "catus felis"
         git config user.email catusf@users.noreply.github.com
         git branch --show-current
         git add site
