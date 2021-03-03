@@ -32,17 +32,23 @@ jobs:
     - name: Create podcasts
       run: |
         python radio2podcasts/__main__.py --input=podcasts.json --output=index.html
-        echo "---------------------------------"
-        ls
-        echo "---------------------------------"
-        git config user.name "catus felis"
-        git config user.email catusf@users.noreply.github.com
-        git branch --show-current
-        git add site
-        git status
-        git commit -m "Update website"
-        git fetch
-        git push origin --force
+        
+        if [[ -z $(git status -s) ]]
+        then
+            echo "Nothing to commit."
+        else
+            echo "---------------------------------"
+            ls
+            echo "---------------------------------"
+            git config user.name "catus felis"
+            git config user.email catusf@users.noreply.github.com
+            git branch --show-current
+            git add site
+            git status
+            git commit -m "Update website"
+            git fetch
+            git push origin --force
+        fi
 
     - name: Deploy site to GitHub Pages 🚀
       uses: JamesIves/github-pages-deploy-action@3.6.2
