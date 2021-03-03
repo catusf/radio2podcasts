@@ -138,8 +138,8 @@ def main():
             cover_url = host + image_file
 
             subslink = f"https://www.subscribeonandroid.com/{DEST_URL}/{filename}"
-            render_site['podcasts'].append(
-                {'title': title, 'subslink': subslink, 'link': output_url})
+            # render_site['podcasts'].append(
+            #     {'title': title, 'subslink': subslink, 'link': output_url})
 
             print(output_file)
 
