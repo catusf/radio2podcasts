@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 04 Mar 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 05 Mar 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 04 Mar 2021 11:00:00 +0700</pubDate>
+    <pubDate>Fri, 05 Mar 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Người chơi nói gì về tiền ảo Pi?</title>
+      <link>https://vnexpress.net/nguoi-choi-noi-gi-ve-tien-ao-pi-4243711.html</link>
+      <description><![CDATA["Không ảnh hưởng gì, mà còn có cơ hội" là điều khiến nhiều người lao vào cuộc chơi "đào Pi". Nói về rủi ro mất thông tin cá nhân, họ cho rằng đó không phải mối bận tâm bởi dữ liệu có thể đã mất khi sử dụng mạng xã hội.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/nguoi-choi-noi-gi-ve-tien-ao-pi-4243711.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/04/nguoi-choi-noi-gi-ve-tien-ao-pi-1614874213.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 05 Mar 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Căng thẳng gia tăng, Myanmar sẽ ra sao?</title>
       <link>https://vnexpress.net/cang-thang-gia-tang-myanmar-se-ra-sao-4243155.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/tac-dung-phu-cua-vaccine-co-dang-lo-ngai-4241437.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/01/tac-dung-phu-cua-vaccine-co-the-la-dau-hieu-tot-1614531941.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 01 Mar 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Nhìn nhận vaccine khác biệt của Anh và EU</title>
-      <link>https://vnexpress.net/nhin-nhan-vaccine-khac-biet-cua-anh-va-eu-4241181.html</link>
-      <description><![CDATA[Khi Anh đặt cược vào việc tiêm chủng nhanh, rộng khắp thì EU dường như còn chần chừ vì hoài nghi vaccine. Nhận định cho rằng, khác biệt văn hóa trong hành chính EU đang được phơi bày.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/nhin-nhan-vaccine-khac-biet-cua-anh-va-eu-4241181.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/02/28/cach-nhin-nhan-ve-vaccine-cua-anh-va-cac-nuoc-eu-1614445397.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 28 Feb 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
