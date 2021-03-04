@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 01 Mar 2021 21:09:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 01 Mar 2021 14:09:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 01 Mar 2021 21:09:00 +0700</pubDate>
+    <pubDate>Mon, 01 Mar 2021 14:09:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -29,7 +29,7 @@
       <description><![CDATA[14:09 - 01/03/2021]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/lan-song-xanh/lan-song-xanh-28-2-2021-395075.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/03/01/FMLansongxanh08h00p280221-QC.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 01 Mar 2021 21:09:00 +0700</pubDate>
+      <pubDate>Mon, 01 Mar 2021 14:09:00 +0700</pubDate>
     </item>
     <item>
       <title>Làn Sóng Xanh - 21/2/2021</title>
@@ -37,7 +37,7 @@
       <description><![CDATA[19:39 - 21/02/2021]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/lan-song-xanh/lan-song-xanh-21-2-2021-394392.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/02/21/FMLansongxanh08h00p210221-QC.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 22 Feb 2021 02:39:00 +0700</pubDate>
+      <pubDate>Sun, 21 Feb 2021 19:39:00 +0700</pubDate>
     </item>
     <item>
       <title>Làn Sóng Xanh - 14/2/2021</title>
@@ -45,7 +45,7 @@
       <description><![CDATA[21:54 - 14/02/2021]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/lan-song-xanh/lan-song-xanh-14-2-2021-393644.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/02/09/FMLansongxanh08h00p140221-QC.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 15 Feb 2021 04:54:00 +0700</pubDate>
+      <pubDate>Sun, 14 Feb 2021 21:54:00 +0700</pubDate>
     </item>
     <item>
       <title>Làn Sóng Xanh - 7/2/2021</title>
@@ -53,7 +53,7 @@
       <description><![CDATA[09:54 - 07/02/2021]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/lan-song-xanh/lan-song-xanh-7-2-2021-393265.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/02/05/FMLansongxanh08h00p070221-QC.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 07 Feb 2021 16:54:00 +0700</pubDate>
+      <pubDate>Sun, 07 Feb 2021 09:54:00 +0700</pubDate>
     </item>
     <item>
       <title>Làn Sóng Xanh - 31/1/2021</title>
@@ -61,7 +61,7 @@
       <description><![CDATA[22:03 - 31/01/2021]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/lan-song-xanh/lan-song-xanh-31-1-2021-392537.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/01/29/FMLansongxanh08h00p310121.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 01 Feb 2021 05:03:00 +0700</pubDate>
+      <pubDate>Sun, 31 Jan 2021 22:03:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
