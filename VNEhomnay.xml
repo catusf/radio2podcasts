@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 03 Mar 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 04 Mar 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 03 Mar 2021 11:00:00 +0700</pubDate>
+    <pubDate>Thu, 04 Mar 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Căng thẳng gia tăng Myanmar sẽ ra sao?</title>
+      <link>https://vnexpress.net/cang-thang-gia-tang-myanmar-se-ra-sao-4243155.html</link>
+      <description><![CDATA[Nhận định cho rằng, việc Myanmar lạm dụng vũ lực để trấn áp biểu tình có thể khiến nước này đối mặt với xung đột vụ trang, đói nghèo, bất bình đẳng...]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/cang-thang-gia-tang-myanmar-se-ra-sao-4243155.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/03/cang-thang-gia-tang-myanmar-se-ra-sao-1614786675.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 04 Mar 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Nhiều người Hải Dương thấp thỏm lo khi hết cách ly</title>
       <link>https://vnexpress.net/nhieu-nguoi-hai-duong-thap-thom-lo-khi-het-cach-ly-4242603.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/nhin-nhan-vaccine-khac-biet-cua-anh-va-eu-4241181.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/02/28/cach-nhin-nhan-ve-vaccine-cua-anh-va-cac-nuoc-eu-1614445397.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 28 Feb 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Người Việt tại Anh nói gì khi được tiêm vaccine AstraZeneca?</title>
-      <link>https://vnexpress.net/nguoi-viet-tai-anh-noi-gi-khi-duoc-tiem-vaccine-astrazeneca-4240858.html</link>
-      <description><![CDATA[Một số người Việt tại Anh nói, dù không được tự chọn vaccine nhưng với họ được tiêm đã là may mắn. Sau tiêm, có người gặp phản ứng như đau nhức toàn thân, buồn nôn, mệt mỏi...]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/nguoi-viet-tai-anh-noi-gi-khi-duoc-tiem-vaccine-astrazeneca-4240858.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/02/26/nguoi-viet-tai-anh-noi-gi-khi-duoc-tiem-vaccine-astrazeneca-1614356014.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 27 Feb 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
