@@ -54,11 +54,15 @@ def get_articles_from_html(soup, url, no_items, item_titles=None):
 
         child = ssoup.select_one('div.t-content__body').select_one('a')
         description = pub_date.strftime(r'%d-%m-%Y ') + title
+        title = pub_date.strftime(r'%d-%m-%Y ') + title
         media = child.get('href')
         
         mime = 'audio/mpeg'
 
         print(link, title, pub_date)
+
+        if item_titles != None:
+            item_titles.append(title)
         
         articles.append(
             feed_article(

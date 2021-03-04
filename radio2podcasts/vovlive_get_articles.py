@@ -51,6 +51,9 @@ def get_articles_from_html(soup, url, no_items, item_titles=None):
 
         print(link, title, pub_date)
 
+        if item_titles != None:
+            item_titles.append(title)
+
         mime = 'audio/mpeg'
 
         articles.append(
