@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 01 Jan 2000 07:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 28 Feb 2021 17:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 01 Jan 2000 07:00:00 +0700</pubDate>
+    <pubDate>Sun, 28 Feb 2021 17:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,5 +23,45 @@
     </itunes:owner>
     <itunes:subtitle>Quà tặng âm nhạc trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Quatangamnhac.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Xuân thì - Quà tặng âm nhạc 28/2/2021</title>
+      <link>https://radio.voh.com.vn/qua-tang-am-nhac/xuan-thi-qua-tang-am-nhac-28-2-2021-394963.html</link>
+      <description><![CDATA[10:00 - 28/02/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/xuan-thi-qua-tang-am-nhac-28-2-2021-394963.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/02/28/qtan-280221.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 28 Feb 2021 17:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Ngồi hát ca bềnh bồng - Quà tặng âm nhạc 21/2/2021</title>
+      <link>https://radio.voh.com.vn/qua-tang-am-nhac/ngoi-hat-ca-benh-bong-qua-tang-am-nhac-21-2-2021-394400.html</link>
+      <description><![CDATA[10:00 - 21/02/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/ngoi-hat-ca-benh-bong-qua-tang-am-nhac-21-2-2021-394400.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/02/21/qtan-210221.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 21 Feb 2021 17:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Chúc Tết mọi nhà - Quà tặng âm nhạc 14/2/2021</title>
+      <link>https://radio.voh.com.vn/qua-tang-am-nhac/chuc-tet-moi-nha-qua-tang-am-nhac-14-2-2021-393985.html</link>
+      <description><![CDATA[10:00 - 14/02/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/chuc-tet-moi-nha-qua-tang-am-nhac-14-2-2021-393985.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/02/16/qtan-140221.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 14 Feb 2021 17:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Vui xuân - Quà tặng âm nhạc 7/2/2021</title>
+      <link>https://radio.voh.com.vn/qua-tang-am-nhac/vui-xuan-qua-tang-am-nhac-7-2-2021-393293.html</link>
+      <description><![CDATA[10:00 - 07/02/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/vui-xuan-qua-tang-am-nhac-7-2-2021-393293.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/02/06/qtan-070221.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 07 Feb 2021 17:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Mùa hoa trở lại - Quà tặng âm nhạc 31/1/2021</title>
+      <link>https://radio.voh.com.vn/qua-tang-am-nhac/mua-hoa-tro-lai-qua-tang-am-nhac-31-1-2021-392711.html</link>
+      <description><![CDATA[10:00 - 31/01/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/mua-hoa-tro-lai-qua-tang-am-nhac-31-1-2021-392711.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/02/01/qtan.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 31 Jan 2021 17:00:00 +0700</pubDate>
+    </item>
   </channel>
 </rss>
