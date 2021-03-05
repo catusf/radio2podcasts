@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 01 Jan 2000 07:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 06 Mar 2021 00:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 01 Jan 2000 07:00:00 +0700</pubDate>
+    <pubDate>Sat, 06 Mar 2021 00:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,5 +23,29 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ngày 8/3, Việt Nam tiêm liều vắc xin Covid-19 đầu tiên - Thời sự 17g00 5/3/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/ngay-8-3-viet-nam-tiem-lieu-vac-xin-covid-19-dau-tien-thoi-su-17g00-5-3-2021-395526.html</link>
+      <description><![CDATA[17:00 - 05/03/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/ngay-8-3-viet-nam-tiem-lieu-vac-xin-covid-19-dau-tien-thoi-su-17g00-5-3-2021-395526.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/03/05/ts17g-050321.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 06 Mar 2021 00:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>TPHCM chưa tính đến việc mở cửa trở lại quán bar, karaoke - Thời sự 05g30 5/3/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-chua-tinh-den-viec-mo-cua-tro-lai-quan-bar-karaoke-thoi-su-05g30-5-3-2021-395443.html</link>
+      <description><![CDATA[05:30 - 05/03/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-chua-tinh-den-viec-mo-cua-tro-lai-quan-bar-karaoke-thoi-su-05g30-5-3-2021-395443.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/03/05/ts0530-050321.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 05 Mar 2021 12:30:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Giữ ổn định Kỳ thi tốt nghiệp Trung học phổ thông năm 2021 - Thời sự 11g00 4/3/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/giu-on-dinh-ky-thi-tot-nghiep-trung-hoc-pho-thong-nam-2021-thoi-su-11g00-4-3-2021-395360.html</link>
+      <description><![CDATA[11:31 - 04/03/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/giu-on-dinh-ky-thi-tot-nghiep-trung-hoc-pho-thong-nam-2021-thoi-su-11g00-4-3-2021-395360.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/03/04/AMThoisu11h00p040321.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 04 Mar 2021 18:31:00 +0700</pubDate>
+    </item>
   </channel>
 </rss>
