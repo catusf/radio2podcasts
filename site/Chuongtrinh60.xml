@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 04 Mar 2021 15:17:36 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 05 Mar 2021 15:42:39 +0100</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 04 Mar 2021 15:17:36 +0100</pubDate>
+    <pubDate>Fri, 05 Mar 2021 15:42:39 +0100</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Chương trình 60'</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Chuongtrinh60.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>05-03-2021 CHƯƠNG TRÌNH 60 PHÚT</title>
+      <link>https://www.rfi.fr/vi/tổng-hợp/20210305-chương-trình-60-phút</link>
+      <description><![CDATA[05-03-2021 CHƯƠNG TRÌNH 60 PHÚT]]></description>
+      <guid isPermaLink="false">https://www.rfi.fr/vi/tổng-hợp/20210305-chương-trình-60-phút</guid>
+      <enclosure url="https://aod-rfi.akamaized.net/rfi/vietnamien/audio/modules/actu/202103/VN_60MN_2021_03_05.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 05 Mar 2021 15:42:39 +0100</pubDate>
+    </item>
     <item>
       <title>04-03-2021 CHƯƠNG TRÌNH 60 PHÚT</title>
       <link>https://www.rfi.fr/vi/tổng-hợp/20210304-chương-trình-60-phút</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://www.rfi.fr/vi/tổng-hợp/20210301-chương-trình-60-phút</guid>
       <enclosure url="https://aod-rfi.akamaized.net/rfi/vietnamien/audio/modules/actu/202102/VN_60MN_2021_03_01.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 01 Mar 2021 16:13:30 +0100</pubDate>
-    </item>
-    <item>
-      <title>28-02-2021 CHƯƠNG TRÌNH 60 PHÚT</title>
-      <link>https://www.rfi.fr/vi/tổng-hợp/20210228-chương-trình-60-phút</link>
-      <description><![CDATA[28-02-2021 CHƯƠNG TRÌNH 60 PHÚT]]></description>
-      <guid isPermaLink="false">https://www.rfi.fr/vi/tổng-hợp/20210228-chương-trình-60-phút</guid>
-      <enclosure url="https://aod-rfi.akamaized.net/rfi/vietnamien/audio/modules/actu/202102/VN_60MN_2021_02_27.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 28 Feb 2021 15:31:27 +0100</pubDate>
     </item>
   </channel>
 </rss>
