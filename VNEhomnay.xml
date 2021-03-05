@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 05 Mar 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 06 Mar 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 05 Mar 2021 11:00:00 +0700</pubDate>
+    <pubDate>Sat, 06 Mar 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Người Việt sống trong tiếng súng ở Myanmar</title>
+      <link>https://vnexpress.net/nguoi-viet-song-trong-tieng-sung-o-myanmar-4244273.html</link>
+      <description><![CDATA[Cảnh hỗn chiến, tiếng la hét và súng nổ sát bên tai mỗi khi ra đường khiến nhiều người Việt tại Myanmar chỉ dám ngồi nhà và mong chờ chuyến bay để được về Việt Nam.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/nguoi-viet-song-trong-tieng-sung-o-myanmar-4244273.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/06/nguoi-viet-song-trong-tieng-sung-o-myanmar-1614966055.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 06 Mar 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Người chơi nói gì về tiền ảo Pi?</title>
       <link>https://vnexpress.net/nguoi-choi-noi-gi-ve-tien-ao-pi-4243711.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/vi-sao-kho-xu-ly-karaoke-tra-tan-4242016.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/02/vi-sao-kho-xu-ly-karaoke-tra-tan-1614643388.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 02 Mar 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Tác dụng phụ của vaccine có đáng lo ngại?</title>
-      <link>https://vnexpress.net/tac-dung-phu-cua-vaccine-co-dang-lo-ngai-4241437.html</link>
-      <description><![CDATA[78% người tiêm vaccine Pfizer bị đau cơ, 50-60% bị mệt mỏi, sốt. AstraZeneca gây nhiều tác dụng phụ hơn. Tuy nhiên theo bác sĩ, đây có thể là dấu hiệu tốt.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/tac-dung-phu-cua-vaccine-co-dang-lo-ngai-4241437.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/01/tac-dung-phu-cua-vaccine-co-the-la-dau-hieu-tot-1614531941.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 01 Mar 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
