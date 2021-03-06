@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 06 Mar 2021 00:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 07 Mar 2021 00:24:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 06 Mar 2021 00:00:00 +0700</pubDate>
+    <pubDate>Sun, 07 Mar 2021 00:24:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,28 +24,28 @@
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>An toàn không gian mạng - Thời sự 11g00 6/3/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/an-toan-khong-gian-mang-thoi-su-11g00-6-3-2021-395580.html</link>
+      <description><![CDATA[17:24 - 06/03/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/an-toan-khong-gian-mang-thoi-su-11g00-6-3-2021-395580.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/03/06/AMThoisu11h00p060321ss.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 07 Mar 2021 00:24:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Thắp lên ngọn lửa đượm ấm nồng! - Thời sự 05g30 6/3/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/thap-len-ngon-lua-duom-am-nong-thoi-su-05g30-6-3-2021-395579.html</link>
+      <description><![CDATA[17:22 - 06/03/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/thap-len-ngon-lua-duom-am-nong-thoi-su-05g30-6-3-2021-395579.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/03/06/AMThoisu05h30p060321ss.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 07 Mar 2021 00:22:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Ngày 8/3, Việt Nam tiêm liều vắc xin Covid-19 đầu tiên - Thời sự 17g00 5/3/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/ngay-8-3-viet-nam-tiem-lieu-vac-xin-covid-19-dau-tien-thoi-su-17g00-5-3-2021-395526.html</link>
       <description><![CDATA[17:00 - 05/03/2021]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/ngay-8-3-viet-nam-tiem-lieu-vac-xin-covid-19-dau-tien-thoi-su-17g00-5-3-2021-395526.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/03/05/ts17g-050321.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 06 Mar 2021 00:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>TPHCM: 34 trạm y tế phường, xã ngưng đăng ký khám, chữa bệnh BHYT - Thời sự 11g00 5/3/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-34-tram-y-te-phuong-xa-ngung-dang-ky-kham-chua-benh-bhyt-thoi-su-11g00-5-3-2021-395525.html</link>
-      <description><![CDATA[11:00 - 05/03/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-34-tram-y-te-phuong-xa-ngung-dang-ky-kham-chua-benh-bhyt-thoi-su-11g00-5-3-2021-395525.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/03/05/ts11g-050321.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 05 Mar 2021 18:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>TPHCM chưa tính đến việc mở cửa trở lại quán bar, karaoke - Thời sự 05g30 5/3/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-chua-tinh-den-viec-mo-cua-tro-lai-quan-bar-karaoke-thoi-su-05g30-5-3-2021-395443.html</link>
-      <description><![CDATA[05:30 - 05/03/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-chua-tinh-den-viec-mo-cua-tro-lai-quan-bar-karaoke-thoi-su-05g30-5-3-2021-395443.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/03/05/ts0530-050321.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 05 Mar 2021 12:30:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
