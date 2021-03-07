@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 07 Mar 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 08 Mar 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 07 Mar 2021 11:00:00 +0700</pubDate>
+    <pubDate>Mon, 08 Mar 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Mùng 8.3 của những phụ nữ đã lập gia đình</title>
+      <link>https://vnexpress.net/mung-8-3-cua-nhung-phu-nu-da-lap-gia-dinh-4244855.html</link>
+      <description><![CDATA[Khi những cô gái độc thân hồ hởi đợi món quà lãng mạn từ bạn trai thì phái nữ đã lập gia đình hầu hết đều chỉ muốn được bạn đời san sẻ trong cuộc sống thường ngày.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/mung-8-3-cua-nhung-phu-nu-da-lap-gia-dinh-4244855.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/07/mung-8-3-cua-nhung-nguoi-phu-nu-da-lap-gia-dinh-1615136049.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 08 Mar 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Chiêu thức gọi video lừa tiền qua mạng xã hội</title>
       <link>https://vnexpress.net/chieu-thuc-goi-video-lua-tien-qua-mang-xa-hoi-4244573.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/cang-thang-gia-tang-myanmar-se-ra-sao-4243155.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/03/cang-thang-gia-tang-myanmar-se-ra-sao-1614786675.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 04 Mar 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Nhiều người Hải Dương thấp thỏm lo khi hết cách ly</title>
-      <link>https://vnexpress.net/nhieu-nguoi-hai-duong-thap-thom-lo-khi-het-cach-ly-4242603.html</link>
-      <description><![CDATA[Dù được dỡ cách ly, nhiều người dân Hải Dương vẫn thấp thỏm nỗi lo dịch tái bùng phát do tỉnh còn hơn 7.400 hộ dân bị phong toả và các ca mắc mới vẫn được ghi nhận mỗi ngày.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/nhieu-nguoi-hai-duong-thap-thom-lo-khi-het-cach-ly-4242603.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/02/nguoi-dan-hai-duong-van-lo-lang-du-do-cach-ly-1614703676.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 03 Mar 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
