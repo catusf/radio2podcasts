@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 01 Mar 2021 18:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 08 Mar 2021 18:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 01 Mar 2021 18:00:00 +0700</pubDate>
+    <pubDate>Mon, 08 Mar 2021 18:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Tiền làm gì?</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Tienlamgi.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ca sĩ Thuỷ Tiên: 'Kinh doanh và nghệ thuật đều cần tỉnh táo'</title>
+      <link>https://vnexpress.net/ca-si-thuy-tien-kinh-doanh-va-nghe-thuat-deu-can-tinh-tao-4244735.html</link>
+      <description><![CDATA[Từng kinh doanh thời trang, truyền thông, phim ảnh và quản lý học viện bóng đá, ca sĩ Thuỷ Tiên đúc rút rằng doanh nhân và nghệ sĩ đều cần yêu khách hàng, cho đi điều mình muốn nhưng phù hợp với điều xã hội cần.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/ca-si-thuy-tien-kinh-doanh-va-nghe-thuat-deu-can-tinh-tao-4244735.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/07/ca-si-thuy-tien-kinh-doanh-va-nghe-thuat-co-nhieu-diem-chung-1615135092.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 08 Mar 2021 18:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Midu: 'Khởi nghiệp khi 18 tuổi, tôi chỉ có lòng nhiệt huyết'</title>
       <link>https://vnexpress.net/midu-khoi-nghiep-khi-18-tuoi-toi-chi-co-long-nhiet-huyet-4241457.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/uu-va-nhuoc-cua-tien-mat-the-ghi-no-the-tin-dung-4233056.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/02/07/uu-va-nhuoc-cua-tien-mat-the-ghi-no-the-tin-dung-1612708782.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 08 Feb 2021 18:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Những lưu ý khi vay tiêu dùng dịp cuối năm</title>
-      <link>https://vnexpress.net/nhung-luu-y-khi-vay-tieu-dung-dip-cuoi-nam-4225878.html</link>
-      <description><![CDATA[Túi tiền người dân eo hẹp sau 1 năm dịch bệnh, các ngân hàng tung ra nhiều gói vay tiêu dùng dịp Tết. Cần lưu ý gì khi mua trả góp để tránh nợ xấu năm sau?]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/nhung-luu-y-khi-vay-tieu-dung-dip-cuoi-nam-4225878.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/02/01/nhung-luu-y-khi-vay-tieu-dung-dip-cuoi-nam-1612115492.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 01 Feb 2021 18:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
