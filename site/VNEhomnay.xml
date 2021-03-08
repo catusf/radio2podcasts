@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 09 Mar 2021 02:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 09 Mar 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 09 Mar 2021 02:00:00 +0700</pubDate>
+    <pubDate>Tue, 09 Mar 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Cách nào để thu thuế thu nhập từ Facebook, Google?</title>
+      <link>https://vnexpress.net/cach-nao-de-thu-thue-thu-nhap-tu-facebook-google-4245433.html</link>
+      <description><![CDATA[Nhiều nước châu Âu xác định doanh thu của Google, Facebook bằng cách tính số người dùng, lưu lượng dữ liệu và khoản thanh toán. Sau đó, đàm phán để truy thu và chặn hoạt động nếu không hợp tác.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/cach-nao-de-thu-thue-thu-nhap-tu-facebook-google-4245433.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/09/cach-nao-de-thu-thue-thu-nhap-tu-facebook-google-1615227242.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 09 Mar 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Điểm tin ngày 8/3</title>
       <link>https://vnexpress.net/diem-tin-ngay-8-3-4245383.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/nguoi-viet-song-trong-tieng-sung-o-myanmar-4244273.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/06/nguoi-viet-song-trong-tieng-sung-o-myanmar-1614966055.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 06 Mar 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Người chơi nói gì về tiền ảo Pi?</title>
-      <link>https://vnexpress.net/nguoi-choi-noi-gi-ve-tien-ao-pi-4243711.html</link>
-      <description><![CDATA["Không ảnh hưởng gì, mà còn có cơ hội" là điều khiến nhiều người lao vào cuộc chơi "đào Pi". Nói về rủi ro mất thông tin cá nhân, họ cho rằng đó không phải mối bận tâm bởi dữ liệu có thể đã mất khi sử dụng mạng xã hội.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/nguoi-choi-noi-gi-ve-tien-ao-pi-4243711.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/04/nguoi-choi-noi-gi-ve-tien-ao-pi-1614874213.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 05 Mar 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
