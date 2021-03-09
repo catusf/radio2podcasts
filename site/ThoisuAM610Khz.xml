@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 09 Mar 2021 00:07:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 09 Mar 2021 17:09:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 09 Mar 2021 00:07:00 +0700</pubDate>
+    <pubDate>Tue, 09 Mar 2021 17:09:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Đã 26 ngày TPHCM không phát hiện ca mắc Covid-19 trong cộng đồng - Thời sự 5g30 09/03/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/da-26-ngay-tphcm-khong-phat-hien-ca-mac-covid-19-trong-cong-dong-thoi-su-5g30-09-03-2021-395792.html</link>
+      <description><![CDATA[10:09 - 09/03/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/da-26-ngay-tphcm-khong-phat-hien-ca-mac-covid-19-trong-cong-dong-thoi-su-5g30-09-03-2021-395792.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/03/09/AMThoisu05h30p090321.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 09 Mar 2021 17:09:00 +0700</pubDate>
+    </item>
     <item>
       <title>Bộ Chính trị trình phương án nhân sự chủ chốt - Thời sự 17g00 8/3/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/bo-chinh-tri-trinh-phuong-an-nhan-su-chu-chot-thoi-su-17g00-8-3-2021-395736.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/neu-minh-co-gang-o-dau-cung-la-co-hoi-thoi-su-11g00-8-3-2021-395716.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/03/08/AMThoisu11h00p080321.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 08 Mar 2021 22:46:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Công dung ngôn hạnh thời hiện đại - Thời sự 5g30 8/3/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/cong-dung-ngon-hanh-thoi-hien-dai-thoi-su-5g30-8-3-2021-395715.html</link>
-      <description><![CDATA[15:44 - 08/03/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/cong-dung-ngon-hanh-thoi-hien-dai-thoi-su-5g30-8-3-2021-395715.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/03/08/AMThoisu05h30p080321.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 08 Mar 2021 22:44:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
