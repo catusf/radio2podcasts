@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 10 Mar 2021 02:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 10 Mar 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 10 Mar 2021 02:00:00 +0700</pubDate>
+    <pubDate>Wed, 10 Mar 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Các nước xử lý tiếng ồn karaoke như thế nào?</title>
+      <link>https://vnexpress.net/cac-nuoc-xu-ly-tieng-on-karaoke-nhu-the-nao-4246051.html</link>
+      <description><![CDATA[Anh Nguyên, tại Singapore cho biết, nếu bị phản ánh vì gây ồn ào dù chỉ là trò chuyện lớn, cảnh sát sẽ lập tức có mặt. Còn tại Thái Lan, Myanmar... hầu hết người dân ưa yên tĩnh, riêng tư nên ít khi phải dùng tới chế tài.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/cac-nuoc-xu-ly-tieng-on-karaoke-nhu-the-nao-4246051.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/09/cac-nuoc-xu-ly-tieng-on-karaoke-nhu-the-nao-1615307737.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 10 Mar 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Điểm tin: Mở cao điểm xử lý tiếng ồn, khủng hoảng hoàng gia</title>
       <link>https://vnexpress.net/diem-tin-mo-cao-diem-xu-ly-tieng-on-khung-hoang-hoang-gia-4245992.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/mung-8-3-cua-nhung-phu-nu-da-lap-gia-dinh-4244855.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/07/mung-8-3-cua-nhung-nguoi-phu-nu-da-lap-gia-dinh-1615136049.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 08 Mar 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chiêu thức gọi video lừa tiền qua mạng xã hội</title>
-      <link>https://vnexpress.net/chieu-thuc-goi-video-lua-tien-qua-mang-xa-hoi-4244573.html</link>
-      <description><![CDATA[Nhận được tin nhắn mượn tiền, chị Nguyễn Kim tại TP HCM đã yêu cầu chủ tài khoản gọi video call để xác thực. Thấy mặt người quen, chị chuyển 60 triệu xong mới biết tài khoản kia đã bị hack.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/chieu-thuc-goi-video-lua-tien-qua-mang-xa-hoi-4244573.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/06/chieu-thuc-goi-video-de-lua-dao-qua-mang-xa-hoi-1615046070.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 07 Mar 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
