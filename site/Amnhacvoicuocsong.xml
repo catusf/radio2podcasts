@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 02 Mar 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 09 Mar 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 02 Mar 2021 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 09 Mar 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Âm nhạc với cuộc sống</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Amnhacvoicuocsong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Gặp gỡ nhạc sĩ Văn Dung cùng hai tác phẩm Âm nhạc “Tiến về Khe Sanh” và “Bài ca Đường 9 chiến thắng”</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[Khe Sanh nằm trên quốc lộ số 9 thuộc huyện Hướng Hóa, tỉnh Quảng Trị, cách thị xã Đông Hà 63 Km về phía Tây. Năm 1965-1966, quân đội Mỹ và quân lực của chính quyền Ngụy Sài Gòn đã xây dựng Khe Sanh thành cứ điểm lớn nhất trong tuyến phòng thủ Đường 9, tại đây diễn ra Chiến dịch Đường 9-Khe Sanh năm 1968 và đặc biệt là Chiến dịch Đường 9-Nam Lào năm 1971. Cùng gặp gỡ Nhạc sĩ, Nhà báo Văn Dung-nguyên BTV Âm nhạc Đài TNVN và tìm hiểu hai tác phẩm âm nhạc: “Tiến về Khe Sanh”, và “Bài ca Đường 9 chiến thắng” viết về hai trận đánh lịch sử này của ông…]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/03/09/vovlive_am_nhac_voi_cuoc_song_nhac_si_van_dung.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 09 Mar 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>“Xuân biên cương” - Món quà âm nhạc gửi tặng những người lính biên phòng</title>
       <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2021/02/17/vovlive_am_nhac_voi_cuoc_song_gap_go_nhac_si_do_hong_quan_tac_pham_am_nhac_xuan.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 17 Feb 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Nhạc sĩ Ngô Tự Lập với những cung bậc cảm xúc về tình yêu cùng “Chúc mừng năm mới”</title>
-      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[Từ lời hẹn về việc cùng nhóm tác giả M6 (Ngô Tự Lập, Trần Đức Minh, Giáng Son, Nguyễn Lê Tâm, Nguyễn Vĩnh Tiến, Nguyễn Thắng) ra mắt một album mang tên Chúc mừng năm mới với tất cả 6 ca khúc cùng tên, Nhạc sĩ Ngô Tự Lập đã sáng tác ca khúc “Chúc mừng năm mới”. Ca khúc với nét nhạc trữ tình da diết, là lời chúc mừng năm mới và những khát khao về tình yêu, niềm tin và hy vọng nhân dịp đầu xuân …]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/02/09/vovlive_am_nhac_voi_cuoc_song_chuc_mung_nam_moi_ngo_tu_lap.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 09 Feb 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
