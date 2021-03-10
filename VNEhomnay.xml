@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 11 Mar 2021 02:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 11 Mar 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 11 Mar 2021 02:00:00 +0700</pubDate>
+    <pubDate>Thu, 11 Mar 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Tại sao kẻ gian có thể mạo danh vay tín dụng online?</title>
+      <link>https://vnexpress.net/tai-sao-ke-gian-co-the-mao-danh-vay-tin-dung-online-4246613.html</link>
+      <description><![CDATA[Kịch bản chung để kẻ gian "qua mặt" các công ty tài chính là giữ nguyên số CMND, tên tuổi nhưng thay đổi ảnh, số điện thoại...]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/tai-sao-ke-gian-co-the-mao-danh-vay-tin-dung-online-4246613.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/10/tai-sao-ke-gian-co-the-mao-danh-vay-tin-dung-online-1615390992.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 11 Mar 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Điểm tin: Nghi án điều chuyển giám đốc công an tỉnh</title>
       <link>https://vnexpress.net/diem-tin-nghi-an-dieu-chuyen-giam-doc-cong-an-tinh-4246568.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/danh-thue-facebook-google-4245433.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/09/cach-nao-de-thu-thue-thu-nhap-tu-facebook-google-1615246903.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 09 Mar 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Điểm tin ngày 8/3</title>
-      <link>https://vnexpress.net/diem-tin-ngay-8-3-4245383.html</link>
-      <description><![CDATA[Trình Trung ương nhân sự 3 chức danh lãnh đạo cao nhất của Nhà nước, nhiều dự án giao thông trọng điểm của TP HCM được đề xuất, tình hình căng thẳng ở Myanmar... là những tin chính hôm nay.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/diem-tin-ngay-8-3-4245383.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/08/diem-tin-ngay-83-1615204669.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 09 Mar 2021 02:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
