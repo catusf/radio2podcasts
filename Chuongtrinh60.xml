@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 09 Mar 2021 16:10:57 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 10 Mar 2021 15:09:49 +0100</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 09 Mar 2021 16:10:57 +0100</pubDate>
+    <pubDate>Wed, 10 Mar 2021 15:09:49 +0100</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Chương trình 60'</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Chuongtrinh60.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>10-03-2021 CHƯƠNG TRÌNH 60 PHÚT</title>
+      <link>https://www.rfi.fr/vi/tổng-hợp/20210310-chương-trình-60-phút</link>
+      <description><![CDATA[10-03-2021 CHƯƠNG TRÌNH 60 PHÚT]]></description>
+      <guid isPermaLink="false">https://www.rfi.fr/vi/tổng-hợp/20210310-chương-trình-60-phút</guid>
+      <enclosure url="https://aod-rfi.akamaized.net/rfi/vietnamien/audio/modules/actu/202103/VN_60MN_2021_03_10.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 10 Mar 2021 15:09:49 +0100</pubDate>
+    </item>
     <item>
       <title>09-03-2021 CHƯƠNG TRÌNH 60 PHÚT</title>
       <link>https://www.rfi.fr/vi/tổng-hợp/20210309-chương-trình-60-phút</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://www.rfi.fr/vi/tổng-hợp/20210306-chương-trình-60-phút</guid>
       <enclosure url="https://aod-rfi.akamaized.net/rfi/vietnamien/audio/modules/actu/202103/VN_60MN_2021_03_06.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 06 Mar 2021 15:42:41 +0100</pubDate>
-    </item>
-    <item>
-      <title>06-03-2021 Pháp gián tiếp giúp đài truyền hình Trung Quốc CGTN lách lệnh cấm tại Anh</title>
-      <link>https://www.rfi.fr/vi/tạp-chí/tạp-chí-đặc-biệt/20210306-pháp-gián-tiếp-giúp-đài-truyền-hình-trung-quốc-cgtn-lách-lệnh-cấm-tại-anh</link>
-      <description><![CDATA[06-03-2021 Pháp gián tiếp giúp đài truyền hình Trung Quốc CGTN lách lệnh cấm tại Anh]]></description>
-      <guid isPermaLink="false">https://www.rfi.fr/vi/tạp-chí/tạp-chí-đặc-biệt/20210306-pháp-gián-tiếp-giúp-đài-truyền-hình-trung-quốc-cgtn-lách-lệnh-cấm-tại-anh</guid>
-      <enclosure url="https://emailing.rfi.fr/vi/subscribe" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 06 Mar 2021 11:21:51 +0100</pubDate>
     </item>
   </channel>
 </rss>
