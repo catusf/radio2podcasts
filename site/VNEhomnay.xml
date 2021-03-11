@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 12 Mar 2021 02:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 12 Mar 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 12 Mar 2021 02:00:00 +0700</pubDate>
+    <pubDate>Fri, 12 Mar 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Người có hộ chiếu vaccine: 'Tôi đề xuất rút ngắn cách ly'</title>
+      <link>https://vnexpress.net/nguoi-co-ho-chieu-vaccine-toi-de-xuat-rut-ngan-cach-ly-4247223.html</link>
+      <description><![CDATA[Ông Calvin Trịnh nói, nếu người đã tiêm và chưa tiêm được đối xử như nhau thì khó thấy được lợi ích vaccine. Ông cho rằng nên xét nghiệm và rút ngắn thời gian cách ly với người có hộ chiếu vaccine.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/nguoi-co-ho-chieu-vaccine-toi-de-xuat-rut-ngan-cach-ly-4247223.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/11/vi-sao-co-ho-chieu-vaccine-ve-viet-nam-van-cach-ly-14-ngay-1615479835.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 12 Mar 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Điểm tin: Chính sách cho sinh con một bề, quy hoạch sông Hồng</title>
       <link>https://vnexpress.net/diem-tin-chinh-sach-cho-sinh-con-mot-be-quy-hoach-song-hong-4247171.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/cac-nuoc-xu-ly-tieng-on-karaoke-nhu-the-nao-4246051.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/09/cac-nuoc-xu-ly-tieng-on-karaoke-nhu-the-nao-1615307737.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 10 Mar 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Điểm tin: Mở cao điểm xử lý tiếng ồn, khủng hoảng hoàng gia</title>
-      <link>https://vnexpress.net/diem-tin-mo-cao-diem-xu-ly-tieng-on-khung-hoang-hoang-gia-4245992.html</link>
-      <description><![CDATA[Ba chức danh lãnh đạo chủ chốt được giới thiệu; khởi tố vụ án liên quan tố cáo gia đình ông Trần Qúy Thanh, hoàng gia Anh "mất tinh thần"... là những tin chính ngày 9/3.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/diem-tin-mo-cao-diem-xu-ly-tieng-on-khung-hoang-hoang-gia-4245992.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/09/diem-tin-mo-cao-diem-xu-ly-tieng-on-khung-hoang-hoang-gia-1615300190.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 10 Mar 2021 02:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
