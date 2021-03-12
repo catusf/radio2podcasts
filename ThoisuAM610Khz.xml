@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 11 Mar 2021 18:24:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 12 Mar 2021 12:30:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 11 Mar 2021 18:24:00 +0700</pubDate>
+    <pubDate>Fri, 12 Mar 2021 12:30:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,28 +24,28 @@
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Thông tin từ Bộ Y tế về các nguồn vắc xin phòng Covid-19 - Thời sự 05g30 12/3/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/thong-tin-tu-bo-y-te-ve-cac-nguon-vac-xin-phong-covid-19-thoi-su-05g30-12-3-2021-396057.html</link>
+      <description><![CDATA[05:30 - 12/03/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/thong-tin-tu-bo-y-te-ve-cac-nguon-vac-xin-phong-covid-19-thoi-su-05g30-12-3-2021-396057.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/03/12/ts0530-120321.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 12 Mar 2021 12:30:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Hoàn thành tái lập và tháo dỡ rào chắn metro số 1 đường Lê Lợi dịp 30/4 - Thời sự 17g00 11/3/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/hoan-thanh-tai-lap-va-thao-do-rao-chan-metro-so-1-duong-le-loi-dip-30-4-thoi-su-17g00-11-3-2021-396036.html</link>
+      <description><![CDATA[19:55 - 11/03/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/hoan-thanh-tai-lap-va-thao-do-rao-chan-metro-so-1-duong-le-loi-dip-30-4-thoi-su-17g00-11-3-2021-396036.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/03/11/AMThoisu17h00p110321cuon1.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 12 Mar 2021 02:55:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Đề nghị tiêm vắcxin Covid-19 cho VĐV 14 đội dự Vòng loại Olympic - Thời sự 11g00 11/3/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/de-nghi-tiem-vacxin-covid-19-cho-vdv-14-doi-du-vong-loai-olympic-thoi-su-11g00-11-3-2021-395997.html</link>
       <description><![CDATA[11:24 - 11/03/2021]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/de-nghi-tiem-vacxin-covid-19-cho-vdv-14-doi-du-vong-loai-olympic-thoi-su-11g00-11-3-2021-395997.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/03/11/AMThoisu11h00p110321.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 11 Mar 2021 18:24:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Phát huy cán bộ, công chức, viên chức trẻ trong xây dựng chính quyền đô thị - Thời sự 5g30 11/3/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/phat-huy-can-bo-cong-chuc-vien-chuc-tre-trong-xay-dung-chinh-quyen-do-thi-thoi-su-5g30-11-3-2021-395964.html</link>
-      <description><![CDATA[06:35 - 11/03/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/phat-huy-can-bo-cong-chuc-vien-chuc-tre-trong-xay-dung-chinh-quyen-do-thi-thoi-su-5g30-11-3-2021-395964.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/03/11/AMThoisu05h30p110321.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 11 Mar 2021 13:35:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Khẳng định và phát huy vai trò trường học XHCN của thanh niên Việt Nam - Thời sự 17g00 10/3/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/khang-dinh-va-phat-huy-vai-tro-truong-hoc-xhcn-cua-thanh-nien-viet-nam-thoi-su-17g00-10-3-2021-395958.html</link>
-      <description><![CDATA[21:48 - 10/03/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/khang-dinh-va-phat-huy-vai-tro-truong-hoc-xhcn-cua-thanh-nien-viet-nam-thoi-su-17g00-10-3-2021-395958.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/03/10/AMThoisu17h00p100321Cuon2.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 11 Mar 2021 04:48:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
