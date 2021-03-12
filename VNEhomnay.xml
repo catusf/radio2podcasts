@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 12 Mar 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 13 Mar 2021 02:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 12 Mar 2021 11:00:00 +0700</pubDate>
+    <pubDate>Sat, 13 Mar 2021 02:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Điểm tin: Bỏ hộ khẩu giấy, Youtuber phải đóng thuế</title>
+      <link>https://vnexpress.net/diem-tin-bo-ho-khau-giay-youtuber-phai-dong-thue-4247745.html</link>
+      <description><![CDATA[Từ 1/7, người dân sẽ không cần hộ khẩu khi giao dịch nhà đất, xin học cho con; Việt Nam tiếp tục tiêm AstraZeneca; Youtuber sắp bị khấu trừ thuế... là những tin chính hôm nay.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/diem-tin-bo-ho-khau-giay-youtuber-phai-dong-thue-4247745.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/12/diem-tin-bo-ho-khau-giay-youtuber-phai-dong-thue-1615549576.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 13 Mar 2021 02:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Người có hộ chiếu vaccine: 'Tôi đề xuất rút ngắn cách ly'</title>
       <link>https://vnexpress.net/nguoi-co-ho-chieu-vaccine-toi-de-xuat-rut-ngan-cach-ly-4247223.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/diem-tin-nghi-an-dieu-chuyen-giam-doc-cong-an-tinh-4246568.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/10/diem-tin-nghi-an-dieu-chuyen-giam-doc-cong-an-tinh-1615378093.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 11 Mar 2021 02:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Các nước xử lý tiếng ồn karaoke như thế nào?</title>
-      <link>https://vnexpress.net/cac-nuoc-xu-ly-tieng-on-karaoke-nhu-the-nao-4246051.html</link>
-      <description><![CDATA[Anh Nguyên, ở Singapore cho biết, nếu ồn ào dù chỉ là trò chuyện lớn, cảnh sát sẽ lập tức có mặt. Còn tại Thái Lan, Myanmar... hầu hết người dân ưa riêng tư nên ít khi phải dùng chế tài.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/cac-nuoc-xu-ly-tieng-on-karaoke-nhu-the-nao-4246051.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/09/cac-nuoc-xu-ly-tieng-on-karaoke-nhu-the-nao-1615307737.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 10 Mar 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
