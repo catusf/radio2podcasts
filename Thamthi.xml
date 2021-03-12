@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 06 Mar 2021 03:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 13 Mar 2021 03:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 06 Mar 2021 03:00:00 +0700</pubDate>
+    <pubDate>Sat, 13 Mar 2021 03:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thầm thì</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Thamthi.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Cắt bao quy đầu có ảnh hưởng tới ham muốn?</title>
+      <link>https://vnexpress.net/cat-bao-quy-dau-co-anh-huong-toi-ham-muon-4247360.html</link>
+      <description><![CDATA[Nhiều quý ông tìm tới giải pháp cắt bao quy đầu để cải thiện xuất tinh sớm, nhưng cũng lo ngại can thiệp dao kéo có thể ảnh hưởng tới khả năng lâm trận. Bác sĩ nam khoa giải đáp thắc mắc trên.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/cat-bao-quy-dau-co-anh-huong-toi-ham-muon-4247360.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/12/cat-bao-quy-dau-co-giup-cai-thien-xuat-tinh-som-1615517723.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 13 Mar 2021 03:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Tập gym có gây yếu sinh lý?</title>
       <link>https://vnexpress.net/tap-gym-co-gay-yeu-sinh-ly-4243578.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/tai-sao-nhieu-phu-nu-chua-tung-dat-dinh-4234933.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/02/12/tai-sao-nhieu-phu-nu-chua-tung-dat-dinh-1613108210.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 13 Feb 2021 03:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Tình dục có thể gây ra đột quỵ?</title>
-      <link>https://vnexpress.net/tinh-duc-co-the-gay-ra-dot-quy-4228517.html</link>
-      <description><![CDATA[Tình dục có thể là yếu tố kích phát đột quỵ với người có sẵn nền bệnh, nhưng đồng thời tình dục cũng làm giảm nhẹ các nguy cơ dẫn tới bệnh này, theo bác sĩ Vũ Đức Công.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/tinh-duc-co-the-gay-ra-dot-quy-4228517.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/01/29/dot-quy-va-quan-he-tinh-duc-co-moi-lien-he-gi-1611908929.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 30 Jan 2021 03:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
