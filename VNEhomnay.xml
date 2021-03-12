@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 13 Mar 2021 02:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 13 Mar 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 13 Mar 2021 02:00:00 +0700</pubDate>
+    <pubDate>Sat, 13 Mar 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Phụ huynh ngăn con xem nội dung độc hại ra sao?</title>
+      <link>https://vnexpress.net/phu-huynh-ngan-con-xem-noi-dung-doc-hai-ra-sao-4247748.html</link>
+      <description><![CDATA[Giới hạn thời gian, xem cùng con, lục lịch sử và xoá các video không tốt...là cách phụ huynh đang ngăn con tiếp cận nội dung độc hại trên mạng. Tuy nhiên nhiều người vẫn cho rằng chưa triệt để.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/phu-huynh-ngan-con-xem-noi-dung-doc-hai-ra-sao-4247748.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/12/nhung-cach-ngan-con-tiep-can-noi-dung-doc-hai-tren-mang-1615550268.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 13 Mar 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Điểm tin: Bỏ hộ khẩu giấy, Youtuber phải đóng thuế</title>
       <link>https://vnexpress.net/diem-tin-bo-ho-khau-giay-youtuber-phai-dong-thue-4247745.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/bong-dung-mac-no-4246613.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/11/tai-sao-ke-gian-co-the-mao-danh-vay-tin-dung-online-1615420011.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 11 Mar 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Điểm tin: Nghi án điều chuyển giám đốc công an tỉnh</title>
-      <link>https://vnexpress.net/diem-tin-nghi-an-dieu-chuyen-giam-doc-cong-an-tinh-4246568.html</link>
-      <description><![CDATA[Nghi phạm buôn bán hàng giả bị tình nghi chi 20 tỷ để "chạy" điều chuyển việc cho giám đốc công an tỉnh; sức tác động từ cuộc phỏng vấn của vợ chồng Meghan...]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/diem-tin-nghi-an-dieu-chuyen-giam-doc-cong-an-tinh-4246568.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/10/diem-tin-nghi-an-dieu-chuyen-giam-doc-cong-an-tinh-1615378093.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 11 Mar 2021 02:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
