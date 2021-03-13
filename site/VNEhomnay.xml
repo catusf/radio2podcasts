@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 13 Mar 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 14 Mar 2021 02:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 13 Mar 2021 11:00:00 +0700</pubDate>
+    <pubDate>Sun, 14 Mar 2021 02:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Điểm tin: Điều tra phản ứng tiêm vaccine, công nghệ trên thẻ căn cước</title>
+      <link>https://vnexpress.net/diem-tin-dieu-tra-phan-ung-tiem-vaccine-cong-nghe-tren-the-can-cuoc-4248059.html</link>
+      <description><![CDATA[Điều tra nguyên nhân phản ứng nặng, máu đông sau tiêm vaccine Covid-19; Tính năng mới trên căn cước; CEO Ant Group của Jack Ma từ chức...]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/diem-tin-dieu-tra-phan-ung-tiem-vaccine-cong-nghe-tren-the-can-cuoc-4248059.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/13/diem-tin-dieu-tra-phan-ung-tiem-vaccine-cong-nghe-tren-the-can-cuoc-1615636237.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 14 Mar 2021 02:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Phụ huynh ngăn con xem nội dung độc hại ra sao?</title>
       <link>https://vnexpress.net/phu-huynh-ngan-con-xem-noi-dung-doc-hai-ra-sao-4247748.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/diem-tin-chinh-sach-cho-sinh-con-mot-be-quy-hoach-song-hong-4247171.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/11/diem-tin-chinh-sach-cho-sinh-con-mot-be-quy-hoach-song-hong-1615463882.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 12 Mar 2021 02:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Bỗng dưng mắc nợ</title>
-      <link>https://vnexpress.net/bong-dung-mac-no-4246613.html</link>
-      <description><![CDATA[Nguyễn Thị Luyện bỗng dưng nhận báo động nợ xấu ở 2 công ty tài chính. Nhiều nạn nhân khác cũng như chị, bị kẻ gian sử dụng CMND, tên tuổi nhưng thay đổi ảnh, số điện thoại... để vay tiền.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/bong-dung-mac-no-4246613.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/11/tai-sao-ke-gian-co-the-mao-danh-vay-tin-dung-online-1615420011.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 11 Mar 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
