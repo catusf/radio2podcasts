@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 14 Mar 2021 02:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 14 Mar 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 14 Mar 2021 02:00:00 +0700</pubDate>
+    <pubDate>Sun, 14 Mar 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Phải làm gì khi 'bỗng dưng mắc nợ'?</title>
+      <link>https://vnexpress.net/phai-lam-gi-khi-bong-dung-mac-no-4248073.html</link>
+      <description><![CDATA[Để biết mình có mắc nợ không, người dân có thể tự tra cứu trên website CIC. Nhưng việc phải cung cấp chi tiết thông tin cá nhân khiến nhiều người lo ngại vì hiện cũng có nhiều app CIC giả.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/phai-lam-gi-khi-bong-dung-mac-no-4248073.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/13/lam-sao-khi-bong-dung-mang-no-1615640535.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 14 Mar 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Điểm tin: Điều tra phản ứng tiêm vaccine, công nghệ trên thẻ căn cước</title>
       <link>https://vnexpress.net/diem-tin-dieu-tra-phan-ung-tiem-vaccine-cong-nghe-tren-the-can-cuoc-4248059.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/nguoi-co-ho-chieu-vaccine-toi-de-xuat-rut-ngan-cach-ly-4247223.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/11/vi-sao-co-ho-chieu-vaccine-ve-viet-nam-van-cach-ly-14-ngay-1615479835.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 12 Mar 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Điểm tin: Chính sách cho sinh con một bề, quy hoạch sông Hồng</title>
-      <link>https://vnexpress.net/diem-tin-chinh-sach-cho-sinh-con-mot-be-quy-hoach-song-hong-4247171.html</link>
-      <description><![CDATA[Quy hoạch 11.000 ha dọc sông Hồng, đoạn qua Hà Nội thành trục cảnh quan sinh thái sắp được phê duyệt; sinh hai con một bề được giảm học phí, khen thưởng...là những tin chính hôm nay.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/diem-tin-chinh-sach-cho-sinh-con-mot-be-quy-hoach-song-hong-4247171.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/11/diem-tin-chinh-sach-cho-sinh-con-mot-be-quy-hoach-song-hong-1615463882.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 12 Mar 2021 02:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
