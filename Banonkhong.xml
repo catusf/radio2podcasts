@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 07 Mar 2021 03:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 14 Mar 2021 03:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 07 Mar 2021 03:00:00 +0700</pubDate>
+    <pubDate>Sun, 14 Mar 2021 03:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Bạn ổn không?</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Banonkhong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>'Mẹ bạn gái muốn hai đứa chia tay vì tôi chưa đủ giàu'</title>
+      <link>https://vnexpress.net/me-ban-gai-muon-hai-dua-chia-tay-vi-toi-chua-du-giau-4245664.html</link>
+      <description><![CDATA[Sống cùng gia đình người yêu 9 năm, gần đây, mẹ bạn gái đề nghị Duy chia tay con gái bà vì anh "không tặng nổi cái nhà" thì nên để cô ấy tìm chàng trai khác giàu có hơn.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/me-ban-gai-muon-hai-dua-chia-tay-vi-toi-chua-du-giau-4245664.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/13/me-ban-gai-muon-hai-dua-chia-tay-vi-toi-chua-du-giau-1615624459.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 14 Mar 2021 03:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Tôi mất kiểm soát khi sống với 'mẹ hổ'</title>
       <link>https://vnexpress.net/toi-mat-kiem-soat-khi-song-voi-me-ho-4239489.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/thu-han-vi-vo-quen-nguoi-moi-sau-mot-thang-ly-hon-4231980.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/02/06/vo-quen-nguoi-moi-sau-mot-thang-ly-hon-1612581451.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 07 Feb 2021 03:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>'Không san sẻ kinh tế, chồng còn muốn giữ tiền của tôi'</title>
-      <link>https://vnexpress.net/khong-san-se-kinh-te-chong-con-muon-giu-tien-cua-toi-4231433.html</link>
-      <description><![CDATA[Chồng mặc cho Mũm Mĩm gánh mọi sinh hoạt phí trong gia đình. Khi lương của cô không đủ cho chồng vay, anh nghi ngờ cô giấu diếm và bắt chứng minh thu chi cá nhân.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/khong-san-se-kinh-te-chong-con-muon-giu-tien-cua-toi-4231433.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/02/13/khong-san-se-kinh-te-chong-con-muon-giu-tien-cua-toi-1613205101.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 14 Feb 2021 03:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
