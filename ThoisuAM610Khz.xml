@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 14 Mar 2021 16:02:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 14 Mar 2021 18:30:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 14 Mar 2021 16:02:00 +0700</pubDate>
+    <pubDate>Sun, 14 Mar 2021 18:30:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>“Thành Thăng long thuở ấy” - Nối tiếp chuỗi kịch lịch sử vào học đường - Thời sự 11g00 14/3/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/thanh-thang-long-thuo-ay-noi-tiep-chuoi-kich-lich-su-vao-hoc-duong-thoi-su-11g00-14-3-2021-396242.html</link>
+      <description><![CDATA[11:30 - 14/03/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/thanh-thang-long-thuo-ay-noi-tiep-chuoi-kich-lich-su-vao-hoc-duong-thoi-su-11g00-14-3-2021-396242.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/03/14/AMThoisu11h00p140321.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 14 Mar 2021 18:30:00 +0700</pubDate>
+    </item>
     <item>
       <title>Hành xử chuẩn mực trước “mắt thần” giám sát - Thời sự 05g30 14/3/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/hanh-xu-chuan-muc-truoc-mat-than-giam-sat-thoi-su-05g30-14-3-2021-396229.html</link>
@@ -37,14 +45,6 @@
       <description><![CDATA[14:52 - 13/03/2021]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-tuyen-duong-129-tam-guong-tham-lang-ma-cao-ca-thoi-su-5g30-13-3-2021-396189.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/03/13/AMThoisu05h30p130321.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 13 Mar 2021 21:52:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chuyển 68 tuyến xe khách đường dài sang bến xe miền Đông mới trước 15/3 Thời sự 11g00 13/3/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/chuyen-68-tuyen-xe-khach-duong-dai-sang-ben-xe-mien-dong-moi-truoc-15-3-thoi-su-11g00-13-3-2021-396188.html</link>
-      <description><![CDATA[14:52 - 13/03/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/chuyen-68-tuyen-xe-khach-duong-dai-sang-ben-xe-mien-dong-moi-truoc-15-3-thoi-su-11g00-13-3-2021-396188.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/03/13/AMThoisu11h00p130321.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 13 Mar 2021 21:52:00 +0700</pubDate>
     </item>
   </channel>
