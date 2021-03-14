@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 13 Mar 2021 21:52:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 14 Mar 2021 16:02:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 13 Mar 2021 21:52:00 +0700</pubDate>
+    <pubDate>Sun, 14 Mar 2021 16:02:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Hành xử chuẩn mực trước “mắt thần” giám sát - Thời sự 05g30 14/3/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/hanh-xu-chuan-muc-truoc-mat-than-giam-sat-thoi-su-05g30-14-3-2021-396229.html</link>
+      <description><![CDATA[09:02 - 14/03/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/hanh-xu-chuan-muc-truoc-mat-than-giam-sat-thoi-su-05g30-14-3-2021-396229.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/03/14/AMThoisu05h30p140321.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 14 Mar 2021 16:02:00 +0700</pubDate>
+    </item>
     <item>
       <title>TPHCM tuyên dương 129 tấm gương thầm lặng mà cao cả - Thời sự 5g30 13/3/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-tuyen-duong-129-tam-guong-tham-lang-ma-cao-ca-thoi-su-5g30-13-3-2021-396189.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/chuyen-68-tuyen-xe-khach-duong-dai-sang-ben-xe-mien-dong-moi-truoc-15-3-thoi-su-11g00-13-3-2021-396188.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/03/13/AMThoisu11h00p130321.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 13 Mar 2021 21:52:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Thành lập Liên đoàn Lao động thành phố Thủ Đức - Thời sự 17g00 12/3/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/thanh-lap-lien-doan-lao-dong-thanh-pho-thu-duc-thoi-su-17g00-12-3-2021-396122.html</link>
-      <description><![CDATA[17:00 - 12/03/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/thanh-lap-lien-doan-lao-dong-thanh-pho-thu-duc-thoi-su-17g00-12-3-2021-396122.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/03/12/ts17g00-120321.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 13 Mar 2021 00:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
