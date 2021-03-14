@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 14 Mar 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 15 Mar 2021 02:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 14 Mar 2021 11:00:00 +0700</pubDate>
+    <pubDate>Mon, 15 Mar 2021 02:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Điểm tin: Phạt vi phạm nồng độ cồn, giá vàng được dự báo tăng</title>
+      <link>https://vnexpress.net/diem-tin-phat-vi-pham-nong-do-con-gia-vang-duoc-du-bao-tang-4248323.html</link>
+      <description><![CDATA[Từ 15/3, CSGT tăng cường xử phạt vi phạm nồng độ cồn; Giá vàng tuần tới được dự báo tăng; Trump được tôn vinh là 'tổng thống vĩ đại nhất lịch sử Mỹ']]></description>
+      <guid isPermaLink="false">https://vnexpress.net/diem-tin-phat-vi-pham-nong-do-con-gia-vang-duoc-du-bao-tang-4248323.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/14/diem-tin-tang-cuong-xu-phat-vi-pham-nong-do-con-1615723162.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 15 Mar 2021 02:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Phải làm gì khi 'bỗng dưng mắc nợ'?</title>
       <link>https://vnexpress.net/phai-lam-gi-khi-bong-dung-mac-no-4248073.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/diem-tin-bo-ho-khau-giay-youtuber-phai-dong-thue-4247745.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/12/diem-tin-bo-ho-khau-giay-youtuber-phai-dong-thue-1615556481.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 13 Mar 2021 02:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Người có hộ chiếu vaccine: 'Tôi đề xuất rút ngắn cách ly'</title>
-      <link>https://vnexpress.net/nguoi-co-ho-chieu-vaccine-toi-de-xuat-rut-ngan-cach-ly-4247223.html</link>
-      <description><![CDATA[Ông Calvin Trịnh nói, nếu người đã tiêm và chưa tiêm được đối xử như nhau thì khó thấy được lợi ích vaccine. Ông cho rằng nên xét nghiệm và rút ngắn thời gian cách ly với người có hộ chiếu vaccine.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/nguoi-co-ho-chieu-vaccine-toi-de-xuat-rut-ngan-cach-ly-4247223.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/11/vi-sao-co-ho-chieu-vaccine-ve-viet-nam-van-cach-ly-14-ngay-1615479835.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 12 Mar 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
