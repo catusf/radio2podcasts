@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 15 Mar 2021 02:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 15 Mar 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 15 Mar 2021 02:00:00 +0700</pubDate>
+    <pubDate>Mon, 15 Mar 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Những chiêu thức lừa tiền online</title>
+      <link>https://vnexpress.net/nhung-chieu-thuc-lua-tien-online-4248375.html</link>
+      <description><![CDATA[Hack tài khoản mạng xã hội và dụ dỗ chuyển tiền, tin nhắn mạo danh ngân hàng, giả CMND để vay tín dụng...phần lớn các chiêu thức lừa tiền online này đều xuất phát từ lộ thông tin cá nhân.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/nhung-chieu-thuc-lua-tien-online-4248375.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/14/nhung-chieu-thuc-lua-tien-online-1615735169.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 15 Mar 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Điểm tin: Phạt vi phạm nồng độ cồn, giá vàng dự báo tăng</title>
       <link>https://vnexpress.net/diem-tin-phat-vi-pham-nong-do-con-gia-vang-du-bao-tang-4248323.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/phu-huynh-ngan-con-xem-noi-dung-doc-hai-ra-sao-4247748.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/13/phu-huynh-ngan-con-xem-noi-dung-doc-hai-ra-sao-1615594405.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 13 Mar 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Điểm tin: Bỏ hộ khẩu giấy, Youtuber phải đóng thuế</title>
-      <link>https://vnexpress.net/diem-tin-bo-ho-khau-giay-youtuber-phai-dong-thue-4247745.html</link>
-      <description><![CDATA[Từ 1/7, người dân sẽ không cần hộ khẩu khi giao dịch nhà đất, xin học cho con; Việt Nam tiếp tục tiêm AstraZeneca; Youtuber sắp bị khấu trừ thuế... là những tin chính hôm nay.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/diem-tin-bo-ho-khau-giay-youtuber-phai-dong-thue-4247745.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/12/diem-tin-bo-ho-khau-giay-youtuber-phai-dong-thue-1615556481.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 13 Mar 2021 02:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
