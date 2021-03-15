@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 16 Mar 2021 02:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 16 Mar 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 16 Mar 2021 02:00:00 +0700</pubDate>
+    <pubDate>Tue, 16 Mar 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Vì sao khen thưởng sinh con một bề?</title>
+      <link>https://vnexpress.net/vi-sao-khen-thuong-sinh-con-mot-be-4248944.html</link>
+      <description><![CDATA[Việc này được kỳ vọng khiến cặp đôi sinh con 1 bề là nữ hạn chế tư tưởng "kiếm thêm thằng cu". GS.TS Nguyễn Đình Cử tại Viện Dân số, Bà mẹ và Trẻ em không cho rằng giải pháp này có thể giảm mất cân bằng giới tính khi sinh.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/vi-sao-khen-thuong-sinh-con-mot-be-4248944.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/15/vi-sao-khen-thuong-gia-dinh-sinh-2-con-mot-be-1615825623.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 16 Mar 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Điểm tin: Phản ứng vaccine trong mức khuyến cáo, Myanmar ngày đẫm máu</title>
       <link>https://vnexpress.net/diem-tin-phan-ung-vaccine-trong-muc-khuyen-cao-myanmar-ngay-dam-mau-4248901.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/phai-lam-gi-khi-bong-dung-mac-no-4248073.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/13/lam-sao-khi-bong-dung-mang-no-1615640535.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 14 Mar 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Điểm tin: Điều tra phản ứng tiêm vaccine, công nghệ trên thẻ căn cước</title>
-      <link>https://vnexpress.net/diem-tin-dieu-tra-phan-ung-tiem-vaccine-cong-nghe-tren-the-can-cuoc-4248059.html</link>
-      <description><![CDATA[Điều tra nguyên nhân phản ứng nặng, máu đông sau tiêm vaccine Covid-19; Tính năng mới trên căn cước; CEO Ant Group của Jack Ma từ chức...]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/diem-tin-dieu-tra-phan-ung-tiem-vaccine-cong-nghe-tren-the-can-cuoc-4248059.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/13/diem-tin-dieu-tra-phan-ung-tiem-vaccine-cong-nghe-tren-the-can-cuoc-1615636237.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 14 Mar 2021 02:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
