@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 15 Mar 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 16 Mar 2021 02:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 15 Mar 2021 11:00:00 +0700</pubDate>
+    <pubDate>Tue, 16 Mar 2021 02:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Điểm tin: Miễn nhiệm lãnh đạo Nhà nước, ngày đẫm máu ở Myanmar</title>
+      <link>https://vnexpress.net/diem-tin-mien-nhiem-lanh-dao-nha-nuoc-ngay-dam-mau-o-myanmar-4248901.html</link>
+      <description><![CDATA[Quốc hội dự kiến miễn nhiệm Chủ tịch nước và Thủ tướng, bầu lãnh đạo Chính phủ mới ngày 5/4; Các nhà máy Trung Quốc tại Myanmar bị đốt phá, 60 người biểu tình thiệt mạng...]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/diem-tin-mien-nhiem-lanh-dao-nha-nuoc-ngay-dam-mau-o-myanmar-4248901.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/15/diem-tin-mien-nhiem-lanh-dao-nha-nuoc-ngay-dam-mau-o-myanmar-1615809566.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 16 Mar 2021 02:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Những chiêu thức lừa tiền online</title>
       <link>https://vnexpress.net/nhung-chieu-thuc-lua-tien-online-4248375.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/diem-tin-dieu-tra-phan-ung-tiem-vaccine-cong-nghe-tren-the-can-cuoc-4248059.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/13/diem-tin-dieu-tra-phan-ung-tiem-vaccine-cong-nghe-tren-the-can-cuoc-1615636237.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 14 Mar 2021 02:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Phụ huynh ngăn con xem nội dung độc hại ra sao?</title>
-      <link>https://vnexpress.net/phu-huynh-ngan-con-xem-noi-dung-doc-hai-ra-sao-4247748.html</link>
-      <description><![CDATA[Giới hạn thời gian, xem cùng con, lục lịch sử và xoá các video không tốt... là cách phụ huynh đang ngăn con tiếp cận nội dung độc hại trên mạng nhưng chuyên gia cho rằng những điều này không có giá trị lâu dài.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/phu-huynh-ngan-con-xem-noi-dung-doc-hai-ra-sao-4247748.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/13/phu-huynh-ngan-con-xem-noi-dung-doc-hai-ra-sao-1615594405.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 13 Mar 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
