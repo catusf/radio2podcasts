@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 16 Mar 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 17 Mar 2021 02:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 16 Mar 2021 11:00:00 +0700</pubDate>
+    <pubDate>Wed, 17 Mar 2021 02:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Điểm tin: Hệ thống 'phạt nguội' ở TP HCM, hé lộ nguồn gốc Covid-19</title>
+      <link>https://vnexpress.net/diem-tin-he-thong-phat-nguoi-o-tp-hcm-he-lo-nguon-goc-covid-19-4249445.html</link>
+      <description><![CDATA[Đà Nẵng sẽ đầu tư nhiều công trình đô thị, giao thông lớn theo quy hoạch mới vừa được phê duyệt; TP HCM xây dựng hệ thống phạt nguội tại 30 tuyến đường; Hé lộ nguồn gốc Covid-19...]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/diem-tin-he-thong-phat-nguoi-o-tp-hcm-he-lo-nguon-goc-covid-19-4249445.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/16/diem-tin-dieu-chinh-quy-hoach-da-nang-nguon-goc-covid-19-1615894550.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 17 Mar 2021 02:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>'Người Việt khó xem con trai, con gái như nhau'</title>
       <link>https://vnexpress.net/nguoi-viet-kho-xem-con-trai-con-gai-nhu-nhau-4248944.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/diem-tin-phat-vi-pham-nong-do-con-gia-vang-du-bao-tang-4248323.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/14/diem-tin-tang-cuong-xu-phat-vi-pham-nong-do-con-1615723162.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 15 Mar 2021 02:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Phải làm gì khi 'bỗng dưng mắc nợ'?</title>
-      <link>https://vnexpress.net/phai-lam-gi-khi-bong-dung-mac-no-4248073.html</link>
-      <description><![CDATA[Để biết mình có mắc nợ không, người dân có thể tự tra cứu trên website CIC. Nhưng việc phải cung cấp chi tiết thông tin cá nhân khiến nhiều người lo ngại vì hiện cũng có nhiều app CIC giả.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/phai-lam-gi-khi-bong-dung-mac-no-4248073.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/13/lam-sao-khi-bong-dung-mang-no-1615640535.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 14 Mar 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
