@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 17 Mar 2021 02:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 17 Mar 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 17 Mar 2021 02:00:00 +0700</pubDate>
+    <pubDate>Wed, 17 Mar 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>'Thần dược' trên mạng</title>
+      <link>https://vnexpress.net/than-duoc-tren-mang-4249505.html</link>
+      <description><![CDATA["Chắc chắn dứt bệnh" là cam kết chúng tôi nhận được khi tìm hiểu về "thần dược" chữa tiểu đường trên mạng. Tuy nhiên, bỏ 8 triệu uống 4 đợt thuốc của "lương y" này, mẹ anh Hải tại Hải Phòng đã phải nhập viện.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/than-duoc-tren-mang-4249505.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/16/than-duoc-tren-mang-1615912698.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 17 Mar 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Điểm tin: Hệ thống 'phạt nguội' ở TP HCM, hé lộ nguồn gốc Covid-19</title>
       <link>https://vnexpress.net/diem-tin-he-thong-phat-nguoi-o-tp-hcm-he-lo-nguon-goc-covid-19-4249445.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/nhung-chieu-thuc-lua-tien-online-4248375.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/14/nhung-chieu-thuc-lua-tien-online-1615735169.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 15 Mar 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Điểm tin: Phạt vi phạm nồng độ cồn, giá vàng dự báo tăng</title>
-      <link>https://vnexpress.net/diem-tin-phat-vi-pham-nong-do-con-gia-vang-du-bao-tang-4248323.html</link>
-      <description><![CDATA[Từ 15/3, CSGT tăng cường xử phạt vi phạm nồng độ cồn; Giá vàng tuần tới được dự báo tăng; Trump được tôn vinh là 'tổng thống vĩ đại nhất lịch sử Mỹ'...]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/diem-tin-phat-vi-pham-nong-do-con-gia-vang-du-bao-tang-4248323.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/14/diem-tin-tang-cuong-xu-phat-vi-pham-nong-do-con-1615723162.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 15 Mar 2021 02:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
