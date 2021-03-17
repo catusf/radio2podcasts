@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 17 Mar 2021 12:30:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 17 Mar 2021 21:07:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 17 Mar 2021 12:30:00 +0700</pubDate>
+    <pubDate>Wed, 17 Mar 2021 21:07:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ngân hàng Thế giới đánh giá tích cực về kinh tế Việt Nam - Thời sự 11g00 17/03/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/ngan-hang-the-gioi-danh-gia-tich-cuc-ve-kinh-te-viet-nam-thoi-su-11g00-17-03-2021-396513.html</link>
+      <description><![CDATA[14:07 - 17/03/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/ngan-hang-the-gioi-danh-gia-tich-cuc-ve-kinh-te-viet-nam-thoi-su-11g00-17-03-2021-396513.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/03/17/AMThoisu11h00p170321.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 17 Mar 2021 21:07:00 +0700</pubDate>
+    </item>
     <item>
       <title>TPHCM thành lập Hội đồng lựa chọn sách giáo khoa - Thời sự 5g30 17/03/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-thanh-lap-hoi-dong-lua-chon-sach-giao-khoa-thoi-su-5g30-17-03-2021-396497.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/thu-tuong-yeu-cau-khong-de-no-dong-nhiem-vu-thoi-su-17g00-16-3-2021-396460.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/03/16/AMThoisu17h00p160321.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 17 Mar 2021 03:04:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Tuyển sinh 2021: Thu hút thí sinh bằng chính sách học bổng – Thời sự 11g00 16/3/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tuyen-sinh-2021-thu-hut-thi-sinh-bang-chinh-sach-hoc-bong-thoi-su-11g00-16-3-2021-396444.html</link>
-      <description><![CDATA[16:14 - 16/03/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tuyen-sinh-2021-thu-hut-thi-sinh-bang-chinh-sach-hoc-bong-thoi-su-11g00-16-3-2021-396444.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/03/16/AMThoisu11h00p160321.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 16 Mar 2021 23:14:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
