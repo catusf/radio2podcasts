@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 17 Mar 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 18 Mar 2021 02:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 17 Mar 2021 11:00:00 +0700</pubDate>
+    <pubDate>Thu, 18 Mar 2021 02:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Điểm tin: Việt Nam nghiên cứu 'hộ chiếu vaccine', châu Âu lục đục vì AstraZeneca</title>
+      <link>https://vnexpress.net/diem-tin-viet-nam-nghien-cuu-ho-chieu-vaccine-chau-au-luc-duc-vi-astrazeneca-4250012.html</link>
+      <description><![CDATA[Thử tướng yêu cầu nghiên cứu triển khai "hộ chiếu vaccine"; 6 nhân viên y tế tại TP HCM gặp phản ứng phụ sau tiêm; Một số nước châu Âu hứng chỉ trích vì đình chỉ vaccine quá sớm...]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/diem-tin-viet-nam-nghien-cuu-ho-chieu-vaccine-chau-au-luc-duc-vi-astrazeneca-4250012.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/17/diem-tin-viet-nam-nghien-cuu-ho-chieu-vaccine-chau-au-luc-duc-vi-astrazeneca-1615982522.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 18 Mar 2021 02:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>'Thần dược' trên mạng</title>
       <link>https://vnexpress.net/than-duoc-tren-mang-4249505.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/diem-tin-phan-ung-vaccine-trong-muc-khuyen-cao-myanmar-ngay-dam-mau-4248901.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/15/diem-tin-phan-ung-vaccine-trong-muc-khuyen-cao-myanmar-ngay-dam-mau-1615821528.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 16 Mar 2021 02:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Những chiêu thức lừa tiền online</title>
-      <link>https://vnexpress.net/nhung-chieu-thuc-lua-tien-online-4248375.html</link>
-      <description><![CDATA[Hack tài khoản mạng xã hội và dụ dỗ chuyển tiền, tin nhắn mạo danh ngân hàng, giả CMND để vay tín dụng...phần lớn các chiêu thức lừa tiền online này đều xuất phát từ lộ thông tin cá nhân.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/nhung-chieu-thuc-lua-tien-online-4248375.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/14/nhung-chieu-thuc-lua-tien-online-1615735169.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 15 Mar 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
