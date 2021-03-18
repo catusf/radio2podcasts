@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 19 Mar 2021 02:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 19 Mar 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 19 Mar 2021 02:00:00 +0700</pubDate>
+    <pubDate>Fri, 19 Mar 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Người Việt bị kỳ thị vì Covid-19</title>
+      <link>https://vnexpress.net/nguoi-viet-bi-ky-thi-vi-covid-19-4250653.html</link>
+      <description><![CDATA[Bị gọi là "đồ corona" chị Tâm phải phớt lờ quay đi vì có thể bị chặn đánh nếu đáp trả. Từ khi có Covid-19, nhiều người Việt tại Pháp, Đức, Nga... bị miệt thị, hành hung do mang nước da vàng.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/nguoi-viet-bi-ky-thi-vi-covid-19-4250653.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/19/nguoi-viet-bi-ky-thi-vi-covid-19-1616089755.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 19 Mar 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Điểm tin: Ứng cử Đại biểu Quốc hội khối Chính phủ, Chủ tịch nước</title>
       <link>https://vnexpress.net/diem-tin-ung-cu-dai-bieu-quoc-hoi-khoi-chinh-phu-chu-tich-nuoc-4250598.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/than-duoc-tren-mang-4249505.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/17/than-duoc-tren-mang-1615936860.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 17 Mar 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Điểm tin: Hệ thống 'phạt nguội' ở TP HCM, hé lộ nguồn gốc Covid-19</title>
-      <link>https://vnexpress.net/diem-tin-he-thong-phat-nguoi-o-tp-hcm-he-lo-nguon-goc-covid-19-4249445.html</link>
-      <description><![CDATA[Đà Nẵng sẽ đầu tư nhiều công trình đô thị, giao thông lớn theo quy hoạch mới vừa được phê duyệt; TP HCM xây dựng hệ thống phạt nguội tại 30 tuyến đường; Hé lộ nguồn gốc Covid-19...]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/diem-tin-he-thong-phat-nguoi-o-tp-hcm-he-lo-nguon-goc-covid-19-4249445.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/16/diem-tin-he-thong-phat-nguoi-o-tp-hcm-he-lo-nguon-goc-covid-19-1615898773.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 17 Mar 2021 02:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
