@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 20 Mar 2021 02:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 20 Mar 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 20 Mar 2021 02:00:00 +0700</pubDate>
+    <pubDate>Sat, 20 Mar 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Đà Nẵng dẹp loạn tiếng ồn karaoke</title>
+      <link>https://vnexpress.net/da-nang-dep-loan-tieng-on-karaoke-4251218.html</link>
+      <description><![CDATA[Phường Nại Hiên Đông lập các đội phản ứng nhanh tản khắp khu dân cư mỗi tối để phát hiện và xử phạt không cần máy đo tiếng ồn. Với tình huống phức tạp, đội công an sẽ xuống hỗ trợ.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/da-nang-dep-loan-tieng-on-karaoke-4251218.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/20/da-nang-dep-loan-tieng-on-karaoke-1616175171.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 20 Mar 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Điểm tin: Bổ nhiệm Trưởng ban Đối ngoại Trung ương, Putin thách thức Biden</title>
       <link>https://vnexpress.net/diem-tin-bo-nhiem-truong-ban-doi-ngoai-trung-uong-putin-thach-thuc-biden-4251145.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/tiem-thu-vaccine-4250056.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/17/nhung-nguoi-tinh-nguyen-tiem-thu-nghiem-vaccine-1615994800.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 18 Mar 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Điểm tin: Sắp có thêm nhiều loại vaccine, châu Âu 'lục đục'</title>
-      <link>https://vnexpress.net/diem-tin-sap-co-them-nhieu-loai-vaccine-chau-au-luc-duc-4250012.html</link>
-      <description><![CDATA[Thủ tướng yêu cầu nghiên cứu "hộ chiếu vaccine"; Pfizer dự kiến cung cấp 30 triệu liều cho VN; Một số nước châu Âu hứng chỉ trích vì đình chỉ vaccine quá sớm...]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/diem-tin-sap-co-them-nhieu-loai-vaccine-chau-au-luc-duc-4250012.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/17/diem-tin-sap-co-them-nhieu-loai-vaccine-chau-au-luc-duc-1615990108.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 18 Mar 2021 02:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
