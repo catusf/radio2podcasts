@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 13 Mar 2021 03:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 20 Mar 2021 03:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 13 Mar 2021 03:00:00 +0700</pubDate>
+    <pubDate>Sat, 20 Mar 2021 03:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thầm thì</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Thamthi.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Covid-19 có thể làm hại chất lượng tinh trùng?</title>
+      <link>https://vnexpress.net/covid-19-co-the-lam-hai-chat-luong-tinh-trung-4250141.html</link>
+      <description><![CDATA[Tinh hoàn nam giới có thụ thể tương tự như phổi, cho phép nCoV xâm nhập và gây bệnh. Khảo sát nam giới nhiễm Covid-19 tại Đức cho thấy chất lượng tinh trùng suy giảm.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/covid-19-co-the-lam-hai-chat-luong-tinh-trung-4250141.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/18/covid19-voi-suc-khoe-sinh-san-nam-gioi-1616031424.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 20 Mar 2021 03:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Cắt bao quy đầu có ảnh hưởng tới ham muốn?</title>
       <link>https://vnexpress.net/cat-bao-quy-dau-co-anh-huong-toi-ham-muon-4247360.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/lam-sao-de-cai-thien-xuat-tinh-som-4237346.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/02/19/cach-cai-thien-xuat-tinh-som-1613724647.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 20 Feb 2021 03:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Tại sao nhiều phụ nữ chưa từng 'đạt đỉnh'?</title>
-      <link>https://vnexpress.net/tai-sao-nhieu-phu-nu-chua-tung-dat-dinh-4234933.html</link>
-      <description><![CDATA[Nhiều phụ nữ có 3-4 đứa con nhưng chưa từng "đạt đỉnh". Chuyên gia cho rằng, ngoài vấn đề tâm lý, đặc điểm cơ thể... thì một phần nguyên nhân nằm ở người chồng.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/tai-sao-nhieu-phu-nu-chua-tung-dat-dinh-4234933.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/02/12/tai-sao-nhieu-phu-nu-chua-tung-dat-dinh-1613108210.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 13 Feb 2021 03:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
