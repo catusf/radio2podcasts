@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 11 Mar 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 16 Mar 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 11 Mar 2021 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 16 Mar 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Những giọng ca còn mãi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Nhunggiongcaconmai.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>NSND Hồng Khiêm: Dành cả cuộc đời tâm huyết với nghệ thuật dân tộc</title>
+      <link>https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</link>
+      <description><![CDATA[NSND Hồng Khiêm sinh ra và lớn lên trên quê hương tuồng truyền thống. Trong quá trình gắn bó với nghệ thuật tuồng, NSND Hồng Khiêm đã thành danh trong nghề. Giờ đây khi đã được nghỉ hưu, nhưng bà vẫn luôn sống với niềm đam mê nghệ thuật .... Bà coi đó chính là niềm vui của cuộc đời mình…]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/03/16/vovlive_nhung_giong_ca_con_mai_nsnd_hong_khiem.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 16 Mar 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>NSƯT Thanh Kim Huệ: Giọng ca vàng vượt thời gian</title>
       <link>https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2021/02/17/vovlive_nhung_giong_ca_con_mai_nsut_hong_lien.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 17 Feb 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>NSND Thanh Tuấn: Giọng ca vàng vượt thời gian</title>
-      <link>https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</link>
-      <description><![CDATA[Với những vai diễn ấn tượng, chất giọng trời phú, làn hơi rộng cùng khả năng biểu diễn linh hoạt đã giúp cho NSND Thanh Tuấn gặt hái được nhiều huy chương và thành công trên sân khấu cải lương. Đặc biệt, với vai diễn đại úy Huy Bình (vở cải lương “Tìm lại cuộc đời”) đã đánh dấu một bước ngoặt quan trọng trong cuộc đời hoạt động Nghệ thuật của ông…]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/02/04/vovlive_nhung_giong_ca_con_mai_nsnd_thanh_tuan_giong_ca_vang_vuot_thoi_gian.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 04 Feb 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
