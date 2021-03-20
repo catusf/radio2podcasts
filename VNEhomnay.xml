@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 20 Mar 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 21 Mar 2021 02:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 20 Mar 2021 11:00:00 +0700</pubDate>
+    <pubDate>Sun, 21 Mar 2021 02:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Điểm tin: Đà Nẵng có trung tâm tài chính, chống bạo lực với người gốc Á</title>
+      <link>https://vnexpress.net/diem-tin-da-nang-co-trung-tam-tai-chinh-chong-bao-luc-voi-nguoi-goc-a-4251455.html</link>
+      <description><![CDATA[Đà Nẵng được lập đề án trung tâm tài chính quy mô khu vực; Nhà văn Nguyễn Huy Thiệp qua đời; Biden kêu gọi chống bạo lực với người gốc Á...]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/diem-tin-da-nang-co-trung-tam-tai-chinh-chong-bao-luc-voi-nguoi-goc-a-4251455.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/20/diem-tin-da-nang-co-trung-tam-tai-chinh-chong-bao-luc-voi-nguoi-goc-a-1616241624.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 21 Mar 2021 02:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Đà Nẵng dẹp loạn tiếng ồn karaoke</title>
       <link>https://vnexpress.net/da-nang-dep-loan-tieng-on-karaoke-4251218.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/diem-tin-ung-cu-dai-bieu-quoc-hoi-khoi-chinh-phu-chu-tich-nuoc-4250598.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/18/diem-tin-thay-doi-tuyen-sinh-eu-khoi-dong-ho-chieu-vaccine-1616073589.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 19 Mar 2021 02:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Tiêm thử vaccine</title>
-      <link>https://vnexpress.net/tiem-thu-vaccine-4250056.html</link>
-      <description><![CDATA[Trước giờ tiêm thử vaccine, nữ sinh Anh Thư nhận thông tin một số người ở Mỹ bị liệt nửa mặt, trong khi anh Tập được con cái khuyên can "bố nên nghĩ lại".]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/tiem-thu-vaccine-4250056.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/17/nhung-nguoi-tinh-nguyen-tiem-thu-nghiem-vaccine-1615994800.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 18 Mar 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
