@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 14 Mar 2021 03:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 21 Mar 2021 03:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 14 Mar 2021 03:00:00 +0700</pubDate>
+    <pubDate>Sun, 21 Mar 2021 03:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Bạn ổn không?</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Banonkhong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>'Đàn bà vốn khổ'</title>
+      <link>https://vnexpress.net/dan-ba-von-kho-4249998.html</link>
+      <description><![CDATA[5 năm chung sống, có những tuần Hương bị bạo hành 5 lần. Khi nhờ tới sự giúp đỡ của bố mẹ chồng, cô nhận lại được câu "số đàn bà vốn khổ thì biết làm sao?".]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/dan-ba-von-kho-4249998.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/17/toi-chap-nhan-bi-bao-hanh-5-nam-chi-vi-con-1615979613.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 21 Mar 2021 03:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>'Mẹ bạn gái muốn hai đứa chia tay vì tôi chưa đủ giàu'</title>
       <link>https://vnexpress.net/me-ban-gai-muon-hai-dua-chia-tay-vi-toi-chua-du-giau-4245664.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/kiem-tien-nuoi-chong-toi-bi-chi-chiet-theo-trai-4235013.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/02/27/kiem-tien-nuoi-chong-toi-bi-chi-chiet-theo-trai-1614435242.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 28 Feb 2021 03:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Thù hận vì 'vợ quen người mới sau một tháng ly hôn'</title>
-      <link>https://vnexpress.net/thu-han-vi-vo-quen-nguoi-moi-sau-mot-thang-ly-hon-4231980.html</link>
-      <description><![CDATA[Làm ăn thất bại và mang trong mình căn bệnh u màng não, Công "quyết định ly hôn để vợ bắt đầu lại cuộc sống". Nhưng chỉ sau một tháng, vợ anh đã quen người mới khiến anh suy sụp trong thù hận.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/thu-han-vi-vo-quen-nguoi-moi-sau-mot-thang-ly-hon-4231980.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/02/06/vo-quen-nguoi-moi-sau-mot-thang-ly-hon-1612581451.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 07 Feb 2021 03:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
