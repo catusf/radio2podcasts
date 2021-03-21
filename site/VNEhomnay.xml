@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 21 Mar 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 22 Mar 2021 02:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 21 Mar 2021 11:00:00 +0700</pubDate>
+    <pubDate>Mon, 22 Mar 2021 02:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Điểm tin: Quy hoạch nội đô Hà Nội, châu Âu biểu tình chống phong toả</title>
+      <link>https://vnexpress.net/diem-tin-quy-hoach-noi-do-ha-noi-chau-au-bieu-tinh-chong-phong-toa-4251754.html</link>
+      <description><![CDATA[Nhà phố cổ Hà Nội sẽ không quá 4 tầng; Hơn 200 tàu quân sự Trung Quốc xuất hiện trên Biển Đông; Hàng nghìn người châu Âu biểu tình phản đối lệnh phong toả chống dịch...]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/diem-tin-quy-hoach-noi-do-ha-noi-chau-au-bieu-tinh-chong-phong-toa-4251754.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/21/diem-tin-quy-hoach-noi-do-ha-noi-chau-au-bieu-tinh-chong-phong-toa-1616328559.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 22 Mar 2021 02:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Nguyễn Ngọc Mạnh: 'Tôi muốn được là mình trước đây'</title>
       <link>https://vnexpress.net/nguyen-ngoc-manh-toi-muon-duoc-la-minh-truoc-day-4251502.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/diem-tin-bo-nhiem-truong-ban-doi-ngoai-trung-uong-putin-thach-thuc-biden-4251145.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/19/diem-tin-bo-nhiem-truong-ban-doi-ngoai-trung-uong-putin-thach-thuc-biden-1616156837.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 20 Mar 2021 02:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Bị kỳ thị vì 'màu da vàng'</title>
-      <link>https://vnexpress.net/bi-ky-thi-vi-mau-da-vang-4250653.html</link>
-      <description><![CDATA[Chị Tâm, sống ở Pháp phải phớt lờ khi bị gọi là "đồ corona". Nhiều người Việt khác ở Đức, Ba Lan... cũng bị miệt thị, hành hung vì là "người châu Á", từ khi Covid-19.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/bi-ky-thi-vi-mau-da-vang-4250653.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/19/nguoi-viet-bi-ky-thi-vi-covid-19-1616089755.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 19 Mar 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
