@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 22 Mar 2021 18:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 23 Mar 2021 00:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 22 Mar 2021 18:00:00 +0700</pubDate>
+    <pubDate>Tue, 23 Mar 2021 00:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Thành ủy Thủ Đức đề ra 21 chỉ tiêu phát triển năm 2021 - Thời sự 17g00 22/3/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/thanh-uy-thu-duc-de-ra-21-chi-tieu-phat-trien-nam-2021-thoi-su-17g00-22-3-2021-396986.html</link>
+      <description><![CDATA[17:00 - 22/03/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/thanh-uy-thu-duc-de-ra-21-chi-tieu-phat-trien-nam-2021-thoi-su-17g00-22-3-2021-396986.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/03/22/TS17G-220321.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 23 Mar 2021 00:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Tỷ lệ giải quyết án tham nhũng đạt 93,8% - Thời sự 11g00 22/3/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/ty-le-giai-quyet-an-tham-nhung-dat-93-8-thoi-su-11g00-22-3-2021-396972.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/xuat-khau-gao-giam-trong-nhung-thang-dau-nam-2021-thoi-su-05g30-22-3-2021-396903.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/03/22/ts-220321.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 22 Mar 2021 12:30:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Karaoke, quán bar TPHCM mở lại: Náo nhiệt nhưng không lơ là phòng dịch - Thời Sự 17g00 21/3/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/karaoke-quan-bar-tphcm-mo-lai-nao-nhiet-nhung-khong-lo-la-phong-dich-thoi-su-17g00-21-3-2021-396882.html</link>
-      <description><![CDATA[22:15 - 21/03/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/karaoke-quan-bar-tphcm-mo-lai-nao-nhiet-nhung-khong-lo-la-phong-dich-thoi-su-17g00-21-3-2021-396882.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/03/21/AMThoisu17h00p210321.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 22 Mar 2021 05:15:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
