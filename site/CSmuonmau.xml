@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 17 Mar 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 22 Mar 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 17 Mar 2021 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 22 Mar 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,10 +24,42 @@
     <itunes:subtitle>Cuộc sống muôn màu</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/CSmuonmau.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Cuộc sống muôn màu 17-03-2021</title>
+      <title>Cuộc sống muôn màu 22-03-2021</title>
       <link>http://www.drt.danang.vn/chuong_trinh-199-cuoc_song_muon_mau</link>
-      <description><![CDATA[Cuộc sống muôn màu 17-03-2021]]></description>
+      <description><![CDATA[Cuộc sống muôn màu 22-03-2021]]></description>
       <guid isPermaLink="false">http://www.drt.danang.vn/chuong_trinh-199-cuoc_song_muon_mau</guid>
+      <enclosure url="http://www.drt.danang.vn/Uploads/Media/AUDIO/CUOC SONG MUON MAU/NAM 2021/THANG 3/CUOC SONG MUON MAU PHAT 22-3-2021.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 22 Mar 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Cuộc sống muôn màu 20-03-2021</title>
+      <link>http://www.drt.danang.vn/truyen_hinh-43705-199</link>
+      <description><![CDATA[Cuộc sống muôn màu 20-03-2021]]></description>
+      <guid isPermaLink="false">http://www.drt.danang.vn/truyen_hinh-43705-199</guid>
+      <enclosure url="http://www.drt.danang.vn/Uploads/Media/AUDIO/CUOC SONG MUON MAU/NAM 2021/THANG 3/CUOC SONG MUON MAU PHAT 20-3-2021.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 20 Mar 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Cuộc sống muôn màu 19-03-2021</title>
+      <link>http://www.drt.danang.vn/truyen_hinh-43704-199</link>
+      <description><![CDATA[Cuộc sống muôn màu 19-03-2021]]></description>
+      <guid isPermaLink="false">http://www.drt.danang.vn/truyen_hinh-43704-199</guid>
+      <enclosure url="http://www.drt.danang.vn/Uploads/Media/AUDIO/CUOC SONG MUON MAU/NAM 2021/THANG 3/CUOC SONG MUON MAU PHAT 19-3-2021.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 19 Mar 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Cuộc sống muôn màu 18-03-2021</title>
+      <link>http://www.drt.danang.vn/truyen_hinh-43703-199</link>
+      <description><![CDATA[Cuộc sống muôn màu 18-03-2021]]></description>
+      <guid isPermaLink="false">http://www.drt.danang.vn/truyen_hinh-43703-199</guid>
+      <enclosure url="http://www.drt.danang.vn/Uploads/Media/AUDIO/CUOC SONG MUON MAU/NAM 2021/THANG 3/CUOC SONG MUON MAU PHAT 18-3-2021.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 18 Mar 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Cuộc sống muôn màu 17-03-2021</title>
+      <link>http://www.drt.danang.vn/truyen_hinh-43601-199</link>
+      <description><![CDATA[Cuộc sống muôn màu 17-03-2021]]></description>
+      <guid isPermaLink="false">http://www.drt.danang.vn/truyen_hinh-43601-199</guid>
       <enclosure url="http://www.drt.danang.vn/Uploads/Media/AUDIO/CUOC SONG MUON MAU/NAM 2021/THANG 3/CUOC SONG MUON MAU PHAT 17-3-2021.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 17 Mar 2021 19:00:00 +0700</pubDate>
     </item>
@@ -38,38 +70,6 @@
       <guid isPermaLink="false">http://www.drt.danang.vn/truyen_hinh-43582-199</guid>
       <enclosure url="http://www.drt.danang.vn/Uploads/Media/AUDIO/CUOC SONG MUON MAU/NAM 2021/THANG 3/CUOC SONG MUON MAU PHAT 16-3-2021.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 16 Mar 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Cuộc sống muôn màu 15-03-2021</title>
-      <link>http://www.drt.danang.vn/truyen_hinh-43581-199</link>
-      <description><![CDATA[Cuộc sống muôn màu 15-03-2021]]></description>
-      <guid isPermaLink="false">http://www.drt.danang.vn/truyen_hinh-43581-199</guid>
-      <enclosure url="http://www.drt.danang.vn/Uploads/Media/AUDIO/CUOC SONG MUON MAU/NAM 2021/THANG 3/CUOC SONG MUON MAU PHAT 15-3-2021.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 15 Mar 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Cuộc sống muôn màu 13-03-2021</title>
-      <link>http://www.drt.danang.vn/truyen_hinh-43530-199</link>
-      <description><![CDATA[Cuộc sống muôn màu 13-03-2021]]></description>
-      <guid isPermaLink="false">http://www.drt.danang.vn/truyen_hinh-43530-199</guid>
-      <enclosure url="http://www.drt.danang.vn/Uploads/Media/AUDIO/CUOC SONG MUON MAU/NAM 2021/THANG 3/CUOC SONG MUON MAU PHAT 13-3-2021.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 13 Mar 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Cuộc sống muôn màu 12-03-2021</title>
-      <link>http://www.drt.danang.vn/truyen_hinh-43529-199</link>
-      <description><![CDATA[Cuộc sống muôn màu 12-03-2021]]></description>
-      <guid isPermaLink="false">http://www.drt.danang.vn/truyen_hinh-43529-199</guid>
-      <enclosure url="http://www.drt.danang.vn/Uploads/Media/AUDIO/CUOC SONG MUON MAU/NAM 2021/THANG 3/CUOC SONG MUON MAU PHAT 12-3-2021.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 12 Mar 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Cuộc sống muôn màu 11-03-2021</title>
-      <link>http://www.drt.danang.vn/truyen_hinh-43447-199</link>
-      <description><![CDATA[Cuộc sống muôn màu 11-03-2021]]></description>
-      <guid isPermaLink="false">http://www.drt.danang.vn/truyen_hinh-43447-199</guid>
-      <enclosure url="http://www.drt.danang.vn/Uploads/Media/AUDIO/CUOC SONG MUON MAU/NAM 2021/THANG 3/CUOC SONG MUON MAU PHAT 11-3-2021.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 11 Mar 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
