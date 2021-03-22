@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 22 Mar 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 23 Mar 2021 02:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 22 Mar 2021 11:00:00 +0700</pubDate>
+    <pubDate>Tue, 23 Mar 2021 02:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Điểm tin: Hà Nội giảm dân nội đô, tăng lương hưu, giá vàng giảm</title>
+      <link>https://vnexpress.net/diem-tin-ha-noi-giam-dan-noi-do-tang-luong-huu-gia-vang-giam-4252312.html</link>
+      <description><![CDATA[Hà Nội sẽ giảm hơn 200.000 dân ở bốn quận nội thành; Dân Sài Gòn hiến 7.000 m2 mở rộng hẻm; Hai phương án tăng lương hưu và trợ cấp xã hội lên 10% hoặc 15%...]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/diem-tin-ha-noi-giam-dan-noi-do-tang-luong-huu-gia-vang-giam-4252312.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/22/diem-tin-ha-noi-giam-dan-noi-do-tang-luong-huu-gia-vang-giam-1616414392.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 23 Mar 2021 02:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Người Việt tại Czech chật vật tìm đường hồi hương</title>
       <link>https://vnexpress.net/nguoi-viet-tai-czech-chat-vat-tim-duong-hoi-huong-4251812.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/diem-tin-da-nang-co-trung-tam-tai-chinh-chong-bao-luc-voi-nguoi-goc-a-4251455.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/20/diem-tin-da-nang-co-trung-tam-tai-chinh-chong-bao-luc-voi-nguoi-goc-a-1616251557.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 21 Mar 2021 02:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đà Nẵng dẹp loạn tiếng ồn karaoke</title>
-      <link>https://vnexpress.net/da-nang-dep-loan-tieng-on-karaoke-4251218.html</link>
-      <description><![CDATA[Phường Nại Hiên Đông lập các đội phản ứng nhanh tản khắp khu dân cư mỗi tối để phát hiện và xử phạt không cần máy đo tiếng ồn. Với tình huống phức tạp, đội công an sẽ xuống hỗ trợ.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/da-nang-dep-loan-tieng-on-karaoke-4251218.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/20/da-nang-dep-loan-tieng-on-karaoke-1616175171.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 20 Mar 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
