@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 22 Mar 2021 12:30:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 22 Mar 2021 18:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 22 Mar 2021 12:30:00 +0700</pubDate>
+    <pubDate>Mon, 22 Mar 2021 18:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Tỷ lệ giải quyết án tham nhũng đạt 93,8% - Thời sự 11g00 22/3/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/ty-le-giai-quyet-an-tham-nhung-dat-93-8-thoi-su-11g00-22-3-2021-396972.html</link>
+      <description><![CDATA[11:00 - 22/03/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/ty-le-giai-quyet-an-tham-nhung-dat-93-8-thoi-su-11g00-22-3-2021-396972.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/03/22/ts11-220321.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 22 Mar 2021 18:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Xuất khẩu gạo giảm trong những tháng đầu năm 2021 - Thời sự 05g30 22/3/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/xuat-khau-gao-giam-trong-nhung-thang-dau-nam-2021-thoi-su-05g30-22-3-2021-396903.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/karaoke-quan-bar-tphcm-mo-lai-nao-nhiet-nhung-khong-lo-la-phong-dich-thoi-su-17g00-21-3-2021-396882.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/03/21/AMThoisu17h00p210321.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 22 Mar 2021 05:15:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Giảm hơn 450 tỉ đồng tiền điện cho khách hàng bị ảnh hưởng bởi Covid-19 - Thời sự 11g00 21/3/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/giam-hon-450-ti-dong-tien-dien-cho-khach-hang-bi-anh-huong-boi-covid-19-thoi-su-11g00-21-3-2021-396870.html</link>
-      <description><![CDATA[11:00 - 21/03/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/giam-hon-450-ti-dong-tien-dien-cho-khach-hang-bi-anh-huong-boi-covid-19-thoi-su-11g00-21-3-2021-396870.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/03/21/ts11g00-210321.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 21 Mar 2021 18:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
