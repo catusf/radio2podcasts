@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 16 Mar 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 22 Mar 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 16 Mar 2021 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 22 Mar 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,16 @@
     </itunes:owner>
     <itunes:subtitle>Thể thao 7 ngày</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Thethao7ngay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Chương trình Thể thao 7 ngày 21/3/2021</title>
+      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
+      <description><![CDATA[+ Điểm nhấn thể thao: Những trở ngại của các VĐV ĐTQG khi tham dự một số giải đấu thể thao quốc tế trong tình hình dịch bệnh Covid.
++ Kiến thức thể thao: Một số điểm mới đáng chú ý tại giải bóng rổ chuyên nghiệp Việt Nam VBA 202.
++ Thể thao cuộc sống:  Những thay đổi đang được triển khai sau đại hội bất thường của Liên đoàn trượt băng Việt Nam.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/03/22/vovlive_thethao-7-ngay_2103.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 22 Mar 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Chương trình Thể thao 7 ngày 14/03/2021</title>
       <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
@@ -55,16 +65,6 @@
       <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2021/03/01/vovlive_thethao-7-ngay_2802.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 01 Mar 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chương trình thể thao 7 ngày 21/2/2021</title>
-      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
-      <description><![CDATA[+ Điểm nhấn thể thao: Bài toán khó cho bóng đá Việt Nam trong năm 2021 khi phải căng mình thi đấu trên nhiều mặt trận.
-+ Chia sẻ của hai nữ cơ thủ Billiard hàng đầu Việt Nam Bích Trâm và Ngọc Huyền về việc vượt qua định kiến dư luận để theo đuổi đam mê thể thao.
-+ Kiến thức thể thao: Giải đáp thắc mắc về việc đau mỏi cơ khi tập luyện Gym.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/02/22/vovlive_thethao-7-ngay_2102.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 22 Feb 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
