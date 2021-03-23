@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 01 Jan 2000 07:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 06 Mar 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 01 Jan 2000 07:00:00 +0700</pubDate>
+    <pubDate>Sat, 06 Mar 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,5 +23,29 @@
     </itunes:owner>
     <itunes:subtitle>Kể chuyện và hát ru cho bé</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Kechuyenvahatruchobe.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Bí ẩn nguồn nước thần kỳ 6/3/2021</title>
+      <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/bi-an-nguon-nuoc-than-ky-c43-32392.aspx</link>
+      <description><![CDATA[Có hai vợ chồng ông lão đã già lắm rồi. Nhờ được uống nguồn nước thần kỳ, họ trẻ lại như thời đôi mươi. Đặc biệt họ còn có một người con nhỏ xíu để chăm sóc bế ẵm. Cuộc sống tràn ngập tiếng cười đã đến với gia đình nhỏ của họ. Các bé đừng hỏi nguồn nước ấy ở đâu, kẻo nó sẽ biến đi mất đấy... (Kể chuyện và hát ru 05/03/2021)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/bi-an-nguon-nuoc-than-ky-c43-32392.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_3/v2_0503_21h45_ke_chuyen_hat_ru_63202111.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 06 Mar 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Anh em nhà nhện trong truyện "Cây gạo cõng mặt trời" 6/3/2021</title>
+      <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/anh-em-nha-nhen-trong-truyen-cay-gao-cong-mat-troi-c43-32391.aspx</link>
+      <description><![CDATA[Câu chuyện kể về tình cảm yêu thương của anh em Nhện Hoa và Nhện Xám trong hành trình tìm nơi xây tổ. Hình ảnh cây gạo với những bông hoa gạo nở đỏ, theo liên tưởng của tác giả giống như cây gạo đang cõng mặt trời. Câu chuyện có nội dung nhẹ nhàng, gieo vào tâm hồn các bé tình cảm ấm áp về gia đình và vẻ đẹp quê hương xứ sở... (Kể chuyện và hát ru 03/03/2021)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/anh-em-nha-nhen-trong-truyen-cay-gao-cong-mat-troi-c43-32391.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_3/v2_0303_21h45_ke_chuyen_hat_ru_63202111.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 06 Mar 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Bốn điều ước diệu kỳ  6/3/2021</title>
+      <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/bon-dieu-uoc-dieu-ky-c43-32390.aspx</link>
+      <description><![CDATA[Nếu như được tặng 4 điều ước thì các bé sẽ ước gì? Còn đối với ông lão trong câu chuyện cổ tích chúng mình nghe sau đây, ông có 4 điều ước phù hợp với 4 người con trai của mình. Những mong muốn của ông đã giúp các con ông luôn biết yêu thương và quan tâm tới mọi người... (Kể chuyện và hát ru 01/03/2021)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/bon-dieu-uoc-dieu-ky-c43-32390.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_3/v2_0103_21h45_ke_chuyen_hat_ru_63202111.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 06 Mar 2021 19:00:00 +0700</pubDate>
+    </item>
   </channel>
 </rss>
