@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 25 Mar 2021 02:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 25 Mar 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 25 Mar 2021 02:00:00 +0700</pubDate>
+    <pubDate>Thu, 25 Mar 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Nhiều người già chọn sống độc lập</title>
+      <link>https://vnexpress.net/nhieu-nguoi-gia-chon-song-doc-lap-4253558.html</link>
+      <description><![CDATA[Ông Lợi 64 tuổi, chọn ở riêng để tránh xung đột thế hệ. Bà Hoa, 68 tuổi thì cho rằng, mình cần được vui chơi và không muốn vướng bận con cháu.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/nhieu-nguoi-gia-chon-song-doc-lap-4253558.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/25/nhieu-nguoi-gia-chon-song-doc-lap-1616605483.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 25 Mar 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Điểm tin: Ca mổ của Hùng Dũng 'thành công', không gian ngầm tại Hà Nội</title>
       <link>https://vnexpress.net/diem-tin-ca-mo-cua-hung-dung-thanh-cong-khong-gian-ngam-tai-ha-noi-4253499.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/nguoi-viet-giua-lan-song-bieu-tinh-chong-phong-toa-o-chau-au-4252363.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/23/nguoi-viet-noi-gi-ve-bieu-tinh-chong-phong-toa-o-chau-au-1616435440.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 23 Mar 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Điểm tin: Hà Nội giảm dân nội đô, tăng lương hưu, giá vàng giảm</title>
-      <link>https://vnexpress.net/diem-tin-ha-noi-giam-dan-noi-do-tang-luong-huu-gia-vang-giam-4252312.html</link>
-      <description><![CDATA[Hà Nội sẽ giảm hơn 200.000 dân ở bốn quận nội thành; Dân Sài Gòn hiến 7.000 m2 mở rộng hẻm; Hai phương án tăng lương hưu và trợ cấp xã hội lên 10% hoặc 15%...]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/diem-tin-ha-noi-giam-dan-noi-do-tang-luong-huu-gia-vang-giam-4252312.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/22/diem-tin-ha-noi-giam-dan-noi-do-tang-luong-huu-gia-vang-giam-1616428643.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 23 Mar 2021 02:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
