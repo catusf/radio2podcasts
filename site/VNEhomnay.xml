@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 24 Mar 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 25 Mar 2021 02:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 24 Mar 2021 11:00:00 +0700</pubDate>
+    <pubDate>Thu, 25 Mar 2021 02:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Điểm tin: Ca mổ của Hùng Dũng 'thành công', không gian ngầm tại Hà Nội</title>
+      <link>https://vnexpress.net/diem-tin-ca-mo-cua-hung-dung-thanh-cong-khong-gian-ngam-tai-ha-noi-4253499.html</link>
+      <description><![CDATA[25 chức danh lãnh đạo sắp được kiện toàn; Ca mổ nối xương chân của Hùng Dũng "bước đầu thành công"; Sân bay Tân Sơn Nhất mở thêm làn cho xe công nghệ...]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/diem-tin-ca-mo-cua-hung-dung-thanh-cong-khong-gian-ngam-tai-ha-noi-4253499.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/24/diem-tin-ca-mo-cua-hung-dung-thanh-cong-khong-gian-ngam-tai-ha-noi-1616588272.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 25 Mar 2021 02:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Người Việt tại Israel 'biết ơn chính sách vaccine'</title>
       <link>https://vnexpress.net/nguoi-viet-tai-israel-biet-on-chinh-sach-vaccine-4252958.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/diem-tin-ha-noi-giam-dan-noi-do-tang-luong-huu-gia-vang-giam-4252312.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/22/diem-tin-ha-noi-giam-dan-noi-do-tang-luong-huu-gia-vang-giam-1616428643.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 23 Mar 2021 02:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Người Việt tại Czech chật vật trong Covid</title>
-      <link>https://vnexpress.net/nguoi-viet-tai-czech-chat-vat-trong-covid-4251812.html</link>
-      <description><![CDATA[Cả gia đình anh Hùng Phan bị nhiễm Covid-19 nhưng không phải trường hợp nặng nên chữa trị tại nhà vì bệnh viện quá tải. Chi phí đi lại giữa các nước, phí cách ly... khoảng 100 triệu/người, anh chưa biết khi nào được về nhà vì hàng nghìn người khác cũng đang chờ đợi.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/nguoi-viet-tai-czech-chat-vat-trong-covid-4251812.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/23/nguoi-viet-tai-czech-chat-vat-trong-covid-1616433837.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 22 Mar 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
