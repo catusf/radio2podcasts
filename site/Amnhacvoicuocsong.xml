@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 16 Mar 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 23 Mar 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 16 Mar 2021 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 23 Mar 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Âm nhạc với cuộc sống</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Amnhacvoicuocsong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Gặp gỡ nhạc sĩ Phạm Đăng Khương: Nhạc sĩ của Tuổi trẻ Việt Nam</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[Kỷ niệm 90 năm thành lập Đoàn TNCS HCM (26/3/1931-26/3/2021) cùng gặp gỡ nhạc sĩ Phạm Đăng Khương, người Nhạc sĩ với nhiều sáng tác đồng hành cùng sinh viên, thanh niên trong các phong trào chiến dịch tình nguyện: “Con đường đến trường”, “Mùa hè sinh viên”, hay “Thanh niên Việt Nam khi Tổ quốc cần”, “Mùa hè xanh lại về”,…]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/03/23/vovlive_am_nhac_voi_cuoc_song_gap_go_nhac_si_pham_dang_khuong.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 23 Mar 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Cố NSND Doãn Tần: Giọng hát tài hoa</title>
       <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2021/03/02/vovlive_am_nhac_voi_cuoc_song_xuan_bien_cuong_hien_xuan.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 02 Mar 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Câu chuyện tình bạn giữa Nhạc sĩ Hoàng Giai và Bác sĩ Nguyễn Hồng Hà thể hiện trong thơ, nhạc và cuộc sống</title>
-      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[Kỷ niệm 66 năm ngày thầy thuốc Việt Nam (27/2/1955-27/2/2021) cùng gặp gỡ Đại tá, Bác sĩ, Tiến sĩ Y học Nguyễn Hồng Hà, nguyên Phó chủ nhiệm bộ môn Phẫu thuật thực nghiệm Học viện Quân y và Nhạc sĩ Hoàng Giai.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/02/23/vovlive_am_nhac_voi_cuoc_song_tinh_ban_nhac_si_bac_si.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 23 Feb 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
