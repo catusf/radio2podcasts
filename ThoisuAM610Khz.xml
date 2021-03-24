@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 23 Mar 2021 19:42:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 24 Mar 2021 00:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 23 Mar 2021 19:42:00 +0700</pubDate>
+    <pubDate>Wed, 24 Mar 2021 00:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Dự kiến các hãng hàng không trong nước lỗ trên 15.000 tỷ đồng năm 2021 - Thời sự 17g00 23/03/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/du-kien-cac-hang-hang-khong-trong-nuoc-lo-tren-15-000-ty-dong-nam-2021-thoi-su-17g00-23-03-2021-397125.html</link>
+      <description><![CDATA[17:00 - 23/03/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/du-kien-cac-hang-hang-khong-trong-nuoc-lo-tren-15-000-ty-dong-nam-2021-thoi-su-17g00-23-03-2021-397125.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/03/24/AMThoisu17h00p230321.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 24 Mar 2021 00:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Quốc hội dành 7 ngày để kiện toàn 25 chức danh lãnh đạo Nhà nước - Thời sự 11g00 23/03/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/quoc-hoi-danh-7-ngay-de-kien-toan-25-chuc-danh-lanh-dao-nha-nuoc-thoi-su-11g00-23-03-2021-397067.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-cong-bo-ke-hoach-tuyen-sinh-dau-cap-thoi-su-5g30-23-03-2021-397011.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/03/23/AMThoisu05h30p230321.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 23 Mar 2021 15:53:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Thành ủy Thủ Đức đề ra 21 chỉ tiêu phát triển năm 2021 - Thời sự 17g00 22/3/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/thanh-uy-thu-duc-de-ra-21-chi-tieu-phat-trien-nam-2021-thoi-su-17g00-22-3-2021-396986.html</link>
-      <description><![CDATA[17:00 - 22/03/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/thanh-uy-thu-duc-de-ra-21-chi-tieu-phat-trien-nam-2021-thoi-su-17g00-22-3-2021-396986.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/03/22/TS17G-220321.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 23 Mar 2021 00:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
