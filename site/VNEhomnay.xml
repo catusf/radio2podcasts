@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 26 Mar 2021 02:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 26 Mar 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 26 Mar 2021 02:00:00 +0700</pubDate>
+    <pubDate>Fri, 26 Mar 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Mua hàng được 'rác'</title>
+      <link>https://vnexpress.net/mua-hang-duoc-rac-4254188.html</link>
+      <description><![CDATA[Đặt bộ ga giường qua web thương mại điện tử, chị Trang nhận về đống quần áo cũ do không mở hộp ra kiểm tra. Liên hệ với shop bán, họ cho biết đơn hàng chưa được giao.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/mua-hang-duoc-rac-4254188.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/26/mua-hang-duoc-rac-1616693383.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 26 Mar 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Điểm tin: Thu thuế thương mại điện tử, giá đất ven đô TP HCM tăng</title>
       <link>https://vnexpress.net/diem-tin-thu-thue-thuong-mai-dien-tu-gia-dat-ven-do-tp-hcm-tang-4254117.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/nguoi-viet-tai-israel-biet-on-chinh-sach-vaccine-4252958.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/24/nguoi-viet-tai-israel-biet-on-chinh-sach-vaccine-1616555307.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 24 Mar 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Điểm tin: Giới thiệu bầu Chủ tịch nước, hỗ trợ tiền giáo viên mầm non TP HCM</title>
-      <link>https://vnexpress.net/diem-tin-gioi-thieu-bau-chu-tich-nuoc-ho-tro-tien-giao-vien-mam-non-tp-hcm-4252865.html</link>
-      <description><![CDATA[Lần đầu tiên đương kim Thủ tướng được giới thiệu để bầu Chủ tịch nước; Việt Nam phê duyệt khẩn cấp vaccine Sputnik V; Giáo viên mầm non TP HCM sẽ được hỗ trợ 3 triệu/tháng...]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/diem-tin-gioi-thieu-bau-chu-tich-nuoc-ho-tro-tien-giao-vien-mam-non-tp-hcm-4252865.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/23/diem-tin-thu-tuong-duoc-gioi-thieu-de-bau-lam-chu-tich-nuoc-1616502946.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 24 Mar 2021 02:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
