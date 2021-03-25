@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 01 Jan 2000 07:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 25 Mar 2021 15:15:36 +0100</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 01 Jan 2000 07:00:00 +0700</pubDate>
+    <pubDate>Thu, 25 Mar 2021 15:15:36 +0100</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,5 +23,45 @@
     </itunes:owner>
     <itunes:subtitle>Chương trình 60'</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Chuongtrinh60.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>25-03-2021 CHƯƠNG TRÌNH 60 PHÚT</title>
+      <link>https://www.rfi.fr/vi/t%E1%BB%95ng-h%E1%BB%A3p/20210325-ch%C6%B0%C6%A1ng-tr%C3%ACnh-60-ph%C3%BAt</link>
+      <description><![CDATA[25-03-2021 CHƯƠNG TRÌNH 60 PHÚT]]></description>
+      <guid isPermaLink="false">https://www.rfi.fr/vi/t%E1%BB%95ng-h%E1%BB%A3p/20210325-ch%C6%B0%C6%A1ng-tr%C3%ACnh-60-ph%C3%BAt</guid>
+      <enclosure url="https://aod-rfi.akamaized.net/rfi/vietnamien/audio/modules/actu/202103/VN_60MN_2021_03_25.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 25 Mar 2021 15:15:36 +0100</pubDate>
+    </item>
+    <item>
+      <title>24-03-2021 CHƯƠNG TRÌNH 60 PHÚT</title>
+      <link>https://www.rfi.fr/vi/t%E1%BB%95ng-h%E1%BB%A3p/20210324-ch%C6%B0%C6%A1ng-tr%C3%ACnh-60-ph%C3%BAt</link>
+      <description><![CDATA[24-03-2021 CHƯƠNG TRÌNH 60 PHÚT]]></description>
+      <guid isPermaLink="false">https://www.rfi.fr/vi/t%E1%BB%95ng-h%E1%BB%A3p/20210324-ch%C6%B0%C6%A1ng-tr%C3%ACnh-60-ph%C3%BAt</guid>
+      <enclosure url="https://aod-rfi.akamaized.net/rfi/vietnamien/audio/modules/actu/202103/VN_60MN_2021_03_24.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 24 Mar 2021 15:22:07 +0100</pubDate>
+    </item>
+    <item>
+      <title>23-03-2021 CHƯƠNG TRÌNH 60 PHÚT</title>
+      <link>https://www.rfi.fr/vi/t%E1%BB%95ng-h%E1%BB%A3p/20210323-ch%C6%B0%C6%A1ng-tr%C3%ACnh-60-ph%C3%BAt</link>
+      <description><![CDATA[23-03-2021 CHƯƠNG TRÌNH 60 PHÚT]]></description>
+      <guid isPermaLink="false">https://www.rfi.fr/vi/t%E1%BB%95ng-h%E1%BB%A3p/20210323-ch%C6%B0%C6%A1ng-tr%C3%ACnh-60-ph%C3%BAt</guid>
+      <enclosure url="https://aod-rfi.akamaized.net/rfi/vietnamien/audio/modules/actu/202103/VN_60MN_2021_03_23.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 23 Mar 2021 15:27:14 +0100</pubDate>
+    </item>
+    <item>
+      <title>22-03-2021 CHƯƠNG TRÌNH 60 PHÚT</title>
+      <link>https://www.rfi.fr/vi/t%E1%BB%95ng-h%E1%BB%A3p/20210322-ch%C6%B0%C6%A1ng-tr%C3%ACnh-60-ph%C3%BAt</link>
+      <description><![CDATA[22-03-2021 CHƯƠNG TRÌNH 60 PHÚT]]></description>
+      <guid isPermaLink="false">https://www.rfi.fr/vi/t%E1%BB%95ng-h%E1%BB%A3p/20210322-ch%C6%B0%C6%A1ng-tr%C3%ACnh-60-ph%C3%BAt</guid>
+      <enclosure url="https://aod-rfi.akamaized.net/rfi/vietnamien/audio/modules/actu/202103/VN_60MN_2021_03_22.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 22 Mar 2021 15:14:21 +0100</pubDate>
+    </item>
+    <item>
+      <title>21-03-2021 CHƯƠNG TRÌNH 60 PHÚT</title>
+      <link>https://www.rfi.fr/vi/t%E1%BB%95ng-h%E1%BB%A3p/20210321-ch%C6%B0%C6%A1ng-tr%C3%ACnh-60-ph%C3%BAt</link>
+      <description><![CDATA[21-03-2021 CHƯƠNG TRÌNH 60 PHÚT]]></description>
+      <guid isPermaLink="false">https://www.rfi.fr/vi/t%E1%BB%95ng-h%E1%BB%A3p/20210321-ch%C6%B0%C6%A1ng-tr%C3%ACnh-60-ph%C3%BAt</guid>
+      <enclosure url="https://aod-rfi.akamaized.net/rfi/vietnamien/audio/modules/actu/202103/VN_60MN_2021_03_21.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 21 Mar 2021 15:22:27 +0100</pubDate>
+    </item>
   </channel>
 </rss>
