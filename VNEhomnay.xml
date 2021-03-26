@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 27 Mar 2021 02:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 27 Mar 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 27 Mar 2021 02:00:00 +0700</pubDate>
+    <pubDate>Sat, 27 Mar 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -40,6 +40,14 @@
       <pubDate>Fri, 26 Mar 2021 11:00:00 +0700</pubDate>
     </item>
     <item>
+      <title>Quan niệm về việc đưa bố mẹ vào viện dưỡng lão</title>
+      <link>https://vnexpress.net/quan-niem-ve-viec-dua-bo-me-vao-vien-duong-lao-4254187.html</link>
+      <description><![CDATA[Khi hầu hết con cái đều cho rằng đưa bố mẹ vào viện dưỡng lão là bất hiếu thì vẫn có nhiều người cao tuổi cho biết, họ muốn được độc lập, dưỡng già bên bạn bè và được chăm sóc y tế tốt.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/quan-niem-ve-viec-dua-bo-me-vao-vien-duong-lao-4254187.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/27/quan-niem-ve-viec-dua-bo-me-vao-vien-duong-lao-1616781392.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 27 Mar 2021 11:00:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Điểm tin: Thu thuế thương mại điện tử, giá đất ven đô TP HCM tăng</title>
       <link>https://vnexpress.net/diem-tin-thu-thue-thuong-mai-dien-tu-gia-dat-ven-do-tp-hcm-tang-4254117.html</link>
       <description><![CDATA[Ngành thuế muốn sàn thương mại điện tử cung cấp doanh thu người bán để đánh thuế; Giá đất 5 huyện ven đô TP HCM đồng loạt tăng; Thu hồi sổ hộ khẩu giấy khi người dân thay đổi thông tin...]]></description>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/tuoi-gia-doc-lap-4253558.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/25/nhieu-nguoi-gia-chon-song-doc-lap-1616605483.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 25 Mar 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Điểm tin: Ca mổ của Hùng Dũng 'thành công', không gian ngầm tại Hà Nội</title>
-      <link>https://vnexpress.net/diem-tin-ca-mo-cua-hung-dung-thanh-cong-khong-gian-ngam-tai-ha-noi-4253499.html</link>
-      <description><![CDATA[25 chức danh lãnh đạo sắp được kiện toàn; Ca mổ nối xương chân của Hùng Dũng "bước đầu thành công"; Sân bay Tân Sơn Nhất mở thêm làn cho xe công nghệ...]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/diem-tin-ca-mo-cua-hung-dung-thanh-cong-khong-gian-ngam-tai-ha-noi-4253499.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/24/diem-tin-ca-mo-cua-hung-dung-thanh-cong-khong-gian-ngam-tai-ha-noi-1616594966.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 25 Mar 2021 02:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
