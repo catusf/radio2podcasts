@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 26 Mar 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 27 Mar 2021 02:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 26 Mar 2021 11:00:00 +0700</pubDate>
+    <pubDate>Sat, 27 Mar 2021 02:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Điểm tin: Phó thủ tướng tiêm thử vaccine, hai ca Covid-19 nhập cảnh trái phép</title>
+      <link>https://vnexpress.net/diem-tin-pho-thu-tuong-tiem-thu-vaccine-hai-ca-covid-19-nhap-canh-trai-phep-4254375.html</link>
+      <description><![CDATA[Phó thủ tướng Vũ Đức Đam tiêm thử mũi hai vaccine Nano Covax của Việt Nam; Hai ca Covid-19 nhập cảnh trái phép về TP HCM và Hải Phòng; Vietnam Airlines tái khởi động bay quốc tế...]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/diem-tin-pho-thu-tuong-tiem-thu-vaccine-hai-ca-covid-19-nhap-canh-trai-phep-4254375.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/26/diem-tin-pho-thu-tuong-tiem-thu-vaccine-hai-ca-covid-19-nhap-canh-trai-phep-1616757578.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 27 Mar 2021 02:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Mua hàng được 'rác'</title>
       <link>https://vnexpress.net/mua-hang-duoc-rac-4254188.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/diem-tin-ca-mo-cua-hung-dung-thanh-cong-khong-gian-ngam-tai-ha-noi-4253499.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/24/diem-tin-ca-mo-cua-hung-dung-thanh-cong-khong-gian-ngam-tai-ha-noi-1616594966.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 25 Mar 2021 02:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Người Việt tại Israel 'biết ơn chính sách vaccine'</title>
-      <link>https://vnexpress.net/nguoi-viet-tai-israel-biet-on-chinh-sach-vaccine-4252958.html</link>
-      <description><![CDATA[Trúc Anh nói, cô biết ơn đất nước Israel vì không bị phân biệt đối xử, hỗ trợ và tiêm miễn phí vaccine. Đất nước này đã chấp nhận trả giá cao hơn để có đủ vaccine tiêm đồng loạt. Cuộc sống đang dần trở lại.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/nguoi-viet-tai-israel-biet-on-chinh-sach-vaccine-4252958.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/24/nguoi-viet-tai-israel-biet-on-chinh-sach-vaccine-1616555307.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 24 Mar 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
