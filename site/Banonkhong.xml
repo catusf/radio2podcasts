@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 21 Mar 2021 03:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 28 Mar 2021 03:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 21 Mar 2021 03:00:00 +0700</pubDate>
+    <pubDate>Sun, 28 Mar 2021 03:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Bạn ổn không?</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Banonkhong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>'Vợ ngủ với đồng nghiệp cũ của tôi'</title>
+      <link>https://vnexpress.net/vo-ngu-voi-dong-nghiep-cu-cua-toi-4253322.html</link>
+      <description><![CDATA[Cưới được 7 năm, mọi việc trong nhà Đông đều làm thay vợ, nhưng vẫn bị phản bội hết lần này đến lượt khác. Đỉnh điểm là khi anh phát hiện vợ ngoại tình với chính người đồng nghiệp cũ mà anh từng dẫn về nhà.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/vo-ngu-voi-dong-nghiep-cu-cua-toi-4253322.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/24/toi-chieu-vo-het-muc-nhung-co-ay-van-ngoai-tinh-1616571748.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 28 Mar 2021 03:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>'Đàn bà vốn khổ'</title>
       <link>https://vnexpress.net/dan-ba-von-kho-4249998.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/toi-khong-biet-lam-sao-de-co-tinh-cam-voi-chong-4237510.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/02/21/toi-khong-biet-lam-sao-de-co-tinh-cam-voi-chong-1613878088.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 21 Feb 2021 03:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>'Kiếm tiền nuôi chồng, tôi bị chì chiết theo trai'</title>
-      <link>https://vnexpress.net/kiem-tien-nuoi-chong-toi-bi-chi-chiet-theo-trai-4235013.html</link>
-      <description><![CDATA[Sau 8 năm về nhà chồng, tài sản của Tuyết chỉ có 2 đứa con và 3 bộ quần áo. Do chồng bỏ mặc kinh tế gia đình, Tuyết quyết định đi xa kiếm tiền thì bị nhà chồng xúc phạm "cô đi theo trai".]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/kiem-tien-nuoi-chong-toi-bi-chi-chiet-theo-trai-4235013.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/02/27/kiem-tien-nuoi-chong-toi-bi-chi-chiet-theo-trai-1614435242.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 28 Feb 2021 03:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
