@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 27 Mar 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 28 Mar 2021 02:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 27 Mar 2021 11:00:00 +0700</pubDate>
+    <pubDate>Sun, 28 Mar 2021 02:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Điểm tin: Nộp phạt giao thông qua mã định danh, giá xăng tăng</title>
+      <link>https://vnexpress.net/diem-tin-nop-phat-giao-thong-qua-ma-dinh-danh-gia-xang-tang-4254512.html</link>
+      <description><![CDATA[Thử nghiệm nộp phạt vi phạm giao thông qua mã định danh trên thẻ căn cước; Chuẩn bị cơ chế cho hộ chiếu vaccine; Hùng Dũng tập đi...]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/diem-tin-nop-phat-giao-thong-qua-ma-dinh-danh-gia-xang-tang-4254512.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/27/diem-tin-nop-phat-giao-thong-qua-ma-dinh-danh-1616845665.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 28 Mar 2021 02:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Điểm tin: Phó thủ tướng tiêm thử vaccine, hai ca Covid-19 nhập cảnh trái phép</title>
       <link>https://vnexpress.net/diem-tin-pho-thu-tuong-tiem-thu-vaccine-hai-ca-covid-19-nhap-canh-trai-phep-4254375.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/diem-tin-thu-thue-thuong-mai-dien-tu-gia-dat-ven-do-tp-hcm-tang-4254117.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/25/diem-tin-thu-thue-thuong-mai-dien-tu-gia-dat-ven-do-tp-hcm-tang-1616677412.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 26 Mar 2021 02:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Tuổi già 'độc lập'</title>
-      <link>https://vnexpress.net/tuoi-gia-doc-lap-4253558.html</link>
-      <description><![CDATA[Bà Hoa, 68 tuổi chọn ở riêng vì cần được vui chơi và không muốn vướng bận con cháu; còn ông Lợi, 64 tuổi cho rằng ở riêng sẽ tránh xung đột thế hệ... dù họ vẫn có những nỗi lo khác.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/tuoi-gia-doc-lap-4253558.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/25/nhieu-nguoi-gia-chon-song-doc-lap-1616605483.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 25 Mar 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
