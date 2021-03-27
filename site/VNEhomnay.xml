@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 28 Mar 2021 02:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 28 Mar 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 28 Mar 2021 02:00:00 +0700</pubDate>
+    <pubDate>Sun, 28 Mar 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Người mẹ đi tìm trái tim con trai</title>
+      <link>https://vnexpress.net/nguoi-me-di-tim-trai-tim-con-trai-4254555.html</link>
+      <description><![CDATA[Mong muốn "một phần" con mình vẫn tồn tại nên bác Nhường quyết định hiến tạng con trai. Đó cũng là lý do bác quyết tâm tìm để gặp được "trái tim" của con trai mình.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/nguoi-me-di-tim-trai-tim-con-trai-4254555.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/28/nguoi-me-di-tim-trai-tim-con-trai-1616868938.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 28 Mar 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Điểm tin: Nộp phạt giao thông qua mã định danh, giá xăng tăng</title>
       <link>https://vnexpress.net/diem-tin-nop-phat-giao-thong-qua-ma-dinh-danh-gia-xang-tang-4254512.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/quan-niem-ve-viec-dua-bo-me-vao-vien-duong-lao-4254187.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/27/quan-niem-ve-viec-dua-bo-me-vao-vien-duong-lao-1616781392.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 27 Mar 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Điểm tin: Thu thuế thương mại điện tử, giá đất ven đô TP HCM tăng</title>
-      <link>https://vnexpress.net/diem-tin-thu-thue-thuong-mai-dien-tu-gia-dat-ven-do-tp-hcm-tang-4254117.html</link>
-      <description><![CDATA[Ngành thuế muốn sàn thương mại điện tử cung cấp doanh thu người bán để đánh thuế; Giá đất 5 huyện ven đô TP HCM đồng loạt tăng; Thu hồi sổ hộ khẩu giấy khi người dân thay đổi thông tin...]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/diem-tin-thu-thue-thuong-mai-dien-tu-gia-dat-ven-do-tp-hcm-tang-4254117.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/25/diem-tin-thu-thue-thuong-mai-dien-tu-gia-dat-ven-do-tp-hcm-tang-1616677412.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 26 Mar 2021 02:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
