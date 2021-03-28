@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 28 Mar 2021 03:11:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 28 Mar 2021 18:51:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 28 Mar 2021 03:11:00 +0700</pubDate>
+    <pubDate>Sun, 28 Mar 2021 18:51:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,28 +24,28 @@
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Tổng hợp tuần làm việc đầu tiên của kỳ họp 11, Quốc hội khóa XIV - Thời sự 11g00 28/3/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tong-hop-tuan-lam-viec-dau-tien-cua-ky-hop-11-quoc-hoi-khoa-xiv-thoi-su-11g00-28-3-2021-397506.html</link>
+      <description><![CDATA[11:51 - 28/03/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tong-hop-tuan-lam-viec-dau-tien-cua-ky-hop-11-quoc-hoi-khoa-xiv-thoi-su-11g00-28-3-2021-397506.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/03/28/AMThoisu11h00p280321sss.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 28 Mar 2021 18:51:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Thanh niên xung phong TPHCM viết tiếp những trang sử vẻ vang - Thời sự 5g30 28/3/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/thanh-nien-xung-phong-tphcm-viet-tiep-nhung-trang-su-ve-vang-thoi-su-5g30-28-3-2021-397505.html</link>
+      <description><![CDATA[11:39 - 28/03/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/thanh-nien-xung-phong-tphcm-viet-tiep-nhung-trang-su-ve-vang-thoi-su-5g30-28-3-2021-397505.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/03/28/AMThoisu05h30p280321sss.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 28 Mar 2021 18:39:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Hội nghị trực tuyến toàn quốc quán triệt Nghị quyết Đại hội XIII - Thời sự 17g00 27/3/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/hoi-nghi-truc-tuyen-toan-quoc-quan-triet-nghi-quyet-dai-hoi-xiii-thoi-su-17g00-27-3-2021-397483.html</link>
       <description><![CDATA[20:11 - 27/03/2021]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/hoi-nghi-truc-tuyen-toan-quoc-quan-triet-nghi-quyet-dai-hoi-xiii-thoi-su-17g00-27-3-2021-397483.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/03/27/AMThoisu17h00p270321Cuon1.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 28 Mar 2021 03:11:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Tập trung phát triển cơ sở vật chất và đào tạo nhân lực TDTT cho TPHCM - Thời sự 11g00 27/3/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tap-trung-phat-trien-co-so-vat-chat-va-dao-tao-nhan-luc-tdtt-cho-tphcm-thoi-su-11g00-27-3-2021-397460.html</link>
-      <description><![CDATA[11:49 - 27/03/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tap-trung-phat-trien-co-so-vat-chat-va-dao-tao-nhan-luc-tdtt-cho-tphcm-thoi-su-11g00-27-3-2021-397460.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/03/27/AMThoisu11h00p270321.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 27 Mar 2021 18:49:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>"Cần hạn chế tối đa những sự kiện tập trung đông người" - Thời sự 5g30 27/3/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/can-han-che-toi-da-nhung-su-kien-tap-trung-dong-nguoi-thoi-su-5g30-27-3-2021-397434.html</link>
-      <description><![CDATA[06:44 - 27/03/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/can-han-che-toi-da-nhung-su-kien-tap-trung-dong-nguoi-thoi-su-5g30-27-3-2021-397434.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/03/27/AMThoisu05h30p270321.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 27 Mar 2021 13:44:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
