@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 28 Mar 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 29 Mar 2021 02:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 28 Mar 2021 11:00:00 +0700</pubDate>
+    <pubDate>Mon, 29 Mar 2021 02:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Điểm tin: TP HCM cấp căn cước tận nơi, mở rộng sân bay Điện Biên</title>
+      <link>https://vnexpress.net/diem-tin-tp-hcm-cap-can-cuoc-tan-noi-mo-rong-san-bay-dien-bien-4254698.html</link>
+      <description><![CDATA[TP HCM sẽ cấp thẻ căn cước công dân đến từng tổ dân phố; Điện Biên mở rộng sân bay, đón tàu bay lớn; Philippines tuyên bố đưa thêm tàu chiến tuần tra Biển Đông...]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/diem-tin-tp-hcm-cap-can-cuoc-tan-noi-mo-rong-san-bay-dien-bien-4254698.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/28/diem-tin-tp-hcm-cap-can-cuoc-tan-noi-mo-rong-san-bay-dien-bien-1616932168.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 29 Mar 2021 02:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Người mẹ đi tìm trái tim con trai</title>
       <link>https://vnexpress.net/nguoi-me-di-tim-trai-tim-con-trai-4254555.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/mua-hang-duoc-rac-4254188.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/26/mua-hang-duoc-rac-1616733774.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 26 Mar 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Quan niệm về việc đưa bố mẹ vào viện dưỡng lão</title>
-      <link>https://vnexpress.net/quan-niem-ve-viec-dua-bo-me-vao-vien-duong-lao-4254187.html</link>
-      <description><![CDATA[Khi hầu hết con cái đều cho rằng đưa bố mẹ vào viện dưỡng lão là bất hiếu thì vẫn có nhiều người cao tuổi cho biết, họ muốn được độc lập, dưỡng già bên bạn bè và được chăm sóc y tế tốt.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/quan-niem-ve-viec-dua-bo-me-vao-vien-duong-lao-4254187.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/27/quan-niem-ve-viec-dua-bo-me-vao-vien-duong-lao-1616781392.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 27 Mar 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
