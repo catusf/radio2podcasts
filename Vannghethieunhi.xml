@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 26 Mar 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 29 Mar 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 26 Mar 2021 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 29 Mar 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Văn nghệ thiếu nhi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Vannghethieunhi.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Đọc truyện "Trong gia đình" - Buổi 35 - Ông Vufrăng suy sụp26/3/2021</title>
+      <title>Hoa cỏ mùa xuân qua nét vẽ 29/3/2021</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/hoa-co-mua-xuan-qua-net-ve-c44-32437.aspx</link>
+      <description><![CDATA[Cảnh sắc thiên nhiên xung quanh chúng ta đang ở độ đằm chín của mùa xuân. Vạn vật bừng lên sức sống tinh khôi.  Và chúng mình đã không để lỡ khoảnh khắc tuyệt vời này bằng cách lưu lại thật nhiều bức ảnh đẹp chụp quang cảnh thiên nhiên, sáng tạo nên những bức tranh thơm mùi cỏ mới về hoa cỏ mùa xuân. Để giúp các bạn có thêm một số kiến thức trong quá trình vẽ tranh, thì vừa qua Câu lạc bộ nghệ thuật Líu Lô Studio đã tổ chức lớp học vẽ chủ đề “Hoa cỏ mùa xuân”... (Trang văn học nghệ thuật tuổi mới lớn 23/03/2021)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/hoa-co-mua-xuan-qua-net-ve-c44-32437.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_3/v2_2303_10h4518h15_van_nghe_thieu_nhi_293202116.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 29 Mar 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Đọc truyện "Trong gia đình" - Buổi 35 - Ông Vufrăng suy sụp 26/3/2021</title>
       <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-trong-gia-dinh-buoi-35-ong-vufrang-suy-sup-c44-32436.aspx</link>
       <description><![CDATA[Cuối cùng, tin tức chính xác cũng đã đến. Ông Vufrăng suy sụp khi biết người con trai yêu quý không còn nữa. Ông thông báo tới họ hàng, yêu cầu mọi người tới nhà chuẩn bị làm lễ cầu hồn cho con trai. Ông muốn ở lại một mình cùng nỗi đau đớn trong lòng nhưng cô bé Perrin xin ở lại để chăm sóc ông... (Văn nghệ thiếu nhi 21/03/2021)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-trong-gia-dinh-buoi-35-ong-vufrang-suy-sup-c44-32436.aspx</guid>
@@ -37,14 +45,6 @@
       <description><![CDATA[Thấy ông Vufrăng vẫn không chấp nhận người cháu gái chưa từng gặp mặt, Perrin chưa dám thừa nhận mối quan hệ ruột thịt của mình với ông. Sau nhiều ngày đăng báo trao thưởng cho ai cung cấp thông tin của con trai, ông cũng nhận được hồi âm. Tuy nhiên những thông tin này có chính xác hay không và tình cảm giữa hai ông cháu cô bé Perrin sẽ tiến triển ra sao? (Văn nghệ thiếu nhi 20/03/2021)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-trong-gia-dinh-buoi-34-tin-tuc-ve-con-trai-ong-vufrang-c44-32435.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_3/v2_2003_10h4518h15_van_nghe_thieu_nhi_263202116.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 26 Mar 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đọc truyện "Trong gia đình" - Buổi 33 - Thân phận  26/3/2021</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-trong-gia-dinh-buoi-33-than-phan-c44-32434.aspx</link>
-      <description><![CDATA[Perrin rất xúc động khi thấy tình cảm giữa mình và ông Vufrăng đã gần gũi, gắn bó hơn. Tuy hồi hộp lo lắng nhưng Perrin vẫn quyết định hỏi ông về mối quan hệ giữa ông và người con trai. Ông không chấp nhận đám cưới của con trai cũng như sự có mặt của cô cháu gái chưa một lần gặp gỡ. Thái độ của ông như vậy, liệu Perrin có dũng cảm thổ lộ thân phận thật của mình hay không? (Văn nghệ thiếu nhi 19/03/2021)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-trong-gia-dinh-buoi-33-than-phan-c44-32434.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_3/v2_1903_10h4518h15_van_nghe_thieu_nhi_263202116.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 26 Mar 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
