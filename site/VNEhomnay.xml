@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 29 Mar 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 30 Mar 2021 01:56:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 29 Mar 2021 11:00:00 +0700</pubDate>
+    <pubDate>Tue, 30 Mar 2021 01:56:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Miễn nhiệm Thủ tướng, Chủ tịch nước; Mỹ nghi ngờ nguồn gốc Covid-19</title>
+      <link>https://vnexpress.net/mien-nhiem-thu-tuong-chu-tich-nuoc-my-nghi-ngo-nguon-goc-covid-19-4255169.html</link>
+      <description><![CDATA[Quốc hội miễn nhiệm Thủ tướng, Chủ tịch nước trong ngày 2/4; Hai đầu nậu xăng ở Sài Gòn và Long An bị bắt; Mỹ nghi Trung Quốc 'giúp' WHO soạn báo cáo nguồn gốc Covid-19...]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/mien-nhiem-thu-tuong-chu-tich-nuoc-my-nghi-ngo-nguon-goc-covid-19-4255169.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/29/mien-nhiem-thu-tuong-chu-tich-nuoc-my-nghi-ngo-nguon-goc-covid-19-1617018988.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 30 Mar 2021 01:56:00 +0700</pubDate>
+    </item>
     <item>
       <title>Người cao tuổi ở nước già hóa dân số</title>
       <link>https://vnexpress.net/nguoi-cao-tuoi-o-nuoc-gia-hoa-dan-so-4254766.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/diem-tin-nop-phat-giao-thong-qua-ma-dinh-danh-gia-xang-tang-4254512.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/27/diem-tin-nop-phat-giao-thong-qua-ma-dinh-danh-1616845665.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 28 Mar 2021 02:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Điểm tin: Phó thủ tướng tiêm thử vaccine, hai ca Covid-19 nhập cảnh trái phép</title>
-      <link>https://vnexpress.net/diem-tin-pho-thu-tuong-tiem-thu-vaccine-hai-ca-covid-19-nhap-canh-trai-phep-4254375.html</link>
-      <description><![CDATA[Phó thủ tướng Vũ Đức Đam tiêm thử mũi hai vaccine Nano Covax của Việt Nam; Hai ca Covid-19 nhập cảnh trái phép về TP HCM và Hải Phòng; Vietnam Airlines tái khởi động bay quốc tế...]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/diem-tin-pho-thu-tuong-tiem-thu-vaccine-hai-ca-covid-19-nhap-canh-trai-phep-4254375.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/26/diem-tin-pho-thu-tuong-tiem-thu-vaccine-hai-ca-covid-19-nhap-canh-trai-phep-1616757578.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 27 Mar 2021 02:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
