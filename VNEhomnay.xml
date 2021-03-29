@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 30 Mar 2021 01:56:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 30 Mar 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 30 Mar 2021 01:56:00 +0700</pubDate>
+    <pubDate>Tue, 30 Mar 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Thói quen tự chữa bệnh bằng kháng sinh của người Việt</title>
+      <link>https://vnexpress.net/thoi-quen-tu-chua-benh-bang-khang-sinh-cua-nguoi-viet-4255204.html</link>
+      <description><![CDATA[Tiện, nhanh khỏi, làm theo thói quen... là những lý do nhiều người tự uống kháng sinh để chữa ho, sốt, đau đầu. Việt Nam hiện xếp thứ 4 Châu Á - Thái Bình Dương về tỷ lệ kháng thuốc kháng sinh.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/thoi-quen-tu-chua-benh-bang-khang-sinh-cua-nguoi-viet-4255204.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/29/thoi-quen-tu-chua-benh-bang-khang-sinh-cua-nguoi-viet-1617032162.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 30 Mar 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Miễn nhiệm Thủ tướng, Chủ tịch nước; Mỹ nghi ngờ nguồn gốc Covid-19</title>
       <link>https://vnexpress.net/mien-nhiem-thu-tuong-chu-tich-nuoc-my-nghi-ngo-nguon-goc-covid-19-4255169.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/nguoi-me-di-tim-trai-tim-con-trai-4254555.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/28/nguoi-me-di-tim-trai-tim-con-trai-1616895492.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 28 Mar 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Điểm tin: Nộp phạt giao thông qua mã định danh, giá xăng tăng</title>
-      <link>https://vnexpress.net/diem-tin-nop-phat-giao-thong-qua-ma-dinh-danh-gia-xang-tang-4254512.html</link>
-      <description><![CDATA[Thử nghiệm nộp phạt vi phạm giao thông qua mã định danh trên thẻ căn cước; Chuẩn bị cơ chế cho hộ chiếu vaccine; Hùng Dũng tập đi...]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/diem-tin-nop-phat-giao-thong-qua-ma-dinh-danh-gia-xang-tang-4254512.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/27/diem-tin-nop-phat-giao-thong-qua-ma-dinh-danh-1616845665.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 28 Mar 2021 02:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
