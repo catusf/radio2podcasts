@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Sài Gòn buổi sáng - 28/3/2021</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-28-3-2021-397613.html</link>
+      <description><![CDATA[06:00 - 28/03/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-28-3-2021-397613.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/03/29/FMSaigonbuoisang06h00p280321.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 28 Mar 2021 13:00:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Sài Gòn buổi sáng - 29/3/2021</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-29-3-2021-397545.html</link>
       <description><![CDATA[07:38 - 29/03/2021]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-29-3-2021-397545.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/03/29/FMSGBS06h00p290321.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 29 Mar 2021 14:38:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Sài Gòn buổi sáng - 27/3/2021</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-27-3-2021-397414.html</link>
-      <description><![CDATA[08:51 - 27/03/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-27-3-2021-397414.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/03/26/FMSaigonbuoisang06h00p270321.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 27 Mar 2021 15:51:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
