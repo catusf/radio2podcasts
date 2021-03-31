@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 23 Mar 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 30 Mar 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 23 Mar 2021 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 30 Mar 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Âm nhạc với cuộc sống</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Amnhacvoicuocsong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Đề tài bầu cử trong những tác phẩm Âm nhạc</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[Hướng tới cuộc bầu cử đại biểu Quốc hội khóa 15 và đại biểu Hội đồng Nhân dân các cấp nhiệm kỳ 2021-2026, chương trình giới thiệu những tác phẩm âm nhạc mới sáng tác về đề tài này cũng như những tác phẩm đã ra đời từ những ngày tổ chức tổng tuyển cử đầu tiên của nước Việt Nam độc lập.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/03/30/vovlive_am_nhac_voi_cuoc_song_am_nhac_voi_de_tai_bau_cu.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 30 Mar 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Gặp gỡ nhạc sĩ Phạm Đăng Khương: Nhạc sĩ của Tuổi trẻ Việt Nam</title>
       <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2021/03/09/vovlive_am_nhac_voi_cuoc_song_nhac_si_van_dung.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 09 Mar 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>“Xuân biên cương” - Món quà âm nhạc gửi tặng những người lính biên phòng</title>
-      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[Kỷ niệm 62 năm ngày truyền thống Bộ đội Biên phòng Việt Nam (3/3/1959-3/3/2021), cùng lắng nghe ca khúc “Xuân biên cương” của Giảng viên thanh nhạc trường Đại học Văn hóa Nghệ thuật Quân đội - Ca sĩ Hiền Xuân cùng những chia sẻ của nữ tác giả về ca khúc này…]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/03/02/vovlive_am_nhac_voi_cuoc_song_xuan_bien_cuong_hien_xuan.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 02 Mar 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
