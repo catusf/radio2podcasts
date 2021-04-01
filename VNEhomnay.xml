@@ -24,6 +24,14 @@
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Thủ đoạn lập phòng 'bay lắc' trong bệnh viện</title>
+      <link>https://vnexpress.net/thu-doan-lap-phong-bay-lac-trong-benh-vien-4256841.html</link>
+      <description><![CDATA[Dù khu điều trị có một lối vào duy nhất và luôn khoá nhưng Quý được giao chìa khoá riêng để tự do đi lại. Hắn cài cắm đàn em nguỵ trang ngoài bệnh viện để giao ma tuý cho khách.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/thu-doan-lap-phong-bay-lac-trong-benh-vien-4256841.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/04/01/thu-doan-lap-phong-bay-lac-trong-benh-vien-1617295482.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 01 Apr 2021 11:00:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Làm mới nhạc Trịnh</title>
       <link>https://vnexpress.net/lam-moi-nhac-trinh-4256270.html</link>
       <description><![CDATA[Nhiều ca sĩ trẻ "khoác" lên nhạc Trịnh "tấm áo mới" bằng rap, EDM hay chuyển thể sang ngoại ngữ. Bên cạnh những ý kiến rằng điều này phá vỡ nét đẹp nhạc Trịnh cũng không ít nhạc sĩ đánh giá cao sự sáng tạo.]]></description>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/mien-nhiem-thu-tuong-chu-tich-nuoc-my-nghi-ngo-nguon-goc-covid-19-4255169.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/29/mien-nhiem-thu-tuong-chu-tich-nuoc-my-nghi-ngo-nguon-goc-covid-19-1617018988.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 30 Mar 2021 01:56:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Người cao tuổi ở nước già hóa dân số</title>
-      <link>https://vnexpress.net/nguoi-cao-tuoi-o-nuoc-gia-hoa-dan-so-4254766.html</link>
-      <description><![CDATA[Nhiều người già tại Hàn Quốc, Nhật Bản phải kiếm sống từ việc làm bảo vệ, mại dâm... Dự báo, châu Á sẽ là nơi sinh sống của 60% những người từ 65 tuổi trở lên trên trái đất.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/nguoi-cao-tuoi-o-nuoc-gia-hoa-dan-so-4254766.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/29/nhung-van-de-cua-nguoi-gia-o-cac-nuoc-gia-hoa-dan-so-1616972779.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 29 Mar 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
