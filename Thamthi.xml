@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 27 Mar 2021 03:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 03 Apr 2021 03:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 27 Mar 2021 03:00:00 +0700</pubDate>
+    <pubDate>Sat, 03 Apr 2021 03:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thầm thì</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Thamthi.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>22 tuổi nhưng 'cậu nhỏ' như trẻ lên năm</title>
+      <link>https://vnexpress.net/22-tuoi-nhung-cau-nho-nhu-tre-len-nam-4257275.html</link>
+      <description><![CDATA[Dậy thì muộn khiến bộ phận sinh dục nam giới không phát triển, không có tinh trùng và ảnh hưởng tới khả năng sinh sản. Theo bác sĩ, điều trị muộn sẽ giảm khả năng đáp ứng.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/22-tuoi-nhung-cau-nho-nhu-tre-len-nam-4257275.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/04/02/22-tuoi-nhung-cau-nho-nhu-tre-len-nam-1617364699.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 03 Apr 2021 03:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Nam giới chảy máu khi 'yêu' có phải 'trinh tiết'?</title>
       <link>https://vnexpress.net/nam-gioi-chay-mau-khi-yeu-co-phai-trinh-tiet-4253967.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/tap-gym-co-gay-yeu-sinh-ly-4243578.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/05/tap-gym-co-gay-yeu-sinh-ly-1614929586.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 06 Mar 2021 03:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Tại sao 'cậu nhỏ' mất hứng khi mặc 'áo mưa'?</title>
-      <link>https://vnexpress.net/tai-sao-cau-nho-mat-hung-khi-mac-ao-mua-4240777.html</link>
-      <description><![CDATA[Nhiều nam giới cho rằng mình gặp vấn đề sinh lý vì "cậu nhỏ" tiu nghỉu khi mặc "áo mưa". Theo bác sĩ, nguyên nhân có thể do rối loạn rung cảm hoặc chọn nhầm "áo mưa".]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/tai-sao-cau-nho-mat-hung-khi-mac-ao-mua-4240777.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/02/26/tai-sao-cau-nho-mat-hung-khi-mac-ao-mua-1614342810.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 27 Feb 2021 03:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
