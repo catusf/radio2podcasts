@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 28 Mar 2021 03:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 04 Apr 2021 03:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 28 Mar 2021 03:00:00 +0700</pubDate>
+    <pubDate>Sun, 04 Apr 2021 03:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Bạn ổn không?</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Banonkhong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>'Muốn quay lại để cứu vớt chồng cũ bê tha'</title>
+      <link>https://vnexpress.net/muon-quay-lai-de-cuu-vot-chong-cu-be-tha-4253549.html</link>
+      <description><![CDATA[Thương cảm vì sự tụt dốc của chồng cũ sau 10 năm xa cách, Huyền muốn quay lại để giúp anh. Trước đó họ chia tay do anh qua lại với tình cũ và đánh chị vì ghen tuông.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/muon-quay-lai-de-cuu-vot-chong-cu-be-tha-4253549.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/04/03/muon-quay-lai-de-cuu-vot-nguoi-chong-be-tha-1617444345.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 04 Apr 2021 03:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>'Vợ ngủ với đồng nghiệp cũ của tôi'</title>
       <link>https://vnexpress.net/vo-ngu-voi-dong-nghiep-cu-cua-toi-4253322.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/toi-mat-kiem-soat-khi-song-voi-me-ho-4239489.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/06/cach-giao-duc-cay-nghiet-khien-toi-bi-tu-ti-va-mat-kiem-soat-1614992045.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 07 Mar 2021 03:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>'Tôi không biết làm sao để có tình cảm với chồng'</title>
-      <link>https://vnexpress.net/toi-khong-biet-lam-sao-de-co-tinh-cam-voi-chong-4237510.html</link>
-      <description><![CDATA[Sống với nhau 9 năm, chồng rất cưng chiều nhưng Son không thể yêu được anh. Cô áp lực mỗi khi chồng "vồ vập" đòi gần gũi và bực tức vì "giải quyết" xong, anh chuyển sang trạng thái lãnh cảm.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/toi-khong-biet-lam-sao-de-co-tinh-cam-voi-chong-4237510.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/02/21/toi-khong-biet-lam-sao-de-co-tinh-cam-voi-chong-1613878088.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 21 Feb 2021 03:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
