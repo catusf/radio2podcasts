@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 02 Apr 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 03 Apr 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 02 Apr 2021 19:00:00 +0700</pubDate>
+    <pubDate>Sat, 03 Apr 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Văn nghệ thiếu nhi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Vannghethieunhi.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Đọc truyện "Trong gia đình" - Buổi 37 - Quyết định của ông Vufrăng2/4/2021</title>
+      <title>Đọc truyện "Trong gia đình" - Buổi 38 - Ông Vufrăng hồi phục3/4/2021</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-trong-gia-dinh-buoi-38-ong-vufrang-hoi-phuc-c44-32449.aspx</link>
+      <description><![CDATA[Perrin đã giúp ông Vu phăng hiểu ra nhiều điều. Cô bé đã tiếp thêm cho ông một nguồn năng lượng tích cực. Bác sĩ riêng của ông Vufrăng phải thừa nhận rằng, Perrin đã có một sự tác động lớn đối với ông, giúp ông hồi phục sức khỏe và tinh thần... (Văn nghệ thiếu nhi 28/03/2021)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-trong-gia-dinh-buoi-38-ong-vufrang-hoi-phuc-c44-32449.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_4/v2_2803_10h4518h15_van_nghe_thieu_nhi_34202118.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 03 Apr 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Đọc truyện "Trong gia đình" - Buổi 37 - Quyết định của ông Vufrăng 2/4/2021</title>
       <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-trong-gia-dinh-buoi-37-quyet-dinh-cua-ong-vufrang-c44-32448.aspx</link>
       <description><![CDATA[Bệnh tình của ông Vufrăng có phần thuyên giảm, ông xuất viện và trở lại với công việc. Một sự việc đau lòng vừa xảy ra, đó là đám cháy ở làng bên, hậu quả là ba đứa trẻ - con của hai nữ công nhân nhà máy bị chết ngạt. Ông Vufrăng biết tin này và xuống tận nơi xem xét. Ông quyết định xây nhà trẻ cho con em công nhân nhà máy... (Văn nghệ thiếu nhi 27/03/2021)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-trong-gia-dinh-buoi-37-quyet-dinh-cua-ong-vufrang-c44-32448.aspx</guid>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-trong-gia-dinh-buoi-36-ong-vufrang-nhap-vien-c44-32447.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_4/v2_2603_10h4518h15_van_nghe_thieu_nhi_24202115.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 02 Apr 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Ôn tập tác phẩm trữ tình  30/3/2021</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/on-tap-tac-pham-tru-tinh-c44-32443.aspx</link>
-      <description><![CDATA[Vận dụng kiến thức vào từng bài học, đọc thuộc thơ, tìm hiểu kỹ giá trị nội dung và nghệ thuật, dành thời gian để thực hành viết các dạng bài làm văn liên quan đến tác phẩm trữ tình... Đó là cách học hiệu quả để rèn luyện khả năng cảm thụ, khả năng ghi nhớ và khả năng diễn đạt. (Văn nghệ thiếu nhi - Trang văn học nhà trường 29/03/2021)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/on-tap-tac-pham-tru-tinh-c44-32443.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_3/v2_2903_10h4518h15_van_nghe_thieu_nhi_303202112.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 30 Mar 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
