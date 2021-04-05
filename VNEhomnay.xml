@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 05 Apr 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 06 Apr 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 05 Apr 2021 11:00:00 +0700</pubDate>
+    <pubDate>Tue, 06 Apr 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Vì sao có 'cơn sốt' lan đột biến?</title>
+      <link>https://vnexpress.net/vi-sao-co-con-sot-lan-dot-bien-4258501.html</link>
+      <description><![CDATA[Khi mời khách đầu tư 200 tỷ một cây lan, người bán ví "dòng lan đột biến quý hiếm như kim cương", đồng thời cam kết sẽ thu mua lại nếu khách không thể bán sang tay.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/vi-sao-co-con-sot-lan-dot-bien-4258501.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/04/05/vi-sao-co-con-sot-lan-dot-bien-1617638707.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 06 Apr 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Ứng xử với học trò cá biệt</title>
       <link>https://vnexpress.net/ung-xu-voi-hoc-tro-ca-biet-4257939.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/bay-lac-trong-benh-vien-4256841.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/04/02/bay-lac-trong-benh-vien-1617329229.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 02 Apr 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Làm mới nhạc Trịnh</title>
-      <link>https://vnexpress.net/lam-moi-nhac-trinh-4256270.html</link>
-      <description><![CDATA[Nhiều ca sĩ trẻ "khoác" lên nhạc Trịnh "tấm áo mới" bằng rap, EDM hay chuyển thể sang ngoại ngữ. Bên cạnh những ý kiến rằng điều này phá vỡ nét đẹp nhạc Trịnh cũng không ít nhạc sĩ đánh giá cao sự sáng tạo.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/lam-moi-nhac-trinh-4256270.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/31/hi-nh-ha-i-mo-i-cu-a-nha-c-tri-nh-1617208773.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 01 Apr 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
