@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 06 Apr 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 07 Apr 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 06 Apr 2021 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 07 Apr 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Điểm hẹn văn nghệ</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Diemhenvannghe.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>“Ân tình của mẹ”: Thấm đượm tình mẫu tử thiêng liêng 6/4/2021</title>
+      <title>Phim “Bố già”: Doanh thu 400 tỷ đồng sau 1 tháng chiếu rạp 7/4/2021</title>
+      <link>http://vov6.vov.vn/diem-hen-van-nghe/phim-bo-gia-doanh-thu-400-ty-dong-sau-1-thang-chieu-rap-c158-32465.aspx</link>
+      <description><![CDATA[Được nâng cấp từ phiên bản web-drama, bộ phim của đồng đạo diễn Trấn Thành và Vũ Ngọc Đãng khai thác câu chuyện rất "đời" về tình cảm cha con, tạo nên nhiều cung bậc cảm xúc với khán giả. (Điểm hẹn văn nghệ 27/3/2021)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/phim-bo-gia-doanh-thu-400-ty-dong-sau-1-thang-chieu-rap-c158-32465.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_4/dhvn_27-3_74202111.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 07 Apr 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>“Ân tình của mẹ”: Thấm đượm tình mẫu tử thiêng liêng  6/4/2021</title>
       <link>http://vov6.vov.vn/diem-hen-van-nghe/an-tinh-cua-me-tham-duom-tinh-mau-tu-thieng-lieng-c158-32462.aspx</link>
       <description><![CDATA[Ca khúc “Ân tình của mẹ” do nhạc sĩ Ngọc Khuê phổ nhạc từ bài thơ cùng tên của tác giả Nguyễn Thành Vinh. (Điểm hẹn văn nghệ 13/3/2021)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/an-tinh-cua-me-tham-duom-tinh-mau-tu-thieng-lieng-c158-32462.aspx</guid>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/loi-cua-mua-xuan-bieng-biec-canh-yeu-duong-dom-nhuy-c158-32374.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_2/v2_2002_08h0018h30_diem_hen_van_nghe_282202114.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 28 Feb 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>"Người trở về": Bộ phim xúc động về đề tài hậu chiến  16/2/2021</title>
-      <link>http://vov6.vov.vn/diem-hen-van-nghe/nguoi-tro-ve-bo-phim-xuc-dong-ve-de-tai-hau-chien-c158-32351.aspx</link>
-      <description><![CDATA[Lấy ý tưởng từ truyện ngắn “Người về bên bến sông Châu” của nhà văn Sương Nguyệt Minh, "Người trở về" nói về cuộc đời của Mây - cô gái trẻ từ chiến trường trở về vào đúng ngày người yêu đi lấy vợ. (Điểm hẹn văn nghệ 06/02/2021)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/nguoi-tro-ve-bo-phim-xuc-dong-ve-de-tai-hau-chien-c158-32351.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_2/v2_06_02_08h00_diem_hen_van_nghe_pl_18h30_162202115.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 16 Feb 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
