@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 30 Mar 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 07 Apr 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 30 Mar 2021 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 07 Apr 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Những giọng ca còn mãi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Nhunggiongcaconmai.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>NSƯT Xuân Hanh: Chuyển thể kịch bản Chèo để gắn bó với loại hình nghệ thuật say mê</title>
+      <link>https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</link>
+      <description><![CDATA[Từ một người công nhân yêu văn nghệ đã trở thành một nghệ sĩ Chèo và đảm nhiệm vị trí Trưởng đoàn 1 - Nhà hát Chèo Hà Nội. Rồi từ một nghệ sĩ biểu diễn chuyển sang một tác giả chuyển thể kịch bản Chèo là cả một quá trình học hỏi không ngừng của NSƯT Xuân Hanh. Nhiều vở Chèo do ông viết kịch bản và chuyển thể kịch bản được Nhà hát Chèo Hà Nội dàn dựng đã chiếm được tình cảm yêu mến của đông đảo khán giả như các vở chèo: Người Thiên Đô, Oan khuất một thời, Ngọc Hân Công chúa, Cao Bá Quát, …]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/04/07/vovlive_nhung_giong_ca_con_mai_nsut_xuan_hanh.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 07 Apr 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Ca nương Quách Thị Hồ: Nghệ nhân đưa ca trù Việt Nam đến với bạn bè Quốc tế</title>
       <link>https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2021/03/11/vovlive_nhung_giong_ca_con_mai_nsut_thanh_kim_hue.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 11 Mar 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>NSƯT Văn Chương: Giọng hát vàng của làng Chèo</title>
-      <link>https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</link>
-      <description><![CDATA[NSƯT Văn Chương có một giọng hát mà ít nghệ sĩ nào có được. Giọng hát ấm áp, dày dặn, vang rền và sang trọng cùng lối diễn đằm thắm, tinh tế đã giúp tên tuổi của NSƯT Văn Chương đã in dấu ấn sâu đậm trong lòng khán thính giả yêu Chèo…]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/02/23/vovlive_nhung_giong_ca_con_mai_nsut_van_chuong_giong_ca_vang_cua_lang_cheo.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 23 Feb 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
