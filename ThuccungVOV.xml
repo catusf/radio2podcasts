@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 06 Apr 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 07 Apr 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 06 Apr 2021 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 07 Apr 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,12 +24,20 @@
     <itunes:subtitle>Thức cùng VOV</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThuccungVOV.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Nữ kiến trúc sư say mê kiến tạo không gian công cộng miễn phí tại Hà Nội (06/04/2021)</title>
-      <link>http://vov1.vov.vn/chuyen-dem/nu-kien-truc-su-say-me-kien-tao-khong-gian-cong-cong-mien-phi-tai-ha-noi-060420-c141-70627.aspx</link>
-      <description><![CDATA[Với tình yêu và niềm tự hào là người con Hà Nội, sau khi học tập và đào tạo về đô thị ở nước ngoài, kiến trúc sư Tạ Thị Thu Hương quyết định về quê hương làm việc. Công tác tại Cục Phát triển đô thị, Bộ Xây dựng, KTS Thu Hương được biết đến là người tiên phong trong việc kiến tạo các không gian công cộng, biến các không gian này thành điểm sinh hoạt văn hóa mới cho người dân, mang lại vẻ đẹp mới cho Thủ đô.]]></description>
-      <guid isPermaLink="false">http://vov1.vov.vn/chuyen-dem/nu-kien-truc-su-say-me-kien-tao-khong-gian-cong-cong-mien-phi-tai-ha-noi-060420-c141-70627.aspx</guid>
-      <enclosure url="http://adminvov1.vov.gov.vn/vov1/attachments/vov1/baongocvov1/2021_4/v1_0604_22h00_chuyen_dem_2021_64202120.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 06 Apr 2021 19:00:00 +0700</pubDate>
+      <title>Những triết lý trong cuốn sách “Đừng bao giờ từ bỏ ước mơ” (07/04/2021)</title>
+      <link>http://vov1.vov.vn/thuc-cung-vov/nhung-triet-ly-trong-cuon-sach-dung-bao-gio-tu-bo-uoc-mo-07042021-c133-70651.aspx</link>
+      <description><![CDATA[Cần tạo nền móng học tập, không chạy theo thành tích- Ông Nguyễn Thế Bảo, người tạo dựng thương hiệu Xoài Suối Lớn, tỉnh Đồng Nai]]></description>
+      <guid isPermaLink="false">http://vov1.vov.vn/thuc-cung-vov/nhung-triet-ly-trong-cuon-sach-dung-bao-gio-tu-bo-uoc-mo-07042021-c133-70651.aspx</guid>
+      <enclosure url="http://adminvov1.vov.gov.vn/vov1/attachments/vov1/phamvanan/2021_4/v1_0704_22h00_thuc_cung_vov_74202119.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 07 Apr 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Câu chuyện về vị bác sĩ với sứ mệnh cứu trợ động vật hoang dã tại Liban (05/04/2021)</title>
+      <link>http://vov1.vov.vn/nhin-ra-the-gioi/cau-chuyen-ve-vi-bac-si-voi-su-menh-cuu-tro-dong-vat-hoang-da-tai-liban-05042021-c143-70593.aspx</link>
+      <description><![CDATA[Tại Liban, tình trạng săn bắn và buôn bán động vật hoang dã vẫn luôn là bài toán khó giải quyết. Thêm vào đó, do ảnh hưởng của biến đổi khí hậu, cùng những tác động của con người, diện tích rừng tự nhiên ngày càng thu hẹp, thức ăn hiếm dần, động vật hoang dã phải kiếm ăn gần môi trường sống của con người hơn, nên càng có nguy cơ bị săn bắt. Với tình thương dành cho các loài động vật, bác sĩ thú y Gabi Hilan đã thành lập tổ chức phi chính phủ Động vật hoang dã Liban, mang sứ mệnh bảo vệ tất cả các loài vật hoang dã tại quốc gia này.]]></description>
+      <guid isPermaLink="false">http://vov1.vov.vn/nhin-ra-the-gioi/cau-chuyen-ve-vi-bac-si-voi-su-menh-cuu-tro-dong-vat-hoang-da-tai-liban-05042021-c143-70593.aspx</guid>
+      <enclosure url="http://adminvov1.vov.gov.vn/vov1/attachments/vov1/hoanglienvov1/2021_4/v1_0504_22h00_nhin_ra_the_gioi_2021_54202122.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 05 Apr 2021 19:00:00 +0700</pubDate>
     </item>
     <item>
       <title>Bảo tàng Văn minh quốc gia Ai Cập sẽ trưng bày 22 xác ướp các vị vua Ai Cập cổ đại. (05/04/2021)</title>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov1.vov.vn/chuong-trinh-thuc-cung-vov/bao-tang-van-minh-quoc-gia-ai-cap-se-trung-bay-22-xac-uop-cac-vi-vua-ai-cap-co-c166-70591.aspx</guid>
       <enclosure url="http://adminvov1.vov.gov.vn/vov1/attachments/vov1/hoanglienvov1/v1_0504_22h00_thuc_cung_vov_54202121.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 05 Apr 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Bí quyết nuôi dạy con trở thành người vừa thành công vừa hạnh phúc (01/04/2021)</title>
-      <link>http://vov1.vov.vn/nep-nha/bi-quyet-nuoi-day-con-tro-thanh-nguoi-vua-thanh-cong-vua-hanh-phuc-01042021-c149-70552.aspx</link>
-      <description><![CDATA[Sinh con ra, nuôi con lớn, bất kỳ ông bố, bà mẹ nào nào cũng muốn con mình trở thành người vừa thành công, vừa hạnh phúc. Tuy nhiên, điều mong muốn ấy chưa bao giờ là dễ dàng và không phải ai cũng có thể làm được. Làm thế nào để nuôi dạy con trở thành người vừa thành công, vừa hạnh phúc?]]></description>
-      <guid isPermaLink="false">http://vov1.vov.vn/nep-nha/bi-quyet-nuoi-day-con-tro-thanh-nguoi-vua-thanh-cong-vua-hanh-phuc-01042021-c149-70552.aspx</guid>
-      <enclosure url="http://adminvov1.vov.gov.vn/vov1/attachments/vov1/baongocvov1/2021_4/v1_01_04_22h00_nep_nha_2021_44202119.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 01 Apr 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
