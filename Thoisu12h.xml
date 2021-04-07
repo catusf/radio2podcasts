@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 01 Jan 2000 07:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 06 Apr 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 01 Jan 2000 07:00:00 +0700</pubDate>
+    <pubDate>Tue, 06 Apr 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,5 +23,21 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự 12h</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Thoisu12h.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>THỜI SỰ 12H TRƯA 6/4/2021: CP chỉ đạo nghiên cứu ngăn chặn "cơn sốt" đất tại các địa phương.</title>
+      <link>http://vov1.vov.vn/thoi-su-12h/thoi-su-12h-trua-642021-cp-chi-dao-nghien-cuu-ngan-chan-con-sot-dat-tai-cac-dia-c12-70610.aspx</link>
+      <description><![CDATA[-  Quốc hội miễn nhiệm Phó Chủ tịch nước và một số ủy viên Ủy ban thường vụ Quốc hội, Tổng thư ký Quốc hội và Tổng kiểm toán Nhà nước.- Chính phủ chỉ đạo nghiên cứu biện pháp ngăn chặn "cơn sốt" đất tại các địa phương, trong đó có việc xây dựng cơ sở dữ liệu quốc gia về giá đất.- Nhìn lại kết quả 2 năm Việt Nam tham gia Hiệp định đối tác toàn diện và tiến bộ xuyên Thái Bình Dương, trong chương trình, PV Đài TNVN phỏng vấn ông Trần Thanh Hải, Phó cục trưởng Cục xuất nhập khẩu, Bộ Công thương.- Cảnh báo nguy cơ cao xảy ra lũ quét, sạt lở đất tại các tỉnh Lai Châu, Sơn La, Điện Biên, Lào Cai và Hà Giang.- Singapore trở thành quốc gia thành viên ASEAN đầu tiên phê chuẩn Hiệp định Thương mại dịch vụ ASEAN, tạo nền tảng phát triển thương mại dịch vụ của khu vực ASEAN.- Tại Indonesia và Timor-Leste, hơn 100 người thiệt mạng, hàng chục người mất tích và hàng ngàn người phải đi sơ tán do bão nhiệt đới tấn công.]]></description>
+      <guid isPermaLink="false">http://vov1.vov.vn/thoi-su-12h/thoi-su-12h-trua-642021-cp-chi-dao-nghien-cuu-ngan-chan-con-sot-dat-tai-cac-dia-c12-70610.aspx</guid>
+      <enclosure url="http://adminvov1.vov.gov.vn/vov1/attachments/vov1/hoanglienvov1/2021_4/v1_0604_12h00_thoi_su_64202114.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 06 Apr 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>THỜI SỰ 12H00 TRƯA 03/04/2021: Cảnh báo tình trạng giả danh nhân viên nhà mạng viễn thông gọi điện, nhắn tin lừa đảo chiếm đoạt tài sản</title>
+      <link>http://vov1.vov.vn/thoi-su-12h/thoi-su-12h00-trua-03042021-canh-bao-tinh-trang-gia-danh-nhan-vien-nha-mang-vie-c12-70525.aspx</link>
+      <description><![CDATA[Công bố Quyết định của Bộ Chính trị về công tác cán bộ, cho tân Bí thư Thành ủy Hà Nội Đinh Tiến Dũng.- Kỳ 3, trong loạt phóng sự điều tra tình trạng đinh tặc và phá xe của khách trên quốc lộ 1, với nhan đề:  “Tại sao khó xử lý?”.- Số người thiệt mạng trong vụ tai nạn tàu hỏa ở Đài Loan Trung Quốc tăng lên 51 người. Đây được coi là thảm họa đường sắt nghiêm trọng nhất tại Đài Loan trong suốt 40 năm qua.- Công ty khởi nghiệp Uveya -Thụy Sĩ chế tạo thành công robot sử dụng tia cực tím diệt virus sar-covi2, trên các chuyến bay ở nước này.]]></description>
+      <guid isPermaLink="false">http://vov1.vov.vn/thoi-su-12h/thoi-su-12h00-trua-03042021-canh-bao-tinh-trang-gia-danh-nhan-vien-nha-mang-vie-c12-70525.aspx</guid>
+      <enclosure url="http://adminvov1.vov.gov.vn/vov1/attachments/vov1/phamvanan/2021_4/v1_0304_12h00_thoi_su_34202113.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 03 Apr 2021 19:00:00 +0700</pubDate>
+    </item>
   </channel>
 </rss>
