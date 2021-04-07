@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 07 Apr 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 08 Apr 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 07 Apr 2021 11:00:00 +0700</pubDate>
+    <pubDate>Thu, 08 Apr 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Bỗng dưng mắc nợ vì nâng cấp SIM 4G</title>
+      <link>https://vnexpress.net/bong-dung-mac-no-vi-nang-cap-sim-4g-4259661.html</link>
+      <description><![CDATA[Làm theo hướng dẫn nâng cấp SIM lên 4G của kẻ mạo danh nhân viên ngân hàng, chị Thu bị mất Sim và phát hiện bỗng dưng chị nợ tín dụng 37 triệu đồng.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/bong-dung-mac-no-vi-nang-cap-sim-4g-4259661.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/04/08/bong-dung-mac-no-vi-nang-cap-sim-4g-1617817815.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 08 Apr 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Nguy cơ mất tiền tỷ khi làm hồ sơ định cư</title>
       <link>https://vnexpress.net/nguy-co-mat-tien-ty-khi-lam-ho-so-dinh-cu-4259075.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/nguyen-nhan-nan-bai-a-tai-my-4257699.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/04/03/nguyen-nhan-nan-bai-a-tai-my-1617468869.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 04 Apr 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Phẫn uất vì 'cẩu tặc'</title>
-      <link>https://vnexpress.net/phan-uat-vi-cau-tac-4257407.html</link>
-      <description><![CDATA[Chứng kiến chó bị cướp nhưng nhiều người bất lực vì thủ phạm mang theo vũ khí và dọa trả thù. Chuyên gia cho rằng cách ứng xử của chủ chó khi bắt kẻ trộm đã khiến chúng ngày càng hung bạo.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/phan-uat-vi-cau-tac-4257407.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/04/03/phan-uat-vi-cau-tac-1617397233.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 03 Apr 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
