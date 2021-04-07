@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 01 Jan 2000 07:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 06 Apr 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 01 Jan 2000 07:00:00 +0700</pubDate>
+    <pubDate>Tue, 06 Apr 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,5 +23,21 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự 21h30</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/30Thoisu21h30.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>THỜI SỰ 21H30 ĐÊM 06/04/2021: Lãnh đạo nhiều nước và  Diễn đàn Kinh tế Thế giới (WEF) gửi thư, điện chúc mừng lãnh đạo Nhà nước và Chính phủ nước ta.</title>
+      <link>http://vov1.vov.vn/thoi-su-21h30/thoi-su-21h30-dem-06042021-lanh-dao-nhieu-nuoc-va-dien-dan-kinh-te-the-gioi-wef-c29-70629.aspx</link>
+      <description><![CDATA[Xuất khẩu tôm của các tỉnh đồng bằng sông Cửu Long vào thị trường châu Âu tăng mạnh trong những tháng đầu năm.- Nhiều người tiền mất, tật mang vì tin lời quảng cáo nhảm trên mạng xã hội của những người tự xưng là "thần y" chuyên về thuốc Nam.- Iran và Mỹ đàm phán gián tiếp nhằm cứu vãn thỏa thuận hạt nhân 2015.- Tổng thống  Israel chỉ định Thủ tướng Netanyahu thành lập Chính phủ mới.]]></description>
+      <guid isPermaLink="false">http://vov1.vov.vn/thoi-su-21h30/thoi-su-21h30-dem-06042021-lanh-dao-nhieu-nuoc-va-dien-dan-kinh-te-the-gioi-wef-c29-70629.aspx</guid>
+      <enclosure url="http://adminvov1.vov.gov.vn/vov1/attachments/vov1/baongocvov1/v1_06_04_21h30_thoi_su_dem_2021_64202122.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 06 Apr 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>THỜI SỰ 21H30 ĐÊM 3/4/2021: Chi hội luật sư Hội Bảo vệ quyền trẻ em TP HCM đề nghị khởi tố hình sự vụ 2 thiếu niên bị dân phòng bạo hành ở Quận 10</title>
+      <link>http://vov1.vov.vn/thoi-su-21h30/thoi-su-21h30-dem-342021-chi-hoi-luat-su-hoi-bao-ve-quyen-tre-em-tp-hcm-de-nghi-c29-70538.aspx</link>
+      <description><![CDATA[Chi hội luật sư Hội Bảo vệ quyền trẻ em Thành phố Hồ Chí Minh đề nghị khởi tố hình sự vụ 2 thiếu niên bị dân phòng bạo hành ở Quận 10.-  Nhiều hộ nghèo ở xã Bản Cầm, huyện Bảo Thắng, tỉnh Lào Cai bán trâu giống sau khi được hỗ trợ.- Tái diễn tình trạng khai thác vàng trái phép tại mỏ vàng Bồng Miêu, tỉnh Quảng Nam, gây ô nhiễm môi trường và mất an ninh trật tự tại địa phương.- Trung Quốc sẽ tăng cường hợp tác với ASEAN và phối hợp hành động trong một loạt vấn đề quốc tế và khu vực.- Đài Loan trả tự do cho nghi phạm trong vụ tai nạn tàu hỏa. Trong khi các công tố viên khẳng định, sẽ nộp đơn kháng cáo sớm nhất có thể để bảo vệ quyền lợi của gia đình các nạn nhân.]]></description>
+      <guid isPermaLink="false">http://vov1.vov.vn/thoi-su-21h30/thoi-su-21h30-dem-342021-chi-hoi-luat-su-hoi-bao-ve-quyen-tre-em-tp-hcm-de-nghi-c29-70538.aspx</guid>
+      <enclosure url="http://adminvov1.vov.gov.vn/vov1/attachments/vov1/hoanglienvov1/2021_4/v1_0304_21h30_thoi_su_34202122.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 03 Apr 2021 19:00:00 +0700</pubDate>
+    </item>
   </channel>
 </rss>

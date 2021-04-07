@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 01 Jan 2000 07:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 07 Apr 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 01 Jan 2000 07:00:00 +0700</pubDate>
+    <pubDate>Wed, 07 Apr 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,5 +23,21 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự 6h</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Thoisu6h.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>THỜI SỰ 6H SÁNG 07/04/2021: Hôm nay, Quốc hội tiếp tục kiện toàn một số nhân sự của Quốc hội, Nhà nước và Chính phủ.</title>
+      <link>http://vov1.vov.vn/thoi-su-6h/thoi-su-6h-sang-07042021-hom-nay-quoc-hoi-tiep-tuc-kien-toan-mot-so-nhan-su-cua-c11-70632.aspx</link>
+      <description><![CDATA[Cần phải có giải pháp nâng cao chất lượng giáo dục phổ thông để bằng tốt nghiệp Trung học phổ thông được các nước công nhận.- Tập đoàn SK của Hàn Quốc đầu tư 410 triệu USD vào VinCommerce.- Tổng cục quản lý đất đai, Bộ Tài nguyên và Môi trường lý giải về hiện tượng sốt đất tại một số địa phương.- Những nỗ lực cứu vãn bản thỏa thuận hạt nhân lịch sử với Iran đang được nhen nhóm trở lại.- Số ca tử vong liên quan đến Covid-19 trên toàn thế giới đã vượt mốc 3 triệu người.]]></description>
+      <guid isPermaLink="false">http://vov1.vov.vn/thoi-su-6h/thoi-su-6h-sang-07042021-hom-nay-quoc-hoi-tiep-tuc-kien-toan-mot-so-nhan-su-cua-c11-70632.aspx</guid>
+      <enclosure url="http://adminvov1.vov.gov.vn/vov1/attachments/vov1/baongocvov1/2021_4/v1_07_04_06h00_thoi_su_2021_7420218.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 07 Apr 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>THỜI SỰ 6H SÁNG 4/4/2021: Ngày thế giới phòng chống bom mìn 4/4.</title>
+      <link>http://vov1.vov.vn/thoi-su-6h/thoi-su-6h-sang-442021-ngay-the-gioi-phong-chong-bom-min-44-c11-70539.aspx</link>
+      <description><![CDATA[- Ngày 4/4 là Ngày thế giới phòng chống bom mìn. Ở Việt Nam cũng như nhiều nước trên thế giới, bom mìn,vật liệu nổ còn sót lại sau chiến tranh là hiểm họa hàng ngày đối với nhiều người dân.- Giá đất tại Đà Nẵng tăng nhẹ, người dân cần đề phòng với chiêu trò thổi phồng thị trường, tăng giá đất ảo.- Chi hội luật sư Hội Bảo vệ quyền trẻ em thành phố Hồ Chí Minh đề nghị khởi tố hình sự vụ 2 thiếu niên bị dân phòng bạo hành ở quận 10.- Bộ trưởng Ngoại giao Trung Quốc và Hàn Quốc hội đàm bàn về các giải pháp cho vấn đề Triều Tiên và tăng cường quan hệ song phương.- Hàng nghìn người biểu tình ở Stuttgart, Cộng hòa Liên bang Đức, phản đối các biện pháp phong tỏa.- Bài bình luận “Chống kỳ thị người gốc Á trên thế giới – cần có thêm nhiêu ý chí chính trị”.]]></description>
+      <guid isPermaLink="false">http://vov1.vov.vn/thoi-su-6h/thoi-su-6h-sang-442021-ngay-the-gioi-phong-chong-bom-min-44-c11-70539.aspx</guid>
+      <enclosure url="http://adminvov1.vov.gov.vn/vov1/attachments/vov1/thuhienvov1/2021_4/v1_04_04_06h00_thoi_su_2021_4420217.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 04 Apr 2021 19:00:00 +0700</pubDate>
+    </item>
   </channel>
 </rss>
