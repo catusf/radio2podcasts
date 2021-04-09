@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 08 Apr 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 09 Apr 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 08 Apr 2021 19:00:00 +0700</pubDate>
+    <pubDate>Fri, 09 Apr 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,10 +24,18 @@
     <itunes:subtitle>Cuộc sống muôn màu</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/CSmuonmau.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Cuộc sống muôn màu 08-04-2021</title>
+      <title>Cuộc sống muôn màu 09-04-2021</title>
       <link>http://www.drt.danang.vn/chuong_trinh-199-cuoc_song_muon_mau</link>
-      <description><![CDATA[Cuộc sống muôn màu 08-04-2021]]></description>
+      <description><![CDATA[Cuộc sống muôn màu 09-04-2021]]></description>
       <guid isPermaLink="false">http://www.drt.danang.vn/chuong_trinh-199-cuoc_song_muon_mau</guid>
+      <enclosure url="http://www.drt.danang.vn/Uploads/Media/AUDIO/CUOC SONG MUON MAU/NAM 2021/THANG 4/CUOC SONG MUON MAU PHAT 09-4-2021.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 09 Apr 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Cuộc sống muôn màu 08-04-2021</title>
+      <link>http://www.drt.danang.vn/truyen_hinh-44121-199</link>
+      <description><![CDATA[Cuộc sống muôn màu 08-04-2021]]></description>
+      <guid isPermaLink="false">http://www.drt.danang.vn/truyen_hinh-44121-199</guid>
       <enclosure url="http://www.drt.danang.vn/Uploads/Media/AUDIO/CUOC SONG MUON MAU/NAM 2021/THANG 4/CUOC SONG MUON MAU PHAT 08-4-2021.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 08 Apr 2021 19:00:00 +0700</pubDate>
     </item>
@@ -62,14 +70,6 @@
       <guid isPermaLink="false">http://www.drt.danang.vn/truyen_hinh-44050-199</guid>
       <enclosure url="http://www.drt.danang.vn/Uploads/Media/AUDIO/CUOC SONG MUON MAU/NAM 2021/THANG 4/CUOC SONG MUON MAU PHAT 03-4-2021.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 03 Apr 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Cuộc sống muôn màu 02-04-2021</title>
-      <link>http://www.drt.danang.vn/truyen_hinh-43988-199</link>
-      <description><![CDATA[Cuộc sống muôn màu 02-04-2021]]></description>
-      <guid isPermaLink="false">http://www.drt.danang.vn/truyen_hinh-43988-199</guid>
-      <enclosure url="http://www.drt.danang.vn/Uploads/Media/AUDIO/CUOC SONG MUON MAU/NAM 2021/THANG 4/CUOC SONG MUON MAU PHAT 02-4-2021.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 02 Apr 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
