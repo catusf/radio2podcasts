@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 09 Apr 2021 21:46:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 10 Apr 2021 01:26:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 09 Apr 2021 21:46:00 +0700</pubDate>
+    <pubDate>Sat, 10 Apr 2021 01:26:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ký kết giao ước thi đua Cụm thi đua 5 thành phố trực thuộc Trung ương – Thời sự 17g00 9/4/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/ky-ket-giao-uoc-thi-dua-cum-thi-dua-5-thanh-pho-truc-thuoc-trung-uong-thoi-su-17g00-9-4-2021-398673.html</link>
+      <description><![CDATA[18:26 - 09/04/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/ky-ket-giao-uoc-thi-dua-cum-thi-dua-5-thanh-pho-truc-thuoc-trung-uong-thoi-su-17g00-9-4-2021-398673.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/04/09/AMThoisu17h00p090421.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 10 Apr 2021 01:26:00 +0700</pubDate>
+    </item>
     <item>
       <title>Thầy giáo Tổng phụ trách đội nhiệt huyết, sáng tạo học tập và làm theo Bác – Thời sự 11g00 9/4/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/thay-giao-tong-phu-trach-doi-nhiet-huyet-sang-tao-hoc-tap-va-lam-theo-bac-thoi-su-11g00-9-4-2021-398657.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/canh-bao-tinh-trang-ky-thi-nguoi-goc-a-o-my-thoi-su-5g30-9-4-2021-398655.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/04/09/AMThoisu05h30p090421.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 09 Apr 2021 21:42:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Quốc hội đồng ý miễn nhiệm 13 thành viên Chính phủ - Thời Sự 17g00 7/4/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/quoc-hoi-dong-y-mien-nhiem-13-thanh-vien-chinh-phu-thoi-su-17g00-7-4-2021-398541.html</link>
-      <description><![CDATA[10:26 - 08/04/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/quoc-hoi-dong-y-mien-nhiem-13-thanh-vien-chinh-phu-thoi-su-17g00-7-4-2021-398541.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/04/08/AMThoisu17h00p070421sss.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 08 Apr 2021 17:26:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
