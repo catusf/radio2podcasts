@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 09 Apr 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 10 Apr 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 09 Apr 2021 11:00:00 +0700</pubDate>
+    <pubDate>Sat, 10 Apr 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Động thái các nước sau khẳng định Astrazeneca gây đông máu</title>
+      <link>https://vnexpress.net/dong-thai-cac-nuoc-sau-khang-dinh-astrazeneca-gay-dong-mau-4260786.html</link>
+      <description><![CDATA[Hàng loạt nước châu Âu, châu Á giới hạn độ tuổi hoặc đình chỉ tiêm AstraZeneca vì lý do thận trọng. Nhiều nước ngưng tiêm mũi 2 hoặc khuyến khích người dân tiêm vaccine khác.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/dong-thai-cac-nuoc-sau-khang-dinh-astrazeneca-gay-dong-mau-4260786.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/04/09/cac-nuoc-co-dong-thai-gi-sau-tuyen-bo-astra-gay-dong-mau-1617987361.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 10 Apr 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Vì sao đua xe?</title>
       <link>https://vnexpress.net/vi-sao-dua-xe-4260231.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/vi-sao-co-con-sot-lan-dot-bien-4258501.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/04/06/vi-sao-co-con-sot-lan-dot-bien-1617727275.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 06 Apr 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Ứng xử với học trò cá biệt</title>
-      <link>https://vnexpress.net/ung-xu-voi-hoc-tro-ca-biet-4257939.html</link>
-      <description><![CDATA[Ngày đầu lên dạy thay đồng nghiệp, cô Lan đã phải nói 'sẽ không bao giờ bước chân vào lớp này nữa' và im lặng suốt buổi học vì bị 5 học sinh chửi bằng lời thô tục.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/ung-xu-voi-hoc-tro-ca-biet-4257939.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/04/04/ba-o-lu-c-ho-c-duo-ng-gia-o-vien-no-i-gi--ve--ho-c-sinh-ca--bie-t-1617553921.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 05 Apr 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
