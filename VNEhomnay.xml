@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 10 Apr 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 11 Apr 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 10 Apr 2021 11:00:00 +0700</pubDate>
+    <pubDate>Sun, 11 Apr 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Tại sao có thể mạo danh vay tín dụng online?</title>
+      <link>https://vnexpress.net/tai-sao-co-the-mao-danh-vay-tin-dung-online-4261106.html</link>
+      <description><![CDATA[Khi định mở thẻ tín dụng, anh Nguyên Dũng được thông báo mình mang nợ xấu dù chưa từng vay trước đó. Kẻ mạo danh dùng thông tin trùng khớp tới cả số hộ khẩu, chức vụ công việc của anh.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/tai-sao-co-the-mao-danh-vay-tin-dung-online-4261106.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/04/11/tai-sao-co-the-mao-danh-vay-tin-dung-online-1618076256.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 11 Apr 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Động thái các nước sau kết luận Astrazeneca gây đông máu</title>
       <link>https://vnexpress.net/dong-thai-cac-nuoc-sau-ket-luan-astrazeneca-gay-dong-mau-4260786.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/nguy-co-mat-tien-ty-khi-lam-ho-so-dinh-cu-4259075.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/04/07/nguy-co-mat-tien-ty-khi-lam-ho-so-dinh-cu-1617734029.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 07 Apr 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Vì sao có 'cơn sốt' lan đột biến?</title>
-      <link>https://vnexpress.net/vi-sao-co-con-sot-lan-dot-bien-4258501.html</link>
-      <description><![CDATA[Khi mời khách đầu tư 200 tỷ một cây lan, người bán ví "dòng lan đột biến quý hiếm như kim cương", đồng thời cam kết sẽ thu mua lại nếu khách không thể bán sang tay.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/vi-sao-co-con-sot-lan-dot-bien-4258501.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/04/06/vi-sao-co-con-sot-lan-dot-bien-1617727275.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 06 Apr 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
