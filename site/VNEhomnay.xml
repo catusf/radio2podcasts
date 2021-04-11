@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 11 Apr 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 12 Apr 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 11 Apr 2021 11:00:00 +0700</pubDate>
+    <pubDate>Mon, 12 Apr 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Cầm cự 7 năm chờ dỡ 'lô cốt' Metro</title>
+      <link>https://vnexpress.net/cam-cu-7-nam-cho-do-lo-cot-metro-4261355.html</link>
+      <description><![CDATA[Từ bán đồ lưu niệm cho khách Tây, chị Nga chuyển sang bán cơm bình dân cho công nhân do ế ẩm từ khi rào chắn thi công Metro. Chị và nhiều hộ phấn khởi vì sắp được chấm dứt cảnh cầm cự qua ngày.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/cam-cu-7-nam-cho-do-lo-cot-metro-4261355.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/04/11/cam-cu-7-nam-cho-do-lo-cot-metro-1618160278.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 12 Apr 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Tại sao có thể mạo danh vay tín dụng online?</title>
       <link>https://vnexpress.net/tai-sao-co-the-mao-danh-vay-tin-dung-online-4261106.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/bong-dung-mac-no-vi-nang-cap-sim-4g-4259661.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/04/08/bong-dung-mac-no-vi-nang-cap-sim-4g-1617830257.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 08 Apr 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Nguy cơ mất tiền tỷ khi làm hồ sơ định cư</title>
-      <link>https://vnexpress.net/nguy-co-mat-tien-ty-khi-lam-ho-so-dinh-cu-4259075.html</link>
-      <description><![CDATA[Bạn bè giới thiệu, người thân kiểm chứng văn phòng UNC ở nước ngoài, được cam kết hoàn trả lệ phí... nhưng nhiều người vẫn có nguy cơ mất hàng tỷ đồng khi chi tiền để định cư Canada.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/nguy-co-mat-tien-ty-khi-lam-ho-so-dinh-cu-4259075.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/04/07/nguy-co-mat-tien-ty-khi-lam-ho-so-dinh-cu-1617734029.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 07 Apr 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
