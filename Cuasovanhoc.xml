@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 05 Apr 2021 04:32:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 12 Apr 2021 15:55:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 05 Apr 2021 04:32:00 +0700</pubDate>
+    <pubDate>Mon, 12 Apr 2021 15:55:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Cửa sổ văn học trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Cuasovanhoc.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Cửa sổ văn học - 11/4/2021</title>
+      <link>https://radio.voh.com.vn/cua-so-van-hoc/cua-so-van-hoc-11-4-2021-398796.html</link>
+      <description><![CDATA[08:55 - 12/04/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/cua-so-van-hoc-11-4-2021-398796.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/04/12/FMCuasovanhoc07h00p110421lan2.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 12 Apr 2021 15:55:00 +0700</pubDate>
+    </item>
     <item>
       <title>Cửa sổ văn học - 4/4/2021</title>
       <link>https://radio.voh.com.vn/cua-so-van-hoc/cua-so-van-hoc-4-4-2021-398104.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/cua-so-van-hoc-28-3-2021-397526.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/03/28/FMCuasovanhoc07h00p280321.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 29 Mar 2021 04:54:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Cửa sổ văn học - 21/3/2021</title>
-      <link>https://radio.voh.com.vn/cua-so-van-hoc/cua-so-van-hoc-21-3-2021-396825.html</link>
-      <description><![CDATA[19:02 - 21/03/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/cua-so-van-hoc-21-3-2021-396825.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/03/20/FMCuasovanhoc07h00p210321.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 22 Mar 2021 02:02:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
