@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 12 Apr 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 13 Apr 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 12 Apr 2021 11:00:00 +0700</pubDate>
+    <pubDate>Tue, 13 Apr 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Người già chật vật dù có lương hưu</title>
+      <link>https://vnexpress.net/nguoi-gia-chat-vat-du-co-luong-huu-4261912.html</link>
+      <description><![CDATA[Với lương hưu 4 triệu, ông Liên phải "liệu cơm gắp mắm" vì tiền thuốc hàng tháng đã "ngốn" hết một nửa. Ông Tri thì cho hay, đến cọng hành cũng phải nhờ cậy vào con do 2 triệu lương hưu của ông không đủ sống.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/nguoi-gia-chat-vat-du-co-luong-huu-4261912.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/04/12/nguo-i-gia--cha-t-va-t-du--co--luong-huu-1618241598.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 13 Apr 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Cầm cự chờ 'lô cốt' metro</title>
       <link>https://vnexpress.net/cam-cu-cho-lo-cot-metro-4261355.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/vi-sao-dua-xe-4260231.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/04/08/vi--sao-gio-i-tre--thi-ch-dua-xe-1617894886.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 09 Apr 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Bỗng dưng mắc nợ vì nâng cấp SIM 4G</title>
-      <link>https://vnexpress.net/bong-dung-mac-no-vi-nang-cap-sim-4g-4259661.html</link>
-      <description><![CDATA[Làm theo hướng dẫn nâng cấp SIM lên 4G của kẻ mạo danh nhân viên nhà mạng, chị Thu bị mất SIM và phát hiện bỗng dưng nợ tín dụng 37 triệu đồng.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/bong-dung-mac-no-vi-nang-cap-sim-4g-4259661.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/04/08/bong-dung-mac-no-vi-nang-cap-sim-4g-1617830257.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 08 Apr 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
