@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Sài Gòn buổi sáng 8/4/2021</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-8-4-2021-398927.html</link>
+      <description><![CDATA[08:14 - 08/04/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-8-4-2021-398927.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/04/13/FMSGBS06h00p080421.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 08 Apr 2021 15:14:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Sài Gòn buổi sáng - 13/4/2021</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-13-4-2021-398924.html</link>
       <description><![CDATA[07:02 - 13/04/2021]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-13-4-2021-398924.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/04/13/FMSGBS06h00p130421.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 13 Apr 2021 14:02:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Sài Gòn buổi sáng - 11/4/2021</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-11-4-2021-398826.html</link>
-      <description><![CDATA[12:10 - 11/04/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-11-4-2021-398826.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/04/12/FMSaigonbuoisang06h00p110421-Copy.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 11 Apr 2021 19:10:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
