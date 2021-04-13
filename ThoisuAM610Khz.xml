@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 12 Apr 2021 19:28:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 13 Apr 2021 00:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 12 Apr 2021 19:28:00 +0700</pubDate>
+    <pubDate>Tue, 13 Apr 2021 00:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Đẩy nhanh việc lắp camera giám sát trên xe khách - Thời sự 17g00 12/04/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/day-nhanh-viec-lap-camera-giam-sat-tren-xe-khach-thoi-su-17g00-12-04-2021-398897.html</link>
+      <description><![CDATA[17:00 - 12/04/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/day-nhanh-viec-lap-camera-giam-sat-tren-xe-khach-thoi-su-17g00-12-04-2021-398897.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/04/12/AMThoisu17h00p120421Cuon2.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 13 Apr 2021 00:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Khách đi xe đò dịp lễ 30/4 tăng 200% - Thời sự 5g30 12/04/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/khach-di-xe-do-dip-le-30-4-tang-200-thoi-su-5g30-12-04-2021-398828.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/thuoc-la-ruou-tieu-thu-trong-nuoc-phai-dan-tem-dien-tu-thoi-su-11g00-12-04-2021-398827.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/04/12/AMThoisu11h00p120421.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 12 Apr 2021 19:25:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Ứng dụng quy hoạch thông tin thành phố Hồ Chí Minh - Thời sự 11g00 11/4/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/ung-dung-quy-hoach-thong-tin-thanh-pho-ho-chi-minh-thoi-su-11g00-11-4-2021-398825.html</link>
-      <description><![CDATA[12:05 - 11/04/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/ung-dung-quy-hoach-thong-tin-thanh-pho-ho-chi-minh-thoi-su-11g00-11-4-2021-398825.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/04/12/AMThoisu11h00p110421-Copy.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 11 Apr 2021 19:05:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
