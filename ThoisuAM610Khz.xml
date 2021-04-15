@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 15 Apr 2021 00:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 15 Apr 2021 14:33:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 15 Apr 2021 00:00:00 +0700</pubDate>
+    <pubDate>Thu, 15 Apr 2021 14:33:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Sứ mệnh của lá phiếu - Thời sự 05g30 15/4/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/su-menh-cua-la-phieu-thoi-su-05g30-15-4-2021-399140.html</link>
+      <description><![CDATA[07:33 - 15/04/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/su-menh-cua-la-phieu-thoi-su-05g30-15-4-2021-399140.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/04/15/AMThoisu05h30p150421.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 15 Apr 2021 14:33:00 +0700</pubDate>
+    </item>
     <item>
       <title>TPHCM hoàn tất niêm yết danh sách cử tri - Thời sự 17g00 14/4/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-hoan-tat-niem-yet-danh-sach-cu-tri-thoi-su-17g00-14-4-2021-399118.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/nam-2021-11-dan-so-tham-gia-bao-hiem-nhan-tho-thoi-su-11g00-14-4-2021-399066.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/04/14/ts11g-140421.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 14 Apr 2021 18:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>TPHCM xây dựng đề án chuyển các huyện lên quận - Thời sự 05g30 14/4/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-xay-dung-de-an-chuyen-cac-huyen-len-quan-thoi-su-05g30-14-4-2021-399038.html</link>
-      <description><![CDATA[05:30 - 14/04/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-xay-dung-de-an-chuyen-cac-huyen-len-quan-thoi-su-05g30-14-4-2021-399038.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/04/14/ts0530-140421.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 14 Apr 2021 12:30:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
