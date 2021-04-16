@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 06 Apr 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 16 Apr 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 06 Apr 2021 19:00:00 +0700</pubDate>
+    <pubDate>Fri, 16 Apr 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Âm nhạc với cuộc sống</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Amnhacvoicuocsong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>“Tình ca xanh”: Những ca khúc đi cùng năm tháng của ca sĩ Lan Anh</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[Trong không khí những ngày tháng 4 lịch sử hướng tới kỷ niệm 46 năm Giải phóng miền Nam thống nhất đất nước (30/4/1975-30/4/2021), thưởng thức giọng hát của ca sĩ Lan Anh, giảng viên Học viện Âm nhạc Quốc gia Việt Nam và lắng nghe những chia sẻ của chị về Album “Tình ca xanh” cùng những ca khúc đi cùng năm tháng…]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/04/16/vovlive_am_nhac_voi_cuoc_song_tinh_ca_xanh_lan_anh.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 16 Apr 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>“Thanh Hóa anh hùng”: Vang mãi những chiến công</title>
       <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2021/03/23/vovlive_am_nhac_voi_cuoc_song_gap_go_nhac_si_pham_dang_khuong.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 23 Mar 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Cố NSND Doãn Tần: Giọng hát tài hoa</title>
-      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[Nhân kỷ niệm 2 năm ngày mất của cố NSND Doãn Tần, cùng điểm lại đôi nét về hoạt động nghệ thuật của ông…]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/03/16/vovlive_am_nhac_voi_cuoc_song_co_nsnd_doan_tan.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 16 Mar 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
