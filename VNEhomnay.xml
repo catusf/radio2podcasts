@@ -24,14 +24,6 @@
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Vì sao nhiều người sập bẫy lừa đảo xuất khẩu lao động?</title>
-      <link>https://vnexpress.net/vi-sao-nhieu-nguoi-sap-bay-lua-dao-xuat-khau-lao-dong-4264203.html</link>
-      <description><![CDATA[Được cam kết lương 60 - 80 triệu/tháng, anh Giáp quyết vay mượn, nộp 14.000 USD cho công ty môi giới xuất khẩu lao động nhằm đổi đời. Sau 1 năm công ty biến mất, anh gánh thêm khoản nợ và lãi hàng tháng.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/vi-sao-nhieu-nguoi-sap-bay-lua-dao-xuat-khau-lao-dong-4264203.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/04/16/vi-sao-nhieu-nguoi-sap-bay-lua-dao-xuat-khau-lao-dong-1618589342.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 16 Apr 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
       <title>Ám ảnh 'nhà tôi 3 đời chữa bệnh'</title>
       <link>https://vnexpress.net/am-anh-nha-toi-3-doi-chua-benh-4263634.html</link>
       <description><![CDATA["Nhà tôi 3 đời chữa bệnh", "cam kết khỏi 100%..." là những quảng cáo ám ảnh nhiều người. Youtube đang liên tục nhận đánh giá 1 sao vì tần suất và hình thức của quảng cáo "thần dược" này.]]></description>
@@ -62,6 +54,14 @@
       <guid isPermaLink="false">https://vnexpress.net/luong-huu-bao-nhieu-la-du-song-4261912.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/04/13/luong-huu-bao-nhieu-la-du-song-1618278189.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 13 Apr 2021 11:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Cầm cự chờ 'lô cốt' metro</title>
+      <link>https://vnexpress.net/cam-cu-cho-lo-cot-metro-4261355.html</link>
+      <description><![CDATA[Từ bán đồ lưu niệm cho khách Tây, chị Nga chuyển sang bán cơm bình dân cho công nhân do ế ẩm từ khi rào chắn thi công Metro Số 1. Chị và nhiều hộ phấn khởi vì sắp được chấm dứt cảnh cầm cự qua ngày.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/cam-cu-cho-lo-cot-metro-4261355.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/04/11/cam-cu-7-nam-cho-do-lo-cot-metro-1618160278.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 12 Apr 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
