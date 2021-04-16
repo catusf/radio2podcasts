@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 10 Apr 2021 03:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 17 Apr 2021 03:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 10 Apr 2021 03:00:00 +0700</pubDate>
+    <pubDate>Sat, 17 Apr 2021 03:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thầm thì</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Thamthi.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Nghề nghiệp ảnh hưởng ra sao tới khả năng 'giường chiếu'?</title>
+      <link>https://vnexpress.net/nghe-nghiep-anh-huong-ra-sao-toi-kha-nang-giuong-chieu-4263573.html</link>
+      <description><![CDATA[Kiến trúc sư, người làm lĩnh vực quảng cáo, công nhân... là những người có chất lượng "cuộc yêu" tốt nhất; nghề bác sĩ được đánh giá cao trong việc làm hài lòng đối phương, theo khảo sát tại Anh.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/nghe-nghiep-anh-huong-ra-sao-toi-kha-nang-giuong-chieu-4263573.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/04/16/nghe-nghiep-anh-huong-ra-sao-toi-kha-nang-giuong-chieu-1618573082.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 17 Apr 2021 03:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Được và mất khi tiêm silicon giúp 'cậu bé' to khỏe</title>
       <link>https://vnexpress.net/duoc-va-mat-khi-tiem-silicon-giup-cau-be-to-khoe-4260612.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/covid-19-co-the-lam-hai-chat-luong-tinh-trung-4250141.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/18/covid19-voi-suc-khoe-sinh-san-nam-gioi-1616031424.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 20 Mar 2021 03:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Cắt bao quy đầu có ảnh hưởng tới ham muốn?</title>
-      <link>https://vnexpress.net/cat-bao-quy-dau-co-anh-huong-toi-ham-muon-4247360.html</link>
-      <description><![CDATA[Nhiều quý ông tìm tới giải pháp cắt bao quy đầu để cải thiện xuất tinh sớm, nhưng cũng lo ngại can thiệp dao kéo có thể ảnh hưởng tới khả năng "lâm trận".]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/cat-bao-quy-dau-co-anh-huong-toi-ham-muon-4247360.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/12/cat-bao-quy-dau-co-giup-cai-thien-xuat-tinh-som-1615517723.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 13 Mar 2021 03:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
