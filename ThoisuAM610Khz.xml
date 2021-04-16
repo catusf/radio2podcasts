@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 16 Apr 2021 01:53:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 16 Apr 2021 02:01:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 16 Apr 2021 01:53:00 +0700</pubDate>
+    <pubDate>Fri, 16 Apr 2021 02:01:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Thủ tướng Phạm Minh Chính chủ trì phiên họp đầu tiên sau nhậm chức - Thời sự 17g00 15/4/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/thu-tuong-pham-minh-chinh-chu-tri-phien-hop-dau-tien-sau-nham-chuc-thoi-su-17g00-15-4-2021-399217.html</link>
+      <description><![CDATA[19:01 - 15/04/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/thu-tuong-pham-minh-chinh-chu-tri-phien-hop-dau-tien-sau-nham-chuc-thoi-su-17g00-15-4-2021-399217.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/04/15/AMThoisu17h00p150421sss.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 16 Apr 2021 02:01:00 +0700</pubDate>
+    </item>
     <item>
       <title>Gần 70 tuổi vẫn miệt mài vớt rác trên sông làm đẹp cho thành phố - Thời sự 11g00 15/4/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/gan-70-tuoi-van-miet-mai-vot-rac-tren-song-lam-dep-cho-thanh-pho-thoi-su-11g00-15-4-2021-399216.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/su-menh-cua-la-phieu-thoi-su-05g30-15-4-2021-399140.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/04/15/AMThoisu05h30p150421.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 15 Apr 2021 14:33:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>TPHCM hoàn tất niêm yết danh sách cử tri - Thời sự 17g00 14/4/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-hoan-tat-niem-yet-danh-sach-cu-tri-thoi-su-17g00-14-4-2021-399118.html</link>
-      <description><![CDATA[17:00 - 14/04/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-hoan-tat-niem-yet-danh-sach-cu-tri-thoi-su-17g00-14-4-2021-399118.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/04/14/140421.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 15 Apr 2021 00:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
