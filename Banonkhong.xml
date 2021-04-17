@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 11 Apr 2021 03:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 18 Apr 2021 03:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 11 Apr 2021 03:00:00 +0700</pubDate>
+    <pubDate>Sun, 18 Apr 2021 03:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Bạn ổn không?</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Banonkhong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>'Anh nói 12 năm nữa sẽ ly hôn để đến với tôi'</title>
+      <link>https://vnexpress.net/anh-noi-12-nam-nua-se-ly-hon-de-den-voi-toi-4264150.html</link>
+      <description><![CDATA[Từng đổ vỡ vì chồng ngoại tình nhưng Linh lại đang trở thành người thứ ba. Dù từng cố gắng cắt đứt sau đề nghị chờ thêm 12 năm nhưng cô vẫn yếu lòng vì sự chăm sóc của người mới.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/anh-noi-12-nam-nua-se-ly-hon-de-den-voi-toi-4264150.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/04/17/anh-noi-12-nam-nua-se-ly-hon-vo-va-den-voi-toi-1618645540.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 18 Apr 2021 03:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Cuộc sống trầm cảm của nữ du học sinh</title>
       <link>https://vnexpress.net/cuoc-song-tram-cam-cua-nu-du-hoc-sinh-4260233.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/dan-ba-von-kho-4249998.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/17/toi-chap-nhan-bi-bao-hanh-5-nam-chi-vi-con-1615979613.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 21 Mar 2021 03:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>'Mẹ bạn gái muốn hai đứa chia tay vì tôi chưa đủ giàu'</title>
-      <link>https://vnexpress.net/me-ban-gai-muon-hai-dua-chia-tay-vi-toi-chua-du-giau-4245664.html</link>
-      <description><![CDATA[Sống cùng người yêu 9 năm, gần đây, mẹ bạn gái đề nghị Huy chia tay con bà vì anh "không tặng nổi cái nhà" thì nên để cô ấy tìm chàng trai khác giàu có hơn.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/me-ban-gai-muon-hai-dua-chia-tay-vi-toi-chua-du-giau-4245664.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/16/me-ban-gai-muon-hai-dua-chia-tay-vi-toi-chua-du-giau-1615860731.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 14 Mar 2021 03:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
