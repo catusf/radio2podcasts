@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 17 Apr 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 18 Apr 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 17 Apr 2021 11:00:00 +0700</pubDate>
+    <pubDate>Sun, 18 Apr 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Người Việt tại tâm dịch Campuchia, Thái Lan</title>
+      <link>https://vnexpress.net/nguoi-viet-tai-tam-dich-campuchia-thai-lan-4264604.html</link>
+      <description><![CDATA[Anh Hà Trịnh cho hay, trứng và rau trở nên đáng quý lạ thường khi Campuchia áp lệnh phong toả đột ngột; còn anh Quốc Huy ở Thái Lan nói, Covid-19 trở lại lần thứ 3 nên mọi người đã biết cách tồn tại qua hoảng loạn.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/nguoi-viet-tai-tam-dich-campuchia-thai-lan-4264604.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/04/18/nguoi-viet-tai-tam-dich-cac-nuoc-lang-gieng-1618683774.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 18 Apr 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Sập bẫy lừa đảo xuất khẩu lao động</title>
       <link>https://vnexpress.net/sap-bay-lua-dao-xuat-khau-lao-dong-4264203.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/tap-nap-mua-ban-trau-cay-bitcoin-4262488.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/04/13/ke-ban-thao-nguoi-dau-tu-trau-cay-bitcoin-1618332050.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 14 Apr 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Lương hưu bao nhiêu là đủ sống?</title>
-      <link>https://vnexpress.net/luong-huu-bao-nhieu-la-du-song-4261912.html</link>
-      <description><![CDATA[Với lương hưu 4 triệu, ông Liên phải "liệu cơm gắp mắm" vì tiền thuốc hàng tháng đã "ngốn" hết một nửa; ông Tri thì "đến cọng hành cũng phải nhờ vào con" do 2 triệu lương không đủ sống.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/luong-huu-bao-nhieu-la-du-song-4261912.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/04/13/luong-huu-bao-nhieu-la-du-song-1618278189.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 13 Apr 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
