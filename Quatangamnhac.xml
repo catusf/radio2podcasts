@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 11 Apr 2021 17:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 18 Apr 2021 17:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 11 Apr 2021 17:00:00 +0700</pubDate>
+    <pubDate>Sun, 18 Apr 2021 17:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Quà tặng âm nhạc trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Quatangamnhac.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Quà tặng âm nhạc - 18/4/2021</title>
+      <link>https://radio.voh.com.vn/qua-tang-am-nhac/qua-tang-am-nhac-18-4-2021-399441.html</link>
+      <description><![CDATA[10:00 - 18/04/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/qua-tang-am-nhac-18-4-2021-399441.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/04/18/qtan-180421.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 18 Apr 2021 17:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Mây hồng - Quà tặng âm nhạc 11/4/2021</title>
       <link>https://radio.voh.com.vn/qua-tang-am-nhac/may-hong-qua-tang-am-nhac-11-4-2021-399037.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/ngay-da-dom-bong-qua-tang-am-nhac-21-3-2021-396850.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/03/21/qtan-210321.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 21 Mar 2021 17:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Tình có như không - Quà tặng âm nhạc 14/3/2021</title>
-      <link>https://radio.voh.com.vn/qua-tang-am-nhac/tinh-co-nhu-khong-qua-tang-am-nhac-14-3-2021-396250.html</link>
-      <description><![CDATA[10:00 - 14/03/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/tinh-co-nhu-khong-qua-tang-am-nhac-14-3-2021-396250.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/03/14/qtan-140321.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 14 Mar 2021 17:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
