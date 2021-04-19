@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 19 Apr 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 20 Apr 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 19 Apr 2021 11:00:00 +0700</pubDate>
+    <pubDate>Tue, 20 Apr 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Người già chật vật mưu sinh</title>
+      <link>https://vnexpress.net/nguoi-gia-chat-vat-muu-sinh-4265461.html</link>
+      <description><![CDATA[Khi vài chục, lúc được trăm nhưng ông Tuyên, 80 tuổi, vẫn ngày ngày phải chạy xe ôm kiếm sống. Không lương hưu, không nương tựa được vào con khiến nhiều người già phải tự mưu sinh ở tuổi "xế chiều".]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/nguoi-gia-chat-vat-muu-sinh-4265461.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/04/20/nguoi-gia-chat-vat-muu-sinh-1618854250.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Apr 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Giấc mơ mua nhà ngày càng xa của người trẻ</title>
       <link>https://vnexpress.net/giac-mo-mua-nha-ngay-cang-xa-cua-nguoi-tre-4264871.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/am-anh-nha-toi-3-doi-chua-benh-4263634.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/04/16/am-anh-nha-toi-3-doi-chua-benh-1618507740.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 16 Apr 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Người gốc Việt ở Mỹ: 'Tôi phải đổi cả dáng đi vì nạn bài Á'</title>
-      <link>https://vnexpress.net/nguoi-goc-viet-o-my-toi-phai-doi-ca-dang-di-vi-nan-bai-a-4262999.html</link>
-      <description><![CDATA[Cha mẹ Richard Nguyễn dạy anh rằng, để không bị kỳ thị "cần cố gắng tốt hơn người khác" nhưng khi anh đã là thầy giáo, nạn bài Á đang ngày một nghiêm trọng.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/nguoi-goc-viet-o-my-toi-phai-doi-ca-dang-di-vi-nan-bai-a-4262999.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/04/15/nguoi-goc-viet-o-my-toi-phai-doi-ca-dang-di-vi-nan-bai-a-1618443263.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 15 Apr 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
