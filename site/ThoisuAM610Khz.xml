@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 21 Apr 2021 01:54:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 21 Apr 2021 12:38:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 21 Apr 2021 01:54:00 +0700</pubDate>
+    <pubDate>Wed, 21 Apr 2021 12:38:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Giỗ tổ Hùng Vương, tín ngưỡng và sinh khí của dân tộc – Thời sự 5g30 - 21/42021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/gio-to-hung-vuong-tin-nguong-va-sinh-khi-cua-dan-toc-thoi-su-5g30-21-42021-399694.html</link>
+      <description><![CDATA[05:38 - 21/04/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/gio-to-hung-vuong-tin-nguong-va-sinh-khi-cua-dan-toc-thoi-su-5g30-21-42021-399694.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/04/21/AMThoisu05h30p210421.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 21 Apr 2021 12:38:00 +0700</pubDate>
+    </item>
     <item>
       <title>Bài 1: Chặt đứt chuỗi lây nhiễm HIV trong nhóm MSM - Thời sự 17g00 20/4/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/bai-1-chat-dut-chuoi-lay-nhiem-hiv-trong-nhom-msm-thoi-su-17g00-20-4-2021-399688.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-can-tang-cuong-giai-phap-phong-chong-covid-19-cho-ngay-bau-cu-thoi-su-11g00-20-4-2021-399687.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/04/20/AMThoisu11h00p200421-Copy.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 21 Apr 2021 01:45:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Tăng cường thanh kiểm tra không chỉ trong tháng hành động - Thời sự 5h30 20/4/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tang-cuong-thanh-kiem-tra-khong-chi-trong-thang-hanh-dong-thoi-su-5h30-20-4-2021-399685.html</link>
-      <description><![CDATA[05:00 - 20/04/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tang-cuong-thanh-kiem-tra-khong-chi-trong-thang-hanh-dong-thoi-su-5h30-20-4-2021-399685.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/04/20/AMThoisu05h30p200421-Copy.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 20 Apr 2021 12:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
