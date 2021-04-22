@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 22 Apr 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 23 Apr 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 22 Apr 2021 11:00:00 +0700</pubDate>
+    <pubDate>Fri, 23 Apr 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>'Bẫy tình' trai Tây</title>
+      <link>https://vnexpress.net/bay-tinh-trai-tay-4266889.html</link>
+      <description><![CDATA[Sau 2 tháng hẹn hò và ngỏ lời yêu, người bạn trai tự nhận là lính Mỹ muốn chị Cúc gửi tiền để làm thủ tục kết hôn. Mất gần 400 triệu và phát hiện mình bị lừa, chị cảnh giác nhưng vẫn sập bẫy lần 2.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/bay-tinh-trai-tay-4266889.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/04/23/bay-tinh-trai-tay-1619111306.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 23 Apr 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Các nước khuyến khích người già lao động</title>
       <link>https://vnexpress.net/cac-nuoc-khuyen-khich-nguoi-gia-lao-dong-4266278.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/giac-mo-mua-nha-ngay-cang-xa-cua-nguoi-tre-4264871.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/04/18/giac-mo-mua-nha-ngay-cang-xa-cua-nguoi-tre-1618764519.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 19 Apr 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Người Việt tại tâm dịch Campuchia, Thái Lan</title>
-      <link>https://vnexpress.net/nguoi-viet-tai-tam-dich-campuchia-thai-lan-4264604.html</link>
-      <description><![CDATA[Anh Hà Trịnh cho hay, trứng và rau trở nên đáng quý lạ thường khi Campuchia áp lệnh phong toả đột ngột; còn anh Quốc Huy ở Thái Lan nói, Covid-19 trở lại lần thứ 3 nên mọi người đã biết cách tồn tại qua hoảng loạn.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/nguoi-viet-tai-tam-dich-campuchia-thai-lan-4264604.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/04/18/nguoi-viet-tai-tam-dich-cac-nuoc-lang-gieng-1618683774.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 18 Apr 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
