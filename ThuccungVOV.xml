@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 22 Apr 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 23 Apr 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 22 Apr 2021 19:00:00 +0700</pubDate>
+    <pubDate>Fri, 23 Apr 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,11 +24,19 @@
     <itunes:subtitle>Thức cùng VOV</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThuccungVOV.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Nghệ nhân Vương Mạnh Tuấn, người nâng tầm gốm xứ Việt (22/04/2021)</title>
-      <link>http://vov1.vov.vn/chuyen-dem/nghe-nhan-vuong-manh-tuan-nguoi-nang-tam-gom-xu-viet-22042021-c141-71063.aspx</link>
-      <description><![CDATA[Những người sành uống trà, yêu thích nghệ thuật trà đạo chắc hẳn đều mơ ước có được những bộ ấm, chén tử sa. Ấm, chén tử sa không chỉ đẹp và sang trọng mà còn tăng thêm vị ngon khi thưởng thức trà. Hiện nay, để sở hữu một bộ ấm trà tử sa là điều không khó, dù giá thành khá cao. Và ở Việt Nam, Nghệ nhân Vương Mạnh Tuấn, người làng gốm Bát Tràng, thuộc huyện Gia Lâm, Hà Nội là người đã sáng tạo ra dòng gốm độc đáo này.]]></description>
-      <guid isPermaLink="false">http://vov1.vov.vn/chuyen-dem/nghe-nhan-vuong-manh-tuan-nguoi-nang-tam-gom-xu-viet-22042021-c141-71063.aspx</guid>
-      <enclosure url="http://adminvov1.vov.gov.vn/vov1/attachments/vov1/phamvanan/v1_22_04_22h00_chuyen_dem_2021_224202121.mp3" length="0" type="audio/mpeg"/>
+      <title>Cao nguyên Mộc Châu - điểm đến hấp dẫn trên cung đường Tây Bắc (23/4/2021)</title>
+      <link>http://vov1.vov.vn/chuong-trinh-thuc-cung-vov/cao-nguyen-moc-chau-diem-den-hap-dan-tren-cung-duong-tay-bac-2342021-c166-71090.aspx</link>
+      <description><![CDATA[Cao nguyên Mộc Châu - điểm đến hấp dẫn trên cung đường Tây Bắc.- Giải pháp ngăn ngừa chất cấm trong cộng đồng và học đường]]></description>
+      <guid isPermaLink="false">http://vov1.vov.vn/chuong-trinh-thuc-cung-vov/cao-nguyen-moc-chau-diem-den-hap-dan-tren-cung-duong-tay-bac-2342021-c166-71090.aspx</guid>
+      <enclosure url="http://adminvov1.vov.gov.vn/vov1/attachments/vov1/thuhienvov1/v1_23_04_22h00_thuc_cung_vov_hoan_chinh_2021_234202121.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 23 Apr 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Câu chuyện ý nghĩa về bảo vệ môi trường biển tại thành phố Sán Đầu, Trung Quốc (22/04/2021)</title>
+      <link>http://vov1.vov.vn/chuong-trinh-thuc-cung-vov/cau-chuyen-y-nghia-ve-bao-ve-moi-truong-bien-tai-thanh-pho-san-dau-trung-quoc-2-c166-71061.aspx</link>
+      <description><![CDATA[Những hành động XANH – thực hiện thế nào cho hiệu quả, bền vững?- Nghệ nhân Vương Mạnh Tuấn, người nâng tầm gốm xứ Việt.- Thái Lan sẽ hoàn thành một trong những dự án năng lượng mặt trời nổi lớn nhất trên thế giới.]]></description>
+      <guid isPermaLink="false">http://vov1.vov.vn/chuong-trinh-thuc-cung-vov/cau-chuyen-y-nghia-ve-bao-ve-moi-truong-bien-tai-thanh-pho-san-dau-trung-quoc-2-c166-71061.aspx</guid>
+      <enclosure url="http://adminvov1.vov.gov.vn/vov1/attachments/vov1/phamvanan/v1_22_04_22h00_thuc_cung_vov_2021_224202120.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 22 Apr 2021 19:00:00 +0700</pubDate>
     </item>
     <item>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov1.vov.vn/chuyen-dem/tien-si-cherry-vu-voi-mong-uoc-xay-dung-mot-cong-dong-doanh-nghiep-viet-nam-hie-c141-71007.aspx</guid>
       <enclosure url="http://adminvov1.vov.gov.vn/vov1/attachments/vov1/baongocvov1/2021_4/v1_20_04_22h00_chuyen_dem_2021_21420210.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 21 Apr 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Dự án "Bước chân của sách" và sự lan tỏa văn hóa đọc, tri thức trong nhà trường (20/4/2021)</title>
-      <link>http://vov1.vov.vn/chuong-trinh-thuc-cung-vov/du-an-buoc-chan-cua-sach-va-su-lan-toa-van-hoa-doc-tri-thuc-trong-nha-truong-20-c166-71006.aspx</link>
-      <description><![CDATA[- Tắc nghẽn hàng không – các cơ quan chức năng nói gì?- Dự án năng lượng mặt trời nổ lớn nhất thế giới ở Thái Lan.- Tiến sĩ Cherry Vũ với mong ước xây dựng một cộng đồng doanh nghiệp Việt Nam hiệu quả và hạnh phúc.- Dự án "Bước chân của sách" và sự lan tỏa văn hóa đọc, tri thức trong nhà trường.]]></description>
-      <guid isPermaLink="false">http://vov1.vov.vn/chuong-trinh-thuc-cung-vov/du-an-buoc-chan-cua-sach-va-su-lan-toa-van-hoa-doc-tri-thuc-trong-nha-truong-20-c166-71006.aspx</guid>
-      <enclosure url="http://adminvov1.vov.gov.vn/vov1/attachments/vov1/baongocvov1/2021_4/v1_20_04_22h00_thuc_cung_vov_moi_2021_204202123.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 20 Apr 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
