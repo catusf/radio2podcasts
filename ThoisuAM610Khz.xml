@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 23 Apr 2021 00:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 23 Apr 2021 12:25:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 23 Apr 2021 00:00:00 +0700</pubDate>
+    <pubDate>Fri, 23 Apr 2021 12:25:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Mong muốn các doanh nghiệp Nhà nước của TP giữ vững ổn định và phát triển - Thời sự 5g30 23/4/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/mong-muon-cac-doanh-nghiep-nha-nuoc-cua-tp-giu-vung-on-dinh-va-phat-trien-thoi-su-5g30-23-4-2021-399864.html</link>
+      <description><![CDATA[05:25 - 23/04/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/mong-muon-cac-doanh-nghiep-nha-nuoc-cua-tp-giu-vung-on-dinh-va-phat-trien-thoi-su-5g30-23-4-2021-399864.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/04/23/AMThoisu05h30p230421.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 23 Apr 2021 12:25:00 +0700</pubDate>
+    </item>
     <item>
       <title>TPHCM nghiên cứu hạn chế xe trên 30 chỗ vào trung tâm -Thời sự 17g00 22/4/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-nghien-cuu-han-che-xe-tren-30-cho-vao-trung-tam-thoi-su-17g00-22-4-2021-399857.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tong-ket-phong-trao-thi-dua-yeu-nuoc-cong-tac-khen-thuong-nam-2020-thoi-su-11g00-22-4-2021-399818.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/04/22/ts11g00-220421.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 22 Apr 2021 18:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đừng để các em đơn độc trong cuộc chiến chống trầm cảm - Thời sự 05g30 22/4/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/dung-de-cac-em-don-doc-trong-cuoc-chien-chong-tram-cam-thoi-su-05g30-22-4-2021-399783.html</link>
-      <description><![CDATA[05:30 - 22/04/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/dung-de-cac-em-don-doc-trong-cuoc-chien-chong-tram-cam-thoi-su-05g30-22-4-2021-399783.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/04/22/ts0530-220421.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 22 Apr 2021 12:30:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
