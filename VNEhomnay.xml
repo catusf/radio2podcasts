@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 23 Apr 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 24 Apr 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 23 Apr 2021 11:00:00 +0700</pubDate>
+    <pubDate>Sat, 24 Apr 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>'Việt Nam chưa ý thức về tầm quan trọng của thương hiệu nông sản'</title>
+      <link>https://vnexpress.net/viet-nam-chua-y-thuc-ve-tam-quan-trong-cua-thuong-hieu-nong-san-4267544.html</link>
+      <description><![CDATA[Chủ tịch Hiệp hội Thực phẩm minh bạch cho rằng, doanh nghiệp không nhận thức được tầm quan trọng của đăng ký thương hiệu, Việt Nam cũng thiếu các hiệp hội bảo vệ quyền lợi doanh nghiệp và người tiêu dùng.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/viet-nam-chua-y-thuc-ve-tam-quan-trong-cua-thuong-hieu-nong-san-4267544.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/04/24/viet-nam-chua-y-thuc-ve-tam-quan-trong-cua-thuong-hieu-nong-san-1619204458.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 24 Apr 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>'Bẫy tình' của trai Tây</title>
       <link>https://vnexpress.net/bay-tinh-cua-trai-tay-4266889.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/nguoi-gia-chat-vat-muu-sinh-4265461.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/04/20/nguoi-gia-chat-vat-muu-sinh-1618854250.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 20 Apr 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Giấc mơ mua nhà ngày càng xa của người trẻ</title>
-      <link>https://vnexpress.net/giac-mo-mua-nha-ngay-cang-xa-cua-nguoi-tre-4264871.html</link>
-      <description><![CDATA[Sau 5-6 năm đi làm với thu nhập 10-15 triệu/tháng, việc tự mua nhà với anh Minh, chị Hiền vẫn là "không tưởng". Căn hộ giá rẻ dần biến mất cũng kéo giấc mơ của họ thêm xa tầm với.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/giac-mo-mua-nha-ngay-cang-xa-cua-nguoi-tre-4264871.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/04/18/giac-mo-mua-nha-ngay-cang-xa-cua-nguoi-tre-1618764519.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 19 Apr 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
