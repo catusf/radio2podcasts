@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 17 Apr 2021 03:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 24 Apr 2021 03:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 17 Apr 2021 03:00:00 +0700</pubDate>
+    <pubDate>Sat, 24 Apr 2021 03:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thầm thì</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Thamthi.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ăn gì tăng sinh lực nam?</title>
+      <link>https://vnexpress.net/an-gi-tang-sinh-luc-nam-4265354.html</link>
+      <description><![CDATA[Nhiều người tin rằng ăn bi gà, cà dê, pín bò... giúp tăng sinh lực nam. Theo bác sĩ, vẫn có thực phẩm giúp 'ăn gì bổ nấy', tuy nhiên không phải lúc nào cũng đúng.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/an-gi-tang-sinh-luc-nam-4265354.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/04/23/thuc-hu-chuyen-an-gi-bo-nay-1619162228.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 24 Apr 2021 03:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Nghề nghiệp ảnh hưởng ra sao tới khả năng 'giường chiếu'?</title>
       <link>https://vnexpress.net/nghe-nghiep-anh-huong-ra-sao-toi-kha-nang-giuong-chieu-4263573.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/nam-gioi-chay-mau-khi-yeu-co-phai-trinh-tiet-4253967.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/25/nam-gioi-cung-co-trinh-tiet-1616660800.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 27 Mar 2021 03:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Covid-19 có thể làm hại chất lượng tinh trùng?</title>
-      <link>https://vnexpress.net/covid-19-co-the-lam-hai-chat-luong-tinh-trung-4250141.html</link>
-      <description><![CDATA[Tinh hoàn nam giới có thụ thể tương tự như phổi, cho phép nCoV xâm nhập và gây bệnh. Khảo sát nam giới nhiễm Covid-19 tại Đức cho thấy chất lượng tinh trùng suy giảm.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/covid-19-co-the-lam-hai-chat-luong-tinh-trung-4250141.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/18/covid19-voi-suc-khoe-sinh-san-nam-gioi-1616031424.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 20 Mar 2021 03:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
