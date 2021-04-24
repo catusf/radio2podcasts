@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 24 Apr 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 25 Apr 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 24 Apr 2021 11:00:00 +0700</pubDate>
+    <pubDate>Sun, 25 Apr 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Vì sao nhiều người đổ tiền tỷ vào app Coolcat?</title>
+      <link>https://vnexpress.net/vi-sao-nhieu-nguoi-do-tien-ty-vao-app-coolcat-4267817.html</link>
+      <description><![CDATA[Thấy cháu gái chơi và rút được tiền, chị Thanh bỏ hơn 200 triệu vào ứng dụng Coolcat theo "hội chứng đám đông". Với nhiều người khác, kinh tế khó khăn thời Covid khiến họ "mờ mắt vì lợi nhuận quá hấp dẫn".]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/vi-sao-nhieu-nguoi-do-tien-ty-vao-app-coolcat-4267817.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/04/24/vbe-25-4-1619272320.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 25 Apr 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>'ST25 cảnh báo nhiều vấn đề của sản phẩm nông nghiệp'</title>
       <link>https://vnexpress.net/st25-canh-bao-nhieu-van-de-cua-san-pham-nong-nghiep-4267544.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/hit-bong-cuoi-4266018.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/04/20/trai-nghiem-cua-nhung-tay-choi-bong-cuoi-1618936183.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 21 Apr 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Người già chật vật mưu sinh</title>
-      <link>https://vnexpress.net/nguoi-gia-chat-vat-muu-sinh-4265461.html</link>
-      <description><![CDATA[Có khi chỉ được vài chục nghìn nhưng ông Tuyên, 80 tuổi, vẫn ngày ngày chạy xe ôm kiếm sống. Không lương hưu, không "tựa" được vào con, hàng trăm nghìn người già đang phải tự mưu sinh ở tuổi "xế chiều".]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/nguoi-gia-chat-vat-muu-sinh-4265461.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/04/20/nguoi-gia-chat-vat-muu-sinh-1618854250.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 20 Apr 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
