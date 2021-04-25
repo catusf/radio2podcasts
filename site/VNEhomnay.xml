@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 25 Apr 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 26 Apr 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 25 Apr 2021 11:00:00 +0700</pubDate>
+    <pubDate>Mon, 26 Apr 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Cuộc sống người Việt tại tâm dịch Ấn Độ</title>
+      <link>https://vnexpress.net/cuoc-song-nguoi-viet-tai-tam-dich-an-do-4268157.html</link>
+      <description><![CDATA[Thường xuyên chứng kiến xe cứu thương ra vào toà nhà, đôi lúc họ đem theo cả xác người bệnh khiến chị Hiền Nguyễn không dám ra khỏi căn hộ của mình.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/cuoc-song-nguoi-viet-tai-tam-dich-an-do-4268157.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/04/26/an-do-1619371836.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 26 Apr 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Vì sao nhiều người đổ tiền tỷ vào app Coolcat?</title>
       <link>https://vnexpress.net/vi-sao-nhieu-nguoi-do-tien-ty-vao-app-coolcat-4267817.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/cac-nuoc-khuyen-khich-nguoi-gia-lao-dong-4266278.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/04/21/ca-c-nuo-c-la-m-gi--khi-nguo-i-gia--va-n-pha-i-la-m-vie-c-1619023011.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 22 Apr 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Hít 'bóng cười'</title>
-      <link>https://vnexpress.net/hit-bong-cuoi-4266018.html</link>
-      <description><![CDATA[Thùy Linh, 20 tuổi xem bóng cười là phương thức giải trí, lại không nguy hiểm như thuốc lắc, cần sa cho đến khi chứng kiến cậu bạn đổ rầm xuống sàn giữa cuộc vui.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/hit-bong-cuoi-4266018.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/04/20/trai-nghiem-cua-nhung-tay-choi-bong-cuoi-1618936183.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 21 Apr 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
