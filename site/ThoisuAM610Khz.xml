@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 24 Apr 2021 22:15:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 25 Apr 2021 04:28:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 24 Apr 2021 22:15:00 +0700</pubDate>
+    <pubDate>Sun, 25 Apr 2021 04:28:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Giá vàng tăng gần 1% trong tuần - Thời sự 17g00 24/4/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/gia-vang-tang-gan-1-trong-tuan-thoi-su-17g00-24-4-2021-400027.html</link>
+      <description><![CDATA[21:28 - 24/04/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/gia-vang-tang-gan-1-trong-tuan-thoi-su-17g00-24-4-2021-400027.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/04/24/AMThoisu17h00p240421sss.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 25 Apr 2021 04:28:00 +0700</pubDate>
+    </item>
     <item>
       <title>Nghề viết hiện đại – Chọn lọc từng con chữ – Thời sự 11g 24/4/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/nghe-viet-hien-dai-chon-loc-tung-con-chu-thoi-su-11g-24-4-2021-400012.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/chung-tay-xu-ly-cac-vi-pham-anh-huong-den-nganh-du-lich-tphcm-thoi-su-5g30-24-4-2021-399999.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/04/24/AMThoisu05h30p240421ss.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 24 Apr 2021 17:55:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Hướng Đông Nam trên địa bàn Đồng Nai trong Chiến dịch Hồ Chí Minh lịch sử - Thời sự 17g 23/4/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/huong-dong-nam-tren-dia-ban-dong-nai-trong-chien-dich-ho-chi-minh-lich-su-thoi-su-17g-23-4-2021-399938.html</link>
-      <description><![CDATA[20:14 - 23/04/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/huong-dong-nam-tren-dia-ban-dong-nai-trong-chien-dich-ho-chi-minh-lich-su-thoi-su-17g-23-4-2021-399938.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/04/23/AMThoisu17h00p230421Cuon1.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 24 Apr 2021 03:14:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
