@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 16 Apr 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 26 Apr 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 16 Apr 2021 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 26 Apr 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Âm nhạc với cuộc sống</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Amnhacvoicuocsong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Tìm hiểu về ca khúc chủ đề của cuộc thi “Hát lên Việt Nam - Let's sing Vietnam”</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[Chào mừng thành công Đại hội Đại biểu toàn Quốc lần thứ XIII của Đảng và kỷ niệm những ngày lễ lớn của đất nước, Đài Tiếng nói Việt Nam phát động Cuộc vận động sáng tác ca khúc với chủ đề: “Hát lên Việt Nam - Let's sing Vietnam”. Cùng lắng nghe chia sẻ của nhạc sĩ Cát Vận, nguyên Trưởng ban Âm nhạc Đài TNVN về ca khúc “Hãy hát lên Việt Nam”- ca khúc chủ đề ông viết cho cuộc thi.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/04/26/vovlive_am_nhac_voi_cuoc_song_hay_hat_len_viet_nam.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 26 Apr 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>“Tình ca xanh”: Những ca khúc đi cùng năm tháng của ca sĩ Lan Anh</title>
       <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2021/03/30/vovlive_am_nhac_voi_cuoc_song_am_nhac_voi_de_tai_bau_cu.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 30 Mar 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Gặp gỡ nhạc sĩ Phạm Đăng Khương: Nhạc sĩ của Tuổi trẻ Việt Nam</title>
-      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[Kỷ niệm 90 năm thành lập Đoàn TNCS HCM (26/3/1931-26/3/2021) cùng gặp gỡ nhạc sĩ Phạm Đăng Khương, người Nhạc sĩ với nhiều sáng tác đồng hành cùng sinh viên, thanh niên trong các phong trào chiến dịch tình nguyện: “Con đường đến trường”, “Mùa hè sinh viên”, hay “Thanh niên Việt Nam khi Tổ quốc cần”, “Mùa hè xanh lại về”,…]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/03/23/vovlive_am_nhac_voi_cuoc_song_gap_go_nhac_si_pham_dang_khuong.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 23 Mar 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
