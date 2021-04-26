@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 26 Apr 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 27 Apr 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 26 Apr 2021 11:00:00 +0700</pubDate>
+    <pubDate>Tue, 27 Apr 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Thời hoàng kim của công nhân đường sắt</title>
+      <link>https://vnexpress.net/thoi-hoang-kim-cua-cong-nhan-duong-sat-4268704.html</link>
+      <description><![CDATA[Ông Sơn nhắc về thời "có giá" của cán bộ ngành đường sắt tới mức có câu ca "lấy chồng xe lửa, nằm ngửa mà ăn". Sau 40 năm, giờ lương họ nhận mỗi tháng chỉ hơn 3 triệu.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/thoi-hoang-kim-cua-cong-nhan-duong-sat-4268704.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/04/26/thoi-hoang-kim-cua-duong-sat-viet-nam-1619433535.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 27 Apr 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Người Việt ở Ấn Độ: 'Chỉ thấy đốt xác và xe cứu thương'</title>
       <link>https://vnexpress.net/nguoi-viet-o-an-do-chi-thay-dot-xac-va-xe-cuu-thuong-4268157.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/bay-tinh-cua-trai-tay-4266889.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/04/23/bay-tinh-cua-trai-tay-1619168666.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 23 Apr 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Các nước khuyến khích người già lao động</title>
-      <link>https://vnexpress.net/cac-nuoc-khuyen-khich-nguoi-gia-lao-dong-4266278.html</link>
-      <description><![CDATA[Khuyến khích người già làm những công việc đòi hỏi sự lão luyện, tỉ mỉ sau nghỉ hưu là cách Nhật Bản, Hàn Quốc, Singapore... giảm áp lực cho an sinh xã hội và nâng cao chất lượng cuộc sống người cao tuổi.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/cac-nuoc-khuyen-khich-nguoi-gia-lao-dong-4266278.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/04/21/ca-c-nuo-c-la-m-gi--khi-nguo-i-gia--va-n-pha-i-la-m-vie-c-1619023011.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 22 Apr 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
