@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 23 Apr 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jan 2000 07:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 23 Apr 2021 19:00:00 +0700</pubDate>
+    <pubDate>Sat, 01 Jan 2000 07:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,29 +23,5 @@
     </itunes:owner>
     <itunes:subtitle>Thức cùng VOV</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThuccungVOV.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Vụn Art - Khởi nghiệp với người khuyết tật (23/4/2021)</title>
-      <link>http://vov1.vov.vn/chuyen-dem/vun-art-khoi-nghiep-voi-nguoi-khuyet-tat-2342021-c141-71091.aspx</link>
-      <description><![CDATA[Anh Lê Việt Cường, Giám đốc Hợp tác xã Vụn (Vụn Art) chia sẻ những khó khăn trong quá trình khởi nghiệp với người khuyết tật.]]></description>
-      <guid isPermaLink="false">http://vov1.vov.vn/chuyen-dem/vun-art-khoi-nghiep-voi-nguoi-khuyet-tat-2342021-c141-71091.aspx</guid>
-      <enclosure url="http://adminvov1.vov.gov.vn/vov1/attachments/vov1/thuhienvov1/2021_4/v1_23_04_22h00_chuyen_dem_2021_234202121.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 23 Apr 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Thái Lan sẽ hoàn thành một trong những dự án năng lượng mặt trời nổi lớn nhất thế giới (22/04/2021)</title>
-      <link>http://vov1.vov.vn/nhin-ra-the-gioi/thai-lan-se-hoan-thanh-mot-trong-nhung-du-an-nang-luong-mat-troi-noi-lon-nhat-t-c143-71062.aspx</link>
-      <description><![CDATA[Cuối tháng 6 tới, Thái Lan sẽ hoàn thành một trong những dự án năng lượng mặt trời nổi lớn nhất trên thế giới. Dự án này là sự kết hợp giữa thủy điện và điện mặt trời, khi các tâm pin năng lượng mặt trời được lắp đặt trên bề mặt hồ chứa đập thủy điện ở tỉnh Ubon Ratchathani, đông bắc Thái Lan. Sự kết hợp giữa hoạt động của trạm năng lượng mặt trời với hệ thống truyền tải điện cao thế sẵn có của thủy điện Ubon Ratchathani sẽ giúp tiết kiệm chi phí trong quá trình sản xuất và phát điện của cả hai loại hình.]]></description>
-      <guid isPermaLink="false">http://vov1.vov.vn/nhin-ra-the-gioi/thai-lan-se-hoan-thanh-mot-trong-nhung-du-an-nang-luong-mat-troi-noi-lon-nhat-t-c143-71062.aspx</guid>
-      <enclosure url="http://adminvov1.vov.gov.vn/vov1/attachments/vov1/phamvanan/v1_22_04_22h00_nhin_ra_the_gioi_2021_224202120.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 22 Apr 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Câu chuyện ý nghĩa về bảo vệ môi trường biển tại thành phố Sán Đầu, Trung Quốc (22/04/2021)</title>
-      <link>http://vov1.vov.vn/chuong-trinh-thuc-cung-vov/cau-chuyen-y-nghia-ve-bao-ve-moi-truong-bien-tai-thanh-pho-san-dau-trung-quoc-2-c166-71061.aspx</link>
-      <description><![CDATA[Những hành động XANH – thực hiện thế nào cho hiệu quả, bền vững?- Nghệ nhân Vương Mạnh Tuấn, người nâng tầm gốm xứ Việt.- Thái Lan sẽ hoàn thành một trong những dự án năng lượng mặt trời nổi lớn nhất trên thế giới.]]></description>
-      <guid isPermaLink="false">http://vov1.vov.vn/chuong-trinh-thuc-cung-vov/cau-chuyen-y-nghia-ve-bao-ve-moi-truong-bien-tai-thanh-pho-san-dau-trung-quoc-2-c166-71061.aspx</guid>
-      <enclosure url="http://adminvov1.vov.gov.vn/vov1/attachments/vov1/phamvanan/v1_22_04_22h00_thuc_cung_vov_2021_224202120.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 22 Apr 2021 19:00:00 +0700</pubDate>
-    </item>
   </channel>
 </rss>
