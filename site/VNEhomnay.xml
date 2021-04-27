@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 27 Apr 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 28 Apr 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 27 Apr 2021 11:00:00 +0700</pubDate>
+    <pubDate>Wed, 28 Apr 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Bác sĩ Ấn Độ: 'Bất lực nhìn bệnh nhân chết, chẳng giúp được gì'</title>
+      <link>https://vnexpress.net/bac-si-an-do-bat-luc-nhin-benh-nhan-chet-chang-giup-duoc-gi-4269398.html</link>
+      <description><![CDATA[Nói với VnExpress, bác sĩ Atul Gogia day dứt khi chứng kiến nhiều cặp vợ chồng vào viện thì một trong hai phải ra đi; những đứa bé mất bố mẹ... mà ông đứng đó, chẳng giúp được gì.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/bac-si-an-do-bat-luc-nhin-benh-nhan-chet-chang-giup-duoc-gi-4269398.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/04/27/bac-si-an-do-bat-luc-nhin-benh-nhan-chet-chang-giup-duoc-gi-1619542351.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 28 Apr 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Thời hoàng kim của công nhân đường sắt</title>
       <link>https://vnexpress.net/thoi-hoang-kim-cua-cong-nhan-duong-sat-4268704.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/st25-canh-bao-nhieu-van-de-cua-san-pham-nong-nghiep-4267544.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/04/24/viet-nam-chua-y-thuc-ve-tam-quan-trong-cua-thuong-hieu-nong-san-1619204458.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 24 Apr 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>'Bẫy tình' của trai Tây</title>
-      <link>https://vnexpress.net/bay-tinh-cua-trai-tay-4266889.html</link>
-      <description><![CDATA[Sau 2 tháng hẹn hò, người bạn trai tự nhận là lính Mỹ muốn chị Cúc gửi tiền để làm thủ tục kết hôn. Mất gần 400 triệu, chị mới phát hiện mình bị lừa nhưng vẫn "sập bẫy" lần 2.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/bay-tinh-cua-trai-tay-4266889.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/04/23/bay-tinh-cua-trai-tay-1619168666.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 23 Apr 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
