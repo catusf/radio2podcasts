@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 28 Apr 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 29 Apr 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 28 Apr 2021 11:00:00 +0700</pubDate>
+    <pubDate>Thu, 29 Apr 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Quái xế giải nghệ: 'Hồi đó mình tưởng vậy là ngầu'</title>
+      <link>https://vnexpress.net/quai-xe-giai-nghe-hoi-do-minh-tuong-vay-la-ngau-4270063.html</link>
+      <description><![CDATA[Ánh mắt hâm mộ khiến Trí đam mê những cuộc chơi tốc độ. Sau tai nạn kinh hoàng, Trí nhận ra, các "bằng hữu" đều biến mất trong lúc anh cận kề sinh tử.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/quai-xe-giai-nghe-hoi-do-minh-tuong-vay-la-ngau-4270063.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/04/28/loi-ke-cua-quai-xe-giai-nghe-1619627911.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 29 Apr 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Bác sĩ Ấn Độ: 'Tôi đứng đó, nhìn bệnh nhân chết’</title>
       <link>https://vnexpress.net/bac-si-an-do-toi-dung-do-nhin-benh-nhan-chet-4269398.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/vi-sao-nhieu-nguoi-do-tien-ty-vao-app-coolcat-4267817.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/04/24/vbe-25-4-1619272320.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 25 Apr 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>'ST25 cảnh báo nhiều vấn đề của sản phẩm nông nghiệp'</title>
-      <link>https://vnexpress.net/st25-canh-bao-nhieu-van-de-cua-san-pham-nong-nghiep-4267544.html</link>
-      <description><![CDATA[Chủ tịch Hiệp hội Thực phẩm minh bạch nói, bài học ST25 cho thấy, trong khi nông sản Việt Nam cứ "được mùa mất giá", các nước đã có cơ chế để xây dựng thương hiệu nông nghiệp tầm quốc gia.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/st25-canh-bao-nhieu-van-de-cua-san-pham-nong-nghiep-4267544.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/04/24/viet-nam-chua-y-thuc-ve-tam-quan-trong-cua-thuong-hieu-nong-san-1619204458.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 24 Apr 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
