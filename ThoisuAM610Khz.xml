@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 29 Apr 2021 00:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 29 Apr 2021 13:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 29 Apr 2021 00:00:00 +0700</pubDate>
+    <pubDate>Thu, 29 Apr 2021 13:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,28 +24,28 @@
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Bộ Y tế khuyến cáo phòng dịch Covid-19 trong dịp nghỉ lễ 30/4 và 1/5 - Thời sự 05g30 29/04/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/bo-y-te-khuyen-cao-phong-dich-covid-19-trong-dip-nghi-le-30-4-va-1-5-thoi-su-05g30-29-04-2021-400481.html</link>
+      <description><![CDATA[05:30 - 29/04/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/bo-y-te-khuyen-cao-phong-dich-covid-19-trong-dip-nghi-le-30-4-va-1-5-thoi-su-05g30-29-04-2021-400481.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/04/29/AMThoisu05h30p290421.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 29 Apr 2021 12:30:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Sài Gòn buổi sáng - 29/04/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/sai-gon-buoi-sang-29-04-2021-400480.html</link>
+      <description><![CDATA[06:00 - 29/04/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/sai-gon-buoi-sang-29-04-2021-400480.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/04/29/FMSGBS06h00p290421.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 29 Apr 2021 13:00:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Tri ân lịch sử, hướng đến phát triển TPHCM  mạnh mẽ hơn! - Thời sự 17g00 28/4/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tri-an-lich-su-huong-den-phat-trien-tphcm-manh-me-hon-thoi-su-17g00-28-4-2021-400475.html</link>
       <description><![CDATA[17:00 - 28/04/2021]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tri-an-lich-su-huong-den-phat-trien-tphcm-manh-me-hon-thoi-su-17g00-28-4-2021-400475.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/04/29/AMThoisu17h00p280421Cuon1.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 29 Apr 2021 00:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Những công trình thay đổi diện mạo giao thông Thành phố Hồ Chí Minh - Thời sự 11g00 28/4/20201</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/nhung-cong-trinh-thay-doi-dien-mao-giao-thong-thanh-pho-ho-chi-minh-thoi-su-11g00-28-4-20201-400404.html</link>
-      <description><![CDATA[14:42 - 28/04/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/nhung-cong-trinh-thay-doi-dien-mao-giao-thong-thanh-pho-ho-chi-minh-thoi-su-11g00-28-4-20201-400404.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/04/28/AMThoisu11h00p280421.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 28 Apr 2021 21:42:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Hoàn thành tiêm vaccine COVID-19 do COVAX cung cấp vào đầu tháng 5/2021 - Thời sự 5g30 27/04/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/hoan-thanh-tiem-vaccine-covid-19-do-covax-cung-cap-vao-dau-thang-5-2021-thoi-su-5g30-27-04-2021-400266.html</link>
-      <description><![CDATA[05:00 - 27/04/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/hoan-thanh-tiem-vaccine-covid-19-do-covax-cung-cap-vao-dau-thang-5-2021-thoi-su-5g30-27-04-2021-400266.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/04/27/AMThoisu05h30p270421.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 27 Apr 2021 12:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
