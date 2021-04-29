@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 29 Apr 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 30 Apr 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 29 Apr 2021 11:00:00 +0700</pubDate>
+    <pubDate>Fri, 30 Apr 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>30/4/1975 trong ký ức cựu phóng viên chiến trường</title>
+      <link>https://vnexpress.net/30-4-1975-trong-ky-uc-cuu-phong-vien-chien-truong-4270731.html</link>
+      <description><![CDATA[Giây phút ghi lại khoảnh khắc người lính cắm cờ trên nóc dinh Độc Lập, ông Cường sung sướng không phải do là một trong những người đưa tin nhanh nhất, ông mừng vì máu sẽ không còn đổ.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/30-4-1975-trong-ky-uc-cuu-phong-vien-chien-truong-4270731.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/04/30/nga-y-304-trong-ky--u-c-cu-u-pho-ng-vien-upi-1619716533.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 30 Apr 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>'Quái xế' giải nghệ sau bờ vực sinh tử</title>
       <link>https://vnexpress.net/quai-xe-giai-nghe-sau-bo-vuc-sinh-tu-4270063.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/nguoi-viet-o-an-do-chi-thay-dot-xac-va-xe-cuu-thuong-4268157.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/04/26/an-do-1619371836.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 26 Apr 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Vì sao nhiều người đổ tiền tỷ vào app Coolcat?</title>
-      <link>https://vnexpress.net/vi-sao-nhieu-nguoi-do-tien-ty-vao-app-coolcat-4267817.html</link>
-      <description><![CDATA[Thấy cháu gái chơi và rút được tiền, chị Thanh bỏ hơn 200 triệu vào ứng dụng Coolcat theo "hội chứng đám đông". Với nhiều người khác, kinh tế khó khăn thời Covid khiến họ "mờ mắt vì lợi nhuận quá hấp dẫn".]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/vi-sao-nhieu-nguoi-do-tien-ty-vao-app-coolcat-4267817.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/04/24/vbe-25-4-1619272320.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 25 Apr 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
