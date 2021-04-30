@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 30 Apr 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 01 May 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 30 Apr 2021 11:00:00 +0700</pubDate>
+    <pubDate>Sat, 01 May 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Nỗi lòng công nhân dệt may bỏ nghề</title>
+      <link>https://vnexpress.net/noi-long-cong-nhan-det-may-bo-nghe-4271046.html</link>
+      <description><![CDATA[Lương tháng 4,8 triệu, anh Thảo phải "ngày làm công nhân tối phục vụ bàn" vẫn không đủ nuôi bố mẹ. Còn chị Duyên dù gắn bó 10 năm vẫn quyết bỏ nghề vì bất mãn với tiền thâm niên 50 nghìn đồng/năm.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/noi-long-cong-nhan-det-may-bo-nghe-4271046.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/04/30/noi-long-cong-nhan-det-may-bo-nghe-1619794436.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 01 May 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>30/4/1975 trong ký ức cựu phóng viên chiến trường của UPI</title>
       <link>https://vnexpress.net/30-4-1975-trong-ky-uc-cuu-phong-vien-chien-truong-cua-upi-4270731.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/thoi-hoang-kim-cua-cong-nhan-duong-sat-4268704.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/04/26/thoi-hoang-kim-cua-duong-sat-viet-nam-1619433535.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 27 Apr 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Người Việt ở Ấn Độ: 'Chỉ thấy đốt xác và xe cứu thương'</title>
-      <link>https://vnexpress.net/nguoi-viet-o-an-do-chi-thay-dot-xac-va-xe-cuu-thuong-4268157.html</link>
-      <description><![CDATA[Chị Hiền Nguyễn ở Mumbai nói, đã phải liên tục chứng kiến xe cứu thương ra vào toà nhà nơi chị sống để lấy xác bệnh nhân Covid-19. 16 tháng nay, con chị chưa được hít khí trời.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/nguoi-viet-o-an-do-chi-thay-dot-xac-va-xe-cuu-thuong-4268157.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/04/26/an-do-1619371836.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 26 Apr 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
