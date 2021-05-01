@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 01 May 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 02 May 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 01 May 2021 11:00:00 +0700</pubDate>
+    <pubDate>Sun, 02 May 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Chiêu thức 'hút tiền' của các 'app làm giàu'</title>
+      <link>https://vnexpress.net/chieu-thuc-hut-tien-cua-cac-app-lam-giau-4271383.html</link>
+      <description><![CDATA[Gọi mời đa cấp, cam kết lợi nhuận khủng, cho rút tiền thực trong những lần đầu... là cách nhiều app đầu tư "hút" được hàng trăm tỷ của người chơi, theo chuyên gia.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/chieu-thuc-hut-tien-cua-cac-app-lam-giau-4271383.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/05/02/chieu-thuc-hut-tien-cua-cac-app-dau-tu-co-dau-hieu-lua-dao-1619889243.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 02 May 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Vì sao công nhân dệt may bỏ nghề?</title>
       <link>https://vnexpress.net/vi-sao-cong-nhan-det-may-bo-nghe-4271046.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/bac-si-an-do-toi-dung-do-nhin-benh-nhan-chet-4269398.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/04/28/bac-si-an-do-toi-dung-do-nhin-benh-nhan-chet-1619573917.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 28 Apr 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Thời hoàng kim của công nhân đường sắt</title>
-      <link>https://vnexpress.net/thoi-hoang-kim-cua-cong-nhan-duong-sat-4268704.html</link>
-      <description><![CDATA[Ông Sơn nhắc về thời "có giá" của nhân viên ngành đường sắt tới mức có câu ca "lấy chồng xe lửa, nằm ngửa mà ăn". Sau 40 năm, giờ lương họ nhận mỗi tháng chỉ hơn 3 triệu.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/thoi-hoang-kim-cua-cong-nhan-duong-sat-4268704.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/04/26/thoi-hoang-kim-cua-duong-sat-viet-nam-1619433535.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 27 Apr 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
