@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 25 Apr 2021 03:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 02 May 2021 03:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 25 Apr 2021 03:00:00 +0700</pubDate>
+    <pubDate>Sun, 02 May 2021 03:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -48,20 +48,20 @@
       <pubDate>Sun, 11 Apr 2021 03:00:00 +0700</pubDate>
     </item>
     <item>
+      <title>'May mắn khi vài người coi tôi là người bình thường'</title>
+      <link>https://vnexpress.net/may-man-khi-vai-nguoi-coi-toi-la-nguoi-binh-thuong-4257536.html</link>
+      <description><![CDATA[Bị rung lắc nhãn cầu bẩm sinh, Danh được gửi vào trường nội trú cho trẻ khiếm khuyết từ nhỏ. Thế giới của Danh chỉ có chính mình vì người thân bảo bọc vì cho rằng cậu không thể tự làm gì.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/may-man-khi-vai-nguoi-coi-toi-la-nguoi-binh-thuong-4257536.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/05/01/may-man-khi-vai-nguoi-coi-toi-la-nguoi-binh-thuong-1619839041.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 02 May 2021 03:00:00 +0700</pubDate>
+    </item>
+    <item>
       <title>'Muốn quay lại để cứu vớt chồng cũ bê tha'</title>
       <link>https://vnexpress.net/muon-quay-lai-de-cuu-vot-chong-cu-be-tha-4253549.html</link>
       <description><![CDATA[Thương cảm vì sự tụt dốc của chồng cũ sau 10 năm xa cách, Huyền muốn quay lại để giúp anh. Trước đó họ chia tay do anh qua lại với tình cũ và đánh chị vì ghen tuông.]]></description>
       <guid isPermaLink="false">https://vnexpress.net/muon-quay-lai-de-cuu-vot-chong-cu-be-tha-4253549.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/04/03/muon-quay-lai-de-cuu-vot-nguoi-chong-be-tha-1617444345.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 04 Apr 2021 03:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>'Vợ ngủ với đồng nghiệp cũ của tôi'</title>
-      <link>https://vnexpress.net/vo-ngu-voi-dong-nghiep-cu-cua-toi-4253322.html</link>
-      <description><![CDATA[Cưới được 7 năm, Đông nói mình làm thay vợ mọi việc nhưng không hiểu vì sao vẫn bị phản bội nhiều lần. Đỉnh điểm anh phát hiện vợ ngoại tình với chính đồng nghiệp cũ anh từng dẫn về nhà.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/vo-ngu-voi-dong-nghiep-cu-cua-toi-4253322.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/03/24/toi-chieu-vo-het-muc-nhung-co-ay-van-ngoai-tinh-1616571748.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 28 Mar 2021 03:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
