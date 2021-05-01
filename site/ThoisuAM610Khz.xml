@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 01 May 2021 00:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 01 May 2021 15:24:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 01 May 2021 00:00:00 +0700</pubDate>
+    <pubDate>Sat, 01 May 2021 15:24:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Xây dựng giai cấp công nhân hiện đại, lớn mạnh - Thời sự 05g30 1/5/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/xay-dung-giai-cap-cong-nhan-hien-dai-lon-manh-thoi-su-05g30-1-5-2021-400641.html</link>
+      <description><![CDATA[08:24 - 01/05/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/xay-dung-giai-cap-cong-nhan-hien-dai-lon-manh-thoi-su-05g30-1-5-2021-400641.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/05/01/AMThoisu05h30p010521ss.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 01 May 2021 15:24:00 +0700</pubDate>
+    </item>
     <item>
       <title>Chi trả lương hưu, trợ cấp BHXH tháng 5, 6 vào cùng kỳ chi trả tháng 5 - Thời sự 17g00 30/4/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/chi-tra-luong-huu-tro-cap-bhxh-thang-5-6-vao-cung-ky-chi-tra-thang-5-thoi-su-17g00-30-4-2021-400603.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/gan-2-170-nguoi-chet-do-tai-nan-giao-thong-trong-4-thang-dau-nam-thoi-su-11g00-30-4-2021-400582.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/04/30/ts11g00-300421.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 30 Apr 2021 18:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Kỷ niệm 46 năm Ngày giải phóng miền Nam, thống nhất đất nước - Thời sự 05g30 30/4/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/ky-niem-46-nam-ngay-giai-phong-mien-nam-thong-nhat-dat-nuoc-thoi-su-05g30-30-4-2021-400565.html</link>
-      <description><![CDATA[05:30 - 30/04/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/ky-niem-46-nam-ngay-giai-phong-mien-nam-thong-nhat-dat-nuoc-thoi-su-05g30-30-4-2021-400565.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/04/30/ts0530-300421.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 30 Apr 2021 12:30:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
