@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 02 May 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 03 May 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 02 May 2021 11:00:00 +0700</pubDate>
+    <pubDate>Mon, 03 May 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Cuộc sống của chiến sĩ tại biên giới chống dịch</title>
+      <link>https://vnexpress.net/cuoc-song-cua-chien-si-tai-bien-gioi-chong-dich-4271681.html</link>
+      <description><![CDATA[Để khép kín hơn 13 km đường biên với Lào, đồn biên phòng Thuận chia quân tuần tra rừng 24/24 và ăn, ngủ tại các chốt. Thượng uý Nguyễn Mạnh Cường cho hay, có hôm thức dậy anh thấy rắn ngủ cạnh mình.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/cuoc-song-cua-chien-si-tai-bien-gioi-chong-dich-4271681.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/05/02/cho-ng-di-ch-o--bien-gio-i-vie-t-la-o-duo-c-trie-n-khai-nhu-the--na-o-1619971844.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 03 May 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Chiêu thức 'hút tiền' của các 'app làm giàu'</title>
       <link>https://vnexpress.net/chieu-thuc-hut-tien-cua-cac-app-lam-giau-4271383.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/quai-xe-giai-nghe-sau-bo-vuc-sinh-tu-4270063.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/04/28/loi-ke-cua-quai-xe-giai-nghe-1619627911.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 29 Apr 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Bác sĩ Ấn Độ: 'Tôi đứng đó, nhìn bệnh nhân chết’</title>
-      <link>https://vnexpress.net/bac-si-an-do-toi-dung-do-nhin-benh-nhan-chet-4269398.html</link>
-      <description><![CDATA[Nói với VnExpress, bác sĩ Atul Gogia day dứt khi chứng kiến nhiều cặp vợ chồng vào viện thì một trong hai phải ra đi, những đứa bé mất bố mẹ... mà ông đứng đó, chẳng giúp được gì.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/bac-si-an-do-toi-dung-do-nhin-benh-nhan-chet-4269398.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/04/28/bac-si-an-do-toi-dung-do-nhin-benh-nhan-chet-1619573917.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 28 Apr 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
