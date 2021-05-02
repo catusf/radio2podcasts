@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 01 May 2021 15:24:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 02 May 2021 13:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 01 May 2021 15:24:00 +0700</pubDate>
+    <pubDate>Sun, 02 May 2021 13:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Sài Gòn buổi sáng - 02/05/2021</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-02-05-2021-400721.html</link>
+      <description><![CDATA[06:00 - 02/05/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-02-05-2021-400721.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/05/02/FMSaigonbuoisang06h00p020521.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 02 May 2021 13:00:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Sài Gòn buổi sáng - 1/5/2021</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-1-5-2021-400640.html</link>
       <description><![CDATA[08:24 - 01/05/2021]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-1-5-2021-400640.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/05/01/FMSaigonbuoisang06h00p010521sss.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 01 May 2021 15:24:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Sài Gòn buổi sáng - 30/4/2021</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-30-4-2021-400566.html</link>
-      <description><![CDATA[06:00 - 30/04/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-30-4-2021-400566.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/04/30/sgbs-300421.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 30 Apr 2021 13:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
