@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 01 May 2021 21:33:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 02 May 2021 03:30:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 01 May 2021 21:33:00 +0700</pubDate>
+    <pubDate>Sun, 02 May 2021 03:30:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Đảm bảo quyền và lợi ích chính đáng, hợp pháp cho người lao động - Thời sự 17g00 1/5/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/dam-bao-quyen-va-loi-ich-chinh-dang-hop-phap-cho-nguoi-lao-dong-thoi-su-17g00-1-5-2021-400670.html</link>
+      <description><![CDATA[20:30 - 01/05/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/dam-bao-quyen-va-loi-ich-chinh-dang-hop-phap-cho-nguoi-lao-dong-thoi-su-17g00-1-5-2021-400670.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/05/01/AMThoisu17h00p010521sss.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 02 May 2021 03:30:00 +0700</pubDate>
+    </item>
     <item>
       <title>Công bố thông tin hỗ trợ công tác thi và tuyển sinh 2021 - Thời sự 17g00 27/04/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/cong-bo-thong-tin-ho-tro-cong-tac-thi-va-tuyen-sinh-2021-thoi-su-17g00-27-04-2021-400662.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tang-nang-suat-chat-luong-lao-dong-de-thuc-day-tang-truong-kinh-te-thoi-su-11g00-1-5-2021-400653.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/05/01/AMThoisu11h00p010521sss.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 01 May 2021 21:33:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Xây dựng giai cấp công nhân hiện đại, lớn mạnh - Thời sự 05g30 1/5/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/xay-dung-giai-cap-cong-nhan-hien-dai-lon-manh-thoi-su-05g30-1-5-2021-400641.html</link>
-      <description><![CDATA[08:24 - 01/05/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/xay-dung-giai-cap-cong-nhan-hien-dai-lon-manh-thoi-su-05g30-1-5-2021-400641.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/05/01/AMThoisu05h30p010521ss.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 01 May 2021 15:24:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
