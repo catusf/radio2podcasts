@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 02 May 2021 18:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 03 May 2021 18:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 02 May 2021 18:00:00 +0700</pubDate>
+    <pubDate>Mon, 03 May 2021 18:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Bộ Giao thông Vận tải thành lập 3 đoàn kiểm tra phòng, chống dịch COVID-19 - Thời sự 11g00 03/05/21</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/bo-giao-thong-van-tai-thanh-lap-3-doan-kiem-tra-phong-chong-dich-covid-19-thoi-su-11g00-03-05-21-400801.html</link>
+      <description><![CDATA[11:00 - 03/05/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/bo-giao-thong-van-tai-thanh-lap-3-doan-kiem-tra-phong-chong-dich-covid-19-thoi-su-11g00-03-05-21-400801.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/05/03/AMThoisu11h00p030521.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 03 May 2021 18:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Sẽ dùng mã số định danh cá nhân thay cho mã số thuế - Thời sự 11g00 02/05/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/se-dung-ma-so-dinh-danh-ca-nhan-thay-cho-ma-so-thue-thoi-su-11g00-02-05-2021-400744.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/101-truong-hop-o-tphcm-tiep-xuc-voi-benh-nhan-2910-da-am-tinh-lan-1-thoi-su-5g30-02-05-2021-400720.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/05/02/AMThoisu05h30p020521.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 02 May 2021 12:30:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đảm bảo quyền và lợi ích chính đáng, hợp pháp cho người lao động - Thời sự 17g00 1/5/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/dam-bao-quyen-va-loi-ich-chinh-dang-hop-phap-cho-nguoi-lao-dong-thoi-su-17g00-1-5-2021-400670.html</link>
-      <description><![CDATA[20:30 - 01/05/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/dam-bao-quyen-va-loi-ich-chinh-dang-hop-phap-cho-nguoi-lao-dong-thoi-su-17g00-1-5-2021-400670.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/05/01/AMThoisu17h00p010521sss.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 02 May 2021 03:30:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
