@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 03 May 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 04 May 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 03 May 2021 11:00:00 +0700</pubDate>
+    <pubDate>Tue, 04 May 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Y tá Mỹ: 'Tôi khó thuyết phục chồng mình tiêm vaccine'</title>
+      <link>https://vnexpress.net/y-ta-my-toi-kho-thuyet-phuc-chong-minh-tiem-vaccine-4272038.html</link>
+      <description><![CDATA[Chị Hoa Nguyễn, từng chứng kiến bệnh nhân Covid chết hàng ngày nhưng chị khó thuyết phục cả chồng mình tiêm ngừa. Nhiều người Mỹ vẫn hoài nghi vaccine dù nước này dẫn đầu thế giới về tỷ lệ tiêm chủng.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/y-ta-my-toi-kho-thuyet-phuc-chong-minh-tiem-vaccine-4272038.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/05/04/y-ta-my-nhieu-nguoi-khong-tiem-vi-khong-tin-covid-co-that-1620063580.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 04 May 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Cuộc sống của chiến sĩ tại biên giới chống dịch</title>
       <link>https://vnexpress.net/cuoc-song-cua-chien-si-tai-bien-gioi-chong-dich-4271681.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/30-4-1975-trong-ky-uc-cuu-phong-vien-chien-truong-cua-upi-4270731.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/04/30/3041975-trong-ky-uc-cuu-phong-vien-chien-truong-cua-hang-upi-1619739254.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 30 Apr 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>'Quái xế' giải nghệ sau bờ vực sinh tử</title>
-      <link>https://vnexpress.net/quai-xe-giai-nghe-sau-bo-vuc-sinh-tu-4270063.html</link>
-      <description><![CDATA[Sau những lần vặn lút tay ga, Trí chìm trong men chiến thắng với những tiếng tung hô. Nhưng khi cậu lao thẳng vào ôtô, đồng bọn tháo chạy, mặc Trí nằm thoi thóp suốt 4 tiếng.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/quai-xe-giai-nghe-sau-bo-vuc-sinh-tu-4270063.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/04/28/loi-ke-cua-quai-xe-giai-nghe-1619627911.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 29 Apr 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
