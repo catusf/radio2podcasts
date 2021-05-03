@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 26 Apr 2021 03:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 03 May 2021 03:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 26 Apr 2021 03:00:00 +0700</pubDate>
+    <pubDate>Mon, 03 May 2021 03:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sóng điện ảnh trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Songdienanh.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Giao lưu với các diễn viên nhí đáng yêu trong phim Trạng Tí - Khung hình thứ 25 2/5/2021</title>
+      <link>https://radio.voh.com.vn/khung-hinh-thu-25/giao-luu-voi-cac-dien-vien-nhi-dang-yeu-trong-phim-trang-ti-khung-hinh-thu-25-2-5-2021-400790.html</link>
+      <description><![CDATA[20:00 - 02/05/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/khung-hinh-thu-25/giao-luu-voi-cac-dien-vien-nhi-dang-yeu-trong-phim-trang-ti-khung-hinh-thu-25-2-5-2021-400790.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/05/03/khunghinh-020521.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 03 May 2021 03:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Xem phim trên VOD có gì hấp dẫn? - Khung hình thứ 25 25/4/2021</title>
       <link>https://radio.voh.com.vn/khung-hinh-thu-25/xem-phim-tren-vod-co-gi-hap-dan-khung-hinh-thu-25-25-4-2021-400096.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/khung-hinh-thu-25/7-bo-phim-viet-ra-rap-trong-thang-4-2021-khung-hinh-thu-25-4-4-2021-398211.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/04/05/khunghinh-040421.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 05 Apr 2021 03:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>7 bộ phim Việt ra rạp trong tháng 4/2021 - Khung hình thứ 25 28/3/2021</title>
-      <link>https://radio.voh.com.vn/khung-hinh-thu-25/7-bo-phim-viet-ra-rap-trong-thang-4-2021-khung-hinh-thu-25-28-3-2021-397513.html</link>
-      <description><![CDATA[20:00 - 28/03/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/khung-hinh-thu-25/7-bo-phim-viet-ra-rap-trong-thang-4-2021-khung-hinh-thu-25-28-3-2021-397513.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/03/28/KHUNGHINH-280321.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 29 Mar 2021 03:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
