@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 26 Apr 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 28 Apr 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 26 Apr 2021 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 28 Apr 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,15 @@
     </itunes:owner>
     <itunes:subtitle>Âm nhạc với cuộc sống</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Amnhacvoicuocsong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>“Công-Nông-Binh”: Lời Tri ân của ca sĩ Trần Hồng Nhung gửi đến giai cấp Công nhân, Nông dân và người lính</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[- Chào mừng 46 năm giải phóng miền Nam thống nhất đất nước (30/4/1975-30/4/2021) và kỷ niệm 135 năm ngày Quốc tế Lao động (1/5/1886-1/5/2021), thưởng thức giọng ca của nữ ca sĩ Trần Hồng Nhung, Nhà hát Đài TNVN và lắng nghe những chia sẻ của chị về album “Công-Nông-Binh” …  
+- Đồng hành cùng Cuộc vận động sáng tác ca khúc “Hát lên Việt Nam - Let's sing Vietnam” với 2 tác phẩm dự thi: Đảng là cuộc sống hôm nay (tác giả Nguyễn Văn Hạnh), Con đường phía trước (tác giả Đoàn Bổng)]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/04/28/vovlive_am_nhac_voi_cuoc_song_cong_nong_binh.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 28 Apr 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Tìm hiểu về ca khúc chủ đề của cuộc thi “Hát lên Việt Nam - Let's sing Vietnam”</title>
       <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
@@ -46,14 +55,6 @@
       <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2021/04/06/vovlive_am_nhac_voi_cuoc_song_thanh_hoa_anh_hung.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 06 Apr 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đề tài bầu cử trong những tác phẩm Âm nhạc</title>
-      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[Hướng tới cuộc bầu cử đại biểu Quốc hội khóa 15 và đại biểu Hội đồng Nhân dân các cấp nhiệm kỳ 2021-2026, chương trình giới thiệu những tác phẩm âm nhạc mới sáng tác về đề tài này cũng như những tác phẩm đã ra đời từ những ngày tổ chức tổng tuyển cử đầu tiên của nước Việt Nam độc lập.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/03/30/vovlive_am_nhac_voi_cuoc_song_am_nhac_voi_de_tai_bau_cu.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 30 Mar 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
