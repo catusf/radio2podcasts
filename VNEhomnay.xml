@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 06 May 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 07 May 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 06 May 2021 11:00:00 +0700</pubDate>
+    <pubDate>Fri, 07 May 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ông Trần Đắc Phu: 'Đợt dịch này phức tạp do nhiều hình thái lây lan'</title>
+      <link>https://vnexpress.net/ong-tran-dac-phu-dot-dich-nay-phuc-tap-do-nhieu-hinh-thai-lay-lan-4273997.html</link>
+      <description><![CDATA[Chuyên gia dịch tễ Trần Đắc Phu cho biết, Việt Nam chưa gặp trường hợp lây Covid-19 khi ngồi sát hàng máy bay; tốc độ lây cũng nhanh hơn khi có F2 trở thành F0 trong vài ngày.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/ong-tran-dac-phu-dot-dich-nay-phuc-tap-do-nhieu-hinh-thai-lay-lan-4273997.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/05/07/ong-tran-dac-phu-dot-dich-nay-phuc-tap-do-nhieu-hinh-thai-lay-lan-1620327123.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 07 May 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Lo lắng của bác sĩ BV Bệnh Nhiệt đới Trung ương</title>
       <link>https://vnexpress.net/lo-lang-cua-bac-si-bv-benh-nhiet-doi-trung-uong-4273336.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/cuoc-song-cua-chien-si-tai-bien-gioi-chong-dich-4271681.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/05/02/cho-ng-di-ch-o--bien-gio-i-vie-t-la-o-duo-c-trie-n-khai-nhu-the--na-o-1619971844.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 03 May 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chiêu thức 'hút tiền' của các 'app làm giàu'</title>
-      <link>https://vnexpress.net/chieu-thuc-hut-tien-cua-cac-app-lam-giau-4271383.html</link>
-      <description><![CDATA[Gọi mời đa cấp, cam kết lợi nhuận khủng, cho rút tiền thực trong những lần đầu... là cách nhiều app đầu tư "hút" được hàng trăm tỷ của người chơi, theo chuyên gia.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/chieu-thuc-hut-tien-cua-cac-app-lam-giau-4271383.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/05/02/chieu-thuc-hut-tien-cua-cac-app-dau-tu-co-dau-hieu-lua-dao-1619889243.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 02 May 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
