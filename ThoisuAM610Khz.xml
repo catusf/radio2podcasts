@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 07 May 2021 12:48:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 07 May 2021 22:02:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 07 May 2021 12:48:00 +0700</pubDate>
+    <pubDate>Fri, 07 May 2021 22:02:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Xây dựng Quận 4 thành Quận học tập – Thời sự 11g 7/5/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/xay-dung-quan-4-thanh-quan-hoc-tap-thoi-su-11g-7-5-2021-401233.html</link>
+      <description><![CDATA[15:02 - 07/05/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/xay-dung-quan-4-thanh-quan-hoc-tap-thoi-su-11g-7-5-2021-401233.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/05/07/AMThoisu11h00p070521.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 07 May 2021 22:02:00 +0700</pubDate>
+    </item>
     <item>
       <title>Lãnh đạo thành phố kiểm tra công tác phòng chống dịch Covid-19 - Thời sự 5g30 7/5/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/lanh-dao-thanh-pho-kiem-tra-cong-tac-phong-chong-dich-covid-19-thoi-su-5g30-7-5-2021-401183.html</link>
@@ -37,14 +45,6 @@
       <description><![CDATA[18:15 - 06/05/2021]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/them-dong-luc-de-phan-dau-dat-nhieu-thanh-tich-cho-boxing-viet-nam-thoi-su-17g00-6-5-2021-401154.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/05/06/AMThoisu17h00p060521Cuon1.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 07 May 2021 01:15:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Huyện Cần Giờ, TPHCM “trái ngọt” 10 năm xây dựng nông thôn mới - Thời sự 11g00 6/5/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/huyen-can-gio-tphcm-trai-ngot-10-nam-xay-dung-nong-thon-moi-thoi-su-11g00-6-5-2021-401153.html</link>
-      <description><![CDATA[18:15 - 06/05/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/huyen-can-gio-tphcm-trai-ngot-10-nam-xay-dung-nong-thon-moi-thoi-su-11g00-6-5-2021-401153.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/05/06/AMThoisu11h00p060521.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 07 May 2021 01:15:00 +0700</pubDate>
     </item>
   </channel>
