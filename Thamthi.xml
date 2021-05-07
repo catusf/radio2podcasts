@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 01 May 2021 03:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 08 May 2021 03:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 01 May 2021 03:00:00 +0700</pubDate>
+    <pubDate>Sat, 08 May 2021 03:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thầm thì</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Thamthi.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Đàn ông 'nhịn yêu' được bao lâu?</title>
+      <link>https://vnexpress.net/dan-ong-nhin-yeu-duoc-bao-lau-4272273.html</link>
+      <description><![CDATA[Mỗi người đàn ông sở hữu "một nhà máy" sản xuất ra hàng nghìn tinh trùng mỗi giây. Vậy việc "nhịn yêu" lâu ảnh hưởng tới tâm sinh lý quý ông ra sao? Bác sĩ Võ Duy Tâm lý giải.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/dan-ong-nhin-yeu-duoc-bao-lau-4272273.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/05/07/dan-ong-nhin-yeu-duoc-bao-lau-1620385980.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 08 May 2021 03:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Đàn ông nghĩ sao khi phụ nữ 'chủ động' trên giường?</title>
       <link>https://vnexpress.net/dan-ong-nghi-sao-khi-phu-nu-chu-dong-tren-giuong-4269955.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/duoc-va-mat-khi-tiem-silicon-giup-cau-be-to-khoe-4260612.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/04/09/duoc-va-mat-khi-tiem-silicon-giup-cau-be-to-khoe-1617968718.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 10 Apr 2021 03:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>22 tuổi nhưng 'cậu nhỏ' như trẻ lên năm</title>
-      <link>https://vnexpress.net/22-tuoi-nhung-cau-nho-nhu-tre-len-nam-4257275.html</link>
-      <description><![CDATA[Dậy thì muộn khiến bộ phận sinh dục nam giới không phát triển, không có tinh trùng và ảnh hưởng tới khả năng sinh sản. Theo bác sĩ, điều trị muộn sẽ giảm khả năng đáp ứng.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/22-tuoi-nhung-cau-nho-nhu-tre-len-nam-4257275.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/04/02/22-tuoi-nhung-cau-nho-nhu-tre-len-nam-1617364699.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 03 Apr 2021 03:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
