@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 14 Apr 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 07 May 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 14 Apr 2021 19:00:00 +0700</pubDate>
+    <pubDate>Fri, 07 May 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Những giọng ca còn mãi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Nhunggiongcaconmai.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Cố NSƯT Lệ Thanh: Đằm thắm những làn điệu dân ca Nghệ Tĩnh</title>
+      <link>https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</link>
+      <description><![CDATA[Cố NSƯT Lệ Thanh-nguyên diễn viên đoàn Ca múa nhạc Quân Khu 4 đã nhiều lần vinh dự mang câu hát dân ca sang biểu diễn ở các nước bạn, được khán giả nước bạn và bà con Việt kiều đánh giá cao. Đến nay, dù bà đã đi xa nhưng giọng hát của bà vẫn ngân vang trên làn sóng của Đài TNVN và được nhiều khán, thính giả yêu mến...]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/05/07/vovlive_nhung_giong_ca_con_mai_co_nsut_le_thanh_dan_ca_nghe_tinh.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 07 May 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Cố NSƯT Út Bạch Lan: Giọng ca sầu nữ</title>
       <link>https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2021/03/30/vovlive_nhung_giong_ca_con_mai_nsnd_quach_thi_ho.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 30 Mar 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>NSND Hồng Khiêm: Dành cả cuộc đời tâm huyết với nghệ thuật dân tộc</title>
-      <link>https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</link>
-      <description><![CDATA[NSND Hồng Khiêm sinh ra và lớn lên trên quê hương tuồng truyền thống. Trong quá trình gắn bó với nghệ thuật tuồng, NSND Hồng Khiêm đã thành danh trong nghề. Giờ đây khi đã được nghỉ hưu, nhưng bà vẫn luôn sống với niềm đam mê nghệ thuật .... Bà coi đó chính là niềm vui của cuộc đời mình…]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/03/16/vovlive_nhung_giong_ca_con_mai_nsnd_hong_khiem.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 16 Mar 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
