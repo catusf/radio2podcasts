@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 07 May 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 08 May 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 07 May 2021 11:00:00 +0700</pubDate>
+    <pubDate>Sat, 08 May 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>'Báo động đỏ' cụm dịch BV Bệnh Nhiệt đới Trung ương</title>
+      <link>https://vnexpress.net/bao-dong-do-cum-dich-bv-benh-nhiet-doi-trung-uong-4274634.html</link>
+      <description><![CDATA[Sau 4 ngày, BV Bệnh Nhiệt đới Trung ương ghi nhận 41 ca nhiễm, là nguồn lây của 11 ca tại Bệnh viện K và lan ra ít nhất 6 tỉnh thành. Chuyên gia dịch tễ Trần Đắc Phu đánh giá đây là cụm dịch phức tạp nhất.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/bao-dong-do-cum-dich-bv-benh-nhiet-doi-trung-uong-4274634.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/05/08/bao-dong-do-cum-dich-bv-benh-nhiet-doi-trung-uong-1620409297.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 08 May 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Ông Trần Đắc Phu: 'Đợt dịch này phức tạp'</title>
       <link>https://vnexpress.net/ong-tran-dac-phu-dot-dich-nay-phuc-tap-4273997.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/y-ta-goc-viet-ke-ve-thuc-trang-bai-vaccine-o-my-4272038.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/05/04/y-ta-goc-viet-ke-cuoc-chien-thuyet-phuc-nguoi-my-tiem-vaccine-1620084071.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 04 May 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Cuộc sống của chiến sĩ tại biên giới chống dịch</title>
-      <link>https://vnexpress.net/cuoc-song-cua-chien-si-tai-bien-gioi-chong-dich-4271681.html</link>
-      <description><![CDATA[Để khép kín hơn 13 km đường biên với Lào, đồn biên phòng Thuận chia quân tuần tra rừng 24/24 và ăn, ngủ tại các chốt. Thượng uý Nguyễn Mạnh Cường cho hay, có hôm thức dậy anh thấy rắn ngủ cạnh mình.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/cuoc-song-cua-chien-si-tai-bien-gioi-chong-dich-4271681.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/05/02/cho-ng-di-ch-o--bien-gio-i-vie-t-la-o-duo-c-trie-n-khai-nhu-the--na-o-1619971844.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 03 May 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
