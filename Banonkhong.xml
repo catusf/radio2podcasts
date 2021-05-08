@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 02 May 2021 03:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 09 May 2021 03:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 02 May 2021 03:00:00 +0700</pubDate>
+    <pubDate>Sun, 09 May 2021 03:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Bạn ổn không?</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Banonkhong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>'Bố đẻ luôn tìm cách khiến vợ chồng tôi ly hôn'</title>
+      <link>https://vnexpress.net/bo-de-luon-tim-cach-khien-vo-chong-toi-ly-hon-4274851.html</link>
+      <description><![CDATA[Vô tình nghe được cuộc nói chuyện, Lành đau khổ khi biết bố muốn vợ chồng cô ly hôn. Cô muốn ra ở riêng, nhưng gia đình do theo mẫu hệ và không ai chăm sóc mẹ đang liệt giường.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/bo-de-luon-tim-cach-khien-vo-chong-toi-ly-hon-4274851.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/05/08/bo--ruo-t-luon-ti-m-ca-ch-la-m-vo--cho-ng-toi-ly-hon-1620455820.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 09 May 2021 03:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>'Tôi làm người thứ 3 không cần danh phận'</title>
       <link>https://vnexpress.net/toi-lam-nguoi-thu-3-khong-can-danh-phan-4266837.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/may-man-khi-vai-nguoi-coi-toi-la-nguoi-binh-thuong-4257536.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/05/01/may-man-khi-vai-nguoi-coi-toi-la-nguoi-binh-thuong-1619839041.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 02 May 2021 03:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>'Muốn quay lại để cứu vớt chồng cũ bê tha'</title>
-      <link>https://vnexpress.net/muon-quay-lai-de-cuu-vot-chong-cu-be-tha-4253549.html</link>
-      <description><![CDATA[Thương cảm vì sự tụt dốc của chồng cũ sau 10 năm xa cách, Huyền muốn quay lại để giúp anh. Trước đó họ chia tay do anh qua lại với tình cũ và đánh chị vì ghen tuông.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/muon-quay-lai-de-cuu-vot-chong-cu-be-tha-4253549.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/04/03/muon-quay-lai-de-cuu-vot-nguoi-chong-be-tha-1617444345.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 04 Apr 2021 03:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
