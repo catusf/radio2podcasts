@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 28 Apr 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 10 May 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 28 Apr 2021 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 10 May 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,15 @@
     </itunes:owner>
     <itunes:subtitle>Âm nhạc với cuộc sống</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Amnhacvoicuocsong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Hồi ức Điện Biên: Món quà Âm nhạc kỷ niệm 67 năm Chiến thắng Điện Biên (7/5/1954-7/5/2021)</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[-Lắng nghe "Hồi ức Điện Biên" của nhạc sĩ Đỗ Tuấn với giọng hát của ca sĩ Ngọc Quy, và những chia sẻ của nhạc sĩ về hoàn cảnh ra đời của bài hát.
+-Tìm hiểu ca khúc “Chiếc gậy Trường Sơn”của nhạc sĩ Phạm Tuyên nhân kỷ niệm 62 năm ngày truyền thống Bộ đội Trường Sơn.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/05/10/vovlive_am_nhac_voi_cuoc_song_hoi_uc_dien_bien.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 10 May 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>“Công-Nông-Binh”: Lời Tri ân của ca sĩ Trần Hồng Nhung gửi đến giai cấp Công nhân, Nông dân và người lính</title>
       <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
@@ -47,14 +56,6 @@
       <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2021/04/16/vovlive_am_nhac_voi_cuoc_song_tinh_ca_xanh_lan_anh.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 16 Apr 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>“Thanh Hóa anh hùng”: Vang mãi những chiến công</title>
-      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[Tháng 4/1965, những trận chiến đấu tại Hàm Rồng, Đò Lèn, Phà Ghép đã đi vào lịch sử như một huyền thoại. Hai ngày quân và dân Thanh Hóa đã phối hợp với các đơn vị Phòng không, Không quân bắn rơi 47 máy bay và bắt sống giặc lái Mỹ. Chiến thắng vang dội đó cũng chính là nguồn cảm hứng để nhạc sĩ Hoàng Đạm viết nên ca khúc “Thanh Hóa anh hùng” với âm hưởng dân gian Thanh Hóa…]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/04/06/vovlive_am_nhac_voi_cuoc_song_thanh_hoa_anh_hung.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 06 Apr 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
