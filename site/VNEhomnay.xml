@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 10 May 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 11 May 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 10 May 2021 11:00:00 +0700</pubDate>
+    <pubDate>Tue, 11 May 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Học sinh dương tính: 'Em bị chửi tham tiền'</title>
+      <link>https://vnexpress.net/hoc-sinh-duong-tinh-em-bi-chui-tham-tien-4275979.html</link>
+      <description><![CDATA[Nhận kết quả dương tính, nam sinh lớp 12 bỗng "nổi tiếng khắp làng", liên tục có người nhắn tin trách em "tham tiền đi bê cỗ cưới" nên gây họa.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/hoc-sinh-duong-tinh-em-bi-chui-tham-tien-4275979.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/05/10/nam-sinh-bi--ky--thi--vi--la-m-lay-lan-ncov-1620661294.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 11 May 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Người Việt kể cách Trung Quốc kiểm soát dịch</title>
       <link>https://vnexpress.net/nguoi-viet-ke-cach-trung-quoc-kiem-soat-dich-4275387.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/ong-tran-dac-phu-dot-dich-nay-phuc-tap-4273997.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/05/07/ong-tran-dac-phu-dot-dich-nay-phuc-tap-do-nhieu-hinh-thai-lay-lan-1620327123.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 07 May 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Lo lắng của bác sĩ BV Bệnh Nhiệt đới Trung ương</title>
-      <link>https://vnexpress.net/lo-lang-cua-bac-si-bv-benh-nhiet-doi-trung-uong-4273336.html</link>
-      <description><![CDATA[Ths.BS Đỗ Thị Phương Mai tại bệnh viện Bệnh Nhiệt đới Trung ương nói, đợt dịch này có thể phức tạp, nghiêm trọng hơn, bệnh nhân lại có nhiều bệnh nền.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/lo-lang-cua-bac-si-bv-benh-nhiet-doi-trung-uong-4273336.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/05/06/lo-lang-cua-bac-si-bv-benh-nhiet-doi-trung-uong-1620271688.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 06 May 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
