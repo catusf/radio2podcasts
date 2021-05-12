@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 12 May 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 13 May 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 12 May 2021 11:00:00 +0700</pubDate>
+    <pubDate>Thu, 13 May 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Nhân viên xét nghiệm: 'Tôi nhốt con để đi chống dịch'</title>
+      <link>https://vnexpress.net/nhan-vien-xet-nghiem-toi-nhot-con-de-di-chong-dich-4277162.html</link>
+      <description><![CDATA[Mẹ liên tục phải lẫy mẫu xét nghiệm thâu đêm, bé lớn nhà chị Nam thường xuyên phải chăm em dù học lớp 3. Nhiều tuần liền chị giữ sức bằng cơm nguội muối vừng và những giấc ngủ vội trong bộ đồ bảo hộ.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/nhan-vien-xet-nghiem-toi-nhot-con-de-di-chong-dich-4277162.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/05/13/nhan-vien-xet-nghiem-toi-nhot-con-de-di-chong-dich-1620852075.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 13 May 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Vì sao nhiều người rút bảo hiểm xã hội một lần?</title>
       <link>https://vnexpress.net/vi-sao-nhieu-nguoi-rut-bao-hiem-xa-hoi-mot-lan-4276590.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/bac-si-ly-giai-ve-ca-tu-vong-sau-tiem-vaccine-dau-tien-o-viet-nam-4275038.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/05/09/bac-si-ly-giai-ve-ca-tu-vong-sau-tiem-vaccine-dau-tien-o-viet-nam-1620531659.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 09 May 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>'Báo động đỏ' cụm dịch BV Bệnh Nhiệt đới Trung ương</title>
-      <link>https://vnexpress.net/bao-dong-do-cum-dich-bv-benh-nhiet-doi-trung-uong-4274634.html</link>
-      <description><![CDATA[Sau 4 ngày, BV Bệnh Nhiệt đới Trung ương ghi nhận 41 ca nhiễm, là nguồn lây của 11 ca tại Bệnh viện K và lan ra ít nhất 6 tỉnh thành. Chuyên gia dịch tễ Trần Đắc Phu đánh giá đây là cụm dịch phức tạp nhất.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/bao-dong-do-cum-dich-bv-benh-nhiet-doi-trung-uong-4274634.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/05/08/bao-dong-do-cum-dich-bv-benh-nhiet-doi-trung-uong-1620409297.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 08 May 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
