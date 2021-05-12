@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 07 May 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 12 May 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 07 May 2021 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 12 May 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Những giọng ca còn mãi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Nhunggiongcaconmai.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>NSƯT Quý Tráng: Anh Hai miệt mài gìn giữ vốn quan họ cổ</title>
+      <link>https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</link>
+      <description><![CDATA[Trong suốt mấy chục năm gắn bó với dân ca quan họ, NSƯT Quý Tráng cùng với các nghệ sĩ tên tuổi của Nhà hát dân ca quan họ Bắc Ninh đã góp phần gìn giữ những bài quan họ cổ, đặc biệt đã giới thiệu cho khán thính giả cả nước biết đến nhiều bài dân ca quan họ lời cổ quen thuộc qua làn sóng của Đài TNVN...]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/05/12/vovlive_nhung_giong_ca_con_mai_nsut_quy_trang.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 12 May 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Cố NSƯT Lệ Thanh: Đằm thắm những làn điệu dân ca Nghệ Tĩnh</title>
       <link>https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2021/04/07/vovlive_nhung_giong_ca_con_mai_nsut_xuan_hanh.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 07 Apr 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Ca nương Quách Thị Hồ: Nghệ nhân đưa ca trù Việt Nam đến với bạn bè Quốc tế</title>
-      <link>https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</link>
-      <description><![CDATA[Trong cuộc sống của mình, NSND Quách Thị Hồ đã giao thiệp và quen thân với rất nhiều văn nghệ sĩ. Chính điều đó đã giúp bà cảm thụ về văn chương rất sâu sắc. Trong những bài ca trù, bà không những thể hiện được kỹ thuật hát mà còn biểu hiện được cái tình của người nghệ sĩ đối với văn nhân…]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/03/30/vovlive_nhung_giong_ca_con_mai_nsnd_quach_thi_ho.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 30 Mar 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
