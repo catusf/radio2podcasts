@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 13 May 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 14 May 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 13 May 2021 11:00:00 +0700</pubDate>
+    <pubDate>Fri, 14 May 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Bà Trần Tố Nga: 'Còn hơi thở sẽ còn chiến đấu vì nạn nhân dioxin'</title>
+      <link>https://vnexpress.net/ba-tran-to-nga-con-hoi-tho-se-con-chien-dau-vi-nan-nhan-dioxin-4277798.html</link>
+      <description><![CDATA[Một phút sau khi biết toà bác đơn kiện, bà Nga lập tức quyết định kháng cáo. Dù mang bệnh ung thư, mỗi đêm đều có thể là đêm cuối nhưng bà khẳng định sẽ không dừng cuộc chiến.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/ba-tran-to-nga-con-hoi-tho-se-con-chien-dau-vi-nan-nhan-dioxin-4277798.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/05/14/ba--tra-n-to--nga-the--gio-i-dang-cho--vie-t-nam-len-tie-ng-ve--cha-t-do-c-da-cam-1620925487.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 14 May 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Nhân viên y tế: 'Nghĩ đến con là khóc'</title>
       <link>https://vnexpress.net/nhan-vien-y-te-nghi-den-con-la-khoc-4277162.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/nguoi-viet-ke-cach-trung-quoc-kiem-soat-dich-4275387.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/05/09/cach-trung-quoc-kiem-soat-dich-1620573860.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 10 May 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Bác sĩ lý giải về ca tử vong sau tiêm vaccine đầu tiên ở Việt Nam</title>
-      <link>https://vnexpress.net/bac-si-ly-giai-ve-ca-tu-vong-sau-tiem-vaccine-dau-tien-o-viet-nam-4275038.html</link>
-      <description><![CDATA[Nữ nhân viên y tế tại An Giang có cơ địa dị ứng nên dễ sốc phản vệ sau tiêm hơn, tuy nhiên không thể đoán trước và rất hiếm gặp, theo bác sĩ BS.CK II Nguyễn Minh Tiến, Phó Giám đốc BV Nhi đồng TP HCM.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/bac-si-ly-giai-ve-ca-tu-vong-sau-tiem-vaccine-dau-tien-o-viet-nam-4275038.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/05/09/bac-si-ly-giai-ve-ca-tu-vong-sau-tiem-vaccine-dau-tien-o-viet-nam-1620531659.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 09 May 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
