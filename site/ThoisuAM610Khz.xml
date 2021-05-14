@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 14 May 2021 18:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 15 May 2021 00:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 14 May 2021 18:00:00 +0700</pubDate>
+    <pubDate>Sat, 15 May 2021 00:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Khi nào triển khai tiêm vắc xin Covid 19 đợt 3? - Thời sự 17g00 14/05/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/khi-nao-trien-khai-tiem-vac-xin-covid-19-dot-3-thoi-su-17g00-14-05-2021-402093.html</link>
+      <description><![CDATA[17:00 - 14/05/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/khi-nao-trien-khai-tiem-vac-xin-covid-19-dot-3-thoi-su-17g00-14-05-2021-402093.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/05/14/AMThoisu17h00p140521Cuon1.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 15 May 2021 00:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>TPHCM siết chặt kiểm soát rủi ro cho vay bất động sản - Thời sự 11g00 14/05/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-siet-chat-kiem-soat-rui-ro-cho-vay-bat-dong-san-thoi-su-11g00-14-05-2021-402058.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/bo-cong-thuong-dam-bao-nguon-cung-hang-thiet-yeu-trong-moi-tinh-huong-thoi-su-5g30-14-05-2021-402030.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/05/14/AMThoisu05h30p140521.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 14 May 2021 12:30:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Thủ tướng ủng hộ tăng tỉ lệ điều tiết ngân sách để lại cho TPHCM - Thời sự 17g 13/5/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/thu-tuong-ung-ho-tang-ti-le-dieu-tiet-ngan-sach-de-lai-cho-tphcm-thoi-su-17g-13-5-2021-401990.html</link>
-      <description><![CDATA[19:55 - 13/05/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/thu-tuong-ung-ho-tang-ti-le-dieu-tiet-ngan-sach-de-lai-cho-tphcm-thoi-su-17g-13-5-2021-401990.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/05/13/AMThoisu17h00p130521Cuon1.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 14 May 2021 02:55:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
