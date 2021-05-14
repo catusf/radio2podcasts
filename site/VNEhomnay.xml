@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 14 May 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 15 May 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 14 May 2021 11:00:00 +0700</pubDate>
+    <pubDate>Sat, 15 May 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -48,20 +48,20 @@
       <pubDate>Wed, 12 May 2021 11:00:00 +0700</pubDate>
     </item>
     <item>
+      <title>Bệnh nhân ung thư 'mắc kẹt' khi viện phong tỏa</title>
+      <link>https://vnexpress.net/benh-nhan-ung-thu-mac-ket-khi-vien-phong-toa-4276567.html</link>
+      <description><![CDATA[Từ Cao Bằng, anh Hữu đưa bố vừa mổ thông dạ dày xuống bệnh viện K Tân Triều để xạ trị. Nhưng vừa đến nơi thì viện phong tỏa, bố con anh bơ vơ giữa thủ đô.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/benh-nhan-ung-thu-mac-ket-khi-vien-phong-toa-4276567.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/05/11/benh-nhan-ung-thu-thap-thom-cho-benh-vien-dung-phong-toa-1620745114.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 15 May 2021 11:00:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Học sinh dương tính: 'Em bị mắng tham tiền'</title>
       <link>https://vnexpress.net/hoc-sinh-duong-tinh-em-bi-mang-tham-tien-4275979.html</link>
       <description><![CDATA[Nhận kết quả dương tính, nam sinh lớp 12 bỗng "nổi tiếng khắp làng", liên tục có người nhắn tin trách em "tham tiền đi bê cỗ cưới" nên gây họa.]]></description>
       <guid isPermaLink="false">https://vnexpress.net/hoc-sinh-duong-tinh-em-bi-mang-tham-tien-4275979.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/05/11/hoc-sinh-duong-tinh-em-bi-mang-tham-tien-1620748176.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 11 May 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Người Việt kể cách Trung Quốc kiểm soát dịch</title>
-      <link>https://vnexpress.net/nguoi-viet-ke-cach-trung-quoc-kiem-soat-dich-4275387.html</link>
-      <description><![CDATA[Thuốc hạ sốt bị cấm bán tại các nhà thuốc thông thường; dùng công nghệ quản lý người dân; xử phạt nghiêm khắc khi không khai báo..., Trung Quốc gần đây không có ca nhiễm cộng đồng.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/nguoi-viet-ke-cach-trung-quoc-kiem-soat-dich-4275387.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/05/09/cach-trung-quoc-kiem-soat-dich-1620573860.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 10 May 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
