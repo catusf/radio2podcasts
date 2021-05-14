@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 13 May 2021 12:30:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 14 May 2021 02:55:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 13 May 2021 12:30:00 +0700</pubDate>
+    <pubDate>Fri, 14 May 2021 02:55:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,28 +24,28 @@
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Thủ tướng ủng hộ tăng tỉ lệ điều tiết ngân sách để lại cho TPHCM - Thời sự 17g 13/5/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/thu-tuong-ung-ho-tang-ti-le-dieu-tiet-ngan-sach-de-lai-cho-tphcm-thoi-su-17g-13-5-2021-401990.html</link>
+      <description><![CDATA[19:55 - 13/05/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/thu-tuong-ung-ho-tang-ti-le-dieu-tiet-ngan-sach-de-lai-cho-tphcm-thoi-su-17g-13-5-2021-401990.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/05/13/AMThoisu17h00p130521Cuon1.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 14 May 2021 02:55:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>TPHCM lấy mẫu xét nghiệm nhân viên y tế, bệnh nhân nội trú - Thời sự 11g00 13/05/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-lay-mau-xet-nghiem-nhan-vien-y-te-benh-nhan-noi-tru-thoi-su-11g00-13-05-2021-401963.html</link>
+      <description><![CDATA[11:00 - 13/05/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-lay-mau-xet-nghiem-nhan-vien-y-te-benh-nhan-noi-tru-thoi-su-11g00-13-05-2021-401963.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/05/13/AMThoisu11h00p130521.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 13 May 2021 18:00:00 +0700</pubDate>
+    </item>
+    <item>
       <title>TPHCM tái lập chốt kiểm dịch tại các cửa ngõ từ 0h ngày 15/5 - Thời sự 05g30 13/05/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-tai-lap-chot-kiem-dich-tai-cac-cua-ngo-tu-0h-ngay-15-5-thoi-su-05g30-13-05-2021-401928.html</link>
       <description><![CDATA[05:30 - 13/05/2021]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-tai-lap-chot-kiem-dich-tai-cac-cua-ngo-tu-0h-ngay-15-5-thoi-su-05g30-13-05-2021-401928.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/05/13/AMThoisu05h30p130521.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 13 May 2021 12:30:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>TPHCM: Người ứng cử ĐBQH khóa XV và HĐND TP khóa X tiếp xúc cử tri – Thời sự 17g 12/5/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-nguoi-ung-cu-dbqh-khoa-xv-va-hdnd-tp-khoa-x-tiep-xuc-cu-tri-thoi-su-17g-12-5-2021-401897.html</link>
-      <description><![CDATA[18:49 - 12/05/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-nguoi-ung-cu-dbqh-khoa-xv-va-hdnd-tp-khoa-x-tiep-xuc-cu-tri-thoi-su-17g-12-5-2021-401897.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/05/12/AMThoisu17h00p120521.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 13 May 2021 01:49:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Môi trường văn hoá lành mạnh góp phần xây dựng và bảo vệ Tổ quốc - Thời sự 11g00 12/5/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/moi-truong-van-hoa-lanh-manh-gop-phan-xay-dung-va-bao-ve-to-quoc-thoi-su-11g00-12-5-2021-401846.html</link>
-      <description><![CDATA[11:29 - 12/05/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/moi-truong-van-hoa-lanh-manh-gop-phan-xay-dung-va-bao-ve-to-quoc-thoi-su-11g00-12-5-2021-401846.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/05/12/AMThoisu11h00p120521.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 12 May 2021 18:29:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
