@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 08 May 2021 03:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 15 May 2021 03:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 08 May 2021 03:00:00 +0700</pubDate>
+    <pubDate>Sat, 15 May 2021 03:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thầm thì</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Thamthi.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Bi hài chuyện 'yêu' mùa Covid</title>
+      <link>https://vnexpress.net/bi-hai-chuyen-yeu-mua-covid-4278112.html</link>
+      <description><![CDATA[Để tránh virus, nhiều cặp đôi "hành sự" với 2 lớp khẩu trang, bao tay và đổi tư thế. Người thì mặc 3 lớp "áo mưa" vì lo Covid có thể lây qua tinh dịch. Vậy "ân ái" thế nào là an toàn trong mùa dịch?]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/bi-hai-chuyen-yeu-mua-covid-4278112.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/05/14/bi-hai-chuyen-yeu-mua-covid-1620988827.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 15 May 2021 03:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Đàn ông 'nhịn yêu' được bao lâu?</title>
       <link>https://vnexpress.net/dan-ong-nhin-yeu-duoc-bao-lau-4272273.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/nghe-nghiep-anh-huong-ra-sao-toi-kha-nang-giuong-chieu-4263573.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/04/16/nghe-nghiep-anh-huong-ra-sao-toi-kha-nang-giuong-chieu-1618573082.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 17 Apr 2021 03:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Được và mất khi tiêm silicon giúp 'cậu bé' to khỏe</title>
-      <link>https://vnexpress.net/duoc-va-mat-khi-tiem-silicon-giup-cau-be-to-khoe-4260612.html</link>
-      <description><![CDATA[Với quảng cáo "không đau, không biến chứng, hiệu quả tức thì", dịch vụ "nâng cấp cậu nhỏ" một số nơi thu hút khách đông tới mức phải đăng ký và đợi lịch. Bác sĩ Võ Duy Tâm lý giải về phương pháp này.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/duoc-va-mat-khi-tiem-silicon-giup-cau-be-to-khoe-4260612.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/04/09/duoc-va-mat-khi-tiem-silicon-giup-cau-be-to-khoe-1617968718.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 10 Apr 2021 03:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
