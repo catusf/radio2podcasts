@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 15 May 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 16 May 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 15 May 2021 11:00:00 +0700</pubDate>
+    <pubDate>Sun, 16 May 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Chuyên gia quốc tế: 'Biến chủng có thể xoá thành tựu chống dịch của Việt Nam'</title>
+      <link>https://vnexpress.net/chuyen-gia-quoc-te-bien-chung-co-the-xoa-thanh-tuu-chong-dich-cua-viet-nam-4278747.html</link>
+      <description><![CDATA[Việt Nam chưa có miễn dịch với các biến chủng, người dân "lầm tưởng an toàn"... được cho là nguyên nhân khiến dịch bùng lần 4. Các chuyên gia cho rằng, con số lây nhiễm còn tăng.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/chuyen-gia-quoc-te-bien-chung-co-the-xoa-thanh-tuu-chong-dich-cua-viet-nam-4278747.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/05/16/chuyen-gia-quoc-te-bien-chung-co-the-xoa-thanh-tuu-chong-dich-cua-viet-nam-1621099922.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 16 May 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Bà Trần Tố Nga: 'Tôi đang đấu với thế lực mạnh'</title>
       <link>https://vnexpress.net/ba-tran-to-nga-toi-dang-dau-voi-the-luc-manh-4277798.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/benh-nhan-ung-thu-mac-ket-khi-vien-phong-toa-4276567.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/05/15/benh-nhan-ung-thu-mac-ket-khi-vien-phong-toa-1621056461.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 15 May 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Học sinh dương tính: 'Em bị mắng tham tiền'</title>
-      <link>https://vnexpress.net/hoc-sinh-duong-tinh-em-bi-mang-tham-tien-4275979.html</link>
-      <description><![CDATA[Nhận kết quả dương tính, nam sinh lớp 12 bỗng "nổi tiếng khắp làng", liên tục có người nhắn tin trách em "tham tiền đi bê cỗ cưới" nên gây họa.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/hoc-sinh-duong-tinh-em-bi-mang-tham-tien-4275979.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/05/11/hoc-sinh-duong-tinh-em-bi-mang-tham-tien-1620748176.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 11 May 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
