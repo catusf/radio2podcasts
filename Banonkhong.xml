@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 09 May 2021 03:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 16 May 2021 03:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 09 May 2021 03:00:00 +0700</pubDate>
+    <pubDate>Sun, 16 May 2021 03:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Bạn ổn không?</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Banonkhong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Làm người tình bí mật để dựa dẫm kinh tế</title>
+      <link>https://vnexpress.net/lam-nguoi-tinh-bi-mat-de-dua-dam-kinh-te-4276528.html</link>
+      <description><![CDATA[Sau một tháng quen nhau, người tình đầu tư cho Lai một cửa hàng. Do còn khoản nợ chưa trả, chị đắn đo về việc ly hôn chồng để theo người tình đã có vợ.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/lam-nguoi-tinh-bi-mat-de-dua-dam-kinh-te-4276528.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/05/15/lam-nguoi-tinh-bi-mat-de-dua-dam-kinh-te-1621084014.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 16 May 2021 03:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>'Bố đẻ luôn tìm cách khiến vợ chồng tôi ly hôn'</title>
       <link>https://vnexpress.net/bo-de-luon-tim-cach-khien-vo-chong-toi-ly-hon-4274851.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/cuoc-song-tram-cam-cua-nu-du-hoc-sinh-4260233.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/04/10/cuoc-song-tram-cam-cua-nu-du-hoc-sinh-1618055711.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 11 Apr 2021 03:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>'May mắn khi vài người coi tôi là người bình thường'</title>
-      <link>https://vnexpress.net/may-man-khi-vai-nguoi-coi-toi-la-nguoi-binh-thuong-4257536.html</link>
-      <description><![CDATA[Bị rung lắc nhãn cầu bẩm sinh, Danh được gửi vào trường nội trú cho trẻ khiếm khuyết từ nhỏ. Thế giới của Danh chỉ có chính mình vì người thân bảo bọc khi cho rằng cậu không thể tự làm gì.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/may-man-khi-vai-nguoi-coi-toi-la-nguoi-binh-thuong-4257536.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/05/01/may-man-khi-vai-nguoi-coi-toi-la-nguoi-binh-thuong-1619839041.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 02 May 2021 03:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
