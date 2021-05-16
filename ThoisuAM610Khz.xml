@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 15 May 2021 18:33:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 16 May 2021 00:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 15 May 2021 18:33:00 +0700</pubDate>
+    <pubDate>Sun, 16 May 2021 00:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Hơn 162,4 triệu người nhiễm COVID-19 trên toàn cầu - Thời sự 17g00 15/05/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/hon-162-4-trieu-nguoi-nhiem-covid-19-tren-toan-cau-thoi-su-17g00-15-05-2021-402177.html</link>
+      <description><![CDATA[17:00 - 15/05/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/hon-162-4-trieu-nguoi-nhiem-covid-19-tren-toan-cau-thoi-su-17g00-15-05-2021-402177.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/05/15/AMThoisu17h00p150521Cuon1.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 16 May 2021 00:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Huyện đảo Trường Sa đã sẵn sàng cho bầu cử sớm vào ngày 16/5 - Thời sự 11g00 15/5/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/huyen-dao-truong-sa-da-san-sang-cho-bau-cu-som-vao-ngay-16-5-thoi-su-11g00-15-5-2021-402137.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/80-mua-hoa-doi-ta-lon-len-cung-dat-nuoc-thoi-su-5g30-15-5-2021-402114.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/05/15/AMThoisu05h30p150521.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 15 May 2021 13:49:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Khi nào triển khai tiêm vắc xin Covid 19 đợt 3? - Thời sự 17g00 14/05/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/khi-nao-trien-khai-tiem-vac-xin-covid-19-dot-3-thoi-su-17g00-14-05-2021-402093.html</link>
-      <description><![CDATA[17:00 - 14/05/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/khi-nao-trien-khai-tiem-vac-xin-covid-19-dot-3-thoi-su-17g00-14-05-2021-402093.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/05/14/AMThoisu17h00p140521Cuon1.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 15 May 2021 00:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
