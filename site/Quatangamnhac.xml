@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 09 May 2021 17:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 16 May 2021 17:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 09 May 2021 17:00:00 +0700</pubDate>
+    <pubDate>Sun, 16 May 2021 17:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Quà tặng âm nhạc trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Quatangamnhac.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Người là niềm tin tất thắng - Quà tặng âm nhạc 16/5/2021</title>
+      <link>https://radio.voh.com.vn/qua-tang-am-nhac/nguoi-la-niem-tin-tat-thang-qua-tang-am-nhac-16-5-2021-402223.html</link>
+      <description><![CDATA[10:00 - 16/05/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/nguoi-la-niem-tin-tat-thang-qua-tang-am-nhac-16-5-2021-402223.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/05/16/qtan160521.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 16 May 2021 17:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Việt Nam Ơi! Đánh bay Covid - Quà tặng âm nhạc 9/5/2021</title>
       <link>https://radio.voh.com.vn/qua-tang-am-nhac/viet-nam-oi-danh-bay-covid-qua-tang-am-nhac-9-5-2021-401376.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/qua-tang-am-nhac-18-4-2021-399441.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/04/18/qtan-180421.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 18 Apr 2021 17:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Mây hồng - Quà tặng âm nhạc 11/4/2021</title>
-      <link>https://radio.voh.com.vn/qua-tang-am-nhac/may-hong-qua-tang-am-nhac-11-4-2021-399037.html</link>
-      <description><![CDATA[10:00 - 11/04/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/may-hong-qua-tang-am-nhac-11-4-2021-399037.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/04/14/qtan-110421.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 11 Apr 2021 17:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
