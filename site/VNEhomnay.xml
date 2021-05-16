@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 16 May 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 17 May 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 16 May 2021 11:00:00 +0700</pubDate>
+    <pubDate>Mon, 17 May 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Người Việt ở Mỹ: 'Cảm thấy an toàn hơn rất nhiều'</title>
+      <link>https://vnexpress.net/nguoi-viet-o-my-cam-thay-an-toan-hon-rat-nhieu-4279082.html</link>
+      <description><![CDATA[Sau chủng ngừa, anh Phan Chí đã an tâm ra đường dù từng ám ảnh tới không dám cầm tay nắm cửa. Chị Jennie thì hào hứng khoe về chuyến du lịch Las Vegas sau một năm "chôn" chân.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/nguoi-viet-o-my-cam-thay-an-toan-hon-rat-nhieu-4279082.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/05/17/nguoi-viet-o-my-cam-thay-an-toan-hon-rat-nhieu-1621185009.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 17 May 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Chuyên gia quốc tế: 'Biến chủng có thể xoá thành tựu chống dịch của Việt Nam'</title>
       <link>https://vnexpress.net/chuyen-gia-quoc-te-bien-chung-co-the-xoa-thanh-tuu-chong-dich-cua-viet-nam-4278747.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/vi-sao-nhieu-nguoi-rut-bao-hiem-xa-hoi-mot-lan-4276590.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/05/12/vi--sao-nhie-u-nguo-i-ru-t-ba-o-hie-m-xa--ho-i-mo-t-la-n-1620752568.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 12 May 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Bệnh nhân ung thư 'mắc kẹt' khi viện phong tỏa</title>
-      <link>https://vnexpress.net/benh-nhan-ung-thu-mac-ket-khi-vien-phong-toa-4276567.html</link>
-      <description><![CDATA[Từ Cao Bằng, anh Hữu đưa bố vừa mổ thông dạ dày xuống bệnh viện K Tân Triều để xạ trị. Nhưng vừa đến nơi thì viện phong tỏa, bố con anh bơ vơ giữa thủ đô.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/benh-nhan-ung-thu-mac-ket-khi-vien-phong-toa-4276567.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/05/15/benh-nhan-ung-thu-mac-ket-khi-vien-phong-toa-1621056461.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 15 May 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
