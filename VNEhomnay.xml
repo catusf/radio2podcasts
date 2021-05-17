@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 17 May 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 18 May 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 17 May 2021 11:00:00 +0700</pubDate>
+    <pubDate>Tue, 18 May 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Bác sĩ hưu trí tình nguyện chống dịch</title>
+      <link>https://vnexpress.net/bac-si-huu-tri-tinh-nguyen-chong-dich-4279770.html</link>
+      <description><![CDATA[Lập tức đăng ký khi tỉnh cần hỗ trợ, bác sĩ Thập, 61 tuổi đang cùng đội ngũ chống dịch làm việc 20 tiếng mỗi ngày. Khi đuối sức, ông góp dùng câu chuyện vui, kinh nghiệm sống tiếp động lực cho mọi người.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/bac-si-huu-tri-tinh-nguyen-chong-dich-4279770.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/05/18/bac-si-huu-tri-tinh-nguyen-chong-dich-1621272431.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 18 May 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Cuộc sống 'trở lại' của người Việt ở Mỹ</title>
       <link>https://vnexpress.net/cuoc-song-tro-lai-cua-nguoi-viet-o-my-4279082.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/nhan-vien-y-te-nghi-den-con-la-khoc-4277162.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/05/13/nhan-vien-xet-nghiem-toi-nhot-con-de-di-chong-dich-1620863625.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 13 May 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Vì sao nhiều người rút bảo hiểm xã hội một lần?</title>
-      <link>https://vnexpress.net/vi-sao-nhieu-nguoi-rut-bao-hiem-xa-hoi-mot-lan-4276590.html</link>
-      <description><![CDATA[Công việc đào thải cao, khó duy trì đủ số năm để hưởng lương hưu nên Diệp Ba quyết rút bảo hiểm xã hội một lần. Chị Huệ thì cho rằng, 5 triệu chị nhận sau 20 năm nữa "chẳng còn giá trị".]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/vi-sao-nhieu-nguoi-rut-bao-hiem-xa-hoi-mot-lan-4276590.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/05/12/vi--sao-nhie-u-nguo-i-ru-t-ba-o-hie-m-xa--ho-i-mo-t-la-n-1620752568.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 12 May 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
