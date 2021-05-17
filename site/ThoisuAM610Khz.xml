@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 16 May 2021 18:34:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 17 May 2021 15:22:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 16 May 2021 18:34:00 +0700</pubDate>
+    <pubDate>Mon, 17 May 2021 15:22:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Hỗ trợ người lao động thực hiện tốt quyền bầu cử - Thời Sự 5g30 17/5/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/ho-tro-nguoi-lao-dong-thuc-hien-tot-quyen-bau-cu-thoi-su-5g30-17-5-2021-402253.html</link>
+      <description><![CDATA[08:22 - 17/05/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/ho-tro-nguoi-lao-dong-thuc-hien-tot-quyen-bau-cu-thoi-su-5g30-17-5-2021-402253.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/05/17/AMThoisu05h30p170521sss.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 17 May 2021 15:22:00 +0700</pubDate>
+    </item>
     <item>
       <title>Nghiên cứu khoa học, hợp tác quốc tế để phát triển hệ sinh thái tự nhiên-Thời sự 11g00 16/5/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/nghien-cuu-khoa-hoc-hop-tac-quoc-te-de-phat-trien-he-sinh-thai-tu-nhien-thoi-su-11g00-16-5-2021-402216.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/phat-huy-vai-tro-cua-cong-doan-nguoi-lao-dong-trong-cong-tac-bau-cu-thoi-su-5g30-16-5-2021-402206.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/05/16/AMThoisu05h30p160521.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 16 May 2021 16:08:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Hơn 162,4 triệu người nhiễm COVID-19 trên toàn cầu - Thời sự 17g00 15/05/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/hon-162-4-trieu-nguoi-nhiem-covid-19-tren-toan-cau-thoi-su-17g00-15-05-2021-402177.html</link>
-      <description><![CDATA[17:00 - 15/05/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/hon-162-4-trieu-nguoi-nhiem-covid-19-tren-toan-cau-thoi-su-17g00-15-05-2021-402177.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/05/15/AMThoisu17h00p150521Cuon1.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 16 May 2021 00:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
