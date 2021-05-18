@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 11 May 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 18 May 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 11 May 2021 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 18 May 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,15 @@
     </itunes:owner>
     <itunes:subtitle>Âm nhạc với cuộc sống</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Amnhacvoicuocsong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>“Xây tương lai từ lá phiếu hôm nay”: Tác phẩm âm nhạc gửi gắm tâm trạng lần đầu tiên được đi bầu cử của cố nhạc sĩ Hoàng Lương</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[-Kỷ niệm 131 năm ngày sinh Chủ tịch Hồ Chí Minh (19/5/1890-19/5/2021), lắng nghe tác phẩm “Bài ca Hồ Chí Minh” (được dịch sang lời Việt của tác giả Phú Ân), một trong những bài hát các nghệ sĩ quốc tế ngợi ca Chủ tịch Hồ Chí Minh hay nhất.
+-Hướng tới ngày Bầu cử đại biểu Quốc hội khóa XV và đại biểu Hội đồng Nhân dân các cấp nhiệm kỳ 2021-2026, lắng nghe những tác phẩm âm nhạc về đề tài bầu cử của cố nhạc sĩ Đỗ Nhuận, cố nhạc sĩ Hoàng Lương, nhạc sĩ Tôn Thất Lập...]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/05/18/vovlive_am_nhac_voi_cuoc_song_xay_tuong_lai_tu_la_phieu_hom_nay.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 18 May 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Gặp gỡ nhạc sĩ Ngô Tự Lập với ca khúc “Thành phố mặt trời lên” kỷ niệm 66 năm giải phóng Thành phố Hải Phòng (13/5/1955-13/5/2021)</title>
       <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
@@ -48,14 +57,6 @@
       <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2021/04/28/vovlive_am_nhac_voi_cuoc_song_cong_nong_binh.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 28 Apr 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Tìm hiểu về ca khúc chủ đề của cuộc thi “Hát lên Việt Nam - Let's sing Vietnam”</title>
-      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[Chào mừng thành công Đại hội Đại biểu toàn Quốc lần thứ XIII của Đảng và kỷ niệm những ngày lễ lớn của đất nước, Đài Tiếng nói Việt Nam phát động Cuộc vận động sáng tác ca khúc với chủ đề: “Hát lên Việt Nam - Let's sing Vietnam”. Cùng lắng nghe chia sẻ của nhạc sĩ Cát Vận, nguyên Trưởng ban Âm nhạc Đài TNVN về ca khúc “Hãy hát lên Việt Nam”- ca khúc chủ đề ông viết cho cuộc thi.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/04/26/vovlive_am_nhac_voi_cuoc_song_hay_hat_len_viet_nam.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 26 Apr 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
