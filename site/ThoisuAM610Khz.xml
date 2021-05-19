@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 19 May 2021 22:54:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 20 May 2021 01:52:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 19 May 2021 22:54:00 +0700</pubDate>
+    <pubDate>Thu, 20 May 2021 01:52:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Bài học đại đoàn kết từ mặt trận Việt Minh - Thời sự 17g00 19/5/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/bai-hoc-dai-doan-ket-tu-mat-tran-viet-minh-thoi-su-17g00-19-5-2021-402555.html</link>
+      <description><![CDATA[18:52 - 19/05/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/bai-hoc-dai-doan-ket-tu-mat-tran-viet-minh-thoi-su-17g00-19-5-2021-402555.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/05/19/AMThoisu17h00p190521.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 20 May 2021 01:52:00 +0700</pubDate>
+    </item>
     <item>
       <title>Về Làng Sen thăm quê Bác - Thời sự 11g00 19/5/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/ve-lang-sen-tham-que-bac-thoi-su-11g00-19-5-2021-402545.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/can-lan-toa-cac-tac-pham-hoc-bac-trong-doi-song-van-hoa-thoi-su-5g30-19-5-2021-402458.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/05/19/AMThoisu05h30p190521.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 19 May 2021 12:58:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>TPHCM đảm bảo đúng tiến độ chuẩn bị bầu cử - Thời sự 17g00 18/5/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-dam-bao-dung-tien-do-chuan-bi-bau-cu-thoi-su-17g00-18-5-2021-402421.html</link>
-      <description><![CDATA[17:00 - 18/05/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-dam-bao-dung-tien-do-chuan-bi-bau-cu-thoi-su-17g00-18-5-2021-402421.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/05/18/ts17g000-180521.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 19 May 2021 00:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
