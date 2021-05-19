@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 19 May 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 20 May 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 19 May 2021 11:00:00 +0700</pubDate>
+    <pubDate>Thu, 20 May 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Giám đốc công an tỉnh lý giải việc dùng số cá nhân làm đường dây nóng</title>
+      <link>https://vnexpress.net/giam-doc-cong-an-tinh-ly-giai-viec-dung-so-ca-nhan-lam-duong-day-nong-4280944.html</link>
+      <description><![CDATA[Mỗi ngày, hàng trăm cuộc gọi và tin nhắn tổ giác đổ về số cá nhân của Đại tá Đinh Văn Nơi, Giám đốc Công an tỉnh An Giang. Ông cho rằng, đây là cách nhanh nhất phát hiện, xử lý tội phạm.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/giam-doc-cong-an-tinh-ly-giai-viec-dung-so-ca-nhan-lam-duong-day-nong-4280944.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/05/20/giam-doc-cong-an-tinh-ly-giai-viec-dung-so-ca-nhan-lam-duong-day-nong-1621449740.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 20 May 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Người Việt tại Israel: 'Luôn sẵn sàng chạy kể cả khi ngủ'</title>
       <link>https://vnexpress.net/nguoi-viet-tai-israel-luon-san-sang-chay-ke-ca-khi-ngu-4280415.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/chuyen-gia-quoc-te-bien-chung-co-the-xoa-thanh-tuu-chong-dich-cua-viet-nam-4278747.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/05/16/chuyen-gia-quoc-te-bien-chung-co-the-xoa-thanh-tuu-chong-dich-cua-viet-nam-1621099922.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 16 May 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Bệnh nhân ung thư 'mắc kẹt' khi viện phong tỏa</title>
-      <link>https://vnexpress.net/benh-nhan-ung-thu-mac-ket-khi-vien-phong-toa-4276567.html</link>
-      <description><![CDATA[Từ Cao Bằng, anh Hữu đưa bố vừa mổ thông dạ dày xuống bệnh viện K Tân Triều để xạ trị. Nhưng vừa đến nơi thì viện phong tỏa, bố con anh bơ vơ giữa thủ đô.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/benh-nhan-ung-thu-mac-ket-khi-vien-phong-toa-4276567.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/05/15/benh-nhan-ung-thu-mac-ket-khi-vien-phong-toa-1621056461.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 15 May 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
