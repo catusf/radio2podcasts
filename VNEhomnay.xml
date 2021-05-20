@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 20 May 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 21 May 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 20 May 2021 11:00:00 +0700</pubDate>
+    <pubDate>Fri, 21 May 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Công nhân Bắc Giang chật vật vượt dịch</title>
+      <link>https://vnexpress.net/cong-nhan-bac-giang-chat-vat-vuot-dich-4281530.html</link>
+      <description><![CDATA[Chồng nhiễm Covid, bản thân là F1, chị Mơ khóc khi không có nổi 240 nghìn đóng phí cách ly cho 2 con. Còn anh Quan, dù vui vì có 2 gói mì để ăn mỗi ngày, nhưng anh lo vợ bầu 4 tháng bị ảnh hưởng khi cũng phải ăn mì để sống.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/cong-nhan-bac-giang-chat-vat-vuot-dich-4281530.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/05/21/cong-nhan-bac-giang-chat-vat-vuot-dich-1621531295.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 21 May 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Đại tá Đinh Văn Nơi: 'Tôi vui khi điện thoại luôn nóng'</title>
       <link>https://vnexpress.net/dai-ta-dinh-van-noi-toi-vui-khi-dien-thoai-luon-nong-4280944.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/cuoc-song-tro-lai-cua-nguoi-viet-o-my-4279082.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/05/17/nguoi-viet-o-my-cam-thay-an-toan-hon-rat-nhieu-1621185009.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 17 May 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chuyên gia quốc tế: 'Biến chủng có thể xoá thành tựu chống dịch của Việt Nam'</title>
-      <link>https://vnexpress.net/chuyen-gia-quoc-te-bien-chung-co-the-xoa-thanh-tuu-chong-dich-cua-viet-nam-4278747.html</link>
-      <description><![CDATA[Việt Nam chưa có miễn dịch với các biến chủng, người dân "lầm tưởng an toàn"... được cho là nguyên nhân khiến dịch bùng lần 4. Các chuyên gia cho rằng, con số lây nhiễm còn tăng.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/chuyen-gia-quoc-te-bien-chung-co-the-xoa-thanh-tuu-chong-dich-cua-viet-nam-4278747.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/05/16/chuyen-gia-quoc-te-bien-chung-co-the-xoa-thanh-tuu-chong-dich-cua-viet-nam-1621099922.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 16 May 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
