@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 21 May 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 22 May 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 21 May 2021 11:00:00 +0700</pubDate>
+    <pubDate>Sat, 22 May 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ký ức về ngày bầu cử những năm 70</title>
+      <link>https://vnexpress.net/ky-uc-ve-ngay-bau-cu-nhung-nam-70-4282061.html</link>
+      <description><![CDATA[15 tuổi, ông Doanh cùng nhóm thanh niên làng đốt đuốc tới từng nhà để hát, cổ động bầu cử. Còn theo ông Cường, cứ ra đường là thấy người Sài Gòn tụm năm tụm bảy bàn tán về các ứng cử viên.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/ky-uc-ve-ngay-bau-cu-nhung-nam-70-4282061.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/05/21/ky-uc-ve-ngay-bau-cu-nhung-nam-70-1621615007.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 22 May 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Công nhân Bắc Giang chật vật vượt dịch</title>
       <link>https://vnexpress.net/cong-nhan-bac-giang-chat-vat-vuot-dich-4281530.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/bs-tinh-nguyen-chong-dich-to-quoc-can-minh-con-suc-thi-di-4279770.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/05/18/bac-si-huu-tri-tinh-nguyen-chong-dich-1621272431.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 18 May 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Cuộc sống 'trở lại' của người Việt ở Mỹ</title>
-      <link>https://vnexpress.net/cuoc-song-tro-lai-cua-nguoi-viet-o-my-4279082.html</link>
-      <description><![CDATA[Sau chủng ngừa, anh Phan Chí đã an tâm ra đường dù từng ám ảnh tới không dám cầm tay nắm cửa, chị Jennie thì hào hứng khoe chuyến du lịch Las Vegas sau một năm "chôn chân".]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/cuoc-song-tro-lai-cua-nguoi-viet-o-my-4279082.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/05/17/nguoi-viet-o-my-cam-thay-an-toan-hon-rat-nhieu-1621185009.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 17 May 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
