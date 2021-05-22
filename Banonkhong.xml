@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 16 May 2021 03:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 23 May 2021 03:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 16 May 2021 03:00:00 +0700</pubDate>
+    <pubDate>Sun, 23 May 2021 03:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Bạn ổn không?</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Banonkhong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Chồng công khai ngoại tình với cô hàng xóm</title>
+      <link>https://vnexpress.net/chong-cong-khai-ngoai-tinh-voi-co-hang-xom-4272632.html</link>
+      <description><![CDATA[Bị phát hiện ngoại tình với hàng xóm, chồng chị Giang khẳng định anh có thể có nhiều người phụ nữ khác. Gác lại thể diện và tổn thương, chị ôm anh mong hàn gắn để giữ bố cho con nhưng anh nói "sẽ chẳng còn gì".]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/chong-cong-khai-ngoai-tinh-voi-co-hang-xom-4272632.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/05/22/cong-khai-ngoai-tinh-voi-co-hang-xom-1621682995.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 23 May 2021 03:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Làm người tình bí mật để dựa dẫm kinh tế</title>
       <link>https://vnexpress.net/lam-nguoi-tinh-bi-mat-de-dua-dam-kinh-te-4276528.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/toi-lam-nguoi-thu-3-khong-can-danh-phan-4266837.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/04/24/am-tham-lam-nguoi-thu-3-de-bo-me-yen-long-1619266928.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 25 Apr 2021 03:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>'Anh nói 12 năm nữa sẽ ly hôn để đến với tôi'</title>
-      <link>https://vnexpress.net/anh-noi-12-nam-nua-se-ly-hon-de-den-voi-toi-4264150.html</link>
-      <description><![CDATA[Từng đổ vỡ vì chồng ngoại tình nhưng Linh lại đang trở thành người thứ ba. Dù từng cố gắng cắt đứt sau đề nghị chờ thêm 12 năm nhưng cô vẫn yếu lòng vì sự chăm sóc của người mới.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/anh-noi-12-nam-nua-se-ly-hon-de-den-voi-toi-4264150.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/04/17/anh-noi-12-nam-nua-se-ly-hon-vo-va-den-voi-toi-1618645540.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 18 Apr 2021 03:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
