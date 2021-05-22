@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 22 May 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 23 May 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 22 May 2021 11:00:00 +0700</pubDate>
+    <pubDate>Sun, 23 May 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Bác sĩ BV Bệnh Nhiệt đới TW: 'Tôi không nghĩ công lao bác sĩ bị phủ nhận'</title>
+      <link>https://vnexpress.net/bac-si-bv-benh-nhiet-doi-tw-toi-khong-nghi-cong-lao-bac-si-bi-phu-nhan-4282491.html</link>
+      <description><![CDATA["Thành trì" bị phong toả, số ca bệnh nhiều và nặng hơn nhưng bác sĩ Thân Mạnh Hùng không nghĩ công lao của đội ngũ y tế sẽ bị phủ nhận.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/bac-si-bv-benh-nhiet-doi-tw-toi-khong-nghi-cong-lao-bac-si-bi-phu-nhan-4282491.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/05/23/bac-si-bv-benh-nhiet-doi-tw-toi-khong-nghi-cong-lao-bac-si-bi-phu-nhan-1621704073.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 23 May 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Ký ức về ngày bầu cử xưa</title>
       <link>https://vnexpress.net/ky-uc-ve-ngay-bau-cu-xua-4282061.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/nguoi-viet-tai-israel-luon-san-sang-chay-ke-ca-khi-ngu-4280415.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/05/19/cuoc-song-duoi-nhung-loat-roket-cua-nguoi-viet-tai-israel-1621380815.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 19 May 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>BS tình nguyện chống dịch: 'Tổ quốc cần, mình còn sức thì đi'</title>
-      <link>https://vnexpress.net/bs-tinh-nguyen-chong-dich-to-quoc-can-minh-con-suc-thi-di-4279770.html</link>
-      <description><![CDATA[Lập tức đăng ký khi Bắc Ninh cần hỗ trợ, bác sĩ Thập, 61 tuổi đang cùng đội ngũ chống dịch làm việc 20 tiếng mỗi ngày.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/bs-tinh-nguyen-chong-dich-to-quoc-can-minh-con-suc-thi-di-4279770.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/05/18/bac-si-huu-tri-tinh-nguyen-chong-dich-1621272431.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 18 May 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
