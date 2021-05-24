@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 17 May 2021 03:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 24 May 2021 03:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 17 May 2021 03:00:00 +0700</pubDate>
+    <pubDate>Mon, 24 May 2021 03:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sóng điện ảnh trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Songdienanh.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Dấu ấn nữ giới trong thị trường điện ảnh Việt Nam hiện nay - Khung hình thứ 25 23/5/2021</title>
+      <link>https://radio.voh.com.vn/khung-hinh-thu-25/dau-an-nu-gioi-trong-thi-truong-dien-anh-viet-nam-hien-nay-khung-hinh-thu-25-23-5-2021-402925.html</link>
+      <description><![CDATA[20:00 - 23/05/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/khung-hinh-thu-25/dau-an-nu-gioi-trong-thi-truong-dien-anh-viet-nam-hien-nay-khung-hinh-thu-25-23-5-2021-402925.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/05/24/khunghinh-230521.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 24 May 2021 03:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Gặp dỡ diễn viên Hạnh Thúy - người ứng cử Đại biểu HĐND TPHCM năm nay - Khung hình thứ 25 16/5/2021</title>
       <link>https://radio.voh.com.vn/khung-hinh-thu-25/gap-do-dien-vien-hanh-thuy-nguoi-ung-cu-dai-bieu-hdnd-tphcm-nam-nay-khung-hinh-thu-25-16-5-2021-402224.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/khung-hinh-thu-25/xem-phim-tren-vod-co-gi-hap-dan-khung-hinh-thu-25-25-4-2021-400096.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/04/25/khunghinh-250421.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 26 Apr 2021 03:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>"Giải mã" lý do nam diễn viên Tiêu Chiến cực kì được yêu thích (Kỳ 2) - Khung hình thứ 25 18/4/2021</title>
-      <link>https://radio.voh.com.vn/khung-hinh-thu-25/giai-ma-ly-do-nam-dien-vien-tieu-chien-cuc-ki-duoc-yeu-thich-ky-2-khung-hinh-thu-25-18-4-2021-399442.html</link>
-      <description><![CDATA[20:00 - 18/04/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/khung-hinh-thu-25/giai-ma-ly-do-nam-dien-vien-tieu-chien-cuc-ki-duoc-yeu-thich-ky-2-khung-hinh-thu-25-18-4-2021-399442.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audio/2021/04/18/khunghinh-180421.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 19 Apr 2021 03:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
