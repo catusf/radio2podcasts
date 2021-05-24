@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 24 May 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 25 May 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 24 May 2021 11:00:00 +0700</pubDate>
+    <pubDate>Tue, 25 May 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Nỗi ám ảnh mất thông tin cá nhân</title>
+      <link>https://vnexpress.net/noi-am-anh-mat-thong-tin-ca-nhan-4283383.html</link>
+      <description><![CDATA[Từng bị gán nợ oan 20 triệu do mất CMND, chị Luyên không còn dám cung cấp thông tin cho ai ngoài cơ quan chức năng. Chị Nga thì luôn nghi ngờ khi các ứng dụng dịch vụ đòi dữ liệu người dùng.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/noi-am-anh-mat-thong-tin-ca-nhan-4283383.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/05/25/noi-am-anh-mat-thong-tin-ca-nhan-1621876009.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 25 May 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Điều gì khiến Singapore dẫn đầu tỷ lệ tiêm chủng tại Đông Nam Á?</title>
       <link>https://vnexpress.net/dieu-gi-khien-singapore-dan-dau-ty-le-tiem-chung-tai-dong-nam-a-4282792.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/cong-nhan-bac-giang-chat-vat-vuot-dich-4281530.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/05/21/cong-nhan-bac-giang-chat-vat-vuot-dich-1621559613.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 21 May 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đại tá Đinh Văn Nơi: 'Tôi vui khi điện thoại luôn nóng'</title>
-      <link>https://vnexpress.net/dai-ta-dinh-van-noi-toi-vui-khi-dien-thoai-luon-nong-4280944.html</link>
-      <description><![CDATA[Công khai điện thoại cá nhân, Giám đốc Công an An Giang nhận hàng trăm cuộc gọi, tin nhắn mỗi ngày. Ông xem đây là cách nhanh nhất để phát hiện, xử lý tội phạm.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/dai-ta-dinh-van-noi-toi-vui-khi-dien-thoai-luon-nong-4280944.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/05/20/dai-ta-dinh-van-noi-toi-vui-khi-dien-thoai-luon-nong-1621472258.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 20 May 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
