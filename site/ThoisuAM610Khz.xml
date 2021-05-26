@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 26 May 2021 04:14:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 26 May 2021 12:30:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 26 May 2021 04:14:00 +0700</pubDate>
+    <pubDate>Wed, 26 May 2021 12:30:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Đề xuất chi hơn 480 tỷ đồng tặng quà người có công nhân dịp 27/7 - Thời sự 05g30 26/5/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/de-xuat-chi-hon-480-ty-dong-tang-qua-nguoi-co-cong-nhan-dip-27-7-thoi-su-05g30-26-5-2021-403081.html</link>
+      <description><![CDATA[05:30 - 26/05/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/de-xuat-chi-hon-480-ty-dong-tang-qua-nguoi-co-cong-nhan-dip-27-7-thoi-su-05g30-26-5-2021-403081.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/05/26/ts0530-260521.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 26 May 2021 12:30:00 +0700</pubDate>
+    </item>
     <item>
       <title>Công điện của Thủ tướng về bảo đảm an toàn COVID-19 tại khu công nghiệp - Thời sự 17g00 25/5/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/cong-dien-cua-thu-tuong-ve-bao-dam-an-toan-covid-19-tai-khu-cong-nghiep-thoi-su-17g00-25-5-2021-403065.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/thi-truong-bat-dong-san-tai-tphcm-dan-khoi-sac-thoi-su-11g00-25-5-2021-403030.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/05/25/AMThoisu11h00p250521sss.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 25 May 2021 21:30:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Bầu cử: Thành công trọn vẹn từ ý Đảng hòa quyện lòng dân - Thời sự 5g30 25/5/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/bau-cu-thanh-cong-tron-ven-tu-y-dang-hoa-quyen-long-dan-thoi-su-5g30-25-5-2021-402999.html</link>
-      <description><![CDATA[08:28 - 25/05/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/bau-cu-thanh-cong-tron-ven-tu-y-dang-hoa-quyen-long-dan-thoi-su-5g30-25-5-2021-402999.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/05/25/AMThoisu05h30p250521ss.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 25 May 2021 15:28:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
