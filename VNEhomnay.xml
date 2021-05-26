@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 26 May 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 27 May 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 26 May 2021 11:00:00 +0700</pubDate>
+    <pubDate>Thu, 27 May 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Cuộc sống trong tâm dịch Bắc Giang</title>
+      <link>https://vnexpress.net/cuoc-song-trong-tam-dich-bac-giang-4284535.html</link>
+      <description><![CDATA[Đường phố vắng tanh, nhà nhà đóng cửa, người dân không hoang mang bởi đã giãn cách từ trước. Đồng loạt hội nhóm tình nguyện tổ chức canh gác, nấu ăn, tiếp tế cho các công nhân trong khu cách ly tập trung.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/cuoc-song-trong-tam-dich-bac-giang-4284535.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/05/26/cuo-c-so-ng-trong-tam-di-ch-ba-c-giang-1622046272.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 27 May 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Các nước quy định ra sao về việc nuôi chó Pitbull?</title>
       <link>https://vnexpress.net/cac-nuoc-quy-dinh-ra-sao-ve-viec-nuoi-cho-pitbull-4283943.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/bac-si-bv-benh-nhiet-doi-tw-toi-khong-nghi-cong-lao-bac-si-bi-phu-nhan-4282491.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/05/23/bac-si-bv-benh-nhiet-doi-tw-toi-khong-nghi-cong-lao-bac-si-bi-phu-nhan-1621724822.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 23 May 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Ký ức về ngày bầu cử xưa</title>
-      <link>https://vnexpress.net/ky-uc-ve-ngay-bau-cu-xua-4282061.html</link>
-      <description><![CDATA[15 tuổi, ông Doanh cùng nhóm thanh niên làng đốt đuốc tới từng nhà để hát, cổ động bầu cử. Còn theo ông Cường, cứ ra đường là thấy người Sài Gòn tụm năm tụm bảy bàn tán về các ứng cử viên.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/ky-uc-ve-ngay-bau-cu-xua-4282061.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/05/21/ky-uc-ve-ngay-bau-cu-nhung-nam-70-1621615007.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 22 May 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
