@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 27 May 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 28 May 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 27 May 2021 11:00:00 +0700</pubDate>
+    <pubDate>Fri, 28 May 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Lễ cầu nguyện của Hội thánh Truyền giáo Phục hưng diễn ra thế nào?</title>
+      <link>https://vnexpress.net/le-cau-nguyen-cua-hoi-thanh-truyen-giao-phuc-hung-dien-ra-the-nao-4285145.html</link>
+      <description><![CDATA[Theo một thành viên Hội thánh Truyền giáo Phục hưng, khoảng 20 con chiên thường ngồi nghe giảng, hát, trò chuyện...trong buổi lễ. Ca mắc khác thì chia sẻ, anh đã đeo khẩu trang, sát khuẩn nên không hiểu sao mình bị nhiễm.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/le-cau-nguyen-cua-hoi-thanh-truyen-giao-phuc-hung-dien-ra-the-nao-4285145.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/05/28/le-cau-nguyen-cua-hoi-thanh-truyen-giao-phuc-hung-dien-ra-the-nao-1622136816.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 28 May 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Cuộc sống trong tâm dịch Bắc Giang</title>
       <link>https://vnexpress.net/cuoc-song-trong-tam-dich-bac-giang-4284535.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/dieu-gi-khien-singapore-dan-dau-ty-le-tiem-chung-tai-dong-nam-a-4282792.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/05/23/dieu-gi-khien-sing-dan-dau-ty-le-tiem-chung-tai-dong-nam-a-1621788995.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 24 May 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Bác sĩ BV Bệnh Nhiệt đới TW: 'Tôi không nghĩ công lao bác sĩ bị phủ nhận'</title>
-      <link>https://vnexpress.net/bac-si-bv-benh-nhiet-doi-tw-toi-khong-nghi-cong-lao-bac-si-bi-phu-nhan-4282491.html</link>
-      <description><![CDATA["Thành trì" điều trị covid bị thủng, số ca bệnh nhiều và nặng hơn nhưng bác sĩ Thân Mạnh Hùng không nghĩ công lao của đội ngũ y tế bị phủ nhận.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/bac-si-bv-benh-nhiet-doi-tw-toi-khong-nghi-cong-lao-bac-si-bi-phu-nhan-4282491.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/05/23/bac-si-bv-benh-nhiet-doi-tw-toi-khong-nghi-cong-lao-bac-si-bi-phu-nhan-1621724822.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 23 May 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
