@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 22 May 2021 03:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 29 May 2021 03:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 22 May 2021 03:00:00 +0700</pubDate>
+    <pubDate>Sat, 29 May 2021 03:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thầm thì</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Thamthi.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>'Cong hay thẳng' ảnh hưởng gì tới 'cuộc yêu'?</title>
+      <link>https://vnexpress.net/cong-hay-thang-anh-huong-gi-toi-cuoc-yeu-4285444.html</link>
+      <description><![CDATA[Theo bác sĩ, phần lớn hình dáng "cậu nhỏ" của đàn ông là cong. Nhiều phụ nữ cũng chia sẻ, họ dễ đạt được khoái cảm hơn với "chàng cong".]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/cong-hay-thang-anh-huong-gi-toi-cuoc-yeu-4285444.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/05/28/hinh-dang-cau-nho-lieu-co-anh-huong-toi-cuoc-yeu-1622186328.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 29 May 2021 03:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>'Yêu' ngày 'đèn đỏ' có an toàn?</title>
       <link>https://vnexpress.net/yeu-ngay-den-do-co-an-toan-4281070.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/dan-ong-nghi-sao-khi-phu-nu-chu-dong-tren-giuong-4269955.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/04/30/dan-ong-nghi-sao-khi-phu-nu-chu-dong-tren-giuong-1619781388.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 01 May 2021 03:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Ăn gì tăng sinh lực nam?</title>
-      <link>https://vnexpress.net/an-gi-tang-sinh-luc-nam-4265354.html</link>
-      <description><![CDATA[Nhiều người tin rằng ăn bi gà, cà dê, pín bò... giúp tăng sinh lực nam. Theo bác sĩ, vẫn có thực phẩm giúp 'ăn gì bổ nấy', tuy nhiên không phải lúc nào cũng đúng.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/an-gi-tang-sinh-luc-nam-4265354.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/04/23/thuc-hu-chuyen-an-gi-bo-nay-1619162228.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 24 Apr 2021 03:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
