@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 23 May 2021 03:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 30 May 2021 03:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 23 May 2021 03:00:00 +0700</pubDate>
+    <pubDate>Sun, 30 May 2021 03:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Bạn ổn không?</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Banonkhong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Tôi viết 10 cam kết nhưng vợ không quay về</title>
+      <link>https://vnexpress.net/toi-viet-10-cam-ket-nhung-vo-khong-quay-ve-4283533.html</link>
+      <description><![CDATA[Sau lần tát vợ vì "láo xược", vợ Hoàng bỏ đi 2 tháng không đoái hoài tới con nhỏ. Dù Hoàng đã viết bản cam kết không tái phạm nhưng cô tuyên bố sẽ không bao giờ quay về.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/toi-viet-10-cam-ket-nhung-vo-khong-quay-ve-4283533.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/05/28/toi-viet-10-cam-ket-nhung-vo-khong-quay-ve-1622170698.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 30 May 2021 03:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Chồng công khai ngoại tình với cô hàng xóm</title>
       <link>https://vnexpress.net/chong-cong-khai-ngoai-tinh-voi-co-hang-xom-4272632.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/may-man-khi-vai-nguoi-coi-toi-la-nguoi-binh-thuong-4257536.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/05/01/may-man-khi-vai-nguoi-coi-toi-la-nguoi-binh-thuong-1619839041.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 02 May 2021 03:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>'Tôi làm người thứ 3 không cần danh phận'</title>
-      <link>https://vnexpress.net/toi-lam-nguoi-thu-3-khong-can-danh-phan-4266837.html</link>
-      <description><![CDATA[Hôn nhân của Kim Anh đổ vỡ vì chồng ngoại tình với bạn thân khi cô mang bầu. 15 năm sau, cô trở thành người thứ 3 ở hoàn cảnh tương tự, trong khi bố mẹ cô đang rất kỳ vọng vào "con rể mới".]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/toi-lam-nguoi-thu-3-khong-can-danh-phan-4266837.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/04/24/am-tham-lam-nguoi-thu-3-de-bo-me-yen-long-1619266928.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 25 Apr 2021 03:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
