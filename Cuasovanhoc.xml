@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 23 May 2021 15:11:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 31 May 2021 04:56:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 23 May 2021 15:11:00 +0700</pubDate>
+    <pubDate>Mon, 31 May 2021 04:56:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Cửa sổ văn học trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Cuasovanhoc.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Cửa sổ văn học - 30/5/2021</title>
+      <link>https://radio.voh.com.vn/cua-so-van-hoc/cua-so-van-hoc-30-5-2021-403463.html</link>
+      <description><![CDATA[21:56 - 30/05/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/cua-so-van-hoc-30-5-2021-403463.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/05/30/FMCuasovanhoc07h00p300521.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 31 May 2021 04:56:00 +0700</pubDate>
+    </item>
     <item>
       <title>Cửa sổ văn học - 23/5/2021</title>
       <link>https://radio.voh.com.vn/cua-so-van-hoc/cua-so-van-hoc-23-5-2021-402843.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/nha-van-gia-bao-rong-choi-trong-nhung-ngoi-lang-tren-trien-doc-cua-so-van-hoc-16-5-2021-402233.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/05/16/FMCuasovanhoc07h00p160521.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 17 May 2021 05:22:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Nhà văn Trần Hoài Dương - Mãi một miền xanh thẳm trong lòng trẻ thơ - Cửa sổ văn học 9/5/2021</title>
-      <link>https://radio.voh.com.vn/cua-so-van-hoc/nha-van-tran-hoai-duong-mai-mot-mien-xanh-tham-trong-long-tre-tho-cua-so-van-hoc-9-5-2021-401364.html</link>
-      <description><![CDATA[21:58 - 09/05/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/nha-van-tran-hoai-duong-mai-mot-mien-xanh-tham-trong-long-tre-tho-cua-so-van-hoc-9-5-2021-401364.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/05/08/FMCuasovanhoc07h00p090521.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 10 May 2021 04:58:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
