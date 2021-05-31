@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 31 May 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jun 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 31 May 2021 11:00:00 +0700</pubDate>
+    <pubDate>Tue, 01 Jun 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>'Chợ' dữ liệu cá nhân giao dịch thế nào?</title>
+      <link>https://vnexpress.net/cho-du-lieu-ca-nhan-giao-dich-the-nao-4286958.html</link>
+      <description><![CDATA[Với 1,5 triệu đồng, người mua có thể biết số dư tài khoản, bất động sản sở hữu hoặc loại xe và biển số của 15 nghìn người. Thậm chí, giới trong ngành có thể xin - cho dữ liệu hàng nghìn khách hàng.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/cho-du-lieu-ca-nhan-giao-dich-the-nao-4286958.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/05/31/cho-du-lieu-ca-nhan-giao-dich-the-nao-1622475296.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 01 Jun 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Nhân viên y tế TP HCM: 'Chưa đêm nào được ngủ quá 2 tiếng'</title>
       <link>https://vnexpress.net/nhan-vien-y-te-tp-hcm-chua-dem-nao-duoc-ngu-qua-2-tieng-4286430.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/nguoi-nhiem-o-hoi-truyen-giao-da-deo-khau-trang-ca-khi-hat-4285145.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/05/28/le-cau-nguyen-cua-hoi-thanh-truyen-giao-phuc-hung-dien-ra-the-nao-1622156712.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 28 May 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Cuộc sống trong tâm dịch Bắc Giang</title>
-      <link>https://vnexpress.net/cuoc-song-trong-tam-dich-bac-giang-4284535.html</link>
-      <description><![CDATA[Nhà nhà cửa đóng then cài, đường phố vắng tanh..., nhiều công nhân đang phải cầm cự bằng mì tôm nhưng may mắn các hội nhóm tình nguyện "xuất hiện", nấu ăn, tiếp tế vào những khu cách ly.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/cuoc-song-trong-tam-dich-bac-giang-4284535.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/05/26/cuo-c-so-ng-trong-tam-di-ch-ba-c-giang-1622046272.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 27 May 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
