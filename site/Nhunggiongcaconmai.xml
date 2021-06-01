@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 12 May 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jun 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 12 May 2021 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 01 Jun 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Những giọng ca còn mãi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Nhunggiongcaconmai.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Cố NSƯT Như Hoa: Chim họa mi của làng chèo</title>
+      <link>https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</link>
+      <description><![CDATA[Trong những thập kỷ 60, 70, 80 của thế kỷ trước, giọng hát chèo của NSƯT Như Hoa luôn được đánh giá cao, được coi là mẫu mực cho một giọng hát chèo hay và trở thành một trong những giọng hát được yêu thích nhất. Hơn hai mươi năm gắn bó với làn sóng phát thanh, bằng giọng hát tươi tắn, khỏe, vang, bà đã để lại ấn tượng mạnh trong lòng quý thính giá...]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/06/01/vovlive_nhung_giong_ca_con_mai_co_nsut_nhu_hoa.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 01 Jun 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>NSƯT Quý Tráng: Anh Hai miệt mài gìn giữ vốn quan họ cổ</title>
       <link>https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2021/04/14/vovlive_nhung_giong_ca_con_mai_co_nsut_ut_bach_lan.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 14 Apr 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>NSƯT Xuân Hanh: Chuyển thể kịch bản Chèo để gắn bó với loại hình nghệ thuật say mê</title>
-      <link>https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</link>
-      <description><![CDATA[Từ một người công nhân yêu văn nghệ đã trở thành một nghệ sĩ Chèo và đảm nhiệm vị trí Trưởng đoàn 1 - Nhà hát Chèo Hà Nội. Rồi từ một nghệ sĩ biểu diễn chuyển sang một tác giả chuyển thể kịch bản Chèo là cả một quá trình học hỏi không ngừng của NSƯT Xuân Hanh. Nhiều vở Chèo do ông viết kịch bản và chuyển thể kịch bản được Nhà hát Chèo Hà Nội dàn dựng đã chiếm được tình cảm yêu mến của đông đảo khán giả như các vở chèo: Người Thiên Đô, Oan khuất một thời, Ngọc Hân Công chúa, Cao Bá Quát, …]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/04/07/vovlive_nhung_giong_ca_con_mai_nsut_xuan_hanh.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 07 Apr 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
