@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 01 Jun 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 02 Jun 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 01 Jun 2021 11:00:00 +0700</pubDate>
+    <pubDate>Wed, 02 Jun 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Sở thích nuôi thú dữ</title>
+      <link>https://vnexpress.net/so-thich-nuoi-thu-du-4287600.html</link>
+      <description><![CDATA[Anh Hoàng chọn nuôi Pitbull vì vẻ ngoài hầm hố và đặc tính hung dữ phù hợp với mục đích cảnh vệ. Còn với anh Công, nuôi đại bàng thoả mãn cảm giác được phục tùng bởi loài hoang dã.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/so-thich-nuoi-thu-du-4287600.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/06/02/so-thich-nuoi-thu-du-1622576754.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 02 Jun 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>'Chợ' dữ liệu cá nhân giao dịch thế nào?</title>
       <link>https://vnexpress.net/cho-du-lieu-ca-nhan-giao-dich-the-nao-4286958.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/bac-si-tai-bac-giang-tinh-canh-nhu-chien-truong-4285713.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/05/29/bac-si-tai-bac-giang-tinh-canh-nhu-chien-truong-1622240359.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 29 May 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Người nhiễm ở hội truyền giáo: 'Đã đeo khẩu trang cả khi hát'</title>
-      <link>https://vnexpress.net/nguoi-nhiem-o-hoi-truyen-giao-da-deo-khau-trang-ca-khi-hat-4285145.html</link>
-      <description><![CDATA[Theo một thành viên Hội thánh Truyền giáo Phục hưng, khoảng 20 con chiên thường ngồi nghe giảng, hát... trong buổi lễ, luôn đeo khẩu trang, sát khuẩn và không biết tại sao mình bị nhiễm.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/nguoi-nhiem-o-hoi-truyen-giao-da-deo-khau-trang-ca-khi-hat-4285145.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/05/28/le-cau-nguyen-cua-hoi-thanh-truyen-giao-phuc-hung-dien-ra-the-nao-1622156712.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 28 May 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
