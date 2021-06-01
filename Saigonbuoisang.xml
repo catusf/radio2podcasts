@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 29 May 2021 13:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jun 2021 17:43:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 29 May 2021 13:00:00 +0700</pubDate>
+    <pubDate>Tue, 01 Jun 2021 17:43:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Ngày thứ 2 thực hiện giãn cách xã hội toàn thành phố theo Chỉ thị 15 - Sài Gòn buổi sáng 1/6/2021</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/ngay-thu-2-thuc-hien-gian-cach-xa-hoi-toan-thanh-pho-theo-chi-thi-15-sai-gon-buoi-sang-1-6-2021-403584.html</link>
+      <description><![CDATA[10:43 - 01/06/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/ngay-thu-2-thuc-hien-gian-cach-xa-hoi-toan-thanh-pho-theo-chi-thi-15-sai-gon-buoi-sang-1-6-2021-403584.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/06/01/FMSGBS06h00p010621.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 01 Jun 2021 17:43:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Sài Gòn buổi sáng - 29/05/2021</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-29-05-2021-403381.html</link>
       <description><![CDATA[06:00 - 29/05/2021]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-29-05-2021-403381.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/05/29/FMSaigonbuoisang06h00p290521.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 29 May 2021 13:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Sài Gòn buổi sáng - 28/5/2021</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-28-5-2021-403267.html</link>
-      <description><![CDATA[06:47 - 28/05/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-28-5-2021-403267.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/05/28/FMSGBS06h00p280521.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 28 May 2021 13:47:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
