@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 03 Jun 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 04 Jun 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 03 Jun 2021 11:00:00 +0700</pubDate>
+    <pubDate>Fri, 04 Jun 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Giáo viên chăm trẻ ở khu cách ly: 'Các bé rất kiên cường'</title>
+      <link>https://vnexpress.net/giao-vien-cham-tre-o-khu-cach-ly-cac-be-rat-kien-cuong-4288805.html</link>
+      <description><![CDATA[Cô Tâm cho hay, 115 học sinh tiểu học đang cách ly xa bố mẹ, không thiết bị giải trí...nhưng các bé đều tự ăn, tự sinh hoạt, tự dùng chai nước làm đồ chơi mà không hề mè nheo.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/giao-vien-cham-tre-o-khu-cach-ly-cac-be-rat-kien-cuong-4288805.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/06/04/giao-vien-cham-tre-o-khu-cach-ly-cac-be-rat-kien-cuong-1622740771.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 04 Jun 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Vì sao nhiều bệnh nhân trẻ mắc Covid-19 trở nặng?</title>
       <link>https://vnexpress.net/vi-sao-nhieu-benh-nhan-tre-mac-covid-19-tro-nang-4288166.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/nhan-vien-y-te-tp-hcm-chua-dem-nao-duoc-ngu-qua-2-tieng-4286430.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/05/31/nhan-vien-y-te-trang-dem-tu-khi-tp-hcm-bung-dich-1622407416.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 31 May 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Nguy cơ từ biến chủng nCoV lai Ấn Độ và Anh</title>
-      <link>https://vnexpress.net/nguy-co-tu-bien-chung-ncov-lai-an-do-va-anh-4286090.html</link>
-      <description><![CDATA[Theo chuyên gia, biến chủng nCoV lai khi một người nhiễm cả chủng Anh, Ấn Độ và loại mới này thường mang điểm mạnh của cả hai.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/nguy-co-tu-bien-chung-ncov-lai-an-do-va-anh-4286090.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/05/29/nguy-co-tu-bien-chung-ncov-lai-an-do-va-anh-1622303308.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 30 May 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
