@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 03 Jun 2021 15:46:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 03 Jun 2021 22:54:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 03 Jun 2021 15:46:00 +0700</pubDate>
+    <pubDate>Thu, 03 Jun 2021 22:54:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>TPHCM: Tình hình giao thông có nhiều chuyển biến tích cực qua từng năm - Thời sự 11g00 3/6/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-tinh-hinh-giao-thong-co-nhieu-chuyen-bien-tich-cuc-qua-tung-nam-thoi-su-11g00-3-6-2021-403818.html</link>
+      <description><![CDATA[15:54 - 03/06/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-tinh-hinh-giao-thong-co-nhieu-chuyen-bien-tich-cuc-qua-tung-nam-thoi-su-11g00-3-6-2021-403818.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/06/03/AMThoisu11h00p030621.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 03 Jun 2021 22:54:00 +0700</pubDate>
+    </item>
     <item>
       <title>Doanh nghiệp TPHCM với ý thức phòng chống dịch - Thời sự 5g30 3/6/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/doanh-nghiep-tphcm-voi-y-thuc-phong-chong-dich-thoi-su-5g30-3-6-2021-403783.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/ho-tro-gan-900-cong-nhan-bi-cach-ly-do-anh-huong-dich-covid-19-thoi-su-17g00-2-6-2021-403744.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/06/02/ts17g-020621.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 03 Jun 2021 00:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>TPHCM: Nhiều mức phạt vi phạm các quy định về phòng chống dịch Covid-19 - Thời sự 11g00 2/6/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-nhieu-muc-phat-vi-pham-cac-quy-dinh-ve-phong-chong-dich-covid-19-thoi-su-11g00-2-6-2021-403743.html</link>
-      <description><![CDATA[11:00 - 02/06/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-nhieu-muc-phat-vi-pham-cac-quy-dinh-ve-phong-chong-dich-covid-19-thoi-su-11g00-2-6-2021-403743.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/06/02/AMThoisu11g00-020621.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 02 Jun 2021 18:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
