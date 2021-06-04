@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 29 May 2021 03:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 05 Jun 2021 03:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 29 May 2021 03:00:00 +0700</pubDate>
+    <pubDate>Sat, 05 Jun 2021 03:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thầm thì</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Thamthi.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>'Yêu' bao lâu là lý tưởng?</title>
+      <link>https://vnexpress.net/yeu-bao-lau-la-ly-tuong-4289176.html</link>
+      <description><![CDATA[Với cánh mày râu, thường "chuyện ấy" càng lâu càng chứng tỏ được sức mạnh đàn ông. Trong khi nhiều chị em cho hay, quá lâu khiến họ khó chịu.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/yeu-bao-lau-la-ly-tuong-4289176.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/06/04/yeu-bao-lau-la-ly-tuong-1622810837.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 05 Jun 2021 03:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>'Cong hay thẳng' ảnh hưởng gì tới 'cuộc yêu'?</title>
       <link>https://vnexpress.net/cong-hay-thang-anh-huong-gi-toi-cuoc-yeu-4285444.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/dan-ong-nhin-yeu-duoc-bao-lau-4272273.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/05/07/dan-ong-nhin-yeu-duoc-bao-lau-1620385980.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 08 May 2021 03:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đàn ông nghĩ sao khi phụ nữ 'chủ động' trên giường?</title>
-      <link>https://vnexpress.net/dan-ong-nghi-sao-khi-phu-nu-chu-dong-tren-giuong-4269955.html</link>
-      <description><![CDATA[Phụ nữ chủ động trong "chuyện yêu" sẽ khiến các quý ông cảm thấy thích thú, lo lắng, sợ sệt hay chê trách? Bác sĩ Vũ Đức Công bật mí.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/dan-ong-nghi-sao-khi-phu-nu-chu-dong-tren-giuong-4269955.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/04/30/dan-ong-nghi-sao-khi-phu-nu-chu-dong-tren-giuong-1619781388.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 01 May 2021 03:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
