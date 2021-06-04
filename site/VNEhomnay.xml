@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 04 Jun 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 05 Jun 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 04 Jun 2021 11:00:00 +0700</pubDate>
+    <pubDate>Sat, 05 Jun 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Mỹ, Sing tự tin vì vaccine giúp giảm nguy cơ trở nặng</title>
+      <link>https://vnexpress.net/my-sing-tu-tin-vi-vaccine-giup-giam-nguy-co-tro-nang-4289347.html</link>
+      <description><![CDATA[Chị Hoa, y tá tại Mỹ, chứng kiến khu ICU cho bệnh nhân nặng từng đóng cửa, chị cùng đồng nghiệp tự tin vào vaccine. GS Yik Ying Teo tại Singapore thì cho biết, trong 1,77 triệu người tiêm, chỉ 93 ca nhiễm với 1 ca thở máy.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/my-sing-tu-tin-vi-vaccine-giup-giam-nguy-co-tro-nang-4289347.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/06/04/cac-nuoc-co-ty-le-tiem-cao-tu-tin-vi-vaccine-giam-duoc-dang-ke-nguy-co-1622822683.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 05 Jun 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Những đứa trẻ kiên cường trong khu cách ly</title>
       <link>https://vnexpress.net/nhung-dua-tre-kien-cuong-trong-khu-cach-ly-4288805.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/cho-du-lieu-ca-nhan-giao-dich-the-nao-4286958.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/05/31/cho-du-lieu-ca-nhan-giao-dich-the-nao-1622475296.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 01 Jun 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Nhân viên y tế TP HCM: 'Chưa đêm nào được ngủ quá 2 tiếng'</title>
-      <link>https://vnexpress.net/nhan-vien-y-te-tp-hcm-chua-dem-nao-duoc-ngu-qua-2-tieng-4286430.html</link>
-      <description><![CDATA[Anh Công, nhân viên xét nghiệm nói, 5 ngày qua, anh cùng đồng nghiệp dù mắt mờ, chân nhũn... cũng chỉ dám ngủ vội vì sợ ảnh hưởng tới tiến độ chung.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/nhan-vien-y-te-tp-hcm-chua-dem-nao-duoc-ngu-qua-2-tieng-4286430.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/05/31/nhan-vien-y-te-trang-dem-tu-khi-tp-hcm-bung-dich-1622407416.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 31 May 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
