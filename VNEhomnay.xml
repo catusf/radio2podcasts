@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 05 Jun 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 06 Jun 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 05 Jun 2021 11:00:00 +0700</pubDate>
+    <pubDate>Sun, 06 Jun 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Nhà đầu tư Bitcoin coi bấp bênh là điều tất yếu</title>
+      <link>https://vnexpress.net/nha-dau-tu-bitcoin-coi-bap-benh-la-dieu-tat-yeu-4289751.html</link>
+      <description><![CDATA[400 triệu "bốc hơi" nhưng anh Đức khẳng định vẫn theo cuộc chơi bởi tự tin Bitcoin không thể "sập". Còn với anh Dương, 200 triệu đầu tư Bitcoin mất rồi lại hồi trong đêm là chuyện bình thường.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/nha-dau-tu-bitcoin-coi-bap-benh-la-dieu-tat-yeu-4289751.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/06/06/nha-dau-tu-bitcoin-coi-bap-benh-la-dieu-tat-yeu-1622912490.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 06 Jun 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>'Bệnh nhân nặng giảm hẳn nhờ vaccine covid-19'</title>
       <link>https://vnexpress.net/benh-nhan-nang-giam-han-nho-vaccine-covid-19-4289347.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/so-thich-nuoi-thu-du-4287600.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/06/02/so-thich-nuoi-thu-du-1622596552.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 02 Jun 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>'Chợ' dữ liệu cá nhân giao dịch thế nào?</title>
-      <link>https://vnexpress.net/cho-du-lieu-ca-nhan-giao-dich-the-nao-4286958.html</link>
-      <description><![CDATA[Với 1,5 triệu đồng, người mua có thể biết số dư tài khoản, bất động sản sở hữu hoặc loại xe và biển số của 15 nghìn người. Thậm chí, giới trong ngành có thể xin - cho dữ liệu hàng nghìn khách hàng.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/cho-du-lieu-ca-nhan-giao-dich-the-nao-4286958.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/05/31/cho-du-lieu-ca-nhan-giao-dich-the-nao-1622475296.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 01 Jun 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
