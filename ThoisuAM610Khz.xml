@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 05 Jun 2021 15:28:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 06 Jun 2021 00:20:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 05 Jun 2021 15:28:00 +0700</pubDate>
+    <pubDate>Sun, 06 Jun 2021 00:20:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,28 +24,28 @@
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Từ tình cảm dành cho Bác biến thành hành động xây dựng đất nước – Thời sự 17g00 5/6/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tu-tinh-cam-danh-cho-bac-bien-thanh-hanh-dong-xay-dung-dat-nuoc-thoi-su-17g00-5-6-2021-404005.html</link>
+      <description><![CDATA[17:20 - 05/06/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tu-tinh-cam-danh-cho-bac-bien-thanh-hanh-dong-xay-dung-dat-nuoc-thoi-su-17g00-5-6-2021-404005.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/06/05/AMThoisu17h00p05062.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 06 Jun 2021 00:20:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Nhớ về địa chỉ đỏ - Số 5, Châu Văn Liêm, Quận 5 – Thời sự 11g00 5/6/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/nho-ve-dia-chi-do-so-5-chau-van-liem-quan-5-thoi-su-11g00-5-6-2021-403975.html</link>
+      <description><![CDATA[11:37 - 05/06/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/nho-ve-dia-chi-do-so-5-chau-van-liem-quan-5-thoi-su-11g00-5-6-2021-403975.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/06/05/AMThoisu11h00p050621.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 05 Jun 2021 18:37:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Bộ Tài chính đề xuất chính sách hỗ trợ đối tượng bị ảnh hưởng do dịch - Thời sự 17g00 04/06/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/bo-tai-chinh-de-xuat-chinh-sach-ho-tro-doi-tuong-bi-anh-huong-do-dich-thoi-su-17g00-04-06-2021-403959.html</link>
       <description><![CDATA[17:00 - 04/06/2021]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/bo-tai-chinh-de-xuat-chinh-sach-ho-tro-doi-tuong-bi-anh-huong-do-dich-thoi-su-17g00-04-06-2021-403959.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/06/05/AMThoisu17h00p040621Cuon1.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 05 Jun 2021 00:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Công dân TPHCM lập thành tích để xứng danh là công dân thành phố Bác Hồ - Thời sự 5h30 5/6/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/cong-dan-tphcm-lap-thanh-tich-de-xung-danh-la-cong-dan-thanh-pho-bac-ho-thoi-su-5h30-5-6-2021-403958.html</link>
-      <description><![CDATA[08:28 - 05/06/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/cong-dan-tphcm-lap-thanh-tich-de-xung-danh-la-cong-dan-thanh-pho-bac-ho-thoi-su-5h30-5-6-2021-403958.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/06/05/AMThoisu05h30p050621.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 05 Jun 2021 15:28:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đề xuất hỗ trợ đến gần 2 triệu đồng cho lao động bị ngừng việc tại TPHCM - Thời sự 5g30 04/06/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/de-xuat-ho-tro-den-gan-2-trieu-dong-cho-lao-dong-bi-ngung-viec-tai-tphcm-thoi-su-5g30-04-06-2021-403870.html</link>
-      <description><![CDATA[05:30 - 04/06/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/de-xuat-ho-tro-den-gan-2-trieu-dong-cho-lao-dong-bi-ngung-viec-tai-tphcm-thoi-su-5g30-04-06-2021-403870.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/06/04/AMThoisu05h30p040621.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 04 Jun 2021 12:30:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
