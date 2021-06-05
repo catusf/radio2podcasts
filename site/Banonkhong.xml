@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 30 May 2021 03:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 06 Jun 2021 03:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 30 May 2021 03:00:00 +0700</pubDate>
+    <pubDate>Sun, 06 Jun 2021 03:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Bạn ổn không?</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Banonkhong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>'Quyết làm giàu bằng cá độ vì nhà vợ coi thường'</title>
+      <link>https://vnexpress.net/quyet-lam-giau-bang-ca-do-vi-nha-vo-coi-thuong-4285620.html</link>
+      <description><![CDATA[Cây bị bố mẹ vợ khinh do gia cảnh nghèo, lương chỉ đủ sống và phải ở căn nhà đàng ngoại mua cho. Vì câu nói "Mày làm thuê giàu được không?", Cây quyết ôm cá độ để nhanh có tiền nhưng lại nhận về khoản nợ và đơn ly hôn.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/quyet-lam-giau-bang-ca-do-vi-nha-vo-coi-thuong-4285620.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/06/05/ap-luc-nang-ne-khi-song-trong-can-nha-bo-me-vo-mua-cho-1622879026.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 06 Jun 2021 03:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Tôi viết 10 cam kết nhưng vợ không quay về</title>
       <link>https://vnexpress.net/toi-viet-10-cam-ket-nhung-vo-khong-quay-ve-4283533.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/bo-de-luon-tim-cach-khien-vo-chong-toi-ly-hon-4274851.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/05/08/bo--ruo-t-luon-ti-m-ca-ch-la-m-vo--cho-ng-toi-ly-hon-1620455820.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 09 May 2021 03:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>'May mắn khi vài người coi tôi là người bình thường'</title>
-      <link>https://vnexpress.net/may-man-khi-vai-nguoi-coi-toi-la-nguoi-binh-thuong-4257536.html</link>
-      <description><![CDATA[Bị rung lắc nhãn cầu bẩm sinh, Danh được gửi vào trường nội trú cho trẻ khiếm khuyết từ nhỏ. Thế giới của Danh chỉ có chính mình vì người thân bảo bọc khi cho rằng cậu không thể tự làm gì.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/may-man-khi-vai-nguoi-coi-toi-la-nguoi-binh-thuong-4257536.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/05/01/may-man-khi-vai-nguoi-coi-toi-la-nguoi-binh-thuong-1619839041.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 02 May 2021 03:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
