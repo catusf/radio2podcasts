@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 31 May 2021 04:56:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 07 Jun 2021 04:42:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 31 May 2021 04:56:00 +0700</pubDate>
+    <pubDate>Mon, 07 Jun 2021 04:42:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Cửa sổ văn học trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Cuasovanhoc.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Nguyễn Hiến Lê - Tác phẩm đăng báo - Cửa sổ văn học 6/6/2021</title>
+      <link>https://radio.voh.com.vn/cua-so-van-hoc/nguyen-hien-le-tac-pham-dang-bao-cua-so-van-hoc-6-6-2021-404032.html</link>
+      <description><![CDATA[21:42 - 06/06/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/nguyen-hien-le-tac-pham-dang-bao-cua-so-van-hoc-6-6-2021-404032.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/06/05/fmcuasovanhoc07h00p060621-20210605182356.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 07 Jun 2021 04:42:00 +0700</pubDate>
+    </item>
     <item>
       <title>Cửa sổ văn học - 30/5/2021</title>
       <link>https://radio.voh.com.vn/cua-so-van-hoc/cua-so-van-hoc-30-5-2021-403463.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/cua-so-van-hoc-23-5-2021-402843.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/05/23/FMCuasovanhoc07h00p230521.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 23 May 2021 15:11:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Nhà văn Gia Bảo rong chơi trong “Những ngôi làng trên triền dốc” - Cửa sổ văn học 16/5/2021</title>
-      <link>https://radio.voh.com.vn/cua-so-van-hoc/nha-van-gia-bao-rong-choi-trong-nhung-ngoi-lang-tren-trien-doc-cua-so-van-hoc-16-5-2021-402233.html</link>
-      <description><![CDATA[22:22 - 16/05/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/nha-van-gia-bao-rong-choi-trong-nhung-ngoi-lang-tren-trien-doc-cua-so-van-hoc-16-5-2021-402233.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/05/16/FMCuasovanhoc07h00p160521.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 17 May 2021 05:22:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
