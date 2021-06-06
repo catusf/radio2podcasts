@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 06 Jun 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 07 Jun 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 06 Jun 2021 11:00:00 +0700</pubDate>
+    <pubDate>Mon, 07 Jun 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Mùa World Cup khác thường</title>
+      <link>https://vnexpress.net/mua-world-cup-khac-thuong-4290058.html</link>
+      <description><![CDATA[Cầu thủ ở trong "khu bong bóng" riêng biệt để đảm bảo cách ly. Cổ động viên chỉ được vào sân khi đã tiêm vaccine. Chưa bao giờ đội tuyển, lực lượng tác nghiệp... phải tuân thủ các quy tắc nghiêm ngặt đến vậy.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/mua-world-cup-khac-thuong-4290058.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/06/07/mua-world-cup-khac-thuong-1622999676.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 07 Jun 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Nhà đầu tư Bitcoin xem sự bấp bênh là tất yếu</title>
       <link>https://vnexpress.net/nha-dau-tu-bitcoin-xem-su-bap-benh-la-tat-yeu-4289751.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/vi-sao-nhieu-benh-nhan-tre-mac-covid-19-tro-nang-4288166.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/06/02/vi--sao-nhie-u-be-nh-nhan-tre--khong-be-nh-ne-n-tro--na-ng-1622645127.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 03 Jun 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Sở thích nuôi thú dữ</title>
-      <link>https://vnexpress.net/so-thich-nuoi-thu-du-4287600.html</link>
-      <description><![CDATA[Anh Hoàng chọn nuôi Pitbull vì vẻ ngoài hầm hố và đặc tính hung dữ phù hợp với mục đích cảnh vệ. Còn với anh Công, nuôi đại bàng thoả mãn cảm giác được phục tùng bởi loài hoang dã.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/so-thich-nuoi-thu-du-4287600.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/06/02/so-thich-nuoi-thu-du-1622596552.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 02 Jun 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
