@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 06 Jun 2021 18:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 07 Jun 2021 04:37:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 06 Jun 2021 18:00:00 +0700</pubDate>
+    <pubDate>Mon, 07 Jun 2021 04:37:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Nam công nhân ở Bắc Giang tử vong không liên quan đến tiêm vắc xin Covid-19 - Thời sự 17g00 6/6/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/nam-cong-nhan-o-bac-giang-tu-vong-khong-lien-quan-den-tiem-vac-xin-covid-19-thoi-su-17g00-6-6-2021-404106.html</link>
+      <description><![CDATA[21:37 - 06/06/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/nam-cong-nhan-o-bac-giang-tu-vong-khong-lien-quan-den-tiem-vac-xin-covid-19-thoi-su-17g00-6-6-2021-404106.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/06/06/AMThoisu17h00p060621.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 07 Jun 2021 04:37:00 +0700</pubDate>
+    </item>
     <item>
       <title>TP.HCM ghi nhận thêm 10 trường hợp nghi nhiễm - Thời sự 11g00 06/06/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tp-hcm-ghi-nhan-them-10-truong-hop-nghi-nhiem-thoi-su-11g00-06-06-2021-404076.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/thu-tuong-yeu-cau-khong-ngan-song-cam-cho-can-cach-ly-dung-quy-dinh-thoi-su-5h30-06-06-2021-404056.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/06/06/AMThoisu05h30p060621.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 06 Jun 2021 13:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Từ tình cảm dành cho Bác biến thành hành động xây dựng đất nước – Thời sự 17g00 5/6/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tu-tinh-cam-danh-cho-bac-bien-thanh-hanh-dong-xay-dung-dat-nuoc-thoi-su-17g00-5-6-2021-404005.html</link>
-      <description><![CDATA[17:20 - 05/06/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tu-tinh-cam-danh-cho-bac-bien-thanh-hanh-dong-xay-dung-dat-nuoc-thoi-su-17g00-5-6-2021-404005.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/06/05/AMThoisu17h00p05062.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 06 Jun 2021 00:20:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
