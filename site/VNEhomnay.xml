@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 08 Jun 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 09 Jun 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 08 Jun 2021 11:00:00 +0700</pubDate>
+    <pubDate>Wed, 09 Jun 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Vì sao các nước đang phát triển khó tiếp cận vaccine?</title>
+      <link>https://vnexpress.net/vi-sao-cac-nuoc-dang-phat-trien-kho-tiep-can-vaccine-4291203.html</link>
+      <description><![CDATA[Năng lực sản xuất vaccine hạn chế, sự chậm chân trong đặt hàng và vận chuyển phức tạp được cho là nguyên nhân khiến vaccine khó đến tay các nước đang phát triển.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/vi-sao-cac-nuoc-dang-phat-trien-kho-tiep-can-vaccine-4291203.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/06/08/vi-sao-cac-nuoc-dang-phat-trien-kho-tiep-can-vaccine-1623170842.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 09 Jun 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Công nhân Bắc Giang vật lộn với quyết định 'đi hay ở'</title>
       <link>https://vnexpress.net/cong-nhan-bac-giang-vat-lon-voi-quyet-dinh-di-hay-o-4290627.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/benh-nhan-nang-giam-han-nho-vaccine-covid-19-4289347.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/06/04/cac-nuoc-co-ty-le-tiem-cao-tu-tin-vi-vaccine-giam-duoc-dang-ke-nguy-co-1622822683.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 05 Jun 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Những đứa trẻ kiên cường trong khu cách ly</title>
-      <link>https://vnexpress.net/nhung-dua-tre-kien-cuong-trong-khu-cach-ly-4288805.html</link>
-      <description><![CDATA[115 học sinh tiểu học, phần lớn là người Mông, đang cách ly xa bố mẹ nhưng đều tự chăm sóc bản thân, không mè nheo, buồn thì lấy quần áo ra làm búp bê.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/nhung-dua-tre-kien-cuong-trong-khu-cach-ly-4288805.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/06/04/nhung-dua-tre-kien-cuong-trong-khu-cach-ly-1622766795.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 04 Jun 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
