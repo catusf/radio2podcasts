@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 01 Jun 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 08 Jun 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 01 Jun 2021 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 08 Jun 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,15 @@
     </itunes:owner>
     <itunes:subtitle>Âm nhạc với cuộc sống</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Amnhacvoicuocsong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Gặp gỡ nhạc sĩ Lê Dũng, người con của Bắc Giang cùng tác phẩm âm nhạc cổ động tinh thần đoàn kết quyết thắng đại dịch Covid của đồng bào và nhân dân Bắc Giang: “Bắc Giang niềm tin chiến thắng”</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[-“Bắc Giang niềm tin chiến thắng” là ca khúc được nhạc sĩ Lê Dũng viết ở giọng đô trưởng, nhịp 2/4 với hình thức hai đoạn đơn, với thông điệp thể hiện niềm tin khát khao chiến thắng đại dịch Covid và tinh thần đoàn kết của đồng bào và nhân dân Bắc Giang cùng những tri ân đến các lực lượng tuyến đầu chống dịch...
+- Kỷ niệm ngày Quốc khánh Liên bang Nga (12/6): Gặp gỡ ca sĩ Yên Hà-mỹ nữ nhạc Nga với album “Niềm hy vọng” .]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/06/08/vovlive_am_nhac_voi_cuoc_song_bac_giang_niem_tin_chien_thang_le_dung.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 08 Jun 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Anh sẽ về nhưng không phải hôm nay: Tác phẩm âm nhạc tri ân lực lượng tuyến đầu chống dịch của nhạc sĩ Kiên Ninh</title>
       <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
@@ -48,15 +57,6 @@
       <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2021/05/11/vovlive_am_nhac_voi_cuoc_song_thanh_pho_mat_troi_len.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 11 May 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Hồi ức Điện Biên: Món quà Âm nhạc kỷ niệm 67 năm Chiến thắng Điện Biên (7/5/1954-7/5/2021)</title>
-      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[-Lắng nghe "Hồi ức Điện Biên" của nhạc sĩ Đỗ Tuấn với giọng hát của ca sĩ Ngọc Quy, và những chia sẻ của nhạc sĩ về hoàn cảnh ra đời của bài hát.
--Tìm hiểu ca khúc “Chiếc gậy Trường Sơn”của nhạc sĩ Phạm Tuyên nhân kỷ niệm 62 năm ngày truyền thống Bộ đội Trường Sơn.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/05/10/vovlive_am_nhac_voi_cuoc_song_hoi_uc_dien_bien.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 10 May 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
