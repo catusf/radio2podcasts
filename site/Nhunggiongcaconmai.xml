@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 01 Jun 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 08 Jun 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 01 Jun 2021 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 08 Jun 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Những giọng ca còn mãi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Nhunggiongcaconmai.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>NSND Lê Tiến Thọ, người nghệ sĩ cháy hết mình với nghệ thuật Tuồng</title>
+      <link>https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</link>
+      <description><![CDATA[Sở hữu giọng ca dày dặn, vang, khỏe cùng lối diễn xuất thăng hoa, NSND Lê Tiến Thọ đã tạo nên những nhân vật lịch sử, huyền thoại trong các vở tuồng lịch sử như: Trọng Thủy, ông Bàng Trần, Thoát Hoan,...15 năm là diễn viên của Nhà hát Tuồng Việt Nam đã cho nghệ sĩ nhiều trải nghiệm quý giá để ông thử sức, khổ luyện và thành tài với các vị trí kép chính, lão văn trong hầu hết các vở tuồng truyền thống của đoàn...]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/06/08/vovlive_nhung_giong_ca_con_mai_nsnd_le_tien_tho.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 08 Jun 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Cố NSƯT Như Hoa: Chim họa mi của làng chèo</title>
       <link>https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2021/05/07/vovlive_nhung_giong_ca_con_mai_co_nsut_le_thanh_dan_ca_nghe_tinh.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 07 May 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Cố NSƯT Út Bạch Lan: Giọng ca sầu nữ</title>
-      <link>https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</link>
-      <description><![CDATA[Trong cuộc đời hoạt động nghệ thuật của mình, cố NSƯT Út Bạch Lan đã có những vai diễn xuất sắc, để lại nhiều dấu ấn trong lòng khán giả qua các vở như: Dưới hàng phượng vỹ, Nước mắt kẻ sang tần, Tình cô gái Huế,… Đặc biệt với bài ca cổ Hoa lan trắng viết về chính cuộc đời của NSƯT Út Bạch Lan do soạn giả Vĩnh Châu viết riêng cho giọng ca bi ai, não nuột của bà đã được nhiều khán giả đặc biệt yêu thích, xúc động…]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/04/14/vovlive_nhung_giong_ca_con_mai_co_nsut_ut_bach_lan.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 14 Apr 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
