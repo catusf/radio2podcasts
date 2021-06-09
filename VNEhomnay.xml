@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 09 Jun 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 10 Jun 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 09 Jun 2021 11:00:00 +0700</pubDate>
+    <pubDate>Thu, 10 Jun 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>CĐV Việt vượt gian nan 'tiếp lửa' cho đội tuyển</title>
+      <link>https://vnexpress.net/cdv-viet-vuot-gian-nan-tiep-lua-cho-doi-tuyen-4291781.html</link>
+      <description><![CDATA[Chị Trang cùng chồng đợi 3 tiếng ở sân bay để gặp đội tuyển, canh trực ngày đêm mua vé và lập tức đi xét nghiệm khi có quy định. Chị Xuân thì xin nghỉ làm trước 1 tuần và quyết đồng hành cùng đội tuyển trong mọi trận tại UAE.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/cdv-viet-vuot-gian-nan-tiep-lua-cho-doi-tuyen-4291781.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/06/10/cdv-viet-vuot-gian-nan-tiep-lua-cho-doi-tuyen-1623261481.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 10 Jun 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Vì sao các nước đang phát triển khó mua vaccine?</title>
       <link>https://vnexpress.net/vi-sao-cac-nuoc-dang-phat-trien-kho-mua-vaccine-4291203.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/nha-dau-tu-bitcoin-xem-su-bap-benh-la-tat-yeu-4289751.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/06/06/nha-dau-tu-bitcoin-coi-bap-benh-la-dieu-tat-yeu-1622912490.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 06 Jun 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>'Bệnh nhân nặng giảm hẳn nhờ vaccine covid-19'</title>
-      <link>https://vnexpress.net/benh-nhan-nang-giam-han-nho-vaccine-covid-19-4289347.html</link>
-      <description><![CDATA[Chị Hoa, y tá tại Ohio nói, khu ICU của bệnh viện nơi chị làm gần đây phải đóng cửa vì không có bệnh nhân nặng sau khi Mỹ dẫn đầu tỷ lệ tiêm vaccine.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/benh-nhan-nang-giam-han-nho-vaccine-covid-19-4289347.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/06/04/cac-nuoc-co-ty-le-tiem-cao-tu-tin-vi-vaccine-giam-duoc-dang-ke-nguy-co-1622822683.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 05 Jun 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
