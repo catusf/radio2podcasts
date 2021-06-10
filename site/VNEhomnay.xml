@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 10 Jun 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 11 Jun 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 10 Jun 2021 11:00:00 +0700</pubDate>
+    <pubDate>Fri, 11 Jun 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Singapore cách ly các ca tiếp xúc Covid-19 ra sao?</title>
+      <link>https://vnexpress.net/singapore-cach-ly-cac-ca-tiep-xuc-covid-19-ra-sao-4292367.html</link>
+      <description><![CDATA[Singapore từng đối mặt với bài toán quá tải khu cách ly trong đợt dịch đầu. Sau khi gom các ca nguy cơ vào cùng một khu để dập dịch, nước này duy trì cách ly cả F1 và F2. Riêng F1 được linh động giữa cách ly tập trung hoặc tại nhà.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/singapore-cach-ly-cac-ca-tiep-xuc-covid-19-ra-sao-4292367.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/06/11/singapore-cach-ly-cac-ca-tiep-xuc-covid-19-ra-sao-1623348021.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 11 Jun 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>CĐV Việt vượt gian nan 'tiếp lửa' cho đội tuyển</title>
       <link>https://vnexpress.net/cdv-viet-vuot-gian-nan-tiep-lua-cho-doi-tuyen-4291781.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/world-cup-khac-thuong-cua-tuyen-viet-nam-4290058.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/06/07/mua-world-cup-khac-thuong-1622999676.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 07 Jun 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Nhà đầu tư Bitcoin xem sự bấp bênh là tất yếu</title>
-      <link>https://vnexpress.net/nha-dau-tu-bitcoin-xem-su-bap-benh-la-tat-yeu-4289751.html</link>
-      <description><![CDATA[400 triệu "bốc hơi" nhưng anh Đức khẳng định vẫn theo cuộc chơi bởi tự tin Bitcoin không thể sập. Với anh Dương, tiền mất rồi trở lại là chuyện bình thường, chỉ do anh "chưa đến lúc giàu".]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/nha-dau-tu-bitcoin-xem-su-bap-benh-la-tat-yeu-4289751.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/06/06/nha-dau-tu-bitcoin-coi-bap-benh-la-dieu-tat-yeu-1622912490.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 06 Jun 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
