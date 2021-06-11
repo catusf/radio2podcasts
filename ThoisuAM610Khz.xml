@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 11 Jun 2021 00:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 11 Jun 2021 15:42:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 11 Jun 2021 00:00:00 +0700</pubDate>
+    <pubDate>Fri, 11 Jun 2021 15:42:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Tổng thống Mỹ Biden lần đầu công du châu Âu: Một chuyến đi nhiều mục đích - Thời sự 05g30 11/6/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tong-thong-my-biden-lan-dau-cong-du-chau-au-mot-chuyen-di-nhieu-muc-dich-thoi-su-05g30-11-6-2021-404547.html</link>
+      <description><![CDATA[08:42 - 11/06/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tong-thong-my-biden-lan-dau-cong-du-chau-au-mot-chuyen-di-nhieu-muc-dich-thoi-su-05g30-11-6-2021-404547.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/06/11/AMThoisu05h30p110621sss.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 11 Jun 2021 15:42:00 +0700</pubDate>
+    </item>
     <item>
       <title>Giao dịch đất nền bị ảnh hưởng nhiều nhất khi dịch bùng phát - Thời sự 17g00 10/6/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/giao-dich-dat-nen-bi-anh-huong-nhieu-nhat-khi-dich-bung-phat-thoi-su-17g00-10-6-2021-404512.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-trong-nhung-ngay-gian-cach-thoi-su-11g00-10-6-2021-404510.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/06/10/ts11g00-100621.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 10 Jun 2021 18:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Lĩnh vực công nghệ sinh học cần hợp tác quốc tế để tiến nhanh hơn - Thời sự 05g30 10/6/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/linh-vuc-cong-nghe-sinh-hoc-can-hop-tac-quoc-te-de-tien-nhanh-hon-thoi-su-05g30-10-6-2021-404441.html</link>
-      <description><![CDATA[05:30 - 10/06/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/linh-vuc-cong-nghe-sinh-hoc-can-hop-tac-quoc-te-de-tien-nhanh-hon-thoi-su-05g30-10-6-2021-404441.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/06/10/ts0530-100621.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 10 Jun 2021 12:30:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
