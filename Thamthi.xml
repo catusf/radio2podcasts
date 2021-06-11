@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 05 Jun 2021 03:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 12 Jun 2021 03:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 05 Jun 2021 03:00:00 +0700</pubDate>
+    <pubDate>Sat, 12 Jun 2021 03:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thầm thì</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Thamthi.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Cân nặng ảnh hưởng cuộc yêu ra sao?</title>
+      <link>https://vnexpress.net/can-nang-anh-huong-cuoc-yeu-ra-sao-4291782.html</link>
+      <description><![CDATA[Theo bác sĩ, nam giới quá béo hay quá gầy đều có thể ảnh hưởng tới khả năng tình dục. Vậy như thế nào là cân đối và hoàn hảo cho một cuộc yêu?]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/can-nang-anh-huong-cuoc-yeu-ra-sao-4291782.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/06/11/can-nang-anh-huong-cuoc-yeu-the-nao-1623416169.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 12 Jun 2021 03:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>'Yêu' bao lâu là lý tưởng?</title>
       <link>https://vnexpress.net/yeu-bao-lau-la-ly-tuong-4289176.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/bi-hai-chuyen-yeu-thoi-covid-4278112.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/05/14/bi-hai-chuyen-yeu-mua-covid-1620988827.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 15 May 2021 03:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đàn ông 'nhịn yêu' được bao lâu?</title>
-      <link>https://vnexpress.net/dan-ong-nhin-yeu-duoc-bao-lau-4272273.html</link>
-      <description><![CDATA[Mỗi người đàn ông sở hữu "một nhà máy" sản xuất ra hàng nghìn tinh trùng mỗi giây. Vậy việc "nhịn yêu" lâu ảnh hưởng tới tâm sinh lý quý ông ra sao? Bác sĩ Võ Duy Tâm lý giải.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/dan-ong-nhin-yeu-duoc-bao-lau-4272273.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/05/07/dan-ong-nhin-yeu-duoc-bao-lau-1620385980.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 08 May 2021 03:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
