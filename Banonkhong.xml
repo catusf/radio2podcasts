@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 06 Jun 2021 03:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 13 Jun 2021 03:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 06 Jun 2021 03:00:00 +0700</pubDate>
+    <pubDate>Sun, 13 Jun 2021 03:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Bạn ổn không?</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Banonkhong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>'Sát ngày cưới anh nói hết tình cảm với tôi'</title>
+      <link>https://vnexpress.net/sat-ngay-cuoi-anh-noi-het-tinh-cam-voi-toi-4288787.html</link>
+      <description><![CDATA[Ngày mai cưới, An nhận đề nghị huỷ hôn đồng thời phát hiện bạn trai lừa dối nhưng cô vẫn thoả hiệp. Sau 2 năm, anh tiếp tục qua lại với người cũ nhưng không chịu ly hôn vì "tình cảm với vợ lúc còn lúc hết".]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/sat-ngay-cuoi-anh-noi-het-tinh-cam-voi-toi-4288787.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/06/12/anh-luon-tron-tranh-toi-vi-dang-vat-va-tim-kiem-chinh-minh-1623474363.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 13 Jun 2021 03:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>'Nhà nghèo, ở rể nên bên vợ coi thường'</title>
       <link>https://vnexpress.net/nha-ngheo-o-re-nen-ben-vo-coi-thuong-4285620.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/lam-nguoi-tinh-bi-mat-de-dua-dam-kinh-te-4276528.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/05/15/lam-nguoi-tinh-bi-mat-de-dua-dam-kinh-te-1621084014.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 16 May 2021 03:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>'Bố đẻ luôn tìm cách khiến vợ chồng tôi ly hôn'</title>
-      <link>https://vnexpress.net/bo-de-luon-tim-cach-khien-vo-chong-toi-ly-hon-4274851.html</link>
-      <description><![CDATA[Vô tình nghe được cuộc nói chuyện, Lành đau khổ khi biết bố muốn vợ chồng cô ly hôn. Cô muốn ra ở riêng, nhưng gia đình do theo mẫu hệ và không ai chăm sóc mẹ đang liệt giường.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/bo-de-luon-tim-cach-khien-vo-chong-toi-ly-hon-4274851.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/05/08/bo--ruo-t-luon-ti-m-ca-ch-la-m-vo--cho-ng-toi-ly-hon-1620455820.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 09 May 2021 03:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
