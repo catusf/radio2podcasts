@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 13 Jun 2021 13:20:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 13 Jun 2021 18:42:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 13 Jun 2021 13:20:00 +0700</pubDate>
+    <pubDate>Sun, 13 Jun 2021 18:42:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Quận Bình Tân: Nghĩa tình giữa đại dịch COVID-19 - Thời sự 13/6/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/quan-binh-tan-nghia-tinh-giua-dai-dich-covid-19-thoi-su-13-6-2021-404740.html</link>
+      <description><![CDATA[11:42 - 13/06/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/quan-binh-tan-nghia-tinh-giua-dai-dich-covid-19-thoi-su-13-6-2021-404740.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/06/13/AMThoisu11h00p130621.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 13 Jun 2021 18:42:00 +0700</pubDate>
+    </item>
     <item>
       <title>Đảm bảo năng lực và chất lượng các khu cách ly tập trung - Thời sự 17g00 12/06/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/dam-bao-nang-luc-va-chat-luong-cac-khu-cach-ly-tap-trung-thoi-su-17g00-12-06-2021-404737.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/du-dich-benh-van-co-the-to-chuc-nhung-hoat-dong-y-nghia-cho-cac-em-trong-dip-he-thoi-su-5g30-13-6-404723.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/06/13/AMThoisu05h30p130621.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 13 Jun 2021 13:20:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Bộ Chính trị yêu cầu nghiên cứu cho thí điểm sử dụng Hộ chiếu vaccine - Thời sự 11g00 12/06/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/bo-chinh-tri-yeu-cau-nghien-cuu-cho-thi-diem-su-dung-ho-chieu-vaccine-thoi-su-11g00-12-06-2021-404666.html</link>
-      <description><![CDATA[11:00 - 12/06/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/bo-chinh-tri-yeu-cau-nghien-cuu-cho-thi-diem-su-dung-ho-chieu-vaccine-thoi-su-11g00-12-06-2021-404666.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/06/12/AMThoisu11h00p120621.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 12 Jun 2021 18:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
