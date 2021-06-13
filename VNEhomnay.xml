@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 13 Jun 2021 11:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 14 Jun 2021 11:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 13 Jun 2021 11:00:00 +0700</pubDate>
+    <pubDate>Mon, 14 Jun 2021 11:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>VNE hôm nay</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VNEhomnay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>CĐV Việt tại UAE chuẩn bị cho trận tới?</title>
+      <link>https://vnexpress.net/cdv-viet-tai-uae-chuan-bi-cho-tran-toi-4293674.html</link>
+      <description><![CDATA[Khán đài cho CĐV Việt "sạch vé" ngay khi mở bán, chị Phương mua sang suất của CĐV UAE và dự định trùm quốc kỳ nước bạn để vào sân. Nhiều người đổ về Dubai, xin nghỉ làm cả ngày để chuẩn bị loa, kèn, trang phục cổ vũ.]]></description>
+      <guid isPermaLink="false">https://vnexpress.net/cdv-viet-tai-uae-chuan-bi-cho-tran-toi-4293674.html</guid>
+      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/06/14/cdv-viet-tai-uae-chuan-bi-cho-tran-toi-1623604298.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 14 Jun 2021 11:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Công nhân Pouyuen 'thấp thỏm' vì dịch</title>
       <link>https://vnexpress.net/cong-nhan-pouyuen-thap-thom-vi-dich-4293331.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://vnexpress.net/cdv-viet-vuot-gian-nan-tiep-lua-cho-doi-tuyen-4291781.html</guid>
       <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/06/10/cdv-viet-vuot-gian-nan-tiep-lua-cho-doi-tuyen-1623283679.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 10 Jun 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Vì sao các nước đang phát triển khó mua vaccine?</title>
-      <link>https://vnexpress.net/vi-sao-cac-nuoc-dang-phat-trien-kho-mua-vaccine-4291203.html</link>
-      <description><![CDATA[Năng lực sản xuất vaccine hạn chế, chậm chân trong đặt hàng và sự vận chuyển phức tạp được cho là nguyên nhân khiến vaccine khó đến tay các nước đang phát triển.]]></description>
-      <guid isPermaLink="false">https://vnexpress.net/vi-sao-cac-nuoc-dang-phat-trien-kho-mua-vaccine-4291203.html</guid>
-      <enclosure url="https://v.vnecdn.net/vnexpress/video/audio/2021/06/08/vi-sao-cac-nuoc-dang-phat-trien-kho-tiep-can-vaccine-1623170842.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 09 Jun 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
