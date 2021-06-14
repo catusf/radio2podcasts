@@ -6,12 +6,54 @@
     "name": "catusf",
     "email": "catus.phan@gmail.com"
   },
-  "websites": {  
+  "websites": {
+    "RFI": {
+      "home": "https://www.rfi.fr/vi/",
+      "name": "RFI Tiếng Việt",
+      "function": null,
+      "programs": {
+        "cc60'": {
+          "url": "https://www.rfi.fr/vi/t%E1%BB%95ng-h%E1%BB%A3p/20210613-ch%C6%B0%C6%A1ng-tr%C3%ACnh-60-ph%C3%BAt",
+          "title": "Chương trình 60'",
+          "subtitle": "60'",
+          "cover": "",
+          "no": 5
+        },
+        "pdccc'": {
+          "url": "https://www.rfi.fr/vi/t%E1%BB%95ng-h%E1%BB%A3p/20210613-ch%C6%B0%C6%A1ng-tr%C3%ACnh-60-ph%C3%BAt",
+          "title": "Phần đầu của chương trình",
+          "subtitle": "17'",
+          "cover": "",
+          "no": 5
+        },
+        "pclccc'": {
+          "url": "https://www.rfi.fr/vi/t%E1%BB%95ng-h%E1%BB%A3p/20210613-ch%C6%B0%C6%A1ng-tr%C3%ACnh-60-ph%C3%BAt",
+          "title": "Phần còn lại của chương trình",
+          "subtitle": "43'",
+          "cover": "",
+          "no": 5
+        }
+      }
+    },  
     "VOVL": {
       "home": "https://vovlive.vn/",
       "name": "VOV Live",
       "function": null,
       "programs": {
+        "skvbl": {
+          "url": "https://vovlive.vn/su-kien-va-ban-luan-p194.html",
+          "title": "Sự kiện và bàn luận",
+          "subtitle": "Sự kiện và bàn luận",
+          "cover": "",
+          "no": 5
+        },       
+        "cvdqt": {
+          "url": "https://vovlive.vn/cac-van-de-quoc-te-p211.html",
+          "title": "Các vấn đề quốc tế",
+          "subtitle": "Các vấn đề quốc tế",
+          "cover": "",
+          "no": 5
+        },
         "tt7n": {
           "url": "https://vovlive.vn/the-thao-7-ngay-p160.html",
           "title": "Thể thao 7 ngày",
@@ -39,44 +81,10 @@
           "subtitle": "Những giọng ca còn mãi",
           "cover": "",
           "no": 5
-        }        
-      }
-    },
-    "VNE": {
-      "home": "https://vnexpress.net/podcast",
-      "name": "VnExpress Podcast",
-      "function": null,
-      "programs": {
-        "vehn": {
-          "url": "https://vnexpress.net/podcast/vnexpress-hom-nay",
-          "title": "VNE hôm nay",
-          "subtitle": "VNE hôm nay",
-          "cover": "",
-          "no": 5
-        },
-        "vetlg": {
-          "url": "https://vnexpress.net/podcast/tien-lam-gi",
-          "title": "Tiền làm gì?",
-          "subtitle": "Tiền làm gì?",
-          "cover": "",
-          "no": 5
-        },        
-        "vebok": {
-          "url": "https://vnexpress.net/podcast/ban-on-khong",
-          "title": "Bạn ổn không?",
-          "subtitle": "Bạn ổn không?",
-          "cover": "",
-          "no": 5
-        },
-        "vett": {
-          "url": "https://vnexpress.net/podcast/tham-thi",
-          "title": "Thầm thì",
-          "subtitle": "Thầm thì",
-          "cover": "",
-          "no": 5
         }
       }
     },
+    
     "VOH": {
       "home": "http://radio.voh.com.vn",
       "name": "VOH Đài tiếng nói nhân dân TPHCM",
@@ -165,76 +173,6 @@
           "subtitle": "Đà Nẵng và Bạn",
           "cover": "",
           "no": 5
-        }
-      }
-    },
-    "RFI": {
-      "home": "https://www.rfi.fr/vi/",
-      "name": "RFI Tiếng Việt",
-      "function": null,
-      "programs": {
-        "cc60p": {
-          "url": "https://www.rfi.fr/vi/tag/t%E1%BB%95ng-h%E1%BB%A3p/",
-          "title": "Chương trình 60'",
-          "subtitle": "Chương trình 60'",
-          "cover": "",
-          "no": 5
-        }
-      }
-    },  
-    "VOV1": {
-      "home": "http://vov1.vov.vn/",
-      "name": "VOV1 Đài tiếng nói Việt Nam",
-      "function": null,
-      "programs": {
-        "ccqt": {
-          "url": "http://vov1.vov.vn/cau-chu7yen-quoc-te-cmobile55.aspx",
-          "title": "Câu chuyện quốc tế",
-          "subtitle": "Câu chuyện quốc tế",
-          "cover": "",
-          "no": 7
-        },
-        "hssk": {
-          "url": "http://vov1.vov.vn/ho-so-su-kien-quoc-te-cmobile33.aspx",
-          "title": "Hồ sơ sự kiện",
-          "subtitle": "Hồ sơ sự kiện",
-          "cover": "",
-          "no": 7
-        },
-        "tcvov": {
-          "url": "http://vov1.vov.vn/thuc-cung-vov-cmobile133.aspx",
-          "title": "Thức cùng VOV",
-          "subtitle": "Thức cùng VOV",
-          "cover": "",
-          "no": 3
-        },
-        "ts22h": {
-          "url": "http://vov1.vov.vn/thoi-su-21h30-cmobile29.aspx",
-          "title": "Thời sự 21h30",
-          "subtitle": "Thời sự 21h30",
-          "cover": "",
-          "no": 2
-        },
-        "ts18h": {
-          "url": "http://vov1.vov.vn/thoi-su-18h-cmobile14.aspx",
-          "title": "Thời sự 18h",
-          "subtitle": "Thời sự 18h",
-          "cover": "",
-          "no": 2
-        },
-        "ts12h": {
-          "url": "http://vov1.vov.vn/thoi-su-12h-cmobile12.aspx",
-          "title": "Thời sự 12h",
-          "subtitle": "Thời sự 12h",
-          "cover": "",
-          "no": 2
-        },
-        "ts06h": {
-          "url": "http://vov1.vov.vn/thoi-su-6h-cmobile11.aspx",
-          "title": "Thời sự 6h",
-          "subtitle": "Thời sự 6h",
-          "cover": "",
-          "no": 2
         }
       }
     },

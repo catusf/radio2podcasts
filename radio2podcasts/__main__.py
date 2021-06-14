@@ -181,8 +181,9 @@ def main():
         file.write(output)
 
 if __name__ == "__main__":
-    try:
-        main()
-    except Exception as ex:
-        print(ex)
-        send_mail_on_error(str(ex))
+    main()
+    # try:
+    #     main()
+    # except Exception as ex:
+    #     print(ex)
+    #     send_mail_on_error(str(ex))

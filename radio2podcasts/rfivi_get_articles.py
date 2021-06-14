@@ -25,38 +25,27 @@ def get_articles_from_html(soup, url, no_items, item_titles=None):
             'link', 'title', 'description', 'pub_date', 'media', 'type'})
     articles = list()
 
-    # debug = False
-    count = 0
-    items = soup.select('div.m-item-list-article')
-    for i in items:
-        count = count + 1
-        if count > no_items:
-            break
+    number = 5
+    if item_titles:
+        number = item_titles
+    
+    date = datetime.date.today()
+    today = datetime.datetime(date.year, date.month, date.day)
 
-        title = i.select_one('p.article__title').text.strip()
-        link = i.a.get('href')
-        
-        parsed = urlparse(url)
-        link = urlunparse((parsed[0], parsed[1], link, '', '', ''))
-        
-        # media = i.a.get('data-source')
-        # description = i.select_one('div.b-grid__desc').text.strip()
-        time_string = i.find('time').get('datetime')
+    vt_tz = pytz.timezone('Europe/Paris')
 
-        vt_tz = pytz.timezone('Europe/Paris')
+    for i in range(number):
 
-        pub_date = parser.parse(time_string).astimezone(vt_tz)
-        
-        headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0'}
+        pub_date = today - datetime.timedelta(i + 1)
+        datestr1 = pub_date.strftime(r"%Y%m%d")
+        link = f'https://www.rfi.fr/vi/t%E1%BB%95ng-h%E1%BB%A3p/{datestr1}-ch%C6%B0%C6%A1ng-tr%C3%ACnh-60-ph%C3%BAt'
+        title = f'{pub_date.year}{pub_date.month}{pub_date.day} CHƯƠNG TRÌNH 60 PHÚT'
+        description = "60'"
+        datestr2 = pub_date.strftime(r"%Y%m")
+        datestr3 = pub_date.strftime(r"%Y_%m_%d")
 
-        spage = requests.get(link, headers=headers)
-        ssoup = BeautifulSoup(spage.content, 'html.parser')
+        media=f'https://aod-rfi.akamaized.net/rfi/vietnamien/audio/modules/actu/{datestr2}/VN_60MN_{datestr3}.mp3'
 
-        child = ssoup.select_one('div.t-content__body').select_one('a')
-        description = pub_date.strftime(r'%d-%m-%Y ') + title
-        title = pub_date.strftime(r'%d-%m-%Y ') + title
-        media = child.get('href')
-        
         mime = 'audio/mpeg'
 
         print(link, title, pub_date)
@@ -69,8 +58,9 @@ def get_articles_from_html(soup, url, no_items, item_titles=None):
                 link=link,
                 title=title,
                 description=description,
-                pub_date=pub_date,
+                pub_date=pub_date.astimezone(vt_tz),
                 media=media,
                 type=mime))
+    
 
     return articles
