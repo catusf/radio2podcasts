@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 09 Jun 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 14 Jun 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 09 Jun 2021 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 14 Jun 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,22 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Hội nghị thượng đỉnh G7 và sứ mệnh tái khẳng định vai trò nhóm các cường quốc hàng đầu thế giới</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Ngày 11/6, Hội nghị thượng định lần thứ 47 Nhóm các nước công nghiệp phát triển hàng đầu thế giới, gồm Anh, Pháp, Đức, Italia, Mỹ, Canada và Nhật Bản (gọi tắt là nhóm G7) chính thức khai mạc tại hạt Cornwall, Tây Nam nước Anh. Hội nghị diễn ra 3 ngày theo hình thức trực tiếp lần đầu tiên trong vòng 2 năm là nỗ lực của Anh - nước Chủ tịch luân phiên G7 năm 2021 - nhằm đem đến những xung lực và năng lượng mới cho diễn đàn đa phương này, trong bối cảnh đại dịch Covid-19 tiếp tục diễn biến phức tạp. Cuộc gặp thượng đỉnh lần này còn là phép thử với nhóm G7 sau một giai đoạn chia rẽ và căng thẳng, khi nước Mỹ dưới thời cựu Tổng thống Donald Trump có quá nhiều quan điểm khác biệt. Liệu tham vọng tái khẳng định vai trò, hình ảnh của nhóm G7 trong các vấn đề toàn cầu dưới vai trò điều phối của Anh có thể trở thành hiện thực?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/06/14/vovlive_cacvandequocte_thuong_dinh_g7.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 14 Jun 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Củng cố niềm tin của mối quan hệ đồng minh xuyên Đại Tây Dương</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Tổng thống Mỹ Joe Biden bắt đầu công du Châu Âu. Đây là chuyến công du nước ngoài đầu tiên kể từ khi ông Biden nhậm chức. Với lịch trình dày đặc, từ tham dự Hội nghị thượng đỉnh G7, tới Hội nghị thượng đỉnh của Tổ chức Hiệp ước Bắc Đại Tây Dương (NATO), cùng hàng loạt cuộc gặp song phương với các nguyên thủ như Thủ tướng Anh Boris Johnson, Tổng thống Thổ Nhĩ Kỳ Tayyip Erdogan…, chuyến đi là cơ hội để ông Joe Biden khẳng định lập trường của Mỹ trong việc cùng các đồng minh Châu Âu giải quyết nhiều vấn đề quan trọng.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/06/14/vovlive_cacvandequocte_cung_co_niem_tin_cua_moi_quan_he_dong_minh_xuyen_dai_tay_duong.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 14 Jun 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Nga rút khỏi Hiệp ước Bầu trời Mở trước cuộc gặp thượng đỉnh Nga - Mỹ</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -38,22 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2021/06/09/vovlive_cacvandequocte_ba_thap_ky_doi_thoai_asean_trung_quoc.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 09 Jun 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Bầu cử tổng thống Iran bước vào giai đoạn nước rút</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Cuối tuần qua đã diễn ra cuộc tranh luận nảy lửa giữa các ứng cử viên trước thềm cuộc bầu cử tổng thống Iran. Dư luận quốc tế rất quan tâm tới những chuyển động chính trị này tại Iran bởi nó có thể hé lộ những thay đổi tại quốc gia có tầm ảnh hưởng ở Trung Đông này, nhất là trong bối cảnh hồ sơ hạt nhân Iran vẫn chưa bao giờ hết nóng.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/06/07/vovlive_cacvandequocte_bau_cu_tong_thong_iran.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 07 Jun 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Nga xây dựng Chiến lược an ninh quốc gia mới ứng phó với các mối đe dọa an ninh đang thay đổi</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Chính quyền Liên bang Nga đang thảo luận Dự thảo Chiến lược an ninh quốc gia mới. Chiến lược này được sửa đổi 6 năm một lần, cập nhật những nội dung mới so với bản Chiến lược an ninh được ký năm 2015. Thư ký Hội đồng an ninh Liên bang Nga khẳng định, chiến lược an ninh quốc gia của nước này được đổi mới do bản chất của các mối đe dọa an ninh đã thay đổi đáng kể. Mặc dù chưa công bố hoàn chỉnh nhưng một số nội dung trong phiên bản chiến lược an ninh quốc gia mới của Nga được giới học giả quốc tế chú ý, trong đó có việc Nga có thể sử dụng các biện pháp mạnh mẽ để đáp trả các hành động không thân thiện của nước ngoài. Nội dung này phản ánh sự thay đổi đáng kể trong chiến lược của Nga.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/06/07/vovlive_cacvandequocte_nga_dung_chien_luoc_an_ninh_quoc_gia(1).mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 07 Jun 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
