@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 14 Jun 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 16 Jun 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 14 Jun 2021 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 16 Jun 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Triển vọng hâm nóng quan hệ đồng minh xuyên Đại Tây Dương</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Loạt sự kiện quốc tế được dư luận đặc biệt quan tâm là Hội nghị thượng đỉnh Tổ chức Hiệp ước Bắc Đại Tây Dương (NATO) diễn ra ngày 14/6 tại Brussels (Bỉ), tiếp ngay sau đó là Hội nghị thượng đỉnh Liên minh Châu Âu (EU) - Mỹ diễn ra ngày 15/6. Với sự tham gia lần đầu tiên của Tổng thống Mỹ, các đồng minh phương Tây trong khối NATO và Liên minh Châu Âu kỳ vọng, các hội nghị quan trọng lần này có thể giúp mở ra trang mới cho quan hệ hai bên sau một giai đoạn dài nhiều mâu thuẫn và căng thẳng.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/06/16/vovlive_cacvandequocte_trien_vong_ham_nong_quan_he_dong_minh_xuyen_dai_tay_duong.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 16 Jun 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Hội nghị thượng đỉnh G7 và sứ mệnh tái khẳng định vai trò nhóm các cường quốc hàng đầu thế giới</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -45,14 +53,6 @@
       <description><![CDATA[Ngày 7/6, Tổng thống Nga Vladimir Putin đã ký ban hành đạo luật rút khỏi Hiệp ước Bầu trời mở . Việc Nga rút khỏi Hiệp ước này trước cuộc gặp thượng đỉnh Nga - Mỹ thu hút sự quan tâm lớn của dư luận quốc tế. Cần nhìn nhận như thế nào về động thái này của Nga?]]></description>
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2021/06/09/vovlive_cacvandequocte_nga_rut_khoi_hiep_uoc_bau_troi_mo.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 09 Jun 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Ba thập kỷ đối thoại ASEAN-Trung Quốc và chiến lược cho tương lai</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Năm 2021 đánh dấu kỷ niệm 30 năm quan hệ đối thoại ASEAN - Trung Quốc. Hội nghị đặc biệt các Bộ trưởng Ngoại giao ASEAN-Trung Quốc và Hội nghị Bộ trưởng Ngoại giao Hợp tác Mekong - Lan Thương lần thứ sáu (MLC-6) diễn ra trong 2 ngày (7 và 8 tháng 6) là một trong những sự kiện trọng tâm của chuỗi hoạt động nhân dịp kỷ niệm này, dấu mốc lớn trên chặng đường dài nhiều thành tựu trong hợp tác song phương và cũng hứa hẹn điểm khởi đầu mới để phát triển hơn nữa quan hệ hai bên. Hội nghị được kỳ vọng là cơ hội để Trung Quốc và ASEAN thảo luận toàn diện về việc hợp tác cùng nhau vượt qua đại dịch, thúc đẩy phát triển kinh tế cũng như vạch ra những chiến lược cho mối quan hệ đôi bên trong tương lai.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/06/09/vovlive_cacvandequocte_ba_thap_ky_doi_thoai_asean_trung_quoc.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 09 Jun 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
