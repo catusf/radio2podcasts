@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 08 Jun 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 15 Jun 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 08 Jun 2021 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 15 Jun 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Những giọng ca còn mãi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Nhunggiongcaconmai.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Chị Hai quan họ Thanh Nhàn: Dành hết cảm xúc để truyền tải tình cảm qua lời ca, điệu nhạc</title>
+      <link>https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</link>
+      <description><![CDATA[Khán thính giả cả nước biết đến giọng hát NSƯT Thanh Nhàn qua làn sóng của Đài TNVN với hàng chục tiết mục cộng tác thu thanh cả lời mới và lời cổ. Với giọng hát vang, rền, nền, nảy, và đặt biệt là rất có hồn, các tiết mục do chị thể hiện đã thực sự chiếm được tình cảm yêu mến của khán thính giả và luôn nhận được thư yêu cầu nghe lại trên sóng phát thanh...]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/06/15/vovlive_nhung_giong_ca_con_mai_nsut_thanh_nhan.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 15 Jun 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>NSND Lê Tiến Thọ: người nghệ sĩ cháy hết mình với nghệ thuật Tuồng</title>
       <link>https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2021/05/12/vovlive_nhung_giong_ca_con_mai_nsut_quy_trang.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 12 May 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Cố NSƯT Lệ Thanh: Đằm thắm những làn điệu dân ca Nghệ Tĩnh</title>
-      <link>https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</link>
-      <description><![CDATA[Cố NSƯT Lệ Thanh-nguyên diễn viên đoàn Ca múa nhạc Quân Khu 4 đã nhiều lần vinh dự mang câu hát dân ca sang biểu diễn ở các nước bạn, được khán giả nước bạn và bà con Việt kiều đánh giá cao. Đến nay, dù bà đã đi xa nhưng giọng hát của bà vẫn ngân vang trên làn sóng của Đài TNVN và được nhiều khán, thính giả yêu mến...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/05/07/vovlive_nhung_giong_ca_con_mai_co_nsut_le_thanh_dan_ca_nghe_tinh.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 07 May 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
