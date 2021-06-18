@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 16 Jun 2021 02:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 17 Jun 2021 02:00:00 +0200</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 16 Jun 2021 02:00:00 +0200</pubDate>
+    <pubDate>Thu, 17 Jun 2021 02:00:00 +0200</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>60'</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Chuongtrinh60.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>2021617 CHƯƠNG TRÌNH 60 PHÚT</title>
+      <link>https://www.rfi.fr/vi/t%E1%BB%95ng-h%E1%BB%A3p/20210617-ch%C6%B0%C6%A1ng-tr%C3%ACnh-60-ph%C3%BAt</link>
+      <description><![CDATA[60']]></description>
+      <guid isPermaLink="false">https://www.rfi.fr/vi/t%E1%BB%95ng-h%E1%BB%A3p/20210617-ch%C6%B0%C6%A1ng-tr%C3%ACnh-60-ph%C3%BAt</guid>
+      <enclosure url="https://aod-rfi.akamaized.net/rfi/vietnamien/audio/modules/actu/202106/VN_60MN_2021_06_17.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 17 Jun 2021 02:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>2021616 CHƯƠNG TRÌNH 60 PHÚT</title>
       <link>https://www.rfi.fr/vi/t%E1%BB%95ng-h%E1%BB%A3p/20210616-ch%C6%B0%C6%A1ng-tr%C3%ACnh-60-ph%C3%BAt</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://www.rfi.fr/vi/t%E1%BB%95ng-h%E1%BB%A3p/20210613-ch%C6%B0%C6%A1ng-tr%C3%ACnh-60-ph%C3%BAt</guid>
       <enclosure url="https://aod-rfi.akamaized.net/rfi/vietnamien/audio/modules/actu/202106/VN_60MN_2021_06_13.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 13 Jun 2021 02:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>2021612 CHƯƠNG TRÌNH 60 PHÚT</title>
-      <link>https://www.rfi.fr/vi/t%E1%BB%95ng-h%E1%BB%A3p/20210612-ch%C6%B0%C6%A1ng-tr%C3%ACnh-60-ph%C3%BAt</link>
-      <description><![CDATA[60']]></description>
-      <guid isPermaLink="false">https://www.rfi.fr/vi/t%E1%BB%95ng-h%E1%BB%A3p/20210612-ch%C6%B0%C6%A1ng-tr%C3%ACnh-60-ph%C3%BAt</guid>
-      <enclosure url="https://aod-rfi.akamaized.net/rfi/vietnamien/audio/modules/actu/202106/VN_60MN_2021_06_12.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 12 Jun 2021 02:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
