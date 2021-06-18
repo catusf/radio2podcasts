@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 17 Jun 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 18 Jun 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 17 Jun 2021 19:00:00 +0700</pubDate>
+    <pubDate>Fri, 18 Jun 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Văn nghệ thiếu nhi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Vannghethieunhi.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Đọc truyện “Cuộc phiêu lưu kỳ diệu của Nils - Holgersson” - Buổi mười chín - Rời hòn đảo cừu 17/6/2021</title>
+      <title>Anh Mèo Mốc với đam mê sáng tác truyện tranh 18/6/2021</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/anh-meo-moc-voi-dam-me-sang-tac-truyen-tranh-c44-32625.aspx</link>
+      <description><![CDATA[Anh Đặng Quang Dũng- bút danh Mèo Mốc hẳn là cái tên khá quen thuộc với nhiều bạn yêu mến truyện tranh nước ta, qua các tập truyện như “Nhật ký Mèo Mốc”, “Tây du hí”. Mới đây anh cũng là một trong năm tác giả đoạt giải thưởng “Khát vọng Dế Mèn” trong khuôn khổ giải thưởng thiếu nhi Dế Mèn lần thứ 2 do Báo Thể thao & Văn hóa (thuộc Thông Tấn xã Việt Nam) tổ chức.  Niềm đam mê sáng tác truyện tranh đến với anh Mèo Mốc từ khi nào và tác phẩm đoạt giải “Khát vọng Dế Mèn” có gương mặt riêng ra sao?  (Văn nghệ thiếu nhi 09/06/2021)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/anh-meo-moc-voi-dam-me-sang-tac-truyen-tranh-c44-32625.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_6/v2_0906_10h4518h15_van_nghe_thieu_nhi_1_186202115.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 18 Jun 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Đọc truyện “Cuộc phiêu lưu kỳ diệu của Nils - Holgersson” - Buổi mười chín - Rời hòn đảo cừu  17/6/2021</title>
       <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-cuoc-phieu-luu-ky-dieu-cua-nils-holgersson-buoi-muoi-chin-roi-hon-da-c44-32621.aspx</link>
       <description><![CDATA[Cậu bé Nils cùng con ngỗng trắng đánh lừa ba con cáo rơi xuống hẻm Âm Phủ. Sau khi bão tan, cậu bé và đàn ngỗng chia tay những cư dân thân thiện của hòn đảo nhỏ để tiếp tục hành trình đến vùng đất mới, với những bất ngờ không thể lường trước... (Văn nghệ thiếu nhi 13/06/2021)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-cuoc-phieu-luu-ky-dieu-cua-nils-holgersson-buoi-muoi-chin-roi-hon-da-c44-32621.aspx</guid>
@@ -37,14 +45,6 @@
       <description><![CDATA[Đàn ngỗng được cư dân trên hòn đảo nhỏ thết đãi thức ăn. Ngỗng đầu đàn Aika quyết định ở lại trên đảo chờ bão tan rồi  mới bay tiếp. Cậu bé Nils nhận nhiệm vụ canh gác để đàn ngỗng nghỉ ngơi lấy lại sức cho chuyến đi mới. Trong lúc canh gác cho đàn ngỗng ngủ, Nils đã phát hiện điều bất thường gì? (Văn nghệ thiếu nhi 12/06/2021)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-cuoc-phieu-luu-ky-dieu-cua-nils-holgersson-buoi-muoi-tam-dan-cuu-hoa-c44-32620.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_6/v2_1206_10h4518h15_van_nghe_thieu_nhi_176202111.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 17 Jun 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đọc truyện “Cuộc phiêu lưu kỳ diệu của Nils - Holgersson” - Buổi mười bảy - Bí mật của đôi ngỗng  17/6/2021</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-cuoc-phieu-luu-ky-dieu-cua-nils-holgersson-buoi-muoi-bay-bi-mat-cua-c44-32619.aspx</link>
-      <description><![CDATA[Thi thoảng, ngỗng đực bí mật rời đàn đi chăm sóc cho một con ngỗng cái màu xám bị thương ở cánh. Mủi lòng trước tình cảnh đáng thương của ngỗng xám, Nils đã chữa lành vết thương ở cánh cho nó. Sáng sớm hôm sau, trời đẹp rất thuận lợi cho một chuyến bay xa nên ngỗng Aika ra lệnh cả đàn ngỗng lên đường. Con ngỗng đực trở Nils bay chậm chạp, miễn cưỡng theo đàn rồi đột ngột quay trở lại chỗ con ngỗng xám... (Văn nghệ thiếu nhi 11/06/2021)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-cuoc-phieu-luu-ky-dieu-cua-nils-holgersson-buoi-muoi-bay-bi-mat-cua-c44-32619.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_6/v2_1106_10h4518h15_van_nghe_thieu_nhi_176202111.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 17 Jun 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>

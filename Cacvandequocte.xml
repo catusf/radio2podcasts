@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 16 Jun 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 18 Jun 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 16 Jun 2021 19:00:00 +0700</pubDate>
+    <pubDate>Fri, 18 Jun 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Cuộc gặp thượng đỉnh Nga – Mỹ: Kiểm soát hay giải quyết bất đồng?</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Sự kiện ngoại giao được dư luận quốc tế chờ đợi là cuộc gặp thượng đỉnh giữa Tổng thống Mỹ Joe Biden và Tổng thống Nga Vladimia Putin đã diễn ra tại Thụy Sĩ vào tối 16.6 (theo giờ Việt Nam). Đây là cuộc gặp trực tiếp đầu tiên giữa hai nhà lãnh đạo này kể từ khi ông Biden nhậm chức Tổng thống Mỹ vào tháng 1 vừa qua. Mặc dù được kỳ vọng, cuộc gặp sẽ tạo ra một môi trường ổn định trong quan hệ song phương Nga-Mỹ thời gian tới, song có vẻ như kết quả vẫn là hai bên cùng thăm dò và cho nhau thấy rõ “lằn ranh đỏ” của mình đang nằm ở đâu.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/06/18/vovlive_cacvandequocte_cuoc_gap_thuong_dinh_nga_my(1).mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 18 Jun 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Triển vọng hâm nóng quan hệ đồng minh xuyên Đại Tây Dương</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2021/06/14/vovlive_cacvandequocte_cung_co_niem_tin_cua_moi_quan_he_dong_minh_xuyen_dai_tay_duong.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 14 Jun 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Nga rút khỏi Hiệp ước Bầu trời Mở trước cuộc gặp thượng đỉnh Nga - Mỹ</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Ngày 7/6, Tổng thống Nga Vladimir Putin đã ký ban hành đạo luật rút khỏi Hiệp ước Bầu trời mở . Việc Nga rút khỏi Hiệp ước này trước cuộc gặp thượng đỉnh Nga - Mỹ thu hút sự quan tâm lớn của dư luận quốc tế. Cần nhìn nhận như thế nào về động thái này của Nga?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/06/09/vovlive_cacvandequocte_nga_rut_khoi_hiep_uoc_bau_troi_mo.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 09 Jun 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
