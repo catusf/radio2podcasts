@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 14 Jun 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 18 Jun 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 14 Jun 2021 19:00:00 +0700</pubDate>
+    <pubDate>Fri, 18 Jun 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Cộng đồng người Việt tại Ấn Độ vượt bão "Covid-19"</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Ấn Độ vừa trải qua làn sóng lây nhiễm Covid-19 thứ hai với mức độ nghiêm trọng vượt ngoài mọi dự đoán. Đợt dịch đã khiến cuộc sống của cộng đồng người Việt Nam tại Ấn Độ gặp rất nhiều khó khăn, nhiều trường hợp mắc bệnh nặng, thậm chí phải điều trị dài ngày trong bệnh viện. Giữa “bão Covid-19”, cộng đồng người Việt với tinh thần tương thân tương ái, cộng với sự hỗ trợ cả về tinh thần và vật chất của người dân trong nước, đã cùng nhau vượt qua khó khăn và đến thời điểm này sức khỏe vẫn được đảm bảo an toàn.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/06/18/vovlive_sukienvabinhluan_cong_dong_nguoi_viet_tai_an_do.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 18 Jun 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Không thể cho mình quyền xúc phạm bất kỳ ai trên mạng xã hội</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -45,14 +53,6 @@
       <description><![CDATA[El Salvador vừa chính thức trở thành quốc gia đầu tiên trên thế giới chấp nhận Bitcoin là một trong những phương tiện thanh toán chính thức, sau khi quốc hội nước này chính thức thông qua luật công nhận tính hợp pháp của đồng tiền ảo vốn gây nhiều tranh cãi thời gian qua. Tổng thống El Salvador khẳng định đây là thời khắc lịch sử, thậm chí có thể trở thành “phát súng” mở màn cho việc hợp pháp hóa đồng tiền Bitcoin trên toàn cầu. Tuy nhiê,n theo giới quan sát, động thái của chính quyền El Salvador lại đang là con dao hai lưỡi đối với nền kinh tế nước này...]]></description>
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2021/06/14/vovlive_sukienvabinhluan_el-salvador_chap_nhan_-bitcoin.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 14 Jun 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Vụ 57 bộ hồ sơ vụ án khống ở Đăk Nông – khi con voi chui tọt lỗ kim</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Một câu chuyện hy hữu trong hoạt động tư pháp vừa được phát hiện tại Tòa án nhân dân (TAND) huyện Đắk Song, tỉnh Đắk Nông: Năm 2016, các cán bộ TAND huyện này đã tạo lập 57 hồ sơ vụ án dân sự không có đương sự, không có tranh chấp thực tế. Hay nói một cách khác, đó là những hồ sơ vụ án khống. Các vụ án sau đó đều có chung một kết quả là bị đình chỉ do có một đương sự rút đơn kiện. Sự việc các cán bộ Tòa án lập khống hồ sơ vụ án là vi phạm nghiêm trọng trong hoạt động tố tụng tư pháp. Cụ thể là vi phạm quy định của Bộ luật tố tụng dân sự. Vậy nhưng, những cán bộ có liên quan lại chỉ bị khiển trách. Đằng sau việc lập hồ sơ vụ án khống là gì? Lý do hoàn thành chỉ tiêu có thể được chấp nhận để kỷ luật bằng hình thức khiển trách hay không?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/06/14/vovlive_sukienvabanluan_vu_57_bo_ho_so_vu_khong.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 14 Jun 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
