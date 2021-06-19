@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 18 Jun 2021 17:38:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 19 Jun 2021 13:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 18 Jun 2021 17:38:00 +0700</pubDate>
+    <pubDate>Sat, 19 Jun 2021 13:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Sài Gòn buổi sáng - 19/6/2021</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-19-6-2021-405288.html</link>
+      <description><![CDATA[06:00 - 19/06/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-19-6-2021-405288.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/06/19/sgbs-190621.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 19 Jun 2021 13:00:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Sài Gòn buổi sáng - 18/6/2021</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-18-6-2021-405168.html</link>
       <description><![CDATA[10:38 - 18/06/2021]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-18-6-2021-405168.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/06/18/FMSGBS06h00p180621.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 18 Jun 2021 17:38:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Muôn đường lừa đảo, chiếm đoạt bất động sản - Sài Gòn buổi sáng 16/6/2021</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/muon-duong-lua-dao-chiem-doat-bat-dong-san-sai-gon-buoi-sang-16-6-2021-405118.html</link>
-      <description><![CDATA[15:20 - 17/06/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/muon-duong-lua-dao-chiem-doat-bat-dong-san-sai-gon-buoi-sang-16-6-2021-405118.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/06/17/FMSGBS06h00p160621-Copy.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 17 Jun 2021 22:20:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
