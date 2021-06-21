@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 14 Jun 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 21 Jun 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 14 Jun 2021 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 21 Jun 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,17 @@
     </itunes:owner>
     <itunes:subtitle>Thể thao 7 ngày</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Thethao7ngay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Chương trình Thể thao 7 ngày 20/6/2021</title>
+      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
+      <description><![CDATA[+ Điểm qua các sự kiện thể thao nổi bật tuần qua
++ Dấu mốc lịch sử của đội tuyển bóng đá quốc gia Việt Nam khi lần đầu tiên lọt vào vòng loại cuối cùng của World Cup và giành vé trực tiếp tham dự VCK Asian Cup.
++ Thông tin liên quan đến vòng đấu tiếp theo của ĐTQG Việt Nam dự kiến diễn ra vào tháng 9 tới.
++ Ghi nhận về sự phát triển của bộ môn khiêu vũ thể thao tại Hà Nội]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/06/21/vovlive_thethao-7-ngay_2006.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 21 Jun 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Chương trình Thể thao 7 ngày 13/6/2021</title>
       <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
@@ -53,17 +64,6 @@
       <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2021/06/02/vovlive_thethao-7-ngay_3005.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 02 Jun 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chương trình Thể thao 7 ngày 22/5/2021</title>
-      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
-      <description><![CDATA[+ Điểm các sự kiện thể thao trong nước và quốc tế nổi bật tuần qua.
-+ Điểm nhấn thể thao: Sự chuẩn bị của đội tuyển Futsal Việt Nam trước thềm 2 trận đấu play-off tranh vé dự World Cup Futsall.
-+ Thể thao và cuộc sống: Niềm vui của các CĐV Anh khi được trực tiếp cổ vũ sau hơn 400 ngày không được tới sân.
-+ Kiến thức thể thao: Cuộc chiến chưa kết thúc xoay quanh việc tổ chức Olympic Tokyo trong mùa Hè này.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/05/25/vovlive_podcast_the-thao-7-ngay_2205.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 25 May 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
