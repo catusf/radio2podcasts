@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 22 Jun 2021 00:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 22 Jun 2021 15:14:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 22 Jun 2021 00:00:00 +0700</pubDate>
+    <pubDate>Tue, 22 Jun 2021 15:14:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Quỹ vaccine phòng COVID-19: Triệu tấm lòng, một niềm tin - Thời sự 5g30 22/6/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/quy-vaccine-phong-covid-19-trieu-tam-long-mot-niem-tin-thoi-su-5g30-22-6-2021-405475.html</link>
+      <description><![CDATA[08:14 - 22/06/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/quy-vaccine-phong-covid-19-trieu-tam-long-mot-niem-tin-thoi-su-5g30-22-6-2021-405475.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/06/22/AMThoisu05h30p220621.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 22 Jun 2021 15:14:00 +0700</pubDate>
+    </item>
     <item>
       <title>Đội phản ứng nhanh của Chợ Rẫy lên đường đến BV Điều trị Covid-19 Củ Chi - Thời sự 17g00 21/06/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/doi-phan-ung-nhanh-cua-cho-ray-len-duong-den-bv-dieu-tri-covid-19-cu-chi-thoi-su-17g00-21-06-2021-405451.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/van-chuyen-doan-tau-so-4-metro-so-1-ve-depot-long-binh-thoi-su-11g00-21-06-2021-405429.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/06/21/AMThoisu11h00p210621.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 21 Jun 2021 18:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Thành lập Trung tâm nghiên cứu, ứng dụng dữ liệu dân cư và CCCD - Thời sự 5g30 21/06/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/thanh-lap-trung-tam-nghien-cuu-ung-dung-du-lieu-dan-cu-va-cccd-thoi-su-5g30-21-06-2021-405399.html</link>
-      <description><![CDATA[05:30 - 21/06/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/thanh-lap-trung-tam-nghien-cuu-ung-dung-du-lieu-dan-cu-va-cccd-thoi-su-5g30-21-06-2021-405399.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/06/21/AMThoisu05h30p210621.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 21 Jun 2021 12:30:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
