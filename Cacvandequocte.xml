@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 23 Jun 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 24 Jun 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 23 Jun 2021 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 24 Jun 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Tổng thống Afghanistan thăm Mỹ - khẳng định mối quan hệ đối tác bền vững</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Tổng thống Afghanistan sẽ có chuyến thăm Mỹ vào cuối tuần này. Theo người phát ngôn Nhà Trắng Jen Psaki, chuyến thăm nhằm khẳng định mối quan hệ đối tác bền vững giữa Mỹ và Afghanistan vào thời điểm quan trọng đối với tương lai của nước này sau khi Mỹ rút quân. Cũng theo người phát ngôn Nhà Trắng, chính phủ Mỹ cam kết hỗ trợ người dân Afghanistan và tiếp tục gắn bó sâu sắc với Kabul để đảm bảo "đất nước này không bao giờ trở thành nơi trú ẩn an toàn cho các nhóm khủng bố gây ra mối đe dọa cho Mỹ". Dự kiến, trong chuyến thăm tới Mỹ lần này, Tổng thống Mỹ Joe Biden và Tổng thống Afghanistan Ashraf Ghani sẽ có cuộc gặp đầu tiên tại Nhà Trắng.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/06/24/vovlive_cacvandequocte_tong_thong_afganistan_tham_my.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 24 Jun 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Nước Anh bắt đầu tiến trình đàm phán gia nhập Hiệp định Đối tác Toàn diện và Tiến bộ xuyên Thái Bình Dương (CPTPP)</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -45,14 +53,6 @@
       <description><![CDATA[Cùng với những điểm nóng về Triều Tiên, quan hệ Mỹ - Trung và biến chủng mới của đại dịch Covid-19, dư luận quốc tế đang đặc biệt quan tâm đến kết quả cuộc bầu cử Tổng thống Iran. Chương trình hôm nay sẽ phân tích về tình hình chính trường Iran và tác động đối với khu vực khi Iran có Tổng thống mới.]]></description>
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2021/06/21/vovlive_cacvandequocte_iran_co_tong_thong_moi.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 21 Jun 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Cuộc bầu cử bước ngoặt với chiến lược phát triển của Iran</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Ngày 18.6, Iran tiến hành cuộc bầu cử Tổng thống chọn người kế nhiệm ông Hassan Rouhani. Trong bối cảnh chính trường Iran có sự phân chia rõ nét giữa hai luồng tư tưởng bảo thủ và ôn hòa, cuộc bầu cử này nhiều khả năng sẽ tạo nên bước ngoặt trong chiến lược phát triển của Iran sau nhiệm kỳ 8 năm cầm quyền của ông Hassan Rouhani khi các ứng cử viên theo đường lối bảo thủ được đánh giá là mạnh hơn hẳn các ứng cử viên theo đường lối ôn hòa. Cuộc bầu cử Tổng thống tại Iran được đặc biệt quan tâm bởi không chỉ quyết định tương lai phát triển của Iran, mà còn ảnh hưởng tới quá trình đàm phán nhằm khôi phục thỏa thuận hạt nhân giữa Iran và nhóm P5+1. Nhiều người lo ngại nếu Iran có một Tổng thống mới theo đường lối bảo thủ, các vòng đàm phán để khôi phục thỏa thuận này sẽ chông gai hơn rất nhiều.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/06/21/vovlive_cacvandequocte_cuoc_bau_cu_buoc_ngoat_voi_chien_luoc_phat_trien_cua_iran(2).mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 21 Jun 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
