@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 17 Jun 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 24 Jun 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 17 Jun 2021 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 24 Jun 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Tìm trong kho báu</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Timtrongkhobau.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Cách nhìn của nhà thơ Tú Xương về Quốc ngữ và trí thức Tây học17/6/2021</title>
+      <title>Thơ Nôm tự trào của ông Tú Thành Nam24/6/2021</title>
+      <link>http://vov6.vov.vn/tim-trong-kho-bau/tho-nom-tu-trao-cua-ong-tu-thanh-nam-c54-32637.aspx</link>
+      <description><![CDATA[Cùng với các nhà nho, các tiền bối đi trước như cụ Nguyễn Công Trứ hay cụ Nguyễn Khuyến, nhà thơ Tú Xương cũng có những trang thơ Quốc âm viết về bản thân mình. Chỉ có điều, thơ tự thuật của Tú Xương mang hơi hướng trào phúng rất đậm đặc. Cụ Tú Thành Nam dùng những hình ảnh rất đắt để vẽ nên bức chân dung tự họa bằng thơ hết sức ấn tượng. Buổi “Tìm trong kho báu” hôm nay đi sâu phân tích những hí họa ngôn từ đặc sắc ấy.]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/tho-nom-tu-trao-cua-ong-tu-thanh-nam-c54-32637.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_6/v2_24_2806_08h00_tim_trong_kho_bau_pl_18h30_246202110.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 24 Jun 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Cách nhìn của nhà thơ Tú Xương về Quốc ngữ và trí thức Tây học 17/6/2021</title>
       <link>http://vov6.vov.vn/tim-trong-kho-bau/cach-nhin-cua-nha-tho-tu-xuong-ve-quoc-ngu-va-tri-thuc-tay-hoc-c54-32618.aspx</link>
       <description><![CDATA[Sinh ra nhằm buổi giao thời, nền Tây học lên ngôi, Nho học tàn lụi, là một người thiết tha với các giá trị văn hóa truyền thống, nhà thơ Tú Xương không khỏi ngậm ngùi. Buổi “Tìm trong kho báu” hôm nay, chúng ta cùng đi sâu vào tâm thế, cảm xúc của ông Tú Thành Nam trong những vần thơ thể hiện cái nhìn không mấy thiện cảm vào chữ Quốc ngữ. Qua những thi liệu dân gian được nhà thơ Tú Xương sử dụng trong sáng tác Quốc âm, một lần nữa càng cho thấy tấm lòng của ông với bản sắc dân tộc.]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/cach-nhin-cua-nha-tho-tu-xuong-ve-quoc-ngu-va-tri-thuc-tay-hoc-c54-32618.aspx</guid>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/thuc-te-khoa-cu-buoi-giao-thoi-trong-tho-tu-xuong-c54-32603.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_6/v2_10_1406_08h00_tim_trong_kho_bau_pl_18h30_106202115.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 10 Jun 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Giọng cười trong tiếng thơ Tú Xương 3/6/2021</title>
-      <link>http://vov6.vov.vn/tim-trong-kho-bau/giong-cuoi-trong-tieng-tho-tu-xuong-c54-32589.aspx</link>
-      <description><![CDATA[Với những cống hiến cho dòng thơ Nôm của dân tộc, thơ Tú Xương đi sâu vào đời sống, được dân gian ưa chuộng đã đành, từ đầu thế kỷ 20 đã được giới trí thức tinh hoa tìm đọc và biểu dương. Đọc thơ Tú Xương, nhà thơ Xuân Diệu có lời bình :“Ông Nghè, ông Thám vô mây khói/ Đứng lại văn chương một Tú tài”. Trong Tiểu luận “Thời và thơ Tú Xương”, nhà văn Nguyễn Tuân xưng tụng “Tú Xương, một người thơ, một nhà thơ vốn có nhiều công đức trong trường kỳ xây dựng lâu đài ngôn ngữ Việt Nam”...]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/giong-cuoi-trong-tieng-tho-tu-xuong-c54-32589.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_6/v2_0306_08h00_tim_trong_kho_bau_pl_18h30_36202111.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 03 Jun 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
