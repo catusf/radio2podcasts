@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 25 Jun 2021 00:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 25 Jun 2021 13:19:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 25 Jun 2021 00:00:00 +0700</pubDate>
+    <pubDate>Fri, 25 Jun 2021 13:19:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>“TPHCM đã kiện toàn các chức danh lãnh đạo HĐND và UBND” - Thời sự 5g30 25/6/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-da-kien-toan-cac-chuc-danh-lanh-dao-hdnd-va-ubnd-thoi-su-5g30-25-6-2021-405726.html</link>
+      <description><![CDATA[06:19 - 25/06/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-da-kien-toan-cac-chuc-danh-lanh-dao-hdnd-va-ubnd-thoi-su-5g30-25-6-2021-405726.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/06/25/AMThoisu05h30p250621.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 25 Jun 2021 13:19:00 +0700</pubDate>
+    </item>
     <item>
       <title>TPHCM bổ sung thêm 240 đội tiêm vaccine Covid-19 - Thời sự 17g00 24/06/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-bo-sung-them-240-doi-tiem-vaccine-covid-19-thoi-su-17g00-24-06-2021-405701.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-tang-tong-so-giuong-dieu-tri-benh-nhan-covid-19-len-5-000-giuong-thoi-su-11g00-24-06-2021-405665.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/06/24/AMThoisu11h00p240621.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 24 Jun 2021 18:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>TPHCM thành lập tổ công tác mua và sử dụng vaccine Covid-19 - Thời sự 5g30 24/06/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-thanh-lap-to-cong-tac-mua-va-su-dung-vaccine-covid-19-thoi-su-5g30-24-06-2021-405646.html</link>
-      <description><![CDATA[05:30 - 24/06/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-thanh-lap-to-cong-tac-mua-va-su-dung-vaccine-covid-19-thoi-su-5g30-24-06-2021-405646.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/06/24/AMThoisu05h30p240621A.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 24 Jun 2021 12:30:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
