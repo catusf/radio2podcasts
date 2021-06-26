@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 01 May 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 26 Jun 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 01 May 2021 19:00:00 +0700</pubDate>
+    <pubDate>Sat, 26 Jun 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Điểm hẹn văn nghệ</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Diemhenvannghe.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>“Nước như nước mắt”: Ám ảnh thân phận người phụ nữ miền sông nước  1/5/2021</title>
+      <title>Phim “Trạng Tý”: Cuộc phiêu lưu từ trang truyện đến màn ảnh 26/6/2021</title>
+      <link>http://vov6.vov.vn/diem-hen-van-nghe/phim-trang-ty-cuoc-phieu-luu-tu-trang-truyen-den-man-anh-c158-32640.aspx</link>
+      <description><![CDATA[Với chi phí sản xuất khoảng 43 tỉ đồng, bộ phim của nhà sản xuất Ngô Thanh Vân, do Phan Gia Nhật Linh đạo diễn được đầu tư kỹ xảo, kể về hành trình của cậu bé Tý Sún mồ côi cha cùng ba người bạn thân là Sửu Ẹo, Dần Béo và Cả Mẹo bỏ nhà đi tìm lời giải đáp bí ẩn về cha của Tý. (Điểm hẹn văn nghệ 08/5/2021)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/phim-trang-ty-cuoc-phieu-luu-tu-trang-truyen-den-man-anh-c158-32640.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_6/v2_0805_08h0018h30_diem_hen_van_nghe_266202123.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 26 Jun 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>“Nước như nước mắt”: Ám ảnh thân phận người phụ nữ miền sông nước   1/5/2021</title>
       <link>http://vov6.vov.vn/diem-hen-van-nghe/nuoc-nhu-nuoc-mat-am-anh-than-phan-nguoi-phu-nu-mien-song-nuoc-c158-32521.aspx</link>
       <description><![CDATA[“Cả hai không xếp hành lý, thậm chí không lấy ghe, cứ ào xuống nước bơi về phía bờ mà ai cũng biết là đã không còn bờ từ nước đuổi. Sau lưng, bè rau càng lúc càng rực rỡ. Ngọn đèn chong Sáo kê sát vách mùng giờ chắc đã bén lửa lan vào tận những đụn rơm phía ngoài. Người đàn ông bơi cạnh Sáo không một lần ngoái lại. Sáng hôm qua khi tiễn con gái nhỏ trở vô trong chợ, anh ta đã xiết nó đến nỗi nó kêu đau. Như không có lần sau. Giây phút đó Sáo nhận ra thứ anh ta quý nhất, đến nỗi sẵn sàng từ bỏ tất cả để có được. Là Sáo.” (Truyện ngắn “Nước như nước mắt” của nhà văn Nguyễn Ngọc Tư) (Điểm hẹn văn nghệ 17/4/2021)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/nuoc-nhu-nuoc-mat-am-anh-than-phan-nguoi-phu-nu-mien-song-nuoc-c158-32521.aspx</guid>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/tuong-ve-huu-truyen-ngan-dac-sac-cua-nha-van-nguyen-huy-thiep-c158-32480.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/v2_0304_08h0018h30_diem_hen_van_nghe_114202114.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 11 Apr 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Phim “Bố già”: Doanh thu 400 tỷ đồng sau 1 tháng chiếu rạp  7/4/2021</title>
-      <link>http://vov6.vov.vn/diem-hen-van-nghe/phim-bo-gia-doanh-thu-400-ty-dong-sau-1-thang-chieu-rap-c158-32465.aspx</link>
-      <description><![CDATA[Được nâng cấp từ phiên bản web-drama, bộ phim của đồng đạo diễn Trấn Thành và Vũ Ngọc Đãng khai thác câu chuyện rất "đời" về tình cảm cha con, tạo nên nhiều cung bậc cảm xúc với khán giả. (Điểm hẹn văn nghệ 27/3/2021)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/phim-bo-gia-doanh-thu-400-ty-dong-sau-1-thang-chieu-rap-c158-32465.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_4/dhvn_27-3_74202111.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 07 Apr 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
