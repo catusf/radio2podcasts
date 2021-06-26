@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 26 Jun 2021 20:28:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 27 Jun 2021 01:16:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 26 Jun 2021 20:28:00 +0700</pubDate>
+    <pubDate>Sun, 27 Jun 2021 01:16:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Vàng tăng giảm đan xen, chứng khoán lập đỉnh mới - Thời sự 17g00 26/6/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/vang-tang-giam-dan-xen-chung-khoan-lap-dinh-moi-thoi-su-17g00-26-6-2021-405860.html</link>
+      <description><![CDATA[18:16 - 26/06/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/vang-tang-giam-dan-xen-chung-khoan-lap-dinh-moi-thoi-su-17g00-26-6-2021-405860.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/06/26/AMThoisu17h00p260621ss.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 27 Jun 2021 01:16:00 +0700</pubDate>
+    </item>
     <item>
       <title>Sự hài lòng của doanh nghiệp là thước đo hiệu quả cải cách hành chính - Thời sự 5g30 26/6/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/su-hai-long-cua-doanh-nghiep-la-thuoc-do-hieu-qua-cai-cach-hanh-chinh-thoi-su-5g30-26-6-2021-405842.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/dau-tranh-chong-toi-pham-ma-tuy-cuoc-chien-khong-ngung-nghi-thoi-su-11g00-26-6-2021-405841.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/06/26/AMThoisu11h00p260621ss.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 26 Jun 2021 20:02:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>“Cùng đồng lòng, chung sức dẩy lùi dịch Covid-19” - Thời sự 17g00 25/6/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/cung-dong-long-chung-suc-day-lui-dich-covid-19-thoi-su-17g00-25-6-2021-405790.html</link>
-      <description><![CDATA[18:36 - 25/06/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/cung-dong-long-chung-suc-day-lui-dich-covid-19-thoi-su-17g00-25-6-2021-405790.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/06/25/AMThoisu17h00p250621.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 26 Jun 2021 01:36:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
