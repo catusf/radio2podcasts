@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 27 Jun 2021 01:16:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 27 Jun 2021 12:30:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 27 Jun 2021 01:16:00 +0700</pubDate>
+    <pubDate>Sun, 27 Jun 2021 12:30:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>TPHCM quyết tâm đẩy mạnh cải cách hành chính (Bài 2) - Thời sự 05g30 27/6/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-quyet-tam-day-manh-cai-cach-hanh-chinh-bai-2-thoi-su-05g30-27-6-2021-405892.html</link>
+      <description><![CDATA[05:30 - 27/06/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-quyet-tam-day-manh-cai-cach-hanh-chinh-bai-2-thoi-su-05g30-27-6-2021-405892.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/06/27/ts05g30-270621.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 27 Jun 2021 12:30:00 +0700</pubDate>
+    </item>
     <item>
       <title>Vàng tăng giảm đan xen, chứng khoán lập đỉnh mới - Thời sự 17g00 26/6/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/vang-tang-giam-dan-xen-chung-khoan-lap-dinh-moi-thoi-su-17g00-26-6-2021-405860.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/su-hai-long-cua-doanh-nghiep-la-thuoc-do-hieu-qua-cai-cach-hanh-chinh-thoi-su-5g30-26-6-2021-405842.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/06/26/AMThoisu05h30p260621ss.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 26 Jun 2021 20:28:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đấu tranh chống tội phạm ma túy – Cuộc chiến không ngừng nghỉ - Thời sự 11g00 26/6/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/dau-tranh-chong-toi-pham-ma-tuy-cuoc-chien-khong-ngung-nghi-thoi-su-11g00-26-6-2021-405841.html</link>
-      <description><![CDATA[13:02 - 26/06/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/dau-tranh-chong-toi-pham-ma-tuy-cuoc-chien-khong-ngung-nghi-thoi-su-11g00-26-6-2021-405841.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/06/26/AMThoisu11h00p260621ss.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 26 Jun 2021 20:02:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
