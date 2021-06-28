@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 28 Jun 2021 18:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 29 Jun 2021 00:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 28 Jun 2021 18:00:00 +0700</pubDate>
+    <pubDate>Tue, 29 Jun 2021 00:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Nhập gạo Ấn Độ tăng đột biến, hoả tốc lập đoàn kiểm tra 5 doanh nghiệp - Thời sự 17g00 28/6/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/nhap-gao-an-do-tang-dot-bien-hoa-toc-lap-doan-kiem-tra-5-doanh-nghiep-thoi-su-17g00-28-6-2021-405996.html</link>
+      <description><![CDATA[17:00 - 28/06/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/nhap-gao-an-do-tang-dot-bien-hoa-toc-lap-doan-kiem-tra-5-doanh-nghiep-thoi-su-17g00-28-6-2021-405996.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/06/28/ts17-280621.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 29 Jun 2021 00:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Làm thế nào để “Gia đình bình an, xã hội hạnh phúc” giữa đại dịch Covid-19 - Thời sự 11g00 28/6/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/lam-the-nao-de-gia-dinh-binh-an-xa-hoi-hanh-phuc-giua-dai-dich-covid-19-thoi-su-11g00-28-6-2021-405995.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/ngay-28-6-ngay-ton-vinh-nhung-gia-tri-gia-dinh-thoi-su-05g30-28-6-2021-405955.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/06/28/ts05g30-280621.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 28 Jun 2021 12:30:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Giúp người lao động kịp thời nhận được hỗ trợ - Thời sự 11g00 27/6/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/giup-nguoi-lao-dong-kip-thoi-nhan-duoc-ho-tro-thoi-su-11g00-27-6-2021-405914.html</link>
-      <description><![CDATA[11:00 - 27/06/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/giup-nguoi-lao-dong-kip-thoi-nhan-duoc-ho-tro-thoi-su-11g00-27-6-2021-405914.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/06/27/ts11-270621.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 27 Jun 2021 18:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
