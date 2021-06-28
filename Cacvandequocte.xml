@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 24 Jun 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 28 Jun 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 24 Jun 2021 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 28 Jun 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,22 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Hội nghị Bộ trưởng Ngoại giao G20 và những kỳ vọng thúc đẩy kinh tế toàn cầu</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Dự kiến, ngày 28.6 , Hội nghị Ngoại trưởng Nhóm các nền kinh tế phát triển và mới nổi hàng đầu thế giới (G20) sẽ diễn ra ở thành phố Matera (Italia). Đây là sự kiện được dư luận quốc tế rất quan tâm bởi G20 vốn được xem là động lực cho tăng trưởng kinh tế toàn cầu. Trong bối cảnh các nước đang tìm cách nhanh chóng phục hồi nền kinh tế sau những khó khăn do đại dịch Covid-19 gây ra, thế giới lại càng kỳ vọng nhiều hơn vào vai trò của G20. Vậy G20 có thể mang lại những gì cho nền kinh tế toàn cầu?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/06/28/vovlive_cacvandequocte_hoi_nghi_bo_truong_ngoai_giao_g20.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 28 Jun 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Châu Âu tính toán “cài đặt lại” quan hệ với Nga</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Sau cuộc gặp giữa Tổng thống Mỹ Joe Biden và người đồng cấp Nga Vladimir Putin, Tổng thống Pháp Emmanuel Macron và Thủ tướng Đức Angela Merkel đã đề xuất tổ chức hội nghị thượng đỉnh Liên minh Châu Âu – Nga để “cài đặt lại” mối quan hệ với Nga, trong đó đưa ra thông điệp trực tiếp của Châu Âu về các bước đi của Nga trong khi vẫn để ngỏ cánh cửa thỏa hiệp và hợp tác. Liên minh Châu Âu và Nga chưa tổ chức hội nghị thượng đỉnh nào kể từ sau vụ việc Nga sáp nhập bán đảo Crưm. Vì vậy, ý tưởng của Đức và Pháp được cho là chịu ảnh hưởng khá lớn từ quan điểm của Mỹ trong việc quản lý mối quan hệ với Nga một cách ổn định, nhất là khi nước Mỹ dưới thời của Tổng thống Joe Biden khẳng định sẽ tăng cường tham vấn và phối hợp hành động với các đồng minh Châu Âu trong các vấn đề quốc tế.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/06/28/vovlive_cacvandequocte_chau_au_tinh_toan_cai_dat_lai_quan_he_voi_nga.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 28 Jun 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Tổng thống Afghanistan thăm Mỹ - khẳng định mối quan hệ đối tác bền vững</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -38,22 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2021/06/23/vovlive_cacvandequocte_nuoc_anh_bat_dau_tien_trinh_dam_phan.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 23 Jun 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Triển vọng khởi động lại đàm phán Mỹ - Triều</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Mỹ sẵn sàng gặp phía Triều Tiên bất cứ lúc nào mà không cần điều kiện kèm theo. Đây là khẳng định của Đặc phái viên Mỹ về vấn đề hạt nhân Triều Tiên, ông Sung Kim trong cuộc gặp 3 bên với người đồng cấp Hàn Quốc và Nhật Bản tại thủ đô Seoul (Hàn Quốc). Đây là cuộc gặp trực tiếp đầu tiên giữa các đặc phái viên của Mỹ, Hàn Quốc và Nhật Bản về vấn đề hạt nhân Triều Tiên kể từ khi ông Sung Kim đảm nhận chức vụ này từ tháng 5. Cuộc gặp diễn ra trong bối cảnh Hội nghị lần thứ 3 của Ban chấp hành trung ương Đảng Lao động Triều Tiên khóa 8 kết thúc vào tuần trước, trong đó bàn thảo đối sách chiến thuật và chiến lược phủ hợp cũng như đường hướng hành động cần được duy trì trong quan hệ với Mỹ trong tương lai. Vậy triển vọng khởi động lại đàm phán Mỹ - Triều Tiên ở thời điểm này được nhận định như thế nào?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/06/23/vovlive_cacvandequocte_trien_vong_khoi_dong_lai_dam_phan_my_trieu(1).mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 23 Jun 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Iran có Tổng thống mới theo đường lối bảo thủ - Những dự báo mới về tình hình khu vực</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Cùng với những điểm nóng về Triều Tiên, quan hệ Mỹ - Trung và biến chủng mới của đại dịch Covid-19, dư luận quốc tế đang đặc biệt quan tâm đến kết quả cuộc bầu cử Tổng thống Iran. Chương trình hôm nay sẽ phân tích về tình hình chính trường Iran và tác động đối với khu vực khi Iran có Tổng thống mới.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/06/21/vovlive_cacvandequocte_iran_co_tong_thong_moi.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 21 Jun 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
