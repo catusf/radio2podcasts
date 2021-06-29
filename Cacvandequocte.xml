@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 28 Jun 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 29 Jun 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 28 Jun 2021 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 29 Jun 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Căng thẳng Anh – Nga sẽ đi xa tới đâu?</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Căng thẳng giữa Nga và Anh liên quan đến vụ việc tàu hải quân Anh đi qua vùng biển tranh chấp gần Crưm chưa có dấu hiệu hạ nhiệt khi Nga tiến hành tập trận rầm rộ ở phía đông Địa Trung Hải, đúng lúc một nhóm tàu sân bay tác chiến của Anh cũng hiện diện tại khu vực. Giới phân tích cho rằng, cả hai đều muốn gửi đi những thông điệp cứng rắn đằng sau các động thái này. Điều dư luận quan tâm hiện nay là cuộc đối đầu Anh – Nga sẽ bị đẩy xa tới đâu, nhất là khi Nga luôn thể hiện quan điểm không nhượng bộ trong những vấn đề liên quan đến Crưm, còn phía Châu Âu cũng chưa từng gây được sức ép đủ lớn với Nga, chưa nói đến một mình nước Anh. Đây cũng là lý do khiến ý tưởng tổ chức Hội nghị thượng đỉnh Liên minh Châu Âu – Nga của Đức và Pháp đã bị bác bỏ.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/06/29/vovlive_cacvandequocte_cang_thang_anh_nga_se_di_xa_toi_dau.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 29 Jun 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Hội nghị Bộ trưởng Ngoại giao G20 và những kỳ vọng thúc đẩy kinh tế toàn cầu</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2021/06/24/vovlive_cacvandequocte_tong_thong_afganistan_tham_my.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 24 Jun 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Nước Anh bắt đầu tiến trình đàm phán gia nhập Hiệp định Đối tác Toàn diện và Tiến bộ xuyên Thái Bình Dương (CPTPP)</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Nộp đơn xin gia nhập Hiệp định Đối tác Toàn diện và Tiến bộ xuyên Thái Bình Dương (gọi tắt là CPTPP) từ tháng 2 năm nay, mới đây, nước Anh đã chính thức bắt đầu tiến trình đàm phán sau khi 11 nước thành viên của Hiệp định nhất trí xem xét lá đơn của nước này. Đây được đánh giá là một bước đi chiến lược của Anh như một phần trong kế hoạch từng bước xoay trục khỏi khu vực Châu Âu giai đoạn “hậu Brexit”. Động thái này càng có ý nghĩa trong bối cảnh hôm nay, ngày 23/6 đánh dấu tròn 5 năm ngày mà người dân Anh bỏ phiếu rời khỏi Liên minh Châu Âu.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/06/23/vovlive_cacvandequocte_nuoc_anh_bat_dau_tien_trinh_dam_phan.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 23 Jun 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
