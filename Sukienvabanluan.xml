@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 28 Jun 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 29 Jun 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 28 Jun 2021 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 29 Jun 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Du lịch vaccine: có là “đòn bẩy” kích thích ngành du lịch?</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Thế giới đang chứng kiến sự nở rộ của các loại hình tour “du lịch tiêm vaccine Covid-19”. Vài tháng trước, mô hình này xuất hiện tại một số bang của nước Mỹ. Những tưởng điều đó chỉ có thể diễn ra một số cường quốc, vốn tự chủ sản xuất vaccine, nhưng hiện nay các quốc gia từ Vùng Vịnh cho đến Đông Nam Á cũng bắt đầu theo đuổi chương trình du lịch vaccine. Mô hình này liệu có thực sự kích thích ngành công nghiệp không khói phát triển trở lại? Những thách thức để thực hiện du lịch vaccine là gì?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/06/29/vovlive_sukienvabinhluan_du_lich_-vaccine_co_la_don_bay_kich_thich_nganh_du_lich-.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 29 Jun 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Tranh cãi kế hoạch của UNESCO về rạn san hô Great Barrier của Australia</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2021/06/24/vovlive_sukienvabinhluan_vi_sao_cac_vu_tan_cong_mang_dang_lan_rong_khap_nuoc_my.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 24 Jun 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Bước tiến quan trọng của Trung Quốc trong hành trình chinh phục không gian</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Trung Quốc vừa phóng thành công tàu Thần Châu 12 đưa người lên khoang lõi Thiên Hòa, bắt đầu nhiệm vụ xây dựng trạm vũ trụ Thiên Cung của nước này. Sứ mệnh đưa người lên trạm vũ trụ lần này đã nối lại chương trình không gian có phi hành đoàn của Trung Quốc sau 5 năm gián đoạn, hướng tới mục tiêu mang tính chiến lược là đưa Trung Quốc trở thành quốc gia duy nhất sở hữu trạm vũ trụ ngoài không gian sau khi Trạm vũ trụ quốc tế (ISS) hết thời gian hoạt động vào năm 2025.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/06/23/vovlive_sukienvabinhluan_buoc_tien-quan_trong_cua_trung_quoc_trong_hanh_trinh_chinh_phuc_khong_gian.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 23 Jun 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
