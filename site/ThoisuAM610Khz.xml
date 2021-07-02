@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 02 Jul 2021 00:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 02 Jul 2021 20:41:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 02 Jul 2021 00:00:00 +0700</pubDate>
+    <pubDate>Fri, 02 Jul 2021 20:41:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,28 +24,28 @@
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Kỷ niệm 45 năm TP Sài Gòn–Gia Định chính thức mang tên Chủ tịch Hồ Chí Minh-Thời sự 11g 2/7/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/ky-niem-45-nam-tp-sai-gon-gia-dinh-chinh-thuc-mang-ten-chu-tich-ho-chi-minh-thoi-su-11g-2-7-2021-406340.html</link>
+      <description><![CDATA[13:41 - 02/07/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/ky-niem-45-nam-tp-sai-gon-gia-dinh-chinh-thuc-mang-ten-chu-tich-ho-chi-minh-thoi-su-11g-2-7-2021-406340.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/07/02/AMThoisu11h00p020721.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 02 Jul 2021 20:41:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Bài 1 “Thành phố trong lòng thành phố: từ góc nhìn khoa học” - Thời sự 5g30 2/7/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/bai-1-thanh-pho-trong-long-thanh-pho-tu-goc-nhin-khoa-hoc-thoi-su-5g30-2-7-2021-406339.html</link>
+      <description><![CDATA[13:41 - 02/07/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/bai-1-thanh-pho-trong-long-thanh-pho-tu-goc-nhin-khoa-hoc-thoi-su-5g30-2-7-2021-406339.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/07/02/AMThoisu05h30p020721.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 02 Jul 2021 20:41:00 +0700</pubDate>
+    </item>
+    <item>
       <title>TPHCM sẽ tổ chức 2 đợt thi tốt nghiệp trung học phổ thông - Thời sự 17g00 01/07/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-se-to-chuc-2-dot-thi-tot-nghiep-trung-hoc-pho-thong-thoi-su-17g00-01-07-2021-406281.html</link>
       <description><![CDATA[17:00 - 01/07/2021]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-se-to-chuc-2-dot-thi-tot-nghiep-trung-hoc-pho-thong-thoi-su-17g00-01-07-2021-406281.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/07/01/AMThoisu17h00p010721.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 02 Jul 2021 00:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Thủ tướng Phạm Minh Chính chủ trì phiên họp Chính phủ tháng Sáu - Thời sự 11g00 01/07/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/thu-tuong-pham-minh-chinh-chu-tri-phien-hop-chinh-phu-thang-sau-thoi-su-11g00-01-07-2021-406261.html</link>
-      <description><![CDATA[11:00 - 01/07/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/thu-tuong-pham-minh-chinh-chu-tri-phien-hop-chinh-phu-thang-sau-thoi-su-11g00-01-07-2021-406261.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/07/01/AMThoisu11h00p010721.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 01 Jul 2021 18:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>TP.HCM: số ca mắc COVID-19 vượt 4.000 - Thời sự 5g30 01/07/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tp-hcm-so-ca-mac-covid-19-vuot-4-000-thoi-su-5g30-01-07-2021-406235.html</link>
-      <description><![CDATA[05:30 - 01/07/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tp-hcm-so-ca-mac-covid-19-vuot-4-000-thoi-su-5g30-01-07-2021-406235.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/07/01/AMThoisu05h30p010721.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 01 Jul 2021 12:30:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
