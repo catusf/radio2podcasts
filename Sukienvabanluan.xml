@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 01 Jul 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 02 Jul 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 01 Jul 2021 19:00:00 +0700</pubDate>
+    <pubDate>Fri, 02 Jul 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Thực hiện mục tiêu kép, vừa chống dịch vừa phát triển kinh tế: Kinh nghiệm từ Quảng Ninh</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Kinh tế Việt Nam vẫn có hàng loạt điểm sáng, bất chấp những tác động từ 2 làn sóng COVID-19 từ đầu năm đến nay. Tốc độ tăng trưởng chung của cả nước trong nửa đầu năm nay đạt 5,64%. Trong bức tranh chung của cả nước, nổi lên một số điểm sáng như Vĩnh Phúc, đạt 14,21%, Quảng Ninh đạt hơn 8%; Đà Nẵng sau hơn 1 năm tăng trưởng âm, đã tăng trưởng dương trở lại gần 5%. Tại những địa phương này, cùng với tăng trưởng, Quảng Ninh vẫn giữ vững vị trí đứng đầu toàn quốc trong bảng xếp hạng 4 chỉ số là: Chỉ số năng lực cạnh tranh, Chỉ số hiệu quả Quản trị và Hành chính công, Chỉ số cải cách hành chính và Chỉ số hài lòng của người dân, tổ chức đối với sự phục vụ của cơ quan hành chính nhà nước. Động lực và kinh nghiệm nào giúp Quảng Ninh duy trì tốc độ tăng trưởng, vững vàng thực hiện mục tiêu kép, vừa chống dịch vừa phát triển kinh tế?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/07/02/vovlive_sukienvabinhluan_thuc_hien_muc_tieu_kep_vua_chong_dich_vua_phat_trien_kinh_te_kinh_nghiem_tu_quang_ninh-1-7-21.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 02 Jul 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>100 năm Đảng Cộng sản Trung Quốc - Ấn tượng thành tựu xóa đói giảm nghèo</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2021/06/29/vovlive_sukienvabinhluan_du_lich_-vaccine_co_la_don_bay_kich_thich_nganh_du_lich-.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 29 Jun 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Tranh cãi kế hoạch của UNESCO về rạn san hô Great Barrier của Australia</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Chính phủ Australia mới đây tuyên bố phản đối mạnh mẽ kế hoạch của tổ chức giáo dục khoa học và văn hóa của liên hợp quốc UNESCO nhằm đưa rạn san hô Great Barrier của nước này vào danh sách “Di sản thế giới đang gặp nguy hiểm” do chịu ảnh hưởng nghiêm trọng của tình trạng biến đổi khí hậu. Điều này có nghĩa, di sản này có nguy cơ bị xóa bỏ hoàn toàn khỏi danh sách Di sản thế giới nếu không có sự bảo tồn đúng đắn. Đáng nói, trong phản ứng của mình, truyền thông Australia cho rằng, vấn đề này đang bị “chính trị hóa”!]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/06/28/vovlive_sukienvabinhluan_tranh_cai_ke_hoach_cua_-unesco_ve_ran_san_ho_-great-barrier-_cua_australia-.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 28 Jun 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
