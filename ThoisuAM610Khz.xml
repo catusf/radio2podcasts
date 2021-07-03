@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 02 Jul 2021 20:41:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 03 Jul 2021 13:09:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 02 Jul 2021 20:41:00 +0700</pubDate>
+    <pubDate>Sat, 03 Jul 2021 13:09:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,28 +24,28 @@
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Bài 2: “Đột phá từ tư duy đến hành động” - Thời sự 5g30 3/7/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/bai-2-dot-pha-tu-tu-duy-den-hanh-dong-thoi-su-5g30-3-7-2021-406379.html</link>
+      <description><![CDATA[06:09 - 03/07/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/bai-2-dot-pha-tu-tu-duy-den-hanh-dong-thoi-su-5g30-3-7-2021-406379.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/07/03/amthoisu05h30p030721-20210703043056.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 03 Jul 2021 13:09:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Thử nghiệm thương mại 5G tại thành phố Thủ Đức - Thời sự 17g00 2/7/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/thu-nghiem-thuong-mai-5g-tai-thanh-pho-thu-duc-thoi-su-17g00-2-7-2021-406363.html</link>
+      <description><![CDATA[23:15 - 02/07/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/thu-nghiem-thuong-mai-5g-tai-thanh-pho-thu-duc-thoi-su-17g00-2-7-2021-406363.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/07/02/AMThoisu17h00p020721.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 03 Jul 2021 06:15:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Kỷ niệm 45 năm TP Sài Gòn–Gia Định chính thức mang tên Chủ tịch Hồ Chí Minh-Thời sự 11g 2/7/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/ky-niem-45-nam-tp-sai-gon-gia-dinh-chinh-thuc-mang-ten-chu-tich-ho-chi-minh-thoi-su-11g-2-7-2021-406340.html</link>
       <description><![CDATA[13:41 - 02/07/2021]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/ky-niem-45-nam-tp-sai-gon-gia-dinh-chinh-thuc-mang-ten-chu-tich-ho-chi-minh-thoi-su-11g-2-7-2021-406340.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/07/02/AMThoisu11h00p020721.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 02 Jul 2021 20:41:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Bài 1 “Thành phố trong lòng thành phố: từ góc nhìn khoa học” - Thời sự 5g30 2/7/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/bai-1-thanh-pho-trong-long-thanh-pho-tu-goc-nhin-khoa-hoc-thoi-su-5g30-2-7-2021-406339.html</link>
-      <description><![CDATA[13:41 - 02/07/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/bai-1-thanh-pho-trong-long-thanh-pho-tu-goc-nhin-khoa-hoc-thoi-su-5g30-2-7-2021-406339.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/07/02/AMThoisu05h30p020721.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 02 Jul 2021 20:41:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>TPHCM sẽ tổ chức 2 đợt thi tốt nghiệp trung học phổ thông - Thời sự 17g00 01/07/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-se-to-chuc-2-dot-thi-tot-nghiep-trung-hoc-pho-thong-thoi-su-17g00-01-07-2021-406281.html</link>
-      <description><![CDATA[17:00 - 01/07/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-se-to-chuc-2-dot-thi-tot-nghiep-trung-hoc-pho-thong-thoi-su-17g00-01-07-2021-406281.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/07/01/AMThoisu17h00p010721.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 02 Jul 2021 00:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
