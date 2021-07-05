@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 02 Jul 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 05 Jul 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 02 Jul 2021 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 05 Jul 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Hòn đảo du lịch Phu-ket đón khách trở lại: Quyết tâm phục hồi ngành du lịch của Thái Lan!</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Ngày 1/7 vừa qua, hòn đảo du lịch Phu-ket nổi tiếng của Thái Lan bắt đầu mở cửa trở lại đón những vị khách đầu tiên sau hơn 1 năm đóng cửa. Chương trình thử nghiệm có tên “Hộp cát Phu-ket” là nỗ lực của chính quyền Thái Lan nhằm từng bước khôi phục ngành du lịch đang phải gánh chịu hậu quả nặng nề do đại dịch Covid-19. Nếu thử nghiệm thành công Thái Lan sẽ từng bước nhân rộng mô hình này sang các địa điểm du lịch nổi tiếng khác. Vậy mô hình của Thái Lan có gì đặc biệt, liệu bước đi này có mang lại kết quả như kỳ vọng , trong bối cảnh tình hình dịch bệnh vẫn diễn biến phức tạp tại quốc gia Đông Nam Á này?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/07/05/vovlive_sukienvabanluan_phu_ket_don_khach_tro_lai_quyet_tam_phuc-_hoi_nganh_du_lich_cua_thai_lan-5-7-21.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 05 Jul 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Thực hiện mục tiêu kép, vừa chống dịch vừa phát triển kinh tế: Kinh nghiệm từ Quảng Ninh</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2021/07/01/vovlive_sukienvababluan_sua_lluat_phong_chong_bao_luc_gia_dinh_vi_mot_xa_hoi_hanh_phuc.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 01 Jul 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Du lịch vaccine: có là “đòn bẩy” kích thích ngành du lịch?</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Thế giới đang chứng kiến sự nở rộ của các loại hình tour “du lịch tiêm vaccine Covid-19”. Vài tháng trước, mô hình này xuất hiện tại một số bang của nước Mỹ. Những tưởng điều đó chỉ có thể diễn ra một số cường quốc, vốn tự chủ sản xuất vaccine, nhưng hiện nay các quốc gia từ Vùng Vịnh cho đến Đông Nam Á cũng bắt đầu theo đuổi chương trình du lịch vaccine. Mô hình này liệu có thực sự kích thích ngành công nghiệp không khói phát triển trở lại? Những thách thức để thực hiện du lịch vaccine là gì?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/06/29/vovlive_sukienvabinhluan_du_lich_-vaccine_co_la_don_bay_kich_thich_nganh_du_lich-.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 29 Jun 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
