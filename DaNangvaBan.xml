@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 23 Jun 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 30 Jun 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 23 Jun 2021 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 30 Jun 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,10 +24,18 @@
     <itunes:subtitle>Đà Nẵng và Bạn</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/DaNangvaBan.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Đà Nẵng và Bạn 23-06-2021</title>
+      <title>Đà Nẵng và Bạn 30-06-2021</title>
       <link>http://www.drt.danang.vn/chuong_trinh-197-da_nang_va_ban</link>
-      <description><![CDATA[Đà Nẵng và Bạn 23-06-2021]]></description>
+      <description><![CDATA[Đà Nẵng và Bạn 30-06-2021]]></description>
       <guid isPermaLink="false">http://www.drt.danang.vn/chuong_trinh-197-da_nang_va_ban</guid>
+      <enclosure url="http://www.drt.danang.vn/Uploads/Media/AUDIO/DA NANG VA BAN/NAM 2021/DA NANG VA BAN PHAT 30-6-201.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 30 Jun 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Đà Nẵng và Bạn 23-06-2021</title>
+      <link>http://www.drt.danang.vn/truyen_hinh-46163-197</link>
+      <description><![CDATA[Đà Nẵng và Bạn 23-06-2021]]></description>
+      <guid isPermaLink="false">http://www.drt.danang.vn/truyen_hinh-46163-197</guid>
       <enclosure url="http://www.drt.danang.vn/Uploads/Media/AUDIO/DA NANG VA BAN/NAM 2021/DA NANG VA BAN PHAT 23-6-2021.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 23 Jun 2021 19:00:00 +0700</pubDate>
     </item>
@@ -62,14 +70,6 @@
       <guid isPermaLink="false">http://www.drt.danang.vn/truyen_hinh-45474-197</guid>
       <enclosure url="http://www.drt.danang.vn/Uploads/Media/AUDIO/DA NANG VA BAN/NAM 2021/DA NANG VA BAN PHAT 26-5-2021.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 26 May 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đà Nẵng và Bạn 19-05-2021</title>
-      <link>http://www.drt.danang.vn/truyen_hinh-45298-197</link>
-      <description><![CDATA[Đà Nẵng và Bạn 19-05-2021]]></description>
-      <guid isPermaLink="false">http://www.drt.danang.vn/truyen_hinh-45298-197</guid>
-      <enclosure url="http://www.drt.danang.vn/Uploads/Media/AUDIO/DA NANG VA BAN/NAM 2021/DA NANG VA BAN PHAT 19-5-2021.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 19 May 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
