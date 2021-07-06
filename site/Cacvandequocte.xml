@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 02 Jul 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jul 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 02 Jul 2021 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 06 Jul 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Nga công bố Chiến lược an ninh quốc gia mới</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Tổng thống Nga Vladimir Putin vừa thông qua chiến lược an ninh quốc gia mới, thay thế bản chiến lược cũ đã được thông qua cuối năm 2015. Chiến lược mới đã nêu các ưu tiên chính của Nga như bảo tồn dân tộc Nga, bảo vệ các giá trị tinh thần và đạo đức truyền thống của Nga, cũng như an ninh sinh thái và sử dụng hợp lý các nguồn tài nguyên thiên nhiên. Theo chiến lược mới, Nga sẽ giảm sử dụng đồng đôla trong ngoại thương, coi đây là biện pháp bảo đảm an ninh kinh tế đất nước. Điều đáng lưu ý trong chiến lược an ninh quốc gia mới của Nga là mở rộng quan hệ hợp tác chiến lược với Trung Quốc và Ấn Độ.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/07/06/vovlive_cacvandequocte_nga_cong_bo_chien_luoc_an_ninh.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 06 Jul 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Israel chìa cành ô-liu cho Các Tiểu vương quốc Ả-rập thống nhất</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2021/07/02/vovlive_cacvandequocte_tham_gia_tap_tran_cung_my_astralia_cua_han_quoc.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 02 Jul 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Căng thẳng Anh – Nga sẽ đi xa tới đâu?</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Căng thẳng giữa Nga và Anh liên quan đến vụ việc tàu hải quân Anh đi qua vùng biển tranh chấp gần Crưm chưa có dấu hiệu hạ nhiệt khi Nga tiến hành tập trận rầm rộ ở phía đông Địa Trung Hải, đúng lúc một nhóm tàu sân bay tác chiến của Anh cũng hiện diện tại khu vực. Giới phân tích cho rằng, cả hai đều muốn gửi đi những thông điệp cứng rắn đằng sau các động thái này. Điều dư luận quan tâm hiện nay là cuộc đối đầu Anh – Nga sẽ bị đẩy xa tới đâu, nhất là khi Nga luôn thể hiện quan điểm không nhượng bộ trong những vấn đề liên quan đến Crưm, còn phía Châu Âu cũng chưa từng gây được sức ép đủ lớn với Nga, chưa nói đến một mình nước Anh. Đây cũng là lý do khiến ý tưởng tổ chức Hội nghị thượng đỉnh Liên minh Châu Âu – Nga của Đức và Pháp đã bị bác bỏ.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/06/29/vovlive_cacvandequocte_cang_thang_anh_nga_se_di_xa_toi_dau.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 29 Jun 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
