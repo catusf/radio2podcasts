@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 01 Jan 2000 07:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jul 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 01 Jan 2000 07:00:00 +0700</pubDate>
+    <pubDate>Tue, 06 Jul 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,5 +23,37 @@
     </itunes:owner>
     <itunes:subtitle>Âm nhạc với cuộc sống</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Amnhacvoicuocsong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>“Nổi lửa lên em”: Câu chuyện đẹp trong hành trang người nhạc sĩ, chiến sĩ</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[Nhân kỷ niệm Ngày truyền thống Ngành Hậu cần Quân đội (11/7/1950-11/7/2021), cùng tìm hiểu hoàn cảnh ra đời của bài hát “Nổi lửa lên em” của nhạc sĩ Huy Duy, lời thơ Giang Lam...]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/07/06/vovlive_am_nhac_voi_cuoc_song_noi_lua_len_em_huy_du.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 06 Jul 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>“Lời ru nơi tuyến đầu”: Tác phẩm âm nhạc gửi gắm tâm tư của nữ  trung tá, quân nhân chuyên nghiệp Vũ Thị Huyền Ngọc (Nhà Văn hóa, Cục Chính trị, Bộ tư lệnh Bộ đội biên phòng)</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[Xúc động trước hình ảnh con gái nhỏ của Trung úy Phùng Thị Hạnh (điều dưỡng viên Khoa Chẩn đoán chức năng, Bệnh viện Quân y 103, Học viện Quân y - một trong hơn 160 y, bác sỹ Bệnh viện Quân y 103 được điều động đến tỉnh Bắc Giang hỗ trợ chống dịch COVID-19) khóc đòi mẹ khi nhìn thấy chị Hạnh xuất hiện trên tivi.  Nhớ lại những lần xa con nhỏ nhận nhiệm vụ lên đường, nữ trung tá quân nhân chuyên nghiệp Vũ Thị Huyền Ngọc đã viết  ca khúc thấm đẫm tình mẫu tử bao la của người mẹ - người lính nơi tuyến đầu chống dịch: "Lời ru nơi tuyến đầu". Ca khúc là món quà tinh thần chị gửi tới những người đồng đội, những lực lượng trên tuyến đầu đang ngày đêm căng mình nỗ lực đẩy lùi đại dịch, đem lại cuộc sống bình yên cho nhân dân…]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/06/29/vovlive_am_nhac_voi_cuoc_song_loi_ru_noi_tuyen_dau.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 29 Jun 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Trò chuyện cùng thầy giáo, nhạc sĩ Vũ Huy Sơn, giảng viên khoa Quản lý Văn hoá Nghệ thuật, trường Đại học Văn hóa Hà Nội về tác phẩm âm nhạc “Tế Covid”</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[Thầy giáo-Nhạc sĩ Vũ Huy Sơn, giảng viên khoa Quản lý Văn hoá Nghệ thuật, trường Đại học Văn hóa Hà Nội chia sẻ về ca khúc "Tế  Covid". Ca khúc với ca từ mộc mạc, giai điệu trẻ trung, thể hiện tinh thần lạc quan trước mọi khó khăn của dịch bệnh, niềm tin dịch bệnh sẽ sớm được dập tắt và thông điệp chung tay đoàn kết thực hiện tốt quy định chung ...]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/06/22/vovlive_am_nhac_voi_cuoc_song_te_covid.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 22 Jun 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>“Lời cảm ơn”: Lời biết ơn gửi tuyến đầu chống dịch của tác giả trẻ Trần Tùng, người con của Việt Yên, Bắc Giang</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[Bài hát là sự chia sẻ đầy yêu thương, là lời cám ơn gửi đến các chiến sĩ tuyến đầu ngày đêm vất vả căng mình chống dịch tại quê hương của tác giả trẻ Trần Tùng, và là món quà tinh thần ý nghĩa của anh trong những ngày tháng chống dịch đầy khó khăn ...]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/06/15/vovlive_am_nhac_voi_cuoc_song_loi_cam_on_tran_tung.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 15 Jun 2021 19:00:00 +0700</pubDate>
+    </item>
   </channel>
 </rss>
