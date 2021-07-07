@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 06 Jul 2021 18:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 07 Jul 2021 00:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 06 Jul 2021 18:00:00 +0700</pubDate>
+    <pubDate>Wed, 07 Jul 2021 00:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Tổ chức phân luồng vận tải thông suốt 24/24h trong mùa dịch - Thời sự 17g00 6/7/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/to-chuc-phan-luong-van-tai-thong-suot-24-24h-trong-mua-dich-thoi-su-17g00-6-7-2021-406656.html</link>
+      <description><![CDATA[17:00 - 06/07/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/to-chuc-phan-luong-van-tai-thong-suot-24-24h-trong-mua-dich-thoi-su-17g00-6-7-2021-406656.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/07/06/ts17-060721.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 07 Jul 2021 00:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Mỗi người cần hy sinh lợi ích riêng để tham gia phòng chống dịch - Thời sự 11g00 6/7/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/moi-nguoi-can-hy-sinh-loi-ich-rieng-de-tham-gia-phong-chong-dich-thoi-su-11g00-6-7-2021-406629.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/gia-tri-xuat-khau-lam-san-6-thang-dau-nam-nay-dat-gan-9-ty-do-la-my-thoi-su-05g30-6-7-2021-406596.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/07/06/ts0530-060721.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 06 Jul 2021 12:30:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Thủ tục nhận gói hỗ trợ lần 2 do ảnh hưởng dịch Covid-19 rất đơn giản - Thời sự 17g00 5/7/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/thu-tuc-nhan-goi-ho-tro-lan-2-do-anh-huong-dich-covid-19-rat-don-gian-thoi-su-17g00-5-7-2021-406573.html</link>
-      <description><![CDATA[20:50 - 05/07/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/thu-tuc-nhan-goi-ho-tro-lan-2-do-anh-huong-dich-covid-19-rat-don-gian-thoi-su-17g00-5-7-2021-406573.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/07/05/AMThoisu17h00p050721ss.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 06 Jul 2021 03:50:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
