@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 06 Jul 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jul 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 06 Jul 2021 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 08 Jul 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Olympic Tokyo - Nhật Bản "chạy nước rút" trước giờ khai mạc</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Chỉ còn chưa đầy 3 tuần nữa, Olympic Tokyo 2020 sẽ chính thức khai mạc, và Nhật Bản đang gấp rút thực hiện những công việc chuẩn bị cuối cùng cho sự kiện thể thao lớn nhất hành tinh này. Vượt qua nhiều luồng ý kiến trái chiều về việc hủy bỏ hoặc hoãn Olympic Tokyo trong điều kiện dịch bệnh, Nhật Bản đang cố gắng hết sức để chứng minh với người dân trong nước và thế giới rằng Nhật Bản có thể làm được, thậm chí làm tốt nhằm mang đến một kỳ đại hội thể thao an toàn và ấn tượng. Những bước chuẩn bị “nước rút” của Nhật Bản trước giờ khai mạc Olympic Tokyo sẽ được đề cập trong chương trình.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/07/08/vovlive_sukienvabinhluan_olympics-tokyo_nhat_ban_chay_nuoc_rut_truoc_gio_khai_mac-7-7-21.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 08 Jul 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Chính quyền đô thị: Hướng đến sự phục vụ người dân hiệu quả và chuyên nghiệp hơn</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2021/07/02/vovlive_sukienvabinhluan_thuc_hien_muc_tieu_kep_vua_chong_dich_vua_phat_trien_kinh_te_kinh_nghiem_tu_quang_ninh-1-7-21.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 02 Jul 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>100 năm Đảng Cộng sản Trung Quốc - Ấn tượng thành tựu xóa đói giảm nghèo</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Ngày 1/7 đánh dấu 100 năm ngày thành lập Đảng Cộng sản Trung Quốc. Giới chức lãnh đạo nước này khẳng định, một trong những thành tựu nổi bật trong suốt quá trình hình thành và phát triển của Đảng Cộng sản Trung Quốc là chiến thắng trong “cuộc chiến xóa đói giảm nghèo”. Trong bài phát biểu tại hội nghị tổng kết tuyên dương công tác thoát nghèo toàn quốc hồi tháng 02 đầu năm nay Chủ Tịch Tập Cận Bình tuyên bố Trung Quốc đã tạo ra một kỳ tích khi đưa hàng trăm triệu người thoát nghèo chỉ trong một thời gian ngắn.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/07/01/vovlive_sukienvabinhluan_100_nam_dang_cong_san_trung_quoc_an_tuong_thanh_tuu_xoa_doi_giam_ngheo-chuan.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 01 Jul 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
