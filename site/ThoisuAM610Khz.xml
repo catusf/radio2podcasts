@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 07 Jul 2021 18:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jul 2021 00:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 07 Jul 2021 18:00:00 +0700</pubDate>
+    <pubDate>Thu, 08 Jul 2021 00:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Hơn 97.000 liều vaccine Covid-19 của Pfizer/BioNtech đã về tới Việt Nam - Thời sự 17g00 07/07/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/hon-97-000-lieu-vaccine-covid-19-cua-pfizer-biontech-da-ve-toi-viet-nam-thoi-su-17g00-07-07-2021-406755.html</link>
+      <description><![CDATA[17:00 - 07/07/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/hon-97-000-lieu-vaccine-covid-19-cua-pfizer-biontech-da-ve-toi-viet-nam-thoi-su-17g00-07-07-2021-406755.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/07/07/AMThoisu17h00p070721.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 08 Jul 2021 00:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>TPHCM phải thực hiện nghiêm các giải pháp để cắt chuỗi lây nhiễm - Thời sự 5g30 07/07/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-phai-thuc-hien-nghiem-cac-giai-phap-de-cat-chuoi-lay-nhiem-thoi-su-5g30-07-07-2021-406725.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/them-2-doan-tau-metro-so-1-dang-tren-duong-ve-viet-nam-thoi-su-11g00-07-07-2021-406724.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/07/07/amthoisu11h00p070721-20210707111102.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 07 Jul 2021 18:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Tổ chức phân luồng vận tải thông suốt 24/24h trong mùa dịch - Thời sự 17g00 6/7/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/to-chuc-phan-luong-van-tai-thong-suot-24-24h-trong-mua-dich-thoi-su-17g00-6-7-2021-406656.html</link>
-      <description><![CDATA[17:00 - 06/07/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/to-chuc-phan-luong-van-tai-thong-suot-24-24h-trong-mua-dich-thoi-su-17g00-6-7-2021-406656.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/07/06/ts17-060721.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 07 Jul 2021 00:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
