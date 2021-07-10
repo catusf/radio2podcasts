@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 10 Jul 2021 16:21:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 10 Jul 2021 20:58:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 10 Jul 2021 16:21:00 +0700</pubDate>
+    <pubDate>Sat, 10 Jul 2021 20:58:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Bài 1: Cần tỉnh táo trước những quan điểm đa chiều trên mạng xã hội – Thời sự 11g00 10/7/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/bai-1-can-tinh-tao-truoc-nhung-quan-diem-da-chieu-tren-mang-xa-hoi-thoi-su-11g00-10-7-2021-406967.html</link>
+      <description><![CDATA[13:58 - 10/07/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/bai-1-can-tinh-tao-truoc-nhung-quan-diem-da-chieu-tren-mang-xa-hoi-thoi-su-11g00-10-7-2021-406967.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/07/10/AMThoisu11h00p100721-Copy.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 10 Jul 2021 20:58:00 +0700</pubDate>
+    </item>
     <item>
       <title>Sức khỏe người dân là trên hết - Thời sự 5g30 10/7/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/suc-khoe-nguoi-dan-la-tren-het-thoi-su-5g30-10-7-2021-406948.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/them-580-000-lieu-vaccine-covid-19-cua-astrazeneca-ve-viet-nam-thoi-su-17g00-09-07-2021-406922.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/07/09/AMThoisu17h00p090721.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 10 Jul 2021 00:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Tạo điều kiện thuận lợi cho thí sinh bị ảnh hưởng bởi Covid-19 - Thời sự 5g30 09/07/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tao-dieu-kien-thuan-loi-cho-thi-sinh-bi-anh-huong-boi-covid-19-thoi-su-5g30-09-07-2021-406887.html</link>
-      <description><![CDATA[05:30 - 09/07/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tao-dieu-kien-thuan-loi-cho-thi-sinh-bi-anh-huong-boi-covid-19-thoi-su-5g30-09-07-2021-406887.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/07/09/AMThoisu05h30p090721A.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 09 Jul 2021 12:30:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
