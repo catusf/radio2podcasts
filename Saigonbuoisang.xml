@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 11 Jul 2021 16:08:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 12 Jul 2021 17:53:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 11 Jul 2021 16:08:00 +0700</pubDate>
+    <pubDate>Mon, 12 Jul 2021 17:53:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Sài Gòn buổi sáng - 12/7/2021</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-12-7-2021-407086.html</link>
+      <description><![CDATA[10:53 - 12/07/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-12-7-2021-407086.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/07/12/fmsgbs06h00p120721-20210712074549.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 12 Jul 2021 17:53:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Sài Gòn buổi sáng - 11/7/2021</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-11-7-2021-407013.html</link>
       <description><![CDATA[09:08 - 11/07/2021]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-11-7-2021-407013.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/07/11/fmsaigonbuoisang06h00p110721-20210710215135.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 11 Jul 2021 16:08:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Sài Gòn buổi Sáng - 10/7/2021</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-10-7-2021-406949.html</link>
-      <description><![CDATA[09:21 - 10/07/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-10-7-2021-406949.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/07/10/FMsaigonbuoisang06h00p100721-Copy.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 10 Jul 2021 16:21:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
