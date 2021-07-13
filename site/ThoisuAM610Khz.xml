@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 13 Jul 2021 16:11:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jul 2021 20:32:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 13 Jul 2021 16:11:00 +0700</pubDate>
+    <pubDate>Tue, 13 Jul 2021 20:32:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Quận 10 tiếp tục triển khai siêu thị 0 đồng ở điểm có phong tỏa – Thời sự 11g00 13/7/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/quan-10-tiep-tuc-trien-khai-sieu-thi-0-dong-o-diem-co-phong-toa-thoi-su-11g00-13-7-2021-407190.html</link>
+      <description><![CDATA[13:32 - 13/07/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/quan-10-tiep-tuc-trien-khai-sieu-thi-0-dong-o-diem-co-phong-toa-thoi-su-11g00-13-7-2021-407190.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/07/13/AMThoisu11h00p130721sss.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 13 Jul 2021 20:32:00 +0700</pubDate>
+    </item>
     <item>
       <title>Làm gì để người Việt dùng hàng Việt? – Thời sự 5g30 13/7/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/lam-gi-de-nguoi-viet-dung-hang-viet-thoi-su-5g30-13-7-2021-407171.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/thanh-pho-thu-duc-van-hanh-duong-day-nong-phong-chong-dich-thoi-su-17g00-12-7-2021-407142.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/07/12/amthoisu17h00p120721-20210712171647.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 13 Jul 2021 03:27:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Bài 3: Quy chế ứng xử trên mạng xã hội, ranh giới cần thiết cho mỗi người – Thời sự 11g00 12/7/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/bai-3-quy-che-ung-xu-tren-mang-xa-hoi-ranh-gioi-can-thiet-cho-moi-nguoi-thoi-su-11g00-12-7-2021-407087.html</link>
-      <description><![CDATA[11:53 - 12/07/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/bai-3-quy-che-ung-xu-tren-mang-xa-hoi-ranh-gioi-can-thiet-cho-moi-nguoi-thoi-su-11g00-12-7-2021-407087.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/07/12/amthoisu11h00p120721-20210712102656.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 12 Jul 2021 18:53:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
