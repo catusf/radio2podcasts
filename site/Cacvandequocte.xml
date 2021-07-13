@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 12 Jul 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jul 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 12 Jul 2021 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 13 Jul 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Trọng tâm chiến lược cuộc đua giữa nhiệm kỳ của Tổng thống Mỹ Joe Biden</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Thời gian gần đây, Tổng thống Mỹ Joe Biden đã có nhiều chuyến thăm đến các quận và các bang được cho là thành trì của Đảng Cộng hòa. Đây là động thái nhằm khẳng định quyết tâm của người đứng đầu nước Mỹ nhằm giúp Đảng Dân chủ giành được lợi thế trước Đảng Cộng hòa trong cuộc đua giữa nhiệm kỳ sẽ diễn ra vào năm tới. Dù Đảng Dân chủ đang kiểm soát Hạ viện nhưng với đa số mong manh, trong khi tỉ lệ giữa hai Đảng ở Thượng viện là ngang nhau, liệu Tổng thống Biden đang có những tính toán gì để tăng khả năng cạnh tranh của Đảng Dân chủ?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/07/13/vovlive_cacvandequocte_trong_tam_chien_luoc_cuoc_dua_giua_nhiem_ky_cua_tong_thong_my.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 13 Jul 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Cuộc tập trận Gió Biển và những thông điệp cũ, động thái mới gửi tới Nga</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2021/07/09/vovlive_cacvandequocte_buoc_lui_trong_dam_phan_hat_nhan_iran.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 09 Jul 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Bất ổn Afghanistan đe dọa an ninh khu vực</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Bạo lực đã hoành hành khắp Afghanistan kể từ khi Tổng thống Mỹ Joe Biden tuyên bố rút quân trước ngày 11.9, chấm dứt cuộc chiến dài nhất trong lịch sử Mỹ. Trong những ngày gần đây, tình hình an ninh ở quốc gia Trung Nam Á trở nên xấu đi nhanh chóng. Việc Mỹ và liên quân rút hết khỏi Afghanistan đã tạo một khoảng trống quyền lực rất lớn. Vòng xoáy bạo lực mới và nguy cơ an ninh với khu vực là điều đáng lo ngại nhất từ những gì đang diễn ra tại Afghanistan.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/07/07/vovlive_cacvandequocte_bat_on_afghanistan_de_doa_an_ninh_khu_vuc.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 07 Jul 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

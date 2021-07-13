@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 12 Jul 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jul 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 12 Jul 2021 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 13 Jul 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Lào nỗ lực ngăn chặn làn sóng Covid-19 mới</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Theo cảnh báo của Tổ chức Y tế Thế giới (WHO), các nước Đông Nam Á đang đối mặt với làn sóng dịch bệnh Covid-19 nguy hiểm với các con số kỷ lục về số ca nhiễm mới và tử vong. Tình trạng thiếu vaccine trong khi các biến thể mới lây lan nhanh chóng khiến nỗ lực dập dịch trở nên khó khăn. Trong bối cảnh đó, Lào có thể coi là một điểm sáng khi có chưa đến 3.000 ca mắc Covid-19 và rất ít ca mắc trong cộng đồng, dù đã trải qua những thời điểm số ca mắc theo ngày lên hơn 3 con số. Vậy Lào đang làm thế nào để ngăn chặn nguy cơ bùng phát dịch Covid-19?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/07/13/vovlive_sukienvabinhluan_lao_no_luc_ngan_chan_lan_song_covid-19-12-7-21.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 13 Jul 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Australia thiếu lao động trong nước, cơ hội cho người lao động Đông Nam Á</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2021/07/06/vovlive_sukienvabanluan_chinh_quyen_do_thi_huong_den_su_phuc_vu_nguoi_dan_hieu_qua_va_chuyen-nghiep_hon-6-7-21.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 06 Jul 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Hòn đảo du lịch Phu-ket đón khách trở lại: Quyết tâm phục hồi ngành du lịch của Thái Lan!</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Ngày 1/7 vừa qua, hòn đảo du lịch Phu-ket nổi tiếng của Thái Lan bắt đầu mở cửa trở lại đón những vị khách đầu tiên sau hơn 1 năm đóng cửa. Chương trình thử nghiệm có tên “Hộp cát Phu-ket” là nỗ lực của chính quyền Thái Lan nhằm từng bước khôi phục ngành du lịch đang phải gánh chịu hậu quả nặng nề do đại dịch Covid-19. Nếu thử nghiệm thành công Thái Lan sẽ từng bước nhân rộng mô hình này sang các địa điểm du lịch nổi tiếng khác. Vậy mô hình của Thái Lan có gì đặc biệt, liệu bước đi này có mang lại kết quả như kỳ vọng , trong bối cảnh tình hình dịch bệnh vẫn diễn biến phức tạp tại quốc gia Đông Nam Á này?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/07/05/vovlive_sukienvabanluan_phu_ket_don_khach_tro_lai_quyet_tam_phuc-_hoi_nganh_du_lich_cua_thai_lan-5-7-21.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 05 Jul 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
