@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 13 Jul 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jul 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 13 Jul 2021 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 14 Jul 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Tranh cãi việc tiêm tăng cường mũi 3 vaccine ngừa Covid-19</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Mới đây, hãng dược phẩm Pfizer của Mỹ đề xuất tiêm tăng cường mũi vaccine thứ 3 ngừa Covid-19 với những người đã tiêm đủ 2 liều. Hãng này lý giải, hiện có nhiều bằng chứng cho thấy nguy cơ nhiễm bệnh tăng lên trở lại sau hơn 6 tháng tiêm vaccinne, trong khi các biến thể mới nguy hiểm của virus Sars-CoV-2 có thể ức chế và làm suy giảm hiệu quả của các loại vaccine đã tiêm. Động thái này khiến cuộc tranh luận “nên tiêm 2 liều hay 3 liều, nên tiêm tăng cường để đảm bảo hiệu quả hay để dành vaccine cho người chưa được tiêm” lại nóng lên!]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/07/14/vovlive_sukienvabinhluan_tranh_cai_tiem_tang_cuong_mui_3_-vaccine_ngua-_covid-19-14-7-21.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 14 Jul 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Lào nỗ lực ngăn chặn làn sóng Covid-19 mới</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2021/07/08/vovlive_sukienvabinhluan_olympics-tokyo_nhat_ban_chay_nuoc_rut_truoc_gio_khai_mac-7-7-21.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 08 Jul 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chính quyền đô thị: Hướng đến sự phục vụ người dân hiệu quả và chuyên nghiệp hơn</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Từ ngày mùng 1 tháng 7 vừa qua, toàn bộ các quận nội thành của thành phố Hồ Chí Minh, thành phố Thủ Đức, thành phố Đà Nẵng và 12 quận, Thị xã Sơn Tây của thủ đô Hà Nội thực hiện thí điểm mô hình chính quyền đô thị theo Nghị quyết của Quốc hội. Việc thực hiện mô hình chính quyền  đô thị sẽ phát huy vai trò chủ động trách nhiệm sáng tạo trong phục vụ người dân, thúc đẩy phát triển kinh tế xã hội của địa phương .]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/07/06/vovlive_sukienvabanluan_chinh_quyen_do_thi_huong_den_su_phuc_vu_nguoi_dan_hieu_qua_va_chuyen-nghiep_hon-6-7-21.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 06 Jul 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
