@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 14 Jul 2021 18:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jul 2021 00:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 14 Jul 2021 18:00:00 +0700</pubDate>
+    <pubDate>Thu, 15 Jul 2021 00:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Việt Nam sẽ có khoảng 124 triệu liều vắc xin Covid-19 - Thời sự 17g00 14/7/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/viet-nam-se-co-khoang-124-trieu-lieu-vac-xin-covid-19-thoi-su-17g00-14-7-2021-407303.html</link>
+      <description><![CDATA[17:00 - 14/07/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/viet-nam-se-co-khoang-124-trieu-lieu-vac-xin-covid-19-thoi-su-17g00-14-7-2021-407303.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/07/14/thoi-su-1700-140721.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 15 Jul 2021 00:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Đề nghị ưu tiên xét nghiệm Covid-19 cho tài xế vận tải - Thời sự 11g00 14/7/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/de-nghi-uu-tien-xet-nghiem-covid-19-cho-tai-xe-van-tai-thoi-su-11g00-14-7-2021-407297.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/cho-tam-tai-tphcm-duoc-thi-diem-ban-rau-cu-de-giam-tai-cho-sieu-thi-thoi-su-05g30-14-7-2021-407239.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/07/14/thoi-su-0530-140721.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 14 Jul 2021 12:30:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Quận 10 tiếp tục triển khai siêu thị 0 đồng ở điểm có phong tỏa – Thời sự 11g00 13/7/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/quan-10-tiep-tuc-trien-khai-sieu-thi-0-dong-o-diem-co-phong-toa-thoi-su-11g00-13-7-2021-407190.html</link>
-      <description><![CDATA[13:32 - 13/07/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/quan-10-tiep-tuc-trien-khai-sieu-thi-0-dong-o-diem-co-phong-toa-thoi-su-11g00-13-7-2021-407190.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/07/13/AMThoisu11h00p130721sss.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 13 Jul 2021 20:32:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
