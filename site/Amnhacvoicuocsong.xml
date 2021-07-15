@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 06 Jul 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jul 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 06 Jul 2021 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 13 Jul 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Âm nhạc với cuộc sống</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Amnhacvoicuocsong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Nhà báo, nhạc sĩ Y Jang Tuyn - Đài Tiếng nói Nhân dân Tp Hồ Chí Minh và tinh thần chống dịch lạc quan qua những giai điệu âm nhạc</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[Lắng nghe những chia sẻ về tinh thần chống dịch Covid 19 của nhà báo, nhạc sĩ Y Jang Tuyn và những tác phẩm âm nhạc đầy xúc động gửi tới lực lượng tuyến đầu chống dịch và đồng bào thân yêu ...]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/07/13/vovlive_am_nhac_voi_cuoc_song_y_jang_tuyn.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 13 Jul 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>“Nổi lửa lên em”: Câu chuyện đẹp trong hành trang người nhạc sĩ, chiến sĩ</title>
       <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2021/06/22/vovlive_am_nhac_voi_cuoc_song_te_covid.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 22 Jun 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>“Lời cảm ơn”: Lời biết ơn gửi tuyến đầu chống dịch của tác giả trẻ Trần Tùng, người con của Việt Yên, Bắc Giang</title>
-      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[Bài hát là sự chia sẻ đầy yêu thương, là lời cám ơn gửi đến các chiến sĩ tuyến đầu ngày đêm vất vả căng mình chống dịch tại quê hương của tác giả trẻ Trần Tùng, và là món quà tinh thần ý nghĩa của anh trong những ngày tháng chống dịch đầy khó khăn ...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/06/15/vovlive_am_nhac_voi_cuoc_song_loi_cam_on_tran_tung.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 15 Jun 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
