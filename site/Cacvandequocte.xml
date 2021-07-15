@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 14 Jul 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jul 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 14 Jul 2021 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 15 Jul 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Thủ tướng Đức Angela Merkel thăm Mỹ, củng cố trục Mỹ - Đức, kết nối Đại Tây Dương</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Ngày 15 tháng 7, Thủ tướng Đức Angela Merkel có chuyến thăm Mỹ và gặp Tổng thống Joe Biden tại Nhà Trắng. Đây là chuyến thăm Washington đầu tiên của bà Merkel kể từ khi ông Joe Biden nhậm chức hồi tháng 01 năm nay. Đây có thể là chuyến công du Mỹ cuối cùng của bà sau gần 16 năm lãnh đạo nền kinh tế lớn nhất Châu Âu. Bởi vậy, chương trình nghị sự mà bà Merkel sẽ thảo luận với Tổng thống Mỹ là tâm điểm chú ý của dư luận quốc tế, trong đó có các vấn đề song phương và toàn cầu.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/07/15/vovlive_cacvandequocte_thu_tuong_merkel_tham_my.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 15 Jul 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Châu Âu tung ra chiến lược “Một châu Âu kết nối toàn cầu”, đối trọng với sáng kiến “Vành đai, con đường” của Trung Quốc</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2021/07/12/vovlive_cacvandequocte_cuoc_tap_tran_gio_bien.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 12 Jul 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Nhóm các nền kinh tế phát triển và mới nổi hàng đầu thế giới G20 nỗ lực tìm tiếng nói chung</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Ngày 09/7, tại Venice (Italy) khai mạc Hội nghị Bộ trưởng tài chính và thống đốc ngân hàng trung ương của Nhóm các nền kinh tế phát triển và mới nổi hàng đầu thế giới (G20). Dự kiến, trong hai ngày diễn ra cuộc họp, nhóm G20 sẽ thảo luận về nguồn lực tài chính dành cho tiêm ngừa Covid-19 ở các nước có thu nhập thấp và trung bình, cải cách thuế toàn cầu và nỗ lực phục hồi kinh tế sau đại dịch. Trong đó, nhóm G20 sẽ nỗ lực để tìm tiếng nói chung về mức thuế doanh nghiệp toàn cầu, trong bối cảnh một số nước thành viên phản đối đề xuất này. Trước đó, hồi đầu tháng này, 130 quốc gia thành viên của Tổ chức Hợp tác và Phát triển Kinh tế (OECD) đã nhất trí về quy định áp mức thuế tối thiểu trên phạm vi toàn cầu nhằm giải quyết tình trạng trốn thuế và tạo bình đẳng về thuế giữa các nước.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/07/09/vovlive_cacvandequocte_g20_no_luc_tim_tieng_noi_chung.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 09 Jul 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
