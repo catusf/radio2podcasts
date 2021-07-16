@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 07 Jul 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jul 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 07 Jul 2021 19:00:00 +0700</pubDate>
+    <pubDate>Fri, 16 Jul 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Văn nghệ thiếu nhi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Vannghethieunhi.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Ôn tập bài thơ Tây Tiến 7/7/2021</title>
+      <title>Nguyễn Đới Chung Anh - cây cọ nhí trong lành 16/7/2021</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/nguyen-doi-chung-anh-cay-co-nhi-trong-lanh-c44-33677.aspx</link>
+      <description><![CDATA[Với những họa cụ như: giấy, màu acrylic và cọ, Nguyễn Đới Chung Anh đã nối dài suy nghĩ về mọi thứ xung quanh đã thay đổi như thế nào khi phải đối diện với đại dịch Covid 19, qua đó thể hiện ước mơ của bạn về môi trường sống trong lành, không khói bụi và dịch bệnh. Chùm tranh gồm 14 tác phẩm về chủ đề Covid-19 của Nguyễn Đới Chung Anh đã vinh dự được nhận giải đặc biệt của UNICEF trong chiến dịch “Lòng tốt dễ lây” và giải thưởng “Khát vọng Dế Mèn” lần thứ nhất... (Văn nghệ thiếu nhi 30/06/2021)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/nguyen-doi-chung-anh-cay-co-nhi-trong-lanh-c44-33677.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_7/v2_3006_10h4518h15_van_nghe_thieu_nhi_167202112.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 16 Jul 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Ôn tập bài thơ Tây Tiến  7/7/2021</title>
       <link>http://vov6.vov.vn/van-nghe-thieu-nhi/on-tap-bai-tho-tay-tien-c44-32664.aspx</link>
       <description><![CDATA[Tây Tiến là tên một đoàn quân được thành lập năm 1947, có nhiệm vụ kết hợp với bộ đội Lào để bảo vệ biên giới Việt - Lào, làm hao mòn lực lượng giặc Pháp. Những người lính Tây Tiến phần đông là người Hà Nội, trong đó có nhiều học sinh, sinh viên. Nhà thơ Quang Dũng đã viết bài thơ để bày tỏ nỗi nhớ với đoàn quân Tây Tiến sau khi chuyển sang công tác ở đơn vị khác... (Văn nghệ thiếu nhi 05/07/2021)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/on-tap-bai-tho-tay-tien-c44-32664.aspx</guid>
@@ -37,14 +45,6 @@
       <description><![CDATA[Ở thành phố Stockholm có rất nhiều căn nhà cổ. Vào buổi chiều đẹp trời khi bác gác cổng Clement đã gặp Ashbjorn -  chàng thanh niên làm nghề đánh bắt cá. Sau vài ba câu chào hỏi xã giao thì Ashbjorn liền cho bác Clement xem một người tí hon đang nằm gọn trong lưới. Bác Clement rất sợ hãi và nghĩ ngay đến các thiện thần mà hồi bé bác thường nghe mẹ kể? (Văn nghệ thiếu nhi 04/07/2021)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-cuoc-phieu-luu-ky-dieu-cua-nils-holgersson-buoi-hai-muoi-tam-nguoi-t-c44-32663.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_7/v2_0407_10h4518h15_van_nghe_thieu_nhi_77202111.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 07 Jul 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đọc truyện “Cuộc phiêu lưu kỳ diệu của Nils - Holgersson” - Buổi hai mươi bảy - Đàn ngỗng gặp nạn  7/7/2021</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-cuoc-phieu-luu-ky-dieu-cua-nils-holgersson-buoi-hai-muoi-bay-dan-ngo-c44-32662.aspx</link>
-      <description><![CDATA[Đàn Ngỗng trời vừa kịp hạ cánh xuống mé tây của vịnh thì trời tối. Nhưng đàn cò đã ỉ đông hiếp yếu, cho mình là dân bản xứ nên đã bắt nạt đàn ngỗng. Chúng không còn nghe theo mệnh lệnh của Cò Bình Minh và Cò Bạch Tuyết nữa. Cả trăm con cùng một lúc xông vào rỉa rói Ngỗng đực. Đến cả Ngỗng đầu đàn Akka cũng không thể chống đỡ nổi... (Văn nghệ thiếu nhi 03/07/2021)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-cuoc-phieu-luu-ky-dieu-cua-nils-holgersson-buoi-hai-muoi-bay-dan-ngo-c44-32662.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_7/v2_0307_10h4518h15_van_nghe_thieu_nhi_77202111.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 07 Jul 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
