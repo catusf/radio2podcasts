@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 15 Jul 2021 01:59:59 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jul 2021 01:59:59 +0200</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 15 Jul 2021 01:59:59 +0200</pubDate>
+    <pubDate>Fri, 16 Jul 2021 01:59:59 +0200</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>43'</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Chuongtrinh43.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>20210715 Phần còn lại - 43'</title>
+      <link>https://www.rfi.fr/vi/t%E1%BA%A1p-ch%C3%AD/13h17-14h00-gmt/20210715-ph%E1%BA%A7n-c%C3%B2n-l%E1%BA%A1i-c%E1%BB%A7a-ch%C6%B0%C6%A1ng-tr%C3%ACnh-14-06-13h17-gmt</link>
+      <description><![CDATA[43']]></description>
+      <guid isPermaLink="false">https://www.rfi.fr/vi/t%E1%BA%A1p-ch%C3%AD/13h17-14h00-gmt/20210715-ph%E1%BA%A7n-c%C3%B2n-l%E1%BA%A1i-c%E1%BB%A7a-ch%C6%B0%C6%A1ng-tr%C3%ACnh-14-06-13h17-gmt</guid>
+      <enclosure url="https://aod-rfi.akamaized.net/rfi/vietnamien/audio/magazines/r001/13h17_-_14h00_gmt_20210715.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 16 Jul 2021 01:59:59 +0200</pubDate>
+    </item>
     <item>
       <title>20210714 Phần còn lại - 43'</title>
       <link>https://www.rfi.fr/vi/t%E1%BA%A1p-ch%C3%AD/13h17-14h00-gmt/20210714-ph%E1%BA%A7n-c%C3%B2n-l%E1%BA%A1i-c%E1%BB%A7a-ch%C6%B0%C6%A1ng-tr%C3%ACnh-14-06-13h17-gmt</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://www.rfi.fr/vi/t%E1%BA%A1p-ch%C3%AD/13h17-14h00-gmt/20210711-ph%E1%BA%A7n-c%C3%B2n-l%E1%BA%A1i-c%E1%BB%A7a-ch%C6%B0%C6%A1ng-tr%C3%ACnh-14-06-13h17-gmt</guid>
       <enclosure url="https://aod-rfi.akamaized.net/rfi/vietnamien/audio/magazines/r001/13h17_-_14h00_gmt_20210711.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 12 Jul 2021 01:59:59 +0200</pubDate>
-    </item>
-    <item>
-      <title>20210710 Phần còn lại - 43'</title>
-      <link>https://www.rfi.fr/vi/t%E1%BA%A1p-ch%C3%AD/13h17-14h00-gmt/20210710-ph%E1%BA%A7n-c%C3%B2n-l%E1%BA%A1i-c%E1%BB%A7a-ch%C6%B0%C6%A1ng-tr%C3%ACnh-14-06-13h17-gmt</link>
-      <description><![CDATA[43']]></description>
-      <guid isPermaLink="false">https://www.rfi.fr/vi/t%E1%BA%A1p-ch%C3%AD/13h17-14h00-gmt/20210710-ph%E1%BA%A7n-c%C3%B2n-l%E1%BA%A1i-c%E1%BB%A7a-ch%C6%B0%C6%A1ng-tr%C3%ACnh-14-06-13h17-gmt</guid>
-      <enclosure url="https://aod-rfi.akamaized.net/rfi/vietnamien/audio/magazines/r001/13h17_-_14h00_gmt_20210710.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 11 Jul 2021 01:59:59 +0200</pubDate>
     </item>
   </channel>
 </rss>
