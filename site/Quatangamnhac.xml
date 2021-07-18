@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 11 Jul 2021 17:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 18 Jul 2021 17:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 11 Jul 2021 17:00:00 +0700</pubDate>
+    <pubDate>Sun, 18 Jul 2021 17:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Quà tặng âm nhạc trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Quatangamnhac.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Bình yên - Quà tặng âm nhạc 18/7/2021</title>
+      <link>https://radio.voh.com.vn/qua-tang-am-nhac/binh-yen-qua-tang-am-nhac-18-7-2021-407592.html</link>
+      <description><![CDATA[10:00 - 18/07/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/binh-yen-qua-tang-am-nhac-18-7-2021-407592.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/07/18/qtan-180721.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 18 Jul 2021 17:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Thành phố tôi yêu - Quà tặng âm nhạc 11/7/2021</title>
       <link>https://radio.voh.com.vn/qua-tang-am-nhac/thanh-pho-toi-yeu-qua-tang-am-nhac-11-7-2021-406984.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/chuc-mung-ngay-bao-chi-cach-mang-viet-nam-21-6-qua-tang-am-nhac-20-6-2021-405406.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/06/21/qtan-200621.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 20 Jun 2021 17:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chia tay tuổi học trò - Quà tặng âm nhạc 13/6/2021</title>
-      <link>https://radio.voh.com.vn/qua-tang-am-nhac/chia-tay-tuoi-hoc-tro-qua-tang-am-nhac-13-6-2021-404756.html</link>
-      <description><![CDATA[10:00 - 13/06/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/chia-tay-tuoi-hoc-tro-qua-tang-am-nhac-13-6-2021-404756.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/06/13/qtan-130621.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 13 Jun 2021 17:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
