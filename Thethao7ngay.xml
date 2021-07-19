@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 12 Jul 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jul 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 12 Jul 2021 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 19 Jul 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,16 @@
     </itunes:owner>
     <itunes:subtitle>Thể thao 7 ngày</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Thethao7ngay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Chương trình Thể thao 7 ngày 18/7/2021</title>
+      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
+      <description><![CDATA[- Đến Nhật Bản dự Olympic, đoàn thể thao Việt Nam có 43 thành viên, trong đó có 18 vận động viên của 11 môn thể thao, hướng tới mục tiêu có huy chương cùng tinh thần tuân thủ tuyệt đối các quy định phòng chống dịch. Cùng lắng nghe những chia sẻ của các vận động viên xuất sắc nhất Việt Nam trước ngày lên đường tham dự ngày hội thể thao lớn nhất hành tinh.
+- Câu chuyện đầy thú vị về con đường thể thao của HLV Phạm Thúy Vy, một trong những gương mặt tiên phong phát triển ba môn phối hợp tại Việt Nam.
+- Giới thiệu những nét đặc sắc của nhảy dây, môn thể thao tối giản nhưng vô cùng hiệu quả.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/07/19/vovlive_thethao-7-ngay_1807.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 19 Jul 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Chương trình thể thao 7 ngày 11/7/2021</title>
       <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
@@ -55,17 +65,6 @@
       <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2021/06/28/vovlive_thethao-7-ngay_2706.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 28 Jun 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chương trình Thể thao 7 ngày 20/6/2021</title>
-      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
-      <description><![CDATA[+ Điểm qua các sự kiện thể thao nổi bật tuần qua
-+ Dấu mốc lịch sử của đội tuyển bóng đá quốc gia Việt Nam khi lần đầu tiên lọt vào vòng loại cuối cùng của World Cup và giành vé trực tiếp tham dự VCK Asian Cup.
-+ Thông tin liên quan đến vòng đấu tiếp theo của ĐTQG Việt Nam dự kiến diễn ra vào tháng 9 tới.
-+ Ghi nhận về sự phát triển của bộ môn khiêu vũ thể thao tại Hà Nội]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/06/21/vovlive_thethao-7-ngay_2006.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 21 Jun 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
