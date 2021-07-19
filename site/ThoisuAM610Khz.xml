@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 18 Jul 2021 22:18:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jul 2021 06:26:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 18 Jul 2021 22:18:00 +0700</pubDate>
+    <pubDate>Mon, 19 Jul 2021 06:26:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>TPHCM cần sớm mở lại chợ truyền thống để giảm tải cho hệ thống siêu thị - Thời sự 17g00 18/07/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-can-som-mo-lai-cho-truyen-thong-de-giam-tai-cho-he-thong-sieu-thi-thoi-su-17g00-18-07-2021-407620.html</link>
+      <description><![CDATA[23:26 - 18/07/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-can-som-mo-lai-cho-truyen-thong-de-giam-tai-cho-he-thong-sieu-thi-thoi-su-17g00-18-07-2021-407620.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/07/18/AMThoisu17h00p180721.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 19 Jul 2021 06:26:00 +0700</pubDate>
+    </item>
     <item>
       <title>Văn hóa nghệ thuật đồng hành trong công tác phòng chống dịch bệnh – Thời sự 11g00 18/7/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/van-hoa-nghe-thuat-dong-hanh-trong-cong-tac-phong-chong-dich-benh-thoi-su-11g00-18-7-2021-407609.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/bai-2-covid-se-som-bi-day-lui-niem-dam-me-se-lai-tiep-tuc-thoi-su-5g30-18-7-20201-407588.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/07/18/AMThoisu05h30p180721-Copy.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 18 Jul 2021 16:30:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Gần 4.500 nhân viên y tế cả nước hỗ trợ TPHCM phòng, chống dịch - Thời sự 17g00 17/07/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/gan-4-500-nhan-vien-y-te-ca-nuoc-ho-tro-tphcm-phong-chong-dich-thoi-su-17g00-17-07-2021-407561.html</link>
-      <description><![CDATA[17:00 - 17/07/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/gan-4-500-nhan-vien-y-te-ca-nuoc-ho-tro-tphcm-phong-chong-dich-thoi-su-17g00-17-07-2021-407561.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/07/17/amthoisu17h00p170721cuon1-20210717165014.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 18 Jul 2021 00:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
