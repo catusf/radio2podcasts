@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 17 Jul 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jul 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 17 Jul 2021 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 20 Jul 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Điểm hẹn văn nghệ</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Diemhenvannghe.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>“Tiếng đàn môi sau bờ rào đá”: Nỗi ám ảnh số phận phụ nữ vùng cao 17/7/2021</title>
+      <title>Giải thưởng Thiếu nhi Dế Mèn 2021: Chưa tìm ra “Hiệp sĩ Dế Mèn”  20/7/2021</title>
+      <link>http://vov6.vov.vn/diem-hen-van-nghe/giai-thuong-thieu-nhi-de-men-2021-chua-tim-ra-hiep-si-de-men-c158-33698.aspx</link>
+      <description><![CDATA[Năm nay, không có giải cao nhất - giải “Hiệp sĩ Dế Mèn”, mà chỉ có 5 giải đồng hạng “Khát vọng Dế Mèn”: Tiểu thuyết "Đi trốn" của nhà văn Bình Ca; phim hoạt hình "Khúc gỗ mục" của Công ty cổ phần Hãng phim Hoạt hình Việt Nam do NSND Nguyễn Thị Phương Hoa làm đạo diễn và họa sĩ; chùm tranh về thiên nhiên và cuộc sống của hoạ sĩ nhí Xèo Chu (Phó Vạn An); truyện tranh "Ly & Chũn - Tết là nhất, nhất là Tết!" của tác giả Mèo Mốc (Đặng Quang Dũng); bộ truyện "Khác biệt mới tuyệt làm sao" của Nguyễn Hoàng Vũ và các hoạ sĩ. (Điểm hẹn văn nghệ 05/06/2021)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/giai-thuong-thieu-nhi-de-men-2021-chua-tim-ra-hiep-si-de-men-c158-33698.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_7/v2_0506_08h00_18h30_diem_hen_van_nghe_207202117.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Jul 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>“Tiếng đàn môi sau bờ rào đá”: Nỗi ám ảnh số phận phụ nữ vùng cao  17/7/2021</title>
       <link>http://vov6.vov.vn/diem-hen-van-nghe/tieng-dan-moi-sau-bo-rao-da-noi-am-anh-so-phan-phu-nu-vung-cao-c158-33684.aspx</link>
       <description><![CDATA[“May đi như chạy ra sân, đầu va cả vào dây phơi treo đậu tương, định ra rồi vào luôn để mẹ Già không biết. Nhưng vừa đi qua sân bất chợt May sững lại. Ngay trước mặt May, chỉ cách hai bước chân là mẹ Già. Mẹ Già quay lưng lại phía May, đầu cúi xuống, tấm khăn tuột trên vai, tay mẹ Già đang nắm chặt thanh gỗ cài hai cánh cổng...May bíu lấy gốc lê, cố thở thật khẽ. Ánh trăng cuối tuần mờ quá. Gió lạnh từ trong khe núi ào ra, mấy chiếc lá lê già còn sót lại rụng nốt, quệt vào bờ rào đá lạt sạt...” (Truyện ngắn “Tiếng đàn môi sau bờ rào đá” của nhà văn Đỗ Bích Thúy). (Điểm hẹn văn nghệ 22/05/2021)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/tieng-dan-moi-sau-bo-rao-da-noi-am-anh-so-phan-phu-nu-vung-cao-c158-33684.aspx</guid>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/phim-trang-ty-cuoc-phieu-luu-tu-trang-truyen-den-man-anh-c158-32640.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_6/v2_0805_08h0018h30_diem_hen_van_nghe_266202123.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 26 Jun 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>“Nước như nước mắt”: Ám ảnh thân phận người phụ nữ miền sông nước   1/5/2021</title>
-      <link>http://vov6.vov.vn/diem-hen-van-nghe/nuoc-nhu-nuoc-mat-am-anh-than-phan-nguoi-phu-nu-mien-song-nuoc-c158-32521.aspx</link>
-      <description><![CDATA[“Cả hai không xếp hành lý, thậm chí không lấy ghe, cứ ào xuống nước bơi về phía bờ mà ai cũng biết là đã không còn bờ từ nước đuổi. Sau lưng, bè rau càng lúc càng rực rỡ. Ngọn đèn chong Sáo kê sát vách mùng giờ chắc đã bén lửa lan vào tận những đụn rơm phía ngoài. Người đàn ông bơi cạnh Sáo không một lần ngoái lại. Sáng hôm qua khi tiễn con gái nhỏ trở vô trong chợ, anh ta đã xiết nó đến nỗi nó kêu đau. Như không có lần sau. Giây phút đó Sáo nhận ra thứ anh ta quý nhất, đến nỗi sẵn sàng từ bỏ tất cả để có được. Là Sáo.” (Truyện ngắn “Nước như nước mắt” của nhà văn Nguyễn Ngọc Tư) (Điểm hẹn văn nghệ 17/4/2021)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/nuoc-nhu-nuoc-mat-am-anh-than-phan-nguoi-phu-nu-mien-song-nuoc-c158-32521.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_5/v2_1704_08h0018h30_diem_hen_van_nghe_15202122.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 01 May 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
