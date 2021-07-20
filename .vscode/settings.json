@@ -1,7 +1,7 @@
 {
     "python.linting.pylintEnabled": true,
     "python.linting.enabled": true,
-    "python.pythonPath": "c:\\Python39\\venvs\\r2p\\Scripts\\python.exe",
+    "python.defaultInterpreterPath": "c:\\Python39\\envs\\radio2podcasts\\Scripts\\python.exe",
     "python.autoComplete.extraPaths": [
         "./radio2podcasts/"
     ],
