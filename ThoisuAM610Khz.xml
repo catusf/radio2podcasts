@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 20 Jul 2021 13:07:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jul 2021 19:58:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 20 Jul 2021 13:07:00 +0700</pubDate>
+    <pubDate>Tue, 20 Jul 2021 19:58:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Khai mạc trọng thể Kỳ họp thứ nhất Quốc hội khóa XV - Thời sự 11g00 20/7/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/khai-mac-trong-the-ky-hop-thu-nhat-quoc-hoi-khoa-xv-thoi-su-11g00-20-7-2021-407760.html</link>
+      <description><![CDATA[12:58 - 20/07/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/khai-mac-trong-the-ky-hop-thu-nhat-quoc-hoi-khoa-xv-thoi-su-11g00-20-7-2021-407760.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/07/20/amthoisu11h00p200721-20210720104922.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Jul 2021 19:58:00 +0700</pubDate>
+    </item>
     <item>
       <title>TPHCM cơ bản hoàn thành việc chấm thi tốt nghiệp THPT 2021 - Thời sự 5g30 20/7/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-co-ban-hoan-thanh-viec-cham-thi-tot-nghiep-thpt-2021-thoi-su-5g30-20-7-2021-407724.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/quoc-hoi-san-sang-phuong-an-phong-chong-dich-covid-19-thoi-su-17g00-19-7-2021-407700.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/07/19/AMThoisu17h00p190721-Copy.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 20 Jul 2021 01:49:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Thể thao Việt Nam phấn đấu có huy chương Olympic - Thời sự 11g00 19/7/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/the-thao-viet-nam-phan-dau-co-huy-chuong-olympic-thoi-su-11g00-19-7-2021-407654.html</link>
-      <description><![CDATA[11:07 - 19/07/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/the-thao-viet-nam-phan-dau-co-huy-chuong-olympic-thoi-su-11g00-19-7-2021-407654.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/07/19/AMThoisu11h00p190721-Copy.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 19 Jul 2021 18:07:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
