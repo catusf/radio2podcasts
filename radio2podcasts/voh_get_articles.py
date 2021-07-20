@@ -12,7 +12,7 @@ from bs4 import BeautifulSoup
 from podcasts_utils import get_true_url
 
 
-def get_articles_from_html(soup, url, no_items, item_titles=None):
+def get_articles_from_html(soup, url, no_items, podcast_title, item_titles=None):
     """
     Takes an HTML string and extracts children according to
     Returns a set of namedtuples with link, title and description
