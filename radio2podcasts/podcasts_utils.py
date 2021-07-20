@@ -89,7 +89,7 @@ def output_rss(rss, filename):
     rss.rss_file(filename)
 
 
-def rss_from_webpage(feed_settings, get_articles_from_html, item_titles=None):
+def rss_from_webpage(feed_settings, get_articles_from_html, podcast_title, item_titles=None):
     """
     TODO docstring
     :param feed_settings:
@@ -102,7 +102,7 @@ def rss_from_webpage(feed_settings, get_articles_from_html, item_titles=None):
 
     container_html = soup  # soup.select(feed_settings.container_CSS_selector)
     articles = get_articles_from_html(
-        container_html, feed_settings.source_page_url, feed_settings.no_items, item_titles)
+        container_html, feed_settings.source_page_url, feed_settings.no_items, feed_settings.title, item_titles)
     rss = generate_rss_from_articles(feed_settings, articles)
     return rss
 
