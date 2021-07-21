@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 19 Jul 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jul 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 19 Jul 2021 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 21 Jul 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,22 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Quan hệ Mỹ -Trung : Lại “căng” khi Washington và đồng minh đồng loạt cáo buộc Bắc Kinh can thiệp tấn công mạng</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Mỹ và một loạt nước đồng minh trong khối NATO, Liên minh châu Âu (EU) cùng Australia, Nhật Bản, New Zealand đã cùng lúc cáo buộc Trung Quốc đứng sau các cuộc tấn công mạng toàn cầu. Đáng chú ý, đây là lần đầu tiên khối NATO chính thức chỉ trích Bắc Kinh về vấn đề này. Theo giới quan sát, chính quyền Tổng thống Mỹ Joe Biden đã chính thức bắt đầu khởi động cuộc chiến tổng lực mới theo phương châm liên kết chặt chẽ với các nước đồng minh nhằm vào Trung Quốc, mở màn là cuộc chiến trên không gian mạng. Bước đi này của Wasington báo hiệu tương lai nào cho quan hệ Mỹ - Trung trong bối cảnh Bắc Kinh đang ngày càng cứng rắn và quyết đoán hơn?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/07/21/vovlive_cacvandequocte_quan_he_my_trung_lai_cang(1).mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 21 Jul 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Trung Quốc tăng cường ngoại giao tại các “điểm nóng”</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Ngoại trưởng Trung Quốc Vương Nghị là quan chức cấp cao Trung Quốc đầu tiên tới Syria kể từ năm 2011. Động thái ngoại giao này nằm trong chuyến công du 3 nước Trung Đông – Bắc Phi gồm Syria, Ai Cập và Angieri của ông Vương Nghị từ ngày 17 đến ngày 20/7. Đáng chú ý, Ngoại trưởng Trung Quốc đã nêu sáng kiến 4 điểm để giải quyết vấn đề Syria – một động thái được giới quan sát nhận định là sự khởi đầu mới trong chính sách đối ngoại của Trung Quốc ở khu vực này. Có thể thấy thời gian gần đây, Trung Quốc tăng cường ngoại giao tại các “điểm nóng” của thế giới từ Trung Á đến Trung Đông, những khu vực mà Mỹ đang rút bớt sự hiện diện.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/07/21/vovlive_cacvadequocte_trung_quoc_tang_cuong_ngoai_giao_tai_cac_diem_nong.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 21 Jul 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Những bài toán lợi ích liên quan đến dự án "Dòng chảy phương Bắc 2"</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -38,22 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2021/07/19/vovlive_cacvandequocte_chuyen_tham_cuoi_cung_cua_thu_tuong_duc.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 19 Jul 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Thủ tướng Đức Angela Merkel thăm Mỹ, củng cố trục Mỹ - Đức, kết nối Đại Tây Dương</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Ngày 15 tháng 7, Thủ tướng Đức Angela Merkel có chuyến thăm Mỹ và gặp Tổng thống Joe Biden tại Nhà Trắng. Đây là chuyến thăm Washington đầu tiên của bà Merkel kể từ khi ông Joe Biden nhậm chức hồi tháng 01 năm nay. Đây có thể là chuyến công du Mỹ cuối cùng của bà sau gần 16 năm lãnh đạo nền kinh tế lớn nhất Châu Âu. Bởi vậy, chương trình nghị sự mà bà Merkel sẽ thảo luận với Tổng thống Mỹ là tâm điểm chú ý của dư luận quốc tế, trong đó có các vấn đề song phương và toàn cầu.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/07/15/vovlive_cacvandequocte_thu_tuong_merkel_tham_my.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 15 Jul 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Châu Âu tung ra chiến lược “Một châu Âu kết nối toàn cầu”, đối trọng với sáng kiến “Vành đai, con đường” của Trung Quốc</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Ngoại trưởng các nước thành viên Liên minh châu Âu (EU) vừa nhất trí triển khai kế hoạch xây dựng cơ sở hạ tầng toàn cầu kết nối Châu Âu với thế giới. Đây là bước đi mới nhất sau các thỏa thuận đạt được với Ấn Độ và Nhật Bản cũng như cam kết tương tự của Nhóm các nước công nghiệp phát triển hàng đầu thế giới (G7). Chiến lược của EU mang tên “Một Châu Âu kết nối toàn cầu” nhằm thúc đẩy chính sách phát triển kinh tế và đối ngoại, đồng thời đảm bảo lợi ích an ninh và các giá trị của Châu Âu. Mặc dù kế hoạch cơ sở hạ tầng toàn cầu của Châu Âu không hề nhắc đến Trung Quốc nhưng giới phân tích nhận định, toàn bộ kế hoạch này là chiến lược mới của Châu Âu nhằm đối trọng với sáng kiến “Vành đai, con đường” của Trung Quốc.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/07/14/vovlive_cacvandequocte_chien_luoc_mot_chau_au_ket_noi_toan_cau.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 14 Jul 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
