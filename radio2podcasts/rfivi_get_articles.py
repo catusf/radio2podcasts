@@ -63,13 +63,11 @@ def get_articles_from_html(soup, url, no_items, podcast_title, item_titles=None)
 
         # Other RFI podcasts have different media urls
         if podcast_title == "Chương trình 43'":
-            link = f'https://www.rfi.fr/vi/t%E1%BB%95ng-h%E1%BB%A3p/{datestr1}-ch%C6%B0%C6%A1ng-tr%C3%ACnh-60-ph%C3%BAt'
-            media=f'https://aod-rfi.akamaized.net/rfi/vietnamien/audio/modules/actu/{datestr2}/VN_60MN_{datestr3}.mp3'
-
-        elif podcast_title == "Chương trình 60'":
             link = f'https://www.rfi.fr/vi/t%E1%BA%A1p-ch%C3%AD/13h17-14h00-gmt/{datestr1}-ph%E1%BA%A7n-c%C3%B2n-l%E1%BA%A1i-c%E1%BB%A7a-ch%C6%B0%C6%A1ng-tr%C3%ACnh-{datestr4}-13h17-gmt'
             media=f'https://aod-rfi.akamaized.net/rfi/vietnamien/audio/magazines/r001/13h17_-_14h00_gmt_{datestr1}.mp3'
-
+        elif podcast_title == "Chương trình 60'":
+            link = f'https://www.rfi.fr/vi/t%E1%BB%95ng-h%E1%BB%A3p/{datestr1}-ch%C6%B0%C6%A1ng-tr%C3%ACnh-60-ph%C3%BAt'
+            media=f'https://aod-rfi.akamaized.net/rfi/vietnamien/audio/modules/actu/{datestr2}/VN_60MN_{datestr3}.mp3'
 
         description = "Chương trình ngày " + pub_date.strftime(r'%d-%m-%Y ')
         title = pub_date.strftime(r'%d-%m-%Y ') + podcast_title
