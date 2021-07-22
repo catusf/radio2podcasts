@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 19 Jul 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jul 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 19 Jul 2021 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 22 Jul 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,22 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Thế giới “nín thở” chờ “canh bạc” của nước Anh</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Nước Anh đã bước sang ngày thứ 3 ở trạng thái bình thường, khác với hầu hết phần còn lại của thế giới đang tiếp tục các biện pháp giãn cách để chống dịch Covid-19. Kể từ ngày 19/7, ngày mà truyền thông địa phương gọi là “Ngày tự do”, hầu như tất cả các hạn chế ở Anh đã được dỡ bỏ. Không còn đeo khẩu trang bắt buộc; giới hạn về số lượng người tụ tập trong nhà hoặc ngoài trời cũng chấm dứt; các địa điểm như hộp đêm và sân vận động thể thao được mở hết công suất. Điều đáng nói là số ca lây nhiễm hàng ngày ở Anh hiện đang ở mức cao, lên đến 50.000 ca, chỉ sau Indonesia và Braxin. Chính bởi vậy quyết định của Anh được cho là một “canh bạc” mạo hiểm. Và sự mạo hiểm này có thể phải trả giá bằng sinh mạng người dân Anh và một nguy cơ lớn cho thế giới.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/07/22/vovlive_sukienvabanluan_the_gioi_nin_tho_cho_canh_bac_cua_anh-21-7-21.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 22 Jul 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Tranh cãi kế hoạch chống biến đổi khí hậu tham vọng của châu Âu</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Mới đây, giới chức Liên minh châu Âu (EU) tiết lộ kế hoạch được đánh giá là tham vọng nhất từ trước tới nay nhằm ứng phó với biến đổi khí hậu. Theo đó, các mục tiêu xanh sẽ từng bước trở thành các chuỗi hành động cụ thể ngay trong thập kỷ này, kỳ vọng sẽ trở thành hình mẫu đi đầu cho các nền kinh tế lớn khác. Nếu được thông qua, quy hoạch tổng thể về khí hậu này được kỳ vọng sẽ giúp EU đạt được mục tiêu đến năm 2030 có thể giảm 55% lượng khí phát thải so với mức ghi nhận năm 1990. Tuy nhiên, ngay sau khi công bố, kế hoạch này đã vấp phải những quan điểm trái chiều.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/07/22/vovlive_sukienvabinhluan_tranh_cai_ke_hoach_chong_bien_doi_khi_hau_tham_vong_cua_chau_au-19-7-21.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 22 Jul 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Gỡ khó trong xét nghiệm và quản lý lái xe chở hàng</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -38,22 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2021/07/19/vovlive_sukienvabinhluan_chinh_sach_kiem_soat_dan_o_an_do-16-7-21.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 19 Jul 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Tiêu thụ nông sản qua thương mại điện tử: chủ động để thành công</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Mùa hoa quả ở các tỉnh phía Bắc năm nay dù nhiều địa phương phải giãn cách xã hội do dịch COVID19 nhưng nhiều giải pháp tiêu thụ đã được thực hiện hiệu quả, trong đó có việc thúc đẩy tiêu thụ nông sản qua thương mại điện tử. Phương thức phân phối hiện đại và quan trọng là có sự chủ động thông suốt của cả ba nhà: nhà nông, nhà nước và nhà doanh nghiệp đã giúp một vụ mùa thành công.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/07/19/vovlive_sukienvabinhluan_itieu_thu_nong_san_qua_thong_mai_dien_tu_chu_dong_de_thanh_cong-17-7-21.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 19 Jul 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Tranh cãi việc tiêm tăng cường mũi 3 vaccine ngừa Covid-19</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Mới đây, hãng dược phẩm Pfizer của Mỹ đề xuất tiêm tăng cường mũi vaccine thứ 3 ngừa Covid-19 với những người đã tiêm đủ 2 liều. Hãng này lý giải, hiện có nhiều bằng chứng cho thấy nguy cơ nhiễm bệnh tăng lên trở lại sau hơn 6 tháng tiêm vaccinne, trong khi các biến thể mới nguy hiểm của virus Sars-CoV-2 có thể ức chế và làm suy giảm hiệu quả của các loại vaccine đã tiêm. Động thái này khiến cuộc tranh luận “nên tiêm 2 liều hay 3 liều, nên tiêm tăng cường để đảm bảo hiệu quả hay để dành vaccine cho người chưa được tiêm” lại nóng lên!]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/07/14/vovlive_sukienvabinhluan_tranh_cai_tiem_tang_cuong_mui_3_-vaccine_ngua-_covid-19-14-7-21.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 14 Jul 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
