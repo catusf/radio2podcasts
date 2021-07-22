@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 22 Jul 2021 14:56:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jul 2021 18:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 22 Jul 2021 14:56:00 +0700</pubDate>
+    <pubDate>Thu, 22 Jul 2021 18:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Đề xuất 2 phương án tuyển sinh lớp 10 tại TPHCM - Thời sự 11g00 22/7/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/de-xuat-2-phuong-an-tuyen-sinh-lop-10-tai-tphcm-thoi-su-11g00-22-7-2021-407967.html</link>
+      <description><![CDATA[11:00 - 22/07/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/de-xuat-2-phuong-an-tuyen-sinh-lop-10-tai-tphcm-thoi-su-11g00-22-7-2021-407967.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/07/22/ts11g00-220721.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 22 Jul 2021 18:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Nhiều giải pháp trong phòng chống dịch bệnh từ cơ sở - Thời sự 05g30 22/7/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/nhieu-giai-phap-trong-phong-chong-dich-benh-tu-co-so-thoi-su-05g30-22-7-2021-407926.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/nhung-tam-long-thom-thao-giua-mua-dich-thoi-su-11g00-21-7-2021-407860.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/07/21/AMThoisu11h00p210721ss.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 21 Jul 2021 21:22:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>TPHCM phối hợp với 18 tỉnh thành Nam bộ để kết nối nguồn cung - Thời sự 05g30 21/7/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-phoi-hop-voi-18-tinh-thanh-nam-bo-de-ket-noi-nguon-cung-thoi-su-05g30-21-7-2021-407839.html</link>
-      <description><![CDATA[05:30 - 21/07/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-phoi-hop-voi-18-tinh-thanh-nam-bo-de-ket-noi-nguon-cung-thoi-su-05g30-21-7-2021-407839.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/07/21/AMThoisu05h30p210721.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 21 Jul 2021 12:30:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
