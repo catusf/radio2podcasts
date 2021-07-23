@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 22 Jul 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jul 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 22 Jul 2021 19:00:00 +0700</pubDate>
+    <pubDate>Fri, 23 Jul 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Cuộc gặp Mỹ - Nhật - Hàn cam kết duy trì Ấn Độ Dương - Thái Bình Dương đa phương, tự do và rộng mở</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Mỹ, Nhật Bản và Hàn Quốc vừa tái khẳng định cam kết cùng nhau giải quyết các mối đe dọa trong khu vực, phản đối những hành động làm xói mòn trật tự quốc tế và nêu bật sự cần thiết duy trì một khu vực Ấn Độ Dương -Thái Bình Dương đa phương, tự do và rộng mở. Cam kết này được các nhà ngoại giao Mỹ, Nhật Bản và Hàn Quốc đưa ra tại hội nghị 3 bên diễn ra ở thủ đô Tokyo (Nhật Bản). Cuộc gặp Mỹ - Nhật - Hàn diễn ra trong bối cảnh quan hệ Nhật Bản và Hàn Quốc đang căng thẳng liên quan đến phát ngôn của Phó Đại sứ Nhật Bản tại Seoul khiến Tổng thống Hàn Quốc Moon Jae-In hủy chuyến thăm tới Nhật Bản. Chính vì thế, cuộc gặp ba bên lần này là cơ hội quý giá để hai quốc gia Đông Bắc Á gạt bỏ bất đồng, bắt tay vì mục tiêu chung.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/07/23/vovlive_cacvandequocte_cuoc_gap_my_nhat_han.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 23 Jul 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Thế giới giải “bài toán khó” về công bằng vaccine</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2021/07/21/vovlive_cacvadequocte_trung_quoc_tang_cuong_ngoai_giao_tai_cac_diem_nong.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 21 Jul 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Những bài toán lợi ích liên quan đến dự án "Dòng chảy phương Bắc 2"</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Dự án "Dòng chảy phương Bắc 2" được truyền thông quốc tế nhắc tới nhiều trong tuần qua, bởi đó là một trong những nội dung chính được các nhà lãnh đạo Mỹ - Đức bàn thảo trong chuyến thăm mới đây của Thủ tướng Đức tới Mỹ. Giới quan sát cho rằng, những ngày tới đây, dự án khí đốt xuyên biển từ Nga sang Đức sẽ tiếp tục là chủ đề nóng khi được hoàn thành vào tháng 8 tới theo dự kiến và sẽ gắn với bài toán lợi ích của rất nhiều bên liên quan.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/07/19/vovlive_cacvandequocte_du_an_dong_chay_phuong_bac_2.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 19 Jul 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
