@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 20 Jul 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 25 Jul 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 20 Jul 2021 19:00:00 +0700</pubDate>
+    <pubDate>Sun, 25 Jul 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Điểm hẹn văn nghệ</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Diemhenvannghe.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Giải thưởng Thiếu nhi Dế Mèn 2021: Chưa tìm ra “Hiệp sĩ Dế Mèn”  20/7/2021</title>
+      <title>Thông điệp 5K qua tranh dân gian 25/7/2021</title>
+      <link>http://vov6.vov.vn/diem-hen-van-nghe/thong-diep-5k-qua-tranh-dan-gian-c158-33709.aspx</link>
+      <description><![CDATA[Bộ tranh với chủ đề 5K được các họa sĩ của báo Tuổi Trẻ Cười thực hiện trên tinh thần sáng tạo, kết hợp hài hòa từ 5 bức tranh dân gian Đông Hồ: “Vinh hoa”, “Hứng dừa”, “Đám cưới Chuột”, “Đấu vật” và “Chú bé thổi sáo”. Thông qua trí tưởng tượng phong phú và có phần hài hước, 5 bức tranh dân gian Đông Hồ đã trở thành 5 bức tranh tuyên truyền hiệu quả về chủ trương 5K theo khuyến cáo của Bộ Y tế trong phòng chống Covid: Khai báo y tế, Không tập trung, Khử khuẩn, Khoảng cách và Khẩu trang. (Điểm hẹn văn nghệ 19/06/2021)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/thong-diep-5k-qua-tranh-dan-gian-c158-33709.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_7/v2_1906_08h0018h30_diem_hen_van_nghe_257202120.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 25 Jul 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Giải thưởng Thiếu nhi Dế Mèn 2021: Chưa tìm ra “Hiệp sĩ Dế Mèn”   20/7/2021</title>
       <link>http://vov6.vov.vn/diem-hen-van-nghe/giai-thuong-thieu-nhi-de-men-2021-chua-tim-ra-hiep-si-de-men-c158-33698.aspx</link>
       <description><![CDATA[Năm nay, không có giải cao nhất - giải “Hiệp sĩ Dế Mèn”, mà chỉ có 5 giải đồng hạng “Khát vọng Dế Mèn”: Tiểu thuyết "Đi trốn" của nhà văn Bình Ca; phim hoạt hình "Khúc gỗ mục" của Công ty cổ phần Hãng phim Hoạt hình Việt Nam do NSND Nguyễn Thị Phương Hoa làm đạo diễn và họa sĩ; chùm tranh về thiên nhiên và cuộc sống của hoạ sĩ nhí Xèo Chu (Phó Vạn An); truyện tranh "Ly & Chũn - Tết là nhất, nhất là Tết!" của tác giả Mèo Mốc (Đặng Quang Dũng); bộ truyện "Khác biệt mới tuyệt làm sao" của Nguyễn Hoàng Vũ và các hoạ sĩ. (Điểm hẹn văn nghệ 05/06/2021)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/giai-thuong-thieu-nhi-de-men-2021-chua-tim-ra-hiep-si-de-men-c158-33698.aspx</guid>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/tieng-dan-moi-sau-bo-rao-da-noi-am-anh-so-phan-phu-nu-vung-cao-c158-33684.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_7/v2_22_05_08h18h30_diem_hen_van_nghe_177202116.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 17 Jul 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Phim “Trạng Tý”: Cuộc phiêu lưu từ trang truyện đến màn ảnh  26/6/2021</title>
-      <link>http://vov6.vov.vn/diem-hen-van-nghe/phim-trang-ty-cuoc-phieu-luu-tu-trang-truyen-den-man-anh-c158-32640.aspx</link>
-      <description><![CDATA[Với chi phí sản xuất khoảng 43 tỉ đồng, bộ phim của nhà sản xuất Ngô Thanh Vân, do Phan Gia Nhật Linh đạo diễn được đầu tư kỹ xảo, kể về hành trình của cậu bé Tý Sún mồ côi cha cùng ba người bạn thân là Sửu Ẹo, Dần Béo và Cả Mẹo bỏ nhà đi tìm lời giải đáp bí ẩn về cha của Tý. (Điểm hẹn văn nghệ 08/5/2021)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/phim-trang-ty-cuoc-phieu-luu-tu-trang-truyen-den-man-anh-c158-32640.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_6/v2_0805_08h0018h30_diem_hen_van_nghe_266202123.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 26 Jun 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
