@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 19 Jul 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jul 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 19 Jul 2021 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 26 Jul 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,17 @@
     </itunes:owner>
     <itunes:subtitle>Thể thao 7 ngày</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Thethao7ngay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Chương trình Thể thao 7 ngày 25/7/2021</title>
+      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
+      <description><![CDATA[- Điểm lại các sự kiện thể thao nổi bật trong nước và quốc tế tuần qua.
+- Thông tin về sự chuẩn bị của Nhật Bản cho Olympic Tokyo 2020. Đặc biệt là công tác phòng chống dịch Covid 19 và những sóng gió xung quanh việc nỗ lực tổ chức kỳ đại hội thể thao lớn nhất hành tinh
+- Áp dụng công nghệ, hỗ trợ tập luyện và thi đấu cho các vận động viên thể thao đỉnh cao tại Olympic 
+- Câu chuyện đặc biệt về nữ vận động viên bóng bàn khuyết tật người Nhật Bản với quan niệm: "Thà chết trên sàn đấu còn hơn nằm trên giường bệnh".]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/07/26/vovlive_thethao-7-ngay_2507.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 26 Jul 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Chương trình Thể thao 7 ngày 18/7/2021</title>
       <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
@@ -54,17 +65,6 @@
       <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2021/07/05/vovlive_thethao-7-ngay_0407.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 05 Jul 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chương trình Thể thao 7 ngày 27/6/2021</title>
-      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
-      <description><![CDATA[+ Các sự kiện thể thao nổi bật trong tuần qua
-+ Phân tích và đánh giá về màn trình diễn của các đội bóng tại vòng bảng và vòng đấu loại trực tiếp VCK Euro 2020.
-+ UEFA quyết định bãi bỏ luật bàn thắng sân khách áp dụng cho các Cup châu Âu vào mùa bóng tới.
-+ Câu chuyện về giải đua xe đạp Tour de France khởi tranh từ ngày 26/6: Tiền thưởng và cơ hội kinh doanh xóa mờ "bóng ma" Covid.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/06/28/vovlive_thethao-7-ngay_2706.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 28 Jun 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
