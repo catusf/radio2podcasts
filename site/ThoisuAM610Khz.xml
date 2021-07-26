@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 25 Jul 2021 18:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jul 2021 18:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 25 Jul 2021 18:00:00 +0700</pubDate>
+    <pubDate>Mon, 26 Jul 2021 18:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,28 +24,28 @@
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>TPHCM chung sức, đồng lòng quyết tâm thực hiện triệt để Chỉ thị 16 - Thời sự 11g00 26/07/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-chung-suc-dong-long-quyet-tam-thuc-hien-triet-de-chi-thi-16-thoi-su-11g00-26-07-2021-408281.html</link>
+      <description><![CDATA[11:00 - 26/07/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-chung-suc-dong-long-quyet-tam-thuc-hien-triet-de-chi-thi-16-thoi-su-11g00-26-07-2021-408281.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/07/26/AMThoisu11h00p260721.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 26 Jul 2021 18:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Mọi người dân đều bình đẳng về quyền lợi tiêm vắc-xin - Thời sự 5g30 26/07/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/moi-nguoi-dan-deu-binh-dang-ve-quyen-loi-tiem-vac-xin-thoi-su-5g30-26-07-2021-408279.html</link>
+      <description><![CDATA[05:30 - 26/07/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/moi-nguoi-dan-deu-binh-dang-ve-quyen-loi-tiem-vac-xin-thoi-su-5g30-26-07-2021-408279.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/07/26/AMThoisu05h30p260721.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 26 Jul 2021 12:30:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Điểm thi của đợt 1 kỳ thi THPT dự kiến công bố từ ngày 26/7 - Thời sự 11g00 25/7</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/diem-thi-cua-dot-1-ky-thi-thpt-du-kien-cong-bo-tu-ngay-26-7-thoi-su-11g00-25-7-408211.html</link>
       <description><![CDATA[11:00 - 25/07/2021]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/diem-thi-cua-dot-1-ky-thi-thpt-du-kien-cong-bo-tu-ngay-26-7-thoi-su-11g00-25-7-408211.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/07/25/AMThoisu11h00p250721.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 25 Jul 2021 18:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Xem xét đặc cách công nhận tốt nghiệp cho TS bị ảnh hưởng dịch Covid-19 - Thời sự 5g30 25/07/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/xem-xet-dac-cach-cong-nhan-tot-nghiep-cho-ts-bi-anh-huong-dich-covid-19-thoi-su-5g30-25-07-2021-408193.html</link>
-      <description><![CDATA[05:30 - 25/07/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/xem-xet-dac-cach-cong-nhan-tot-nghiep-cho-ts-bi-anh-huong-dich-covid-19-thoi-su-5g30-25-07-2021-408193.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/07/25/AMThoisu05h30p250721.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 25 Jul 2021 12:30:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Nỗ lực khơi thông luồng xanh hàng hóa – Thời sự 17g00 24/7/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/no-luc-khoi-thong-luong-xanh-hang-hoa-thoi-su-17g00-24-7-2021-408161.html</link>
-      <description><![CDATA[18:58 - 24/07/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/no-luc-khoi-thong-luong-xanh-hang-hoa-thoi-su-17g00-24-7-2021-408161.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/07/24/AMThoisu17h00p240721.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 25 Jul 2021 01:58:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
