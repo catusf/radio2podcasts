@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 22 Jul 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jul 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 22 Jul 2021 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 27 Jul 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Kể chuyện và hát ru cho bé</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Kechuyenvahatruchobe.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>"Ba chàng dũng sỹ" - Câu chuyện về lòng dũng cảm (Phần 2) 22/7/2021</title>
+      <title>Tình mẫu tử trong truyện cổ tích "Con lạc đà trắng" 27/7/2021</title>
+      <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/tinh-mau-tu-trong-truyen-co-tich-con-lac-da-trang-c43-33719.aspx</link>
+      <description><![CDATA[Vượt qua bao nhiêu thử thách và hiểm nguy, lạc đà trắng đã gặp lại được mẹ của mình. Thế nhưng chỉ trong phút chốc họ đã phải chia lìa mãi mãi. Điều gì đã khiến mẹ con lạc đà phải xa nhau? (Kể chuyện và hát ru 23/07/2021)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/tinh-mau-tu-trong-truyen-co-tich-con-lac-da-trang-c43-33719.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_7/v2_2307_21h45_ke_chuyen_va_hat_ru_277202117.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 27 Jul 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>"Ba chàng dũng sỹ" - Câu chuyện về lòng dũng cảm (Phần 2)  22/7/2021</title>
       <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/ba-chang-dung-sy-cau-chuyen-ve-long-dung-cam-phan-2-c43-33706.aspx</link>
       <description><![CDATA[Vâng lời mẹ, người em thứ hai và người em út rời quê hương đi đến vùng đất lạ. Người anh cả ở lại nhà. Một hôm, Xà tinh mò đến quê hương của ba chàng trai. Nó đi đến đâu, cây rừng nghiêng ngả, gió rú ào ào, khói mây bay mù mịt đến đấy. Người anh cả thấy có chuyện lạ, vội từ trong nhà rông bước ra, nghênh chiến với xà tinh... (Kể chuyện và hát ru cho bé 20/07/2021)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/ba-chang-dung-sy-cau-chuyen-ve-long-dung-cam-phan-2-c43-33706.aspx</guid>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/ba-chang-dung-sy-cau-chuyen-ve-long-dung-cam-phan-1-c43-33705.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_7/v2_192107_21h45_ke_chuyen_va_hat_ru_227202115.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 22 Jul 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Truyện cổ tích về người thừa kế ngai vàng  22/6/2021</title>
-      <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/truyen-co-tich-ve-nguoi-thua-ke-ngai-vang-c43-32630.aspx</link>
-      <description><![CDATA[Ngày xưa, ở đất nước Triều Tiên xa xôi có một vị vua rất hiền từ, nhân hậu. Nhằm tìm được người xứng đáng để truyền ngôi, ông đã nghĩ ra kế hoạch rất chi tiết và thú vị. Ông đòi hỏi người thừa kế ngai vàng cần phải có những đức tính nào? (Kể chuyện và hát ru 18/06/2021)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/truyen-co-tich-ve-nguoi-thua-ke-ngai-vang-c43-32630.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_6/v2_1806_21h45_ke_chuyen_hat_ru_226202115.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 22 Jun 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
