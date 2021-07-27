@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 26 Jul 2021 13:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jul 2021 15:39:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 26 Jul 2021 13:00:00 +0700</pubDate>
+    <pubDate>Tue, 27 Jul 2021 15:39:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Buổi sáng đầu tiên khi phường của mình bắt đầu phong tỏa! - Sài Gòn buổi sáng 27/7/2021</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/buoi-sang-dau-tien-khi-phuong-cua-minh-bat-dau-phong-toa-sai-gon-buoi-sang-27-7-2021-408354.html</link>
+      <description><![CDATA[08:39 - 27/07/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/buoi-sang-dau-tien-khi-phuong-cua-minh-bat-dau-phong-toa-sai-gon-buoi-sang-27-7-2021-408354.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/07/27/fmsaigonbuoisang06h00p270721-the-anh-20210727072337-Copy.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 27 Jul 2021 15:39:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Sài Gòn buổi sáng 26/07/2021</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-26-07-2021-408280.html</link>
       <description><![CDATA[06:00 - 26/07/2021]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-26-07-2021-408280.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/07/26/sgbs-260721-20210726080748.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 26 Jul 2021 13:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Sài Gòn buổi sáng - 25/07/2021</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-25-07-2021-408192.html</link>
-      <description><![CDATA[06:00 - 25/07/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-25-07-2021-408192.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/07/25/FMsaigonbuoisang06h00p250721.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 25 Jul 2021 13:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
