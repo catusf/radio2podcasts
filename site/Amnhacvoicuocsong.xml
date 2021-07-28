@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 20 Jul 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jul 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 20 Jul 2021 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 27 Jul 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Âm nhạc với cuộc sống</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Amnhacvoicuocsong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>“Đất thiêng Đồng Lộc”: Tác phẩm âm nhạc khắc họa tấm gương hy sinh của 10 cô gái ở Ngã ba Đồng Lộc</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[Kỷ niệm 74 năm ngày Thương binh liệt sĩ (27/7/1947-27/7/2021), 53 năm ngày hy sinh của 10 cô gái thanh niên xung phong Ngã ba Đồng Lộc, cùng lắng nghe tác phẩm âm nhạc “Đất thiêng Đồng Lộc” (âm nhạc-nhạc sĩ Trần Nhật Dương-nguyên Phó ban Ban Âm nhạc-VOV3 Đài TNVN, lời thơ-nhà báo Trần Nhật Minh - Trưởng ban Ban Văn học Nghệ thuật - VOV6 Đài TNVN) và nghe những chia sẻ của nhà báo Trần Nhật Minh về tác phẩm này...]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/07/27/vovlive_am_nhac_voi_cuoc_song_dat_thieng_dong_loc_tran_nhat_duong_tran_nhat_minh.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 27 Jul 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>“Thương nhớ Sài Gòn”: Tâm tư của chàng nhạc sĩ 8X Nguyễn Bá Hùng mong thành phố hết dịch, trở lại nhịp sống thường nhật</title>
       <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2021/07/06/vovlive_am_nhac_voi_cuoc_song_noi_lua_len_em_huy_du.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 06 Jul 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>“Lời ru nơi tuyến đầu”: Tác phẩm âm nhạc gửi gắm tâm tư của nữ  trung tá, quân nhân chuyên nghiệp Vũ Thị Huyền Ngọc (Nhà Văn hóa, Cục Chính trị, Bộ tư lệnh Bộ đội biên phòng)</title>
-      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[Xúc động trước hình ảnh con gái nhỏ của Trung úy Phùng Thị Hạnh (điều dưỡng viên Khoa Chẩn đoán chức năng, Bệnh viện Quân y 103, Học viện Quân y - một trong hơn 160 y, bác sỹ Bệnh viện Quân y 103 được điều động đến tỉnh Bắc Giang hỗ trợ chống dịch COVID-19) khóc đòi mẹ khi nhìn thấy chị Hạnh xuất hiện trên tivi.  Nhớ lại những lần xa con nhỏ nhận nhiệm vụ lên đường, nữ trung tá quân nhân chuyên nghiệp Vũ Thị Huyền Ngọc đã viết  ca khúc thấm đẫm tình mẫu tử bao la của người mẹ - người lính nơi tuyến đầu chống dịch: "Lời ru nơi tuyến đầu". Ca khúc là món quà tinh thần chị gửi tới những người đồng đội, những lực lượng trên tuyến đầu đang ngày đêm căng mình nỗ lực đẩy lùi đại dịch, đem lại cuộc sống bình yên cho nhân dân…]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/06/29/vovlive_am_nhac_voi_cuoc_song_loi_ru_noi_tuyen_dau.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 29 Jun 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
