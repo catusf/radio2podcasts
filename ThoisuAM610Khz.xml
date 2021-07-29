@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 29 Jul 2021 02:47:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jul 2021 16:10:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 29 Jul 2021 02:47:00 +0700</pubDate>
+    <pubDate>Thu, 29 Jul 2021 16:10:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Bài 2: Câu chuyện viết thương hiệu cho riêng mình - Thời Sự 5g30 29/7/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/bai-2-cau-chuyen-viet-thuong-hieu-cho-rieng-minh-thoi-su-5g30-29-7-2021-408525.html</link>
+      <description><![CDATA[09:10 - 29/07/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/bai-2-cau-chuyen-viet-thuong-hieu-cho-rieng-minh-thoi-su-5g30-29-7-2021-408525.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/07/29/AMThoisu05h30p290721.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 29 Jul 2021 16:10:00 +0700</pubDate>
+    </item>
     <item>
       <title>Đại biểu Quốc hội tin tưởng chỉ tiêu phát triển KTXH sẽ đạt mục tiêu – Thời sự 17g00 28/7/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/dai-bieu-quoc-hoi-tin-tuong-chi-tieu-phat-trien-ktxh-se-dat-muc-tieu-thoi-su-17g00-28-7-2021-408493.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/to-chuc-cong-doan-diem-tua-cho-nguoi-lao-dong-thoi-su-11g00-28-7-2021-408473.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/07/28/amthoisu11h00p280721-20210728104449.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 28 Jul 2021 20:05:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Bài 1: Từ ước vọng một sân chơi âm nhạc tài tử - Thời sự 5g30 28/7/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/bai-1-tu-uoc-vong-mot-san-choi-am-nhac-tai-tu-thoi-su-5g30-28-7-2021-408445.html</link>
-      <description><![CDATA[06:09 - 28/07/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/bai-1-tu-uoc-vong-mot-san-choi-am-nhac-tai-tu-thoi-su-5g30-28-7-2021-408445.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/07/28/amthoisu05h30p280721-20210727233336.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 28 Jul 2021 13:09:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
