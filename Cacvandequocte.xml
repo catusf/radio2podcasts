@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 28 Jul 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jul 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 28 Jul 2021 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 29 Jul 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Kết thúc sứ mệnh chiến đấu tại chiến trường Iraq, Mỹ toan tính điều gì?</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Sau hơn 18 năm Mỹ triển khai quân đội tại Iraq, Tổng thống Joe Biden vừa chính thức thông báo sẽ kết thúc nhiệm vụ chiến đấu của quân đội Mỹ ở Iraq vào cuối năm nay. Quyết định này được đưa ra trong cuộc gặp giữa Tổng thống Biden và Thủ tướng Iraq Mustafa Al-Kadhimi mới đây, sau nhiều tuần đối thoại chiến lược về tương lai của quân đội Mỹ tại chiến trường Trung Đông này. Liệu thỏa thuận này có đồng nghĩa với việc Mỹ sẽ rút lui hoàn toàn khỏi Iraq? Đâu sẽ là bước đi tiếp theo của Washington khi lợi ích chiến lược của nước này vẫn hiện diện tại đây?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/07/29/vovlive_cacvandequocte_ket_thuc_su_menh_chien_dau-tai_chinh_truong_irac.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 29 Jul 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Đối thoại Mỹ - Trung: Vẫn khó tìm tiếng nói chung</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2021/07/23/vovlive_cacvandequocte_cuoc_gap_my_nhat_han.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 23 Jul 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Thế giới giải “bài toán khó” về công bằng vaccine</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Ngày 21.7, Đại diện Tổ chức Y tế Thế giới (WHO) và Tổ chức Thương mại Thế giới (WTO) đã nhóm họp tại Giơ-ne-vơ (Thụy Sĩ) để thảo luận về việc thúc đẩy công bằng trong việc tiếp cận vaccine Covid-19. Nhìn bức tranh tiêm chủng trên toàn thế giới hiện nay có thể thấy rõ sự tương phản giữa hai mảng sáng – tối, với một bên là những nước giàu đã đạt tỷ lệ tiêm chủng rất cao, thậm chí tính tới việc tiêm liều thứ 3, với một bên là những quốc gia chỉ đạt tỷ lệ tiêm chủng rất thấp, ví dụ tại châu Phi chỉ đạt chưa tới 2%. Vậy hội nghị của WHO và WTO có thể đưa ra những giải pháp nào để biến những lời cam kết về công bằng vaccine thành hiện thực?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/07/22/vovlive_cacvandequocte_the_gioi_giai_bai_toan_kho_ve_cong_bang_vaccine.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 22 Jul 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
