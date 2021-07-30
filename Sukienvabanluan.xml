@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 28 Jul 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jul 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 28 Jul 2021 19:00:00 +0700</pubDate>
+    <pubDate>Fri, 30 Jul 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Gian nan Công ước chống tội phạm mạng toàn cầu</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Trong tuyên bố mới đây, Tổng Thống Mỹ Joe Biden cảnh báo một cuộc tấn công mạng lớn nghiêm trọng có thể dẫn đến một cuộc chiến tranh thật sự của tiếng súng, ám chỉ đến mối đe dọa tội phạm mạng từ Nga. Trong bối cảnh an ninh mạng đang trở thành vấn đề khiến chính quyền nhiều nước phải đau đầu, các bên liên tục cáo buộc nhau thực hiện các vụ tấn công nguy hiểm, nhu cầu cấp thiết về một Công ước quốc tế toàn diện về chống tội phạm mạng lại được đặt ra. Mới nhất, Nga là quốc gia đầu tiên đệ trình lên Liên hợp quốc một dự thảo Công ước về chống tội phạm mạng toàn cầu. Tuy nhiên theo giới quan sát, đây chỉ là “phát súng mở màn” cho một hành trình gian nan để các nước có thể thống nhất cho ra đời một Công ước áp dụng chung cho tất cả các quốc gia!]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/07/30/vovlive_sukienvabinhluan_gian_nan_cong_uoc_chong_toi_pham_mang_toan_cau-30-7-21.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 30 Jul 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Vì sao Australia tụt lại trong cuộc đua tiêm chủng vaccine Covid-19?</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2021/07/22/vovlive_sukienvabinhluan_tranh_cai_ke_hoach_chong_bien_doi_khi_hau_tham_vong_cua_chau_au-19-7-21.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 22 Jul 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Gỡ khó trong xét nghiệm và quản lý lái xe chở hàng</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Khi đợt dịch thứ 4 đang diễn biến phức tạp, để vận chuyển hàng hóa liên tỉnh, các tài xế xe tải hầu như phải có chứng nhận xét nghiệm âm tính với SARS-CoV2. Trên thực tế, việc này đang gây ra nhiều khó khăn cho quá trình giao thương khi quy định tại các địa phương không đồng nhất về thời hạn của kết quả xét nghiệm và công tác quản lý tài xế đến/đi còn nhiều bất cập. Thế nên mới có chuyện: một tài xế xe tải tuyến Bắc - Nam đã làm test nhanh ở ngoài Bắc, nhưng khi vào đến Đắk Lắk thì kết quả vừa hết hạn. Muốn di chuyển vào thành phố Hồ Chí Minh, anh này phải tìm dịch vụ làm test nhanh COVID -19 tại đây. Nhưng ngặt nỗi, đi xét nghiệm thì đơn vị chuyên môn lại… hết test hoặc không đến lượt. Cuối cùng,  người lái xe này lâm vào cảnh trở đi mắc núi mà trở lại thì mắc sông....]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/07/19/vovlive_sukienvabinhluan_go_kho_trong_xet_nghiem_va_quan_ly_lai_xe_cho_hang.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 19 Jul 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
