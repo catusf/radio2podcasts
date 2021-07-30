@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 29 Jul 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jul 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 29 Jul 2021 19:00:00 +0700</pubDate>
+    <pubDate>Fri, 30 Jul 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Tính toán chiến lược của Trung Quốc tại Afganistan</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Theo thông tin đăng tải trên Reuters, một phái đoàn gồm 9 thành viên của lực lượng Taliban đã tới Trung Quốc và có cuộc gặp với Bộ trưởng Ngoại giao Trung Quốc Vương Nghị tại thành phố Thiên Tân. Sự xuất hiện của phái đoàn Taliban tại Trung Quốc làm dấy lên đồn đoán về những tính toán chiến lược của Trung Quốc tại Afganistan nhằm “lấp khoảng trống” tại quốc gia Nam Á này sau khi Mỹ rút quân, dự kiến vào ngày 31/8 tới. Những tính toán của Trung Quốc được cho là không quá bất ngờ, bởi là hai nước láng giềng, những diễn biến an ninh, chính trị tại Afganistan sẽ ảnh hưởng rất lớn tới lợi ích của Trung Quốc trong khu vực.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/07/30/vovlive_cacvandequocte_tinh_toan_chien_luoc_cua_trung_quoc_tai_afganistan.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 30 Jul 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Kết thúc sứ mệnh chiến đấu tại chiến trường Iraq, Mỹ toan tính điều gì?</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2021/07/27/vovlive_cacvandequocte_chuyen_cong_du_cua_bo_truong_qyoc_phong_my.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 27 Jul 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Cuộc gặp Mỹ - Nhật - Hàn cam kết duy trì Ấn Độ Dương - Thái Bình Dương đa phương, tự do và rộng mở</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Mỹ, Nhật Bản và Hàn Quốc vừa tái khẳng định cam kết cùng nhau giải quyết các mối đe dọa trong khu vực, phản đối những hành động làm xói mòn trật tự quốc tế và nêu bật sự cần thiết duy trì một khu vực Ấn Độ Dương -Thái Bình Dương đa phương, tự do và rộng mở. Cam kết này được các nhà ngoại giao Mỹ, Nhật Bản và Hàn Quốc đưa ra tại hội nghị 3 bên diễn ra ở thủ đô Tokyo (Nhật Bản). Cuộc gặp Mỹ - Nhật - Hàn diễn ra trong bối cảnh quan hệ Nhật Bản và Hàn Quốc đang căng thẳng liên quan đến phát ngôn của Phó Đại sứ Nhật Bản tại Seoul khiến Tổng thống Hàn Quốc Moon Jae-In hủy chuyến thăm tới Nhật Bản. Chính vì thế, cuộc gặp ba bên lần này là cơ hội quý giá để hai quốc gia Đông Bắc Á gạt bỏ bất đồng, bắt tay vì mục tiêu chung.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/07/23/vovlive_cacvandequocte_cuoc_gap_my_nhat_han.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 23 Jul 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
