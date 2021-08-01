@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 26 Jul 2021 03:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 02 Aug 2021 03:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 26 Jul 2021 03:00:00 +0700</pubDate>
+    <pubDate>Mon, 02 Aug 2021 03:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sóng điện ảnh trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Songdienanh.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Những series phim Hàn nổi bật 6 tháng đầu năm 2021 (Kỳ cuối) - Khung hình thứ 25 1/8/2021</title>
+      <link>https://radio.voh.com.vn/khung-hinh-thu-25/nhung-series-phim-han-noi-bat-6-thang-dau-nam-2021-ky-cuoi-khung-hinh-thu-25-1-8-2021-408805.html</link>
+      <description><![CDATA[20:00 - 01/08/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/khung-hinh-thu-25/nhung-series-phim-han-noi-bat-6-thang-dau-nam-2021-ky-cuoi-khung-hinh-thu-25-1-8-2021-408805.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/08/01/khung-hinh-010821.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 02 Aug 2021 03:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Những series phim Hàn nổi bật 6 tháng đầu năm 2021 (Kỳ 4) - Khung hình thứ 25 25/7/2021</title>
       <link>https://radio.voh.com.vn/khung-hinh-thu-25/nhung-series-phim-han-noi-bat-6-thang-dau-nam-2021-ky-4-khung-hinh-thu-25-25-7-2021-408195.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/khung-hinh-thu-25/nhung-series-phim-han-noi-bat-6-thang-dau-nam-2021-ky-1-khung-hinh-thu-25-4-7-2021-406491.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/07/04/khunghinh25-040721.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 05 Jul 2021 03:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Các ứng dụng xem phim trực tuyến - Khung hình thứ 25 27/6/2021</title>
-      <link>https://radio.voh.com.vn/khung-hinh-thu-25/cac-ung-dung-xem-phim-truc-tuyen-khung-hinh-thu-25-27-6-2021-405911.html</link>
-      <description><![CDATA[20:00 - 27/06/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/khung-hinh-thu-25/cac-ung-dung-xem-phim-truc-tuyen-khung-hinh-thu-25-27-6-2021-405911.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/06/27/kh25-270621.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 28 Jun 2021 03:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

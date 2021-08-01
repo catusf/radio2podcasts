@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 01 Aug 2021 18:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 01 Aug 2021 00:00:00 +0700</pubDate>
+    <pubDate>Sun, 01 Aug 2021 18:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,28 +24,28 @@
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>537 đầu mối cung cấp nông sản phía Nam được kết nối - Thời sự 11g00 1/8/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/537-dau-moi-cung-cap-nong-san-phia-nam-duoc-ket-noi-thoi-su-11g00-1-8-2021-408799.html</link>
+      <description><![CDATA[11:00 - 01/08/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/537-dau-moi-cung-cap-nong-san-phia-nam-duoc-ket-noi-thoi-su-11g00-1-8-2021-408799.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/08/01/TS11G00-010821.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 01 Aug 2021 18:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>TPHCM được phân bổ vắc xin cao nhất trong cả nước - Thời sự 05g30 1/8/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-duoc-phan-bo-vac-xin-cao-nhat-trong-ca-nuoc-thoi-su-05g30-1-8-2021-408798.html</link>
+      <description><![CDATA[05:30 - 01/08/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-duoc-phan-bo-vac-xin-cao-nhat-trong-ca-nuoc-thoi-su-05g30-1-8-2021-408798.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/08/01/ts05g30-010821.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 01 Aug 2021 12:30:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Số ca F0 tại TP Hồ Chí Minh đang đi ngang - Thời sự 17g00 31/07/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/so-ca-f0-tai-tp-ho-chi-minh-dang-di-ngang-thoi-su-17g00-31-07-2021-408763.html</link>
       <description><![CDATA[17:00 - 31/07/2021]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/so-ca-f0-tai-tp-ho-chi-minh-dang-di-ngang-thoi-su-17g00-31-07-2021-408763.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/07/31/AMThoisu17h00p310721.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Nguy cơ xuất hiện nhiều biến thể nguy hiểm mới của virus SARS-CoV-2 - Thời sự 11g00 31/07/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/nguy-co-xuat-hien-nhieu-bien-the-nguy-hiem-moi-cua-virus-sars-cov-2-thoi-su-11g00-31-07-2021-408723.html</link>
-      <description><![CDATA[11:00 - 31/07/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/nguy-co-xuat-hien-nhieu-bien-the-nguy-hiem-moi-cua-virus-sars-cov-2-thoi-su-11g00-31-07-2021-408723.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/07/31/AMThoisu11h00p310721.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 31 Jul 2021 18:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Tất cả người dân TPHCM sẽ được tiêm vắc-xin ngừa Covid-19 - Thời sự 5g30 31/07/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tat-ca-nguoi-dan-tphcm-se-duoc-tiem-vac-xin-ngua-covid-19-thoi-su-5g30-31-07-2021-408716.html</link>
-      <description><![CDATA[05:30 - 31/07/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tat-ca-nguoi-dan-tphcm-se-duoc-tiem-vac-xin-ngua-covid-19-thoi-su-5g30-31-07-2021-408716.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/07/31/AMThoisu05h30p310721.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 31 Jul 2021 12:30:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
