@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 31 Jul 2021 13:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 01 Aug 2021 13:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 31 Jul 2021 13:00:00 +0700</pubDate>
+    <pubDate>Sun, 01 Aug 2021 13:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Sài Gòn buổi sáng - 1/8/2021</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-1-8-2021-408802.html</link>
+      <description><![CDATA[06:00 - 01/08/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-1-8-2021-408802.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/08/01/sgbs-010821.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 01 Aug 2021 13:00:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Sài Gòn Buổi Sáng - 31/07/2021</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-31-07-2021-408717.html</link>
       <description><![CDATA[06:00 - 31/07/2021]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-31-07-2021-408717.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/07/31/fmsaigonbuoisang06h00p310721-20210730235939.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 31 Jul 2021 13:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Gỡ vướng tiêu thụ nông sản cho khu vực phía Nam - Sài Gòn buổi sáng 29/7/2021</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/go-vuong-tieu-thu-nong-san-cho-khu-vuc-phia-nam-sai-gon-buoi-sang-29-7-2021-408524.html</link>
-      <description><![CDATA[08:51 - 29/07/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/go-vuong-tieu-thu-nong-san-cho-khu-vuc-phia-nam-sai-gon-buoi-sang-29-7-2021-408524.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/07/29/fmsaigonbuoisang06h00p290721.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 29 Jul 2021 15:51:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
