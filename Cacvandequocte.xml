@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 30 Jul 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 02 Aug 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 30 Jul 2021 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 02 Aug 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Afghanistan: “Miếng bánh đầy cám dỗ” thúc đẩy tính toán chiến lược của các nước lớn</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Sự xuất hiện của phái đoàn Taliban tại Trung Quốc làm dấy lên đồn đoán về những tính toán chiến lược của Trung Quốc tại Afganistan nhằm “lấp khoảng trống” tại quốc gia Nam Á này, sau khi Mỹ rút quân. Những gì diễn ra trên thực tế ở thời điểm này cho thấy, một khoảng trống quyền lực rất lớn ở Afghanístan. Không chỉ có Trung Quốc, mà còn có rất nhiều nước khác đang muốn thay thế Mỹ để hiện diện ở quốc gia Nam Á này. Đó là Nga, Thổ Nhĩ Kỳ, Iran và sự xuất hiện chính thức của Trung Quốc khiến cho miếng bánh Afghanistan trở nên hấp dẫn hơn và cũng vì thế mà cuộc cạnh tranh địa chính trị ở Afghanistan vì thế càng trở nên nóng hơn.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/08/02/vovlive_cacvandequocte_afganistan_mieng_banh_day_cam_do.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 02 Aug 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Tính toán chiến lược của Trung Quốc tại Afganistan</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2021/07/28/vovlive_cacvandequocte_doi_thoai_my_trung_van_kho_tim_tieng_noi_chung(1).mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 28 Jul 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Những cam kết với khu vực Đông Nam Á trong chuyến công du của Bộ trưởng Quốc phòng Mỹ</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Bộ trưởng Quốc phòng Mỹ bắt đầu chuyến công du tới các nước Đông Nam Á, trong đó điểm dừng chân đầu tiên là Singapore. Đây là chuyến thăm khu vực đầu tiên của một quan chức cấp cao trong chính quyền Tổng thống Joe Biden. Chuyến đi này sẽ đánh dấu cam kết bền vững của Mỹ đối với khu vực và lợi ích của Mỹ trong việc duy trì trật tự quốc tế dựa trên quy tắc tại khu vực và thúc đẩy tính trung tâm của ASEAN.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/07/27/vovlive_cacvandequocte_chuyen_cong_du_cua_bo_truong_qyoc_phong_my.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 27 Jul 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
