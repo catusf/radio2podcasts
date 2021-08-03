@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 02 Aug 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 03 Aug 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 02 Aug 2021 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 03 Aug 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Vấn đề Bắc Ireland đe dọa các cam kết Brexit giữa Anh và Liên minh Châu Âu (EU)</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Sau hơn nửa năm Anh chính thức rời khỏi Liên minh Châu Âu (EU), căng thẳng giữa hai bên lại bùng phát sau khi Chính phủ Anh đề nghị EU đàm phán lại các điều khoản thương mại hậu Brexit dành riêng cho vùng Bắc Ireland. Tuy nhiên, đến thời điểm này, phía EU vẫn giữ quan điểm các thỏa thuận liên quan đến Bắc Ireland là “không thể đàm phán lại”, đồng thời tiến hành các bước đi pháp lý với cáo buộc Anh vi phạm điều khoản của thỏa thuận Brexit. Giới phân tích lo ngại, những căng thẳng mới phát sinh liên quan đến vấn đề biên giới Bắc Ireland có thể đe dọa các cam kết khác về Brexit giữa Anh và EU, khiến mối quan hệ giữa hai bên thời “hậu Brexit” càng thêm rạn nứt.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/08/03/vovlive_cacvandequocte_van_de_bac_ireland_de_doa_cac_cam_ket_brexit.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 03 Aug 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Afghanistan: “Miếng bánh đầy cám dỗ” thúc đẩy tính toán chiến lược của các nước lớn</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2021/07/29/vovlive_cacvandequocte_ket_thuc_su_menh_chien_dau-tai_chinh_truong_irac.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 29 Jul 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đối thoại Mỹ - Trung: Vẫn khó tìm tiếng nói chung</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Diễn ra trong bối cảnh quan hệ Mỹ - Trung đang ở mức thấp nhất, các cuộc gặp cấp cao trở nên hiếm hoi, chuyến thăm Trung Quốc của Thứ trưởng ngoại giao Mỹ Wendy Sherman đã trở thành trọng tâm chú ý của giới quan sát quốc tế. Mặc dù quy mô không lớn như đối thoại Mỹ - Trung tại Alaska hồi tháng 3 năm nay, song bầu không khí của cuộc tiếp xúc lần này cũng căng thẳng không kém khi đại diện hai nước có những tuyên bố thẳng thắn, trực diện vào những vấn đề đang nảy sinh bất đồng giữa hai bên. Mỹ muốn tạo ra một “hàng rào an toàn” để tránh những hậu quả đáng tiếc trong cuộc đối đầu kéo dài, còn phía Trung Quốc lại đưa ra một danh sách dài những yêu cầu cần Mỹ đáp ứng để “sửa chữa” mối quan hệ song phương.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/07/28/vovlive_cacvandequocte_doi_thoai_my_trung_van_kho_tim_tieng_noi_chung(1).mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 28 Jul 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
