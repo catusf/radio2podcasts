@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 27 Jul 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 03 Aug 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 27 Jul 2021 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 03 Aug 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Âm nhạc với cuộc sống</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Amnhacvoicuocsong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>“Tôi có vài cuộc hẹn”: Món quà âm nhạc tri ân các lực lượng tuyến đầu, cổ vũ và động viên đồng bào chống dịch của nhạc sĩ Nguyễn Bá Hùng</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[Trong thời gian giãn cách do đại dịch Covid 19, nhạc sĩ Nguyễn Bá Hùng đã cùng ca sĩ Nguyễn Phi Hùng thực hiện sản phẩm âm nhạc “Tôi có vài cuộc hẹn” để tri ân các y, bác sĩ đang ngày đêm chống dịch cũng như cổ vũ và động viên tinh thần chống dịch của nhân dân cả nước. Cùng gặp gỡ và lắng nghe những chia sẻ của nhạc sĩ Nguyễn Bá Hùng về dự án âm nhạc này...]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/08/03/vovlive_am_nhac_voi_cuoc_song_toi_co_vai_cuoc_hen_nguyen_ba_hung.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 03 Aug 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>“Đất thiêng Đồng Lộc”: Tác phẩm âm nhạc khắc họa tấm gương hy sinh của 10 cô gái ở Ngã ba Đồng Lộc</title>
       <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2021/07/13/vovlive_am_nhac_voi_cuoc_song_y_jang_tuyn.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 13 Jul 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>“Nổi lửa lên em”: Câu chuyện đẹp trong hành trang người nhạc sĩ, chiến sĩ</title>
-      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[Nhân kỷ niệm Ngày truyền thống Ngành Hậu cần Quân đội (11/7/1950-11/7/2021), cùng tìm hiểu hoàn cảnh ra đời của bài hát “Nổi lửa lên em” của nhạc sĩ Huy Duy, lời thơ Giang Lam...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/07/06/vovlive_am_nhac_voi_cuoc_song_noi_lua_len_em_huy_du.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 06 Jul 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
