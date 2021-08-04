@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 04 Aug 2021 19:16:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 05 Aug 2021 04:16:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 04 Aug 2021 19:16:00 +0700</pubDate>
+    <pubDate>Thu, 05 Aug 2021 04:16:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Bà con chung tay giữ vững vùng xanh - Thời sự 17g00 4/8/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/ba-con-chung-tay-giu-vung-vung-xanh-thoi-su-17g00-4-8-2021-409053.html</link>
+      <description><![CDATA[21:16 - 04/08/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/ba-con-chung-tay-giu-vung-vung-xanh-thoi-su-17g00-4-8-2021-409053.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/08/04/AMThoisu17h00p040821.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 05 Aug 2021 04:16:00 +0700</pubDate>
+    </item>
     <item>
       <title>Bài 3: Chuyển đổi số trong nông nghiệp: Tiến nhanh - Tiến vững – Thời sự 11g00 4/8/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/bai-3-chuyen-doi-so-trong-nong-nghiep-tien-nhanh-tien-vung-thoi-su-11g00-4-8-2021-409029.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/thanh-pho-buoc-vao-dot-6-tiem-vac-xin-va-du-kien-keo-dai-den-het-thang-8-thoi-su-5g30-4-8-2021-409027.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/08/04/AMThoisu05h30p040821-Copy.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 04 Aug 2021 19:05:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Cam kết sẽ không để người dân ở lại TPHCM thiếu đói - Thời sự 17g00 03/08/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/cam-ket-se-khong-de-nguoi-dan-o-lai-tphcm-thieu-doi-thoi-su-17g00-03-08-2021-408975.html</link>
-      <description><![CDATA[17:00 - 03/08/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/cam-ket-se-khong-de-nguoi-dan-o-lai-tphcm-thieu-doi-thoi-su-17g00-03-08-2021-408975.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/08/03/AMThoisu17h00p030821.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 04 Aug 2021 00:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
