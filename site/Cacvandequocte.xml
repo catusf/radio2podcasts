@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 03 Aug 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 04 Aug 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 03 Aug 2021 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 04 Aug 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,15 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ấn Độ nghiên cứu, thử nghiệm và phát triển các sản phẩm mới ngăn chặn Covid-19</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Biến thể Delta của virus SARS Cov-2 đang tàn phá thế giới với tốc độ chưa từng có và mọi việc đều đang nằm ngoài dự tính của con người. Vấn đề là thế giới cần phải có chiến lược vaccine sáng tạo hơn, quyết đoán hơn nhằm ngăn chặn đà lây nhiễm của SARS-CoV-2.
+Với lợi thế về dân số và khoa học công nghệ, Ấn Độ là quốc gia đang tiến hành nghiên cứu, thử nghiệm và phát triển các sản phẩm mới nhằm ngăn chặn Covid-19. Trong quá trình này, Việt Nam là một trong các quốc gia đối tác trong việc nghiên cứu, thử nghiệm các loại vaccine được sản xuất từ Ấn Độ.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/08/04/vovlive_cacvandequocte_an_do_nghien_cuu_thu_nghiem_va_phat_trien_cac_san_pham_moi_ngan_chan_covid_19.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 04 Aug 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Vấn đề Bắc Ireland đe dọa các cam kết Brexit giữa Anh và Liên minh Châu Âu (EU)</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +55,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2021/07/30/vovlive_cacvandequocte_tinh_toan_chien_luoc_cua_trung_quoc_tai_afganistan.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 30 Jul 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Kết thúc sứ mệnh chiến đấu tại chiến trường Iraq, Mỹ toan tính điều gì?</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Sau hơn 18 năm Mỹ triển khai quân đội tại Iraq, Tổng thống Joe Biden vừa chính thức thông báo sẽ kết thúc nhiệm vụ chiến đấu của quân đội Mỹ ở Iraq vào cuối năm nay. Quyết định này được đưa ra trong cuộc gặp giữa Tổng thống Biden và Thủ tướng Iraq Mustafa Al-Kadhimi mới đây, sau nhiều tuần đối thoại chiến lược về tương lai của quân đội Mỹ tại chiến trường Trung Đông này. Liệu thỏa thuận này có đồng nghĩa với việc Mỹ sẽ rút lui hoàn toàn khỏi Iraq? Đâu sẽ là bước đi tiếp theo của Washington khi lợi ích chiến lược của nước này vẫn hiện diện tại đây?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/07/29/vovlive_cacvandequocte_ket_thuc_su_menh_chien_dau-tai_chinh_truong_irac.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 29 Jul 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
