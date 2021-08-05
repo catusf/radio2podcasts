@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 03 Aug 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 05 Aug 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 03 Aug 2021 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 05 Aug 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Kể chuyện và hát ru cho bé</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Kechuyenvahatruchobe.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Số phận của gã ruồi ong 3/8/2021</title>
+      <title>Vị hoàng thân keo kiệt trong truyện cổ tích "Người vợ no bụng vì gió"5/8/2021</title>
+      <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/vi-hoang-than-keo-kiet-trong-truyen-co-tich-nguoi-vo-no-bung-vi-gio-c43-33748.aspx</link>
+      <description><![CDATA[Xưa có một vị hoàng thân vô cùng keo kiệt, không muốn mất bất kỳ một đồng một cắc nào cho người khác. Ông đối xử khắc nghiệt cả với người vợ xinh đẹp của mình. Người vợ ấy đã nghĩ ra kế sách gì để giúp cho vị hoàng thân nhận ra sự ích kỷ của mình? (Kể chuyện và hát ru 04/08/2021)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/vi-hoang-than-keo-kiet-trong-truyen-co-tich-nguoi-vo-no-bung-vi-gio-c43-33748.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2021_8/v2_0408_21h45_ke_chuyen_va_hat_ru_cho_be_58202117.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 05 Aug 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Số phận của gã ruồi ong  3/8/2021</title>
       <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/so-phan-cua-ga-ruoi-ong-c43-33743.aspx</link>
       <description><![CDATA[Với bản tính khoác lác, gã ruồi ong luôn cho mình là kẻ khôn ngoan, nhưng hắn không ngờ lại có ngày bị mắc vào lưới nhện. Số phận gã sẽ như thế nào? Liệu gã có còn cơ hội để trở lại với cuộc sống tự do như trước đó? (Kể chuyện và hát ru 02/08/2021)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/so-phan-cua-ga-ruoi-ong-c43-33743.aspx</guid>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/tinh-mau-tu-trong-truyen-co-tich-con-lac-da-trang-c43-33719.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_7/v2_2307_21h45_ke_chuyen_va_hat_ru_277202117.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 27 Jul 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>"Ba chàng dũng sỹ" - Câu chuyện về lòng dũng cảm (Phần 2)  22/7/2021</title>
-      <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/ba-chang-dung-sy-cau-chuyen-ve-long-dung-cam-phan-2-c43-33706.aspx</link>
-      <description><![CDATA[Vâng lời mẹ, người em thứ hai và người em út rời quê hương đi đến vùng đất lạ. Người anh cả ở lại nhà. Một hôm, Xà tinh mò đến quê hương của ba chàng trai. Nó đi đến đâu, cây rừng nghiêng ngả, gió rú ào ào, khói mây bay mù mịt đến đấy. Người anh cả thấy có chuyện lạ, vội từ trong nhà rông bước ra, nghênh chiến với xà tinh... (Kể chuyện và hát ru cho bé 20/07/2021)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/ba-chang-dung-sy-cau-chuyen-ve-long-dung-cam-phan-2-c43-33706.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_7/v2_202207_21h45_ke_chuyen_va_hat_ru_227202115.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 22 Jul 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
