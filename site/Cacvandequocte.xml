@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 04 Aug 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 06 Aug 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 04 Aug 2021 19:00:00 +0700</pubDate>
+    <pubDate>Fri, 06 Aug 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ứng phó với đại dịch Covid-19 và đảm bảo an ninh khu vực ASEAN</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Ngày 6.8 tiếp tục diễn ra nhiều phiên họp quan trọng trong khuôn khổ Hội nghị Bộ trưởng Ngoại giao ASEAN lần thứ 54 và giữa ASEAN với các đối tác theo hình thức trực tuyến. Hai trọng tâm nổi bật của hội nghị là nỗ lực đoàn kết ứng phó, ngăn chặn đại dịch Covid-19 và những chia sẻ về quan điểm, lập trường về các thách thức an ninh hàng hải vẫn diễn biến phức tạp trong khu vực.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/08/06/vovlive_cacvandequocte_ungphovoicovidvadambaoanninhkhuvuc.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 06 Aug 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Ấn Độ nghiên cứu, thử nghiệm và phát triển các sản phẩm mới ngăn chặn Covid-19</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -47,14 +55,6 @@ Với lợi thế về dân số và khoa học công nghệ, Ấn Độ là qu�
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2021/08/02/vovlive_cacvandequocte_afganistan_mieng_banh_day_cam_do.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 02 Aug 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Tính toán chiến lược của Trung Quốc tại Afganistan</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Theo thông tin đăng tải trên Reuters, một phái đoàn gồm 9 thành viên của lực lượng Taliban đã tới Trung Quốc và có cuộc gặp với Bộ trưởng Ngoại giao Trung Quốc Vương Nghị tại thành phố Thiên Tân. Sự xuất hiện của phái đoàn Taliban tại Trung Quốc làm dấy lên đồn đoán về những tính toán chiến lược của Trung Quốc tại Afganistan nhằm “lấp khoảng trống” tại quốc gia Nam Á này sau khi Mỹ rút quân, dự kiến vào ngày 31/8 tới. Những tính toán của Trung Quốc được cho là không quá bất ngờ, bởi là hai nước láng giềng, những diễn biến an ninh, chính trị tại Afganistan sẽ ảnh hưởng rất lớn tới lợi ích của Trung Quốc trong khu vực.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/07/30/vovlive_cacvandequocte_tinh_toan_chien_luoc_cua_trung_quoc_tai_afganistan.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 30 Jul 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
