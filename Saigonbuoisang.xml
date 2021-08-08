@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 07 Aug 2021 13:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 08 Aug 2021 13:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 07 Aug 2021 13:00:00 +0700</pubDate>
+    <pubDate>Sun, 08 Aug 2021 13:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Sài Gòn buổi sáng 08/08/2021</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-08-08-2021-409321.html</link>
+      <description><![CDATA[06:00 - 08/08/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-08-08-2021-409321.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/08/08/fmsaigonbuoisang06h00p080821-20210808001743.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 08 Aug 2021 13:00:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Sài Gòn buổi sáng 7/8/2021</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-7-8-2021-409241.html</link>
       <description><![CDATA[06:00 - 07/08/2021]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-7-8-2021-409241.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/08/07/sgbs-070821.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 07 Aug 2021 13:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Cảnh giác lừa đảo từ không gian mạng - Sài Gòn buổi sáng 6/8/2021</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/canh-giac-lua-dao-tu-khong-gian-mang-sai-gon-buoi-sang-6-8-2021-409169.html</link>
-      <description><![CDATA[08:42 - 06/08/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/canh-giac-lua-dao-tu-khong-gian-mang-sai-gon-buoi-sang-6-8-2021-409169.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/08/06/fmsaigonbuoisang06h00p060821.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 06 Aug 2021 15:42:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
