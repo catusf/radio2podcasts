@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 07 Aug 2021 15:21:13 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 08 Aug 2021 15:21:40 +0200</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 07 Aug 2021 15:21:13 +0200</pubDate>
+    <pubDate>Sun, 08 Aug 2021 15:21:40 +0200</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>43'</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Chuongtrinh43.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>08-08-2021 Chương trình 43'</title>
+      <link>https://www.rfi.fr/vi/t%E1%BA%A1p-ch%C3%AD/13h17-14h00-gmt/20210808-ph%E1%BA%A7n-c%C3%B2n-l%E1%BA%A1i-c%E1%BB%A7a-ch%C6%B0%C6%A1ng-tr%C3%ACnh-08-08-13h17-gmt</link>
+      <description><![CDATA[Chương trình ngày 08-08-2021 ]]></description>
+      <guid isPermaLink="false">https://www.rfi.fr/vi/t%E1%BA%A1p-ch%C3%AD/13h17-14h00-gmt/20210808-ph%E1%BA%A7n-c%C3%B2n-l%E1%BA%A1i-c%E1%BB%A7a-ch%C6%B0%C6%A1ng-tr%C3%ACnh-08-08-13h17-gmt</guid>
+      <enclosure url="https://aod-rfi.akamaized.net/rfi/vietnamien/audio/magazines/r001/13h17_-_14h00_gmt_20210808.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 08 Aug 2021 15:21:40 +0200</pubDate>
+    </item>
     <item>
       <title>07-08-2021 Chương trình 43'</title>
       <link>https://www.rfi.fr/vi/t%E1%BA%A1p-ch%C3%AD/13h17-14h00-gmt/20210807-ph%E1%BA%A7n-c%C3%B2n-l%E1%BA%A1i-c%E1%BB%A7a-ch%C6%B0%C6%A1ng-tr%C3%ACnh-07-08-13h17-gmt</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://www.rfi.fr/vi/t%E1%BA%A1p-ch%C3%AD/13h17-14h00-gmt/20210801-ph%E1%BA%A7n-c%C3%B2n-l%E1%BA%A1i-c%E1%BB%A7a-ch%C6%B0%C6%A1ng-tr%C3%ACnh-01-08-13h17-gmt</guid>
       <enclosure url="https://aod-rfi.akamaized.net/rfi/vietnamien/audio/magazines/r001/13h17_-_14h00_gmt_20210801.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 01 Aug 2021 15:20:57 +0200</pubDate>
-    </item>
-    <item>
-      <title>31-07-2021 Chương trình 43'</title>
-      <link>https://www.rfi.fr/vi/t%E1%BA%A1p-ch%C3%AD/13h17-14h00-gmt/20210731-ph%E1%BA%A7n-c%C3%B2n-l%E1%BA%A1i-c%E1%BB%A7a-ch%C6%B0%C6%A1ng-tr%C3%ACnh-31-07-13h17-gmt</link>
-      <description><![CDATA[Chương trình ngày 31-07-2021 ]]></description>
-      <guid isPermaLink="false">https://www.rfi.fr/vi/t%E1%BA%A1p-ch%C3%AD/13h17-14h00-gmt/20210731-ph%E1%BA%A7n-c%C3%B2n-l%E1%BA%A1i-c%E1%BB%A7a-ch%C6%B0%C6%A1ng-tr%C3%ACnh-31-07-13h17-gmt</guid>
-      <enclosure url="https://aod-rfi.akamaized.net/rfi/vietnamien/audio/magazines/r001/13h17_-_14h00_gmt_20210731.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 31 Jul 2021 15:20:58 +0200</pubDate>
     </item>
   </channel>
 </rss>
