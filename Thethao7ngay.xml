@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 02 Aug 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 09 Aug 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 02 Aug 2021 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 09 Aug 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,16 @@
     </itunes:owner>
     <itunes:subtitle>Thể thao 7 ngày</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Thethao7ngay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Chương trình Thể thao 7 ngày 7/8/2021</title>
+      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
+      <description><![CDATA[- Olympic Tokyo 2020 chính thức khép lại sau 2 tuần tranh tài đầy sôi nổi vào tối Chủ nhật (8/8). Khi các cuộc tranh tài đã lắng xuống, dư luận nhanh chóng "mổ xẻ" việc thể thao nước ta trắng tay rời Tokyo. Người trong cuộc là các thành viên của đoàn thể thao Việt Nam chia sẻ gì về hành trình đã đi qua tại Nhật Bản? 
+- Cảm nhận thông điệp đoàn kết của Olympic Tokyo 2020 và cùng nhau hướng tới một thể giới khỏe mạnh hơn
+- Một số kinh nghiệm thiết thực về Plank - bài tập hiệu quả cho mục tiêu đốt mỡ]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/08/09/vovlive_podcast_thethao7ngay_0708.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 09 Aug 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Chương trình Thể thao 7 ngày 31/7/2021</title>
       <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
@@ -53,16 +63,6 @@
       <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2021/07/19/vovlive_thethao-7-ngay_1807.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 19 Jul 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chương trình thể thao 7 ngày 11/7/2021</title>
-      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
-      <description><![CDATA[+ Điểm sự kiện nổi bật tuần qua.
-+ Sau gần 1 tháng tranh tài, VCK Euro 2020 đã gần đi đến hồi kết với trận cầu cuối cùng giữa 2 ĐT Anh và Italia. Cùng BLV Thành Lương nhận định và giải mã sức mạnh của 2 đội bóng hàng đầu châu Âu
-+ Tìm hiểu môn thể thao đang thu hút sự quan tâm của giới trẻ muốn khám phá bản thân và ưa mạo hiểm: Leo vách núi nhân tạo]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/07/12/vovlive_podcast_the-thao-7-ngay_1107.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 12 Jul 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
