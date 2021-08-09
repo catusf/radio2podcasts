@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 05 Aug 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 09 Aug 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 05 Aug 2021 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 09 Aug 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Kể chuyện và hát ru cho bé</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Kechuyenvahatruchobe.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Vị hoàng thân keo kiệt trong truyện cổ tích "Người vợ no bụng vì gió"5/8/2021</title>
+      <title>Thiên nhiên qua truyện đồng thoại "Đời cây" 9/8/2021</title>
+      <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/thien-nhien-qua-truyen-dong-thoai-doi-cay-c43-33755.aspx</link>
+      <description><![CDATA[Thật thú vị khi chúng mình tự tay làm đất để gieo trồng những cái hạt bé xíu. Rồi chúng ta hồi hộp chờ đợi những cái hạt ấy tách vỏ nảy mầm, hạnh phúc khi thấy những chiếc lá non tơ đầu tiên đón nắng gió. Và cứ thế được sự chăm sóc hằng ngày của chúng ta, cái cây đó dần dần phát triển, ra hoa, đậu quả, và khẽ đung đưa như chào đón mỗi khi chúng mình dến bên... (Kể chuyện và hát ru 06/08/2021)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/thien-nhien-qua-truyen-dong-thoai-doi-cay-c43-33755.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2021_8/v2_0608_21h45_ke_chuyen_va_hat_ru_cho_be_9820219.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 09 Aug 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Vị hoàng thân keo kiệt trong truyện cổ tích "Người vợ no bụng vì gió" 5/8/2021</title>
       <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/vi-hoang-than-keo-kiet-trong-truyen-co-tich-nguoi-vo-no-bung-vi-gio-c43-33748.aspx</link>
       <description><![CDATA[Xưa có một vị hoàng thân vô cùng keo kiệt, không muốn mất bất kỳ một đồng một cắc nào cho người khác. Ông đối xử khắc nghiệt cả với người vợ xinh đẹp của mình. Người vợ ấy đã nghĩ ra kế sách gì để giúp cho vị hoàng thân nhận ra sự ích kỷ của mình? (Kể chuyện và hát ru 04/08/2021)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/vi-hoang-than-keo-kiet-trong-truyen-co-tich-nguoi-vo-no-bung-vi-gio-c43-33748.aspx</guid>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/so-phan-cua-ga-ruoi-ong-c43-33743.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_8/v2_0208_21h45_ke_chuyen_va_hat_ru_cho_be_38202116.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 03 Aug 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Tình mẫu tử trong truyện cổ tích "Con lạc đà trắng"  27/7/2021</title>
-      <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/tinh-mau-tu-trong-truyen-co-tich-con-lac-da-trang-c43-33719.aspx</link>
-      <description><![CDATA[Vượt qua bao nhiêu thử thách và hiểm nguy, lạc đà trắng đã gặp lại được mẹ của mình. Thế nhưng chỉ trong phút chốc họ đã phải chia lìa mãi mãi. Điều gì đã khiến mẹ con lạc đà phải xa nhau? (Kể chuyện và hát ru 23/07/2021)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/tinh-mau-tu-trong-truyen-co-tich-con-lac-da-trang-c43-33719.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_7/v2_2307_21h45_ke_chuyen_va_hat_ru_277202117.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 27 Jul 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
