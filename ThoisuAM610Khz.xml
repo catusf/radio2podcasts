@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 09 Aug 2021 12:30:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 09 Aug 2021 18:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 09 Aug 2021 12:30:00 +0700</pubDate>
+    <pubDate>Mon, 09 Aug 2021 18:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Đề xuất ưu tiên tiêm cho công nhân trong các khu, cụm công nghiệp... Thời sự 11g00 09/08/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/de-xuat-uu-tien-tiem-cho-cong-nhan-trong-cac-khu-cum-cong-nghiep-thoi-su-11g00-09-08-2021-409402.html</link>
+      <description><![CDATA[11:00 - 09/08/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/de-xuat-uu-tien-tiem-cho-cong-nhan-trong-cac-khu-cum-cong-nghiep-thoi-su-11g00-09-08-2021-409402.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/08/09/AMThoisu11h00p090821.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 09 Aug 2021 18:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>TPHCM lo thiếu vaccine ngừa Covid-19 từ sau ngày 9/8 - Thời sự 5g30 09/08/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-lo-thieu-vaccine-ngua-covid-19-tu-sau-ngay-9-8-thoi-su-5g30-09-08-2021-409372.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/ngay-hoat-dong-cao-diem-vi-dan-em-than-yeu-nam-2021-thoi-su-17g00-8-8-2021-409356.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/08/08/AMThoisu17h00p080821.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 09 Aug 2021 05:37:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Công văn khẩn về việc tiếp nhận vaccine phòng COVID-19 - Thời sự 11g00 08/08/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/cong-van-khan-ve-viec-tiep-nhan-vaccine-phong-covid-19-thoi-su-11g00-08-08-2021-409324.html</link>
-      <description><![CDATA[11:00 - 08/08/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/cong-van-khan-ve-viec-tiep-nhan-vaccine-phong-covid-19-thoi-su-11g00-08-08-2021-409324.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/08/08/AMThoisu11h00p080821.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 08 Aug 2021 18:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
