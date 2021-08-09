@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 05 Aug 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 09 Aug 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 05 Aug 2021 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 09 Aug 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Văn nghệ thiếu nhi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Vannghethieunhi.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Vẽ tranh cổ động phòng chống đại dịch Covid 19 5/8/2021</title>
+      <title>Đọc truyện “Cuộc phiêu lưu kỳ diệu của Nils - Holgersson” - Buổi bốn mươi mốt - Tin tức từ gia đình 9/8/2021</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-cuoc-phieu-luu-ky-dieu-cua-nils-holgersson-buoi-bon-muoi-mot-tin-tuc-c44-33757.aspx</link>
+      <description><![CDATA[Chim ưng Go Go cho biết bố mẹ Nils đang gặp khó khăn bởi vừa phải gánh món nợ lớn, công việc làm ăn thì gặp nhiều trắc trở, rất có thể phải bán cả trang trại. Nghe chuyện nhà, Nils không khỏi nhói lòng... (Văn nghệ thiếu nhi 06/08/2021)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-cuoc-phieu-luu-ky-dieu-cua-nils-holgersson-buoi-bon-muoi-mot-tin-tuc-c44-33757.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2021_8/v2_0608_10h4518h15_van_nghe_thieu_nhi_98202117.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 09 Aug 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Vẽ tranh cổ động phòng chống đại dịch Covid 19  5/8/2021</title>
       <link>http://vov6.vov.vn/van-nghe-thieu-nhi/ve-tranh-co-dong-phong-chong-dai-dich-covid-19-c44-33750.aspx</link>
       <description><![CDATA[Gần hai năm qua, đại dịch Covid 19 đã đe dọa đến sự an nguy của toàn nhân loại và hiện nay tình hình dịch bệnh vẫn đang diễn biến vô cùng phức tạp. Với tinh thần “Ở nhà là chống dịch”, chúng ta hãy cũng chuyển động trong giãn cách, vẽ nên những bức tranh ý nghĩa, giàu màu sắc để cùng cổ động công tác phòng chống dịch cũng như tri ân đến những lực lượng trên tuyến đầu các bạn nhé! (Văn nghệ thiếu nhi 04/08/2021)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/ve-tranh-co-dong-phong-chong-dai-dich-covid-19-c44-33750.aspx</guid>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/nha-van-son-tung-nha-van-cua-bup-sen-xanh-c44-33749.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2021_8/v2_0308_10h4518h15_van_nghe_thieu_nhi_58202117.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 05 Aug 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Nào mình cùng viết văn  3/8/2021</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/nao-minh-cung-viet-van-c44-33742.aspx</link>
-      <description><![CDATA[Những ngày này, dịch bệnh Covid 19 vẫn đang diễn biến rất phức tạp. Chúng mình cùng góp phần đẩy lùi dịch bệnh bằng cách ở yên trong nhà, tập thể dục, đọc sách, học bài, làm việc nhà. Đây cũng là thời điểm mà các bạn đam mê viết lách có thời gian thực hiện những dự định của mình... (Văn nghệ thiếu nhi 02/08/2021)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/nao-minh-cung-viet-van-c44-33742.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_8/v2_0208_10h4518h15_van_nghe_thieu_nhi_38202116.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 03 Aug 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
