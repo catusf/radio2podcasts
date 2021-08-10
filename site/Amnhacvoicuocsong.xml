@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 03 Aug 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 10 Aug 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 03 Aug 2021 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 10 Aug 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,15 @@
     </itunes:owner>
     <itunes:subtitle>Âm nhạc với cuộc sống</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Amnhacvoicuocsong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Trò chuyện cùng Nhạc sĩ, Nhà báo Quỳnh Hợp với hai tác phẩm âm nhạc “Giấc mơ ứa màu” và “Ngày da cam” kỷ niệm Ngày vì nạn nhân chất độc da cam Việt Nam (10/8/2021)</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[-Kể từ ngày đầu tiên (10/8/1961) quân đội Mỹ đưa chất độc da cam sử dụng liên tục trong 10 năm để đối phó với cuộc chiến tranh vệ quốc của dân tộc ta, 60 năm đã trôi qua nhưng nỗi đau da cam vẫn hiện hữu với hàng trăm nghìn người, hàng trăm nghìn trẻ em và hàng trăm nghìn gia đình trên đất nước ta. Cùng chung tay chia sẻ nỗi đau da cam là thông điệp chung dành cho mỗi người Việt Nam. Với các nhạc sĩ, đó là những hành động thiết thực của họ được thể hiện qua các tác phẩm âm nhạc. Cùng lắng nghe các ca khúc ”Giấc mơ ứa màu” và “Ngày da cam” của nhạc sĩ-nhà báo Quỳnh Hợp (lời thơ của nhà thơ Mai Thanh Tịnh) và những chia sẻ của chị về các tác phẩm âm nhạc này... 
+-“Nhắc nhớ ta ở yên”: Một thông điệp tích cực trong thời điểm giãn cách xã hội vì dịch Covid-19 của nhạc sĩ Nguyễn Thắng.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/08/10/vovlive_am_nhac_voi_cuoc_song_tro_chuyen_cung_nha_bao_quynh_hop_ngay_nan_nhan_chat_doc_da_cam(1).mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 10 Aug 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>“Tôi có vài cuộc hẹn”: Món quà âm nhạc tri ân các lực lượng tuyến đầu, cổ vũ và động viên đồng bào chống dịch của nhạc sĩ Nguyễn Bá Hùng</title>
       <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
@@ -46,14 +55,6 @@
       <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2021/07/20/vovlive_am_nhac_voi_cuoc_song_thuong_nho_sai_son_nguyen_ba_hung.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 20 Jul 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Nhà báo, nhạc sĩ Y Jang Tuyn - Đài Tiếng nói Nhân dân Tp Hồ Chí Minh và tinh thần chống dịch lạc quan qua những giai điệu âm nhạc</title>
-      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[Lắng nghe những chia sẻ về tinh thần chống dịch Covid 19 của nhà báo, nhạc sĩ Y Jang Tuyn và những tác phẩm âm nhạc đầy xúc động gửi tới lực lượng tuyến đầu chống dịch và đồng bào thân yêu ...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/07/13/vovlive_am_nhac_voi_cuoc_song_y_jang_tuyn.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 13 Jul 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
