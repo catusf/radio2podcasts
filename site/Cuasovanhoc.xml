@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 06 Aug 2021 03:37:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 01 Aug 2021 15:43:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 06 Aug 2021 03:37:00 +0700</pubDate>
+    <pubDate>Sun, 01 Aug 2021 15:43:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,14 +23,6 @@
     </itunes:owner>
     <itunes:subtitle>Cửa sổ văn học trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Cuasovanhoc.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Cửa sổ văn học - 1/8/2021</title>
-      <link>https://radio.voh.com.vn/cua-so-van-hoc/cua-so-van-hoc-1-8-2021-409347.html</link>
-      <description><![CDATA[20:37 - 05/08/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/cua-so-van-hoc-1-8-2021-409347.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/08/08/fmcuasovanhoc07h00p010821-20210731150052.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 06 Aug 2021 03:37:00 +0700</pubDate>
-    </item>
     <item>
       <title>Cửa sổ văn học - 1/8/2021</title>
       <link>https://radio.voh.com.vn/cua-so-van-hoc/cua-so-van-hoc-1-8-2021-408751.html</link>
@@ -46,6 +38,14 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/cua-so-van-hoc-25-7-2021-408212.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/07/25/fmcuasovanhoc07h00p250721-20210724180722.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 25 Jul 2021 19:56:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Cửa sổ văn học - 18/7/2021</title>
+      <link>https://radio.voh.com.vn/cua-so-van-hoc/cua-so-van-hoc-18-7-2021-407566.html</link>
+      <description><![CDATA[08:59 - 18/07/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/cua-so-van-hoc-18-7-2021-407566.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/07/17/fmcuasovanhoc07h00p180721-20210717185019.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 18 Jul 2021 15:59:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
