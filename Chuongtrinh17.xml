@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 09 Aug 2021 15:25:36 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 10 Aug 2021 15:21:14 +0200</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 09 Aug 2021 15:25:36 +0200</pubDate>
+    <pubDate>Tue, 10 Aug 2021 15:21:14 +0200</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>17'</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Chuongtrinh17.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>10-08-2021 Chương trình 17'</title>
+      <link>https://www.rfi.fr/vi/t%E1%BA%A1p-ch%C3%AD/13h00-13h17-gmt/20210810-th%C3%B4ng-tin-10-08-13h00-gmt</link>
+      <description><![CDATA[Chương trình ngày 10-08-2021 ]]></description>
+      <guid isPermaLink="false">https://www.rfi.fr/vi/t%E1%BA%A1p-ch%C3%AD/13h00-13h17-gmt/20210810-th%C3%B4ng-tin-10-08-13h00-gmt</guid>
+      <enclosure url="https://aod-rfi.akamaized.net/rfi/vietnamien/audio/magazines/r001/13h00_-_13h17_gmt_20210810.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 10 Aug 2021 15:21:14 +0200</pubDate>
+    </item>
     <item>
       <title>09-08-2021 Chương trình 17'</title>
       <link>https://www.rfi.fr/vi/t%E1%BA%A1p-ch%C3%AD/13h00-13h17-gmt/20210809-th%C3%B4ng-tin-09-08-13h00-gmt</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://www.rfi.fr/vi/t%E1%BA%A1p-ch%C3%AD/13h00-13h17-gmt/20210803-th%C3%B4ng-tin-03-08-13h00-gmt</guid>
       <enclosure url="https://aod-rfi.akamaized.net/rfi/vietnamien/audio/magazines/r001/13h00_-_13h17_gmt_20210803.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 03 Aug 2021 15:21:29 +0200</pubDate>
-    </item>
-    <item>
-      <title>02-08-2021 Chương trình 17'</title>
-      <link>https://www.rfi.fr/vi/t%E1%BA%A1p-ch%C3%AD/13h00-13h17-gmt/20210802-th%C3%B4ng-tin-02-08-13h00-gmt</link>
-      <description><![CDATA[Chương trình ngày 02-08-2021 ]]></description>
-      <guid isPermaLink="false">https://www.rfi.fr/vi/t%E1%BA%A1p-ch%C3%AD/13h00-13h17-gmt/20210802-th%C3%B4ng-tin-02-08-13h00-gmt</guid>
-      <enclosure url="https://aod-rfi.akamaized.net/rfi/vietnamien/audio/magazines/r001/13h00_-_13h17_gmt_20210802.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 02 Aug 2021 15:21:42 +0200</pubDate>
     </item>
   </channel>
 </rss>
