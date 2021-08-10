@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 10 Aug 2021 18:14:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 11 Aug 2021 02:04:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 10 Aug 2021 18:14:00 +0700</pubDate>
+    <pubDate>Wed, 11 Aug 2021 02:04:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Đánh giá tác động kinh tế khi không tuân thủ quy định chống khai thác IUU – Thời sự 17g00 10/8/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/danh-gia-tac-dong-kinh-te-khi-khong-tuan-thu-quy-dinh-chong-khai-thac-iuu-thoi-su-17g00-10-8-2021-409521.html</link>
+      <description><![CDATA[19:04 - 10/08/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/danh-gia-tac-dong-kinh-te-khi-khong-tuan-thu-quy-dinh-chong-khai-thac-iuu-thoi-su-17g00-10-8-2021-409521.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/08/10/AMThoisu17h00p100821.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 11 Aug 2021 02:04:00 +0700</pubDate>
+    </item>
     <item>
       <title>Sáng tạo nhiều giải pháp dạy học trực tuyến ứng phó với dịch Covid-19 – Thời sự 11g00 10/8/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/sang-tao-nhieu-giai-phap-day-hoc-truc-tuyen-ung-pho-voi-dich-covid-19-thoi-su-11g00-10-8-2021-409486.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/doan-ket-nghia-tinh-trach-nhiem-vi-nan-nhan-chat-doc-da-cam-thoi-su-5g30-10-8-2021-409470.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/08/10/AMThoisu05h30p100821.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 10 Aug 2021 14:33:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Gần 90.000 người được gia hạn thời hạn nộp các loại thuế - Thời sự 17g00 09/08/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/gan-90-000-nguoi-duoc-gia-han-thoi-han-nop-cac-loai-thue-thoi-su-17g00-09-08-2021-409442.html</link>
-      <description><![CDATA[17:00 - 09/08/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/gan-90-000-nguoi-duoc-gia-han-thoi-han-nop-cac-loai-thue-thoi-su-17g00-09-08-2021-409442.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/08/09/AMThoisu17h00p090821cuon1.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 10 Aug 2021 00:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
