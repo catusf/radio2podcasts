@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 09 Aug 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 11 Aug 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 09 Aug 2021 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 11 Aug 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Nguy cơ Afghanistan thất thủ sau khi Mỹ rút quân</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Những ngày qua, sau khi Mỹ và các đồng minh lần lượt rút quân, lực lượng Taliban tại Afghanistan liên tiếp thúc đẩy các chiến dịch tấn công trên khắp đất nước, đánh chiếm thủ phủ của nhiều tỉnh thành, khu vực trọng điểm và khiến nhiều người thương vong. Liên hợp quốc đã cảnh báo một giai đoạn đầy nguy hiểm mới tại quốc gia này. Những kịch bản nào đang chờ đợi Afghanistan trước khoảng trống an ninh mà Mỹ và liên quân để lại, trong bối cảnh kết quả các cuộc đàm phán hòa bình thời gian quan vô cùng khiêm tốn?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/08/11/vovlive_cacvandequocte_nguycoaffganistanthatthusaukhimyrutquan.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 11 Aug 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Căng thẳng Iran - phương Tây: Nguy cơ xung đột tiềm tàng tại vùng Vịnh</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -47,14 +55,6 @@ Với lợi thế về dân số và khoa học công nghệ, Ấn Độ là qu�
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2021/08/04/vovlive_cacvandequocte_an_do_nghien_cuu_thu_nghiem_va_phat_trien_cac_san_pham_moi_ngan_chan_covid_19.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 04 Aug 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Vấn đề Bắc Ireland đe dọa các cam kết Brexit giữa Anh và Liên minh Châu Âu (EU)</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Sau hơn nửa năm Anh chính thức rời khỏi Liên minh Châu Âu (EU), căng thẳng giữa hai bên lại bùng phát sau khi Chính phủ Anh đề nghị EU đàm phán lại các điều khoản thương mại hậu Brexit dành riêng cho vùng Bắc Ireland. Tuy nhiên, đến thời điểm này, phía EU vẫn giữ quan điểm các thỏa thuận liên quan đến Bắc Ireland là “không thể đàm phán lại”, đồng thời tiến hành các bước đi pháp lý với cáo buộc Anh vi phạm điều khoản của thỏa thuận Brexit. Giới phân tích lo ngại, những căng thẳng mới phát sinh liên quan đến vấn đề biên giới Bắc Ireland có thể đe dọa các cam kết khác về Brexit giữa Anh và EU, khiến mối quan hệ giữa hai bên thời “hậu Brexit” càng thêm rạn nứt.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/08/03/vovlive_cacvandequocte_van_de_bac_ireland_de_doa_cac_cam_ket_brexit.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 03 Aug 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
