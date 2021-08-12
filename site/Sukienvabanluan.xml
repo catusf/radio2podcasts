@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 09 Aug 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 12 Aug 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 09 Aug 2021 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 12 Aug 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Trung Quốc nỗ lực kiềm chế “văn hóa fan cuồng”</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Trang mạng xã hội nổi tiếng nhất Trung Quốc Weibo mới đây đã quyết định xóa danh sách người nổi tiếng của họ, sau khi chính phủ cho biết trẻ em đang trở thành nạn nhân chính của những kẻ lợi dụng ngành giải trí. Những năm gần đây, nhiều câu chuyện cuồng thần tượng gây xôn xao ở Trung Quốc, báo giới gọi đây là một hiện tượng của “văn hóa cuồng thần tượng”. Một trong những cái tên được giới trẻ Trung Quốc hâm mộ là Ngô Diệc Phàm, một ca sĩ, diễn viên. Mới đây, nam ca sĩ này bị bắt giữ vì những cáo buộc cực kỳ nghiêm trọng liên quan đến cưỡng hiếp và quan hệ với trẻ vị thành niên. Đây được xem là một cú “sốc” với người hâm mộ Trung Quốc. Liệu điều này có giúp giới trẻ Trung Quốc nhìn nhận lại những “thần tượng” của mình? Bê bối của Ngô Diệc Phàm có mở đường cho “chiến dịch” dẹp bỏ hiện tượng fan cuồng ở Trung Quốc?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/08/12/vovlive_sukienvabinhluan_trung_quoc_no_luc_kiem_che_van_hoa_phan_cuong.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Aug 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Tranh cãi đóng cửa nhà tù khét tiếng Guantanamo của Mỹ</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -45,14 +53,6 @@
       <description><![CDATA[Trong bối cảnh dịch Covid-19 diễn biến phức tạp, các biến thể virus nguy hiểm ngày càng mở rộng phạm vi tấn công sang các đối tượng khác nhau, trong đó có trẻ em. Đây là nhóm đối tượng dù ít va chạm, tiếp xúc với nguồn bệnh nhưng lại dễ tổn thương do khả năng miễn dịch yếu. Trước nguy cơ này, nhiều nước đã đẩy nhanh việc cấp phép các loại vaccine an toàn cũng như bắt đầu triển khai các chiến dịch tiêm chủng cho đối tượng trẻ em. Vậy kinh nghiệm và khuyến cáo của các nước có gì đáng chú ý?]]></description>
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2021/08/04/vovlive_sukienvabinhluan_kinh_nghiem_tiem_vacin-_cho_tre_em_cua_cac_nuoc.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 04 Aug 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Nhiều Quốc gia trong khu vực nỗ lực tìm cách gia tăng ảnh hưởng tại Pakistan.</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Nhiều Quốc gia trong khu vực nỗ lực tìm cách gia tăng ảnh hưởng tại Pakistan sau khi Mỹ rút quân. Điều dễ nhận thấy với bất kỳ Quốc gia nào đóng vai trò trung gian trong tiến trình chính trị tại Pakistan trong giai đoạn này. Một nhân tố không thể không tính đến đó là Taliban, thậm chí các phái đoàn Taliban còn tới Nga, Trung Quốc, trước cả phái đoàn Chính phủ Pakistan. Vậy đâu là sức mạnh để Taliban từ một lực lượng bị xếp vào nhóm các tổ chức khủng bố trở thành một lực lượng đang tìm kiếm sự công nhận chính thức trong Chính phủ Pakistan trong tương lai.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/08/04/vovlive_sukienvabinhlan_nhieu-_qoc_gia_trong-_khu_vuc_no_luc_tim_cach_anh_huong-tai_pakistan-2-8.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 04 Aug 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
