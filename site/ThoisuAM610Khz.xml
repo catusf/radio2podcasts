@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 12 Aug 2021 00:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 12 Aug 2021 16:57:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 12 Aug 2021 00:00:00 +0700</pubDate>
+    <pubDate>Thu, 12 Aug 2021 16:57:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Doanh nghiệp nỗ lực duy trì sản xuất, đảm bảo an toàn cho người lao động - Thời sự 5g30 12/8/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/doanh-nghiep-no-luc-duy-tri-san-xuat-dam-bao-an-toan-cho-nguoi-lao-dong-thoi-su-5g30-12-8-2021-409628.html</link>
+      <description><![CDATA[09:57 - 12/08/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/doanh-nghiep-no-luc-duy-tri-san-xuat-dam-bao-an-toan-cho-nguoi-lao-dong-thoi-su-5g30-12-8-2021-409628.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/08/12/AMThoisu05h30p120821-Copy.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Aug 2021 16:57:00 +0700</pubDate>
+    </item>
     <item>
       <title>Thời sự 17g00 - 11/8/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/thoi-su-17g00-11-8-2021-409602.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-goi-ho-tro-900-ty-dong-se-den-voi-nguoi-dan-truoc-15-8-thoi-su-11g00-11-8-2021-409601.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/08/11/TS11G-110821.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 11 Aug 2021 18:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Cuối năm 2021, vaccine COVID-19 sẽ về nhiều và dồn dập - Thời sự 5g30 11/08/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/cuoi-nam-2021-vaccine-covid-19-se-ve-nhieu-va-don-dap-thoi-su-5g30-11-08-2021-409549.html</link>
-      <description><![CDATA[05:30 - 11/08/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/cuoi-nam-2021-vaccine-covid-19-se-ve-nhieu-va-don-dap-thoi-su-5g30-11-08-2021-409549.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/08/11/AMThoisu05h30p110821.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 11 Aug 2021 12:30:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
