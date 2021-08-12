@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 11 Aug 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 12 Aug 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 11 Aug 2021 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 12 Aug 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Bước chuyển chiến lược trong quan hệ Nga – Trung Quốc</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Nga và Trung Quốc đang tiến hành cuộc tập trận chung quy mô lớn tại Ninh Hạ (phía Bắc Trung Quốc) với sự tham dự của 10.000 binh sỹ hai bên cùng nhiều hệ thống khí tài hiện đại. Cuộc tập trận Nga - Trung với khẳng định về tầm cao mới trong quan hệ song phương diễn ra trong bối cảnh Nga và Trung Quốc đang có nhiều bất đồng với Mỹ và các đồng minh phương Tây như là vấn đề nhân quyền, an ninh khu vực. Vì thế, dù Nga và Trung Quốc nhiều lần khẳng định rằng, các cuộc tập trận chung không nhằm vào bất cứ bên thứ ba nào nhưng giới phân tích vẫn cho rằng cuộc tập trận lần này mang theo những thông tin và thông điệp cứng rắn gửi tới Mỹ và đồng minh.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/08/12/vovlive_cacvandequocte_buocchuyenchienluoctrongquanhengatrung.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Aug 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Nguy cơ Afghanistan thất thủ sau khi Mỹ rút quân</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,15 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2021/08/06/vovlive_cacvandequocte_ungphovoicovidvadambaoanninhkhuvuc.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 06 Aug 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Ấn Độ nghiên cứu, thử nghiệm và phát triển các sản phẩm mới ngăn chặn Covid-19</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Biến thể Delta của virus SARS Cov-2 đang tàn phá thế giới với tốc độ chưa từng có và mọi việc đều đang nằm ngoài dự tính của con người. Vấn đề là thế giới cần phải có chiến lược vaccine sáng tạo hơn, quyết đoán hơn nhằm ngăn chặn đà lây nhiễm của SARS-CoV-2.
-Với lợi thế về dân số và khoa học công nghệ, Ấn Độ là quốc gia đang tiến hành nghiên cứu, thử nghiệm và phát triển các sản phẩm mới nhằm ngăn chặn Covid-19. Trong quá trình này, Việt Nam là một trong các quốc gia đối tác trong việc nghiên cứu, thử nghiệm các loại vaccine được sản xuất từ Ấn Độ.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/08/04/vovlive_cacvandequocte_an_do_nghien_cuu_thu_nghiem_va_phat_trien_cac_san_pham_moi_ngan_chan_covid_19.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 04 Aug 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

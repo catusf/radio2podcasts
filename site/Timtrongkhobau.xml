@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 05 Aug 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 12 Aug 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 05 Aug 2021 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 12 Aug 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Tìm trong kho báu</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Timtrongkhobau.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Tú Xương – Trước bản thân và cuộc đời 5/8/2021</title>
+      <title>Vang hưởng đời thơ Tú Xương12/8/2021</title>
+      <link>http://vov6.vov.vn/tim-trong-kho-bau/vang-huong-doi-tho-tu-xuong-c54-33774.aspx</link>
+      <description><![CDATA[Đặc điểm nổi bật, thế mạnh và cũng là chức năng chính của thơ trào phúng nói chung là bật lên tiếng cười từ câu chữ và câu chuyện. Buổi “Tìm trong kho báu” hôm nay đi vào mỹ học tiếng cười Tú Xương, dẫn chứng qua một số sáng tác thơ Nôm tiêu biểu. Từ tiếng cười hiển hiện trên câu chữ cũng đi sâu vào một trong những nguyên do, bản chất tạo nên phong cách trào phúng Tú Xương – Đồng thời giải mã một số giai thoại về ông Tú Thành Nam.]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/vang-huong-doi-tho-tu-xuong-c54-33774.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_8/v2_121608_08h0018h30_tim_trong_kho_bau_128202115.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Aug 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Tú Xương – Trước bản thân và cuộc đời  5/8/2021</title>
       <link>http://vov6.vov.vn/tim-trong-kho-bau/tu-xuong-truoc-ban-than-va-cuoc-doi-c54-33747.aspx</link>
       <description><![CDATA[Mang tâm trạng của kẻ sĩ “Tài cao, phận thấp, chí khí uất”, nhà thơ Tú Xương đã sáng tác những áng thơ Nôm giàu màu sắc hiện thực, phản ánh cái tôi cá nhân với những nỗi bức bối trước xã hội, thời đại. Buổi “Tìm trong kho báu” hôm nay đi vào thái độ thẳng thắn của nhà thơ – công dân Tú Xương trước thực trạng, con người xã hội giao thời. Cũng từ đó, nhìn ra những đặc sắc và cả mặt trái của lối tư duy, lối sáng tác đi đến cực điểm trào phúng của ông Tú Thành Nam]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/tu-xuong-truoc-ban-than-va-cuoc-doi-c54-33747.aspx</guid>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/cuoi-tu-xuong-mot-trao-phung-buon-c54-33736.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/v2_2907_18h30_tim_trong_kho_bau_38202110.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 03 Aug 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Nhà thơ Tú Xương và tấm tình trong thơ Nôm viết về vợ 14/7/2021</title>
-      <link>http://vov6.vov.vn/tim-trong-kho-bau/nha-tho-tu-xuong-va-tam-tinh-trong-tho-nom-viet-ve-vo-c54-33673.aspx</link>
-      <description><![CDATA[Càng đi vào các sáng tác cụ thể của nhà thơ Tú Xương, chúng ta càng nhận ra đằng sau giọng điệu bỡn cợt, giễu nhại,ngạo đời là những nỗi niềm khôn tả. Có những bài thơ Nôm tưởng trái khoáy, lạ đời nhất ngẫm ra vẫn là xuất phát từ một tấm tình đậm sâu. Chương trình “Tìm trong kho báu” hôm nay, mời Quý vị và các bạn đi vào những vang hưởng trữ tình đáng trân trọng ấy.]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/nha-tho-tu-xuong-va-tam-tinh-trong-tho-nom-viet-ve-vo-c54-33673.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/v2_151907_08h0018h30_tim_trong_kho_bau_15720218.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 14 Jul 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
