@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 12 Aug 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 13 Aug 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 12 Aug 2021 19:00:00 +0700</pubDate>
+    <pubDate>Fri, 13 Aug 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Biến thể Delta lây lan nguy hiểm - Mỹ tìm cách tăng tỷ lệ tiêm vaccine</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Sự lây lan nguy hiểm của biến thể Delta đang thách thức cuộc chiến chống dịch bệnh Covid-19 tại nhiều quốc gia, và Mỹ cũng không phải là ngoại lệ. Sở hữu nguồn cung vaccine Covid-19 dồi dào – vũ khí mạnh nhất để ngăn chặn đà lây lan của dịch bệnh, nước Mỹ không phải đối mặt với bài toán thiếu vaccine như đa phần các nước còn lại trên thế giới. Nhưng vấn đề cũng thách thức không kém với Mỹ đó là nhiều người dân không sẵn sàng tiêm vaccine, và hậu quả dễ thấy nhất là số ca mắc Covid-19 mới tại Mỹ tăng vọt trong những ngày gần đây, làm dấy lên những tranh cãi xung quanh việc đưa tiêm chủng thành một yêu cầu bắt buộc. Vậy nước Mỹ đang xử lý vấn đề này như thế nào?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/08/13/vovlive_sukienvabinhluan_bien_the_delta_lay_lan-13-8.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 13 Aug 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Trung Quốc nỗ lực kiềm chế “văn hóa fan cuồng”</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2021/08/09/vovlive_sukienvabinhluan_vaccin_tot_nhat_la_vaccin-_dang_san_co_6-8-21.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 09 Aug 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Kinh nghiệm tiêm vaccine ngừa Covid-19 cho trẻ em của các nước</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Trong bối cảnh dịch Covid-19 diễn biến phức tạp, các biến thể virus nguy hiểm ngày càng mở rộng phạm vi tấn công sang các đối tượng khác nhau, trong đó có trẻ em. Đây là nhóm đối tượng dù ít va chạm, tiếp xúc với nguồn bệnh nhưng lại dễ tổn thương do khả năng miễn dịch yếu. Trước nguy cơ này, nhiều nước đã đẩy nhanh việc cấp phép các loại vaccine an toàn cũng như bắt đầu triển khai các chiến dịch tiêm chủng cho đối tượng trẻ em. Vậy kinh nghiệm và khuyến cáo của các nước có gì đáng chú ý?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/08/04/vovlive_sukienvabinhluan_kinh_nghiem_tiem_vacin-_cho_tre_em_cua_cac_nuoc.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 04 Aug 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
