@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 13 Aug 2021 20:48:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 14 Aug 2021 02:42:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 13 Aug 2021 20:48:00 +0700</pubDate>
+    <pubDate>Sat, 14 Aug 2021 02:42:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Điểm chuẩn lớp 10 và cơ hội học tập cho con em trong mùa dịch - Thời sự 17g00 13/8/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/diem-chuan-lop-10-va-co-hoi-hoc-tap-cho-con-em-trong-mua-dich-thoi-su-17g00-13-8-2021-409758.html</link>
+      <description><![CDATA[19:42 - 13/08/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/diem-chuan-lop-10-va-co-hoi-hoc-tap-cho-con-em-trong-mua-dich-thoi-su-17g00-13-8-2021-409758.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/08/13/amthoisu17h00p130821-20210813163431.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 14 Aug 2021 02:42:00 +0700</pubDate>
+    </item>
     <item>
       <title>Tuyệt đối không phun khử khuẩn trực tiếp lên nhân viên y tế, người bệnh - Thời sự 11g00 13/8/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tuyet-doi-khong-phun-khu-khuan-truc-tiep-len-nhan-vien-y-te-nguoi-benh-thoi-su-11g00-13-8-2021-409723.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/nguoi-dan-tphcm-o-vung-xanh-chi-duoc-di-cho-1-lan-tuan-thoi-su-5g30-13-8-2021-409697.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/08/13/amthoisu05h30p130821-20210812233608.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 13 Aug 2021 13:50:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Cần gỡ khó cho mô hình 3 tại chỗ - Thời sự 17g00 12/8/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/can-go-kho-cho-mo-hinh-3-tai-cho-thoi-su-17g00-12-8-2021-409668.html</link>
-      <description><![CDATA[19:55 - 12/08/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/can-go-kho-cho-mo-hinh-3-tai-cho-thoi-su-17g00-12-8-2021-409668.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/08/12/AMThoisu17h00p120821-Copy.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 13 Aug 2021 02:55:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
