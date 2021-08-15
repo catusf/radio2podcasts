@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 08 Aug 2021 17:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 15 Aug 2021 17:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 08 Aug 2021 17:00:00 +0700</pubDate>
+    <pubDate>Sun, 15 Aug 2021 17:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Quà tặng âm nhạc trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Quatangamnhac.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Phố trong mưa - Quà tặng âm nhạc 15/8/2021</title>
+      <link>https://radio.voh.com.vn/qua-tang-am-nhac/pho-trong-mua-qua-tang-am-nhac-15-8-2021-410060.html</link>
+      <description><![CDATA[10:00 - 15/08/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/pho-trong-mua-qua-tang-am-nhac-15-8-2021-410060.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/08/16/qtan-150821.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 15 Aug 2021 17:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Bóng cả - Quà tặng âm nhạc 8/8/2021</title>
       <link>https://radio.voh.com.vn/qua-tang-am-nhac/bong-ca-qua-tang-am-nhac-8-8-2021-409316.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/binh-yen-qua-tang-am-nhac-18-7-2021-407592.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/07/18/qtan-180721.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 18 Jul 2021 17:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Thành phố tôi yêu - Quà tặng âm nhạc 11/7/2021</title>
-      <link>https://radio.voh.com.vn/qua-tang-am-nhac/thanh-pho-toi-yeu-qua-tang-am-nhac-11-7-2021-406984.html</link>
-      <description><![CDATA[10:00 - 11/07/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/thanh-pho-toi-yeu-qua-tang-am-nhac-11-7-2021-406984.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/07/10/qtan-110721.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 11 Jul 2021 17:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
