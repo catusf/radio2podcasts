@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 15 Aug 2021 03:42:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 15 Aug 2021 15:18:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 15 Aug 2021 03:42:00 +0700</pubDate>
+    <pubDate>Sun, 15 Aug 2021 15:18:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Tâm và tình của người Thành phố Hồ Chí Minh! - Thời sự 05g30 15/8/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tam-va-tinh-cua-nguoi-thanh-pho-ho-chi-minh-thoi-su-05g30-15-8-2021-409872.html</link>
+      <description><![CDATA[08:18 - 15/08/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tam-va-tinh-cua-nguoi-thanh-pho-ho-chi-minh-thoi-su-05g30-15-8-2021-409872.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/08/15/AMThoisu05h30p150821.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 15 Aug 2021 15:18:00 +0700</pubDate>
+    </item>
     <item>
       <title>Vàng, dầu biến động thất thường trong tuần - Thời sự 17g00 14/8/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/vang-dau-bien-dong-that-thuong-trong-tuan-thoi-su-17g00-14-8-2021-409843.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/nhieu-bai-hoc-quy-cho-the-thao-viet-nam-nhin-tu-olympic-tokyo-thoi-su-11g00-14-8-2021-409814.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/08/14/AMThoisu11h00p140821.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 14 Aug 2021 18:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Doanh nghiệp linh hoạt "ứng biến" để duy trì chuỗi cung ứng - Thời sự 05g30 14/8/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/doanh-nghiep-linh-hoat-ung-bien-de-duy-tri-chuoi-cung-ung-thoi-su-05g30-14-8-2021-409781.html</link>
-      <description><![CDATA[05:30 - 14/08/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/doanh-nghiep-linh-hoat-ung-bien-de-duy-tri-chuoi-cung-ung-thoi-su-05g30-14-8-2021-409781.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/08/14/ts05g30-140821.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 14 Aug 2021 12:30:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
