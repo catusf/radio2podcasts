@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 09 Aug 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 16 Aug 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 09 Aug 2021 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 16 Aug 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,16 @@
     </itunes:owner>
     <itunes:subtitle>Thể thao 7 ngày</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Thethao7ngay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Chương trình Thể thao 7 ngày 14/8/2021</title>
+      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
+      <description><![CDATA[- Sự chuẩn bị của các đội tuyển bóng đá quốc gia, U23 quốc gia và đội tuyển nữ cho các giải đấu quốc tế và vòng loại thứ 3 World Cup 2022, vòng loại giải U23 châu Á và vòng loại giải vô địch nữ châu Á.
+- Nhìn lại các kết quả ấn tượng của các vận động viên đã giành được tại Olympic Tokyo 2020 và thông điệp  họ truyền tải qua nỗ lực thi đấu trong một kỳ thế vận hội đặc biệt nhất trong lịch sử.
+- Triển khai xây dựng các bài tập thể dục tại nhà cho người dân tập luyện trong mùa dịch Covid 19.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/08/16/vovlive_podcast_thethao7ngay_1408.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 16 Aug 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Chương trình Thể thao 7 ngày 7/8/2021</title>
       <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
@@ -53,16 +63,6 @@
       <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2021/07/26/vovlive_thethao-7-ngay_2507.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 26 Jul 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chương trình Thể thao 7 ngày 18/7/2021</title>
-      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
-      <description><![CDATA[- Đến Nhật Bản dự Olympic, đoàn thể thao Việt Nam có 43 thành viên, trong đó có 18 vận động viên của 11 môn thể thao, hướng tới mục tiêu có huy chương cùng tinh thần tuân thủ tuyệt đối các quy định phòng chống dịch. Cùng lắng nghe những chia sẻ của các vận động viên xuất sắc nhất Việt Nam trước ngày lên đường tham dự ngày hội thể thao lớn nhất hành tinh.
-- Câu chuyện đầy thú vị về con đường thể thao của HLV Phạm Thúy Vy, một trong những gương mặt tiên phong phát triển ba môn phối hợp tại Việt Nam.
-- Giới thiệu những nét đặc sắc của nhảy dây, môn thể thao tối giản nhưng vô cùng hiệu quả.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/07/19/vovlive_thethao-7-ngay_1807.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 19 Jul 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
