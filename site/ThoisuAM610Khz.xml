@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 18 Aug 2021 00:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 18 Aug 2021 14:39:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 18 Aug 2021 00:00:00 +0700</pubDate>
+    <pubDate>Wed, 18 Aug 2021 14:39:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Radio VOH – Người bạn của công nhân - Thời sự 5g30 18/8/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/radio-voh-nguoi-ban-cua-cong-nhan-thoi-su-5g30-18-8-2021-410243.html</link>
+      <description><![CDATA[07:39 - 18/08/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/radio-voh-nguoi-ban-cua-cong-nhan-thoi-su-5g30-18-8-2021-410243.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/08/18/AMThoisu05h30p180821.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 18 Aug 2021 14:39:00 +0700</pubDate>
+    </item>
     <item>
       <title>TPHCM sẽ thực hiện hàng loạt giải pháp hỗ trợ doanh nghiệp - Thời sự 17g00 17/08/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-se-thuc-hien-hang-loat-giai-phap-ho-tro-doanh-nghiep-thoi-su-17g00-17-08-2021-410219.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-gan-1-trieu-luot-nguoi-ra-duong-moi-ngay-thoi-su-11g00-17-08-2021-410192.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/08/17/AMThoisu11h00p170821.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 17 Aug 2021 18:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Người giao hàng được đi liên quận - Thời sự 17g00 16/8/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/nguoi-giao-hang-duoc-di-lien-quan-thoi-su-17g00-16-8-2021-410137.html</link>
-      <description><![CDATA[17:00 - 16/08/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/nguoi-giao-hang-duoc-di-lien-quan-thoi-su-17g00-16-8-2021-410137.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/08/16/TS17G00-160821.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 17 Aug 2021 00:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
