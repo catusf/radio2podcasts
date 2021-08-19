@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 27 Jul 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 19 Aug 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 27 Jul 2021 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 19 Aug 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Những giọng ca còn mãi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Nhunggiongcaconmai.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>NSƯT Trang Nhung: Giọng ca Bắc ngọt ngào, mùi mẫn</title>
+      <link>https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</link>
+      <description><![CDATA[Với giọng hát ngọt ngào và truyền cảm, NSƯT Trang Nhung có thể hát được nhiều thể loại từ cải lương, ca trù, chầu văn đến quan họ. Đặc biệt, bà được biết đến là người con đất Bắc nhưng ca cải lương rất ngọt ngào, mùi mẫn. Không chỉ hát trên làn sóng của Đài TNVN, trong nhiều lần đi thực tế bà còn mang tiếng hát của mình ra đồng ruộng phục vụ bà con nông dân, phục vụ công nhân hầm mỏ và phục vụ các binh đoàn chuẩn bị vào Nam chiến đấu. Nhiều đồng nghiệp của nữ nghệ sĩ thừa nhận, giọng hát của bà luôn là giọng hát chủ lực đứng đầu trong các giọng hát dân tộc cùng thế hệ. Có một vinh dự lớn trong cuộc đời nghệ thuật của bà đó là được biểu diễn rất nhiều lần cho Chủ tịch Hồ Chí Minh…]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/08/19/vovlive_nhung_giong_ca_con_mai_nsut_trang_nhung.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 19 Aug 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>NSND Châu Loan: Tiếng thơ nối bờ giới tuyến</title>
       <link>https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</link>
@@ -47,14 +55,6 @@ Nay dù đã ở độ tuổi xưa nay hiếm, nhưng ánh mắt NSƯT Châu Din
       <guid isPermaLink="false">https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2021/07/07/vovlive_nhung_giong_ca_con_mai_ndns_manh_tuan_he_cheo.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 07 Jul 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chị Hai quan họ Thanh Nhàn: Dành hết cảm xúc để truyền tải tình cảm qua lời ca, điệu nhạc</title>
-      <link>https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</link>
-      <description><![CDATA[Khán thính giả cả nước biết đến giọng hát NSƯT Thanh Nhàn qua làn sóng của Đài TNVN với hàng chục tiết mục cộng tác thu thanh cả lời mới và lời cổ. Với giọng hát vang, rền, nền, nảy, và đặt biệt là rất có hồn, các tiết mục do chị thể hiện đã thực sự chiếm được tình cảm yêu mến của khán thính giả và luôn nhận được thư yêu cầu nghe lại trên sóng phát thanh...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/06/15/vovlive_nhung_giong_ca_con_mai_nsut_thanh_nhan.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 15 Jun 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
