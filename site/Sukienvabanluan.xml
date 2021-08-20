@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 18 Aug 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 20 Aug 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 18 Aug 2021 19:00:00 +0700</pubDate>
+    <pubDate>Fri, 20 Aug 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Kinh nghiệm điều trị bệnh nhân Covid-19 tại nhà hiệu quả ở Campuchia</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Đại dịch Covid-19 đang tiếp diễn phức tạp với sự xuất hiện các biến thể mới nguy hiểm, dễ lây lan trên diện rộng, gây sức ép lớn đến các cơ sở y tế, bệnh viện của nhiều quốc gia. Thực tế này khiến các nước phải điều chỉnh chiến lược ứng phó dịch bệnh, trong đó có việc cho phép điều trị bệnh nhân Covid-19 ngay tại nhà, không phải nhập viện hay cách ly tập trung. Campuchia cũng là quốc gia đang triển khai chiến lược này và bước đầu có những kết quả tích cực. Giới chức nước này cũng khẳng định, việc điều trị Covid-19 tại nhà là hướng đi mới có thể triển khai hiệu quả trên diện rộng.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/08/20/vovlive_sukienvabinhluan_kinh_nghiem_dieu_tri_benh_-20-8.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 20 Aug 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Indonesia xây dựng lộ trình sống chung với Covid-19: thực tế hay mạo hiểm?</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2021/08/13/vovlive_sukienvabinhluan_bien_the_delta_lay_lan-13-8.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 13 Aug 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Trung Quốc nỗ lực kiềm chế “văn hóa fan cuồng”</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Trang mạng xã hội nổi tiếng nhất Trung Quốc Weibo mới đây đã quyết định xóa danh sách người nổi tiếng của họ, sau khi chính phủ cho biết trẻ em đang trở thành nạn nhân chính của những kẻ lợi dụng ngành giải trí. Những năm gần đây, nhiều câu chuyện cuồng thần tượng gây xôn xao ở Trung Quốc, báo giới gọi đây là một hiện tượng của “văn hóa cuồng thần tượng”. Một trong những cái tên được giới trẻ Trung Quốc hâm mộ là Ngô Diệc Phàm, một ca sĩ, diễn viên. Mới đây, nam ca sĩ này bị bắt giữ vì những cáo buộc cực kỳ nghiêm trọng liên quan đến cưỡng hiếp và quan hệ với trẻ vị thành niên. Đây được xem là một cú “sốc” với người hâm mộ Trung Quốc. Liệu điều này có giúp giới trẻ Trung Quốc nhìn nhận lại những “thần tượng” của mình? Bê bối của Ngô Diệc Phàm có mở đường cho “chiến dịch” dẹp bỏ hiện tượng fan cuồng ở Trung Quốc?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/08/12/vovlive_sukienvabinhluan_trung_quoc_no_luc_kiem_che_van_hoa_phan_cuong.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 12 Aug 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
