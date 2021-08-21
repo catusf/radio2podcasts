@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 19 Aug 2021 13:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 21 Aug 2021 04:42:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 19 Aug 2021 13:00:00 +0700</pubDate>
+    <pubDate>Sat, 21 Aug 2021 04:42:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Học sinh TP.HCM bắt đầu năm học mới từ 1-9, riêng tiểu học từ 8-9 - Sài Gòn buổi sáng - 20/08/2021</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/hoc-sinh-tp-hcm-bat-dau-nam-hoc-moi-tu-1-9-rieng-tieu-hoc-tu-8-9-sai-gon-buoi-sang-20-08-2021-410462.html</link>
+      <description><![CDATA[21:42 - 20/08/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/hoc-sinh-tp-hcm-bat-dau-nam-hoc-moi-tu-1-9-rieng-tieu-hoc-tu-8-9-sai-gon-buoi-sang-20-08-2021-410462.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/08/20/FMSGBS06h00p200821-Copy.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 21 Aug 2021 04:42:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Sài Gòn buổi sáng - 19/08/2021</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-19-08-2021-410338.html</link>
       <description><![CDATA[06:00 - 19/08/2021]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-19-08-2021-410338.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/08/19/FMSGBS06h00p190821.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 19 Aug 2021 13:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Sài Gòn buổi sáng - 18/8/2021</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-18-8-2021-410245.html</link>
-      <description><![CDATA[07:44 - 18/08/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-18-8-2021-410245.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/08/18/FMSGBS06h00p180821.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 18 Aug 2021 14:44:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
