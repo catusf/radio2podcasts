@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 24 Aug 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 25 Aug 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 24 Aug 2021 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 25 Aug 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Phân phối lại của cải: Trung Quốc muốn hướng tới “thịnh vượng chung”?</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA["Trung Quốc phải theo đuổi mục tiêu “thịnh vượng chung”, nơi mà của cải được chia sẻ một cách công bằng cho tất cả mọi người”. Chủ tịch Trung Quốc Tập Cận Bình phát biểu như vậy trước một cuộc họp lãnh đạo kinh tế chủ chốt mới đây. Điều này được cho sẽ làm gia tăng áp lực với các doanh nghiệp và công dân giàu có của đất nước hơn 1.4 tỷ dân. Đây cũng là sự thay đổi đáng kể về chính sách sau một thời gian Trung Quốc “cho phép một số người làm giàu trước”. Cách thức để đạt được mục tiêu đó là gì? Liệu đó có phải là giải pháp cho tình trạng chênh lệch phát triển trong xã hội Trung Quốc ?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/08/25/vovlive_sukienvabinhluan_phan_phoi_lai_cua_cai_25-8.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 25 Aug 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Cần thêm giải pháp nào để đảm bảo an toàn tránh đứt gãy sản xuất trong dịch bênh?</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2021/08/20/vovlive_sukienvabinhluan_kinh_nghiem_dieu_tri_benh_-20-8.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 20 Aug 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Indonesia xây dựng lộ trình sống chung với Covid-19: thực tế hay mạo hiểm?</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Tổng thống Indonesia Joko Widodo vừa chỉ đạo Bộ Y tế nước này xây dựng lộ trình để cùng chung sống với Covid-19, hướng tới mục tiêu giữ cho các hoạt động diễn ra bình thường với một nền kinh tế an toàn hơn. Ý tưởng sống chung với dịch bệnh từng được nhiều quốc gia đề cập, nhất là khi nhiều nhận định khoa học cho thấy dịch bệnh Covid-19 có thể sẽ kéo dài trong nhiều năm. Nhưng trong bối cảnh Indonesia vẫn là điểm nóng dịch bệnh của châu Á với trên dưới 20.000 ca mắc mới mỗi ngày, số người tử vong vì Covid-19 đã gần 120.000 người, câu chuyện “sống chung với dịch bệnh” khiến nhiều người băn khoăn liệu đây là cách tiếp cận mang tính thực tế hay là khá mạo hiểm của Indonesia?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/08/18/vovlive_sukienvabinhluan_indonesia_xay_dung_lo_trinh_song_chung_voi_covid-19-18-8.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 18 Aug 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
