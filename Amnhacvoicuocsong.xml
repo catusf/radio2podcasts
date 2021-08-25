@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 19 Aug 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 24 Aug 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 19 Aug 2021 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 24 Aug 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,16 @@
     </itunes:owner>
     <itunes:subtitle>Âm nhạc với cuộc sống</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Amnhacvoicuocsong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Gặp gỡ NSƯT Thúy Đạt-Nguyên BTV âm nhạc, Ban Âm nhạc VOV3-Đài TNVN với ca khúc “Màu cờ nước Việt” tham dự Cuộc vận động sáng tác ca khúc "Hát lên Việt Nam – Let's sing Viet Nam”</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[-Thưởng thức ca khúc “Xin cảm ơn những trái tim yêu người” của tác giả Phạm Việt Tuân: Ca khúc ý nghĩa và xúc động dành tặng y bác sĩ, chiến sĩ, các lực lượng đang ngày đêm trên tuyến đầu chống đại dịch Covid-19 (ca khúc tham dự cuộc vận động sáng tác ca khúc Hát lên Việt Nam-Let’sing Viet Nam)
+-Gặp gỡ NSƯT Thúy Đạt với ca khúc “Màu cờ nước Việt” tham dự Cuộc vận động sáng tác ca khúc "Hát lên Việt Nam – Let's sing Viet Nam”. 
+-Một số thông tin về cuộc vận động sáng tác ca khúc Hát lên Việt Nam-Let’sing Viet Nam.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/08/24/vovlive_am_nhac_voi_cuoc_song_gap_go_nsut_thuy_dat_mau_co_nuoc_viet.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 24 Aug 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Tìm hiểu hoàn cảnh ra đời của ca khúc “Mười chín tháng Tám” của nhạc sĩ Xuân Oanh nhân kỷ niệm 76 năm Cách Mạng Tháng Tám thành công (19/8/1945-19/8/2021)</title>
       <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
@@ -48,14 +58,6 @@
       <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2021/08/03/vovlive_am_nhac_voi_cuoc_song_toi_co_vai_cuoc_hen_nguyen_ba_hung.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 03 Aug 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>“Đất thiêng Đồng Lộc”: Tác phẩm âm nhạc khắc họa tấm gương hy sinh của 10 cô gái ở Ngã ba Đồng Lộc</title>
-      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[Kỷ niệm 74 năm ngày Thương binh liệt sĩ (27/7/1947-27/7/2021), 53 năm ngày hy sinh của 10 cô gái thanh niên xung phong Ngã ba Đồng Lộc, cùng lắng nghe tác phẩm âm nhạc “Đất thiêng Đồng Lộc” (âm nhạc-nhạc sĩ Trần Nhật Dương-nguyên Phó ban Ban Âm nhạc-VOV3 Đài TNVN, lời thơ-nhà báo Trần Nhật Minh - Trưởng ban Ban Văn học Nghệ thuật - VOV6 Đài TNVN) và nghe những chia sẻ của nhà báo Trần Nhật Minh về tác phẩm này...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/07/27/vovlive_am_nhac_voi_cuoc_song_dat_thieng_dong_loc_tran_nhat_duong_tran_nhat_minh.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 27 Jul 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
