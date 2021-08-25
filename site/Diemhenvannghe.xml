@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 12 Aug 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 25 Aug 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 12 Aug 2021 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 25 Aug 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Điểm hẹn văn nghệ</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Diemhenvannghe.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>“Sài Gòn sẽ vui”: Bao nhiêu ân tình trong ngày hoạn nạn 12/8/2021</title>
+      <title>“Ngày bình yên sẽ đến”: Khúc tráng ca nơi tuyến đầu chống dịch  25/8/2021</title>
+      <link>http://vov6.vov.vn/diem-hen-van-nghe/ngay-binh-yen-se-den-khuc-trang-ca-noi-tuyen-dau-chong-dich-c158-33807.aspx</link>
+      <description><![CDATA[Bài hát “Ngày bình yên sẽ đến” (thơ của tác giả Nguyên Hùng do nhạc sĩ Đỗ Tiến Lập phổ nhạc) ra đời trong thời gian thành phố Hồ Chí Minh và các tỉnh Nam Bộ nói riêng, cả nước nói chung bị dịch bệnh Covid 19 hoành hành. Với nhịp điệu khỏe khoắn, sôi động ca khúc này như một lời động viên kịp thời đến với đội ngũ y bác sĩ, tiếp thêm sức mạnh, niềm tin và tự hào về người chiến sĩ áo trắng trong công cuộc phòng chống đại dịch. (Điểm hẹn văn nghệ 21/8/2021)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/ngay-binh-yen-se-den-khuc-trang-ca-noi-tuyen-dau-chong-dich-c158-33807.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/v2_2108_08h0018h30_diem_hen_van_nghe_258202122.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 25 Aug 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>“Sài Gòn sẽ vui”: Bao nhiêu ân tình trong ngày hoạn nạn  12/8/2021</title>
       <link>http://vov6.vov.vn/diem-hen-van-nghe/sai-gon-se-vui-bao-nhieu-an-tinh-trong-ngay-hoan-nan-c158-33773.aspx</link>
       <description><![CDATA[“Bạn bè xót xa, đồng bào lo lắng / Sài Gòn của tôi, Sài Gòn của bạn / Sài Gòn đang ốm nhưng rồi sẽ vui / Đường em đến lớp rộn ràng phố đông / Gánh xôi thơ bé sẽ thơm mùa hè / Hàn huyên cà phê phố khi hết ngày chia ly…”. Cùng cả nước hướng về thành phố Hồ Chí Minh giữa tâm dịch, nhạc sĩ Trần Quang Sơn vô tình biết tới bài thơ mới của nhà báo Nguyễn Đức Hiển. Có được sự đồng cảm với những lời thơ chân thực, giàu xúc cảm, nhạc sĩ Trần Quang Sơn nhanh chóng phổ nhạc và tự mình thể hiện ca khúc “Sài Gòn sẽ vui” để gửi những tình cảm ấm áp, cổ vũ động viên tới TP.HCM nói riêng, cả nước nói chung trong cuộc chiến chống đại dịch . (Điểm hẹn văn nghệ 07/8/2021)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/sai-gon-se-vui-bao-nhieu-an-tinh-trong-ngay-hoan-nan-c158-33773.aspx</guid>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/chutankra-cau-chuyen-xuc-dong-ve-nghia-tinh-dong-doi-c158-33763.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/v2_2407_08h0018h30_diem_hen_van_nghe_108202121.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 10 Aug 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>“Tình khúc Nguyệt Hồ”: Tìm lại bóng dáng Phố Hiến xưa  27/7/2021</title>
-      <link>http://vov6.vov.vn/diem-hen-van-nghe/tinh-khuc-nguyet-ho-tim-lai-bong-dang-pho-hien-xua-c158-33717.aspx</link>
-      <description><![CDATA[“Anh bảo rằng ngày xưa nơi đây vốn là đất / Em bảo rằng ngày xưa nơi đây vốn là nước / Dáng lưỡi liềm trăng non lung linh từ thuở trước / Đến bây giờ vẫn thế Nguyệt Hồ ơi!” (Bài hát “Tình khúc Nguyệt Hồ”, nhạc sĩ Trần Thanh Tùng phổ nhạc từ bài thơ  “Nguyệt Hồ” của tác giả Nguyễn Khắc Hào). (Điểm hẹn văn nghệ 10/07/2021)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/tinh-khuc-nguyet-ho-tim-lai-bong-dang-pho-hien-xua-c158-33717.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/v2_1007_08h0018h30_diem_hen_van_nghe_277202111.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 27 Jul 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
