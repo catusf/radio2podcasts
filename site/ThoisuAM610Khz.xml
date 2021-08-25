@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 25 Aug 2021 12:30:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 25 Aug 2021 18:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 25 Aug 2021 12:30:00 +0700</pubDate>
+    <pubDate>Wed, 25 Aug 2021 18:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>TPHCM cung cấp thông tin cho người dân về COVID-19 qua MXH - Thời sự 11g00 25/08/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-cung-cap-thong-tin-cho-nguoi-dan-ve-covid-19-qua-mxh-thoi-su-11g00-25-08-2021-410840.html</link>
+      <description><![CDATA[11:00 - 25/08/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-cung-cap-thong-tin-cho-nguoi-dan-ve-covid-19-qua-mxh-thoi-su-11g00-25-08-2021-410840.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/08/25/AMThoisu11h00p250821cuon1.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 25 Aug 2021 18:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Nghiêm cấm việc thu tiền tiêm ngừa vaccine phòng Covid - 19 - Thời sự 5g30 25/08/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/nghiem-cam-viec-thu-tien-tiem-ngua-vaccine-phong-covid-19-thoi-su-5g30-25-08-2021-410807.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/ong-phan-van-mai-duoc-bau-lam-chu-tich-ubnd-tphcm-thoi-su-17g00-24-8-2021-410762.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/08/24/ts17g-240821.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 25 Aug 2021 00:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Người dân xúc động nhận túi an sinh tiếp sức vượt qua mùa dịch - Thời sự 11g00 24/8/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/nguoi-dan-xuc-dong-nhan-tui-an-sinh-tiep-suc-vuot-qua-mua-dich-thoi-su-11g00-24-8-2021-410761.html</link>
-      <description><![CDATA[11:00 - 24/08/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/nguoi-dan-xuc-dong-nhan-tui-an-sinh-tiep-suc-vuot-qua-mua-dich-thoi-su-11g00-24-8-2021-410761.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/08/24/ts11-240821.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 24 Aug 2021 18:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
