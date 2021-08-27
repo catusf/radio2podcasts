@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 27 Aug 2021 12:30:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 27 Aug 2021 18:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 27 Aug 2021 12:30:00 +0700</pubDate>
+    <pubDate>Fri, 27 Aug 2021 18:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Điều động lực lượng quân y hỗ trợ công tác phòng, chống dịch - Thời sự 11g00 27/08/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/dieu-dong-luc-luong-quan-y-ho-tro-cong-tac-phong-chong-dich-thoi-su-11g00-27-08-2021-411029.html</link>
+      <description><![CDATA[11:00 - 27/08/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/dieu-dong-luc-luong-quan-y-ho-tro-cong-tac-phong-chong-dich-thoi-su-11g00-27-08-2021-411029.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/08/27/AMThoisu11h00p270821.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 27 Aug 2021 18:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Tạo điều kiện tối đa cho vận chuyển thiết bị y tế thiết yếu - Thời sự 5g30 27/08/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tao-dieu-kien-toi-da-cho-van-chuyen-thiet-bi-y-te-thiet-yeu-thoi-su-5g30-27-08-2021-410982.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/thu-tuong-kiem-tra-cong-tac-phong-chong-dich-covid-19-tai-tphcm-thoi-su-17g00-26-8-221-410952.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/08/26/AMThoisu17h00p260821.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 27 Aug 2021 01:46:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Trẻ sơ sinh mắc Covid-19 đã có trung tâm H.O.P.E hỗ trợ chăm sóc – Thời sự 11g00 26/8/221</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tre-so-sinh-mac-covid-19-da-co-trung-tam-h-o-p-e-ho-tro-cham-soc-thoi-su-11g00-26-8-221-410901.html</link>
-      <description><![CDATA[11:35 - 26/08/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tre-so-sinh-mac-covid-19-da-co-trung-tam-h-o-p-e-ho-tro-cham-soc-thoi-su-11g00-26-8-221-410901.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/08/26/AMThoisu11h00p260821.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 26 Aug 2021 18:35:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
