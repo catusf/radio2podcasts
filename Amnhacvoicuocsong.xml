@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 01 Jan 2000 07:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 24 Aug 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 01 Jan 2000 07:00:00 +0700</pubDate>
+    <pubDate>Tue, 24 Aug 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,5 +23,41 @@
     </itunes:owner>
     <itunes:subtitle>Âm nhạc với cuộc sống</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Amnhacvoicuocsong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Gặp gỡ NSƯT Thúy Đạt-Nguyên BTV âm nhạc, Ban Âm nhạc VOV3-Đài TNVN với ca khúc “Màu cờ nước Việt” tham dự Cuộc vận động sáng tác ca khúc "Hát lên Việt Nam – Let's sing Viet Nam”</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[-Thưởng thức ca khúc “Xin cảm ơn những trái tim yêu người” của tác giả Phạm Việt Tuân: Ca khúc ý nghĩa và xúc động dành tặng y bác sĩ, chiến sĩ, các lực lượng đang ngày đêm trên tuyến đầu chống đại dịch Covid-19 (ca khúc tham dự cuộc vận động sáng tác ca khúc Hát lên Việt Nam-Let’sing Viet Nam)
+-Gặp gỡ NSƯT Thúy Đạt với ca khúc “Màu cờ nước Việt” tham dự Cuộc vận động sáng tác ca khúc "Hát lên Việt Nam – Let's sing Viet Nam”. 
+-Một số thông tin về cuộc vận động sáng tác ca khúc Hát lên Việt Nam-Let’sing Viet Nam.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/08/24/vovlive_am_nhac_voi_cuoc_song_gap_go_nsut_thuy_dat_mau_co_nuoc_viet.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 24 Aug 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Tìm hiểu hoàn cảnh ra đời của ca khúc “Mười chín tháng Tám” của nhạc sĩ Xuân Oanh nhân kỷ niệm 76 năm Cách Mạng Tháng Tám thành công (19/8/1945-19/8/2021)</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[Ca khúc “Mười chín Tháng Tám” của nhạc sĩ Xuân Oanh đã và sẽ mãi mãi đi vào lịch sử đấu tranh Cách mạng của Đảng và nhân dân ta, trở thành nguồn cổ vũ tinh thần mạnh mẽ với những người quân và dân ta khắp mọi miền đất nước. “Mười chín tháng Tám” không chỉ được biết đến bởi bầu nhiệt huyết tuổi trẻ của chàng thanh niên tuổi 20 Xuân Oanh mà hoàn cảnh ra đời cũng góp phần làm nên sự nổi tiếng của ca khúc. “Mười chín tháng Tám” ra đời đúng vào ngày 19 tháng 8 năm 1945 lịch sử, trong khi đang hoà vào dòng người biểu tình đấu tranh giành thắng lợi của Cách mạng Tháng 8 năm 1945, cảm xúc bất chợt đến trong tâm hồn tràn đầy nhiệt huyết, giai điệu và ca từ bài hát cứ thế trào ra theo từng bước chân của người nhạc sĩ trẻ tuổi. Khi đoàn người tiến đến trước Nhà hát Lớn thì bài hát cũng hoàn thành và nhanh chóng theo mọi ngả đường truyền đi khắp đất nước, trở thành nguồn động viên cho nhân dân khắp nơi đấu tranh giành chính quyền…
+-Trò chuyện với nữ tác giả Nguyễn Mai Thuyên cùng ca khúc ý nghĩa dành tặng các y, bác sĩ và lực lượng tuyến đầu chống đại dịch Covid 19 “Tự hào khúc hát ngành Y”.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/08/19/vovlive_am_nhac_voi_cuoc_song_hoan_canh_ra_doi_ca_khuc_muoi_chin_thang_tam_xuan_oanh.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 19 Aug 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Trò chuyện cùng Nhạc sĩ, Nhà báo Quỳnh Hợp với hai tác phẩm âm nhạc “Giấc mơ ứa màu” và “Ngày da cam” kỷ niệm Ngày vì nạn nhân chất độc da cam Việt Nam (10/8/2021)</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[-Kể từ ngày đầu tiên (10/8/1961) quân đội Mỹ đưa chất độc da cam sử dụng liên tục trong 10 năm để đối phó với cuộc chiến tranh vệ quốc của dân tộc ta, 60 năm đã trôi qua nhưng nỗi đau da cam vẫn hiện hữu với hàng trăm nghìn người, hàng trăm nghìn trẻ em và hàng trăm nghìn gia đình trên đất nước ta. Cùng chung tay chia sẻ nỗi đau da cam là thông điệp chung dành cho mỗi người Việt Nam. Với các nhạc sĩ, đó là những hành động thiết thực của họ được thể hiện qua các tác phẩm âm nhạc. Cùng lắng nghe các ca khúc ”Giấc mơ ứa màu” và “Ngày da cam” của nhạc sĩ-nhà báo Quỳnh Hợp (lời thơ của nhà thơ Mai Thanh Tịnh) và những chia sẻ của chị về các tác phẩm âm nhạc này... 
+-“Nhắc nhớ ta ở yên”: Một thông điệp tích cực trong thời điểm giãn cách xã hội vì dịch Covid-19 của nhạc sĩ Nguyễn Thắng.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/08/10/vovlive_am_nhac_voi_cuoc_song_tro_chuyen_cung_nha_bao_quynh_hop_ngay_nan_nhan_chat_doc_da_cam(1).mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 10 Aug 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>“Tôi có vài cuộc hẹn”: Món quà âm nhạc tri ân các lực lượng tuyến đầu, cổ vũ và động viên đồng bào chống dịch của nhạc sĩ Nguyễn Bá Hùng</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[Trong thời gian giãn cách do đại dịch Covid 19, nhạc sĩ Nguyễn Bá Hùng đã cùng ca sĩ Nguyễn Phi Hùng thực hiện sản phẩm âm nhạc “Tôi có vài cuộc hẹn” để tri ân các y, bác sĩ đang ngày đêm chống dịch cũng như cổ vũ và động viên tinh thần chống dịch của nhân dân cả nước. Cùng gặp gỡ và lắng nghe những chia sẻ của nhạc sĩ Nguyễn Bá Hùng về dự án âm nhạc này...]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/08/03/vovlive_am_nhac_voi_cuoc_song_toi_co_vai_cuoc_hen_nguyen_ba_hung.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 03 Aug 2021 19:00:00 +0700</pubDate>
+    </item>
   </channel>
 </rss>
