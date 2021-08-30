@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 29 Aug 2021 15:22:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 30 Aug 2021 17:41:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 29 Aug 2021 15:22:00 +0700</pubDate>
+    <pubDate>Mon, 30 Aug 2021 17:41:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Để không bỏ qua "thời gian vàng" tiêm chủng vaccine Covid-19 - Sài Gòn buổi sáng 30/8/2021</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/de-khong-bo-qua-thoi-gian-vang-tiem-chung-vaccine-covid-19-sai-gon-buoi-sang-30-8-2021-411245.html</link>
+      <description><![CDATA[10:41 - 30/08/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/de-khong-bo-qua-thoi-gian-vang-tiem-chung-vaccine-covid-19-sai-gon-buoi-sang-30-8-2021-411245.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/08/30/fmsgbs06h00p300821-20210830133638.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 30 Aug 2021 17:41:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Sài Gòn buổi sáng - 29/8/2021</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-29-8-2021-411145.html</link>
       <description><![CDATA[08:22 - 29/08/2021]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-29-8-2021-411145.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/08/29/fmsaigonbuoisang06h00p290821-20210828221043.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 29 Aug 2021 15:22:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Sài Gòn buổi sáng - 28/08/2021</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-28-08-2021-411086.html</link>
-      <description><![CDATA[10:55 - 28/08/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-28-08-2021-411086.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/08/28/FMsaigonbuoisang06h00p280821-Copy.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 28 Aug 2021 17:55:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
