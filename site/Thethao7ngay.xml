@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 23 Aug 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 30 Aug 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 23 Aug 2021 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 30 Aug 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,17 @@
     </itunes:owner>
     <itunes:subtitle>Thể thao 7 ngày</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Thethao7ngay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Chương trình Thể thao 7 ngày 28/8/2021</title>
+      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
+      <description><![CDATA[- Sự kiện VFF và VPF cùng 27 CLB bóng đá chuyên nghiệp thống nhất hủy mùa giải V. League 2021.
+- CR7 chia tay Juventus  - Sự tất yếu của một  Seria A  yếu kém về mặt tài chính và khát vọng chiến thắng của một ngôi sao.
+- Những yếu tố đằng sau sự thành công của các đội đua Red Bull và Mercedes tại mùa giải đua xe công thức 1 tại năm nay.
+- Chia sẻ thông điệp  ý nghĩa của cựu đội trưởng đội tuyển bóng đá nữ Afghanistan trong bối cảnh chính trị Afghanistan có những thay đổi nghiêm trọng.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/08/30/vovlive_podcast_thethao7ngay_2808.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 30 Aug 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Chương trình Thể thao 7 ngày 21/8/2021</title>
       <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
@@ -52,16 +63,6 @@
       <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2021/08/09/vovlive_podcast_thethao7ngay_0708.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 09 Aug 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chương trình Thể thao 7 ngày 31/7/2021</title>
-      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
-      <description><![CDATA[- Chỉ sau 1 tuần tranh tài chính thức tại Olympic Tokyo 2020, các vận động viên đoàn thể thao Việt Nam đều sớm phải dừng bước và không thể tạo ra những kết quả bất ngờ trước các đối thủ hàng đầu thế giới. Điều này đã phản ánh năng lực cạnh tranh của các vận động viên Việt Nam ở đấu trường cao nhất của thể thao quốc tế.
-- Đoàn thể thao Ủy ban Olympic Nga với khát vọng trở lại mạnh mẽ.
-- Những nét đặc sắc của nhảy dây, môn thể thao tối giản nhưng vô cùng hiệu quả.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/08/02/vovlive_podcast_thethao7ngay_3107.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 02 Aug 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
