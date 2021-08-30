@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 30 Aug 2021 20:29:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 31 Aug 2021 02:08:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 30 Aug 2021 20:29:00 +0700</pubDate>
+    <pubDate>Tue, 31 Aug 2021 02:08:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Trao tặng thuốc điều trị bệnh cho các trạm y tế xã, phường, thị trấn – Thời sự 17g00 30/8/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/trao-tang-thuoc-dieu-tri-benh-cho-cac-tram-y-te-xa-phuong-thi-tran-thoi-su-17g00-30-8-2021-411264.html</link>
+      <description><![CDATA[19:08 - 30/08/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/trao-tang-thuoc-dieu-tri-benh-cho-cac-tram-y-te-xa-phuong-thi-tran-thoi-su-17g00-30-8-2021-411264.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/08/30/amthoisu17h00p30082120210830164129.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 31 Aug 2021 02:08:00 +0700</pubDate>
+    </item>
     <item>
       <title>Giúp nông dân Thành phố vượt khó trong mùa dịch - Thời sự 11g00 30/8/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/giup-nong-dan-thanh-pho-vuot-kho-trong-mua-dich-thoi-su-11g00-30-8-2021-411238.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/vung-cam-vung-do-phai-xet-nghiem-xong-dot-2-truoc-ngay-1-9-thoi-su-5g30-30-8-2021-411203.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/08/30/amthoisu05h30p300821-20210829230421.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 30 Aug 2021 13:48:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chi trả lương hưu gộp tháng 9 và 10 từ ngày 6/9 - Thời sự 17g00 29/8/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/chi-tra-luong-huu-gop-thang-9-va-10-tu-ngay-6-9-thoi-su-17g00-29-8-2021-411176.html</link>
-      <description><![CDATA[17:00 - 29/08/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/chi-tra-luong-huu-gop-thang-9-va-10-tu-ngay-6-9-thoi-su-17g00-29-8-2021-411176.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/08/29/ts17g-290821.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 30 Aug 2021 00:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
