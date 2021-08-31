@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 31 Aug 2021 02:08:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 31 Aug 2021 19:15:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 31 Aug 2021 02:08:00 +0700</pubDate>
+    <pubDate>Tue, 31 Aug 2021 19:15:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,28 +24,28 @@
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Tinh thần thoải mái, Covid mau lui! - Thời sự 11g00 31/8/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tinh-than-thoai-mai-covid-mau-lui-thoi-su-11g00-31-8-2021-411310.html</link>
+      <description><![CDATA[12:15 - 31/08/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tinh-than-thoai-mai-covid-mau-lui-thoi-su-11g00-31-8-2021-411310.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/08/31/AMThoisu11h00p310821ss.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 31 Aug 2021 19:15:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Nhiều giải pháp "gỡ khó" để sẵn sàng cho năm học mới - Thời sự 5g30 31/8/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/nhieu-giai-phap-go-kho-de-san-sang-cho-nam-hoc-moi-thoi-su-5g30-31-8-2021-411291.html</link>
+      <description><![CDATA[09:08 - 31/08/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/nhieu-giai-phap-go-kho-de-san-sang-cho-nam-hoc-moi-thoi-su-5g30-31-8-2021-411291.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/08/31/AMThoisu05h30p310821.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 31 Aug 2021 16:08:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Trao tặng thuốc điều trị bệnh cho các trạm y tế xã, phường, thị trấn – Thời sự 17g00 30/8/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/trao-tang-thuoc-dieu-tri-benh-cho-cac-tram-y-te-xa-phuong-thi-tran-thoi-su-17g00-30-8-2021-411264.html</link>
       <description><![CDATA[19:08 - 30/08/2021]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/trao-tang-thuoc-dieu-tri-benh-cho-cac-tram-y-te-xa-phuong-thi-tran-thoi-su-17g00-30-8-2021-411264.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/08/30/amthoisu17h00p30082120210830164129.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 31 Aug 2021 02:08:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Giúp nông dân Thành phố vượt khó trong mùa dịch - Thời sự 11g00 30/8/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/giup-nong-dan-thanh-pho-vuot-kho-trong-mua-dich-thoi-su-11g00-30-8-2021-411238.html</link>
-      <description><![CDATA[13:29 - 30/08/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/giup-nong-dan-thanh-pho-vuot-kho-trong-mua-dich-thoi-su-11g00-30-8-2021-411238.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/08/30/amthoisu11h00p300821-20210830104415.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 30 Aug 2021 20:29:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Vùng cam vùng đỏ phải xét nghiệm xong đợt 2 trước ngày 1/9 - Thời sự 5g30 30/8/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/vung-cam-vung-do-phai-xet-nghiem-xong-dot-2-truoc-ngay-1-9-thoi-su-5g30-30-8-2021-411203.html</link>
-      <description><![CDATA[06:48 - 30/08/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/vung-cam-vung-do-phai-xet-nghiem-xong-dot-2-truoc-ngay-1-9-thoi-su-5g30-30-8-2021-411203.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/08/30/amthoisu05h30p300821-20210829230421.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 30 Aug 2021 13:48:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
