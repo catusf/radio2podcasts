@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 24 Aug 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 31 Aug 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 24 Aug 2021 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 31 Aug 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,15 @@
     </itunes:owner>
     <itunes:subtitle>Âm nhạc với cuộc sống</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Amnhacvoicuocsong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>“Hãy ngăn chặn Covid”: Lời hiệu triệu về niềm tin chiến thắng đại dịch Covid 19 của nhạc sĩ Trịnh Ngọc Tân-Nguyên BTV Âm nhạc Điện ảnh Quân đội Nhân dân</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[- Thưởng thức ca khúc “Hãy ngăn chặn Covid” của nhạc sĩ Trịnh Ngọc Tân và cùng lắng nghe những chia sẻ của anh về ca khúc này.
+-Một số thông tin về cuộc vận động sáng tác ca khúc Hát lên Việt Nam-Let’sing Viet Nam và cùng thưởng thức ca khúc “Tự hào Việt Nam tổ quốc tôi” (nhạc sĩ Nguyễn Xuân Tuấn Dương) và “Tự hào quê hương Việt Nam” (của nhạc sĩ Huyền Ngọc) tham dự cuộc vận động sáng tác này.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/08/31/vovlive_am_nhac_voi_cuoc_song_hay_ngan_chan_covid_trinh_ngoc_tan.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 31 Aug 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Gặp gỡ NSƯT Thúy Đạt-Nguyên BTV âm nhạc, Ban Âm nhạc VOV3-Đài TNVN với ca khúc “Màu cờ nước Việt” tham dự Cuộc vận động sáng tác ca khúc "Hát lên Việt Nam – Let's sing Viet Nam”</title>
       <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
@@ -50,14 +59,6 @@
       <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2021/08/10/vovlive_am_nhac_voi_cuoc_song_tro_chuyen_cung_nha_bao_quynh_hop_ngay_nan_nhan_chat_doc_da_cam(1).mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 10 Aug 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>“Tôi có vài cuộc hẹn”: Món quà âm nhạc tri ân các lực lượng tuyến đầu, cổ vũ và động viên đồng bào chống dịch của nhạc sĩ Nguyễn Bá Hùng</title>
-      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[Trong thời gian giãn cách do đại dịch Covid 19, nhạc sĩ Nguyễn Bá Hùng đã cùng ca sĩ Nguyễn Phi Hùng thực hiện sản phẩm âm nhạc “Tôi có vài cuộc hẹn” để tri ân các y, bác sĩ đang ngày đêm chống dịch cũng như cổ vũ và động viên tinh thần chống dịch của nhân dân cả nước. Cùng gặp gỡ và lắng nghe những chia sẻ của nhạc sĩ Nguyễn Bá Hùng về dự án âm nhạc này...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/08/03/vovlive_am_nhac_voi_cuoc_song_toi_co_vai_cuoc_hen_nguyen_ba_hung.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 03 Aug 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
