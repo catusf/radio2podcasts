@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 31 Aug 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 01 Sep 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 31 Aug 2021 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 01 Sep 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Tổng thống Ukraine thăm Mỹ: Tái định hình quan hệ Mỹ - Ukraine</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Tổng thống Ukraine đang có chuyến thăm Mỹ và dự kiến hôm nay (ngày 1.9) sẽ gặp Tổng thống nước chủ nhà Joe Biden tại Nhà Trắng. Ông Volodymyr Zelensky là Tổng thống Ukraine đầu tiên tới thăm Mỹ sau hơn 4 năm, vì vậy, chuyến đi này được đánh giá có ý nghĩa rất lớn với phía Ukraine, nhất là sau thời gian mối quan hệ Mỹ - Ukraine gặp không ít sóng gió dưới thời ông Donad Trump.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/09/01/vovlive_cacvandequocte_tongtongukrainathammy.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 01 Sep 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Afghanistan trước thời hạn chót: Hỗn loạn và rối ren</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2021/08/30/vovlive_cacvandequocte_chuyenthamcuaphotongthongmytoivietnam.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 27 Aug 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Mục tiêu “cài đặt lại” mối quan hệ với Mỹ trong chuyến công du đầu tiên của tân thủ tướng Israel</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Sau một thời gian ổn định nội các, tân Thủ tướng Israen Naftali Bennett bắt đầu hoạt động ngoại giao đầu tiên với chuyến công du Mỹ và gặp Tổng thống Joe Biden trong ngày hôm nay (26.8). Theo giới quan sát, một trong những mục tiêu của chuyến công du này của Thủ tướng Israel là cố gắng hàn gắn mối quan hệ với chính quyền thuộc đảng Dân chủ ở Mỹ, vốn đã bị “rạn nứt” dưới thời cựu thủ tướng Benjamin Netanyahu, người có quan điểm ủng hộ đảng Cộng hòa. Ngoài ra, ông Naftali Bennett cũng sẽ tận dụng cơ hội này để bàn với nhà lãnh đạo Mỹ về những vấn đề an ninh của khu vực, nằm trong mối quan tâm chung của hai nước.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/08/26/vovlive_cacvandequocte_muctieucaidatlaimoiquanhevoimytrongchuyencongdudautiencuatanthutuongisrael.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 26 Aug 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
