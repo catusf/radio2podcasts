@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 31 Aug 2021 19:15:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 01 Sep 2021 12:30:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 31 Aug 2021 19:15:00 +0700</pubDate>
+    <pubDate>Wed, 01 Sep 2021 12:30:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,28 +24,28 @@
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>TPHCM chia lộ trình tiêm vắc xin thành 4 giai đoạn cho đến hết năm 2021 - Thời sự 1/9/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-chia-lo-trinh-tiem-vac-xin-thanh-4-giai-doan-cho-den-het-nam-2021-thoi-su-1-9-2021-411379.html</link>
+      <description><![CDATA[05:30 - 01/09/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-chia-lo-trinh-tiem-vac-xin-thanh-4-giai-doan-cho-den-het-nam-2021-thoi-su-1-9-2021-411379.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/09/01/ts05g30-010921.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 01 Sep 2021 12:30:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Kết nối sản xuất và tiêu thụ nông sản: Hướng đi dúng đắn – Thời sự 17g00 31/8/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/ket-noi-san-xuat-va-tieu-thu-nong-san-huong-di-dung-dan-thoi-su-17g00-31-8-2021-411351.html</link>
+      <description><![CDATA[20:46 - 31/08/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/ket-noi-san-xuat-va-tieu-thu-nong-san-huong-di-dung-dan-thoi-su-17g00-31-8-2021-411351.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/08/31/AMThoisu17h00p310821.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 01 Sep 2021 03:46:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Tinh thần thoải mái, Covid mau lui! - Thời sự 11g00 31/8/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tinh-than-thoai-mai-covid-mau-lui-thoi-su-11g00-31-8-2021-411310.html</link>
       <description><![CDATA[12:15 - 31/08/2021]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tinh-than-thoai-mai-covid-mau-lui-thoi-su-11g00-31-8-2021-411310.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/08/31/AMThoisu11h00p310821ss.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 31 Aug 2021 19:15:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Nhiều giải pháp "gỡ khó" để sẵn sàng cho năm học mới - Thời sự 5g30 31/8/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/nhieu-giai-phap-go-kho-de-san-sang-cho-nam-hoc-moi-thoi-su-5g30-31-8-2021-411291.html</link>
-      <description><![CDATA[09:08 - 31/08/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/nhieu-giai-phap-go-kho-de-san-sang-cho-nam-hoc-moi-thoi-su-5g30-31-8-2021-411291.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/08/31/AMThoisu05h30p310821.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 31 Aug 2021 16:08:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Trao tặng thuốc điều trị bệnh cho các trạm y tế xã, phường, thị trấn – Thời sự 17g00 30/8/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/trao-tang-thuoc-dieu-tri-benh-cho-cac-tram-y-te-xa-phuong-thi-tran-thoi-su-17g00-30-8-2021-411264.html</link>
-      <description><![CDATA[19:08 - 30/08/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/trao-tang-thuoc-dieu-tri-benh-cho-cac-tram-y-te-xa-phuong-thi-tran-thoi-su-17g00-30-8-2021-411264.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/08/30/amthoisu17h00p30082120210830164129.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 31 Aug 2021 02:08:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
