@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 04 Sep 2021 21:58:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 05 Sep 2021 00:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 04 Sep 2021 21:58:00 +0700</pubDate>
+    <pubDate>Sun, 05 Sep 2021 00:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Đảm bảo các điều kiện vận chuyển, cung ứng trang thiết bị và oxy y tế - Thời sự 17g00 04/09/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/dam-bao-cac-dieu-kien-van-chuyen-cung-ung-trang-thiet-bi-va-oxy-y-te-thoi-su-17g00-04-09-2021-411712.html</link>
+      <description><![CDATA[17:00 - 04/09/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/dam-bao-cac-dieu-kien-van-chuyen-cung-ung-trang-thiet-bi-va-oxy-y-te-thoi-su-17g00-04-09-2021-411712.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/09/04/AMThoisu17h00p040921.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 05 Sep 2021 00:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Cẩn thận với chiêu trò lừa đảo bán giấy đi đường giả - Thời sự 11g00 05/09/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/can-than-voi-chieu-tro-lua-dao-ban-giay-di-duong-gia-thoi-su-11g00-05-09-2021-411701.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/nhieu-benh-nhan-nang-duoc-ra-vien-tai-cac-benh-vien-trung-tam-hoi-suc-thoi-su-5g30-04-09-2021-411668.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/09/04/AMThoisu05h30p040921.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 04 Sep 2021 12:30:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chủ tịch Quốc hội VN dự Hội nghị các Chủ tịch QH thế giới lần thứ 5 - Thời sự 17g00 3/9/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/chu-tich-quoc-hoi-vn-du-hoi-nghi-cac-chu-tich-qh-the-gioi-lan-thu-5-thoi-su-17g00-3-9-2021-411624.html</link>
-      <description><![CDATA[17:49 - 03/09/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/chu-tich-quoc-hoi-vn-du-hoi-nghi-cac-chu-tich-qh-the-gioi-lan-thu-5-thoi-su-17g00-3-9-2021-411624.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/09/03/AMThoisu17h00p030921.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 04 Sep 2021 00:49:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
