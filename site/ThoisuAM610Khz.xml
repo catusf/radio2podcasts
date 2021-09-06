@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 06 Sep 2021 20:37:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 07 Sep 2021 04:11:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 06 Sep 2021 20:37:00 +0700</pubDate>
+    <pubDate>Tue, 07 Sep 2021 04:11:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Coi công tác tiêm chủng là nhiệm vụ ưu tiên, cấp bách - Thời sự 17g00 6/9/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/coi-cong-tac-tiem-chung-la-nhiem-vu-uu-tien-cap-bach-thoi-su-17g00-6-9-2021-411863.html</link>
+      <description><![CDATA[21:11 - 06/09/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/coi-cong-tac-tiem-chung-la-nhiem-vu-uu-tien-cap-bach-thoi-su-17g00-6-9-2021-411863.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/09/06/AMThoisu17h00p060921-Copy.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 07 Sep 2021 04:11:00 +0700</pubDate>
+    </item>
     <item>
       <title>Rất cần “vaccine tinh thần” cho người học trong mùa dịch – Thời sự 11g00 6/9/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/rat-can-vaccine-tinh-than-cho-nguoi-hoc-trong-mua-dich-thoi-su-11g00-6-9-2021-411828.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/blouse-trang-diem-tua-vung-chac-cung-nguoi-dan-vuot-qua-dai-dich-thoi-su-5g30-6-9-2021-411827.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/09/06/AMThoisu05h30p060921.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 06 Sep 2021 20:37:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Truy tặng Huân chương Lao động hạng Ba cho 2 cá nhân trong phòng chống dịch - Thời Sự 17g00 5/9/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/truy-tang-huan-chuong-lao-dong-hang-ba-cho-2-ca-nhan-trong-phong-chong-dich-thoi-su-17g00-5-9-2021-411765.html</link>
-      <description><![CDATA[21:11 - 05/09/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/truy-tang-huan-chuong-lao-dong-hang-ba-cho-2-ca-nhan-trong-phong-chong-dich-thoi-su-17g00-5-9-2021-411765.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/09/05/AMThoisu17h00p050921.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 06 Sep 2021 04:11:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
