@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 30 Aug 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 06 Sep 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 30 Aug 2021 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 06 Sep 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,15 @@
     </itunes:owner>
     <itunes:subtitle>Thể thao 7 ngày</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Thethao7ngay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Chương trình Thể thao 7 ngày 4/9/2021</title>
+      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
+      <description><![CDATA[- Phân tích thất bại đầy đáng tiếc của ĐT Việt Nam trước chủ nhà Saudi Arabia ở lượt ra quân bảng B vòng loại thứ 3 World Cup 2022
+- Abbas Karimi: 8 năm chạy trốn khỏi Afghanistan để đặt chân tới Paralympic]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/09/06/vovlive_podcast_thethao7ngay_0409.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 06 Sep 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Chương trình Thể thao 7 ngày 28/8/2021</title>
       <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
@@ -53,16 +62,6 @@
       <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2021/08/16/vovlive_podcast_thethao7ngay_1408.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 16 Aug 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chương trình Thể thao 7 ngày 7/8/2021</title>
-      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
-      <description><![CDATA[- Olympic Tokyo 2020 chính thức khép lại sau 2 tuần tranh tài đầy sôi nổi vào tối Chủ nhật (8/8). Khi các cuộc tranh tài đã lắng xuống, dư luận nhanh chóng "mổ xẻ" việc thể thao nước ta trắng tay rời Tokyo. Người trong cuộc là các thành viên của đoàn thể thao Việt Nam chia sẻ gì về hành trình đã đi qua tại Nhật Bản? 
-- Cảm nhận thông điệp đoàn kết của Olympic Tokyo 2020 và cùng nhau hướng tới một thể giới khỏe mạnh hơn
-- Một số kinh nghiệm thiết thực về Plank - bài tập hiệu quả cho mục tiêu đốt mỡ]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/08/09/vovlive_podcast_thethao7ngay_0708.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 09 Aug 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

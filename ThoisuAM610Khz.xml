@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 05 Sep 2021 21:24:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 06 Sep 2021 04:11:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 05 Sep 2021 21:24:00 +0700</pubDate>
+    <pubDate>Mon, 06 Sep 2021 04:11:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Truy tặng Huân chương Lao động hạng Ba cho 2 cá nhân trong phòng chống dịch - Thời Sự 17g00 5/9/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/truy-tang-huan-chuong-lao-dong-hang-ba-cho-2-ca-nhan-trong-phong-chong-dich-thoi-su-17g00-5-9-2021-411765.html</link>
+      <description><![CDATA[21:11 - 05/09/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/truy-tang-huan-chuong-lao-dong-hang-ba-cho-2-ca-nhan-trong-phong-chong-dich-thoi-su-17g00-5-9-2021-411765.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/09/05/AMThoisu17h00p050921.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 06 Sep 2021 04:11:00 +0700</pubDate>
+    </item>
     <item>
       <title>TPHCM - Những ngày nỗ lực, chung sức đảm bảo an sinh - Thời sự 11g00 5/9/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-nhung-ngay-no-luc-chung-suc-dam-bao-an-sinh-thoi-su-11g00-5-9-2021-411753.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/trach-nhiem-tu-tam-cua-cac-doanh-nghiep-thoi-su-5g30-5-9-2021-411752.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/09/05/AMThoisu05h30p050921.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 05 Sep 2021 21:19:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đảm bảo các điều kiện vận chuyển, cung ứng trang thiết bị và oxy y tế - Thời sự 17g00 04/09/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/dam-bao-cac-dieu-kien-van-chuyen-cung-ung-trang-thiet-bi-va-oxy-y-te-thoi-su-17g00-04-09-2021-411712.html</link>
-      <description><![CDATA[17:00 - 04/09/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/dam-bao-cac-dieu-kien-van-chuyen-cung-ung-trang-thiet-bi-va-oxy-y-te-thoi-su-17g00-04-09-2021-411712.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/09/04/AMThoisu17h00p040921.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 05 Sep 2021 00:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
