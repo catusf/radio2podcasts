@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 30 Aug 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 06 Sep 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 30 Aug 2021 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 06 Sep 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,27 +24,27 @@
     <itunes:subtitle>Văn nghệ thiếu nhi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Vannghethieunhi.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Đọc truyện "Búp sen xanh" - Buổi thứ mười - Đường tới kinh đô 30/8/2021</title>
+      <title>Vẻ đẹp của chất liệu và hoa văn thổ cẩm 6/9/2021</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/ve-dep-cua-chat-lieu-va-hoa-van-tho-cam-c44-33834.aspx</link>
+      <description><![CDATA[Thổ cẩm là một loại vải dệt theo phương pháp thủ công rất giàu họa tiết đặc trưng của vùng miền. Các họa tiết này thường nổi lên trên bề mặt vải giống như được thêu, thực chất là được làm ra ngay trong quá trình dệt vải. Ở nước ta, vải thổ cẩm khá đặc trưng và phổ biến ở các vùng núi phía Bắc và các vùng Tây Nguyên, Ninh Thuận... (Văn nghệ thiếu nhi 01/09/2021)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/ve-dep-cua-chat-lieu-va-hoa-van-tho-cam-c44-33834.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2021_9/v2_0109_10h4518h15_van_nghe_thieu_nhi_69202115.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 06 Sep 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Ôn tập tác phẩm trữ tình  6/9/2021</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/on-tap-tac-pham-tru-tinh-c44-33833.aspx</link>
+      <description><![CDATA[Vận dụng những kiến thức trong từng bài học giúp chúng mình cảm nhận, phân tích các hay, cái đẹp của một tác phẩm trữ tình. Thực hành bằng cách viết những bài cảm nhận về bài thơ, câu thơ, đoạn thơ hay, chúng mình sẽ tiến bộ từng ngày đấy... (Văn nghệ thiếu nhi 30/08/2021)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/on-tap-tac-pham-tru-tinh-c44-33833.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2021_9/v2_3008_10h45_18h15_van_nghe_thieu_nhi_69202114.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 06 Sep 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Đọc truyện "Búp sen xanh" - Buổi thứ mười - Đường tới kinh đô  30/8/2021</title>
       <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-bup-sen-xanh-buoi-thu-muoi-duong-toi-kinh-do-c44-33822.aspx</link>
       <description><![CDATA[Con đường thiên lý vào kinh đô Huế thưa thớt bóng người. Gia đình anh cử Sắc kết bạn với một số khách bộ hành. Họ phải vượt qua những cung đường hẻo lánh, tiềm ẩn nhiều mối lo. Ngày đi, đêm dừng chân xin nghỉ tạm ở nhà dân gần đường cái. Đó là quãng thời gian thật vất vả... (Văn nghệ thiếu nhi 29/08/2021)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-bup-sen-xanh-buoi-thu-muoi-duong-toi-kinh-do-c44-33822.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2021_8/v2_2908_10h45_18h15_van_nghe_thieu_nhi_308202117.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 30 Aug 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đọc truyện "Búp sen xanh" - Buổi thứ chín - Trước chuyến đi xa  30/8/2021</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-bup-sen-xanh-buoi-thu-chin-truoc-chuyen-di-xa-c44-33821.aspx</link>
-      <description><![CDATA[Gia đình anh cử Sắc chuẩn bị lên đường vào kinh đô Huế. Cả nhà tất bật sắm sửa cho chuyến đi. Bà con làng xóm cũng đến nhà chia sẻ động viên, người cho cái này, người biếu cái kia. Bà ngoại bé Côn lòng dạ bồn chồn lo lắng, thương con thương cháu... (Văn nghệ thiếu nhi 28/08/2021)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-bup-sen-xanh-buoi-thu-chin-truoc-chuyen-di-xa-c44-33821.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2021_8/v2_2808_10h45_18h15_van_nghe_thieu_nhi_308202117.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 30 Aug 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đọc truyện "Búp sen xanh" - Buổi thứ tám - Nỗi buồn thi hỏng  30/8/2021</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-bup-sen-xanh-buoi-thu-tam-noi-buon-thi-hong-c44-33820.aspx</link>
-      <description><![CDATA[Năm thi hội Ất Mùi, anh Nguyễn Sinh Sắc hỏng thi. Từ kinh đô Huế trở về quê, lòng anh trĩu nặng bao suy nghĩ trở trăn. Ba chị em bé Côn lâu ngày mới gặp cha, vui mừng khôn xiết... (Văn nghệ thiếu nhi 27/08/2021)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-bup-sen-xanh-buoi-thu-tam-noi-buon-thi-hong-c44-33820.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2021_8/v2_2708_10h45_18h15_van_nghe_thieu_nhi_308202117.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 30 Aug 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
