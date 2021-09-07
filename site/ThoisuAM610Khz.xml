@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 07 Sep 2021 04:11:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 07 Sep 2021 13:20:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 07 Sep 2021 04:11:00 +0700</pubDate>
+    <pubDate>Tue, 07 Sep 2021 13:20:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ấm lòng những suất cơm miễn phí giữa mùa dịch - Thời sự 5g30 7/9/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/am-long-nhung-suat-com-mien-phi-giua-mua-dich-thoi-su-5g30-7-9-2021-411878.html</link>
+      <description><![CDATA[06:20 - 07/09/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/am-long-nhung-suat-com-mien-phi-giua-mua-dich-thoi-su-5g30-7-9-2021-411878.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/09/07/amthoisu05h30p070921-20210907002620.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 07 Sep 2021 13:20:00 +0700</pubDate>
+    </item>
     <item>
       <title>Coi công tác tiêm chủng là nhiệm vụ ưu tiên, cấp bách - Thời sự 17g00 6/9/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/coi-cong-tac-tiem-chung-la-nhiem-vu-uu-tien-cap-bach-thoi-su-17g00-6-9-2021-411863.html</link>
@@ -37,14 +45,6 @@
       <description><![CDATA[13:37 - 06/09/2021]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/rat-can-vaccine-tinh-than-cho-nguoi-hoc-trong-mua-dich-thoi-su-11g00-6-9-2021-411828.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/09/06/AMThoisu11h00p060921.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 06 Sep 2021 20:37:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Blouse trắng – điểm tựa vững chắc cùng người dân vượt qua đại dịch – Thời sự 5g30 6/9/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/blouse-trang-diem-tua-vung-chac-cung-nguoi-dan-vuot-qua-dai-dich-thoi-su-5g30-6-9-2021-411827.html</link>
-      <description><![CDATA[13:37 - 06/09/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/blouse-trang-diem-tua-vung-chac-cung-nguoi-dan-vuot-qua-dai-dich-thoi-su-5g30-6-9-2021-411827.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/09/06/AMThoisu05h30p060921.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 06 Sep 2021 20:37:00 +0700</pubDate>
     </item>
   </channel>
