@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 31 Aug 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 07 Sep 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 31 Aug 2021 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 07 Sep 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,16 @@
     </itunes:owner>
     <itunes:subtitle>Âm nhạc với cuộc sống</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Amnhacvoicuocsong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>“Chia nhau một chút ngọt bùi”: Tác phẩm âm nhạc lắng đọng cảm xúc và lan tỏa thông điệp hãy cùng đồng lòng vượt qua đại dịch Covid 19 của nhạc sĩ Nguyễn Bá Hùng</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[-Thưởng thức ca khúc “Chia nhau một chút ngọt bùi” (nhạc sĩ Nguyễn Bá Hùng, NSND Tạ Minh Tâm thể hiện) và lắng nghe những chia sẻ của nhạc sĩ về tác phẩm âm nhạc này.
+-Một số thông tin về cuộc vận động sáng tác ca khúc Hát lên Việt Nam-Let’sing Vietnam do Đài TNVN tổ chức.
+-Kỷ niệm 76 năm ngày thành lập Đài TNVN, thưởng thức ca khúc “Đài Tiếng nói Việt Nam” của nhạc sĩ Lê Mây (lời của các tác giả Kim Ngọc Anh, Đăng Tiến)-ca khúc tham dự cuộc vận động sáng tác ca khúc Hát lên Việt Nam-Let’sing Vietnam.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/09/07/vovlive_am_nhac_voi_cuoc_song_chia_nhau_mot_chut_ngot_bui_nguyen_ba_hung.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 07 Sep 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>“Hãy ngăn chặn Covid”: Lời hiệu triệu về niềm tin chiến thắng đại dịch Covid 19 của nhạc sĩ Trịnh Ngọc Tân-Nguyên BTV Âm nhạc Điện ảnh Quân đội Nhân dân</title>
       <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
@@ -50,15 +60,6 @@
       <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2021/08/19/vovlive_am_nhac_voi_cuoc_song_hoan_canh_ra_doi_ca_khuc_muoi_chin_thang_tam_xuan_oanh.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 19 Aug 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Trò chuyện cùng Nhạc sĩ, Nhà báo Quỳnh Hợp với hai tác phẩm âm nhạc “Giấc mơ ứa màu” và “Ngày da cam” kỷ niệm Ngày vì nạn nhân chất độc da cam Việt Nam (10/8/2021)</title>
-      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[-Kể từ ngày đầu tiên (10/8/1961) quân đội Mỹ đưa chất độc da cam sử dụng liên tục trong 10 năm để đối phó với cuộc chiến tranh vệ quốc của dân tộc ta, 60 năm đã trôi qua nhưng nỗi đau da cam vẫn hiện hữu với hàng trăm nghìn người, hàng trăm nghìn trẻ em và hàng trăm nghìn gia đình trên đất nước ta. Cùng chung tay chia sẻ nỗi đau da cam là thông điệp chung dành cho mỗi người Việt Nam. Với các nhạc sĩ, đó là những hành động thiết thực của họ được thể hiện qua các tác phẩm âm nhạc. Cùng lắng nghe các ca khúc ”Giấc mơ ứa màu” và “Ngày da cam” của nhạc sĩ-nhà báo Quỳnh Hợp (lời thơ của nhà thơ Mai Thanh Tịnh) và những chia sẻ của chị về các tác phẩm âm nhạc này... 
--“Nhắc nhớ ta ở yên”: Một thông điệp tích cực trong thời điểm giãn cách xã hội vì dịch Covid-19 của nhạc sĩ Nguyễn Thắng.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/08/10/vovlive_am_nhac_voi_cuoc_song_tro_chuyen_cung_nha_bao_quynh_hop_ngay_nan_nhan_chat_doc_da_cam(1).mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 10 Aug 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
