@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 07 Sep 2021 19:55:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 08 Sep 2021 01:44:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 07 Sep 2021 19:55:00 +0700</pubDate>
+    <pubDate>Wed, 08 Sep 2021 01:44:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Gia hạn gần 73.000 tỉ đồng tiền thuế - Thời sự 17g00 7/9/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/gia-han-gan-73-000-ti-dong-tien-thue-thoi-su-17g00-7-9-2021-411923.html</link>
+      <description><![CDATA[18:44 - 07/09/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/gia-han-gan-73-000-ti-dong-tien-thue-thoi-su-17g00-7-9-2021-411923.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/09/07/amthoisu17h00p070921-20210907164043.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 08 Sep 2021 01:44:00 +0700</pubDate>
+    </item>
     <item>
       <title>Điều kiện để F0 tham gia chống dịch COVID-19 tại TPHCM - Thời sự 11g00 7/9/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/dieu-kien-de-f0-tham-gia-chong-dich-covid-19-tai-tphcm-thoi-su-11g00-7-9-2021-411896.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/am-long-nhung-suat-com-mien-phi-giua-mua-dich-thoi-su-5g30-7-9-2021-411878.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/09/07/amthoisu05h30p070921-20210907002620.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 07 Sep 2021 13:20:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Coi công tác tiêm chủng là nhiệm vụ ưu tiên, cấp bách - Thời sự 17g00 6/9/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/coi-cong-tac-tiem-chung-la-nhiem-vu-uu-tien-cap-bach-thoi-su-17g00-6-9-2021-411863.html</link>
-      <description><![CDATA[21:11 - 06/09/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/coi-cong-tac-tiem-chung-la-nhiem-vu-uu-tien-cap-bach-thoi-su-17g00-6-9-2021-411863.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/09/06/AMThoisu17h00p060921-Copy.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 07 Sep 2021 04:11:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
