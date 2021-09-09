@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 08 Sep 2021 17:08:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 09 Sep 2021 13:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 08 Sep 2021 17:08:00 +0700</pubDate>
+    <pubDate>Thu, 09 Sep 2021 13:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>TPHCM cho phép loại hình kinh doanh dịch vụ ăn uống được hoạt động - Sài Gòn buổi sáng 9/9/2021</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/tphcm-cho-phep-loai-hinh-kinh-doanh-dich-vu-an-uong-duoc-hoat-dong-sai-gon-buoi-sang-9-9-2021-412052.html</link>
+      <description><![CDATA[06:00 - 09/09/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/tphcm-cho-phep-loai-hinh-kinh-doanh-dich-vu-an-uong-duoc-hoat-dong-sai-gon-buoi-sang-9-9-2021-412052.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/09/09/SGBS-090921.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 09 Sep 2021 13:00:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Kiến tạo động lực phục hồi kinh tế TPHCM giai đoạn Covid-19 lần 4 - Sài Gòn buổi sáng 8/9/2021</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/kien-tao-dong-luc-phuc-hoi-kinh-te-tphcm-giai-doan-covid-19-lan-4-sai-gon-buoi-sang-8-9-2021-411964.html</link>
       <description><![CDATA[10:08 - 08/09/2021]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/kien-tao-dong-luc-phuc-hoi-kinh-te-tphcm-giai-doan-covid-19-lan-4-sai-gon-buoi-sang-8-9-2021-411964.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/09/08/FMSGBS06h00p080921lan2.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 08 Sep 2021 17:08:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Shipper trở lại hoạt động - Cung ứng hàng hóa dần cải thiện - Sài Gòn buổi sáng 7/9/2021</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/shipper-tro-lai-hoat-dong-cung-ung-hang-hoa-dan-cai-thien-sai-gon-buoi-sang-7-9-2021-411879.html</link>
-      <description><![CDATA[08:28 - 07/09/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/shipper-tro-lai-hoat-dong-cung-ung-hang-hoa-dan-cai-thien-sai-gon-buoi-sang-7-9-2021-411879.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/09/07/fmsgbs06h00p070921-20210907053136.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 07 Sep 2021 15:28:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
