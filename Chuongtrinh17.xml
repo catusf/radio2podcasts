@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 08 Sep 2021 15:21:36 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 09 Sep 2021 15:21:40 +0200</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 08 Sep 2021 15:21:36 +0200</pubDate>
+    <pubDate>Thu, 09 Sep 2021 15:21:40 +0200</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>17'</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Chuongtrinh17.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>09-09-2021 Chương trình 17'</title>
+      <link>https://www.rfi.fr/vi/t%E1%BA%A1p-ch%C3%AD/13h00-13h17-gmt/20210909-th%C3%B4ng-tin-09-09-13h00-gmt</link>
+      <description><![CDATA[Chương trình ngày 09-09-2021 ]]></description>
+      <guid isPermaLink="false">https://www.rfi.fr/vi/t%E1%BA%A1p-ch%C3%AD/13h00-13h17-gmt/20210909-th%C3%B4ng-tin-09-09-13h00-gmt</guid>
+      <enclosure url="https://aod-rfi.akamaized.net/rfi/vietnamien/audio/magazines/r001/13h00_-_13h17_gmt_20210909.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 09 Sep 2021 15:21:40 +0200</pubDate>
+    </item>
     <item>
       <title>08-09-2021 Chương trình 17'</title>
       <link>https://www.rfi.fr/vi/t%E1%BA%A1p-ch%C3%AD/13h00-13h17-gmt/20210908-th%C3%B4ng-tin-08-09-13h00-gmt</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://www.rfi.fr/vi/t%E1%BA%A1p-ch%C3%AD/13h00-13h17-gmt/20210905-th%C3%B4ng-tin-05-09-13h00-gmt</guid>
       <enclosure url="https://aod-rfi.akamaized.net/rfi/vietnamien/audio/magazines/r001/13h00_-_13h17_gmt_20210905.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 05 Sep 2021 15:21:15 +0200</pubDate>
-    </item>
-    <item>
-      <title>04-09-2021 Chương trình 17'</title>
-      <link>https://www.rfi.fr/vi/t%E1%BA%A1p-ch%C3%AD/13h00-13h17-gmt/20210904-th%C3%B4ng-tin-04-09-13h00-gmt</link>
-      <description><![CDATA[Chương trình ngày 04-09-2021 ]]></description>
-      <guid isPermaLink="false">https://www.rfi.fr/vi/t%E1%BA%A1p-ch%C3%AD/13h00-13h17-gmt/20210904-th%C3%B4ng-tin-04-09-13h00-gmt</guid>
-      <enclosure url="https://aod-rfi.akamaized.net/rfi/vietnamien/audio/magazines/r001/13h00_-_13h17_gmt_20210904.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 04 Sep 2021 15:20:47 +0200</pubDate>
     </item>
   </channel>
 </rss>
