@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 06 Sep 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 09 Sep 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 06 Sep 2021 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 09 Sep 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Tìm trong kho báu</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Timtrongkhobau.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Gửi Hà Nội từ tâm dịch Sài Gòn6/9/2021</title>
+      <title>Văn tế Nôm – Những dấu ấn9/9/2021</title>
+      <link>http://vov6.vov.vn/tim-trong-kho-bau/van-te-nom-nhung-dau-an-c54-33842.aspx</link>
+      <description><![CDATA[Trong 10 thế kỷ văn học trung đại, dòng sáng tác bằng Quốc âm có những chỗ đứng và giá trị riêng. Cùng với các thể văn vần sơ khai, phú Nôm, thơ Nôm “Hàn luật”, diễn ca lịch sử, ngâm khúc, truyện Nôm, thơ Nôm Đường luật thì Văn tế Nôm cũng có những sự phát triển về nội dung, hình thức nghệ thuật. Buổi “Tìm trong kho báu” hôm nay đi vào những dấu ấn của thể loại Văn tế Nôm qua phân tích và dẫn chứng các sáng tác tiêu biểu]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/van-te-nom-nhung-dau-an-c54-33842.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/v2_091309_08h0018h30_tim_trong_kho_bau_109202110.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 09 Sep 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Gửi Hà Nội từ tâm dịch Sài Gòn 6/9/2021</title>
       <link>http://vov6.vov.vn/tim-trong-kho-bau/gui-ha-noi-tu-tam-dich-sai-gon-c54-33831.aspx</link>
       <description><![CDATA[Những ngày này người dân nhiều nơi hẳn đều hướng về điểm nóng của tâm dịch Sài Gòn -TP.HCM. Họ là những người con của Sài Gòn đang xa Tổ quốc, là những người từng sống, từng làm việc hay từng ghé chơi miền đất hào phóng thân thiện và nhiều ấn tượng này, giờ đây đang gặp tai ương, để lại nhiều niềm thương, nỗi lo lắng. Vậy thì lá thư sau đây của một người bạn Sài Gòn giúp chúng ta hiểu thêm phần nào tâm thế, cuộc sống chiến đấu của người dân trong tâm dịch đã và đang kiên cường như thế nào để hướng tới mục tiêu chiến thắng đại dịch]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/gui-ha-noi-tu-tam-dich-sai-gon-c54-33831.aspx</guid>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/tinh-doi-thoai-trong-chien-tung-tay-ho-phu-cua-pham-thai-c54-33827.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/v2_02_0609_08h00_18h30_tim_trong_kho_bau_save_2920219.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 01 Sep 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Vâng tôi là một Shipper giữa Sài Gòn tháng 8 27/8/2021</title>
-      <link>http://vov6.vov.vn/tim-trong-kho-bau/vang-toi-la-mot-shipper-giua-sai-gon-thang-8-c54-33817.aspx</link>
-      <description><![CDATA[Chuyên mục “Thư mùa dịch” bắt đầu được mở ra từ tuần này với thông điệp gửi trao tới quí vị những câu chuyện, tâm tư, tình đời trong những ngày mỗi người Việt Nam chúng ta đang phải chiến đấu với dịch bệnh. Thông điệp gửi trao về những yêu thương, về những niềm sẻ chia cảm thông , về những điều tốt đẹp nhân văn trong cuộc sống vốn đang đầy những khó khăn vất vả hiểm nguy. Số đầu tiên của “Thư mùa dịch” là bài viết của tác giả Nguyễn Xuân Phương “Mến gửi người khách chiều nay” hay còn là “Vâng tôi là một Shipper giữa Sài Gòn tháng 8” đã được nhận giải nhất cuộc thi “Viết thư mùa dịch” do Quán Chiêu Văn phát động]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/vang-toi-la-mot-shipper-giua-sai-gon-thang-8-c54-33817.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/toi_la_shipper_278202111.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 27 Aug 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
