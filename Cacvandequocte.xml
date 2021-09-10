@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 08 Sep 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 09 Sep 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 08 Sep 2021 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 09 Sep 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Nội các mới của Taliban ở Afghanistan</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Taliban đã công bố thành phần nội các trong Chính phủ Afghanistan trong bối cảnh Mỹ rút hoàn toàn quân đội ra khỏi nước này. Trong nội các mới của Taliban, ông Hassan Akhund được bổ nhiệm làm Thủ tướng. Người đồng sáng lập Taliban là Abdul Ghani Baradar sẽ đảm nhiệm vị trí quyền lực thứ 2 trong Chính phủ. Điểm đáng lưu ý, Sarajuddin Haqqani được bổ nhiệm làm Quyền Bộ trưởng Nội vụ. Người này là thủ lĩnh nhóm vũ trang Haqqani, tổ chức bị Mỹ xem là "khủng bố". Trước đó, Taliban tuyên bố lực lượng này sẵn sàng thiết lập quan hệ với Washington vì lợi ích của cả Afghanistan và Mỹ, đồng thời hoan nghênh khả năng Mỹ tham gia công cuộc tái thiết quốc gia Tây Nam Á này.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/09/10/vovlive_vandequocte_noicacmoicuatalibanpafghanistan(1).mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 09 Sep 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Mỹ kích hoạt nỗ lực ngoại giao, giải quyết những vấn đề sau rút quân khỏi Afghanistan</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2021/09/06/vovlive_vandequocte_phattrienvungviendongtrongmothegioithaydoi.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 03 Sep 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Cạnh tranh quyền lực nước lớn ở Trung Đông khi Iran và Saudi Arabia điều chỉnh chính sách đối ngoại</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Trong bối cảnh bức tranh an ninh, chính trị và các cuộc cạnh tranh quyền lực ở Trung Đông đang diễn ra phức tạp, đã có những tín hiệu lạc quan từ phía Iran và Saudi Arabia, hai cường quốc khu vực có mối quan hệ thù địch với nhau trong nhiều năm và đang ủng hộ các bên đối địch nhau trong các cuộc xung đột tại Trung Đông. Hai nước gần đây đã đưa ra những tuyên bố thân thiện khác thường về đối thủ và tiếp tục duy trì các cuộc đối thoại trực tiếp kể từ khi quan hệ ngoại giao song phương bị cắt đứt cách đây 5 năm. Điều gì khiến hai nước đối thủ vốn cạnh tranh quyền lực gay gắt ở khu vực điều chỉnh chính sách đối ngoại? Động thái này sẽ tác động ra sao đến môi trường an ninh chính trị Trung Đông?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/09/06/vovlive_cacvandequocte_canhtranhquyenlucnuoclonotrungdong.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 02 Sep 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
