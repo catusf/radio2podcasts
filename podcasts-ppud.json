@@ -1,6 +1,6 @@
 {
   "podcasts": {
-    "host": "https://radio2podcasts.s3-ap-southeast-1.amazonaws.com/",
+    "host": "https://catusf.github.io/radio2podcasts/",
     "bucket_name": "radio2podcasts",
     "podcast_ext": ".xml",
     "name": "catusf",
