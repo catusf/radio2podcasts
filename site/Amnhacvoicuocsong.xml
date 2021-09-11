@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 20 Jul 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 07 Sep 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 20 Jul 2021 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 07 Sep 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,36 +24,42 @@
     <itunes:subtitle>Âm nhạc với cuộc sống</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Amnhacvoicuocsong.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>“Thương nhớ Sài Gòn”: Tâm tư của chàng nhạc sĩ 8X Nguyễn Bá Hùng mong thành phố hết dịch, trở lại nhịp sống thường nhật</title>
+      <title>“Chia nhau một chút ngọt bùi”: Tác phẩm âm nhạc lắng đọng cảm xúc và lan tỏa thông điệp hãy cùng đồng lòng vượt qua đại dịch Covid 19 của nhạc sĩ Nguyễn Bá Hùng</title>
       <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[Trong những ngày qua, trước diễn biến phức tạp của đại dịch Covid 19, đặc biệt với đồng bào miền Nam ruột thịt, tình cảm của cả nước hướng về miền Nam được cụ thể hóa bằng nhiều hành động và hoạt động có ý nghĩa. Với âm nhạc, có nhiều ca khúc của các nhạc sĩ ra đời chia sẻ yêu thương, động viên tinh thần những lực lượng tuyến đầu và đồng bào mình.  Với nỗi nhớ Sài Gòn về những ngày bình yên, hình ảnh Sài Gòn thân thương dồn nén, chàng nhạc sĩ 8X Nguyễn Bá Hùng đã viết ca khúc "Thương nhớ Sài Gòn" nói thay nỗi lòng của những người con Sài Gòn - TP.HCM...]]></description>
+      <description><![CDATA[-Thưởng thức ca khúc “Chia nhau một chút ngọt bùi” (nhạc sĩ Nguyễn Bá Hùng, NSND Tạ Minh Tâm thể hiện) và lắng nghe những chia sẻ của nhạc sĩ về tác phẩm âm nhạc này.
+-Một số thông tin về cuộc vận động sáng tác ca khúc Hát lên Việt Nam-Let’sing Vietnam do Đài TNVN tổ chức.
+-Kỷ niệm 76 năm ngày thành lập Đài TNVN, thưởng thức ca khúc “Đài Tiếng nói Việt Nam” của nhạc sĩ Lê Mây (lời của các tác giả Kim Ngọc Anh, Đăng Tiến)-ca khúc tham dự cuộc vận động sáng tác ca khúc Hát lên Việt Nam-Let’sing Vietnam.]]></description>
       <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/07/20/vovlive_am_nhac_voi_cuoc_song_thuong_nho_sai_son_nguyen_ba_hung.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 20 Jul 2021 19:00:00 +0700</pubDate>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/09/07/vovlive_am_nhac_voi_cuoc_song_chia_nhau_mot_chut_ngot_bui_nguyen_ba_hung.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 07 Sep 2021 19:00:00 +0700</pubDate>
     </item>
     <item>
-      <title>Nhà báo, nhạc sĩ Y Jang Tuyn - Đài Tiếng nói Nhân dân Tp Hồ Chí Minh và tinh thần chống dịch lạc quan qua những giai điệu âm nhạc</title>
+      <title>“Hãy ngăn chặn Covid”: Lời hiệu triệu về niềm tin chiến thắng đại dịch Covid 19 của nhạc sĩ Trịnh Ngọc Tân-Nguyên BTV Âm nhạc Điện ảnh Quân đội Nhân dân</title>
       <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[Lắng nghe những chia sẻ về tinh thần chống dịch Covid 19 của nhà báo, nhạc sĩ Y Jang Tuyn và những tác phẩm âm nhạc đầy xúc động gửi tới lực lượng tuyến đầu chống dịch và đồng bào thân yêu ...]]></description>
+      <description><![CDATA[- Thưởng thức ca khúc “Hãy ngăn chặn Covid” của nhạc sĩ Trịnh Ngọc Tân và cùng lắng nghe những chia sẻ của anh về ca khúc này.
+-Một số thông tin về cuộc vận động sáng tác ca khúc Hát lên Việt Nam-Let’sing Viet Nam và cùng thưởng thức ca khúc “Tự hào Việt Nam tổ quốc tôi” (nhạc sĩ Nguyễn Xuân Tuấn Dương) và “Tự hào quê hương Việt Nam” (của nhạc sĩ Huyền Ngọc) tham dự cuộc vận động sáng tác này.]]></description>
       <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/07/13/vovlive_am_nhac_voi_cuoc_song_y_jang_tuyn.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 13 Jul 2021 19:00:00 +0700</pubDate>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/08/31/vovlive_am_nhac_voi_cuoc_song_hay_ngan_chan_covid_trinh_ngoc_tan.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 31 Aug 2021 19:00:00 +0700</pubDate>
     </item>
     <item>
-      <title>“Nổi lửa lên em”: Câu chuyện đẹp trong hành trang người nhạc sĩ, chiến sĩ</title>
+      <title>Gặp gỡ NSƯT Thúy Đạt-Nguyên BTV âm nhạc, Ban Âm nhạc VOV3-Đài TNVN với ca khúc “Màu cờ nước Việt” tham dự Cuộc vận động sáng tác ca khúc "Hát lên Việt Nam – Let's sing Viet Nam”</title>
       <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[Nhân kỷ niệm Ngày truyền thống Ngành Hậu cần Quân đội (11/7/1950-11/7/2021), cùng tìm hiểu hoàn cảnh ra đời của bài hát “Nổi lửa lên em” của nhạc sĩ Huy Duy, lời thơ Giang Lam...]]></description>
+      <description><![CDATA[-Thưởng thức ca khúc “Xin cảm ơn những trái tim yêu người” của tác giả Phạm Việt Tuân: Ca khúc ý nghĩa và xúc động dành tặng y bác sĩ, chiến sĩ, các lực lượng đang ngày đêm trên tuyến đầu chống đại dịch Covid-19 (ca khúc tham dự cuộc vận động sáng tác ca khúc Hát lên Việt Nam-Let’sing Viet Nam)
+-Gặp gỡ NSƯT Thúy Đạt với ca khúc “Màu cờ nước Việt” tham dự Cuộc vận động sáng tác ca khúc "Hát lên Việt Nam – Let's sing Viet Nam”. 
+-Một số thông tin về cuộc vận động sáng tác ca khúc Hát lên Việt Nam-Let’sing Viet Nam.]]></description>
       <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/07/06/vovlive_am_nhac_voi_cuoc_song_noi_lua_len_em_huy_du.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 06 Jul 2021 19:00:00 +0700</pubDate>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/08/24/vovlive_am_nhac_voi_cuoc_song_gap_go_nsut_thuy_dat_mau_co_nuoc_viet.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 24 Aug 2021 19:00:00 +0700</pubDate>
     </item>
     <item>
-      <title>“Lời ru nơi tuyến đầu”: Tác phẩm âm nhạc gửi gắm tâm tư của nữ  trung tá, quân nhân chuyên nghiệp Vũ Thị Huyền Ngọc (Nhà Văn hóa, Cục Chính trị, Bộ tư lệnh Bộ đội biên phòng)</title>
+      <title>Tìm hiểu hoàn cảnh ra đời của ca khúc “Mười chín tháng Tám” của nhạc sĩ Xuân Oanh nhân kỷ niệm 76 năm Cách Mạng Tháng Tám thành công (19/8/1945-19/8/2021)</title>
       <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[Xúc động trước hình ảnh con gái nhỏ của Trung úy Phùng Thị Hạnh (điều dưỡng viên Khoa Chẩn đoán chức năng, Bệnh viện Quân y 103, Học viện Quân y - một trong hơn 160 y, bác sỹ Bệnh viện Quân y 103 được điều động đến tỉnh Bắc Giang hỗ trợ chống dịch COVID-19) khóc đòi mẹ khi nhìn thấy chị Hạnh xuất hiện trên tivi.  Nhớ lại những lần xa con nhỏ nhận nhiệm vụ lên đường, nữ trung tá quân nhân chuyên nghiệp Vũ Thị Huyền Ngọc đã viết  ca khúc thấm đẫm tình mẫu tử bao la của người mẹ - người lính nơi tuyến đầu chống dịch: "Lời ru nơi tuyến đầu". Ca khúc là món quà tinh thần chị gửi tới những người đồng đội, những lực lượng trên tuyến đầu đang ngày đêm căng mình nỗ lực đẩy lùi đại dịch, đem lại cuộc sống bình yên cho nhân dân…]]></description>
+      <description><![CDATA[Ca khúc “Mười chín Tháng Tám” của nhạc sĩ Xuân Oanh đã và sẽ mãi mãi đi vào lịch sử đấu tranh Cách mạng của Đảng và nhân dân ta, trở thành nguồn cổ vũ tinh thần mạnh mẽ với những người quân và dân ta khắp mọi miền đất nước. “Mười chín tháng Tám” không chỉ được biết đến bởi bầu nhiệt huyết tuổi trẻ của chàng thanh niên tuổi 20 Xuân Oanh mà hoàn cảnh ra đời cũng góp phần làm nên sự nổi tiếng của ca khúc. “Mười chín tháng Tám” ra đời đúng vào ngày 19 tháng 8 năm 1945 lịch sử, trong khi đang hoà vào dòng người biểu tình đấu tranh giành thắng lợi của Cách mạng Tháng 8 năm 1945, cảm xúc bất chợt đến trong tâm hồn tràn đầy nhiệt huyết, giai điệu và ca từ bài hát cứ thế trào ra theo từng bước chân của người nhạc sĩ trẻ tuổi. Khi đoàn người tiến đến trước Nhà hát Lớn thì bài hát cũng hoàn thành và nhanh chóng theo mọi ngả đường truyền đi khắp đất nước, trở thành nguồn động viên cho nhân dân khắp nơi đấu tranh giành chính quyền…
+-Trò chuyện với nữ tác giả Nguyễn Mai Thuyên cùng ca khúc ý nghĩa dành tặng các y, bác sĩ và lực lượng tuyến đầu chống đại dịch Covid 19 “Tự hào khúc hát ngành Y”.]]></description>
       <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/06/29/vovlive_am_nhac_voi_cuoc_song_loi_ru_noi_tuyen_dau.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 29 Jun 2021 19:00:00 +0700</pubDate>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/08/19/vovlive_am_nhac_voi_cuoc_song_hoan_canh_ra_doi_ca_khuc_muoi_chin_thang_tam_xuan_oanh.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 19 Aug 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
