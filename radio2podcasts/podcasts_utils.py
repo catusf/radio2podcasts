@@ -89,7 +89,7 @@ def output_rss(rss, filename):
     rss.rss_file(filename)
 
 
-def rss_from_webpage(feed_settings, get_articles_from_html, podcast_title, item_titles=None):
+def rss_from_webpage(feed_settings, get_articles_from_html, podcast_title, item_titles):
     """
     TODO docstring
     :param feed_settings:
