@@ -1,4 +1,5 @@
 # Todo List
+[ ] Update VOV Sachnoi to include each episode desc
 [x] Update Actions so that when having nothing to commit, quits gracefully
 [x] Fix duplicating issue for every podcasts.
 [ ] Add Site name next to Site abbreviation in HTML
