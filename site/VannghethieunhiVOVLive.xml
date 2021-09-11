@@ -16,13 +16,13 @@
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
-    <itunes:image href="https://radio2podcasts.s3-ap-southeast-1.amazonaws.com/VannghethieunhiVOVLive.png"/>
+    <itunes:image href="https://catusf.github.io/radio2podcasts/VannghethieunhiVOVLive.png"/>
     <itunes:owner>
       <itunes:name>catus.phan</itunes:name>
       <itunes:email>catus.phan@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:subtitle>VNTN</itunes:subtitle>
-    <atom:link href="https://radio2podcasts.s3-ap-southeast-1.amazonaws.com/VannghethieunhiVOVLive.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://catusf.github.io/radio2podcasts/VannghethieunhiVOVLive.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>▶ 1/12 Ngọn đồi biết hát - Buổi 1: Mở đầu</title>
       <link>https://vovlive.vn/ngon-doi-biet-hat-p5151.html</link>
