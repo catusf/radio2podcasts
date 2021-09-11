@@ -16,13 +16,13 @@
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
-    <itunes:image href="https://radio2podcasts.s3-ap-southeast-1.amazonaws.com/①Truyenkiemhiep.png"/>
+    <itunes:image href="https://catusf.github.io/radio2podcasts/①Truyenkiemhiep.png"/>
     <itunes:owner>
       <itunes:name>catus.phan</itunes:name>
       <itunes:email>catus.phan@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:subtitle>Trang 1</itunes:subtitle>
-    <atom:link href="https://radio2podcasts.s3-ap-southeast-1.amazonaws.com/①Truyenkiemhiep.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://catusf.github.io/radio2podcasts/①Truyenkiemhiep.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>▶ 1/565 Đấu Phá Thương Khung - Thiên Tàm Thổ Đậu - Chương 1</title>
       <link>https://phatphapungdung.com/sach-noi/dau-pha-thuong-khung-168028.html</link>
