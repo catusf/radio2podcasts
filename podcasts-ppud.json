@@ -7,6 +7,27 @@
     "email": "catus.phan@gmail.com"
   },
   "websites": {
+    "VOV": {
+      "home": "https://vovlive.vn/sach-noi/",
+      "name": "Sách nói VOV Live",
+      "function": null,
+      "programs": {
+        "vntn": {
+          "url": "https://vovlive.vn/sach-noi/van-nghe-thieu-nhi",
+          "title": "Văn nghệ thiếu nhi",
+          "subtitle": "VNTN",
+          "cover": "",
+          "no": 400
+        },
+        "tdk": {
+          "url": "https://vovlive.vn/sach-noi/truyen-dai-ky/",
+          "title": "Truyện dài kỳ",
+          "subtitle": "TDK",
+          "cover": "",
+          "no": 400
+        }
+      }
+    },
     "PPUD": {
       "home": "https://phatphapungdung.com/sach-noi/",
       "name": "Sách nói - Phật pháp ứng dụng",

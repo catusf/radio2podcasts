@@ -24,6 +24,7 @@ import vnexpress_get_articles
 import vovlive_get_articles
 import rfivi_get_articles
 import ppud_get_articles
+import vovlive_sachnoi_get_articles
 
 DE = True # False
 
@@ -46,6 +47,7 @@ PROCESS_FUNCTIONS = {
     'https://vovlive.vn/': vovlive_get_articles.get_articles_from_html,
     'https://www.rfi.fr/vi/': rfivi_get_articles.get_articles_from_html,
     'https://phatphapungdung.com/sach-noi/': ppud_get_articles.get_articles_from_html,
+    'https://vovlive.vn/sach-noi/': vovlive_sachnoi_get_articles.get_articles_from_html,
 }
 
 def main():
