@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 06 Sep 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 13 Sep 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 06 Sep 2021 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 13 Sep 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,15 @@
     </itunes:owner>
     <itunes:subtitle>Thể thao 7 ngày</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Thethao7ngay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Chương trình Thể thao 7 ngày 11/9/2021</title>
+      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
+      <description><![CDATA[- Nhìn lại hai trận đấu đầu tiên mang tính lịch sử tại vòng loại cuối cùng một kỳ World Cup của hầy trò HLV Park Hang Seo
+- Tìm hiểu các hoạt động chung tay góp phần cổ vũ và lan tỏa tinh thần phòng, chống dịch Covid 19 của các vận động viên tại Trung tâm huấn luyện thể thao Quốc gia Hà Nội]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/09/13/vovlive_podcast_thethao7ngay_1109.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 13 Sep 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Chương trình Thể thao 7 ngày 4/9/2021</title>
       <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
@@ -52,16 +61,6 @@
       <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2021/08/23/vovlive_podcast_thethao7ngay_2108.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 23 Aug 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chương trình Thể thao 7 ngày 14/8/2021</title>
-      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
-      <description><![CDATA[- Sự chuẩn bị của các đội tuyển bóng đá quốc gia, U23 quốc gia và đội tuyển nữ cho các giải đấu quốc tế và vòng loại thứ 3 World Cup 2022, vòng loại giải U23 châu Á và vòng loại giải vô địch nữ châu Á.
-- Nhìn lại các kết quả ấn tượng của các vận động viên đã giành được tại Olympic Tokyo 2020 và thông điệp  họ truyền tải qua nỗ lực thi đấu trong một kỳ thế vận hội đặc biệt nhất trong lịch sử.
-- Triển khai xây dựng các bài tập thể dục tại nhà cho người dân tập luyện trong mùa dịch Covid 19.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/08/16/vovlive_podcast_thethao7ngay_1408.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 16 Aug 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
