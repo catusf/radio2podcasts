@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 06 Sep 2021 03:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 13 Sep 2021 03:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 06 Sep 2021 03:00:00 +0700</pubDate>
+    <pubDate>Mon, 13 Sep 2021 03:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sóng điện ảnh trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Songdienanh.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Các mối tình "chị - em" trên màn ảnh Hàn Quốc (Kỳ 3) - Khung hình thứ 25 12/9/2021</title>
+      <link>https://radio.voh.com.vn/khung-hinh-thu-25/cac-moi-tinh-chi-em-tren-man-anh-han-quoc-ky-3-khung-hinh-thu-25-12-9-2021-412416.html</link>
+      <description><![CDATA[20:00 - 12/09/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/khung-hinh-thu-25/cac-moi-tinh-chi-em-tren-man-anh-han-quoc-ky-3-khung-hinh-thu-25-12-9-2021-412416.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/09/13/khunghinh-120921.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 13 Sep 2021 03:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Các mối tình "chị - em" trên màn ảnh Hàn Quốc (Kỳ 2) - Khung hình thứ 25 5/9/2021</title>
       <link>https://radio.voh.com.vn/khung-hinh-thu-25/cac-moi-tinh-chi-em-tren-man-anh-han-quoc-ky-2-khung-hinh-thu-25-5-9-2021-411769.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/khung-hinh-thu-25/ngo-diec-pham-hao-quang-da-tat-ky-cuoi-khung-hinh-thu-25-15-8-2021-410062.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/08/16/khung-hinh-25-150821.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 16 Aug 2021 03:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Ngô Diệc Phàm - Hào quang đã tắt (Kỳ 1) - Khung hình thứ 25 8/8/2021</title>
-      <link>https://radio.voh.com.vn/khung-hinh-thu-25/ngo-diec-pham-hao-quang-da-tat-ky-1-khung-hinh-thu-25-8-8-2021-409375.html</link>
-      <description><![CDATA[20:00 - 08/08/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/khung-hinh-thu-25/ngo-diec-pham-hao-quang-da-tat-ky-1-khung-hinh-thu-25-8-8-2021-409375.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/08/09/khunghinh-080821.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 09 Aug 2021 03:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
