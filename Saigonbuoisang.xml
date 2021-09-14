@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 13 Sep 2021 18:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 14 Sep 2021 17:23:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 13 Sep 2021 18:00:00 +0700</pubDate>
+    <pubDate>Tue, 14 Sep 2021 17:23:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Cùng thanh niên công nhân vượt khó trong đại dịch - Sái Gòn buổi sáng 14/9/2021</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/cung-thanh-nien-cong-nhan-vuot-kho-trong-dai-dich-sai-gon-buoi-sang-14-9-2021-412471.html</link>
+      <description><![CDATA[10:23 - 14/09/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/cung-thanh-nien-cong-nhan-vuot-kho-trong-dai-dich-sai-gon-buoi-sang-14-9-2021-412471.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/09/14/FMSGBS06h00p140921-Copy.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 14 Sep 2021 17:23:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Sài Gòn Buổi Sáng - 13/09/2021</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-13-09-2021-412401.html</link>
       <description><![CDATA[11:00 - 13/09/2021]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-13-09-2021-412401.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/09/13/FMSGBS06h00p130921.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 13 Sep 2021 18:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Sài Gòn buổi sáng - 12/09/2021</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-12-09-2021-412323.html</link>
-      <description><![CDATA[06:00 - 12/09/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-12-09-2021-412323.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/09/12/fmsaigonbuoisang06h00p120921-20210911234002.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 12 Sep 2021 13:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
