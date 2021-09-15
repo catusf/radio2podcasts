@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 13 Sep 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 14 Sep 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 13 Sep 2021 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 14 Sep 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Hàn Quốc lựa chọn cách tiếp cận thế nào trong mối quan hệ với Trung Quốc?</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Ngày 14/09, Ủy viên Quốc vụ kiêm Bộ trưởng Ngoại giao Trung Quốc Vương Nghị bắt đầu chuyến thăm chính thức Hàn Quốc. Đây là chuyến thăm thứ 2 của ông Vương Nghị trong vòng một năm qua diễn ra vào thời điểm trước thềm kỷ niệm 30 năm thiết lập quan hệ ngoại giao Hàn - Trung. Trung Quốc muốn thúc đẩy quan hệ hợp tác với Hàn Quốc là điều có thể thấy rõ, nhưng Hàn Quốc sẽ lựa chọn cách tiếp cận nào với đối tác lớn này, trong bối cảnh đồng minh Mỹ đang hối thúc Hàn Quốc đứng về phía họ đối trọng với Trung Quốc?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/09/15/vovlive_vandequocte_hanquocluachoncachtiepcanthenaotrongmoiquanhevoitrungquoc.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 14 Sep 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Ngoại trưởng Trung Quốc công du Đông Nam Á: Trung Quốc muốn gửi thông điệp gì đến ASEAN?</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2021/09/10/vovlive_vandequocte_noicacmoicuatalibanpafghanistan(1).mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 09 Sep 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Mỹ kích hoạt nỗ lực ngoại giao, giải quyết những vấn đề sau rút quân khỏi Afghanistan</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Một tuần sau khi Mỹ chính thức rút toàn bộ quân tại Afghanistan, Mỹ bắt đầu kích hoạt các hoạt động ngoại giao với các quốc gia đối tác và đồng minh nhằm giải quyết những vấn đề nảy sinh sau quá trình này. Ngoại trưởng Mỹ Antony Blinken đang có chuyến thăm Qatar và Đức, trong khi đó, Bộ trưởng Quốc phòng Mỹ Lloyd Austin cũng bắt đầu chuyến thăm tới các quốc gia vùng Vịnh gồm Saudi Arabia, Qatar, Bahrain và Kuwait. Các chuyến thăm này không chỉ nhằm cảm ơn những nước vùng vịnh và Đức đã giúp Mỹ sơ tán hàng nghìn người khỏi Kabul mà còn để thống nhất mặt trận chung trong ứng phó với Taliban. Liệu Mỹ và các đồng minh có tìm được tiếng nói chung trong vấn đề phức tạp này.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/09/08/vovlive_vandequocte_mykichhoatnolucngoaigiao.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 08 Sep 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
