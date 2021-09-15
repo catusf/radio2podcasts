@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 14 Sep 2021 23:21:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 15 Sep 2021 04:56:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 14 Sep 2021 23:21:00 +0700</pubDate>
+    <pubDate>Wed, 15 Sep 2021 04:56:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Được hoạt động trở lại, nhưng hàng quán vẫn mở cửa cầm chừng - Thời sự 17g00 14/9/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/duoc-hoat-dong-tro-lai-nhung-hang-quan-van-mo-cua-cam-chung-thoi-su-17g00-14-9-2021-412545.html</link>
+      <description><![CDATA[21:56 - 14/09/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/duoc-hoat-dong-tro-lai-nhung-hang-quan-van-mo-cua-cam-chung-thoi-su-17g00-14-9-2021-412545.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/09/14/AMThoisu17h00p140921-Copy.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 15 Sep 2021 04:56:00 +0700</pubDate>
+    </item>
     <item>
       <title>Nghệ sĩ cùng đồng hành chống dịch – Họ sống những ngày đẹp nhất - Thời sự 11g00 14/9/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/nghe-si-cung-dong-hanh-chong-dich-ho-song-nhung-ngay-dep-nhat-thoi-su-11g00-14-9-2021-412511.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/thanh-pho-tiep-tuc-gian-cach-them-mot-thoi-gian-nua-sau-ngay-15-9-thoi-su-5g30-14-9-2021-412470.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/09/14/AMThoisu05h30p140921-Copy.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 14 Sep 2021 17:19:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Tăng cường chăm lo đời sống nhân viên y tế - Thời sự 17g00 13/09/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tang-cuong-cham-lo-doi-song-nhan-vien-y-te-thoi-su-17g00-13-09-2021-412437.html</link>
-      <description><![CDATA[17:00 - 13/09/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tang-cuong-cham-lo-doi-song-nhan-vien-y-te-thoi-su-17g00-13-09-2021-412437.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/09/13/AMThoisu17h00p130921cuon1.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 14 Sep 2021 00:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
