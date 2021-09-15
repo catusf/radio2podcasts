@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 07 Sep 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 15 Sep 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 07 Sep 2021 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 15 Sep 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,15 @@
     </itunes:owner>
     <itunes:subtitle>Âm nhạc với cuộc sống</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Amnhacvoicuocsong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Gặp gỡ nhạc sĩ Phan Huy -Trưởng phòng Nghệ thuật, Nhà hát Nghệ thuật tỉnh Vĩnh Phúc qua ca khúc “Việt Nam tiến lên”-một trong những ca khúc tiêu biểu được tuyển chọn trong cuộc vận động sáng tác ca khúc về đề tài phòng chống dịch Covid 19</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[- Thưởng thức ca khúc “Việt Nam tiến lên” (nhạc sĩ Phan Huy) và cùng nghe những chia sẻ của nhạc sĩ về tác phẩm âm nhạc này.
+- Thưởng thức các tác phẩm âm nhạc gửi về tham dự cuộc vận động sáng tác ca khúc "Hát lên Việt Nam-Let’sing Vietnam" do Đài TNVN tổ chức:  “Hãy hát lên bài ca đất nước” (tác giả Nguyễn Dũng); “Chim ngói bay về” (tác giả Ngô Tự Lập); Hát lên Việt Nam (tác giả Trần Nhật Dương, Trần Nhật Minh)]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/09/15/vovlive_am_nhac_voi_cuoc_song_nhac_si_phan_huy.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 15 Sep 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>“Chia nhau một chút ngọt bùi”: Tác phẩm âm nhạc lắng đọng cảm xúc và lan tỏa thông điệp hãy cùng đồng lòng vượt qua đại dịch Covid 19 của nhạc sĩ Nguyễn Bá Hùng</title>
       <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
@@ -51,15 +60,6 @@
       <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2021/08/24/vovlive_am_nhac_voi_cuoc_song_gap_go_nsut_thuy_dat_mau_co_nuoc_viet.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 24 Aug 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Tìm hiểu hoàn cảnh ra đời của ca khúc “Mười chín tháng Tám” của nhạc sĩ Xuân Oanh nhân kỷ niệm 76 năm Cách Mạng Tháng Tám thành công (19/8/1945-19/8/2021)</title>
-      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[Ca khúc “Mười chín Tháng Tám” của nhạc sĩ Xuân Oanh đã và sẽ mãi mãi đi vào lịch sử đấu tranh Cách mạng của Đảng và nhân dân ta, trở thành nguồn cổ vũ tinh thần mạnh mẽ với những người quân và dân ta khắp mọi miền đất nước. “Mười chín tháng Tám” không chỉ được biết đến bởi bầu nhiệt huyết tuổi trẻ của chàng thanh niên tuổi 20 Xuân Oanh mà hoàn cảnh ra đời cũng góp phần làm nên sự nổi tiếng của ca khúc. “Mười chín tháng Tám” ra đời đúng vào ngày 19 tháng 8 năm 1945 lịch sử, trong khi đang hoà vào dòng người biểu tình đấu tranh giành thắng lợi của Cách mạng Tháng 8 năm 1945, cảm xúc bất chợt đến trong tâm hồn tràn đầy nhiệt huyết, giai điệu và ca từ bài hát cứ thế trào ra theo từng bước chân của người nhạc sĩ trẻ tuổi. Khi đoàn người tiến đến trước Nhà hát Lớn thì bài hát cũng hoàn thành và nhanh chóng theo mọi ngả đường truyền đi khắp đất nước, trở thành nguồn động viên cho nhân dân khắp nơi đấu tranh giành chính quyền…
--Trò chuyện với nữ tác giả Nguyễn Mai Thuyên cùng ca khúc ý nghĩa dành tặng các y, bác sĩ và lực lượng tuyến đầu chống đại dịch Covid 19 “Tự hào khúc hát ngành Y”.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/08/19/vovlive_am_nhac_voi_cuoc_song_hoan_canh_ra_doi_ca_khuc_muoi_chin_thang_tam_xuan_oanh.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 19 Aug 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
