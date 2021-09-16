@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 14 Sep 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 15 Sep 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 14 Sep 2021 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 15 Sep 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Một năm Thỏa thuận hòa bình Abraham và những tác động khu vực</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Cách đây tròn một năm, Hiệp định Abraham giữa Israel với các Tiểu vương quốc Arab Thống nhất (UAE) và Bahrain đã được ký kết tại Nhà Trắng. Ngay sau đó, Bahrain, Sudan và Maroc lần lượt đặt bút ký vào các thỏa thuận bình thường hóa quan hệ với Israel. Thỏa thuận này được cho là đã mở ra một giai đoạn mới cho khu vực, khi lần đầu tiên Israel bình thường hóa quan hệ với một loạt quốc gia Arab Hồi giáo. Theo giới phân tích, các bên tham gia trực tiếp và gián tiếp vào tiến trình này, đặc biệt là Israel đều mong Thỏa thuận hòa bình Abraham sẽ mở ra một chương mới hợp tác phát triển cho khu vực Trung Đông.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/09/16/vovlive_vandequocte_motnamthoathuanhoabinhabrahamvanhungtacdongkhuvuc.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 15 Sep 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Hàn Quốc lựa chọn cách tiếp cận thế nào trong mối quan hệ với Trung Quốc?</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2021/09/13/vovlive_vandequocte_thegioithantrongvoichinhphumoitaiafghanistan.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 10 Sep 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Nội các mới của Taliban ở Afghanistan</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Taliban đã công bố thành phần nội các trong Chính phủ Afghanistan trong bối cảnh Mỹ rút hoàn toàn quân đội ra khỏi nước này. Trong nội các mới của Taliban, ông Hassan Akhund được bổ nhiệm làm Thủ tướng. Người đồng sáng lập Taliban là Abdul Ghani Baradar sẽ đảm nhiệm vị trí quyền lực thứ 2 trong Chính phủ. Điểm đáng lưu ý, Sarajuddin Haqqani được bổ nhiệm làm Quyền Bộ trưởng Nội vụ. Người này là thủ lĩnh nhóm vũ trang Haqqani, tổ chức bị Mỹ xem là "khủng bố". Trước đó, Taliban tuyên bố lực lượng này sẵn sàng thiết lập quan hệ với Washington vì lợi ích của cả Afghanistan và Mỹ, đồng thời hoan nghênh khả năng Mỹ tham gia công cuộc tái thiết quốc gia Tây Nam Á này.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/09/10/vovlive_vandequocte_noicacmoicuatalibanpafghanistan(1).mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 09 Sep 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
