@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 15 Sep 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 16 Sep 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 15 Sep 2021 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 16 Sep 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Văn nghệ thiếu nhi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Vannghethieunhi.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Đọc truyện "Búp sen xanh" - Buổi mười sáu - Tết đầu tiên vắng mẹ 15/9/2021</title>
+      <title>Những trang viết về cha 16/9/2021</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/nhung-trang-viet-ve-cha-c44-33865.aspx</link>
+      <description><![CDATA[“Bố em là bộ đội/ ở tận vùng đảo xa/ chưa lần nào về phép/ mà luôn luôn có quà” - Đó là những câu thơ trong bài "Quà của bố" của nhà thơ Phạm Đình Ân. Bố là bộ đội đảo xa, bố là kỹ sư bận bịu trên công trường, bố là công nhân miệt mài trong nhà máy... Mỗi người mỗi công việc, mỗi vất vả riêng, nhưng tấm lòng người cha luôn trìu mến, đong đầy yêu thương dành cho chúng ta. (Văn nghệ thiếu nhi 13/09/2021)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/nhung-trang-viet-ve-cha-c44-33865.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2021_9/v2_1309_10h4518h15_van_nghe_thieu_nhi_169202111.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 16 Sep 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Đọc truyện "Búp sen xanh" - Buổi mười sáu - Tết đầu tiên vắng mẹ  15/9/2021</title>
       <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-bup-sen-xanh-buoi-muoi-sau-tet-dau-tien-vang-me-c44-33862.aspx</link>
       <description><![CDATA[Chị cử Sắc qua đời. Bà con hàng xóm ngỏ ý muốn đón anh em Côn về ở với gia đình họ. Nhưng Côn đã không đến nhà ai vì sợ làm phiền họ khi ngày Tết đã cận kề. Những đêm đầu tiên không có mẹ, bé Nhuận gào khóc rất nhiều. Phần vì đói sữa, phần vì em đang bị tiêu chảy nên sức khỏe rất yếu... (Văn nghệ thiếu nhi 12/09/2021)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-bup-sen-xanh-buoi-muoi-sau-tet-dau-tien-vang-me-c44-33862.aspx</guid>
@@ -37,14 +45,6 @@
       <description><![CDATA[Mùa hè năm 1899, chị cử Sắc chuyển dạ sinh bé Nguyễn Sinh Nhuận, tự là Tất Danh. Anh cử Sắc và con trai cả cũng về kịp. Nhưng anh chỉ ở nhà được vài hôm thì nhận lệnh đi Thanh Hóa coi kỳ thi Hương. Sức khỏe của chị cử Sắc rất yếu. Hằng ngày bé Côn vừa chăm sóc mẹ, vừa phải bế em đi xin sữa. Côn không bao giờ nghĩ mình có thể mất mẹ mãi mãi... (Văn nghệ thiếu nhi 11/09/2021)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-bup-sen-xanh-buoi-muoi-lam-noi-dau-mat-me-c44-33861.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2021_9/v2_1109_10h45_18h15_van_nghe_thieu_nhi_159202121.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 15 Sep 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đọc truyện "Búp sen xanh" - Buổi mười bốn - Những ngày bên mẹ 15/9/2021</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-bup-sen-xanh-buoi-muoi-bon-nhung-ngay-ben-me-c44-33860.aspx</link>
-      <description><![CDATA[Chị cử Sắc sống thui thủi một mình trong thành nội. Nỗi nhớ chồng con, đặc biệt hình ảnh của bé Côn cứ cuộn tròn trong lòng chị suốt ngày đêm. Chị đành bàn với chồng đưa bé Côn trở về thành nội. Vậy là cậu bé Nguyễn Sinh Côn được sống bên cạnh mẹ trong những ngày tháng mẹ đau yếu và sắp sinh em bé... (Văn nghệ thiếu nhi 10/09/2021)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-bup-sen-xanh-buoi-muoi-bon-nhung-ngay-ben-me-c44-33860.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2021_9/v2_1009_10h45_18h15_van_nghe_thieu_nhi_159202121.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 15 Sep 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
