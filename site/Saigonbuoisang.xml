@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 15 Sep 2021 15:43:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 16 Sep 2021 15:36:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 15 Sep 2021 15:43:00 +0700</pubDate>
+    <pubDate>Thu, 16 Sep 2021 15:36:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>TPHCM tiếp tục giãn cách xã hội theo Chỉ thị 16 từ 0h ngày 16/9 - Sài Gòn buổi sáng 16/9/2021</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/tphcm-tiep-tuc-gian-cach-xa-hoi-theo-chi-thi-16-tu-0h-ngay-16-9-sai-gon-buoi-sang-16-9-2021-412666.html</link>
+      <description><![CDATA[08:36 - 16/09/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/tphcm-tiep-tuc-gian-cach-xa-hoi-theo-chi-thi-16-tu-0h-ngay-16-9-sai-gon-buoi-sang-16-9-2021-412666.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/09/16/FMSGBS06h00p160921.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 16 Sep 2021 15:36:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Cán bộ phường chống dịch - Lửa thử vàng, gian nan thử sức - Sài Gòn buổi sáng 15/9/2021</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/can-bo-phuong-chong-dich-lua-thu-vang-gian-nan-thu-suc-sai-gon-buoi-sang-15-9-2021-412567.html</link>
       <description><![CDATA[08:43 - 15/09/2021]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/can-bo-phuong-chong-dich-lua-thu-vang-gian-nan-thu-suc-sai-gon-buoi-sang-15-9-2021-412567.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/09/15/FMSGBS06h00p150921.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 15 Sep 2021 15:43:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Cùng thanh niên công nhân vượt khó trong đại dịch - Sái Gòn buổi sáng 14/9/2021</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/cung-thanh-nien-cong-nhan-vuot-kho-trong-dai-dich-sai-gon-buoi-sang-14-9-2021-412471.html</link>
-      <description><![CDATA[10:23 - 14/09/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/cung-thanh-nien-cong-nhan-vuot-kho-trong-dai-dich-sai-gon-buoi-sang-14-9-2021-412471.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/09/14/FMSGBS06h00p140921-Copy.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 14 Sep 2021 17:23:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
