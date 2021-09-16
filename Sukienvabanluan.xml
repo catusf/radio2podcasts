@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 15 Sep 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 16 Sep 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 15 Sep 2021 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 16 Sep 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Sóng và máy tính cho em bảo đảm công bằng trong tiếp cận phương thức dạy và học mới</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Dịch Covid -19 khiến cho hơn 7 triệu học sinh các cấp đang phải học trực tuyến. Trong số này, khoảng 1,5 triệu học sinh thiếu thiết bị máy tính, thiết bị thông minh phục vụ việc học tập. Cùng với đó, việc thiếu nền tảng dạy học trực tuyến cũng gây không ít khó khăn trong công tác giảng dạy. Trước thực tế này, tối 12/9 vừa qua, Thủ tướng Chính phủ Phạm Minh Chính phát động Chương trình “Sóng và máy tính cho em”. Đây là một chương trình rất lớn, liên quan đến hàng chục triệu học sinh đang ở vùng có dịch Covid-19 trên cả nước, giúp các em có điều kiện để học tập trực tuyến hiệu quả. “Sóng và máy tính cho em” cũng nhằm hướng tới mục tiêu bảo đảm công bằng trong tiếp cận phương thức dạy và học mới.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/09/16/vovlive_sukienvabinhluan_song_va_may_tinh_cho_em.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 16 Sep 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Liên hợp quốc trước áp lực xác định đại diện hợp pháp của Myanmar và Afghanistan</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2021/09/09/vovlive_sukienvabinhluan_ngay_9-9.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 09 Sep 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Kinh nghiệm cấp và sử dụng giấy đi đường trong giai đoạn phong tỏa ở Australia</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Trong bối cảnh dịch Covid-19 tiếp diễn phức tạp, nhiều nước và khu vực đang tiếp tục phải duy trì thậm chí siết chặt hơn các quy định, biện pháp kiểm soát dịch bệnh như phong tỏa, giãn cách... Tuy nhiên, trước diễn biến khó lường của dịch bệnh dự báo có thể kéo dài các biện pháp phong tỏa, các nước đang phải nghiên cứu đưa ra các giải pháp giảm thiểu tác động đến cuộc sống của người dân và nền kinh tế. Australia là một trong những ví dụ điển hình như vậy với nhiều kinh nghiệm đáng chú ý đang triển khai tại bang New South Wales - một trong những điểm nóng Covid-19 hàng đầu tại nước này.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/09/08/vovlive_sukienvabinhluan_8-9.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 08 Sep 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
