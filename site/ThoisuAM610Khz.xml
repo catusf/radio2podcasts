@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 17 Sep 2021 12:30:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 17 Sep 2021 18:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 17 Sep 2021 12:30:00 +0700</pubDate>
+    <pubDate>Fri, 17 Sep 2021 18:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Kiểm soát tình trạng béo phì trong thời gian giãn cách xã hội - Thời sự 11g00 17/9/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/kiem-soat-tinh-trang-beo-phi-trong-thoi-gian-gian-cach-xa-hoi-thoi-su-11g00-17-9-2021-412793.html</link>
+      <description><![CDATA[11:00 - 17/09/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/kiem-soat-tinh-trang-beo-phi-trong-thoi-gian-gian-cach-xa-hoi-thoi-su-11g00-17-9-2021-412793.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/09/17/ts11g00-170921.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 17 Sep 2021 18:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Từ hôm nay, người dân quận 7 được đi chợ 1 lần/tuần - Thời sự 05g30 17/9/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tu-hom-nay-nguoi-dan-quan-7-duoc-di-cho-1-lan-tuan-thoi-su-05g30-17-9-2021-412776.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/nguoi-to-truong-van-miet-mai-trong-mua-dich-thoi-su-11g00-16-9-2021-412695.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/09/16/AMThoisu11h00p160921.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 16 Sep 2021 18:45:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Cách thức gia hạn thẻ BHYT trong thời gian giãn cách xã hội – Thời sự 5g30 16/9/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/cach-thuc-gia-han-the-bhyt-trong-thoi-gian-gian-cach-xa-hoi-thoi-su-5g30-16-9-2021-412667.html</link>
-      <description><![CDATA[08:38 - 16/09/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/cach-thuc-gia-han-the-bhyt-trong-thoi-gian-gian-cach-xa-hoi-thoi-su-5g30-16-9-2021-412667.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/09/16/AMThoisu05h30p160921.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Sep 2021 15:38:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
