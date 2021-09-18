@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 18 Sep 2021 18:46:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 19 Sep 2021 03:11:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 18 Sep 2021 18:46:00 +0700</pubDate>
+    <pubDate>Sun, 19 Sep 2021 03:11:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>TPHCM lập danh sách hỗ trợ đợt 3 cho người thật sự khó khăn do dịch Covid - Thời sự 17g00 18/9/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-lap-danh-sach-ho-tro-dot-3-cho-nguoi-that-su-kho-khan-do-dich-covid-thoi-su-17g00-18-9-2021-412913.html</link>
+      <description><![CDATA[20:11 - 18/09/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-lap-danh-sach-ho-tro-dot-3-cho-nguoi-that-su-kho-khan-do-dich-covid-thoi-su-17g00-18-9-2021-412913.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/09/18/AMThoisu17h00p180921.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 19 Sep 2021 03:11:00 +0700</pubDate>
+    </item>
     <item>
       <title>Cần chấn chỉnh cách cấp, phát tiền trợ cấp cho dân - Thời sự 11g00 18/9/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/can-chan-chinh-cach-cap-phat-tien-tro-cap-cho-dan-thoi-su-11g00-18-9-2021-412874.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/giam-sat-viec-thuc-hien-cac-nghi-quyet-cua-chinh-phu-va-hdnd-thanh-pho-thoi-su-05g30-18-9-2021-412862.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/09/18/AMThoisu05h30p180921.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 18 Sep 2021 13:52:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Trao quà trung thu cho thiếu nhi Thủ Đức - Thời sự 17g00 17/9/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/trao-qua-trung-thu-cho-thieu-nhi-thu-duc-thoi-su-17g00-17-9-2021-412834.html</link>
-      <description><![CDATA[17:00 - 17/09/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/trao-qua-trung-thu-cho-thieu-nhi-thu-duc-thoi-su-17g00-17-9-2021-412834.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/09/17/ts17g-170921.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 18 Sep 2021 00:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
