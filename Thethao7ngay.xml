@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 01 Jan 2000 07:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 13 Sep 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 01 Jan 2000 07:00:00 +0700</pubDate>
+    <pubDate>Mon, 13 Sep 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,5 +23,44 @@
     </itunes:owner>
     <itunes:subtitle>Thể thao 7 ngày</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Thethao7ngay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Chương trình Thể thao 7 ngày 11/9/2021</title>
+      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
+      <description><![CDATA[- Nhìn lại hai trận đấu đầu tiên mang tính lịch sử tại vòng loại cuối cùng một kỳ World Cup của hầy trò HLV Park Hang Seo
+- Tìm hiểu các hoạt động chung tay góp phần cổ vũ và lan tỏa tinh thần phòng, chống dịch Covid 19 của các vận động viên tại Trung tâm huấn luyện thể thao Quốc gia Hà Nội]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/09/13/vovlive_podcast_thethao7ngay_1109.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 13 Sep 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Chương trình Thể thao 7 ngày 4/9/2021</title>
+      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
+      <description><![CDATA[- Phân tích thất bại đầy đáng tiếc của ĐT Việt Nam trước chủ nhà Saudi Arabia ở lượt ra quân bảng B vòng loại thứ 3 World Cup 2022
+- Abbas Karimi: 8 năm chạy trốn khỏi Afghanistan để đặt chân tới Paralympic]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/09/06/vovlive_podcast_thethao7ngay_0409.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 06 Sep 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Chương trình Thể thao 7 ngày 28/8/2021</title>
+      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
+      <description><![CDATA[- Sự kiện VFF và VPF cùng 27 CLB bóng đá chuyên nghiệp thống nhất hủy mùa giải V. League 2021.
+- CR7 chia tay Juventus  - Sự tất yếu của một  Seria A  yếu kém về mặt tài chính và khát vọng chiến thắng của một ngôi sao.
+- Những yếu tố đằng sau sự thành công của các đội đua Red Bull và Mercedes tại mùa giải đua xe công thức 1 tại năm nay.
+- Chia sẻ thông điệp  ý nghĩa của cựu đội trưởng đội tuyển bóng đá nữ Afghanistan trong bối cảnh chính trị Afghanistan có những thay đổi nghiêm trọng.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/08/30/vovlive_podcast_thethao7ngay_2808.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 30 Aug 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Chương trình Thể thao 7 ngày 21/8/2021</title>
+      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
+      <description><![CDATA[- Các bước chuẩn bị cuối cùng cho các giải đấu quốc tế quan trọng trong năm: vòng loại thứ 3 World Cup 2022 khu vực châu Á  và vòng loại giải vô địch nữ châu Á 2021.
+- Gặp gỡ nữ vận động viên khuyết tật Châu Hằng Tuyết Loan để cùng cảm nhận sức mạnh và ý chí của một trong những vận động viên giàu thành tích nhất của thể thao người khuyết tật Việt Nam
+- Phỏng vấn bà Lê Thị Hoàng Yến, phó Tổng cục trưởng Tổng cục Thể dục thể thao về việc triển khai các bài tập thể dục thể thao tại nhà cho người dân trong thời điểm dịch bệnh chưa được kiểm soát]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/08/23/vovlive_podcast_thethao7ngay_2108.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 23 Aug 2021 19:00:00 +0700</pubDate>
+    </item>
   </channel>
 </rss>
