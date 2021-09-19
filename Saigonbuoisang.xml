@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 18 Sep 2021 15:52:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 19 Sep 2021 13:46:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 18 Sep 2021 15:52:00 +0700</pubDate>
+    <pubDate>Sun, 19 Sep 2021 13:46:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Sài Gòn buổi sáng - 19/9/2021</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-19-9-2021-412951.html</link>
+      <description><![CDATA[06:46 - 19/09/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-19-9-2021-412951.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/09/19/FMsgbs06h00p190921.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 19 Sep 2021 13:46:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Sài Gòn buổi sáng - 18/9/2021</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-18-9-2021-412863.html</link>
       <description><![CDATA[08:52 - 18/09/2021]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-18-9-2021-412863.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/09/18/FMsgbs06h00p180921.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 18 Sep 2021 15:52:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>6 thay đổi trong phòng chống dịch tại TPHCM có hiệu lực từ 16/9 - Sài Gòn buổi sáng 17/9/2021</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/6-thay-doi-trong-phong-chong-dich-tai-tphcm-co-hieu-luc-tu-16-9-sai-gon-buoi-sang-17-9-2021-412777.html</link>
-      <description><![CDATA[06:00 - 17/09/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/6-thay-doi-trong-phong-chong-dich-tai-tphcm-co-hieu-luc-tu-16-9-sai-gon-buoi-sang-17-9-2021-412777.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/09/17/sgba-170921.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 17 Sep 2021 13:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
