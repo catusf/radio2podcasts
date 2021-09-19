@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 16 Sep 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jan 2000 07:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 16 Sep 2021 19:00:00 +0700</pubDate>
+    <pubDate>Sat, 01 Jan 2000 07:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,29 +23,5 @@
     </itunes:owner>
     <itunes:subtitle>Kể chuyện và hát ru cho bé</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Kechuyenvahatruchobe.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Truyện cổ tích Chăm "Con dâu nhà trời" (Phần 2) 16/9/2021</title>
-      <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/truyen-co-tich-cham-con-dau-nha-troi-phan-2-c43-33868.aspx</link>
-      <description><![CDATA[Người con trai cả của ông trời vì yêu mến và thương cảm cô gái mà hạ phàm để cứu giúp gia đình cô. Chàng xin cưới cô làm vợ. Mong muốn của chàng có được ông trời chấp nhận? Chàng và cô gái phải vượt qua những khó khăn nào? (Kể chuyện và hát ru 14/09/2021)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/truyen-co-tich-cham-con-dau-nha-troi-phan-2-c43-33868.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2021_9/v2_141609_21h45_ke_chuyen_va_hat_ru_169202112.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Sep 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Truyện cổ tích dân tộc Chăm "Con dâu nhà trời" (Phần 1)  16/9/2021</title>
-      <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/truyen-co-tich-dan-toc-cham-con-dau-nha-troi-phan-1-c43-33867.aspx</link>
-      <description><![CDATA[“Con dâu nhà trời” là nhan đề truyện cổ tích của dân tộc Chăm. Nhân vật chính là một thiếu nữ hóa thân từ con cóc. Vì hiểu lầm, cô gái và cha mẹ mình bị nhà vua đàn áp. Số phận của họ sẽ đi về đâu? (Kể chuyện và hát ru 13/09/2021)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/truyen-co-tich-dan-toc-cham-con-dau-nha-troi-phan-1-c43-33867.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2021_9/v2_131509_21h45_ke_chuyen_va_hat_ru_169202111.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Sep 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Bí ẩn của "Ánh sáng và bóng đêm" 26/8/2021</title>
-      <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/bi-an-cua-anh-sang-va-bong-dem-c43-33816.aspx</link>
-      <description><![CDATA[Một ngày sẽ có mặt của ánh sáng và bóng tối. Bình minh bắt đầu ngày mới mở ra nhiều hoạt động học tập, vui chơi dành cho chúng mình. Màn đêm buông xuống là khi chúng mình ngon giấc. Trong bóng đêm, có những bí mật bị ngủ quên, và có những bí mật cần được khám phá đó! (Kể chuyện và hát ru cho bé 20/08/2021)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/bi-an-cua-anh-sang-va-bong-dem-c43-33816.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2021_8/v2_2008_21h45_ke_chuyen_va_hat_ru_268202117.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 26 Aug 2021 19:00:00 +0700</pubDate>
-    </item>
   </channel>
 </rss>
