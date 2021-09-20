@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 20 Sep 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 16 Sep 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 20 Sep 2021 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 16 Sep 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,14 +23,6 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Tăng cường răn đe hành vi bắt nạt trực tuyến - Nhật Bản quyết cải tổ môi trường mạng xã hội</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Thời gian qua, “bắt nạt trên mạng xã hội” là cụm từ không còn xa lạ đối với mọi đối tượng, lứa tuổi sử dụng internet trên toàn cầu. Đáng nói, bắt nạt ảo nhưng lại gây ra những hậu quả thật trong thế giới thực, thậm chí trả giá bằng cả tính mạng. Nhằm ngăn chặn những nguy cơ và tác động xấu có thể xảy ra trên mạng xã hội, Bộ Tư pháp Nhật Bản mới đây thông báo sẽ xem xét tăng cường các biện pháp trừng phạt, răn đe đối với các hành vi bắt nạt và lăng mạ trên mạng xã hội! Vậy chiến lược mới của Nhật Bản có gì đặc biệt?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/09/20/vovlive_sukienvabinhlan_tang_cuong_ran_de.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 20 Sep 2021 19:00:00 +0700</pubDate>
-    </item>
     <item>
       <title>Sóng và máy tính cho em bảo đảm công bằng trong tiếp cận phương thức dạy và học mới</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -54,6 +46,14 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2021/09/14/vovlive_sukienvabinhluan_uae_hut_nhan_tai-13-9.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 14 Sep 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Chuyển sang trạng thái bình thường mới ngay ở những địa phương đang còn dịch: Cần thiết nhưng phải thận trọng</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Dịch Covid -19 kéo dài suốt gần hai năm qua khiến nhiều doanh nghiệp kiệt quệ; người dân thì bí bách và gặp nhiều khó khăn do thực hiện biện pháp giãn cách kéo dài. Trước thực tế này, nhiều địa phương đang quyết tâm chuyển hướng trong phòng chống dịch: vừa đảm bảo ngăn chặn dịch lây lan vừa thực hiện các biện pháp nới lỏng có kiểm soát để dần khôi phục sản xuất kinh doanh và hoạt động bình thường của người dân. Đáng chú ý chiến lược này đang được những địa phương có tình hình dịch diễn biến dịch bệnh phức tạp cũng bắt đầu áp dụng thí điểm. Như ở Bình Dương, thành phố Thủ Dầu Một sẽ trở thành thành phố đầu tiên của tỉnh trở lại trạng thái “bình thường mới” từ ngày mai. Trước đó Khánh Hòa – một trong những địa phương của tỉnh miền Trung cũng linh hoạt các giải pháp chống dịch trong tình hình mới.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://vovlive.1cdn.vn/audios/2021/09/09/vovlive_sukienvabinhluan_ngay_9-9.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 09 Sep 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
