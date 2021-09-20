@@ -148,34 +148,6 @@
         }
       }
     },
-    "DRT": {
-      "home": "http://www.drt.danang.vn/",
-      "name": "DRT Đài phát thanh truyền hình Đà Nẵng",
-      "function": null,
-      "programs": {
-        "ccct": {
-          "url": "http://www.drt.danang.vn/chuong_trinh-203-cau_chuyen_cuoi_tuan",
-          "title": "Câu chuyện cuối tuần",
-          "subtitle": "Câu chuyện cuối tuần",
-          "cover": "",
-          "no": 5
-        },
-        "csmm": {
-          "url": "http://www.drt.danang.vn/chuong_trinh-199-cuoc_song_muon_mau",
-          "title": "CS muôn màu",
-          "subtitle": "Cuộc sống muôn màu",
-          "cover": "",
-          "no": 5
-        },
-        "dnvb": {
-          "url": "http://www.drt.danang.vn/chuong_trinh-197-da_nang_va_ban",
-          "title": "Đà Nẵng và Bạn",
-          "subtitle": "Đà Nẵng và Bạn",
-          "cover": "",
-          "no": 5
-        }
-      }
-    },
     "VOV6": {
       "home": "http://vov6.vov.vn/",
       "name": "VOV6 Đài tiếng nói Việt Nam",
