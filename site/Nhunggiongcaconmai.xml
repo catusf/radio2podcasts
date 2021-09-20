@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 31 Aug 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 15 Sep 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 31 Aug 2021 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 15 Sep 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Những giọng ca còn mãi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Nhunggiongcaconmai.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>NSƯT Thúy Đạt: Giọng ca cải lương đất Bắc ấn tượng trên làn sóng Đài TNVN</title>
+      <link>https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</link>
+      <description><![CDATA[NSƯT Thuý Đạt là một giọng hát quen thuộc trên làn sóng Đài Tiếng nói Việt Nam. Bà từng ghi dấu ấn với nhiều bài ca cải lương và dân ca Nam Bộ. NSƯT Thúy Đạt đã hát song ca nhuần nhuyễn, ăn ý với nhiều nghệ sĩ nam cải lương nổi tiếng như NSND Mạnh Tưởng, các NSƯT Quang Vinh, Minh Thành, Ngọc Chi, Công Cuộc… Với vốn hiểu biết và tình yêu nghệ thuật cải lương, bà đã truyền cảm hứng tới nhiều khán thính giả yêu cải lương bằng nhiều tiết mục soạn lời mới thành công cho nhiều bài dân ca và nghệ thuật ca hát truyền thống…]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/09/15/vovlive_nhung_giong-ca_con_mai_nsut_thuy_dat.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 15 Sep 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>NSƯT Lài Tâm: Giọng ngâm thơ, ca Huế và dân ca Bình Trị Thiên mượt mà, đằm thắm</title>
       <link>https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</link>
@@ -47,15 +55,6 @@ Trong những năm kháng chiến chống Mỹ cứu nước, nghệ sĩ Lài T�
       <guid isPermaLink="false">https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2021/07/27/vovlive_nhung_giong_ca_con_mai_nsnd_chau_loan.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 27 Jul 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Nghệ sĩ ưu tú Châu Dinh: Một đời vì nghệ thuật Ca Huế và Dân ca Bình Trị Thiên</title>
-      <link>https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</link>
-      <description><![CDATA[NSƯT Châu Dinh là một giọng ca Huế đặc sắc. Từ những năm 60 của thế kỷ trước, những làn điệu Huế hay dân ca Bình Trị Thiên của bà vang lên trên làn sóng phát thanh đã chiếm được tình cảm yêu mến của quý khán thính giả cả nước. Tài năng nghệ thuật của nghệ sĩ Châu Dinh được nhiều đài, báo trong nước ngợi ca. Bà xứng đáng với những tấm Huy chương Bạc, Huy chương Vàng cùng nhiều Bằng khen qua những kỳ hội diễn nghệ thuật chuyên nghiệp toàn quốc. Năm 1993, bà vinh dự được Nhà nước phong tặng danh hiệu Nghệ sĩ Ưu tú.
-Nay dù đã ở độ tuổi xưa nay hiếm, nhưng ánh mắt NSƯT Châu Dinh vẫn lấp lánh niềm vui mỗi khi nghe những làn điệu ca Huế và bà sẵn sàng truyền dạy ca Huế cho thế hệ trẻ đam mê với loại hình nghệ thuật này…]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/07/13/vovlive_nhung_giong_ca_con_mai_nsut_chau_dinh.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 13 Jul 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
