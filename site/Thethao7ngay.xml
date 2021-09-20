@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 13 Sep 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 20 Sep 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 13 Sep 2021 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 20 Sep 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,17 @@
     </itunes:owner>
     <itunes:subtitle>Thể thao 7 ngày</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Thethao7ngay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Chương trình Thể thao 7 ngày 18/9/2021</title>
+      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
+      <description><![CDATA[- Các tuyển thủ fulsal tham dự VCK FiFa World Cup Fusal 2021tại Litva; 
+- ĐTQG tập trung trở lại cho 2 trận đấu tiếp theo tại vòng loại thứ 3 World Cup 2022 khu vực châu Á; 
+- ĐTQG nữ lên đường tham dự vòng loại giải vô địch  châu Á 2022
+- Cùng HLV Phan Thanh Cảnh của CLB Đà Nẵng Dragon nhìn lại những yếu tố tích cực tại giải bóng rổ chuyên nghiệp Việt Nam]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/09/20/vovlive_podcast_thethao7ngay_1809.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 20 Sep 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Chương trình Thể thao 7 ngày 11/9/2021</title>
       <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
@@ -51,16 +62,6 @@
       <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2021/08/30/vovlive_podcast_thethao7ngay_2808.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 30 Aug 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chương trình Thể thao 7 ngày 21/8/2021</title>
-      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
-      <description><![CDATA[- Các bước chuẩn bị cuối cùng cho các giải đấu quốc tế quan trọng trong năm: vòng loại thứ 3 World Cup 2022 khu vực châu Á  và vòng loại giải vô địch nữ châu Á 2021.
-- Gặp gỡ nữ vận động viên khuyết tật Châu Hằng Tuyết Loan để cùng cảm nhận sức mạnh và ý chí của một trong những vận động viên giàu thành tích nhất của thể thao người khuyết tật Việt Nam
-- Phỏng vấn bà Lê Thị Hoàng Yến, phó Tổng cục trưởng Tổng cục Thể dục thể thao về việc triển khai các bài tập thể dục thể thao tại nhà cho người dân trong thời điểm dịch bệnh chưa được kiểm soát]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/08/23/vovlive_podcast_thethao7ngay_2108.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 23 Aug 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
