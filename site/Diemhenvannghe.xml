@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 12 Sep 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 20 Sep 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 12 Sep 2021 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 20 Sep 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Điểm hẹn văn nghệ</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Diemhenvannghe.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Đi hỏi mùa thu  12/9/2021</title>
+      <title>Bút ký “Shiper áo lính”: Xúc động hình ảnh bộ đội đi chợ giúp dân20/9/2021</title>
+      <link>http://vov6.vov.vn/diem-hen-van-nghe/but-ky-shiper-ao-linh-xuc-dong-hinh-anh-bo-doi-di-cho-giup-dan-c158-33873.aspx</link>
+      <description><![CDATA[Quân đội nhân dân, dù trong thời chiến hay thời bình, thời nào cũng vì nhân dân mà phục vụ. Hình ảnh các anh nhường doanh trại, giường chiếu cho người dân ở nơi cách ly dịch bệnh hay băng rừng, trèo đèo, lội suối cứu người bị nạn và giúp dân gặt lúa, dọn dẹp nhà cửa, trường học nơi mưa bão, lũ lụt, sạt lở…có sức lay động biết nhường nào. Và trong những ngày này, cả nước đang dốc sức chống dịch Covid-19, bộ đội còn đi chợ, vận chuyển lương thực, thực phẩm giúp người dân ở tâm dịch TP.HCM. Hơn tất cả mọi lời nói, điều ấy góp phần tô thắm, lan tỏa hình ảnh anh “bộ đội Cụ Hồ” trong thời kỳ mới...Thật dễ thương, khi nhà thơ Phạm Vân Anh gọi họ là những “Shiper áo lính” trong bút ký của mình (Văn nghệ 21/09/2021)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/but-ky-shiper-ao-linh-xuc-dong-hinh-anh-bo-doi-di-cho-giup-dan-c158-33873.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_9/shiper_ao_linh_209202114.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 20 Sep 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Đi hỏi mùa thu   12/9/2021</title>
       <link>http://vov6.vov.vn/diem-hen-van-nghe/di-hoi-mua-thu-c158-33852.aspx</link>
       <description><![CDATA[“Thiên nhiên rộng lượng nhưng cũng khó lường. Thôi đành hỏi mùa Thu, rằng bầy chim có cơ hội trở về với ta và cơm nguội, với góc phố này? Hình như thu muốn tỏ bày điều gì đó. Ta thấy tiết trời nhuộm lá ta đỏ hơn, làm lá cơm nguội vàng hơn. Chúng ta đang khoác một chiếc áo rực rỡ, nhưng những nàng ca sĩ của bầu trời còn mải mê ở đâu đó ngoài cao xanh kia. Nào chim chóc, thôi đừng đi nữa, hãy về lại góc phố quen.” (Trích truyện ngắn của tác giả Đinh Thùy Vân). (Điểm hẹn văn nghệ 11/9/2021)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/di-hoi-mua-thu-c158-33852.aspx</guid>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/ngay-binh-yen-se-den-khuc-trang-ca-noi-tuyen-dau-chong-dich-c158-33807.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/v2_2108_08h0018h30_diem_hen_van_nghe_258202122.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 25 Aug 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>“Sài Gòn sẽ vui”: Bao nhiêu ân tình trong ngày hoạn nạn  12/8/2021</title>
-      <link>http://vov6.vov.vn/diem-hen-van-nghe/sai-gon-se-vui-bao-nhieu-an-tinh-trong-ngay-hoan-nan-c158-33773.aspx</link>
-      <description><![CDATA[“Bạn bè xót xa, đồng bào lo lắng / Sài Gòn của tôi, Sài Gòn của bạn / Sài Gòn đang ốm nhưng rồi sẽ vui / Đường em đến lớp rộn ràng phố đông / Gánh xôi thơ bé sẽ thơm mùa hè / Hàn huyên cà phê phố khi hết ngày chia ly…”. Cùng cả nước hướng về thành phố Hồ Chí Minh giữa tâm dịch, nhạc sĩ Trần Quang Sơn vô tình biết tới bài thơ mới của nhà báo Nguyễn Đức Hiển. Có được sự đồng cảm với những lời thơ chân thực, giàu xúc cảm, nhạc sĩ Trần Quang Sơn nhanh chóng phổ nhạc và tự mình thể hiện ca khúc “Sài Gòn sẽ vui” để gửi những tình cảm ấm áp, cổ vũ động viên tới TP.HCM nói riêng, cả nước nói chung trong cuộc chiến chống đại dịch . (Điểm hẹn văn nghệ 07/8/2021)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/sai-gon-se-vui-bao-nhieu-an-tinh-trong-ngay-hoan-nan-c158-33773.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_8/v2_0708_08h0018h30_diem_hen_van_nghe_128202113.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 12 Aug 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
