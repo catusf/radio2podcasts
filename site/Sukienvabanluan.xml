@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 20 Sep 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 22 Sep 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 20 Sep 2021 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 22 Sep 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Giải mã “hợp đồng tàu ngầm thế kỷ” dậy sóng thế giới phương Tây</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Một cuộc tranh cãi chưa từng có về việc Australia hủy hợp đồng tàu ngầm với Pháp, quay sang mua tàu ngầm hạt nhân của Mỹ vẫn đang làm “nóng” mặt báo và các diễn đàn ngoại giao quốc tế. Trong khi giới quan sát quốc tế tiếp tục giải mã bản chất mối quan hệ đồng minh trong thế giới phương Tây sau vụ việc này, một câu hỏi đặt ra là “hợp đồng thế kỷ” giữa Pháp và Australia thực chất có giá trị như thế nào? Những chiếc tàu ngầm trong hợp đồng hàng chục tỷ đô la đóng vai trò ra sao với chiến lược an ninh biển của Australia?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/09/22/vovlive_sukienvabinhluan_giai_ma_hop_dong-22-9.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 22 Sep 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Tăng cường răn đe hành vi bắt nạt trực tuyến - Nhật Bản quyết cải tổ môi trường mạng xã hội</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2021/09/15/vovlive_sukienvabinhluan_lien_hop_quoc_truoc_ap_luc_dai_dien_15-9.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 15 Sep 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>UAE quyết "hút" nhân tài bằng "thị thực Xanh"</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Các Tiểu Vương quốc Ả-rập Thống nhất vừa thông báo về kế hoạch 50 sáng kiến mới nhằm nâng cao sức cạnh tranh của nền kinh tế trên phạm vi toàn cầu. Trong đó, chính sách thị thực mới có tên gọi “Thị thực xanh” là 1 trong 2 sáng kiến được công bố đầu tiên. Với “Thị thực xanh”, Các Tiểu Vương quốc Ả-rập Thống nhất đưa ra những ưu đãi chưa từng có nhằm thu hút lao động nước ngoài tay nghề cao, từ đó cạnh tranh với “người láng giềng” Arab Saudi để trở thành trung tâm kinh tế - thương mại lớn nhất khu vực.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/09/14/vovlive_sukienvabinhluan_uae_hut_nhan_tai-13-9.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 14 Sep 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
