@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 21 Sep 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 22 Sep 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 21 Sep 2021 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 22 Sep 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Thúc đẩy chủ nghĩa đa phương trong ứng phó Covid-19</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Từ ngày 21/9 đến 27/9, phiên thảo luận chung cấp cao của Đại hội đồng Liên hợp quốc khóa 76 diễn ra theo hình thức trực tiếp tại New York  (Mỹ). Phiên họp năm nay dự kiến sẽ đề cập tới nhiều thách thức lớn mà thế giới đang phải đối mặt, từ biến đổi khí hậu tới xung đột tại các điểm nóng và bao trùm nhất vẫn là đại dịch Covid-19. Thực tế này càng cho thấy nhu cầu cấp bách của hợp tác đa phương trong ứng phó với Covid-19. Vậy Khóa họp thứ 76 của Đại hội đồng Liên hợp quốc có thể thúc đẩy hoạt động hợp tác này như thế nào?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/09/22/vovlive_vandequocte_thucdaychunghiadaphuongtrongungphocovid19.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 22 Sep 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Iran gia nhập tổ chức hợp tác Thượng Hải, cơ hội gắn kết tam giác Nga - Trung - Iran</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2021/09/17/vovlive_vandequocte_lienminhmyanhastralia.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 17 Sep 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Triều Tiên liên tiếp phóng tên lửa: Thông điệp gì với quốc tế?</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Sau một thời gian yên ắng, an ninh trên bán đảo Triều Tiên những ngày qua lại trở thành tâm điểm chú ý khi Triều Tiên liên tiếp phóng thử tên lửa. Ngày 15.9, Hàn Quốc thông báo, Triều Tiên phóng thử hai tên lửa đạn đạo chưa rõ chủng loại. Vụ phóng tên lửa này diễn ra chỉ vài ngày sau khi Triều Tiên tuyên bố thử thành công tên lửa hành trình chiến lược với tầm bay ít nhất 1.500 km. Những vụ thử tên lửa này diễn ra trong bối cảnh Mỹ, Nhật Bản và Hàn Quốc đang tăng cường nỗ lực ngoại giao nhằm nối lại đối thoại với Triều Tiên. Quá trình đàm phán giữa Mỹ và Triều Tiên về vấn đề hạt nhân đã bị đình trệ suốt hơn 1 năm qua. Việc Triều Tiên thử các loại tên lửa chiến lược được cho là mang nhiều thông điệp gửi tới Mỹ.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/09/17/vovlive_vandequocte_trieutienlientiepphongtenluathongdiepgivoiquocte.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Sep 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
