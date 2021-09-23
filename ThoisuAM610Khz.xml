@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 23 Sep 2021 04:22:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 23 Sep 2021 14:06:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 23 Sep 2021 04:22:00 +0700</pubDate>
+    <pubDate>Thu, 23 Sep 2021 14:06:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Thường trực HĐND TP tiếp nhận Tờ trình về chính sách hỗ trợ cho người dân - Thời sự 05g30 23/9/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/thuong-truc-hdnd-tp-tiep-nhan-to-trinh-ve-chinh-sach-ho-tro-cho-nguoi-dan-thoi-su-05g30-23-9-2021-413315.html</link>
+      <description><![CDATA[07:06 - 23/09/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/thuong-truc-hdnd-tp-tiep-nhan-to-trinh-ve-chinh-sach-ho-tro-cho-nguoi-dan-thoi-su-05g30-23-9-2021-413315.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/09/23/AMThoisu05h30p230921.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 23 Sep 2021 14:06:00 +0700</pubDate>
+    </item>
     <item>
       <title>Trước 30/9, Quận Bình Tân phấn đấu cơ bản kiểm soát được dịch bệnh - Thời sự 17g00 22/9/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/truoc-30-9-quan-binh-tan-phan-dau-co-ban-kiem-soat-duoc-dich-benh-thoi-su-17g00-22-9-2021-413290.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/dong-hanh-ho-tro-nong-dan-tieu-thu-nong-san-vuot-qua-dai-dich-thoi-su-11g00-22-9-2021-413289.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/09/22/AMThoisu11h00p220921-Copy.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 23 Sep 2021 04:13:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Bài 2: Cán bộ cơ sở quá tải vẫn nỗ lực hết mình – Thời sự 5g30 22/9/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/bai-2-can-bo-co-so-qua-tai-van-no-luc-het-minh-thoi-su-5g30-22-9-2021-413287.html</link>
-      <description><![CDATA[05:30 - 22/09/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/bai-2-can-bo-co-so-qua-tai-van-no-luc-het-minh-thoi-su-5g30-22-9-2021-413287.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/09/22/AMThoisu05h30p220921-Copy.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 22 Sep 2021 12:30:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
