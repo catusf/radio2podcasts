@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 18 Sep 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 23 Sep 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 18 Sep 2021 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 23 Sep 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Tìm trong kho báu</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Timtrongkhobau.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>“Thư mùa dịch”: Nghĩa đồng bào vượt lên đại dịch18/9/2021</title>
+      <title>Thơ Nôm Lê Quý Đôn23/9/2021</title>
+      <link>http://vov6.vov.vn/tim-trong-kho-bau/tho-nom-le-quy-don-c54-33881.aspx</link>
+      <description><![CDATA[Ngoài sự nghiệp chính trị, Lê Quý Đôn còn để lại cho đời sau một di sản tinh thần vô cùng quý giá, bao gồm gần 40 bộ sách mà nội dung đề cập đến hầu hết mọi lĩnh vực: kinh tế, chính trị, triết học, lịch sử, địa lý, ngôn ngữ, văn học… Trong đó có nhiều bộ nổi tiếng như: Đại Việt thông sử, Phủ biên tạp lục, Kiến văn tiểu lục, Bắc sứ thông lục, Vân đài loại ngữ, Quần thư khảo biện, Dịch kinh phu thuyết, Toàn Việt thi lục, Hoàng Việt văn hải... Tác phẩm của Lê Quý Đôn phần lớn được viết bằng chữ Hán. Ngoài ra, ông cũng sử dụng chữ Nôm để sáng tác văn học, để mô tả các giống lúa, cây cỏ hoặc diễn giải, chú thích các bộ kinh điển Nho học như Tứ thư ước giải, Thư kinh diễn nghĩa. Về sáng tác thơ ca, ông để lại tập thơ chữ Hán “Quế Đường thi tập” và một số sáng tác bằng chữ Nôm.]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/tho-nom-le-quy-don-c54-33881.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_9/v2_23_2709_18h30_tim_trong_kho_bau_23920219.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 23 Sep 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>“Thư mùa dịch”: Nghĩa đồng bào vượt lên đại dịch 18/9/2021</title>
       <link>http://vov6.vov.vn/tim-trong-kho-bau/thu-mua-dich-nghia-dong-bao-vuot-len-dai-dich-c54-33870.aspx</link>
       <description><![CDATA[Bầu ơi thương lấy bí cùng/ Tuy cùng khác giống nhưng chung một giàn.“Nhiễu điều phủ lấy giá gương/ người trong một nước thì thương nhau cùng” -  trải qua hàng nghìn đời chống chọi với những hiểm họa, thiên tai dịch bệnh để tồn tại và phát triển bao câu ca dao, tục ngữ đã được dân gian đúc rút, nhắn nhủ. Thêm huyền tích về bọc trăm trứng càng cho chúng ta ngẫm sâu hơn về hai chữ đồng bào. Khái niệm đồng bào tồn tại và thể hiện sức mạnh, vẻ đẹp vĩ đại của nó trong lịch sử, mỗi khi có những thử thách nguy nan, mỗi khi cần qui tụ sức lực, tâm trí của cải vì một mục đích chung, đưa lại những bài học máu thịt về sự gắn bó để cùng sinh tồn. Và những ngày khi cả nước phải đương đầu với dịch bệnh covid-19 mỗi chúng ta lại được thấm đẫm trong cảm xúc những câu chuyện về nghĩa đồng bào. Nhà thơ Nhà báo Nguyễn Quang Hưng chia sẻ với chúng ta về điều này qua một Tản văn gửi tới chương trình]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/thu-mua-dich-nghia-dong-bao-vuot-len-dai-dich-c54-33870.aspx</guid>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/van-mau-he-luy-trong-tuong-lai-van-mau-nhieu-nhu-nam-sau-mua-trach-nhiem-thuoc-c54-33866.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_9/van_mau-_ps_2_169202111.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 16 Sep 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Thơ Nôm Trương Quỳnh Như 15/9/2021</title>
-      <link>http://vov6.vov.vn/tim-trong-kho-bau/tho-nom-truong-quynh-nhu-c54-33859.aspx</link>
-      <description><![CDATA[Các số trước của chương trình “Tìm trong kho báu” đã đi vào thế giới sáng tác Quốc âm của Nhà thơ – Danh sĩ Phạm Thái thông qua các tác phẩm tiêu biểu như truyện thơ “Sơ kính tân trang”, bài phú “Chiến tụng Tây Hồ”, bài “Văn tế Trương Quỳnh Như”. Riêng tác phẩm “Sơ kính tân trang”, nội tại có những bài thơ Nôm đối đáp, xướng họa giữa hai nhân vật chính Phạm Kim và Trương Quỳnh Thư – Lấy nguyên mẫu từ cuộc tình và sáng tác của nhà thơ Phạm Thái và Trương Quỳnh Như. Từ đây, cũng hé lộ thân thế và tài năng của một nữ tác giả trong dòng thơ Nôm. Chương trình hôm nay giải mã phần nào nội dung, phong cách sáng tác ý nhị và độc đáo ấy.]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/tho-nom-truong-quynh-nhu-c54-33859.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/v2_162009_18h30_tim_trong_kho_bau_179202110.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 15 Sep 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
