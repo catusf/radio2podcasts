@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 15 Sep 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 24 Sep 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 15 Sep 2021 19:00:00 +0700</pubDate>
+    <pubDate>Fri, 24 Sep 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Những giọng ca còn mãi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Nhunggiongcaconmai.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>NSND Thu Hiền: Giọng hát đằm thắm chất dân ca</title>
+      <link>https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</link>
+      <description><![CDATA[Sinh trưởng trong gia đình có truyền thống âm nhạc, NSND Thu Hiền sớm bộc lộ năng khiếu bẩm sinh là một giọng hát trong sáng, khỏe khoắn, hồn nhiên, ấm áp và truyền cảm. Đặc biệt giọng hát của bà luôn mang đậm hồn quê, tình quê Việt Nam. Mới 10 tuổi cô bé Hiền đã trúng tuyển vào đoàn Ca kịch liên khu 5. Dưới sự dìu dắt của các thầy cô, các anh chị đi trước, Thu Hiền vừa học văn hóa, vừa luyện tập cho giọng hát của mình sao cho thấm đậm chất khu 5. Những làn điệu dân ca khu 5 do Thu Hiền trình bày đều là những bài dân ca hay chiếm được cảm tình của đông đảo khán thính giả cùng bạn bè đồng nghiệp. Trong suốt quãng đời son trẻ, Thu Hiền mang tiếng đàn, giọng hát đi khắp các chiến trường khói bom khốc liệt phục vụ đồng bào và chiến sĩ. Và chính ở mảnh đất miền Trung nắng lửa, giọng hát của NSND Thu Hiền đã để lại trong công chúng yêu nhạc một dấu ấn khó phai qua các ca khúc mà chị thể hiện đậm chất dân ca miền Trung…]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/09/24/vovlive_nhung_giong_ca_con_mai_nsnd_thu_hien.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 24 Sep 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>NSƯT Thúy Đạt: Giọng ca cải lương đất Bắc ấn tượng trên làn sóng Đài TNVN</title>
       <link>https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</link>
@@ -47,14 +55,6 @@ Trong những năm kháng chiến chống Mỹ cứu nước, nghệ sĩ Lài T�
       <guid isPermaLink="false">https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2021/08/19/vovlive_nhung_giong_ca_con_mai_nsut_trang_nhung.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 19 Aug 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>NSND Châu Loan: Tiếng thơ nối bờ giới tuyến</title>
-      <link>https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</link>
-      <description><![CDATA[Với chất giọng trời phú cộng với sự khổ luyện, NSND Châu Loan đã đưa chất liệu âm nhạc truyền thống Huế vào ngâm thơ, xử lý sáng tạo luyến láy, đưa hơi nhả chữ ca từ trong hát ca Huế. Các tiết mục ca Huế, dân ca Bình Trị Thiên, ngâm thơ do bà biểu diễn vẫn còn sống mãi với thời gian...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/07/27/vovlive_nhung_giong_ca_con_mai_nsnd_chau_loan.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 27 Jul 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
