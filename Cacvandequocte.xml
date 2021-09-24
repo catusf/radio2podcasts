@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 23 Sep 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 24 Sep 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 23 Sep 2021 19:00:00 +0700</pubDate>
+    <pubDate>Fri, 24 Sep 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Cuộc đua vào ghế Thủ tướng Đức</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Ngày 26.9, nước Đức bước vào cuộc Tổng tuyển cử liên bang để chọn ra một chính phủ và một Thủ tướng mới. Sau cuộc bầu cử Quốc hội này, Thủ tướng Angela Merkel sẽ rút khỏi chính trường sau 4 nhiệm kỳ liên tục lãnh đạo nước Đức. Các thăm dò dư luận mới nhất tại Đức cho thấy, đảng cầm quyền Liên minh Dân chủ/Xã hội Cơ đốc giáo (CDU/CSU) bắt đầu thu hẹp khoảng cách so với đối thủ chính là đảng Dân chủ Xã hội Đức (SPD). Với kết quả khó đoán định, cuộc bầu cử Quốc hội Đức sẽ đặt ra những kịch bản nào cho chính trường nước này?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/09/24/vovlive_vandequocte_cuocduavaoghethutuongduc.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 24 Sep 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Pháp sẽ rời NATO sau thoả thuận quốc phòng ba bên giữa Australia, Anh và Mỹ?</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2021/09/21/vovlive_vandequocte_irangianhaptochuchoptacthuonghaicohoigankettamgiangatrungiran.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 21 Sep 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Tác động của Liên minh AUKUS tới địa chính trị khu vực</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Việc Mỹ, Anh và Australia mới đây ký kết Hiệp định Đối tác an ninh 3 bên -  còn gọi là Liên minh Aukus cho thấy Mỹ sẽ tiếp tục củng cố chính sách xoay trục sang Ấn Độ Dương – Thái Bình Dương của chính quyền tiền nhiệm, đồng thời khẳng định trí trung tâm của khu vực trong cục diện kinh tế, chính trị, an ninh toàn cầu. Dù tới thời điểm này, có rất ít thông tin về việc Aukus sẽ hoạt động ra sao, giới phân tích đều dự đoán liên minh an ninh, quân sự này sẽ gồm những thiết chế đi kèm như thế nào? Giới phân tích cho rằng Aukus sẽ tạo ra những tác động mạnh mẽ trong khu vực từ quan hệ cạnh tranh nước lớn cho tới hoạt động của các cơ chế an ninh hiện có.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/09/21/vovlive_vandequocte_tacdongcualienminhaukustoidiachinhtrikhuvuc.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 20 Sep 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
