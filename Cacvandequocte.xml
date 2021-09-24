@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 22 Sep 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 23 Sep 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 22 Sep 2021 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 23 Sep 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pháp sẽ rời NATO sau thoả thuận quốc phòng ba bên giữa Australia, Anh và Mỹ?</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Sau khi bị 3 nước Mỹ - Australia - Anh “gạt ra bên lề” bằng liên minh AUKUS và hợp đồng tàu ngầm giá trị khổng lồ, dư luận Pháp đang dậy sóng và kêu gọi chính phủ nước này cần có hành động đáp trả mạnh mẽ. Đáng chú ý là việc đề xuất Pháp nên rời khỏi Khối quân sự Hiệp ước Bắc Đại Tây Dương (NATO). Nhìn lại thời gian qua, chính quyền của Tổng thống Pháp đã không ít lần chỉ trích vai trò và hoạt động của NATO. Liệu mâu thuẫn và căng thẳng lên đến đỉnh điểm với Mỹ lần này có tạo ra một “cú hích” để Pháp quyết định rời khối liên minh quân sự này? Đâu sẽ là tác động nếu kịch bản này xảy ra?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/09/23/vovlive_vandequocte_phapseroinatosauthoathuanquocphongbabengiuaaustraliaanhvamy.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 23 Sep 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Thúc đẩy chủ nghĩa đa phương trong ứng phó Covid-19</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2021/09/21/vovlive_vandequocte_tacdongcualienminhaukustoidiachinhtrikhuvuc.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 20 Sep 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Liên minh Mỹ - Anh - Australia: Thông điệp chiến lược</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Trong một động thái được đánh giá là chiến lược và có tầm ảnh hưởng đối với toàn cầu, lãnh đạo 3 nước gồm Mỹ, Anh và Australia chính thức thông báo sự ra đời của một liên minh mới gồm 3 nước này, với tên gọi là AUKUS. Theo giới quan sát, trong bối cảnh hiện nay, đây là một diễn biến được đánh giá hết sức quan trọng đối với tình hình an ninh chính trị ở khu vực Ấn Độ Dương - Thái Bình Dương.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/09/17/vovlive_vandequocte_lienminhmyanhastralia.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 17 Sep 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
