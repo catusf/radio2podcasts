@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 25 Sep 2021 12:30:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 25 Sep 2021 18:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 25 Sep 2021 12:30:00 +0700</pubDate>
+    <pubDate>Sat, 25 Sep 2021 18:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>TPHCM mở tour du lịch vùng xanh - Thời sự 11g00 25/9/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-mo-tour-du-lich-vung-xanh-thoi-su-11g00-25-9-2021-413519.html</link>
+      <description><![CDATA[11:00 - 25/09/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-mo-tour-du-lich-vung-xanh-thoi-su-11g00-25-9-2021-413519.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/09/25/ts11g-250921.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 25 Sep 2021 18:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Tình nguyện viên tôn giáo – thắp lên niềm tin nơi tuyến đầu chống dịch - Thời sự 05g30 25/9/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tinh-nguyen-vien-ton-giao-thap-len-niem-tin-noi-tuyen-dau-chong-dich-thoi-su-05g30-25-9-2021-413513.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/chu-tich-nuoc-gap-lanh-dao-cac-nuoc-va-cong-ty-pfizer-thoi-su-17g00-24-9-2021-413464.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/09/24/AMThoisu17h00p240921.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 25 Sep 2021 02:32:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Nguy cơ đứt gãy chuỗi cung ứng thực phẩm nông sản dịp cuối năm - Thời sự 11g00 24/9/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/nguy-co-dut-gay-chuoi-cung-ung-thuc-pham-nong-san-dip-cuoi-nam-thoi-su-11g00-24-9-2021-413450.html</link>
-      <description><![CDATA[14:14 - 24/09/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/nguy-co-dut-gay-chuoi-cung-ung-thuc-pham-nong-san-dip-cuoi-nam-thoi-su-11g00-24-9-2021-413450.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/09/24/AMThoisu11h00p240921.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 24 Sep 2021 21:14:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
