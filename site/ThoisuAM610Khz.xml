@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 26 Sep 2021 18:08:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 27 Sep 2021 05:24:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 26 Sep 2021 18:08:00 +0700</pubDate>
+    <pubDate>Mon, 27 Sep 2021 05:24:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Quân chủng Hải quân hỗ trợ TPHCM 25 tỷ đồng và 135 tấn gạo để chống dịch - Thời sự 17g00 26/9/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/quan-chung-hai-quan-ho-tro-tphcm-25-ty-dong-va-135-tan-gao-de-chong-dich-thoi-su-17g00-26-9-2021-413642.html</link>
+      <description><![CDATA[22:24 - 26/09/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/quan-chung-hai-quan-ho-tro-tphcm-25-ty-dong-va-135-tan-gao-de-chong-dich-thoi-su-17g00-26-9-2021-413642.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/09/26/AMThoisu17h00p260921.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 27 Sep 2021 05:24:00 +0700</pubDate>
+    </item>
     <item>
       <title>Xung kích nơi tuyến đầu chống dịch COVID-19 – Thời sự 11g00 26/9/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/xung-kich-noi-tuyen-dau-chong-dich-covid-19-thoi-su-11g00-26-9-2021-413608.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/nha-van-lam-thien-nguyen-khi-yeu-thuong-vuot-len-noi-so-thoi-su-5g30-26-9-2021-413589.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/09/26/AMThoisu05h30p260921.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 26 Sep 2021 13:21:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Xây dựng hướng dẫn tiêm chủng vắc xin Hayat-Vax và Abdala - Thời sự 17g00 25/9/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/xay-dung-huong-dan-tiem-chung-vac-xin-hayat-vax-va-abdala-thoi-su-17g00-25-9-2021-413572.html</link>
-      <description><![CDATA[17:00 - 25/09/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/xay-dung-huong-dan-tiem-chung-vac-xin-hayat-vax-va-abdala-thoi-su-17g00-25-9-2021-413572.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/09/25/ts17g00-250921.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 26 Sep 2021 00:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
