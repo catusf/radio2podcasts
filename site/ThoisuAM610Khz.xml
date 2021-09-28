@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 28 Sep 2021 00:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 28 Sep 2021 13:37:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 28 Sep 2021 00:00:00 +0700</pubDate>
+    <pubDate>Tue, 28 Sep 2021 13:37:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Đề xuất gỡ khó về lao động, logistics cho doanh nghiệp - Thời sự 5g30 28/9/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/de-xuat-go-kho-ve-lao-dong-logistics-cho-doanh-nghiep-thoi-su-5g30-28-9-2021-413747.html</link>
+      <description><![CDATA[06:37 - 28/09/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/de-xuat-go-kho-ve-lao-dong-logistics-cho-doanh-nghiep-thoi-su-5g30-28-9-2021-413747.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/09/28/AMThoisu05h30p280921.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 28 Sep 2021 13:37:00 +0700</pubDate>
+    </item>
     <item>
       <title>Nghiêm cấm thu phí, trục lợi từ tiêm vaccine phòng COVID-19 - Thời sự 17g00 27/09/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/nghiem-cam-thu-phi-truc-loi-tu-tiem-vaccine-phong-covid-19-thoi-su-17g00-27-09-2021-413719.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-tiep-tuc-kien-nghi-giam-thue-lai-suat-ho-tro-doanh-nghiep-thoi-su-11g00-27-09-2021-413718.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/09/27/AMThoisu11h00p270921.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 27 Sep 2021 18:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chi hỗ trợ đợt 3 cho 7,3 triệu dân từ 1/10 - Thời sự 05g30 27/09/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/chi-ho-tro-dot-3-cho-7-3-trieu-dan-tu-1-10-thoi-su-05g30-27-09-2021-413717.html</link>
-      <description><![CDATA[05:30 - 27/09/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/chi-ho-tro-dot-3-cho-7-3-trieu-dan-tu-1-10-thoi-su-05g30-27-09-2021-413717.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/09/27/AMThoisu05h30p270921.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 27 Sep 2021 12:30:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
