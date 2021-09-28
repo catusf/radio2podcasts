@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 20 Sep 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 27 Sep 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 20 Sep 2021 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 27 Sep 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,16 @@
     </itunes:owner>
     <itunes:subtitle>Thể thao 7 ngày</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Thethao7ngay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Chương trình Thể thao 7 ngày 25/9/2021</title>
+      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
+      <description><![CDATA[- Những ngày vừa qua, đội tuyển Futsal Việt Nam đã làm nức lòng người hâm mộ cả nước bằng màn trình diễn ấn tượng tại giải bóng đá trong nhà thế giới - Fifa Futsal World Cup 2021. Thành tích vượt qua vòng bảng với 4 điểm, tiến bộ so với thành tích tại Fifa Futsal World Cup 2016, cùng với trận đấu gây nhiều khó khăn cho đương kim vô địch Nga. Chúng ta cùng nhìn lại hành trình đầy tự hào của ĐT Futsal Việt Nam tại Fifa Futsal World Cup 2021.
+- Thông tin đáng chú ý phác họa Giải vô địch bóng đá Đông Nam Á  AFF Cup 2020 sẽ khởi tranh vào cuối năm nay.
+- Gặp gỡ nhà vô địch thế giới môn Muay Thái Huỳnh Hà Hữu Hiếu và cảm nhận khát khao chinh phục huy chương vàng Sea Games của nữ võ sĩ 22 tuổi.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/09/27/vovlive_podcast_thethao7ngay_2509.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 27 Sep 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Chương trình Thể thao 7 ngày 18/9/2021</title>
       <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
@@ -51,17 +61,6 @@
       <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2021/09/06/vovlive_podcast_thethao7ngay_0409.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 06 Sep 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chương trình Thể thao 7 ngày 28/8/2021</title>
-      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
-      <description><![CDATA[- Sự kiện VFF và VPF cùng 27 CLB bóng đá chuyên nghiệp thống nhất hủy mùa giải V. League 2021.
-- CR7 chia tay Juventus  - Sự tất yếu của một  Seria A  yếu kém về mặt tài chính và khát vọng chiến thắng của một ngôi sao.
-- Những yếu tố đằng sau sự thành công của các đội đua Red Bull và Mercedes tại mùa giải đua xe công thức 1 tại năm nay.
-- Chia sẻ thông điệp  ý nghĩa của cựu đội trưởng đội tuyển bóng đá nữ Afghanistan trong bối cảnh chính trị Afghanistan có những thay đổi nghiêm trọng.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/08/30/vovlive_podcast_thethao7ngay_2808.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 30 Aug 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
