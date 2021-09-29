@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 28 Sep 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 29 Sep 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 28 Sep 2021 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 29 Sep 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Điểm hẹn văn nghệ</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Diemhenvannghe.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>“Khúc Páo dung của mùa thu”: Vương vấn mối tình miền sơn cước  28/9/2021</title>
+      <title>"Lần đường theo bóng" của Văn Thành Lê: Tài tử mà rất tài tình29/9/2021</title>
+      <link>http://vov6.vov.vn/diem-hen-van-nghe/lan-duong-theo-bong-cua-van-thanh-le-tai-tu-ma-rat-tai-tinh-c158-33900.aspx</link>
+      <description><![CDATA[Dịch bệnh Covid 19 đang có nhiều diễn biến nguy hiểm. Việc tuân thủ 5K, hạn chế đi lại là điều cần thiết để tự bảo vệ bản thân, đồng thời cũng là một cách tiếp sức cho lực lượng phòng, chống dịch ở tuyến đầu. Trong bối cách này, Ban Văn học Nghệ thuật (VOV6) cũng muốn gửi gắm thông điệp “Đọc sách không ngại giãn cách” thông qua chuyên mục Thư viện VOV6. Hàng tuần, chúng tôi sẽ lựa chọn các tác phẩm hay để quý vị và các bạn tìm đọc. Trong chương trình hôm nay, chúng ta sẽ cùng tìm hiểu cuốn chân dung văn học “Lần đường theo bóng” của nhà văn Văn Thành Lê. Sách do NXB Tổng hợp thành phố Hồ Chí Minh ấn hành.]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/lan-duong-theo-bong-cua-van-thanh-le-tai-tu-ma-rat-tai-tinh-c158-33900.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_9/gts_lan_duong_theo_bong_299202110.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 29 Sep 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>“Khúc Páo dung của mùa thu”: Vương vấn mối tình miền sơn cước   28/9/2021</title>
       <link>http://vov6.vov.vn/diem-hen-van-nghe/khuc-pao-dung-cua-mua-thu-vuong-van-moi-tinh-mien-son-cuoc-c158-33899.aspx</link>
       <description><![CDATA[Bài thơ “ Khúc Páo dung của mùa thu” của tác giả Mai Oanh viết về mùa thu ở một vùng đất bạt ngàn đồi núi với ngàn hoa Nả Hẩu ngát hương, là khúc Páo dung chảy từ sữa mẹ. Mùa thu ở đó còn luyến nhớ một mối tình dang dở của người con gái đang yêu: “Anh về rồi/ trả hương quế cho em/ em lỡ để rơi vào nụ hôn hôm ấy/ Nụ hôn Viễn Sơn bay dài theo nỗi nhớ/ Anh mang về xuôi”. (Điểm hẹn văn nghệ 25/9/2021)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/khuc-pao-dung-cua-mua-thu-vuong-van-moi-tinh-mien-son-cuoc-c158-33899.aspx</guid>
@@ -37,14 +45,6 @@
       <description><![CDATA[Lâu nay, văn mẫu luôn là một vấn đề nóng mỗi khi năm học mới bắt đầu. Năm nay, do diễn biến phức tạp của đại dịch Covid 19, việc học tập của học sinh ở nhiều tỉnh, thành phố phải chuyển sang hình thức online. Vì thế, việc giảng dạy và học tập, nhất là với môn Ngữ văn, lại càng phải chú trọng hơn. Làm thế nào để cả giáo viên lẫn học sinh không còn phụ thuộc vào văn mẫu trong quá trình học tập và thi cử? Sau đây, mời quý vị và các bạn nghe phóng sự của BTV Dương Hà có nhan đề “Để văn mẫu chỉ là thị phạm”. Đây cũng là phóng sự kì cuối, khép lại vệt bài “Văn mẫu – Hệ lụy trong tương lai” của Ban Văn học Nghệ thuật (VOV6).]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/van-mau-he-luy-trong-tuong-lai-de-van-mau-chi-la-thi-pham-c158-33892.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_9/phong_su_3_de_van_mau_la_thi_pham_279202110.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 27 Sep 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Từ trang sách đến gương mặt văn chương 27/9/2021</title>
-      <link>http://vov6.vov.vn/diem-hen-van-nghe/tu-trang-sach-den-guong-mat-van-chuong-c158-33891.aspx</link>
-      <description><![CDATA[“Từ trang sách đến gương mặt văn chương” là tập tiểu luận phê bình văn học của nhà phê bình Nguyễn Hoài Nam, do Công ty cổ phần Sách Tao Đàn và NXB Hội Nhà văn ấn hành. Là người cho rằng người làm phê bình “hãy trung thực, thậm chí trung thực với sự thiên vị của mình và đừng viết ra những gì mình không/chưa tin tưởng”, tác giả Nguyễn Hoài Nam đã thể hiện quan niệm này như thế nào trong cuốn sách này? Chúng ta cùng tìm hiểu “Từ trang sách đến gương mặt văn chương” qua đôi điều cảm nhận của BTV Văn nghệ.]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/tu-trang-sach-den-guong-mat-van-chuong-c158-33891.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_9/tu_trang_sach_den_guong_mat_van_chuong_279202110.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 27 Sep 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
