@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 24 Sep 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 29 Sep 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 24 Sep 2021 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 29 Sep 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ai là ứng cử viên sáng giá nhất kế nhiệm Thủ tướng Nhật Bản Suga Yoshihide?</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Hôm nay (ngày 29/9), Đảng Dân chủ Tự do cầm quyền tại Nhật Bản (LDP) sẽ bỏ phiếu bầu lãnh đạo mới thay thế Thủ tướng Suga Yoshihide, người tuyên bố không tái tranh cử chức Chủ tịch Đảng Dân chủ Tự do. Cuộc đua giành ghế chủ tịch Đảng Dân chủ Tự do cầm quyền năm nay diễn ra gay cấn, bởi lẽ ai giành chiến thắng sẽ gần như chắc chắn trở thành Thủ tướng thứ 100 ở đất nước Mặt trời mọc. Cho đến thời điểm hiện tại đã có 4 ứng cử viên tuyên bố tham gia cuộc đua này. Ứng cử viên sáng giá nào sẽ giành chiến thắng trong cuộc đua chiếc ghế Chủ tịch Đảng Dân chủ Tự do cầm quyền ở Nhật Bản?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/09/29/vovlive_vandequocte_ailaungcuviensanggianhatkenhiemtutuongnhat.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 29 Sep 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Cuộc đua vào ghế Thủ tướng Đức</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2021/09/22/vovlive_vandequocte_thucdaychunghiadaphuongtrongungphocovid19.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 22 Sep 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Iran gia nhập tổ chức hợp tác Thượng Hải, cơ hội gắn kết tam giác Nga - Trung - Iran</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Các trục quan hệ quốc tế đang có sự chuyển động rõ nét trong thời gian ngắn gần đây. Cùng với việc Mỹ, Anh và Australia thiết lập liên minh AUKUS, một động thái đáng chú ý khác là việc Iran vừa chính thức gia nhập Tổ chức Hợp tác Thượng Hải (SCO). Đây là tổ chức an ninh ở khu vực Trung Á do Nga và Trung Quốc dẫn đầu. Động thái này được xem là một thành tựu ngoại giao quan trọng của chính quyền mới tại Iran, đồng thời là bước củng cố lực lượng của tổ chức an ninh lớn nhất lục địa Á – Âu, mở rộng tầm ảnh hưởng của Tổ chức Hợp tác Thượng Hải (SCO) trên bàn cờ địa chính trị thế giới.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/09/21/vovlive_vandequocte_irangianhaptochuchoptacthuonghaicohoigankettamgiangatrungiran.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 21 Sep 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
