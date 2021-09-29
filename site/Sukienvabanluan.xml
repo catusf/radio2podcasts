@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 28 Sep 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 29 Sep 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 28 Sep 2021 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 29 Sep 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Bay thẳng tới Mỹ cơ hội định vị hàng không Việt trên bản đồ thế giới</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Bay thẳng Việt Nam – Mỹ không còn là “giấc mơ” mà đang trở thành hiện thực. Hãng hàng không Vietnam Airlines cho biết đã hoàn thành toàn bộ tài liệu và công tác chuẩn bị để Cục An ninh Vận tải Mỹ xem xét phê chuẩn, trên cơ sở đó Cục Hàng không Liên bang Mỹ sẽ cấp phép cho Hãng khai thác các chuyến bay thẳng thường lệ giữa Việt Nam và Mỹ. Cùng với đó, sự kiện ngày 23/9/2021 hãng hàng không Bamboo Airways thực hiện thành công chuyến bay thẳng (thuê chuyến từ Việt Nam sang Mỹ) càng cho thấy, cơ hội được bay thẳng bằng những chuyến bay thường lệ tới Mỹ đang rất gần. Sự kiện này diễn ra trong bối cảnh, thế giới cũng như Việt Nam đang nỗ lực đẩy lùi dịch Covid - 19, phục hồi sản xuất, kinh doanh và du lịch tạo ra những tác động tích cực.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/09/29/vovlive_sukienvabanluan_bay_thang_toi_my.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 29 Sep 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Hậu quả nào cho kinh tế Trung Quốc khi “quả bom nợ” Evergrande phát nổ?</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2021/09/20/vovlive_sukienvabinhlan_tang_cuong_ran_de.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 20 Sep 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Sóng và máy tính cho em bảo đảm công bằng trong tiếp cận phương thức dạy và học mới</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Dịch Covid -19 khiến cho hơn 7 triệu học sinh các cấp đang phải học trực tuyến. Trong số này, khoảng 1,5 triệu học sinh thiếu thiết bị máy tính, thiết bị thông minh phục vụ việc học tập. Cùng với đó, việc thiếu nền tảng dạy học trực tuyến cũng gây không ít khó khăn trong công tác giảng dạy. Trước thực tế này, tối 12/9 vừa qua, Thủ tướng Chính phủ Phạm Minh Chính phát động Chương trình “Sóng và máy tính cho em”. Đây là một chương trình rất lớn, liên quan đến hàng chục triệu học sinh đang ở vùng có dịch Covid-19 trên cả nước, giúp các em có điều kiện để học tập trực tuyến hiệu quả. “Sóng và máy tính cho em” cũng nhằm hướng tới mục tiêu bảo đảm công bằng trong tiếp cận phương thức dạy và học mới.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/09/16/vovlive_sukienvabinhluan_song_va_may_tinh_cho_em.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Sep 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
