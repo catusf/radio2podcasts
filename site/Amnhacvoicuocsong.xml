@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 21 Sep 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 28 Sep 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 21 Sep 2021 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 28 Sep 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,16 @@
     </itunes:owner>
     <itunes:subtitle>Âm nhạc với cuộc sống</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Amnhacvoicuocsong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Trò chuyện cùng BTV, MC Trần Tùng - Truyền hình Quốc phòng Việt Nam với ca khúc “Bộ đội ta chống dịch”</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[- Lắng nghe ca khúc “Anh hùng áo trắng”- món quà xúc động gửi tới các y bác sĩ đang ngày đêm trên tuyến đầu chống đại dịch Covid của tác giả Trần Thành Long và nghe những chia sẻ của anh về ca khúc này.
+- Lắng nghe ca khúc “Bộ đội ta chống dịch” của BTV, MC Trần Tùng, Truyền hình Quốc phòng Việt Nam và những chia sẻ của anh về hoàn cảnh ra đời của ca khúc này.
+- Thưởng thức các tác phẩm âm nhạc gửi về tham dự cuộc vận động sáng tác ca khúc Hát lên Việt Nam-Let’sing Vietnam do Đài TNVN tổ chức:  “Hòn vọng phu trên đất Việt” (tác giả Vũ Trung, lời thơ Văn Trọng Hùng), “Trường ca sông Hồng” (tác giả Nguyễn Vĩnh Tiến)]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/09/28/vovlive_am_nhac_voi_cuoc_song_bo_doi_ta_chong_dich.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 28 Sep 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Trò chuyện cùng nhạc sĩ Cát Vận về giá trị tác phẩm âm nhạc “Nam Bộ kháng chiến” của tác giả Tạ Thanh Sơn kỷ niệm 76 năm ngày Nam Bộ kháng chiến (23/9/1945-23/9/2021)</title>
       <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
@@ -50,15 +60,6 @@
       <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2021/09/07/vovlive_am_nhac_voi_cuoc_song_chia_nhau_mot_chut_ngot_bui_nguyen_ba_hung.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 07 Sep 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>“Hãy ngăn chặn Covid”: Lời hiệu triệu về niềm tin chiến thắng đại dịch Covid 19 của nhạc sĩ Trịnh Ngọc Tân-Nguyên BTV Âm nhạc Điện ảnh Quân đội Nhân dân</title>
-      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[- Thưởng thức ca khúc “Hãy ngăn chặn Covid” của nhạc sĩ Trịnh Ngọc Tân và cùng lắng nghe những chia sẻ của anh về ca khúc này.
--Một số thông tin về cuộc vận động sáng tác ca khúc Hát lên Việt Nam-Let’sing Viet Nam và cùng thưởng thức ca khúc “Tự hào Việt Nam tổ quốc tôi” (nhạc sĩ Nguyễn Xuân Tuấn Dương) và “Tự hào quê hương Việt Nam” (của nhạc sĩ Huyền Ngọc) tham dự cuộc vận động sáng tác này.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/08/31/vovlive_am_nhac_voi_cuoc_song_hay_ngan_chan_covid_trinh_ngoc_tan.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 31 Aug 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
