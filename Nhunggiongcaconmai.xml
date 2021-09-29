@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 24 Sep 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 28 Sep 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 24 Sep 2021 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 28 Sep 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Những giọng ca còn mãi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Nhunggiongcaconmai.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>NSND Thanh Huyền: Ngôi sao trên sóng phát thanh</title>
+      <link>https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</link>
+      <description><![CDATA[Giọng hát của NSND Thanh Huyền đã đi sâu vào ký ức của nhiều thế hệ công chúng.  Đó là giọng hát vừa trong, vừa cao, mà đầy ngọt ngào, sâu lắng. Một giọng ca nữ xuất sắc kết hợp nhuần nhuyễn giữa dân ca và kỹ thuật thanh nhạc cổ điển. Trong suốt các thập niên 1960 – 1990, giọng hát của nữ nghệ sĩ đã vang lên trên làn sóng Đài TNVN. Và bà là một trong những nghệ sĩ có nhiều bản thu được phát nhiều nhất trên làn sóng Đài Tiếng nói Việt Nam. Với giọng hát đẹp bẩm sinh mang đậm chất dân ca Việt Nam cùng sự lao động nghệ thuật bền bỉ, tên tuổi Thanh Huyền đã nổi lên như một trong những ngôi sao sáng nhất của giới nghệ sỹ biểu diễn. Nổi tiếng không chỉ với những bài dân ca Bắc Bộ như: Bèo dạt mây trôi, Xe chỉ luồn kim, Người ở đừng về, Gửi anh một khúc dân ca,..NSND Thanh Huyền còn thổi hồn dân ca thành công vào nhạc cách mạng tạo nên điệu hồn dân tộc thấm đẫm trong những ca khúc nhạc cách mạng: Đường cày đảm đang, Lời ca dâng Bác, Khi thành phố lên đèn…]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/09/28/vovlive_nhung_giong_ca_con_mai_nsnd_thanh_huyen.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 28 Sep 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>NSND Thu Hiền: Giọng hát đằm thắm chất dân ca</title>
       <link>https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</link>
@@ -47,14 +55,6 @@ Trong những năm kháng chiến chống Mỹ cứu nước, nghệ sĩ Lài T�
       <guid isPermaLink="false">https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</guid>
       <enclosure url="https://vovlive.1cdn.vn/audios/2021/08/31/vovlive_nhung_giong_ca_con_mai_nsut_lai_tam.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 31 Aug 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>NSƯT Trang Nhung: Giọng ca Bắc ngọt ngào, mùi mẫn</title>
-      <link>https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</link>
-      <description><![CDATA[Với giọng hát ngọt ngào và truyền cảm, NSƯT Trang Nhung có thể hát được nhiều thể loại từ cải lương, ca trù, chầu văn đến quan họ. Đặc biệt, bà được biết đến là người con đất Bắc nhưng ca cải lương rất ngọt ngào, mùi mẫn. Không chỉ hát trên làn sóng của Đài TNVN, trong nhiều lần đi thực tế bà còn mang tiếng hát của mình ra đồng ruộng phục vụ bà con nông dân, phục vụ công nhân hầm mỏ và phục vụ các binh đoàn chuẩn bị vào Nam chiến đấu. Nhiều đồng nghiệp của nữ nghệ sĩ thừa nhận, giọng hát của bà luôn là giọng hát chủ lực đứng đầu trong các giọng hát dân tộc cùng thế hệ. Có một vinh dự lớn trong cuộc đời nghệ thuật của bà đó là được biểu diễn rất nhiều lần cho Chủ tịch Hồ Chí Minh…]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/08/19/vovlive_nhung_giong_ca_con_mai_nsut_trang_nhung.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 19 Aug 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
