@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 23 Sep 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 30 Sep 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 23 Sep 2021 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 30 Sep 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Tìm trong kho báu</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Timtrongkhobau.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Thơ Nôm Lê Quý Đôn23/9/2021</title>
+      <title>Quận He - Nguyễn Hữu Cầu và giai thoại về bài thơ Nôm "Chim trong lồng"30/9/2021</title>
+      <link>http://vov6.vov.vn/tim-trong-kho-bau/quan-he-nguyen-huu-cau-va-giai-thoai-ve-bai-tho-nom-chim-trong-long-c54-33902.aspx</link>
+      <description><![CDATA[Bên cạnh những tên tuổi lớn như Đoàn Thị Điểm, Nguyễn Gia Thiều thì dòng thơ Nôm thời Lê trung hưng còn ghi nhận những tác giả như Lê Quý Đôn, Ngô Thì Sĩ, Nguyễn Thiếp, Nguyễn Cư Trinh, Mạc Thiên Tích, Nguyễn Hữu Cầu, các đời chúa Trịnh. Chương trình “Tìm trong kho báu” hôm nay điểm lại những phong cách, dấu ấn làm nên diện mạo của một giai đoạn lịch sử nhiều biến cố.]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/quan-he-nguyen-huu-cau-va-giai-thoai-ve-bai-tho-nom-chim-trong-long-c54-33902.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/v2_30090410_18h30_tim_trong_kho_bau_309202116.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 30 Sep 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Thơ Nôm Lê Quý Đôn 23/9/2021</title>
       <link>http://vov6.vov.vn/tim-trong-kho-bau/tho-nom-le-quy-don-c54-33881.aspx</link>
       <description><![CDATA[Ngoài sự nghiệp chính trị, Lê Quý Đôn còn để lại cho đời sau một di sản tinh thần vô cùng quý giá, bao gồm gần 40 bộ sách mà nội dung đề cập đến hầu hết mọi lĩnh vực: kinh tế, chính trị, triết học, lịch sử, địa lý, ngôn ngữ, văn học… Trong đó có nhiều bộ nổi tiếng như: Đại Việt thông sử, Phủ biên tạp lục, Kiến văn tiểu lục, Bắc sứ thông lục, Vân đài loại ngữ, Quần thư khảo biện, Dịch kinh phu thuyết, Toàn Việt thi lục, Hoàng Việt văn hải... Tác phẩm của Lê Quý Đôn phần lớn được viết bằng chữ Hán. Ngoài ra, ông cũng sử dụng chữ Nôm để sáng tác văn học, để mô tả các giống lúa, cây cỏ hoặc diễn giải, chú thích các bộ kinh điển Nho học như Tứ thư ước giải, Thư kinh diễn nghĩa. Về sáng tác thơ ca, ông để lại tập thơ chữ Hán “Quế Đường thi tập” và một số sáng tác bằng chữ Nôm.]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/tho-nom-le-quy-don-c54-33881.aspx</guid>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/thu-mua-dich-nghia-dong-bao-vuot-len-dai-dich-c54-33870.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/nghia_dong_bao_209202110.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 18 Sep 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>“Văn mẫu- Hệ lụy trong tương lai”: Văn mẫu nhiều như nấm sau mưa- trách nhiệm thuộc về ai? 16/9/2021</title>
-      <link>http://vov6.vov.vn/tim-trong-kho-bau/van-mau-he-luy-trong-tuong-lai-van-mau-nhieu-nhu-nam-sau-mua-trach-nhiem-thuoc-c54-33866.aspx</link>
-      <description><![CDATA[Giống như nhiều môn học khác trong chương trình phổ thông, môn Ngữ văn cũng rất cần sách tham khảo dành cho giáo viên và học sinh trong quá trình thị phạm và mở rộng kiến thức. Bên cạnh những cuốn sách phục vụ cho công tác dạy và học thì còn vô số các tài liệu văn mẫu đang được nhiều nhà xuất bản phát hành một cách tràn lan, thiếu kiểm soát. Phóng sự “Văn mẫu nhiều như nấm sau mưa- trách nhiệm thuộc về ai?" nằm trong vệt phóng sự nhiều kỳ “Văn mẫu- Hệ lụy trong tương lai” của BTV Dương Hà.]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/van-mau-he-luy-trong-tuong-lai-van-mau-nhieu-nhu-nam-sau-mua-trach-nhiem-thuoc-c54-33866.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_9/van_mau-_ps_2_169202111.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Sep 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
