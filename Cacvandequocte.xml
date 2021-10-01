@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 29 Sep 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 30 Sep 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 29 Sep 2021 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 30 Sep 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Các chính sách của Nhật Bản liệu có thay đổi dưới thời Thủ tướng mới</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Theo kết quả cuộc bầu cử ngày 29.9, cựu Ngoại trưởng Fumio Kishida đã xuất sắc vượt qua ba ứng cử viên khác trở thành lãnh đạo mới của đảng cầm quyền. Điều này gần như chắc chắn ông sẽ trở thành Thủ tướng kế nhiệm ông Suga Yoshihide vì liên minh cầm quyền đang chiếm đa số ghế tại Hạ viện... Từng là một nhà ngoại giao và là cựu giám đốc chính sách của Đảng Dân chủ Tự do LDP, ông Fumio Kishida dự kiến sẽ có những cải cách về chính sách đối nội và đối ngoại khi ông chính thức lãnh đạo chính phủ mới.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/10/01/vovlive_vandequocte_cacchinhsachcuanhatbanlieucothaydoiduoithoithutuongmoi(1).mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 30 Sep 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Ai là ứng cử viên sáng giá nhất kế nhiệm Thủ tướng Nhật Bản Suga Yoshihide?</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2021/09/23/vovlive_vandequocte_phapseroinatosauthoathuanquocphongbabengiuaaustraliaanhvamy.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 23 Sep 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Thúc đẩy chủ nghĩa đa phương trong ứng phó Covid-19</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Từ ngày 21/9 đến 27/9, phiên thảo luận chung cấp cao của Đại hội đồng Liên hợp quốc khóa 76 diễn ra theo hình thức trực tiếp tại New York  (Mỹ). Phiên họp năm nay dự kiến sẽ đề cập tới nhiều thách thức lớn mà thế giới đang phải đối mặt, từ biến đổi khí hậu tới xung đột tại các điểm nóng và bao trùm nhất vẫn là đại dịch Covid-19. Thực tế này càng cho thấy nhu cầu cấp bách của hợp tác đa phương trong ứng phó với Covid-19. Vậy Khóa họp thứ 76 của Đại hội đồng Liên hợp quốc có thể thúc đẩy hoạt động hợp tác này như thế nào?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/09/22/vovlive_vandequocte_thucdaychunghiadaphuongtrongungphocovid19.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 22 Sep 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
