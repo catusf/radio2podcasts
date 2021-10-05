@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 01 Oct 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 04 Oct 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 01 Oct 2021 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 04 Oct 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Khủng hoảng năng lượng bủa vây nước Anh</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Ở châu Âu, ngày 1/10 hàng năm được xem là thời điểm đặc biệt – thời điểm đánh dấu sự bắt đầu của “Mùa khí đốt” với nhu cầu khí đốt để sưởi ấm trong những tháng lạnh giá cuối năm tăng vọt. Năm nay, nước Anh bước vào “Mùa khí đốt” trong sự bủa vây của một cuộc khủng hoảng năng lượng – cuộc khủng hoảng mà hình ảnh những dãy xe nối dài chờ mua nhiên liệu trên truyền thông chỉ là một trong những biểu hiện rõ nét.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/10/04/vovlive_sukienvabanluan_khung_hoang_nang_luong_bua_vay_nuoc_anh.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 04 Oct 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Sẵn sàng cho bình thường mới</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2021/09/29/vovlive_sukienvabanluan_bay_thang_toi_my.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 29 Sep 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Hậu quả nào cho kinh tế Trung Quốc khi “quả bom nợ” Evergrande phát nổ?</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Thị trường chứng khoán toàn cầu chao đảo, kích hoạt chế độ “cảnh giác cao độ”, khi tập đoàn địa ốc hàng đầu Trung Quốc Evergrande trở thành một “quả bom nợ”. Người ta so sánh bê bối của Evergrande không kém gì vụ Lehman Brothers gây khủng hoảng tài chính Mỹ năm 2008. Đây là chủ đề nóng nhất giới tài chính, kinh doanh những ngày gần đây. Nhiều câu hỏi đang đặt ra nhưng đáng chú ý hơn cả là việc nếu “quả bom nợ” này phát nổ, sức công phá của nó đối với nền kinh tế thứ hai thế giới sẽ đến đâu, những hệ lụy xuyên biên giới là gì? Liệu có cách nào tránh một cuộc khủng hoảng tồi tệ hay không?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/09/28/vovlive_sukienvabinhluan_hau_qua_nao_cho_kinh-_trung-_quoc.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 28 Sep 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
