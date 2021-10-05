@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 28 Sep 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 05 Oct 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 28 Sep 2021 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 05 Oct 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,16 @@
     </itunes:owner>
     <itunes:subtitle>Âm nhạc với cuộc sống</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Amnhacvoicuocsong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Kỷ niệm ngày Giải phóng Thủ đô 10/10/2021, cùng gặp gỡ nhạc sĩ Trương Ngọc Ninh-Chủ tịch Hội Âm nhạc Hà Nội để tìm hiểu về hình tượng Hà Nội trong các sáng tác âm nhạc</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[- Thưởng thức ca khúc “Cửa ô nhịp phố” của nhạc sĩ Trương Ngọc Ninh (Ca sĩ Hồ Quỳnh Hương thể hiện) và cùng nghe những chia sẻ của nhạc sĩ về hình tượng Hà Nội trong các sáng tác âm nhạc.
+- Thưởng thức bản nhạc “Truyền thuyết Hồ Gươm” (nhạc sĩ Hoàng Phúc Thắng), Nhạc sĩ Doãn Nguyên chuyển soạn cho Dàn nhạc bán cố điển Nhà Hát Đài TNVN.  
+- Thưởng thức ca khúc “Tôi yêu Việt Nam” (tác giả Giáp Thịnh)-ca khúc tham dự cuộc vận động sáng tác ca khúc Hát lên Việt Nam-Let’sing Vietnam do Đài TNVN tổ chức.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/10/05/vovlive_am_nhac_voi_cuoc_song_giai_phong_thu_do_2021.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 05 Oct 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Trò chuyện cùng BTV, MC Trần Tùng - Truyền hình Quốc phòng Việt Nam với ca khúc “Bộ đội ta chống dịch”</title>
       <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
@@ -50,16 +60,6 @@
       <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2021/09/15/vovlive_am_nhac_voi_cuoc_song_nhac_si_phan_huy.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 15 Sep 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>“Chia nhau một chút ngọt bùi”: Tác phẩm âm nhạc lắng đọng cảm xúc và lan tỏa thông điệp hãy cùng đồng lòng vượt qua đại dịch Covid 19 của nhạc sĩ Nguyễn Bá Hùng</title>
-      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[-Thưởng thức ca khúc “Chia nhau một chút ngọt bùi” (nhạc sĩ Nguyễn Bá Hùng, NSND Tạ Minh Tâm thể hiện) và lắng nghe những chia sẻ của nhạc sĩ về tác phẩm âm nhạc này.
--Một số thông tin về cuộc vận động sáng tác ca khúc Hát lên Việt Nam-Let’sing Vietnam do Đài TNVN tổ chức.
--Kỷ niệm 76 năm ngày thành lập Đài TNVN, thưởng thức ca khúc “Đài Tiếng nói Việt Nam” của nhạc sĩ Lê Mây (lời của các tác giả Kim Ngọc Anh, Đăng Tiến)-ca khúc tham dự cuộc vận động sáng tác ca khúc Hát lên Việt Nam-Let’sing Vietnam.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/09/07/vovlive_am_nhac_voi_cuoc_song_chia_nhau_mot_chut_ngot_bui_nguyen_ba_hung.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 07 Sep 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
