@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 01 Oct 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 04 Oct 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 01 Oct 2021 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 04 Oct 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Chuyến thăm Pháp của Ngoại trưởng Mỹ nhằm xoa dịu đồng minh</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Ngày 04/10, Ngoại trưởng Mỹ Antony Blinken bắt đầu chuyến công du Pháp. Điểm nhấn trong chuyến công tác ở Paris là cuộc gặp với giới chức Pháp để thảo luận về rạn nứt trong quan hệ hai nước. Dự kiến, nội dung các cuộc thảo luận giữa Ngoại trưởng Mỹ với các quan chức Pháp sẽ tập trung vào các vấn đề như "An ninh ở khu vực Ấn Độ Dương - Thái Bình Dương, cuộc khủng hoảng khí hậu, phục hồi kinh tế sau đại dịch Covid-19, mối quan hệ xuyên Đại Tây Dương và sự hợp tác với các đồng minh và các đối tác trong những thách thức và cơ hội toàn cầu". Diễn ra trong bối cảnh quan hệ Pháp - Mỹ đã bị ảnh hưởng nghiêm trọng do tranh cãi liên quan thỏa thuận an ninh 3 bên Mỹ - Anh - Australia (Liên minh AUKUS), chuyến thăm Pháp của Ngoại trưởng Mỹ Blinken liệu có xoa dịu được sự giận dữ của Paris về hợp đồng tàu ngầm bị đổ bể với Australia mà Mỹ có phần liên quan?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/10/05/vovlive_vandequocte_chuyentamphapcuangoaitruongmynhamxoadiudongminh.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 04 Oct 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Nga – Thổ Nhĩ Kỳ thúc đẩy hợp tác, kiểm soát bất đồng</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2021/09/29/vovlive_vandequocte_ailaungcuviensanggianhatkenhiemtutuongnhat.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 29 Sep 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Cuộc đua vào ghế Thủ tướng Đức</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Ngày 26.9, nước Đức bước vào cuộc Tổng tuyển cử liên bang để chọn ra một chính phủ và một Thủ tướng mới. Sau cuộc bầu cử Quốc hội này, Thủ tướng Angela Merkel sẽ rút khỏi chính trường sau 4 nhiệm kỳ liên tục lãnh đạo nước Đức. Các thăm dò dư luận mới nhất tại Đức cho thấy, đảng cầm quyền Liên minh Dân chủ/Xã hội Cơ đốc giáo (CDU/CSU) bắt đầu thu hẹp khoảng cách so với đối thủ chính là đảng Dân chủ Xã hội Đức (SPD). Với kết quả khó đoán định, cuộc bầu cử Quốc hội Đức sẽ đặt ra những kịch bản nào cho chính trường nước này?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/09/24/vovlive_vandequocte_cuocduavaoghethutuongduc.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 24 Sep 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
