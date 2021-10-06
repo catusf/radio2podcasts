@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 01 Oct 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 06 Oct 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 01 Oct 2021 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 06 Oct 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Điểm hẹn văn nghệ</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Diemhenvannghe.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Thư mùa dịch: Tình yêu, dịch bệnh và Hemingway1/10/2021</title>
+      <title>Nhà văn Bích Ngân: Nghĩa tình của người cầm bút6/10/2021</title>
+      <link>http://vov6.vov.vn/diem-hen-van-nghe/nha-van-bich-ngan-nghia-tinh-cua-nguoi-cam-but-c158-33921.aspx</link>
+      <description><![CDATA[Nhà văn gắn liền với trang viết, song nhà văn cũng không thể tách rời cuộc sống mà cộng đồng đang sống, đang chiến đấu với kẻ thù vô hình Covid-19. Thời gian gần đây, hình ảnh nhà văn, nghệ sỹ tham gia tình nguyện viên hỗ trợ công tác chống dịch được người dân đánh giá cao, bởi khi đất nước cần họ sẵn sàng nhập cuộc không chỉ bằng nhiệt huyết, góp sức người sức của mà còn bằng chính tác phẩm của mình. Ở tâm dịch TP.HCM, trên cương vị Chủ tịch Hội Nhà văn TP.HCM, nhà văn Bích Ngân đã có những chia sẻ với phóng viên Chuyên mục Tiếng nói văn nghệ sỹ về cuộc sống và những hoạt động của các nhà văn thành phố trong thời gian qua]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/nha-van-bich-ngan-nghia-tinh-cua-nguoi-cam-but-c158-33921.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/tnvns_610202111.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 06 Oct 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Thư mùa dịch: Tình yêu, dịch bệnh và Hemingway 1/10/2021</title>
       <link>http://vov6.vov.vn/diem-hen-van-nghe/thu-mua-dich-tinh-yeu-dich-benh-va-hemingway-c158-33910.aspx</link>
       <description><![CDATA[Dịch bệnh covid 19 đã làm thay đổi cả thế giới, đã tác động ghê gớm tới đời sống mỗi cá nhân và khiến chúng ta phải nghĩ ngợi rất nhiều về những ngày mình đã và đang sống, nhìn nhận lại những giá trị: những giá trị bất biến, vĩnh cửu, những giá trị bị lãng quên, có lúc không được coi trọng như giá trị của thiên nhiên, giá trị của đời sống tinh thần, giá trị của tình yêu thương ....Đôi khi sự nghĩ ngợi này chính văn chương, chính những nhà văn đã đúc triết, thấu suốt và thậm chí tiên tri mà chúng ta đã lướt qua, đã không để ý mà thôi. Nhà văn Thùy Dương cũng như nhiều người viết khác ngẫm ngợi về dịch bệnh Covid – 19 nhưng chị có một sự liên tưởng và đối chiếu thú vị về những trang viết của văn hào Hemingway. Chỉ có tình yêu thương mới giúp con người vượt qua những hiểm họa dông gió, “chỉ có tình yêu thương mới có ý nghĩa để chúng ta tồn tại” - Hemingway đã nói như vậy. Bài viết sau của nhà văn Thùy Dương, chúng ta cùng chia sẻ]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/thu-mua-dich-tinh-yeu-dich-benh-va-hemingway-c158-33910.aspx</guid>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/xanh-mat-nguyen-binh-c158-33905.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_9/xanh_mat_nguyen_binh_309202116.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 30 Sep 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>"Lần đường theo bóng" của Văn Thành Lê: Tài tử mà rất tài tình 29/9/2021</title>
-      <link>http://vov6.vov.vn/diem-hen-van-nghe/lan-duong-theo-bong-cua-van-thanh-le-tai-tu-ma-rat-tai-tinh-c158-33900.aspx</link>
-      <description><![CDATA[Dịch bệnh Covid 19 đang có nhiều diễn biến nguy hiểm. Việc tuân thủ 5K, hạn chế đi lại là điều cần thiết để tự bảo vệ bản thân, đồng thời cũng là một cách tiếp sức cho lực lượng phòng, chống dịch ở tuyến đầu. Trong bối cách này, Ban Văn học Nghệ thuật (VOV6) cũng muốn gửi gắm thông điệp “Đọc sách không ngại giãn cách” thông qua chuyên mục Thư viện VOV6. Hàng tuần, chúng tôi sẽ lựa chọn các tác phẩm hay để quý vị và các bạn tìm đọc. Trong chương trình hôm nay, chúng ta sẽ cùng tìm hiểu cuốn chân dung văn học “Lần đường theo bóng” của nhà văn Văn Thành Lê. Sách do NXB Tổng hợp thành phố Hồ Chí Minh ấn hành.]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/lan-duong-theo-bong-cua-van-thanh-le-tai-tu-ma-rat-tai-tinh-c158-33900.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_9/gts_lan_duong_theo_bong_299202110.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 29 Sep 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
