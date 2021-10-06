@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 04 Oct 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 06 Oct 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 04 Oct 2021 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 06 Oct 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,22 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Liên minh Châu Âu định hình chiến lược trong quan hệ với Trung Quốc</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Ngày 5/10, lãnh đạo 27 nước Liên minh Châu Âu (EU) họp thượng đỉnh với nội dung trọng tâm là bàn về mối quan hệ của Liên minh Châu Âu với Trung Quốc. Đây là cuộc họp đầu tiên của EU về vấn đề này, kể từ khi Châu Âu cùng với một số quốc gia như Mỹ, Canada, Anh áp đặt các biện pháp trừng phạt với Trung Quốc liên quan tới vấn đề Tân Cương. Thời điểm đó, Trung Quốc cũng lập tức đáp trả với mức độ gấp đôi. Việc đáp trả lẫn nhau giữa EU và Trung Quốc cho thấy EU ở trong tình thế không dễ dàng khi xác định chiến lược trong mối quan hệ với Trung Quốc, nhất là khi phải cân nhắc tới lập trường của đồng minh Mỹ. Một số quan chức Châu Âu từng nói: “EU tìm cách để không đối đầu với Trung Quốc nhưng cũng không thể coi Trung Quốc là một đối tác bình thường”. Vậy quan điểm đó ảnh hưởng như thế nào đến chiến lược của EU trong quan hệ với Trung Quốc?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/10/06/vovlive_vandequocte_lienminhchauaudinhhinhchienluoctrongquanhevoitrungquoc.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 06 Oct 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Sau Liên minh AUKUS, Anh thúc đẩy nhiều liên minh an ninh tương tự?</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Trong bối cảnh liên minh mới giữa Mỹ - Anh - Australia (Liên minh Aukus) vẫn là chủ đề gây nhiều tranh luận trên các diễn đàn quốc tế, tân ngoại trưởng Anh vừa tuyên bố sẽ ký kết các liên minh thương mại và quốc phòng mới, dựa trên hình mẫu của AUKUS. Theo người đứng đầu ngành ngoại giao Anh, bên cạnh Australia, nước này cũng muốn xem xét thỏa thuận tiềm năng với Ấn Độ, Nhật Bản và Canada. Đây được xem là một hướng đi đáng chú trong chính sách “nước Anh toàn cầu” của Thủ tướng Boris Johnson đưa ra hồi tháng 3 năm nay.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/10/05/vovlive_vandequocte_saulienminhaukusanhthucdaynhieulienminhanninhtuongtu.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 05 Oct 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Chuyến thăm Pháp của Ngoại trưởng Mỹ nhằm xoa dịu đồng minh</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -38,22 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2021/10/01/vovlive_vandequocte_ngathonhikythucdayhoptackiemsoatbatdong.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 01 Oct 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Các chính sách của Nhật Bản liệu có thay đổi dưới thời Thủ tướng mới</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Theo kết quả cuộc bầu cử ngày 29.9, cựu Ngoại trưởng Fumio Kishida đã xuất sắc vượt qua ba ứng cử viên khác trở thành lãnh đạo mới của đảng cầm quyền. Điều này gần như chắc chắn ông sẽ trở thành Thủ tướng kế nhiệm ông Suga Yoshihide vì liên minh cầm quyền đang chiếm đa số ghế tại Hạ viện... Từng là một nhà ngoại giao và là cựu giám đốc chính sách của Đảng Dân chủ Tự do LDP, ông Fumio Kishida dự kiến sẽ có những cải cách về chính sách đối nội và đối ngoại khi ông chính thức lãnh đạo chính phủ mới.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/10/01/vovlive_vandequocte_cacchinhsachcuanhatbanlieucothaydoiduoithoithutuongmoi(1).mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 30 Sep 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Ai là ứng cử viên sáng giá nhất kế nhiệm Thủ tướng Nhật Bản Suga Yoshihide?</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Hôm nay (ngày 29/9), Đảng Dân chủ Tự do cầm quyền tại Nhật Bản (LDP) sẽ bỏ phiếu bầu lãnh đạo mới thay thế Thủ tướng Suga Yoshihide, người tuyên bố không tái tranh cử chức Chủ tịch Đảng Dân chủ Tự do. Cuộc đua giành ghế chủ tịch Đảng Dân chủ Tự do cầm quyền năm nay diễn ra gay cấn, bởi lẽ ai giành chiến thắng sẽ gần như chắc chắn trở thành Thủ tướng thứ 100 ở đất nước Mặt trời mọc. Cho đến thời điểm hiện tại đã có 4 ứng cử viên tuyên bố tham gia cuộc đua này. Ứng cử viên sáng giá nào sẽ giành chiến thắng trong cuộc đua chiếc ghế Chủ tịch Đảng Dân chủ Tự do cầm quyền ở Nhật Bản?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/09/29/vovlive_vandequocte_ailaungcuviensanggianhatkenhiemtutuongnhat.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 29 Sep 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
