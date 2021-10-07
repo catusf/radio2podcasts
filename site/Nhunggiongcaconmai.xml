@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 28 Sep 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 07 Oct 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 28 Sep 2021 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 07 Oct 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Những giọng ca còn mãi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Nhunggiongcaconmai.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Nghệ nhân-NSƯT Hà Thị Cầu: Hiện tượng độc đáo của nghệ thuật dân tộc</title>
+      <link>https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</link>
+      <description><![CDATA[Trong nghệ thuật hát xẩm, tên tuổi của nghệ nhân-NSƯT Hà Thị Cầu luôn gắn liền với nghệ thuật hát xẩm đương đại. Bà được đánh giá là nghệ nhân duy nhất còn lưu giữ được nhiều làn điệu cổ của nghề và có thể tự đặt lời mới mang hơi thở của thời đại cho các làn điệu xẩm truyền thống. Giọng hát của bà không chỉ đằm, sâu mà còn mang đủ năm yếu tố vang, rền, nền, nảy và tình; cách hát buông hơi nhả chữ, lấy hơi luyến láy, đảo phách, rung ngân,…mà còn đặc biệt ở tiếng nhị được thể hiện một cách thuần thục điêu luyện…]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/10/07/vovlive_nhung_giong_ca_con_mai_ha_thi_cau.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 07 Oct 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>NSND Thanh Huyền: Ngôi sao trên sóng phát thanh</title>
       <link>https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</link>
@@ -46,15 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2021/09/15/vovlive_nhung_giong-ca_con_mai_nsut_thuy_dat.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 15 Sep 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>NSƯT Lài Tâm: Giọng ngâm thơ, ca Huế và dân ca Bình Trị Thiên mượt mà, đằm thắm</title>
-      <link>https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</link>
-      <description><![CDATA[Với những thính giả yêu ngâm thơ, ca Huế và dân ca Bình Trị Thiên có lẽ không ai không biết đến một giọng ca quen thuộc trên làn sóng của Đài phát thanh giải phóng và Đài Tiếng nói Việt Nam-NSƯT Lài Tâm. Từ cô gái “hát thạo, hò hay” của vùng quê Quảng Bình có truyền thống văn nghệ dân gian, Lài Tâm đã được tuyển chọn đi học nghiệp vụ về ca hát và đã tiếp thu, phát huy được những tinh túy của các điệu hò, các làn điệu dân ca quê hương. Bà không những hát tốt, gợi cảm, các điệu lý, hò của quê hương Bình Trị Thiên mà còn ca được các bài bản ca Huế như Tứ đại cảnh, Nam Bình, Cổ bản, Phẩm tiết…
-Trong những năm kháng chiến chống Mỹ cứu nước, nghệ sĩ Lài Tâm công tác tại Ban ca nhạc Đài phát thanh Giải phóng. Qua làn sóng của Đài phát thanh Giải phóng, tiếng hát của bà đã đến với người chiến sỹ trên các mặt trận, góp phần động viên, cổ vũ kịp thời tiền tuyến lập công... Suốt mấy chục năm qua, tiếng hát của NSƯT Lài Tâm cũng đã được thu thanh và lưu trữ trong kho băng của Đài TNVN với hàng trăm tiết mục ca Huế và dân ca Bình Trị Thiên và thường xuyên nhận được yêu cầu được nghe lại của quý thính giả...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</guid>
-      <enclosure url="https://vovlive.1cdn.vn/audios/2021/08/31/vovlive_nhung_giong_ca_con_mai_nsut_lai_tam.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 31 Aug 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
