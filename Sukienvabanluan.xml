@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 05 Oct 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 06 Oct 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 05 Oct 2021 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 06 Oct 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Khủng hoảng năng lượng ở Trung Quốc nghiêm trọng mức nào?</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Thiếu điện một câu chuyện không mới và là thực trạng mà nhiều quốc gia phải đối mặt. Tuy nhiên khi tình trạng này xảy ra ở nền kinh tế lớn như Trung Quốc, những thiệt hại và nhiều câu chuyện kéo theo đó rất đáng quan tâm. Khủng hoảng điện ở Trung Quốc không những khiến nhiều nhà máy phải cắt giảm sản xuất mà còn làm chậm nền kinh tế của quốc gia tỉ dân và tạo áp lực cho chuỗi cung ứng toàn cầu. Nguyên nhân của chuyện thiếu điện tại Trung Quốc cũng có thể là bài học cho phần còn lại của thế giới trong việc cân bằng bài toán năng lượng cho phát triển kinh tế và bảo vệ môi trường.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/10/06/vovlive_sukienvabinhluan_kung_hoang_nang_luong_o_trung_quoc.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 06 Oct 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Kết nối 13 tỉnh vùng Đồng bằng sông cửu long với TP Hồ Chí Minh những điểm nghẽn cần khơi thông</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2021/10/01/vovlive_sukienvabinhluan_san_sang_cho_binh_thuong_moi.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 01 Oct 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đằng sau sự trở về của "công chúa Huawei"</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[“Cuộc chiến con tin” kéo dài 1.000 ngày giữa Trung Quốc và Canada mới đây đã kết thúc khi Giám đốc Tài chính của Huawei – bà Mạnh Vãn Chu trở về nước, đổi lại hai công dân Canada bị Trung Quốc giam giữ với cáo buộc làm gián điệp cũng được trả tự do. Việc bà Mạnh Vãn Chu trở về nước có ý nghĩa đặc biệt với giới công nghệ Trung Quốc bởi việc Canada bắt giữ bà Mạnh Vãn Chu cách đây 3 năm có yếu tố liên quan tới cuộc chiến công nghệ Mỹ - Trung.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/09/30/vovlive_sukienvabinhluan_dang_sau_su_tro_ve_cua_cong_chua_huawei.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 30 Sep 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
