@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 06 Oct 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 08 Oct 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 06 Oct 2021 19:00:00 +0700</pubDate>
+    <pubDate>Fri, 08 Oct 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Quan hệ Nga - Mỹ: Nóng lạnh thất thường</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Quan hệ giữa hai cường quốc Nga - Mỹ đang có những diễn biến mới khiến dư luận đặc biệt quan tâm. Hai bên vừa bắt đầu các cuộc tham vấn chiến lược song phương tại Thụy Sỹ nhằm hướng tới thực hiện Hiệp ước Cắt giảm vũ khí tấn công chiến lược mới (New START) một cách hiệu quả và minh bạch. Để thể hiện thiện chí của mình, lần đầu tiên sau 4 năm, Mỹ đã công bố số lượng đầu đạn hạt nhân mà nước này sở hữu. Những diễn biến này liệu có báo hiệu các tín hiệu lạc quan cho mối quan hệ Nga - Mỹ?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/10/08/vovlive_vandequocte_quanhengamynonglanhbatthuong.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 08 Oct 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Liên minh Châu Âu định hình chiến lược trong quan hệ với Trung Quốc</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2021/10/05/vovlive_vandequocte_chuyentamphapcuangoaitruongmynhamxoadiudongminh.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 04 Oct 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Nga – Thổ Nhĩ Kỳ thúc đẩy hợp tác, kiểm soát bất đồng</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Tổng thống Nga Vladimia Putin và Tổng thống Thổ Nhĩ Kỳ Tayyip Erdogan vừa có cuộc hội đàm tại thành phố Sochi của Nga. Trong cuộc gặp trực tiếp đầu tiên kể từ tháng 3 năm ngoái, hai nhà lãnh đạo đã thảo luận nhiều vấn đề cùng quan tâm như tình hình Syria, Libya, Afghanistan đến Nagorno Karabakh… Cuộc gặp tại Sochi một lần nữa cho thấy xu hướng xích lại gần nhau của Nga và Thổ Nhĩ Kỳ kể từ khi phối hợp rất hiệu quả trong việc xử lý cuộc xung đột tại Syria, tạo ra một trục ảnh hưởng lớn ở Trung Đông, có khả năng cạnh tranh với trục ảnh hưởng của Mỹ và các đồng minh. Dù vậy, Nga và Thổ Nhĩ Kỳ cũng tồn tại nhiều bất đồng liên quan đến các điểm nóng như Ucraina, Libya… Vậy hai bên đang xử lý mối quan hệ song phương như thế nào để vừa hợp tác, vừa kiểm soát được bất đồng?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/10/01/vovlive_vandequocte_ngathonhikythucdayhoptackiemsoatbatdong.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 01 Oct 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
