@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 10 Oct 2021 03:45:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 10 Oct 2021 15:44:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 10 Oct 2021 03:45:00 +0700</pubDate>
+    <pubDate>Sun, 10 Oct 2021 15:44:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Thành phố Thủ Đức nỗ lực chăm lo an sinh tốt cho người dân - Thời sự 5g30 10/10/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/thanh-pho-thu-duc-no-luc-cham-lo-an-sinh-tot-cho-nguoi-dan-thoi-su-5g30-10-10-2021-415013.html</link>
+      <description><![CDATA[08:44 - 10/10/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/thanh-pho-thu-duc-no-luc-cham-lo-an-sinh-tot-cho-nguoi-dan-thoi-su-5g30-10-10-2021-415013.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/10/10/AMThoisu05h30p101021.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 10 Oct 2021 15:44:00 +0700</pubDate>
+    </item>
     <item>
       <title>Y tế TPHCM góp phần tích cực trong công tác phòng chống dịch thời gian qua - Thời sự 17g00 9/10/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/y-te-tphcm-gop-phan-tich-cuc-trong-cong-tac-phong-chong-dich-thoi-gian-qua-thoi-su-17g00-9-10-2021-414987.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tang-tham-cay-xanh-nhung-van-dam-bao-an-toan-thoi-su-11g00-9-10-2021-414966.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/10/09/AMThoisu11h00p091021.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 09 Oct 2021 20:04:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Các vấn đề khôi phục kinh tế trong bình thường mới - Thời sự 5g30 9/10/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/cac-van-de-khoi-phuc-kinh-te-trong-binh-thuong-moi-thoi-su-5g30-9-10-2021-414934.html</link>
-      <description><![CDATA[07:12 - 09/10/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/cac-van-de-khoi-phuc-kinh-te-trong-binh-thuong-moi-thoi-su-5g30-9-10-2021-414934.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/10/09/AMThoisu05h30p091021.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 09 Oct 2021 14:12:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
