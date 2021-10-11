@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 06 Oct 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 11 Oct 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 06 Oct 2021 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 11 Oct 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Văn nghệ thiếu nhi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Vannghethieunhi.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Văn học thiếu nhi - Cầu nối giữa các thế hệ6/10/2021</title>
+      <title>Họa sỹ Kim Duẩn 15 năm vẽ minh họa 11/10/2021</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/hoa-sy-kim-duan-15-nam-ve-minh-hoa-c44-33934.aspx</link>
+      <description><![CDATA[Nếu bạn nào yêu mến các tác phẩm sách truyện có lẽ rất quen thuộc với minh họa của họa sĩ Kim Duẩn qua các cuốn sách như “Kể chuyện Tết Nguyên Đán”, “Kể chuyện Tết trung thu”, “Trung thu của Tí, “Xóm bờ giậu”, “Mẹ hổ dịu dàng". Đến nay họa sĩ Kim Duẩn đã có 15 năm gắn bó với công việc minh họa sách. Anh có những bí quyết gì để nuôi dưỡng đam mê của minh? (Văn nghệ thiếu nhi 06/10/2021)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/hoa-sy-kim-duan-15-nam-ve-minh-hoa-c44-33934.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2021_10/v2_0610_10h4518h15_van_nghe_thieu_nhi_1110202121.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 11 Oct 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Văn học thiếu nhi - Cầu nối giữa các thế hệ 6/10/2021</title>
       <link>http://vov6.vov.vn/van-nghe-thieu-nhi/van-hoc-thieu-nhi-cau-noi-giua-cac-the-he-c44-33924.aspx</link>
       <description><![CDATA[Trong khuôn khổ hoạt động Festival “Văn học Nga khu vực Thái Bình Dương” lần thứ 4, vừa qua Tập đoàn truyền thông PrimaMedia và Ban lãnh đạo Quỹ “Thế giới Nga” chi nhánh Viễn Đông đã có buổi giao lưu với một số nhà văn Việt Nam viết cho thanh thiếu nhi theo hình thức trực tuyến. Các nhà văn của nước Nga và Việt Nam đã cùng nhau chia sẻ những quan điểm, kinh nghiệm khi sáng tác cho thế hệ trẻ... (Trang văn học nghệ thuật tuổi mới lớn 05/10/2021)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/van-hoc-thieu-nhi-cau-noi-giua-cac-the-he-c44-33924.aspx</guid>
@@ -37,14 +45,6 @@
       <description><![CDATA[Hôm nay, chúng mình cùng gặp cô giáo Nguyễn Thanh Nhàn - giáo viên ngữ văn trường THCS Trưng Vương, quận Hoàn Kiếm, Hà Nội -  để nghe cô chia sẻ về những bài giảng online lớp 8. Những bài học được thiết kế khoa học, dễ tiếp thu, bằng các hoạt động nghe nói linh hoạt sẽ giúp chúng mình nắm được nội dung kiến thức nhanh hơn...  (Văn nghệ thiếu nhi 04/10/2021)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/hoc-van-thoi-online-c44-33923.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2021_10/v2_0410_10h4518h15_van_nghe_thieu_nhi_610202110.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 06 Oct 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Độc đáo tranh dân gian làng Sình  6/10/2021</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-dao-tranh-dan-gian-lang-sinh-c44-33922.aspx</link>
-      <description><![CDATA[Ngay từ khi ra đời, tranh làng Sình không đơn thuần phục vụ thú chơi tao nhã mà còn đáp ứng nhu cầu tín ngưỡng. Tranh được người dân xứ Huế dùng để thờ, hóa trong các lễ cầu an, giải hạn. Tranh hoàn toàn được làm thủ công. Để có một bức tranh phải trải qua đủ 7 công đoạn, từ xén giấy, quét điệp, in tranh trên mộc bản, phơi tranh, pha màu, tô màu, cuối cùng là điểm nhãn... (Văn nghệ thiếu nhi 29/09/2021)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-dao-tranh-dan-gian-lang-sinh-c44-33922.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2021_10/v2_2909_10h4518h15_van_nghe_thieu_nhi_61020219.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 06 Oct 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
