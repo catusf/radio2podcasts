@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 06 Oct 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 11 Oct 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 06 Oct 2021 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 11 Oct 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,22 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Tăng trưởng nông sản xuất khẩu – kinh nghiệm điều hành trong dịch bệnh của ngành nông nghiệp</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Dịch Covid-19 xuất hiện, các biện pháp phòng, chống dịch bệnh được triển khai, nhất là giãn cách xã hội tại nhiều địa phương đã ảnh hưởng nghiêm trọng đến mọi mặt đời sống, sản xuất, dịch vụ của cả nước suốt nhiều tháng qua. Tuy nhiên, trong bức tranh ảm đạm đó đã xuất hiện những điểm sáng - xuất siêu đã quay trở lại trong tháng 9 với giá trị 500 triệu đô la Mỹ. Đây là tín hiệu tốt cho thấy sự phục hồi của doanh nghiệp sau thời gian đóng băng vì giãn cách xã hội. Điều đáng nói, đóng góp vào thành tích này, nhóm hàng nông, lâm, thuỷ sản có mức tăng trưởng ấn tượng với 2 con số là 10,8%.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/10/11/vovlive_sukienvabanluan_tang_truong_nong_san_xuat_khau.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 11 Oct 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Châu Âu chia rẽ về giải pháp ứng phó tình trạng giá năng lượng leo thang</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Mối lo ngại về cuộc khủng hoảng nhiên liệu vào mùa đông đang gõ cửa từng gia đình tại châu Âu khi giá năng lượng tăng đột biến. Những ngày qua, giá khí đốt tại khu vực liên tục lập đỉnh mới với mức tăng lên gần 600%. Tình hình ngày càng nghiêm trọng đang khiến giới chức châu Âu “lo sốt vó”, thậm chí còn nảy sinh nhiều bất đồng và chia rẽ trong việc tìm giải pháp xử lý vấn đề này. Vậy điều gì đang thực sự xảy ra với Châu Âu?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/10/11/vovlive_sukienvabinhluan_chau_au_chia_re_ve_tinh_trang_gia_nang_luong_leo_thang.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 11 Oct 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Khủng hoảng năng lượng ở Trung Quốc nghiêm trọng mức nào?</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -38,22 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2021/10/05/vovlive_sukienvabinhluan_ket_noi_13_tinh_dbscl.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 05 Oct 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Khủng hoảng năng lượng bủa vây nước Anh</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Ở châu Âu, ngày 1/10 hàng năm được xem là thời điểm đặc biệt – thời điểm đánh dấu sự bắt đầu của “Mùa khí đốt” với nhu cầu khí đốt để sưởi ấm trong những tháng lạnh giá cuối năm tăng vọt. Năm nay, nước Anh bước vào “Mùa khí đốt” trong sự bủa vây của một cuộc khủng hoảng năng lượng – cuộc khủng hoảng mà hình ảnh những dãy xe nối dài chờ mua nhiên liệu trên truyền thông chỉ là một trong những biểu hiện rõ nét.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/10/04/vovlive_sukienvabanluan_khung_hoang_nang_luong_bua_vay_nuoc_anh.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 04 Oct 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Sẵn sàng cho bình thường mới</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Năm 2021 đã đi qua 3/4 chặng đường, những dự báo kỳ vọng bị đảo lộn bởi sự tàn phá khốc liệt của đợt dịch Covid-19 lần thứ 4. Cả nước chuẩn bị bước vào quý 4 với tâm thế mới - tâm thế sống chung với đại dịch Covid 19, tâm thế sẵn sàng mở cửa trở lại các hoạt động sản xuất kinh doanh, phục hồi nền kinh tế.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/10/01/vovlive_sukienvabinhluan_san_sang_cho_binh_thuong_moi.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 01 Oct 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
