@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 08 Oct 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 11 Oct 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 08 Oct 2021 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 11 Oct 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Bước thăm dò đầu tiên giữa Mỹ và Taliban</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Sự kiện được dư luận thế giới đặc biệt quan tâm gần đây là phái đoàn quan chức Mỹ và đại diện Taliban có cuộc gặp trực tiếp ở thủ đô Doha của Cata. Đây là lần gặp đầu tiên giữa hai bên kể từ khi Mỹ hoàn tất việc rút quân khỏi Afghanistan vào cuối tháng 8 và lực lượng Taliban nắm quyền kiểm soát quốc gia Tây Nam Á này. Cuộc gặp này hé lộ điều gì về quan hệ giữa Mỹ và Taliban, cũng như những vấn đề gắn với tương lai Afghanistan?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/10/11/vovlive_vandequocte_buocthamdodautiengiuamyvataliban.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 11 Oct 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Quan hệ Nga - Mỹ: Nóng lạnh thất thường</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2021/10/05/vovlive_vandequocte_saulienminhaukusanhthucdaynhieulienminhanninhtuongtu.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 05 Oct 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chuyến thăm Pháp của Ngoại trưởng Mỹ nhằm xoa dịu đồng minh</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Ngày 04/10, Ngoại trưởng Mỹ Antony Blinken bắt đầu chuyến công du Pháp. Điểm nhấn trong chuyến công tác ở Paris là cuộc gặp với giới chức Pháp để thảo luận về rạn nứt trong quan hệ hai nước. Dự kiến, nội dung các cuộc thảo luận giữa Ngoại trưởng Mỹ với các quan chức Pháp sẽ tập trung vào các vấn đề như "An ninh ở khu vực Ấn Độ Dương - Thái Bình Dương, cuộc khủng hoảng khí hậu, phục hồi kinh tế sau đại dịch Covid-19, mối quan hệ xuyên Đại Tây Dương và sự hợp tác với các đồng minh và các đối tác trong những thách thức và cơ hội toàn cầu". Diễn ra trong bối cảnh quan hệ Pháp - Mỹ đã bị ảnh hưởng nghiêm trọng do tranh cãi liên quan thỏa thuận an ninh 3 bên Mỹ - Anh - Australia (Liên minh AUKUS), chuyến thăm Pháp của Ngoại trưởng Mỹ Blinken liệu có xoa dịu được sự giận dữ của Paris về hợp đồng tàu ngầm bị đổ bể với Australia mà Mỹ có phần liên quan?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/10/05/vovlive_vandequocte_chuyentamphapcuangoaitruongmynhamxoadiudongminh.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 04 Oct 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
