@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 12 Oct 2021 15:06:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 12 Oct 2021 19:29:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 12 Oct 2021 15:06:00 +0700</pubDate>
+    <pubDate>Tue, 12 Oct 2021 19:29:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Chưa cho phép ăn uống tại chỗ, xe ôm công nghệ hoạt động lại - Thời sự 11g00 12/10/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/chua-cho-phep-an-uong-tai-cho-xe-om-cong-nghe-hoat-dong-lai-thoi-su-11g00-12-10-2021-415190.html</link>
+      <description><![CDATA[12:29 - 12/10/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/chua-cho-phep-an-uong-tai-cho-xe-om-cong-nghe-hoat-dong-lai-thoi-su-11g00-12-10-2021-415190.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/10/12/AMThoisu11h00p121021.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 12 Oct 2021 19:29:00 +0700</pubDate>
+    </item>
     <item>
       <title>Cần thêm cơ chế để phát huy thế mạnh của y tế cơ sở - Thời sự 5g30 12/10/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/can-them-co-che-de-phat-huy-the-manh-cua-y-te-co-so-thoi-su-5g30-12-10-2021-415165.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/benh-nhan-can-tuan-thu-nghiem-ngat-khi-dung-thuoc-khang-dong-thoi-su-17g00-11-10-2021-415137.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/10/11/ts17g00-111021.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 12 Oct 2021 00:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Du lịch Việt Nam chưa có kế hoạch đón khách quốc tế đại trà - Thời sự 11g00 11/10/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/du-lich-viet-nam-chua-co-ke-hoach-don-khach-quoc-te-dai-tra-thoi-su-11g00-11-10-2021-415095.html</link>
-      <description><![CDATA[11:00 - 11/10/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/du-lich-viet-nam-chua-co-ke-hoach-don-khach-quoc-te-dai-tra-thoi-su-11g00-11-10-2021-415095.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/10/11/ts11g-111021.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 11 Oct 2021 18:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

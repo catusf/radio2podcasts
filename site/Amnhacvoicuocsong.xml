@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 05 Oct 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 12 Oct 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 05 Oct 2021 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 12 Oct 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,15 @@
     </itunes:owner>
     <itunes:subtitle>Âm nhạc với cuộc sống</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Amnhacvoicuocsong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Gặp gỡ nhạc sĩ Tuấn Nghĩa cùng hai ca khúc cổ vũ, động viên y bác sĩ và những lực lượng đang ngày đêm trên tuyến đầu chống đại dịch Covid 19: “Anh ơi anh nhớ về”, và “Ranh giới”</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[- Thưởng thức các ca khúc “Anh ơi anh nhớ về”, và “Ranh giới” của nhạc sĩ Tuấn Nghĩa cùng những chia sẻ của anh về hai tác phẩm âm nhạc này.
+- Thưởng thức ca khúc “Niềm tin Việt Nam” (tác giả Minh Hải)-ca khúc tham dự cuộc vận động sáng tác ca khúc Hát lên Việt Nam-Let’sing Vietnam do Đài TNVN tổ chức.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/10/12/vovlive_am_nhac_voi_cuoc_song_nhac_si_tuan_nghia.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 12 Oct 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Kỷ niệm ngày Giải phóng Thủ đô 10/10/2021, cùng gặp gỡ nhạc sĩ Trương Ngọc Ninh-Chủ tịch Hội Âm nhạc Hà Nội để tìm hiểu về hình tượng Hà Nội trong các sáng tác âm nhạc</title>
       <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
@@ -51,15 +60,6 @@
       <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2021/09/21/vovlive_am_nhac_voi_cuoc_song_tro_chuyen_nhac_si_cat_van_ve_ca_khuc_nam_bo_khang_chien.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 21 Sep 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Gặp gỡ nhạc sĩ Phan Huy -Trưởng phòng Nghệ thuật, Nhà hát Nghệ thuật tỉnh Vĩnh Phúc qua ca khúc “Việt Nam tiến lên”-một trong những ca khúc tiêu biểu được tuyển chọn trong cuộc vận động sáng tác ca khúc về đề tài phòng chống dịch Covid 19</title>
-      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[- Thưởng thức ca khúc “Việt Nam tiến lên” (nhạc sĩ Phan Huy) và cùng nghe những chia sẻ của nhạc sĩ về tác phẩm âm nhạc này.
-- Thưởng thức các tác phẩm âm nhạc gửi về tham dự cuộc vận động sáng tác ca khúc "Hát lên Việt Nam-Let’sing Vietnam" do Đài TNVN tổ chức:  “Hãy hát lên bài ca đất nước” (tác giả Nguyễn Dũng); “Chim ngói bay về” (tác giả Ngô Tự Lập); Hát lên Việt Nam (tác giả Trần Nhật Dương, Trần Nhật Minh)]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/09/15/vovlive_am_nhac_voi_cuoc_song_nhac_si_phan_huy.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 15 Sep 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
