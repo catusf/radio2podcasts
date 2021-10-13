@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 12 Oct 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 13 Oct 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 12 Oct 2021 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 13 Oct 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Hội nghị Thượng đỉnh EU - Ukraina: “Nóng” vấn đề năng lượng</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Từ lâu, năng lượng đã trở thành lá bài chiến lược, cũng chính là nguồn cơn căng thẳng trong mối quan hệ phức tạp giữa Liên minh Châu Âu (EU) - Nga và Ukraina. Một lần nữa, chủ đề này lại được nêu lên tại Hội nghị thượng đỉnh Ukraina - EU lần thứ 23 vừa diễn ra tại thủ đô Kiev của Ukraina. Trong bối cảnh dự án đường dẫn khí đốt Dòng chảy phương Bắc 2 chạy thẳng từ Nga sang Đức đã cơ bản hoàn thành, chỉ chờ Berlin phê duyệt, dự báo có thể cắt giảm nguồn thu lớn của quốc gia trung chuyển là Ukraina. Liệu Châu Âu sẽ phải xử lý ra sao không chỉ vấn đề năng lượng mà còn hàng loạt tồn tại trong quan hệ với “điểm nút chiến lược” phía Đông này?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/10/13/vovlive_hoinghithuongdinheuucrainanongvandenangluong.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 13 Oct 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Bầu cử trước thời hạn – bước ngoặt cho chính trường Iraq?</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2021/10/08/vovlive_vandequocte_quanhengamynonglanhbatthuong.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 08 Oct 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Liên minh Châu Âu định hình chiến lược trong quan hệ với Trung Quốc</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Ngày 5/10, lãnh đạo 27 nước Liên minh Châu Âu (EU) họp thượng đỉnh với nội dung trọng tâm là bàn về mối quan hệ của Liên minh Châu Âu với Trung Quốc. Đây là cuộc họp đầu tiên của EU về vấn đề này, kể từ khi Châu Âu cùng với một số quốc gia như Mỹ, Canada, Anh áp đặt các biện pháp trừng phạt với Trung Quốc liên quan tới vấn đề Tân Cương. Thời điểm đó, Trung Quốc cũng lập tức đáp trả với mức độ gấp đôi. Việc đáp trả lẫn nhau giữa EU và Trung Quốc cho thấy EU ở trong tình thế không dễ dàng khi xác định chiến lược trong mối quan hệ với Trung Quốc, nhất là khi phải cân nhắc tới lập trường của đồng minh Mỹ. Một số quan chức Châu Âu từng nói: “EU tìm cách để không đối đầu với Trung Quốc nhưng cũng không thể coi Trung Quốc là một đối tác bình thường”. Vậy quan điểm đó ảnh hưởng như thế nào đến chiến lược của EU trong quan hệ với Trung Quốc?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/10/06/vovlive_vandequocte_lienminhchauaudinhhinhchienluoctrongquanhevoitrungquoc.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 06 Oct 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
