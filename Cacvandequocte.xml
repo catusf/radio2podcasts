@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 13 Oct 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 14 Oct 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 13 Oct 2021 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 14 Oct 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ngoại giao Mỹ - Israel - UAE: Cơ hội thúc đẩy hòa bình ở Trung Đông</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Ngoại trưởng Mỹ, Israel và Các tiểu vương quốc Ả-rập thống nhất (UAE) vừa có cuộc gặp trực tiếp 3 bên lần đầu tiên trong nỗ lực thúc đẩy các mối quan hệ song phương và đa phương, đồng thời mở rộng các thỏa thuận bình thường hóa quan hệ giữa Israel và các quốc gia Ả-rập được biết đến với tên gọi Thỏa thuận Abraham. Cách đây một năm, khi Israel bắt đầu tiến trình bình thường hóa quan hệ với một loạt quốc gia Ả-rập Hồi giáo, các bên tham gia trực tiếp và gián tiếp vào tiến trình này đều mong mỏi Hiệp định Abraham sẽ mở ra một giai đoạn mới cho khu vực. Tuy nhiên, thực tế vẫn chưa đạt được như kỳ vọng. Đặc biệt Mỹ kỳ vọng thỏa thuận Abraham sẽ góp phần giải quyết cuộc xung đột giữa Israel và Palestine. Cách tiếp cận của Mỹ được thể hiện như thế nào?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/10/14/vovlive_vandequocte_ngoaigiaomyisraeluae.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 14 Oct 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Hội nghị Thượng đỉnh EU - Ukraina: “Nóng” vấn đề năng lượng</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2021/10/11/vovlive_vandequocte_buocthamdodautiengiuamyvataliban.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 11 Oct 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Quan hệ Nga - Mỹ: Nóng lạnh thất thường</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Quan hệ giữa hai cường quốc Nga - Mỹ đang có những diễn biến mới khiến dư luận đặc biệt quan tâm. Hai bên vừa bắt đầu các cuộc tham vấn chiến lược song phương tại Thụy Sỹ nhằm hướng tới thực hiện Hiệp ước Cắt giảm vũ khí tấn công chiến lược mới (New START) một cách hiệu quả và minh bạch. Để thể hiện thiện chí của mình, lần đầu tiên sau 4 năm, Mỹ đã công bố số lượng đầu đạn hạt nhân mà nước này sở hữu. Những diễn biến này liệu có báo hiệu các tín hiệu lạc quan cho mối quan hệ Nga - Mỹ?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/10/08/vovlive_vandequocte_quanhengamynonglanhbatthuong.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 08 Oct 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
