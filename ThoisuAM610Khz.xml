@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 15 Oct 2021 18:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 16 Oct 2021 01:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 15 Oct 2021 18:00:00 +0700</pubDate>
+    <pubDate>Sat, 16 Oct 2021 01:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>TPHCM đã có 68 chợ truyền thống được mở cửa trở lại - Thời sự 17g00 15/10/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-da-co-68-cho-truyen-thong-duoc-mo-cua-tro-lai-thoi-su-17g00-15-10-2021-415565.html</link>
+      <description><![CDATA[18:00 - 15/10/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-da-co-68-cho-truyen-thong-duoc-mo-cua-tro-lai-thoi-su-17g00-15-10-2021-415565.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/10/15/AMThoisu17h00p151021.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 16 Oct 2021 01:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Tăng cường kiểm tra các nhóm mặt hàng đang tăng giá - Thời sự 11g00 15/10/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tang-cuong-kiem-tra-cac-nhom-mat-hang-dang-tang-gia-thoi-su-11g00-15-10-2021-415532.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-se-thi-diem-mo-lai-dich-vu-an-uong-tai-cho-thoi-su-5g30-15-10-2021-415499.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/10/15/AMThoisu07h30p151021.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 15 Oct 2021 12:30:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Ban chấp hành Đảng bộ TPHCM thảo luận 4 nội dung trọng tâm - Thời sự 17g00 14/10/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/ban-chap-hanh-dang-bo-tphcm-thao-luan-4-noi-dung-trong-tam-thoi-su-17g00-14-10-2021-415456.html</link>
-      <description><![CDATA[17:35 - 14/10/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/ban-chap-hanh-dang-bo-tphcm-thao-luan-4-noi-dung-trong-tam-thoi-su-17g00-14-10-2021-415456.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/10/14/AMThoisu17h00p141021.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 15 Oct 2021 00:35:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
