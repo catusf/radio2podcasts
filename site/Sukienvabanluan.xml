@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 14 Oct 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 15 Oct 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 14 Oct 2021 19:00:00 +0700</pubDate>
+    <pubDate>Fri, 15 Oct 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Khởi động du lịch trong điều kiện bình thường mới: trên thông, dưới đừng thắt</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Sau thời gian dài, ngành du lịch gần như đóng băng vì dịch covid 19, hiện một số địa phương đang từng bước mở cửa, khôi phục ngành công nghiệp không khói trong điều kiện bình thường mới. Nhiều doanh nghiệp tỏ ra hào hứng và đã có sự chuẩn bị kỹ lưỡng..... Tuy vậy nỗ lực của phía doanh nghiệp và của một số ít địa phương là chưa đủ. Điều kiện tiên quyết là các chính sách phòng chống dịch trong điều kiện bình thương mới mà Chính phủ đưa ra phải được bộ ngành và các địa phương cụ thể hóa, dễ hiểu, dễ thực hiện và thực hiện đồng bộ.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/10/15/vovlive_sukienvabinhluan_khoi_dong_du_lich_trong_dieu_kien_binh_thuong_moi.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 15 Oct 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Giải pháp nào cho ô nhiễm tiếng ồn ở Ấn Độ</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <description><![CDATA[Dịch Covid-19 xuất hiện, các biện pháp phòng, chống dịch bệnh được triển khai, nhất là giãn cách xã hội tại nhiều địa phương đã ảnh hưởng nghiêm trọng đến mọi mặt đời sống, sản xuất, dịch vụ của cả nước suốt nhiều tháng qua. Tuy nhiên, trong bức tranh ảm đạm đó đã xuất hiện những điểm sáng - xuất siêu đã quay trở lại trong tháng 9 với giá trị 500 triệu đô la Mỹ. Đây là tín hiệu tốt cho thấy sự phục hồi của doanh nghiệp sau thời gian đóng băng vì giãn cách xã hội. Điều đáng nói, đóng góp vào thành tích này, nhóm hàng nông, lâm, thuỷ sản có mức tăng trưởng ấn tượng với 2 con số là 10,8%.]]></description>
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2021/10/11/vovlive_sukienvabanluan_tang_truong_nong_san_xuat_khau.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 11 Oct 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Châu Âu chia rẽ về giải pháp ứng phó tình trạng giá năng lượng leo thang</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Mối lo ngại về cuộc khủng hoảng nhiên liệu vào mùa đông đang gõ cửa từng gia đình tại châu Âu khi giá năng lượng tăng đột biến. Những ngày qua, giá khí đốt tại khu vực liên tục lập đỉnh mới với mức tăng lên gần 600%. Tình hình ngày càng nghiêm trọng đang khiến giới chức châu Âu “lo sốt vó”, thậm chí còn nảy sinh nhiều bất đồng và chia rẽ trong việc tìm giải pháp xử lý vấn đề này. Vậy điều gì đang thực sự xảy ra với Châu Âu?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/10/11/vovlive_sukienvabinhluan_chau_au_chia_re_ve_tinh_trang_gia_nang_luong_leo_thang.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 11 Oct 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
