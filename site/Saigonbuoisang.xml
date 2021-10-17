@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 16 Oct 2021 18:40:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 17 Oct 2021 16:31:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 16 Oct 2021 18:40:00 +0700</pubDate>
+    <pubDate>Sun, 17 Oct 2021 16:31:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Sài Gòn buổi sáng - 17/10/2021</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-17-10-2021-415695.html</link>
+      <description><![CDATA[09:31 - 17/10/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-17-10-2021-415695.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/10/17/FMsaigonbuoisang06h00p171021.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 17 Oct 2021 16:31:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Sài Gòn buổi sáng - 16/10/2021</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-16-10-2021-415614.html</link>
       <description><![CDATA[11:40 - 16/10/2021]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-16-10-2021-415614.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/10/16/FMsaigonbuoisang06h00p161021-Copy.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 16 Oct 2021 18:40:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Sài Gòn Buổi Sáng - 15/10/2021</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-15-10-2021-415498.html</link>
-      <description><![CDATA[06:00 - 15/10/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-15-10-2021-415498.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/10/15/FMSGBS06h00p151021.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 15 Oct 2021 13:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
