@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 15 Oct 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 18 Oct 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 15 Oct 2021 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 18 Oct 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Thế giới đứng trước bờ vực khủng hoảng năng lượng</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Thế giới hiện đang đứng bên bờ vực của một cuộc khủng hoảng năng lượng mới, mang tính chất đặc thù và phức tạp hơn. Những ngày gần đây, giá năng lượng, giá khí đốt và giá điện hiện tăng đồng loạt tại khắp các châu lục, từ Châu Âu, Châu Á tới Nam Mỹ. Hệ quả là tình trạng mất điện diện rộng xảy ra tại Trung Quốc, Châu Mỹ, trong khi Châu Âu phải đối mặt với việc thiếu hụt xăng dầu, khí đốt. Riêng tại Châu Âu, giá khí đốt tại châu lục này đã tăng 170% kể từ đầu năm nay. Nhiều chuyên gia cảnh báo các nước Châu Âu sẽ đối mặt với tình trạng mất điện trong những tháng mùa đông và các nhà máy của Trung Quốc có thể đóng cửa. Đây là kịch bản nguy hiểm với ảnh hưởng tiêu cực tới đà phục hồi kinh tế toàn cầu hậu COVID-19 và gây ra lạm phát cao hơn.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/10/18/vovlive_vandequocte_thegioidungtruocbovuckhunghoangnangluong.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 18 Oct 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Nóng chiến sự ở Syria</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2021/10/13/vovlive_hoinghithuongdinheuucrainanongvandenangluong.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 13 Oct 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Bầu cử trước thời hạn – bước ngoặt cho chính trường Iraq?</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Cuối tuần qua, Iraq tiến hành bầu cử Quốc hội trước thời hạn, hơn 3.200 ứng cử viên cạnh tranh 329 ghế trong Quốc hội. Cuộc bầu cử này diễn ra sau khi làn sóng biểu tình lan rộng năm 2019 trên khắp Iraq yêu cầu thay đổi hàng loạt lĩnh vực như việc làm, y tế, giáo dục…Thủ tướng khi đó là ông Mahdi đã phải từ chức. Tổng thống Iraq Barham Salih đã kêu gọi người dân đi bỏ phiếu, coi đây là thời khắc quan trọng mở ra giai đoạn mới với những cải cách đầy hứa hẹn cho quốc gia này. Nhưng thực tế cho thấy, cử tri Iraq cũng không quá kỳ vọng vào cuộc bầu cử, nhất là giới trẻ với quan điểm những ứng cử viên tự do, có tư tưởng đổi mới không có nhiều cơ hội giành được ghế trong Quốc hội.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/10/12/vovlive_vandequocte_baucutruocthoihanbuocngoatchochinhtruongiraq.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 12 Oct 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
