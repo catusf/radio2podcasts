@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 15 Oct 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 18 Oct 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 15 Oct 2021 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 18 Oct 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Mở cửa đón khách quốc tế - Indonesia kỳ vọng phục hồi ngành du lịch</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Bắt đầu từ hôm qua, Indonesia thí điểm đón khách quốc tế trở lại tại 3 địa danh du lịch nổi tiếng là đảo Bali, tỉnh Batam và tỉnh Bintan. Sự kiện này đang tạo nên bầu không khí phấn chấn trong cộng đồng những người làm du lịch tại Indonesia sau một năm rưỡi tê liệt vì dịch bệnh. Việc đón khách du lịch quốc tế trở lại được kỳ vọng sẽ giúp ngành du lịch của Indonesia sớm hồi sinh, đồng thời chứng minh danh hiệu “quốc gia có khả năng phục hồi sau đại dịch nhanh nhất tại Đông Nam Á” theo xếp hạng mới đây của Nikkei Asia.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/10/18/vovlive_sukienvabinhluan_mo_cua_don_khach_quoc_te_.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 18 Oct 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Khởi động du lịch trong điều kiện bình thường mới: trên thông, dưới đừng thắt</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -47,14 +55,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2021/10/14/vovlive_sukienvabinhluan_noi_lo_sat_lo_mua_mua_bao.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 14 Oct 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Tăng trưởng nông sản xuất khẩu – kinh nghiệm điều hành trong dịch bệnh của ngành nông nghiệp</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Dịch Covid-19 xuất hiện, các biện pháp phòng, chống dịch bệnh được triển khai, nhất là giãn cách xã hội tại nhiều địa phương đã ảnh hưởng nghiêm trọng đến mọi mặt đời sống, sản xuất, dịch vụ của cả nước suốt nhiều tháng qua. Tuy nhiên, trong bức tranh ảm đạm đó đã xuất hiện những điểm sáng - xuất siêu đã quay trở lại trong tháng 9 với giá trị 500 triệu đô la Mỹ. Đây là tín hiệu tốt cho thấy sự phục hồi của doanh nghiệp sau thời gian đóng băng vì giãn cách xã hội. Điều đáng nói, đóng góp vào thành tích này, nhóm hàng nông, lâm, thuỷ sản có mức tăng trưởng ấn tượng với 2 con số là 10,8%.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/10/11/vovlive_sukienvabanluan_tang_truong_nong_san_xuat_khau.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 11 Oct 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
