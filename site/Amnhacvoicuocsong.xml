@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 01 Jan 2000 07:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 12 Oct 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 01 Jan 2000 07:00:00 +0700</pubDate>
+    <pubDate>Tue, 12 Oct 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,5 +23,43 @@
     </itunes:owner>
     <itunes:subtitle>Âm nhạc với cuộc sống</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Amnhacvoicuocsong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Gặp gỡ nhạc sĩ Tuấn Nghĩa cùng hai ca khúc cổ vũ, động viên y bác sĩ và những lực lượng đang ngày đêm trên tuyến đầu chống đại dịch Covid 19: “Anh ơi anh nhớ về”, và “Ranh giới”</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[- Thưởng thức các ca khúc “Anh ơi anh nhớ về”, và “Ranh giới” của nhạc sĩ Tuấn Nghĩa cùng những chia sẻ của anh về hai tác phẩm âm nhạc này.
+- Thưởng thức ca khúc “Niềm tin Việt Nam” (tác giả Minh Hải)-ca khúc tham dự cuộc vận động sáng tác ca khúc Hát lên Việt Nam-Let’sing Vietnam do Đài TNVN tổ chức.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/10/12/vovlive_am_nhac_voi_cuoc_song_nhac_si_tuan_nghia.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 12 Oct 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Kỷ niệm ngày Giải phóng Thủ đô 10/10/2021, cùng gặp gỡ nhạc sĩ Trương Ngọc Ninh-Chủ tịch Hội Âm nhạc Hà Nội để tìm hiểu về hình tượng Hà Nội trong các sáng tác âm nhạc</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[- Thưởng thức ca khúc “Cửa ô nhịp phố” của nhạc sĩ Trương Ngọc Ninh (Ca sĩ Hồ Quỳnh Hương thể hiện) và cùng nghe những chia sẻ của nhạc sĩ về hình tượng Hà Nội trong các sáng tác âm nhạc.
+- Thưởng thức bản nhạc “Truyền thuyết Hồ Gươm” (nhạc sĩ Hoàng Phúc Thắng), Nhạc sĩ Doãn Nguyên chuyển soạn cho Dàn nhạc bán cố điển Nhà Hát Đài TNVN.  
+- Thưởng thức ca khúc “Tôi yêu Việt Nam” (tác giả Giáp Thịnh)-ca khúc tham dự cuộc vận động sáng tác ca khúc Hát lên Việt Nam-Let’sing Vietnam do Đài TNVN tổ chức.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/10/05/vovlive_am_nhac_voi_cuoc_song_giai_phong_thu_do_2021.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 05 Oct 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Trò chuyện cùng BTV, MC Trần Tùng - Truyền hình Quốc phòng Việt Nam với ca khúc “Bộ đội ta chống dịch”</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[- Lắng nghe ca khúc “Anh hùng áo trắng”- món quà xúc động gửi tới các y bác sĩ đang ngày đêm trên tuyến đầu chống đại dịch Covid của tác giả Trần Thành Long và nghe những chia sẻ của anh về ca khúc này.
+- Lắng nghe ca khúc “Bộ đội ta chống dịch” của BTV, MC Trần Tùng, Truyền hình Quốc phòng Việt Nam và những chia sẻ của anh về hoàn cảnh ra đời của ca khúc này.
+- Thưởng thức các tác phẩm âm nhạc gửi về tham dự cuộc vận động sáng tác ca khúc Hát lên Việt Nam-Let’sing Vietnam do Đài TNVN tổ chức:  “Hòn vọng phu trên đất Việt” (tác giả Vũ Trung, lời thơ Văn Trọng Hùng), “Trường ca sông Hồng” (tác giả Nguyễn Vĩnh Tiến)]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/09/28/vovlive_am_nhac_voi_cuoc_song_bo_doi_ta_chong_dich.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 28 Sep 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Trò chuyện cùng nhạc sĩ Cát Vận về giá trị tác phẩm âm nhạc “Nam Bộ kháng chiến” của tác giả Tạ Thanh Sơn kỷ niệm 76 năm ngày Nam Bộ kháng chiến (23/9/1945-23/9/2021)</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[- Lắng nghe ca khúc “Nam Bộ kháng chiến” (tác giả Tạ Thanh Sơn) và những chia sẻ của nhạc sĩ Cát Vận về giá trị nghệ thuật và giá trị lịch sử của ca khúc này.
+- Gặp gỡ nhạc sĩ Đỗ Hoàng Linh cùng 2 ca khúc tham dự cuộc vận động sáng tác ca khúc “Hát lên Việt Nam-Let’sing Vietnam” do Đài TNVN tổ chức: Đảng chắp cánh lời ru, Em Đambri tỏa nắng.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/09/21/vovlive_am_nhac_voi_cuoc_song_tro_chuyen_nhac_si_cat_van_ve_ca_khuc_nam_bo_khang_chien.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 21 Sep 2021 19:00:00 +0700</pubDate>
+    </item>
   </channel>
 </rss>
