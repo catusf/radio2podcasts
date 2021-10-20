@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 12 Oct 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 19 Oct 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 12 Oct 2021 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 19 Oct 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Âm nhạc với cuộc sống</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Amnhacvoicuocsong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>“Những chuyến tàu không số”: Ca khúc xúc động nhắc nhớ về công lao của những người chiến sĩ, kí ức về con đường Hồ Chí Minh huyền thoại.</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[Kỷ niệm 60 năm ngày mở đường Hồ Chí Minh trên biển (23/10/1961 – 23/10/2021), thưởng thức ca khúc “Những chuyến tàu không số” (âm nhạc: nhạc sĩ Hoàng Trong, Lời thơ: Nguyễn Địch Long, trình bày: ca sĩ Lê Anh Dũng) và lắng nghe những chia sẻ của nhạc sĩ Hoàng Trọng  cùng nhà thơ Nguyễn Địch Long về ca khúc này.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/10/19/vovlive_am_nhac_voi_cuoc_song_nhung_chuyen_tau_khong_so.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 19 Oct 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Gặp gỡ nhạc sĩ Tuấn Nghĩa cùng hai ca khúc cổ vũ, động viên y bác sĩ và những lực lượng đang ngày đêm trên tuyến đầu chống đại dịch Covid 19: “Anh ơi anh nhớ về”, và “Ranh giới”</title>
       <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
@@ -51,15 +59,6 @@
       <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2021/09/28/vovlive_am_nhac_voi_cuoc_song_bo_doi_ta_chong_dich.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 28 Sep 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Trò chuyện cùng nhạc sĩ Cát Vận về giá trị tác phẩm âm nhạc “Nam Bộ kháng chiến” của tác giả Tạ Thanh Sơn kỷ niệm 76 năm ngày Nam Bộ kháng chiến (23/9/1945-23/9/2021)</title>
-      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[- Lắng nghe ca khúc “Nam Bộ kháng chiến” (tác giả Tạ Thanh Sơn) và những chia sẻ của nhạc sĩ Cát Vận về giá trị nghệ thuật và giá trị lịch sử của ca khúc này.
-- Gặp gỡ nhạc sĩ Đỗ Hoàng Linh cùng 2 ca khúc tham dự cuộc vận động sáng tác ca khúc “Hát lên Việt Nam-Let’sing Vietnam” do Đài TNVN tổ chức: Đảng chắp cánh lời ru, Em Đambri tỏa nắng.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/09/21/vovlive_am_nhac_voi_cuoc_song_tro_chuyen_nhac_si_cat_van_ve_ca_khuc_nam_bo_khang_chien.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 21 Sep 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
