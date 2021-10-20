@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 19 Oct 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 20 Oct 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 19 Oct 2021 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 20 Oct 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Kinh nghiệm tiêm vaccine cho trẻ em ở các nước</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Trong bối cảnh dịch bệnh COVID-19 vẫn diễn biến phức tạp, sau khi đạt được các mục tiêu tiêm chủng cho người trưởng thành, nhiều nước đã bắt đầu triển khai các chiến dịch tiêm chủng cho trẻ em - dù còn thận trọng. Ở mỗi nước, chiến dịch và quy định các nhóm tuổi trẻ em tiến hành tiêm chủng là khác nhau, nhưng mục tiêu cuối cùng đều là tăng tỷ lệ bao phủ vaccine, khống chế đại dịch từ đó tạo điều kiện tốt nhất để trẻ em được đến trường, học tập và sinh hoạt trong bối cảnh “bình thường mới”.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/10/20/vovlive_sukienvabinhluan_kinh_nghiem_tiem_-vaccine_-cho-_tre_o_cac_nuoc.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 20 Oct 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Đấu tranh ở Hollywood và những góc khuất hậu trường</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2021/10/15/vovlive_sukienvabinhluan_khoi_dong_du_lich_trong_dieu_kien_binh_thuong_moi.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 15 Oct 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Giải pháp nào cho ô nhiễm tiếng ồn ở Ấn Độ</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Bất cứ ai, sống gần một con đường đông đúc sẽ thấy tiếng ồn giao thông là một mối phiền toái nghiêm trọng. Nói đến tiếng ồn giao thông đô thị thì không thể không nhắc tới Ấn Độ, quốc gia đông dân thứ 2 thế giới. Ở những đô thị lớn, âm thanh trên đường phố không chỉ có tiếng động cơ mà còn cả tiếng còi xe ồn ã. Đặc biệt là vào giờ cao điểm, tình trạng này gây nhiều phiền toái  đến nỗi Bộ Trưởng giao thông Ấn Độ mới đây cho biết đang xem xét luật có thể tay thế tiếng còi xe inh ỏi bằng tiếng nhạc. Đây hẳn là một giải pháp khá khác biệt, bởi hãy thử hình dung Ấn Độ ra sao nếu vào giờ tan tầm đường phố bỗng trở thành một bản giao hưởng với tiếng sao hay tiếng dương cầm.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/10/14/vovlive_sukienvabanluan_giai_phap_nao_cho_an_do.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 14 Oct 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
