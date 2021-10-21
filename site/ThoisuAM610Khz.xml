@@ -24,6 +24,14 @@
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Khẩn trương tiêm vắc xin cho lao động công nghiệp và vận tải - Thời sự 5g30 21/10/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/khan-truong-tiem-vac-xin-cho-lao-dong-cong-nghiep-va-van-tai-thoi-su-5g30-21-10-2021-416089.html</link>
+      <description><![CDATA[05:30 - 21/10/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/khan-truong-tiem-vac-xin-cho-lao-dong-cong-nghiep-va-van-tai-thoi-su-5g30-21-10-2021-416089.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/10/21/AMThoisu05h30p211021.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 21 Oct 2021 12:30:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Quốc hội thảo luận ở tổ về tình hình kinh tế - xã hội - Thời sự 11g00 2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/quoc-hoi-thao-luan-o-to-ve-tinh-hinh-kinh-te-xa-hoi-thoi-su-11g00-2021-416088.html</link>
       <description><![CDATA[11:00 - 21/10/2021]]></description>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-tiep-nhan-them-gan-27-ty-dong-va-400-tan-gao-thoi-su-17g00-20-10-2021-416027.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/10/20/ts17-201021.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 21 Oct 2021 00:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chuyện chưa kể về những phụ nữ tham gia tuyến đầu chống dịch - Thời sự 11g00 20/10/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/chuyen-chua-ke-ve-nhung-phu-nu-tham-gia-tuyen-dau-chong-dich-thoi-su-11g00-20-10-2021-415983.html</link>
-      <description><![CDATA[11:00 - 20/10/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/chuyen-chua-ke-ve-nhung-phu-nu-tham-gia-tuyen-dau-chong-dich-thoi-su-11g00-20-10-2021-415983.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/10/20/ts11-201021.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 20 Oct 2021 18:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
