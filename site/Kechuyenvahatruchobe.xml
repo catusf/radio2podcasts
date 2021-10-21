@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 01 Jan 2000 07:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 11 Oct 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 01 Jan 2000 07:00:00 +0700</pubDate>
+    <pubDate>Mon, 11 Oct 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,5 +23,29 @@
     </itunes:owner>
     <itunes:subtitle>Kể chuyện và hát ru cho bé</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Kechuyenvahatruchobe.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Con nai thần11/10/2021</title>
+      <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/con-nai-than-c43-33938.aspx</link>
+      <description><![CDATA[Thuở ấy, trong rừng sâu có vị chúa tể của loài nai. Chúa nai đã giúp cô gái nghèo vượt qua nguy hiểm khó khăn. Với phép thuật của mình, chúa nai còn có thể làm được điều gì nữa? Mối quan hệ giữa chúa nai và cô gái nghèo sẽ đi về đâu? (Kể chuyện và hát ru 11/10/2021)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/con-nai-than-c43-33938.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2021_10/v2_1110_21h45_ke_chuyen_hat_ru_1110202123.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 11 Oct 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Chú mèo ba chân  11/10/2021</title>
+      <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/chu-meo-ba-chan-c43-33937.aspx</link>
+      <description><![CDATA[Con mèo có bốn chân. Bốn chân ấy giúp nó di chuyển được thuận tiện, làm mọi việc nhanh nhẹn. Nhưng nếu một con mèo nào đó bị mất một chân thì sẽ gặp những bất tiện gì, nó có buồn nhiều về điều ấy không? (Kể chuyện và hát ru 24/09/2021)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/chu-meo-ba-chan-c43-33937.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2021_10/v2_2409_21h45_ke_chuyen_va_hat_ru_1110202122.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 11 Oct 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Sự tích con cua  11/10/2021</title>
+      <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/su-tich-con-cua-c43-33936.aspx</link>
+      <description><![CDATA[Ngày xửa ngày xưa có cô bé tốt bụng tên là Ma-ri-a. Ngay từ nhỏ cô đã mồ cô mẹ và phải sống với người mẹ kế khó tính. Bà có con gái là Tai-iang lúc nào cũng bắt nạt Ma-ri-a.  Ai sẽ giúp đỡ Ma-ri-a những lúc gặp phải khó khăn trong cuộc sống... (Kể chuyện và hát ru 22/10/2021)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/su-tich-con-cua-c43-33936.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2021_10/v2_2209_21h45_ke_chuyen_va_hat_ru_1110202122.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 11 Oct 2021 19:00:00 +0700</pubDate>
+    </item>
   </channel>
 </rss>

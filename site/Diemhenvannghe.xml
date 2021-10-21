@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 01 Jan 2000 07:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 18 Oct 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 01 Jan 2000 07:00:00 +0700</pubDate>
+    <pubDate>Mon, 18 Oct 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,5 +23,29 @@
     </itunes:owner>
     <itunes:subtitle>Điểm hẹn văn nghệ</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Diemhenvannghe.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Đón đọc báo Văn nghệ số 42 ra ngày 16/10 /202118/10/2021</title>
+      <link>http://vov6.vov.vn/diem-hen-van-nghe/don-doc-bao-van-nghe-so-42-ra-ngay-1610-2021-c158-33951.aspx</link>
+      <description><![CDATA[báo Văn nghệ, CHUYẾN TÀU QUA THÀNH PHỐ, nhà văn. Nguyễn Thị Mai Phương, NHÀ TẠC TƯỢNG, Trần Thúc Hà]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/don-doc-bao-van-nghe-so-42-ra-ngay-1610-2021-c158-33951.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_10/diem_bao_van_nghe_1810202111.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 18 Oct 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>“Điều kỳ diệu”: Câu chuyện phi thường từ những con người rất đỗi bình thường  17/10/2021</title>
+      <link>http://vov6.vov.vn/diem-hen-van-nghe/dieu-ky-dieu-cau-chuyen-phi-thuong-tu-nhung-con-nguoi-rat-doi-binh-thuong-c158-33948.aspx</link>
+      <description><![CDATA[Tiểu thuyết đầu tay viết về trẻ em của nhà văn R.J.Palacio không chỉ chứa chan tình thương mà còn đầy ắp sự ấm áp dành cho một số phận thiếu may mắn. R.J.Palacio đã biến tác phẩm “Điều kỳ diệu” trở thành quà tặng cuộc sống cho hàng triệu người trên thế giới. (Điểm hẹn văn nghệ 09/10/2021)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/dieu-ky-dieu-cau-chuyen-phi-thuong-tu-nhung-con-nguoi-rat-doi-binh-thuong-c158-33948.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/v2_0910_18h30_diem_hen_van_nghe_1710202122.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 17 Oct 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Nguyễn Xuân Khánh - Một nụ cười mỉm, một nghiệp văn xuôi 15/10/2021</title>
+      <link>http://vov6.vov.vn/diem-hen-van-nghe/nguyen-xuan-khanh-mot-nu-cuoi-mim-mot-nghiep-van-xuoi-c158-33945.aspx</link>
+      <description><![CDATA[NXB Phụ nữ Việt Nam vừa cho ra mắt tập sách “Nguyễn Xuân Khánh - Một nụ cười mỉm, một nghiệp văn xuôi”- tuyển chọn các bài viết hay về nhà văn Nguyễn Xuân Khánh, một nhà văn lớn của văn học hiện đại Việt Nam vừa tạ thế giữa năm 2021.]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/nguyen-xuan-khanh-mot-nu-cuoi-mim-mot-nghiep-van-xuoi-c158-33945.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_10/gts_nguyen_xuan_khanh_mot_nu_cuoi_mim_1510202111.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 15 Oct 2021 19:00:00 +0700</pubDate>
+    </item>
   </channel>
 </rss>
