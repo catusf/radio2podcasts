@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 21 Oct 2021 13:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 22 Oct 2021 13:47:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 21 Oct 2021 13:00:00 +0700</pubDate>
+    <pubDate>Fri, 22 Oct 2021 13:47:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Sài Gòn buổi sáng - 22/10/2021</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-22-10-2021-416148.html</link>
+      <description><![CDATA[06:47 - 22/10/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-22-10-2021-416148.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/10/22/fmsgbs06h00p221021-20211022063029.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 22 Oct 2021 13:47:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Sài Gòn Buổi Sáng - 21/10/2021</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-21-10-2021-416090.html</link>
       <description><![CDATA[06:00 - 21/10/2021]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-21-10-2021-416090.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/10/21/FMSGBS06h00p211021.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 21 Oct 2021 13:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Ngày đặc biệt để tôn vinh phụ nữ Việt Nam - Sài Gòn buổi sáng 20/10/2021</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/ngay-dac-biet-de-ton-vinh-phu-nu-viet-nam-sai-gon-buoi-sang-20-10-2021-415959.html</link>
-      <description><![CDATA[06:00 - 20/10/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/ngay-dac-biet-de-ton-vinh-phu-nu-viet-nam-sai-gon-buoi-sang-20-10-2021-415959.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/10/20/sgbs-201021.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 20 Oct 2021 13:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
