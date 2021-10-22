@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 20 Oct 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 21 Oct 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 20 Oct 2021 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 21 Oct 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Quan hệ Nga - NATO liệu đã dứt tình?</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Cuộc chiến ngoại giao giữa Nga và Tổ chức Hiệp ước Bắc Đại Tây Dương (NATO) đang ngày một nóng lên sau quyết định Nga sẽ tạm đình chỉ phái bộ của mình tại NATO và cũng sẽ đóng cửa phái bộ liên lạc của NATO tại Nga vào đầu tháng 11 tới. Đây là biện pháp trả đũa cứng rắn của phía Nga trước quyết định của NATO liên quan đến việc trục xuất các nhân viên phái đoàn quan sát viên của Nga tại tổ chức này. Việc cả hai bên Nga và NATO có những hành động đáp trả cứng rắn lẫn nhau đang đẩy mối quan hệ giữa hai bên vốn “cơm chẳng lành, canh chẳng ngọt” trước lằn ranh đỏ. Vậy đâu là nguồn cơn khiến mối quan hệ này có thể đổ vỡ?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/10/22/vovlive_vandequocte_quanhenganatolieudaduttinh.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 21 Oct 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Động thái Taliban từ chối hợp tác với Mỹ chống lại IS-K tại Afghanistan</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2021/10/18/vovlive_vandequocte_thegioidungtruocbovuckhunghoangnangluong.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 18 Oct 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Nóng chiến sự ở Syria</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Chiến sự ở Syria lại nóng lên với một loạt động thái làm gia tăng căng thẳng của các bên liên quan. Trước các vụ không kích ngày một gia tăng từ Israel, chính phủ Syria đã kích hoạt hệ thống phòng không nhằm ngăn chặn và hạn chế thiệt hại. Trong khi đó, nước láng giềng Thổ Nhĩ Kỳ đang chuẩn bị triển khai chiến dịch quân sự mới tại Syria. Tình hình ở Syria trở nên trầm trọng hơn cũng đã buộc quân đội Nga bắt đầu chuyển giao các loại vũ khí mới tới Syria. Những động thái cứng rắn từ các bên liệu có đẩy cuộc chiến ở Syria trước lằn ranh đỏ.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/10/15/vovlive_vandequocte_nongchiensuosyria.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 15 Oct 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
