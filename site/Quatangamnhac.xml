@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 17 Oct 2021 17:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 24 Oct 2021 17:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 17 Oct 2021 17:00:00 +0700</pubDate>
+    <pubDate>Sun, 24 Oct 2021 17:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Quà tặng âm nhạc trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Quatangamnhac.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Tình cha - Quà tặng âm nhạc 24/10/2021</title>
+      <link>https://radio.voh.com.vn/qua-tang-am-nhac/tinh-cha-qua-tang-am-nhac-24-10-2021-416345.html</link>
+      <description><![CDATA[10:00 - 24/10/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/tinh-cha-qua-tang-am-nhac-24-10-2021-416345.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/10/24/qtan-241021.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 24 Oct 2021 17:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Giấc mơ Sài Gòn - Quà tặng âm nhạc 17/10/2021</title>
       <link>https://radio.voh.com.vn/qua-tang-am-nhac/giac-mo-sai-gon-qua-tang-am-nhac-17-10-2021-415726.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/hay-yeu-doi-qua-tang-am-nhac-26-9-2021-413580.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/09/25/qtan-260921.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 26 Sep 2021 17:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Cho tôi xin một vé đi tuổi thơ - Quà tặng âm nhạc 19/9/2021</title>
-      <link>https://radio.voh.com.vn/qua-tang-am-nhac/cho-toi-xin-mot-ve-di-tuoi-tho-qua-tang-am-nhac-19-9-2021-412988.html</link>
-      <description><![CDATA[10:00 - 19/09/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/cho-toi-xin-mot-ve-di-tuoi-tho-qua-tang-am-nhac-19-9-2021-412988.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/09/19/qtan-190921-chanh-xac.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 19 Sep 2021 17:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
