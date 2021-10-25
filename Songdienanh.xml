@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 18 Oct 2021 03:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 25 Oct 2021 03:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 18 Oct 2021 03:00:00 +0700</pubDate>
+    <pubDate>Mon, 25 Oct 2021 03:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sóng điện ảnh trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Songdienanh.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Diễn viên Hàn bị tẩy chay vì scandal - Cơ hội nào để trở lại? (Kỳ 1) - Khung hình thứ 25 24/10/2021</title>
+      <link>https://radio.voh.com.vn/khung-hinh-thu-25/dien-vien-han-bi-tay-chay-vi-scandal-co-hoi-nao-de-tro-lai-ky-1-khung-hinh-thu-25-24-10-2021-416421.html</link>
+      <description><![CDATA[20:00 - 24/10/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/khung-hinh-thu-25/dien-vien-han-bi-tay-chay-vi-scandal-co-hoi-nao-de-tro-lai-ky-1-khung-hinh-thu-25-24-10-2021-416421.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/10/24/khunghinh-241021.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 25 Oct 2021 03:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Top những bộ phim Tây Ban Nha hấp dẫn nhất (Kỳ cuối) - Khung hình thứ 25 17/10/2021</title>
       <link>https://radio.voh.com.vn/khung-hinh-thu-25/top-nhung-bo-phim-tay-ban-nha-hap-dan-nhat-ky-cuoi-khung-hinh-thu-25-17-10-2021-415728.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/khung-hinh-thu-25/cac-moi-tinh-chi-em-tren-man-anh-han-quoc-ky-cuoi-khung-hinh-thu-25-28-9-2021-413633.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/09/26/khunghinh25-260921.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 28 Sep 2021 16:05:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>12 series phim nổi bật của Hàn Quốc sẽ bị rút khỏi nền tảng Netflix - Khung hình thứ 25 19/9/2021</title>
-      <link>https://radio.voh.com.vn/khung-hinh-thu-25/12-series-phim-noi-bat-cua-han-quoc-se-bi-rut-khoi-nen-tang-netflix-khung-hinh-thu-25-19-9-2021-412987.html</link>
-      <description><![CDATA[20:00 - 19/09/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/khung-hinh-thu-25/12-series-phim-noi-bat-cua-han-quoc-se-bi-rut-khoi-nen-tang-netflix-khung-hinh-thu-25-19-9-2021-412987.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/09/19/FMKhunghinhthuhaimuoilam20h00p190921.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 20 Sep 2021 03:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
