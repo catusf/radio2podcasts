@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 26 Oct 2021 00:48:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 26 Oct 2021 13:35:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 26 Oct 2021 00:48:00 +0700</pubDate>
+    <pubDate>Tue, 26 Oct 2021 13:35:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Bài 3: Nhiều chính sách nhân văn dành cho trẻ mồ côi – Thời sự 5g30 26/10/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/bai-3-nhieu-chinh-sach-nhan-van-danh-cho-tre-mo-coi-thoi-su-5g30-26-10-2021-416554.html</link>
+      <description><![CDATA[06:35 - 26/10/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/bai-3-nhieu-chinh-sach-nhan-van-danh-cho-tre-mo-coi-thoi-su-5g30-26-10-2021-416554.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/10/26/AMThoisu05h30p261021.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 26 Oct 2021 13:35:00 +0700</pubDate>
+    </item>
     <item>
       <title>Dự kiến, dịch vụ ăn uống tại chỗ không dùng máy lạnh, không bán rượu, bia - Thời sự 17g 25/10/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/du-kien-dich-vu-an-uong-tai-cho-khong-dung-may-lanh-khong-ban-ruou-bia-thoi-su-17g-25-10-2021-416519.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/hoat-dong-the-duc-the-thao-tro-lai-nhung-vua-tap-vua-lo-thoi-su-11g00-25-10-2021-416513.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/10/25/AMThoisu11h00p251021-Copy.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 25 Oct 2021 23:29:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Bài 2: Dang rộng vòng tay, tiếp lửa yêu thương - Thời sự 5g30 25/10/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/bai-2-dang-rong-vong-tay-tiep-lua-yeu-thuong-thoi-su-5g30-25-10-2021-416504.html</link>
-      <description><![CDATA[16:22 - 25/10/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/bai-2-dang-rong-vong-tay-tiep-lua-yeu-thuong-thoi-su-5g30-25-10-2021-416504.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/10/25/AMThoisu05h30p251021-Copy.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 25 Oct 2021 23:22:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
