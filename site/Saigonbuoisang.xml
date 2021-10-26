@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 25 Oct 2021 23:28:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 26 Oct 2021 15:14:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 25 Oct 2021 23:28:00 +0700</pubDate>
+    <pubDate>Tue, 26 Oct 2021 15:14:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Sài Gòn buổi sáng - 26/10/2021</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-26-10-2021-416565.html</link>
+      <description><![CDATA[08:14 - 26/10/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-26-10-2021-416565.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/10/26/FMSGBS06h00p261021.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 26 Oct 2021 15:14:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Sài Gòn buổi sáng - 25/10/2021</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-25-10-2021-416508.html</link>
       <description><![CDATA[16:28 - 25/10/2021]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-25-10-2021-416508.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/10/25/FMSGBS06h00p251021-Copy.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 25 Oct 2021 23:28:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Sài Gòn buổi sáng - 24/10/2021</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-24-10-2021-416328.html</link>
-      <description><![CDATA[07:35 - 24/10/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-24-10-2021-416328.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/10/24/FMsaigonbuoisang06h00p241021-Copy.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 24 Oct 2021 14:35:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
