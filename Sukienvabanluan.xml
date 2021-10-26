@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 22 Oct 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 26 Oct 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 22 Oct 2021 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 26 Oct 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Tình thế "khó hiểu" của Nga trong dịch Covid-19</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Những ngày qua, báo chí liên tục đăng tải thông tin về việc dịch bệnh Covid-19 diễn biến nguy hiểm tại Nga với số ca mắc mới và số ca tử vong tính theo ngày lập kỷ lục. Việc một quốc gia, một khu vực trở thành tâm dịch không phải là chuyện lạ trong gần hai năm qua khi mà biểu đồ dịch bệnh toàn cầu liên tục “xoay vần” theo đường lây lan của virus, theo chu trình phân phối vaccine. Nhưng những gì đang diễn ra với Nga khiến nhiều người đặt dấu hỏi bởi Nga là quốc gia đầu tiên sản xuất thành công vaccine Covid-19 – cách được coi là duy nhất để kiểm soát dịch bệnh cho tới thời điểm này.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/10/26/vovlive_sukienvabinhluan_tinh_the_kho_hieu_cua_nga.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 26 Oct 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Lào nỗ lực trở thành "quốc gia kết nối khu vực"</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2021/10/20/vovlive_sukienvabinhluan_kinh_nghiem_tiem_-vaccine_-cho-_tre_o_cac_nuoc.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 20 Oct 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đấu tranh ở Hollywood và những góc khuất hậu trường</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Nhắc đến Hollywood, người ta hình dung đến những bộ phim bom tấn, đến ánh hào quang của thảm đỏ cũng như sự nổi tiếng, thế nhưng đằng sau đó là những “góc khuất” không chỉ của các ngôi sao mà cả các nhân viên hậu trường cũng có những nỗi niềm riêng. Những nỗi niềm riêng ấy đã chất chứa thành một cuộc đấu tranh chưa từng có với hàng chục nghìn nhân viên đồng ý tham gia đình công trên khắp nước Mỹ nếu không đạt được thỏa thuận với các nhà sản xuất phim. Vào phút chót, một thỏa thuận đã đạt được song câu chuyện này có lẽ vẫn chưa dừng lại và có thể kéo theo những cuộc đấu tranh tương tự của những người lao động không thuộc ngành giải trí Mỹ.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/10/19/vovlive_sukienvabinhluan_dau_tranh_goc_khuat_o_-hollywood-_va_nhung_goc_khuat_hau_truong.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 19 Oct 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
