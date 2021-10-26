@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 25 Oct 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 26 Oct 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 25 Oct 2021 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 26 Oct 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Nỗ lực ứng phó và phục hồi sau đại dịch Covid-19 được bàn thảo tại Hội nghị cấp cao ASEAN 38-39</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Chuỗi Hội nghị Cấp cao ASEAN lần thứ 38 và 39, các Hội nghị Cấp cao giữa ASEAN với các đối tác chính thức khai mạc theo hình thức trực tuyến với sự chủ trì của Brunei, diễn ra từ ngày 26-28/10. Đây là loạt sự kiện cấp cao và quan trọng nhất của ASEAN nhằm quyết định tất cả các vấn đề then chốt liên quan đến việc thực hiện các mục tiêu của ASEAN. Trong bối cảnh tình hình thế giới và khu vực diễn biến nhanh chóng và phức tạp, các điểm nóng an ninh truyền thống, phi truyền thống không ngừng gia tăng; đặc biệt là đại dịch Covid-19 hay tình hình Myanmar, Biển Đông... đang đặt ra những thách thức chưa từng có. Liệu ASEAN sẽ tiếp cận và xử lý loạt thách thức này như thế nào tại chuỗi Hội nghị quan trọng lần này?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/10/26/vovlive_vandequocte_nolucungphovaphuchoisaudaidichcovid19taihoinghicapcaoasean.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 26 Oct 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Tình hình Afghanistan vẫn “rối như canh hẹ”</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2021/10/22/vovlive_vandequocte_quanhenganatolieudaduttinh.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 21 Oct 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Động thái Taliban từ chối hợp tác với Mỹ chống lại IS-K tại Afghanistan</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Tổ chức Nhà nước Hồi giáo Khorasan (IS-K) mới đây nhận trách nhiệm thực hiện hàng loạt vụ tấn công vào các nhà thờ Hồi giáo tại Afghanistan, gần nhất là vụ đánh bom liều chết tại nhà thờ ở Kandahar làm hơn 40 người thiệt mạng. Các vụ việc xảy ra với tần suất ngày một nhiều kể từ khi Taliban giành quyền kiểm soát đất nước khiến nhiều người đặt câu hỏi về năng lực của Taliban trong việc thực hiện cam kết đảm bảo không để Afghanistan trở thành mảnh đất dung dưỡng các phần tử khủng bố. Mặc dù vấp phải sự hoài nghi của cộng đồng quốc tế về năng lực nhưng tại cuộc gặp gỡ trực tiếp đầu tiên giữa phái đoàn Taliban và Mỹ tại Doha (Qatar), Taliban đã từ chối hợp tác với Mỹ trong việc chống lại IS-K. Việc quyết tâm một mình đối phó với IS-K có thể đẩy Taliban vào “thế khó” như thế nào?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/10/20/vovlive_vandequocte_dongthaitalibantuchoihoptacvoimychonglainhanhis.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 20 Oct 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
