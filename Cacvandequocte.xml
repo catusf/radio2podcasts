@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 22 Oct 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 25 Oct 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 22 Oct 2021 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 25 Oct 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Tình hình Afghanistan vẫn “rối như canh hẹ”</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Đã hai tháng kể từ khi lực lượng Taliban giành quyền kiểm soát thủ đô Kabul và lập ra chính quyền mới, Afghanistan vẫn chìm trong bất ổn. Tình hình Afghanistan vẫn đang “rối như canh hẹ” khi các bên liên quan vẫn đang thăm dò các bước đi của nhau. Trong khi đó, năng lực quản trị đất nước của chính phủ lâm thời Taliban lập ra vẫn còn để ngỏ. Tương lai nào cho Afghanistan, câu hỏi không mới nhưng vẫn luôn được dư luận quốc tế đặt ra?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/10/25/vovlive_vandequocte_tinhhinhafghanistanvanroinhucanhhe.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 25 Oct 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Bình Nhưỡng phóng tên lửa, bán đảo Triều Tiên lại “dậy sóng"</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2021/10/20/vovlive_vandequocte_dongthaitalibantuchoihoptacvoimychonglainhanhis.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 20 Oct 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>An ninh biển Đen trong chiến lược của Mỹ</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Sau khi công bố các chiến lược an ninh ở khu vực Ấn Độ Dương – Thái Bình Dương, chính quyền Mỹ đang dành sự quan tâm đến các khu vực quan trọng khác trên thế giới, trong đó Biển Đen – một cửa ngõ an ninh, chính trị ở Đông Nam Âu và cũng là “điểm nóng” cạnh tranh ảnh hưởng của Nga và phương Tây. Chuyến công du 3 nước Rumani, Gruzia và Ukraine của Bộ trưởng Quốc phòng Mỹ trước khi tham dự Hội nghị Bộ trưởng Tổ chức Hợp tác Bắc Đại Tây Dương (NATO) là một phần trong nỗ lực củng cố cam kết với khu vực này. Biển Đen tiếp tục là khu vực có lợi ích địa chính trị đối với Mỹ. Trong khi đó, NATO đang trong quá trình soạn thảo định hướng chiến lược trong tương lai bao gồm cả sự hiện diện ở Biển Đen. Chuyến công du của người đứng đầu Bộ quốc phòng Mỹ ở thời điểm này sẽ mang nhiều ý nghĩa.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/10/19/vovlive_vandequocte_anninhbiendentrongchienluoccuamy.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 19 Oct 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
