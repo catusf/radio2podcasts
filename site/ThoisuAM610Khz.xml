@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 27 Oct 2021 12:30:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 27 Oct 2021 18:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 27 Oct 2021 12:30:00 +0700</pubDate>
+    <pubDate>Wed, 27 Oct 2021 18:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Giá phân bón tăng cao gây cho khó khăn cho người nông dân - Thời sự 11g00 27/10/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/gia-phan-bon-tang-cao-gay-cho-kho-khan-cho-nguoi-nong-dan-thoi-su-11g00-27-10-2021-416662.html</link>
+      <description><![CDATA[11:00 - 27/10/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/gia-phan-bon-tang-cao-gay-cho-kho-khan-cho-nguoi-nong-dan-thoi-su-11g00-27-10-2021-416662.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/10/27/ts11-271021.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 27 Oct 2021 18:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Tạm ngưng các chốt kiểm soát cửa ngõ TPHCM từ 18h chiều ngày 26/10 - Thời sự 05g30 27/10/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tam-ngung-cac-chot-kiem-soat-cua-ngo-tphcm-tu-18h-chieu-ngay-26-10-thoi-su-05g30-27-10-2021-416627.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/giai-phap-nao-de-hoc-sinh-som-quay-lai-truong-hoc-thoi-su-17g00-26-10-2021-416592.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/10/26/AMThoisu17h00p261021.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 27 Oct 2021 01:54:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Tập trung cho Đại hội Phụ nữ cấp quận huyện, chuẩn bị tốt cho Đại hộ cấp TP - Thời sự 11g 26/10/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tap-trung-cho-dai-hoi-phu-nu-cap-quan-huyen-chuan-bi-tot-cho-dai-ho-cap-tp-thoi-su-11g-26-10-2021-416578.html</link>
-      <description><![CDATA[12:29 - 26/10/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tap-trung-cho-dai-hoi-phu-nu-cap-quan-huyen-chuan-bi-tot-cho-dai-ho-cap-tp-thoi-su-11g-26-10-2021-416578.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/10/26/AMThoisu11h00p261021.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 26 Oct 2021 19:29:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
