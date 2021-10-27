@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 19 Oct 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 26 Oct 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 19 Oct 2021 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 26 Oct 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,15 @@
     </itunes:owner>
     <itunes:subtitle>Âm nhạc với cuộc sống</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Amnhacvoicuocsong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Gặp gỡ Nhạc sĩ, Trung tá Phạm Anh Thông,Trưởng Đoàn Văn công-Phòng không- Không quân để tìm hiểu về cuộc sống của người nghệ sĩ, chiến sĩ</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[- Thưởng thức ca khúc “Nơi ấy tình yêu bắt đầu” (Âm nhạc: Phạm Anh Thông, Lời thơ: Nguyễn Hồng Sơn, Trình bày: Ca sĩ Hoàng Viết Danh) và cùng nghe những chia sẻ của Nhạc sĩ, Trung tá Phạm Anh Thông về cuộc sống của một người nghệ sĩ, chiến sĩ
+- Thưởng thức các ca khúc tham dự cuộc vận động sáng tác ca khúc Hát lên Việt Nam-Let’sing Vietnam do Đài TNVN tổ chức: “Lúc vui lúc buồn có tôi có bạn” (tác giả Nguyễn Lê Tâm), và “Trái tim quê hương sẽ yên bình”.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/10/26/vovlive_am_nhac_voi_cuoc_song_tro_chuyen_pham_anh_thong.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 26 Oct 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>“Những chuyến tàu không số”: Ca khúc xúc động nhắc nhớ về công lao của những người chiến sĩ, kí ức về con đường Hồ Chí Minh huyền thoại.</title>
       <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
@@ -49,16 +58,6 @@
       <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2021/10/05/vovlive_am_nhac_voi_cuoc_song_giai_phong_thu_do_2021.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 05 Oct 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Trò chuyện cùng BTV, MC Trần Tùng - Truyền hình Quốc phòng Việt Nam với ca khúc “Bộ đội ta chống dịch”</title>
-      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[- Lắng nghe ca khúc “Anh hùng áo trắng”- món quà xúc động gửi tới các y bác sĩ đang ngày đêm trên tuyến đầu chống đại dịch Covid của tác giả Trần Thành Long và nghe những chia sẻ của anh về ca khúc này.
-- Lắng nghe ca khúc “Bộ đội ta chống dịch” của BTV, MC Trần Tùng, Truyền hình Quốc phòng Việt Nam và những chia sẻ của anh về hoàn cảnh ra đời của ca khúc này.
-- Thưởng thức các tác phẩm âm nhạc gửi về tham dự cuộc vận động sáng tác ca khúc Hát lên Việt Nam-Let’sing Vietnam do Đài TNVN tổ chức:  “Hòn vọng phu trên đất Việt” (tác giả Vũ Trung, lời thơ Văn Trọng Hùng), “Trường ca sông Hồng” (tác giả Nguyễn Vĩnh Tiến)]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/09/28/vovlive_am_nhac_voi_cuoc_song_bo_doi_ta_chong_dich.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 28 Sep 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
