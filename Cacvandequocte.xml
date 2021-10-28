@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 27 Oct 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 28 Oct 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 27 Oct 2021 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 28 Oct 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Chính biến ở Sudan: Điểm bất ổn mới ở châu Phi</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Những diễn biến dồn dập và phức tạp ở Sudan với việc quân đội giải tán chính phủ, chia sẻ quyền lực của đất nước và ban bố tình trạng khẩn cấp, đang đe dọa đẩy đất nước ở quốc gia châu Phi này rơi vào tình trạng khủng hoảng chính trị và kéo theo những hậu quả khó lường. Đây không phải lần đầu tiên Sudan đối mặt với những bất ổn chính trị. Những diễn biến vừa qua đã dập tắt hy vọng về chuyển giao quyền lực một cách hòa bình sau khi cựu Tổng thống Omar al-Bashir bị lật đổ vào năm 2019. Đối mặt với những thách thức do đại dịch Covid-19 gây ra, kinh tế khó khăn và bất ổn chính trị, Sudan có nguy cơ tiếp tục rơi vào vòng xoáy bế tắc và nguy cơ khủng hoảng nhân đạo mới.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/10/28/vovlive_vandequocte_chinhbienosudan.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 28 Oct 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Phiên họp đặc biệt của Liên minh Châu Âu nhằm cải cách thị trường năng lượng</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2021/10/25/vovlive_vandequocte_tinhhinhafghanistanvanroinhucanhhe.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 25 Oct 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Bình Nhưỡng phóng tên lửa, bán đảo Triều Tiên lại “dậy sóng"</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Ngày 21/10, Hội đồng Bảo an Liên hợp quốc tiến hành họp khẩn về vấn đề Triều Tiên, chỉ một ngày sau khi Bình Nhưỡng thông báo đã thử nghiệm thành công tên lửa đạn đạo phóng từ tàu ngầm. Tuy nhiên, không có tuyên bố chung nào được đưa ra trong cuộc họp cho thấy quan điểm vẫn khác biệt giữa các nước trong tiếp cận và xử lý điểm nóng này. Trong khi đó, Triều Tiên dường như vẫn chưa có dấu hiệu muốn ngừng các vụ thử tên lửa kể từ khi bắt đầu nối lại hồi đầu tháng 9 vừa qua. Chưa hết, bán đảo Triều Tiên còn đang “tăng nhiệt” với các động thái tăng cường quân sự của Hàn Quốc, báo hiệu một cuộc chạy đua vũ trang mới.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/10/22/vovlive_vandequocte_binhnhuongphongtenlua.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 22 Oct 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
