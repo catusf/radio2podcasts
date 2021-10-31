@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 31 Oct 2021 00:41:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 31 Oct 2021 12:30:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 31 Oct 2021 00:41:00 +0700</pubDate>
+    <pubDate>Sun, 31 Oct 2021 12:30:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>TPHCM sẽ mở lại thêm 15 chợ - Thời sự 5g30 31/10/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-se-mo-lai-them-15-cho-thoi-su-5g30-31-10-2021-417007.html</link>
+      <description><![CDATA[05:30 - 31/10/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-se-mo-lai-them-15-cho-thoi-su-5g30-31-10-2021-417007.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/10/31/AMThoisu05h30p311021.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 31 Oct 2021 12:30:00 +0700</pubDate>
+    </item>
     <item>
       <title>Đối thoại Chiến lược quốc gia Việt Nam - Diễn đàn Kinh tế thế giới – Thời sự 17g00 30/10/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/doi-thoai-chien-luoc-quoc-gia-viet-nam-dien-dan-kinh-te-the-gioi-thoi-su-17g00-30-10-2021-416965.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/quoc-hoi-thao-luan-ke-hoach-co-cau-lai-nen-kinh-te-giai-doan-2021-2025-thoi-su-11g00-30-10-2021-416964.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/10/30/amthoisu11h00p301021-20211030104929.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 31 Oct 2021 00:06:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Phục hồi kinh tế TPHCM - Góc nhìn từ đại biểu Quốc hội – Thời sự 5g30 30/10/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/phuc-hoi-kinh-te-tphcm-goc-nhin-tu-dai-bieu-quoc-hoi-thoi-su-5g30-30-10-2021-416942.html</link>
-      <description><![CDATA[09:55 - 30/10/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/phuc-hoi-kinh-te-tphcm-goc-nhin-tu-dai-bieu-quoc-hoi-thoi-su-5g30-30-10-2021-416942.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/10/30/amthoisu05h30p301021-20211029230252.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 30 Oct 2021 16:55:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
