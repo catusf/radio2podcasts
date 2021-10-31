@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 24 Oct 2021 17:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 31 Oct 2021 17:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 24 Oct 2021 17:00:00 +0700</pubDate>
+    <pubDate>Sun, 31 Oct 2021 17:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Quà tặng âm nhạc trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Quatangamnhac.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Những điều nhỏ nhoi - Quà tặng âm nhạc 31/10/2021</title>
+      <link>https://radio.voh.com.vn/qua-tang-am-nhac/nhung-dieu-nho-nhoi-qua-tang-am-nhac-31-10-2021-417000.html</link>
+      <description><![CDATA[10:00 - 31/10/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/nhung-dieu-nho-nhoi-qua-tang-am-nhac-31-10-2021-417000.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/10/31/qtan-311021.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 31 Oct 2021 17:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Tình cha - Quà tặng âm nhạc 24/10/2021</title>
       <link>https://radio.voh.com.vn/qua-tang-am-nhac/tinh-cha-qua-tang-am-nhac-24-10-2021-416345.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/khuc-hat-chim-troi-qua-tang-am-nhac-3-10-2021-414419.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/10/03/qtan-031021.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 03 Oct 2021 17:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Hãy yêu đời - Quà tặng âm nhạc 26/9/2021</title>
-      <link>https://radio.voh.com.vn/qua-tang-am-nhac/hay-yeu-doi-qua-tang-am-nhac-26-9-2021-413580.html</link>
-      <description><![CDATA[10:00 - 26/09/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/hay-yeu-doi-qua-tang-am-nhac-26-9-2021-413580.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/09/25/qtan-260921.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 26 Sep 2021 17:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
