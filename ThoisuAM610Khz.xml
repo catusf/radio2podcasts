@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 01 Nov 2021 18:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 02 Nov 2021 00:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 01 Nov 2021 18:00:00 +0700</pubDate>
+    <pubDate>Tue, 02 Nov 2021 00:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>5,8 triệu người dân thành phố Hồ Chí Minh đã nhận hỗ trợ đợt 3 - Thời sự 17g00 01/11/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/5-8-trieu-nguoi-dan-thanh-pho-ho-chi-minh-da-nhan-ho-tro-dot-3-thoi-su-17g00-01-11-2021-417126.html</link>
+      <description><![CDATA[17:00 - 01/11/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/5-8-trieu-nguoi-dan-thanh-pho-ho-chi-minh-da-nhan-ho-tro-dot-3-thoi-su-17g00-01-11-2021-417126.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/11/01/AMThoisu17h00p011121.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 02 Nov 2021 00:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Thủ tướng Phạm Minh Chính bắt đầu chuyến tham dự COP26 - Thời sự 11g00 01/11/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/thu-tuong-pham-minh-chinh-bat-dau-chuyen-tham-du-cop26-thoi-su-11g00-01-11-2021-417101.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/so-doanh-nghiep-quay-tro-lai-hoat-dong-tang-gan-30-trong-thang-10-thoi-su-5g30-01-11-2021-417077.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/11/01/AMThoisu05h30p011121.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 01 Nov 2021 12:30:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>TP Hồ Chí Minh khẩn trương hoàn tất việc chi hỗ trợ đợt 3 – Thời Sự 17g00 31/10/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tp-ho-chi-minh-khan-truong-hoan-tat-viec-chi-ho-tro-dot-3-thoi-su-17g00-31-10-2021-417033.html</link>
-      <description><![CDATA[21:45 - 31/10/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tp-ho-chi-minh-khan-truong-hoan-tat-viec-chi-ho-tro-dot-3-thoi-su-17g00-31-10-2021-417033.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/10/31/AMThoisu17h00p311021A.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 01 Nov 2021 04:45:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
