@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 29 Oct 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 01 Nov 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 29 Oct 2021 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 01 Nov 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,28 +24,27 @@
     <itunes:subtitle>Điểm hẹn văn nghệ</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Diemhenvannghe.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Viết lịch sử, trường hợp Đinh Phương29/10/2021</title>
+      <title>Báo Văn nghệ số 44 ra ngày 30/101/11/2021</title>
+      <link>http://vov6.vov.vn/diem-hen-van-nghe/bao-van-nghe-so-44-ra-ngay-3010-c158-33988.aspx</link>
+      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/bao-van-nghe-so-44-ra-ngay-3010-c158-33988.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_11/diem_bao_van_nghe_11120218.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 01 Nov 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Thư mùa dịch: “Yêu nhau thời covid”  1/11/2021</title>
+      <link>http://vov6.vov.vn/diem-hen-van-nghe/thu-mua-dich-yeu-nhau-thoi-covid-c158-33986.aspx</link>
+      <description><![CDATA[Chúng ta đang sống trong những ngày bình thường mới. Con người chấp nhận sự tồn tại của virut corona như một thứ thiên tai địch họa, cảnh giác với nó và nếu cần sẵn sàng đối phó một cách bình tĩnh chủ động hơn. Những ngày kinh hoàng với dịch bệnh đã qua đi, song chắc hẳn mỗi chúng ta sẽ không bao giờ quên được. Từ đó con người dường như trân quí hơn về những ngày đang sống, những giá trị đang thụ hưởng. Tản văn “Yêu nhau thời covid” của nhà văn Sương Nguyệt Minh như một khúc nhạc thư giãn nhắc nhớ về những vui buồn đã qua.]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/thu-mua-dich-yeu-nhau-thoi-covid-c158-33986.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_11/yeu_nhau_thoi_covid_11120218.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 01 Nov 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Viết lịch sử, trường hợp Đinh Phương 29/10/2021</title>
       <link>http://vov6.vov.vn/diem-hen-van-nghe/viet-lich-su-truong-hop-dinh-phuong-c158-33978.aspx</link>
       <description><![CDATA[Bốn năm, kể từ khi ra mắt tiểu thuyết đầu tay mang tên “Nhụy khúc”, nhà văn Đinh Phương đã trở lại văn đàn bằng “Nắng Thổ Tang”. Cuốn sách do NXB Hội Nhà văn và Công ty sách Tao Đàn ấn hành đã lập tức gây chú ý. Ấn tượng từ nhan đề lẫn cách mở màn thông qua lời kể của một đao phủ nhưng tiểu thuyết của Đinh Phương, như thường lệ, không phải là một sáng tác dễ đọc. Với lối viết “sương mù”, cây bút trẻ đầy triển vọng này có thể đem lại bất ngờ gì cho người đọc ở tác phẩm này? Chúng ta cùng nghe trích đọc bài “Viết lịch sử, trường hợp Đinh Phương” của nhà phê bình Nguyễn Hoài Nam.]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/viet-lich-su-truong-hop-dinh-phuong-c158-33978.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_10/gts_nang_tho_tang_2910202111.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 29 Oct 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Nhà văn Triệu Xuân – Chấm ngòi bút vào nỗi đau niềm oan khổ của con người 29/10/2021</title>
-      <link>http://vov6.vov.vn/diem-hen-van-nghe/nha-van-trieu-xuan-cham-ngoi-but-vao-noi-dau-niem-oan-kho-cua-con-nguoi-c158-33977.aspx</link>
-      <description><![CDATA[Nhà văn Triệu Xuân tên thật là Triệu Xuân Điến, sinh năm 1952 tại Hải Dương. Ông tốt nghiệp khoa Văn, Đại học Tổng hợp Hà Nội. Sau đó, ông tình nguyện vào chiến trường miền Nam làm phóng viên Đài Phát thanh Giải phóng, thường trú khu V – Trung Trung bộ. Sau năm 1975, ông làm việc tại Đài Tiếng nói Việt Nam tại thành phố Hồ Chí Minh, từng giữ chức Trưởng ban biên tập chương trình phát thanh dành cho Nam Bộ. Ông ghi dấu ấn trong lòng độc giả qua loạt tác phẩm như “Trả giá” – đạt Giải thưởng Văn học của Hội Nhà văn Việt Nam, “Bụi đời”, “Sóng lừng”, “Những người mở đất”, “Cõi mê”… Bên cạnh việc sáng tác, nhà văn Triệu Xuân cũng là người dành nhiều tâm huyết với văn hóa đọc. Kể cả trong thời gian chống chọi với bệnh tật, ông vẫn duy trì trang web trieuxuan.info, lan tỏa nhiều thông tin về văn chương nghệ thuật. Tiễn biệt ông, người hiền đã trả trang “giấy trắng” cho “bụi đời” để về với “cõi mê”, mời quý vị và các bạn cùng nghe bài của tác giả Khải Mông có nhan đề “Nhà văn Triệu Xuân – Chấm ngòi bút vào nỗi đau niềm oan khổ của con người”.]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/nha-van-trieu-xuan-cham-ngoi-but-vao-noi-dau-niem-oan-kho-cua-con-nguoi-c158-33977.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_10/tuong_nho_nha_van_trieu_xuan_2910202111.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 29 Oct 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Lan Khai - Hình dung và tâm tưởng 25/10/2021</title>
-      <link>http://vov6.vov.vn/diem-hen-van-nghe/lan-khai-hinh-dung-va-tam-tuong-c158-33972.aspx</link>
-      <description><![CDATA[Ra mắt vào thời gian giãn cách, bộ sách “Bạn văn bạn mình” của NXB Kim Đồng có phần “thiệt thòi” hơn khi phải khoảng 2 tháng sau khi phát hành mới có thể đến tay bạn đọc. Dẫu vậy, không thể phủ nhận 10 cuốn chân dung văn học trong bộ sách đã giúp độc giả có cảm nhận sâu sắc hơn về nhiều tác giả, tác phẩm, đồng thời cung cấp nguồn tư liệu dồi dào, chân thực về lịch sử văn chương. Với bộ sách đẹp về hình thức, chất về nội dung này, Ban Văn học Nghệ thuật (VOV6) đã có dịp giới thiệu tới quý vị và các bạn cuốn “Mười chín chân dung nhà văn cùng thời” của nhà văn Vũ Bằng. Trong chương trình hôm nay, chúng ta sẽ cùng tìm hiểu một mảnh ghép khác trong bộ “Bạn văn bạn mình” – cuốn “Hình dung và tâm tưởng” của nhà văn Lan Khai.]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/lan-khai-hinh-dung-va-tam-tuong-c158-33972.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_10/gts_hinh_dung_va_tam_tuong_2510202114.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 25 Oct 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
