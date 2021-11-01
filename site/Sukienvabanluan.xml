@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 28 Oct 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 01 Nov 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 28 Oct 2021 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 01 Nov 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,22 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Đông Nam Á chạy đua mở cửa lại du lịch trước mùa cao điểm</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Thời điểm cuối năm vốn là mùa cao điểm du lịch tại Đông Nam Á nhắm tới đối tượng là du khách từ các nước phương tây. Không muốn bị chậm chân, nhiều quốc gia trong khu vực thời gian gần đây liên tục đưa ra những thông báo và các bước chuẩn bị cho lộ trình nới lỏng, mở cửa trở lại để thu hút khách quốc tế. Tuy nhiên, làm sao mở cửa cho an toàn khi đại dịch Covid-19 vẫn diễn biến phức tạp?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/11/01/vovlive_sukienvabinhluan_dong_nam_a_chay_dua_mo_cua_lai_du_lich_truoc_mua_cao_diem.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 01 Nov 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>“Facebook Papers” và cơn khủng hoảng tồi tệ nhất trong lịch sử!</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Bị nhân viên tố cáo, gặp khủng hoảng truyền thông hay phải ra điều trần..., “gã khổng lồ” Facebook không phải chưa từng trải qua những rắc rối này trong quá khứ. Thế nhưng, khi tất cả ập đến cùng lúc với mức độ nghiêm trọng hơn nhiều, có vẻ như Facebok đang rơi vào một cuộc khủng hoảng chưa từng có trong lịch sử 17 năm tồn tại của công ty, kể từ khi thành lập năm 2004. Mới đây, cũng với con số 17 - nhưng là 17 cơ quan báo chí, truyền thông lớn nhất của Mỹ đã tuyên bố sẽ hợp tác công bố những nội dung bất hợp pháp trong tài liệu nội bộ 1.000 trang phơi bày những mặt trái của Facebook.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/11/01/vovlive_sukienvabanluan_facebook.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 01 Nov 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>“Chiến lược Net Zero” của Anh: Từ kế hoạch đến thực tế.</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -38,22 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2021/10/26/vovlive_sukienvabinhluan_tinh_the_kho_hieu_cua_nga.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 26 Oct 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Lào nỗ lực trở thành "quốc gia kết nối khu vực"</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Trung Quốc vừa bàn giao cho Lào đoàn tàu cao tốc đầu tiên có tên Triệu Voi. Đoàn tàu này sẽ chạy trên tuyến đường cao tốc nối từ thủ đô Vientiane của Lào tới tỉnh Vân Nam của Trung Quốc, đánh dấu bước ngoặt trong lịch sử phát triển ngành giao thông vận tải đường sắt của Lào. Tuyến đường sắt cao tốc Vân Nam – Vientiane là một trong những nỗ lực của Lào nhằm phát triển mạng lưới cao tốc đường bộ, hiện thực hóa giấc mơ biến Lào trở thành “quốc gia kết nối khu vực”.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/10/22/vovlive_sukienvabinhluan_lao_no_luc_tro_thanh_quoc_gia_ket_noi_khu_vuc.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 22 Oct 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Dự thảo Nghị định về Luật Bảo vệ môi trường vẫn gây khó doanh nghiệp</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Dự thảo Nghị định hướng dẫn thực hiện Luật Bảo vệ môi trường năm 2020 do Bộ Tài nguyên và Môi trường soạn thảo dù mới trong quá trình thẩm định, nhưng đã vấp phải sự phản ứng của nhiều chuyên gia và cộng đồng doanh nghiệp. Có đến 11 Hiệp hội, ngành hàng đã gửi chung kiến nghị lên Thủ tướng Chính phủ về 6 nội dung bất cập trong Dự thảo Nghị định mang tính thiếu khả thi, thậm chí là chưa phù hợp với Luật. Trong khi đó, Dự thảo Nghị định này được cho là sẽ ảnh hưởng sâu rộng đến hầu hết các ngành sản xuất và điều chỉnh các vấn đề quan trọng đối với các doanh nghiệp.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/10/22/vovlive_sukienvabinhluan_du_thao_nghi_dinh_ve_luat_bao_ve_moi_truong_van_gay_kho_doanh_nghiep.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 22 Oct 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
