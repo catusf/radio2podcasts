@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 28 Oct 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 29 Oct 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 28 Oct 2021 19:00:00 +0700</pubDate>
+    <pubDate>Fri, 29 Oct 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>ASEAN thống nhất tập trung xây dựng cộng đồng, giải quyết các thách thức chung</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Sau 3 ngày hoạt động tích cực và sôi nổi, chuỗi Hội nghị Cấp cao ASEAN lần thứ 38 và 39, Hội nghị Cấp cao giữa ASEAN với các đối tác do Brunei chủ trì, tổ chức theo hình thức trực tuyến đã kết thúc với nhiều kết quả đáng ghi nhận. Nổi bật là Tuyên bố Chủ tịch tập trung vào các nỗ lực xây dựng cộng đồng, ứng phó với Covid-19 và thúc đẩy phục hồi kinh tế hậu đại dịch. Nhiều nội dung quan trọng khác cũng được các nhà lãnh đạo thảo luận, ghi nhận và thông qua, liên quan đến các vấn đề khu vực và quốc tế cùng quan tâm, các thách thức an ninh truyền thống và phi truyền thống như an ninh biển, tình hình Myanmar...]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/11/01/vovlive_vandequocte_aseanthongnhattaptrungxaydungcongdong.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 29 Oct 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Chính biến ở Sudan: Điểm bất ổn mới ở châu Phi</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2021/10/26/vovlive_vandequocte_nolucungphovaphuchoisaudaidichcovid19taihoinghicapcaoasean.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 26 Oct 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Tình hình Afghanistan vẫn “rối như canh hẹ”</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Đã hai tháng kể từ khi lực lượng Taliban giành quyền kiểm soát thủ đô Kabul và lập ra chính quyền mới, Afghanistan vẫn chìm trong bất ổn. Tình hình Afghanistan vẫn đang “rối như canh hẹ” khi các bên liên quan vẫn đang thăm dò các bước đi của nhau. Trong khi đó, năng lực quản trị đất nước của chính phủ lâm thời Taliban lập ra vẫn còn để ngỏ. Tương lai nào cho Afghanistan, câu hỏi không mới nhưng vẫn luôn được dư luận quốc tế đặt ra?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/10/25/vovlive_vandequocte_tinhhinhafghanistanvanroinhucanhhe.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 25 Oct 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
