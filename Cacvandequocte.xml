@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 29 Oct 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 02 Nov 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 29 Oct 2021 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 02 Nov 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Mỹ và EU chấm dứt “cuộc chiến” thép nhôm: Bước tiến mới trong quan hệ song phương</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Mỹ và Liên minh Châu Âu (EU) đạt thỏa thuận chấm dứt cuộc chiến thuế quan trong ngành xuất nhập khẩu nhôm và thép do cựu Tổng thống Donald Trump phát động năm 2018. Chính quyền Mỹ trước đó đã áp đặt mức thuế 25% đối với thép Châu Âu và 10% thuế đối với nhôm từ tháng 6/2018 vì lý do an ninh quốc gia. Châu Âu đáp trả bằng cách đưa vụ việc lên Tổ chức Thương mại Thế giới và áp đặt các biện pháp trả đũa lên tới gần 7,8 tỷ USD hàng hóa xuất khẩu của Mỹ. Thỏa thuận vừa đạt được không chỉ là bước tiến mới cho quan hệ đồng minh giữa Mỹ và EU mà đó sẽ là một thách thức với Trung Quốc, nước sản xuất hơn một nửa lượng thép của thế giới.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/11/02/vovlive_vandequocte_myvaeuchamdutcuochienthepnhom.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 02 Nov 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>ASEAN thống nhất tập trung xây dựng cộng đồng, giải quyết các thách thức chung</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2021/10/27/vovlive_vandequocte_phienhopdacbietcualienminhchauau(1).mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 27 Oct 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Nỗ lực ứng phó và phục hồi sau đại dịch Covid-19 được bàn thảo tại Hội nghị cấp cao ASEAN 38-39</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Chuỗi Hội nghị Cấp cao ASEAN lần thứ 38 và 39, các Hội nghị Cấp cao giữa ASEAN với các đối tác chính thức khai mạc theo hình thức trực tuyến với sự chủ trì của Brunei, diễn ra từ ngày 26-28/10. Đây là loạt sự kiện cấp cao và quan trọng nhất của ASEAN nhằm quyết định tất cả các vấn đề then chốt liên quan đến việc thực hiện các mục tiêu của ASEAN. Trong bối cảnh tình hình thế giới và khu vực diễn biến nhanh chóng và phức tạp, các điểm nóng an ninh truyền thống, phi truyền thống không ngừng gia tăng; đặc biệt là đại dịch Covid-19 hay tình hình Myanmar, Biển Đông... đang đặt ra những thách thức chưa từng có. Liệu ASEAN sẽ tiếp cận và xử lý loạt thách thức này như thế nào tại chuỗi Hội nghị quan trọng lần này?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/10/26/vovlive_vandequocte_nolucungphovaphuchoisaudaidichcovid19taihoinghicapcaoasean.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 26 Oct 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
