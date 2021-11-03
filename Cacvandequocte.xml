@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 02 Nov 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 03 Nov 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 02 Nov 2021 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 03 Nov 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Quyền đánh bắt cá thách thức quan hệ Anh – Pháp thời “hậu Brexit”</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Sau những căng thẳng và mâu thuẫn kéo dài thời gian qua, tranh cãi về thương mại giữa Anh và Pháp liên quan đến quyền đánh bắt cá kể từ khi Anh rời khỏi Liên minh Châu Âu (EU) mới đây đã có dấu hiệu hạ nhiệt. Bên lề Hội nghị lần thứ 26 các bên tham gia Công ước khung của Liên hợp quốc về Biến đổi khí hậu (COP26) ở Anh, phía Pháp đã hoãn các biện pháp trừng phạt dự kiến sẽ áp dụng với Anh từ ngày 2/11. Hai bên cũng nhất trí sẽ gặp nhau đàm phán vào ngày 4/11 để thống nhất quan điểm. Dù đã có những động thái hạ nhiệt, nhưng theo giới quan sát, liệu các bên đã thực sự thiện chí để hướng tới các thỏa thuận giải quyết bất đồng mâu thuẫn hay chưa?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/11/03/vovlive_vandequocte_quyendanhbatcathachthucquanheanhphapthoihaubrexit.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 03 Nov 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Mỹ và EU chấm dứt “cuộc chiến” thép nhôm: Bước tiến mới trong quan hệ song phương</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2021/10/28/vovlive_vandequocte_chinhbienosudan.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 28 Oct 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Phiên họp đặc biệt của Liên minh Châu Âu nhằm cải cách thị trường năng lượng</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Các Bộ trưởng Năng lượng của Liên minh Châu Âu (EU) vừa tiến hành một cuộc họp đặc biệt tại Luxembourg để tìm kiếm giải pháp cho cuộc khủng hoảng năng lượng đang bủa vây Châu Âu. Các nước thành viên EU đã đưa ra những đề xuất khác nhau liên quan đến cải cách thị trường năng lượng, điển hình như đề xuất tách bạch thị trường điện khỏi thị trường khí đốt của Pháp. Tuy nhiên, phiên họp một lần nữa cho thấy tình trạng mỗi nước sử dụng nguồn cung năng lượng khác nhau khiến việc đi tới giải pháp thống nhất của EU là rất khó khăn.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/10/27/vovlive_vandequocte_phienhopdacbietcualienminhchauau(1).mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 27 Oct 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
