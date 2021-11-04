@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 04 Nov 2021 02:44:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 04 Nov 2021 12:30:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 04 Nov 2021 02:44:00 +0700</pubDate>
+    <pubDate>Thu, 04 Nov 2021 12:30:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Khi hàng quán trở lại - đảm bảo 5K vẫn là trên hết! - Thời sự 05g30 4/11/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/khi-hang-quan-tro-lai-dam-bao-5k-van-la-tren-het-thoi-su-05g30-4-11-2021-417350.html</link>
+      <description><![CDATA[05:30 - 04/11/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/khi-hang-quan-tro-lai-dam-bao-5k-van-la-tren-het-thoi-su-05g30-4-11-2021-417350.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/11/04/ts05g30-041121.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 04 Nov 2021 12:30:00 +0700</pubDate>
+    </item>
     <item>
       <title>Bồi dưỡng kiến thức xây dựng đảng cho lãnh đạo, PV-BTV các cơ quan báo chí - Thời sự 17g00 3/11/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/boi-duong-kien-thuc-xay-dung-dang-cho-lanh-dao-pv-btv-cac-co-quan-bao-chi-thoi-su-17g00-3-11-2021-417310.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/viet-nam-thi-diem-don-khach-du-lich-quoc-te-tu-15-11-thoi-su-11g00-3-11-2021-417275.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/11/03/AMThoisu11h00p031121.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 03 Nov 2021 18:32:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Khẩu trang và rửa tay – hai việc không thể lơ là! - Thời sự 5g30 3/11/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/khau-trang-va-rua-tay-hai-viec-khong-the-lo-la-thoi-su-5g30-3-11-2021-417240.html</link>
-      <description><![CDATA[06:40 - 03/11/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/khau-trang-va-rua-tay-hai-viec-khong-the-lo-la-thoi-su-5g30-3-11-2021-417240.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/11/03/amthoisu05h30p031121-20211102231436.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 03 Nov 2021 13:40:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

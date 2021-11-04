@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 26 Oct 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 02 Nov 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 26 Oct 2021 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 02 Nov 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,15 @@
     </itunes:owner>
     <itunes:subtitle>Âm nhạc với cuộc sống</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Amnhacvoicuocsong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Kỷ niệm 104 năm Cách mạng Tháng Mười Nga (07/11/1917-07/11/2021): Gặp gỡ ca sĩ Yên Hà cùng album những bài hát Nga - “Niềm hy vọng”</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[- Thưởng thức các ca khúc lọt vào vòng chung khảo cuộc vận động sáng tác ca khúc “Hát lên Việt Nam-Let’s Sing Vietnam” của Đài TNVN: Hát lên Việt Nam (Âm nhạc: Trần Nhật Dương, Lời thơ: Trần Nhật Minh); Amazing Việt Nam (Sáng tác: Nguyễn Thành Long) 
+ - Kỷ niệm 104 năm Cách mạng Tháng Mười Nga (07/11/1917-07/11/2021) lắng nghe những chia sẻ của ca sĩ Yên Hà về album những bài hát Nga “Niềm Hy vọng” và cùng thưởng thức các ca khúc Đàn Sếu, Niềm hy vọng …]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/11/04/vovlive_am_nhac_voi_cuoc_song_104_nam_cach_mang_thang_muoi_nga_yen_ha.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 02 Nov 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Gặp gỡ Nhạc sĩ, Trung tá Phạm Anh Thông,Trưởng Đoàn Văn công-Phòng không- Không quân để tìm hiểu về cuộc sống của người nghệ sĩ, chiến sĩ</title>
       <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
@@ -48,16 +57,6 @@
       <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2021/10/12/vovlive_am_nhac_voi_cuoc_song_nhac_si_tuan_nghia.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 12 Oct 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Kỷ niệm ngày Giải phóng Thủ đô 10/10/2021, cùng gặp gỡ nhạc sĩ Trương Ngọc Ninh-Chủ tịch Hội Âm nhạc Hà Nội để tìm hiểu về hình tượng Hà Nội trong các sáng tác âm nhạc</title>
-      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[- Thưởng thức ca khúc “Cửa ô nhịp phố” của nhạc sĩ Trương Ngọc Ninh (Ca sĩ Hồ Quỳnh Hương thể hiện) và cùng nghe những chia sẻ của nhạc sĩ về hình tượng Hà Nội trong các sáng tác âm nhạc.
-- Thưởng thức bản nhạc “Truyền thuyết Hồ Gươm” (nhạc sĩ Hoàng Phúc Thắng), Nhạc sĩ Doãn Nguyên chuyển soạn cho Dàn nhạc bán cố điển Nhà Hát Đài TNVN.  
-- Thưởng thức ca khúc “Tôi yêu Việt Nam” (tác giả Giáp Thịnh)-ca khúc tham dự cuộc vận động sáng tác ca khúc Hát lên Việt Nam-Let’sing Vietnam do Đài TNVN tổ chức.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/10/05/vovlive_am_nhac_voi_cuoc_song_giai_phong_thu_do_2021.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 05 Oct 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
