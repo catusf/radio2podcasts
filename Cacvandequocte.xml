@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 03 Nov 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 05 Nov 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 03 Nov 2021 19:00:00 +0700</pubDate>
+    <pubDate>Fri, 05 Nov 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,22 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Nga – Belarus thúc đẩy hội nhập</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Ngày 4/11, Tổng thống Nga và Tổng thống Belarus đã tham gia cuộc họp trực tuyến của Hội đồng Nhà nước Tối cao Nga – Belarus. Trong đó, hai nhà lãnh đạo đã thảo luận về 28 thỏa thuận nhằm thúc đẩy hội nhập giữa Nga và Belarus trong hàng loạt lĩnh vực như thương mại, lao động, tiền tệ, thuế, năng lượng, công nghiệp, nông nghiệp…, hướng tới hình thành một không gian kinh tế thống nhất giữa hai quốc gia. Việc Nga và Belarus thúc đẩy hội nhập được cho là có lợi cho cả hai bên trong bối cảnh địa chính trị khu vực đang có nhiều diễn biến phức tạp. Trong khi Nga cần một vùng đệm an toàn ở phía Tây giáp Châu Âu, thì Belarus cũng cần một chỗ dựa vững chắc khi đang bị các nước phương Tây áp đặt trừng phạt sau cuộc bầu cử năm 2020.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/11/05/vovlive_vandequocte_ngabelarusthucdayhoinhap.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 05 Nov 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Cam kết đầy tham vọng của Ấn Độ trong cuộc chiến chống biến đổi khí hậu</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Tại Hội nghị thượng đỉnh về khí hậu thế giới (COP26) đang diễn ra ở Glasgow (Anh), Ấn Độ - một trong ba nước có lượng khí phát thải gây ô nhiễm môi trường lớn nhất thế giới vừa đưa ra cam kết đến năm 2070, nước này sẽ đạt mục tiêu phát thải ròng bằng 0. Đồng thời, sẽ giảm 45% cường độ carbon của nền kinh tế vào năm 2030. Tuyên bố này của Thủ tướng Ấn Độ ngay lập tức thu hút sự chú ý của dư luận khi mà ngay trước khi khai mạc COP26, nước này đã từ chối công bố mục tiêu phát thải carbon ròng bằng 0. Vậy, những cam kết đầy tham vọng của Ấn Độ có ý nghĩa như thế nào với thế giới trong bối cảnh COP26 chính là cơ hội cuối cùng và tốt nhất để cứu hành tinh?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/11/05/vovlive_vandequocte_camketdaythamvongcuaandotrongcuochienchongbiendoikhihau.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 04 Nov 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Quyền đánh bắt cá thách thức quan hệ Anh – Pháp thời “hậu Brexit”</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -38,22 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2021/11/02/vovlive_vandequocte_myvaeuchamdutcuochienthepnhom.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 02 Nov 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>ASEAN thống nhất tập trung xây dựng cộng đồng, giải quyết các thách thức chung</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Sau 3 ngày hoạt động tích cực và sôi nổi, chuỗi Hội nghị Cấp cao ASEAN lần thứ 38 và 39, Hội nghị Cấp cao giữa ASEAN với các đối tác do Brunei chủ trì, tổ chức theo hình thức trực tuyến đã kết thúc với nhiều kết quả đáng ghi nhận. Nổi bật là Tuyên bố Chủ tịch tập trung vào các nỗ lực xây dựng cộng đồng, ứng phó với Covid-19 và thúc đẩy phục hồi kinh tế hậu đại dịch. Nhiều nội dung quan trọng khác cũng được các nhà lãnh đạo thảo luận, ghi nhận và thông qua, liên quan đến các vấn đề khu vực và quốc tế cùng quan tâm, các thách thức an ninh truyền thống và phi truyền thống như an ninh biển, tình hình Myanmar...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/11/01/vovlive_vandequocte_aseanthongnhattaptrungxaydungcongdong.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 29 Oct 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chính biến ở Sudan: Điểm bất ổn mới ở châu Phi</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Những diễn biến dồn dập và phức tạp ở Sudan với việc quân đội giải tán chính phủ, chia sẻ quyền lực của đất nước và ban bố tình trạng khẩn cấp, đang đe dọa đẩy đất nước ở quốc gia châu Phi này rơi vào tình trạng khủng hoảng chính trị và kéo theo những hậu quả khó lường. Đây không phải lần đầu tiên Sudan đối mặt với những bất ổn chính trị. Những diễn biến vừa qua đã dập tắt hy vọng về chuyển giao quyền lực một cách hòa bình sau khi cựu Tổng thống Omar al-Bashir bị lật đổ vào năm 2019. Đối mặt với những thách thức do đại dịch Covid-19 gây ra, kinh tế khó khăn và bất ổn chính trị, Sudan có nguy cơ tiếp tục rơi vào vòng xoáy bế tắc và nguy cơ khủng hoảng nhân đạo mới.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/10/28/vovlive_vandequocte_chinhbienosudan.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 28 Oct 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
