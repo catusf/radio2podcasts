@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 05 Nov 2021 15:13:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 05 Nov 2021 22:41:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 05 Nov 2021 15:13:00 +0700</pubDate>
+    <pubDate>Fri, 05 Nov 2021 22:41:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Đoàn kết là sức mạnh vượt qua khó khăn trong đại dịch - Thời sự 11g00 5/11/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/doan-ket-la-suc-manh-vuot-qua-kho-khan-trong-dai-dich-thoi-su-11g00-5-11-2021-417503.html</link>
+      <description><![CDATA[15:41 - 05/11/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/doan-ket-la-suc-manh-vuot-qua-kho-khan-trong-dai-dich-thoi-su-11g00-5-11-2021-417503.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/11/05/AMThoisu11h00p051121.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 05 Nov 2021 22:41:00 +0700</pubDate>
+    </item>
     <item>
       <title>Hội nghị COP26: ​"Cơ may cuối cùng và tốt nhất" để đạt mục tiêu khí hậu? - Thời sự 05g30 5/11/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/hoi-nghi-cop26-co-may-cuoi-cung-va-tot-nhat-de-dat-muc-tieu-khi-hau-thoi-su-05g30-5-11-2021-417466.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/xuat-khau-nong-lam-san-phuc-hoi-manh-me-thoi-su-17g00-4-11-2021-417440.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/11/04/ts17-041121.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 05 Nov 2021 00:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Phát hiện hơn 3.000 viên thuốc điều trị Covid-19 nhập lậu - Thời sự 11g00 4/11/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/phat-hien-hon-3-000-vien-thuoc-dieu-tri-covid-19-nhap-lau-thoi-su-11g00-4-11-2021-417397.html</link>
-      <description><![CDATA[11:00 - 04/11/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/phat-hien-hon-3-000-vien-thuoc-dieu-tri-covid-19-nhap-lau-thoi-su-11g00-4-11-2021-417397.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/11/04/ts11g-041121.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 04 Nov 2021 18:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
