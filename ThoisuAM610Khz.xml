@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 06 Nov 2021 18:03:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 06 Nov 2021 19:37:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 06 Nov 2021 18:03:00 +0700</pubDate>
+    <pubDate>Sat, 06 Nov 2021 19:37:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Tấm lòng của Công an TPHCM giữa đại dịch - Thời sự 11g00 6/11/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tam-long-cua-cong-an-tphcm-giua-dai-dich-thoi-su-11g00-6-11-2021-417576.html</link>
+      <description><![CDATA[12:37 - 06/11/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tam-long-cua-cong-an-tphcm-giua-dai-dich-thoi-su-11g00-6-11-2021-417576.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/11/06/AMThoisu11h00p061121sss.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 06 Nov 2021 19:37:00 +0700</pubDate>
+    </item>
     <item>
       <title>Dấu lặng sau cuộc chiến chống đại dịch - Thời sự 05g30 6/11/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/dau-lang-sau-cuoc-chien-chong-dai-dich-thoi-su-05g30-6-11-2021-417564.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/doan-ket-la-suc-manh-vuot-qua-kho-khan-trong-dai-dich-thoi-su-17g00-5-11-2021-417551.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/11/06/ts17g00-051121.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 06 Nov 2021 00:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đoàn kết là sức mạnh vượt qua khó khăn trong đại dịch - Thời sự 11g00 5/11/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/doan-ket-la-suc-manh-vuot-qua-kho-khan-trong-dai-dich-thoi-su-11g00-5-11-2021-417503.html</link>
-      <description><![CDATA[15:41 - 05/11/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/doan-ket-la-suc-manh-vuot-qua-kho-khan-trong-dai-dich-thoi-su-11g00-5-11-2021-417503.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/11/05/AMThoisu11h00p051121.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 05 Nov 2021 22:41:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
