@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 07 Nov 2021 13:41:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 07 Nov 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 07 Nov 2021 13:41:00 +0700</pubDate>
+    <pubDate>Sun, 07 Nov 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Tầm nhìn Hồ Chí Minh về Cách mạng Tháng Mười Nga – Thời sự 11g00 7/11/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tam-nhin-ho-chi-minh-ve-cach-mang-thang-muoi-nga-thoi-su-11g00-7-11-2021-417648.html</link>
+      <description><![CDATA[12:00 - 07/11/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tam-nhin-ho-chi-minh-ve-cach-mang-thang-muoi-nga-thoi-su-11g00-7-11-2021-417648.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/11/07/amthoisu11h00p071121-20211107102002.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 07 Nov 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Kỷ niệm 104 năm Cách mạng tháng Mười Nga – Thời sự 5g30 7/11/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/ky-niem-104-nam-cach-mang-thang-muoi-nga-thoi-su-5g30-7-11-2021-417627.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/gan-1-8-trieu-nguoi-lao-dong-tai-tphcm-duoc-ho-tro-tu-goi-30-000-ty-dong-thoi-su-17g00-6-11-2021-417615.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/11/06/ts17-061121.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 07 Nov 2021 00:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Tấm lòng của Công an TPHCM giữa đại dịch - Thời sự 11g00 6/11/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tam-long-cua-cong-an-tphcm-giua-dai-dich-thoi-su-11g00-6-11-2021-417576.html</link>
-      <description><![CDATA[12:37 - 06/11/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tam-long-cua-cong-an-tphcm-giua-dai-dich-thoi-su-11g00-6-11-2021-417576.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/11/06/AMThoisu11h00p061121sss.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 06 Nov 2021 19:37:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
