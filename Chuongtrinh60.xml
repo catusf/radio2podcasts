@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 07 Nov 2021 14:20:44 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 08 Nov 2021 14:21:16 +0100</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 07 Nov 2021 14:20:44 +0100</pubDate>
+    <pubDate>Mon, 08 Nov 2021 14:21:16 +0100</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>60'</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Chuongtrinh60.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>08-11-2021 Chương trình 60'</title>
+      <link>https://www.rfi.fr/vi/t%E1%BB%95ng-h%E1%BB%A3p/20211108-ch%C6%B0%C6%A1ng-tr%C3%ACnh-60-ph%C3%BAt</link>
+      <description><![CDATA[Chương trình ngày 08-11-2021 ]]></description>
+      <guid isPermaLink="false">https://www.rfi.fr/vi/t%E1%BB%95ng-h%E1%BB%A3p/20211108-ch%C6%B0%C6%A1ng-tr%C3%ACnh-60-ph%C3%BAt</guid>
+      <enclosure url="https://aod-rfi.akamaized.net/rfi/vietnamien/audio/modules/actu/202111/VN_60MN_2021_11_08.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 08 Nov 2021 14:21:16 +0100</pubDate>
+    </item>
     <item>
       <title>07-11-2021 Chương trình 60'</title>
       <link>https://www.rfi.fr/vi/t%E1%BB%95ng-h%E1%BB%A3p/20211107-ch%C6%B0%C6%A1ng-tr%C3%ACnh-60-ph%C3%BAt</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://www.rfi.fr/vi/t%E1%BB%95ng-h%E1%BB%A3p/20211104-ch%C6%B0%C6%A1ng-tr%C3%ACnh-60-ph%C3%BAt</guid>
       <enclosure url="https://aod-rfi.akamaized.net/rfi/vietnamien/audio/modules/actu/202111/VN_60MN_2021_11_04.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 04 Nov 2021 14:21:04 +0100</pubDate>
-    </item>
-    <item>
-      <title>03-11-2021 Chương trình 60'</title>
-      <link>https://www.rfi.fr/vi/t%E1%BB%95ng-h%E1%BB%A3p/20211103-ch%C6%B0%C6%A1ng-tr%C3%ACnh-60-ph%C3%BAt</link>
-      <description><![CDATA[Chương trình ngày 03-11-2021 ]]></description>
-      <guid isPermaLink="false">https://www.rfi.fr/vi/t%E1%BB%95ng-h%E1%BB%A3p/20211103-ch%C6%B0%C6%A1ng-tr%C3%ACnh-60-ph%C3%BAt</guid>
-      <enclosure url="https://aod-rfi.akamaized.net/rfi/vietnamien/audio/modules/actu/202111/VN_60MN_2021_11_03.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 03 Nov 2021 14:21:15 +0100</pubDate>
     </item>
   </channel>
 </rss>
