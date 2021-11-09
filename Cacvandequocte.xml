@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 05 Nov 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 09 Nov 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 05 Nov 2021 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 09 Nov 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,22 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Nguy cơ khủng hoảng “hậu bầu cử” tại Iraq sau vụ ám sát hụt Thủ tướng</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Dư luận khu vực và toàn cầu những giờ qua tiếp tục lên án vụ ám sát hụt nghiêm trọng nhằm vào Thủ tướng Iraq Mustafa al-Kadhimi cuối tuần trước ngay tại nhà riêng. Giới phân tích cảnh báo, hành động khủng bố “táo tợn” và nguy hiểm này có thể sớm đẩy Iraq rơi vào cảnh bạo loạn và khủng bố, thậm chí là một cuộc đảo chính chống lại hệ thống hiến pháp. Đáng nói, sự việc xảy ra khi làn sóng biểu tình tại thủ đô Baghdad đang có xu hướng biến thành bạo loạn nhằm phản đối kết quả bầu cử Quốc hội vừa diễn ra tại Iraq hồi tháng 10 vừa qua. Vậy những nguy cơ nào đang chờ đợi Iraq và Nhà lãnh đạo Mustapha?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/11/09/vovlive_vandequocte_nguycokhunghoanghaubaucu.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 09 Nov 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>APEC cùng hành động để phục hồi kinh tế hậu đại dịch</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Trong khuôn khổ Tuần lễ cấp cao Diễn đàn Hợp tác Kinh tế Châu Á - Thái Bình Dương (APEC) lần thứ 28 do New Zealand chủ trì, Hội nghị Bộ trưởng APEC sẽ diễn ra vào ngày 8 - 9/11, còn Hội nghị cấp cao APEC sẽ được tổ chức vào ngày 11 -12/11 theo hình thức trực tuyến. Với chủ đề xuyên suốt “Cùng phối hợp - Cùng hành động - Cùng tăng trưởng”, Hội nghị lần này mở ra cơ hội cho các nền kinh tế thành viên APEC cùng bàn thảo, đưa ra những cam kết hành động nhằm đối phó với cuộc khủng hoảng do dịch Covid-19 mang lại, để hướng tới phục hồi bền vững.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/11/09/vovlive_vandequocte_apeccunghanhdongdephuchoikinhtehaudaidich.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 08 Nov 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Nga – Belarus thúc đẩy hội nhập</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -38,22 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2021/11/05/vovlive_vandequocte_camketdaythamvongcuaandotrongcuochienchongbiendoikhihau.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 04 Nov 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Quyền đánh bắt cá thách thức quan hệ Anh – Pháp thời “hậu Brexit”</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Sau những căng thẳng và mâu thuẫn kéo dài thời gian qua, tranh cãi về thương mại giữa Anh và Pháp liên quan đến quyền đánh bắt cá kể từ khi Anh rời khỏi Liên minh Châu Âu (EU) mới đây đã có dấu hiệu hạ nhiệt. Bên lề Hội nghị lần thứ 26 các bên tham gia Công ước khung của Liên hợp quốc về Biến đổi khí hậu (COP26) ở Anh, phía Pháp đã hoãn các biện pháp trừng phạt dự kiến sẽ áp dụng với Anh từ ngày 2/11. Hai bên cũng nhất trí sẽ gặp nhau đàm phán vào ngày 4/11 để thống nhất quan điểm. Dù đã có những động thái hạ nhiệt, nhưng theo giới quan sát, liệu các bên đã thực sự thiện chí để hướng tới các thỏa thuận giải quyết bất đồng mâu thuẫn hay chưa?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/11/03/vovlive_vandequocte_quyendanhbatcathachthucquanheanhphapthoihaubrexit.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 03 Nov 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Mỹ và EU chấm dứt “cuộc chiến” thép nhôm: Bước tiến mới trong quan hệ song phương</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Mỹ và Liên minh Châu Âu (EU) đạt thỏa thuận chấm dứt cuộc chiến thuế quan trong ngành xuất nhập khẩu nhôm và thép do cựu Tổng thống Donald Trump phát động năm 2018. Chính quyền Mỹ trước đó đã áp đặt mức thuế 25% đối với thép Châu Âu và 10% thuế đối với nhôm từ tháng 6/2018 vì lý do an ninh quốc gia. Châu Âu đáp trả bằng cách đưa vụ việc lên Tổ chức Thương mại Thế giới và áp đặt các biện pháp trả đũa lên tới gần 7,8 tỷ USD hàng hóa xuất khẩu của Mỹ. Thỏa thuận vừa đạt được không chỉ là bước tiến mới cho quan hệ đồng minh giữa Mỹ và EU mà đó sẽ là một thách thức với Trung Quốc, nước sản xuất hơn một nửa lượng thép của thế giới.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/11/02/vovlive_vandequocte_myvaeuchamdutcuochienthepnhom.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 02 Nov 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
