@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 09 Nov 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 10 Nov 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 09 Nov 2021 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 10 Nov 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Mỹ nỗ lực hàn gắn mối quan hệ rạn nứt với Pháp sau thỏa thuận AUKUS</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Hoạt động ngoại giao của Mỹ ở Châu Âu trở nên sôi động thời gian này sau khi Tổng thống Mỹ Joe Biden tham dự loạt sự kiện ở Italia và Anh, Phó Tổng thống Kamala Harris cũng có chuyến thăm 5 ngày tới Pháp. Mặc dù là hai đồng minh truyền thống, song quan hệ Mỹ - Pháp trở nên xấu đi sau khi Washington tuyên bố thành lập Liên minh AUKUS với Anh và Australia, dẫn tới việc Australia hủy hợp đồng quốc phòng trị giá hàng chục tỷ đô la với Pháp. Vì thế, một trong những nội dung quan trọng nhất trong chuyến công du của bà Harris là hàn gắn mối quan hệ với Pháp, giúp hiện thực hóa chiến lược “đưa nước Mỹ trở lại” của chính quyền Mỹ hiện tại.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/11/10/vovlive_vandequocte_mynoluchanganmoiquanherannutvoiphapsauthoathuanaukus.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 10 Nov 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Nguy cơ khủng hoảng “hậu bầu cử” tại Iraq sau vụ ám sát hụt Thủ tướng</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2021/11/05/vovlive_vandequocte_ngabelarusthucdayhoinhap.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 05 Nov 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Cam kết đầy tham vọng của Ấn Độ trong cuộc chiến chống biến đổi khí hậu</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Tại Hội nghị thượng đỉnh về khí hậu thế giới (COP26) đang diễn ra ở Glasgow (Anh), Ấn Độ - một trong ba nước có lượng khí phát thải gây ô nhiễm môi trường lớn nhất thế giới vừa đưa ra cam kết đến năm 2070, nước này sẽ đạt mục tiêu phát thải ròng bằng 0. Đồng thời, sẽ giảm 45% cường độ carbon của nền kinh tế vào năm 2030. Tuyên bố này của Thủ tướng Ấn Độ ngay lập tức thu hút sự chú ý của dư luận khi mà ngay trước khi khai mạc COP26, nước này đã từ chối công bố mục tiêu phát thải carbon ròng bằng 0. Vậy, những cam kết đầy tham vọng của Ấn Độ có ý nghĩa như thế nào với thế giới trong bối cảnh COP26 chính là cơ hội cuối cùng và tốt nhất để cứu hành tinh?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/11/05/vovlive_vandequocte_camketdaythamvongcuaandotrongcuochienchongbiendoikhihau.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 04 Nov 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
