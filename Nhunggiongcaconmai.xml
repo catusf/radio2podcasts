@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 12 Oct 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 09 Nov 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 12 Oct 2021 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 09 Nov 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Những giọng ca còn mãi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Nhunggiongcaconmai.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>NSND Út Trà Ôn: Vua vọng cổ</title>
+      <link>https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</link>
+      <description><![CDATA[NSND Út Trà Ôn có làn hơi trầm ấm cùng phong cách ca, ngâm độc đáo, vừa luyến láy kỹ thuật nhưng lại vừa chân phương. Ông còn được xem là bậc thầy về lối hành văn sắp chữ. Với cách phát âm tròn vành, nhịp nhàng, chắc chắn, trầm bổng, rõ ràng, ông đã được giới mộ điệu cải lương và các ký giả kịch trường trao tặng danh hiệu “đệ nhất danh ca” miền Nam, hay “vua vọng cổ”. Hơn 60 năm theo nghề hát, NSND Út Trà Ôn đã tham gia nhiều vở cải lương như: Tuyệt tình ca, Nạn con rơi, Sương khói rừng khuya, Lưu Bình Dương Lễ... và tạo dấu ấn qua nhiều bài vọng cổ kinh điển như: Tình anh bán chiếu, Ông lão chèo đò, Dạ cổ hoài lang, Tôn Tẫn giả điên...]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/11/09/vovlive_mhung_giong_ca_con_mai_nsnd_ut_tra_on.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 09 Nov 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Chị Hai-NSND Thúy Cải: Người nghệ sĩ có công lớn trong hành trình đưa nghệ thuật dân ca quan họ vươn ra thế giới</title>
       <link>https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2021/09/28/vovlive_nhung_giong_ca_con_mai_nsnd_thanh_huyen.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 28 Sep 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>NSND Thu Hiền: Giọng hát đằm thắm chất dân ca</title>
-      <link>https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</link>
-      <description><![CDATA[Sinh trưởng trong gia đình có truyền thống âm nhạc, NSND Thu Hiền sớm bộc lộ năng khiếu bẩm sinh là một giọng hát trong sáng, khỏe khoắn, hồn nhiên, ấm áp và truyền cảm. Đặc biệt giọng hát của bà luôn mang đậm hồn quê, tình quê Việt Nam. Mới 10 tuổi cô bé Hiền đã trúng tuyển vào đoàn Ca kịch liên khu 5. Dưới sự dìu dắt của các thầy cô, các anh chị đi trước, Thu Hiền vừa học văn hóa, vừa luyện tập cho giọng hát của mình sao cho thấm đậm chất khu 5. Những làn điệu dân ca khu 5 do Thu Hiền trình bày đều là những bài dân ca hay chiếm được cảm tình của đông đảo khán thính giả cùng bạn bè đồng nghiệp. Trong suốt quãng đời son trẻ, Thu Hiền mang tiếng đàn, giọng hát đi khắp các chiến trường khói bom khốc liệt phục vụ đồng bào và chiến sĩ. Và chính ở mảnh đất miền Trung nắng lửa, giọng hát của NSND Thu Hiền đã để lại trong công chúng yêu nhạc một dấu ấn khó phai qua các ca khúc mà chị thể hiện đậm chất dân ca miền Trung…]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/09/24/vovlive_nhung_giong_ca_con_mai_nsnd_thu_hien.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 24 Sep 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
