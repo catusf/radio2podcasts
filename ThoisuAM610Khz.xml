@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 12 Nov 2021 18:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 13 Nov 2021 00:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 12 Nov 2021 18:00:00 +0700</pubDate>
+    <pubDate>Sat, 13 Nov 2021 00:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>TPHCM mở lại hệ thống "Thầy thuốc đồng hành" - Thời sự 17g00 12/11/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-mo-lai-he-thong-thay-thuoc-dong-hanh-thoi-su-17g00-12-11-2021-418113.html</link>
+      <description><![CDATA[17:00 - 12/11/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-mo-lai-he-thong-thay-thuoc-dong-hanh-thoi-su-17g00-12-11-2021-418113.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/11/12/ts17g-121121.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 13 Nov 2021 00:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Cơ sở y tế ngoài công lập phải kiểm soát dịch trong quá trình hoạt động - Thời sự 11g00 12/11/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/co-so-y-te-ngoai-cong-lap-phai-kiem-soat-dich-trong-qua-trinh-hoat-dong-thoi-su-11g00-12-11-2021-418080.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/duong-sat-ban-nguyen-phong-nguyen-toa-giam-gia-tu-10-15-thoi-su-05g30-12-11-2021-418078.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/11/12/ts0530-121121.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 12 Nov 2021 12:30:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Ngành giáo dục ảnh hưởng nặng nề vì dịch Covid-19 - Thời sự 17g00 11/11/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/nganh-giao-duc-anh-huong-nang-ne-vi-dich-covid-19-thoi-su-17g00-11-11-2021-418017.html</link>
-      <description><![CDATA[20:20 - 11/11/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/nganh-giao-duc-anh-huong-nang-ne-vi-dich-covid-19-thoi-su-17g00-11-11-2021-418017.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/11/11/AMThoisu17h00p111121.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 12 Nov 2021 03:20:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
