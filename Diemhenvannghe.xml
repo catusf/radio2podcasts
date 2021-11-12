@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 07 Nov 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 12 Nov 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 07 Nov 2021 19:00:00 +0700</pubDate>
+    <pubDate>Fri, 12 Nov 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Điểm hẹn văn nghệ</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Diemhenvannghe.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Thấy con qua dáng hình đồng đội  7/11/2021</title>
+      <title>“Du hành giữa các văn bản – Nguyễn Huy Thiệp và xã hội Việt Nam sau 1975” 12/11/2021</title>
+      <link>http://vov6.vov.vn/diem-hen-van-nghe/du-hanh-giua-cac-van-ban-nguyen-huy-thiep-va-xa-hoi-viet-nam-sau-1975-c158-34020.aspx</link>
+      <description><![CDATA[Diễn ra trong bối cảnh ngành xuất bản chịu tác động nghiêm trọng do dịch Covid 19, Giải thưởng Sách Quốc gia vẫn thu hút sự chú ý khi có sự tham gia của 47 đơn vị xuất bản với 365 ấn phẩm. Trong chương trình hôm nay, chúng tôi trân trọng giới thiệu với quý vị và các bạn cuốn “Du hành giữa các văn bản – Nguyễn Huy Thiệp và xã hội Việt Nam sau 1975” của TS. Nguyễn Văn Thuấn – một trong những cuốn sách rất có khả năng nằm trong Giải thưởng Sách Quốc gia năm nay. Sách do NXB Đại học Huế ấn hành.]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/du-hanh-giua-cac-van-ban-nguyen-huy-thiep-va-xa-hoi-viet-nam-sau-1975-c158-34020.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_11/gts_du_hanh_giua_cac_van_ban_hc_1211202111.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 12 Nov 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Thấy con qua dáng hình đồng đội   7/11/2021</title>
       <link>http://vov6.vov.vn/diem-hen-van-nghe/thay-con-qua-dang-hinh-dong-doi-c158-34007.aspx</link>
       <description><![CDATA[Hình ảnh các Bà Mẹ Việt Nam anh hùng được nhà báo, nhiếp ảnh gia Trần Hồng trân trọng và chụp lại những khoảnh khắc trong cuộc sống với một tình yêu từ trái tim của người lính. (Điểm hẹn văn nghệ 23/10/2021)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/thay-con-qua-dang-hinh-dong-doi-c158-34007.aspx</guid>
@@ -37,13 +45,6 @@
       <description><![CDATA[Đề tài chiến tranh không chỉ thu hút người sáng tác văn chương mà còn hấp dẫn giới phê bình. Với “siêu đề tài” này, chúng ta đã có rất nhiều bài nghiên cứu, khảo sát, chuyên luận. Trong đó, người viết mong muốn góp thêm một tiếng nói, một cách nhìn để khái quát diện mạo của các sáng tác viết về đề tài chiến tranh. Gần đây, TS. Nguyễn Anh Vũ vừa ra mắt chuyên luận “Tự sự về một cuộc chiến tranh qua Dấu chân người lính, Đất trắng và Nỗi buồn chiến tranh”. Sách do NXB Văn học ấn hành. Bằng cách tiếp cận ba tác phẩm tiêu biểu viết về chiến tranh trong nền văn học nước nhà, chuyên luận đã có những hướng đi như thế nào để lí giải về cái mới và cái khác trong hành trình sáng tạo của nhà văn khi cày xới cùng một đề tài? BTV Nguyễn Hà có một vài chia sẻ về tác phẩm. Mời quý vị và các bạn cùng nghe]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/tu-su-ve-mot-cuoc-chien-tranh-cung-ts-nguyen-anh-vu-c158-33999.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_11/gts_tu_su_ve_mot_cuoc_chien_tranh_411202111.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 04 Nov 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Báo Văn nghệ số 45 ra ngày 06/11 4/11/2021</title>
-      <link>http://vov6.vov.vn/diem-hen-van-nghe/bao-van-nghe-so-45-ra-ngay-0611-c158-33998.aspx</link>
-      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/bao-van-nghe-so-45-ra-ngay-0611-c158-33998.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/diem_bao_van_nghe_1111202114.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 04 Nov 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>

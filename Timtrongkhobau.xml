@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 04 Nov 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 11 Nov 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 04 Nov 2021 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 11 Nov 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Tìm trong kho báu</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Timtrongkhobau.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Chuyện tình công chúa triều Nguyễn và thiền sư Thiệt Thành Liễu Đạt4/11/2021</title>
+      <title>Thơ Nôm Danh tướng Nguyễn Cư Trinh11/11/2021</title>
+      <link>http://vov6.vov.vn/tim-trong-kho-bau/tho-nom-danh-tuong-nguyen-cu-trinh-c54-34017.aspx</link>
+      <description><![CDATA[Dòng thơ Nôm của dân tộc ta đã ghi nhận nhiều tác giả tên tuổi vốn xuất thân khoa cử, ra làm quan, có những công trạng lớn lao trong kế sách củng cố vị thế của các triều đại phong kiến. Danh tướng Nguyễn Cư Trinh là một trong số đó. Chương trình “Tìm trong kho báu” hôm nay tìm về với dấu ấn cuộc đời và sáng tác của  vị tướng trấn giữ biên cương từng góp phần to lớn trong công cuộc Nam tiến của các Chúa Nguyễn.]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/tho-nom-danh-tuong-nguyen-cu-trinh-c54-34017.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/v2_1111_08h00_tim_trong_kho_bau_1211202110.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 11 Nov 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Chuyện tình công chúa triều Nguyễn và thiền sư Thiệt Thành Liễu Đạt 4/11/2021</title>
       <link>http://vov6.vov.vn/tim-trong-kho-bau/chuyen-tinh-cong-chua-trieu-nguyen-va-thien-su-thiet-thanh-lieu-dat-c54-33996.aspx</link>
       <description><![CDATA["Sách Thiền sư Việt Nam chép rằng, Thiền sư Thiệt Thành Liễu Đạt, hiệu Liên Hoa là nhà sư đầu tiên ở miền Nam được phong Quốc sư. Vào những năm cuối đời vì muốn trốn tránh tấm tình của công chúa Ngọc Anh, ông đã từ kinh đô Huế về sống và tu tập ở ngôi chùa này. Nhưng rồi cuối cùng, Thiền sư Thiệt Thành Liễu Đạt vẫn phải chịu một kết cục bi thương từ nghiệp duyên này.]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/chuyen-tinh-cong-chua-trieu-nguyen-va-thien-su-thiet-thanh-lieu-dat-c54-33996.aspx</guid>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/tho-nom-phat-giao-trieu-nguyen-c54-33974.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/v2_2810_18h30_tim_trong_kho_bau_2810202116.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 28 Oct 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Thơ Nôm Phật giáo triều Lê 22/10/2021</title>
-      <link>http://vov6.vov.vn/tim-trong-kho-bau/tho-nom-phat-giao-trieu-le-c54-33959.aspx</link>
-      <description><![CDATA[Sau thời thuộc Minh, Phật giáo nước ta dần dần chuyển hoá và từng bước phát triển theo chiều rộng, tông phái đứt đoạn nhưng cội rễ thêm sâu trong lòng văn hoá dân tộc. Tuy dưới triều Lê sơ, Nho giáo thịnh trị nhưng Phật giáo vẫn chiếm địa vị cao trong văn đàn. Các tác giả vẫn ưa sáng tác thơ ca mang hơi hướng nhà Phật và được công chúng đón nhận. Buổi “Tìm trong kho báu” hôm nay phác họa về thơ Quốc âm triều Lê, đi sâu vào một tác giả tiêu biểu là Hương Hải thiền sư]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/tho-nom-phat-giao-trieu-le-c54-33959.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_10/v2_21_2510_18h30_tim_trong_kho_bau_2210202114.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 22 Oct 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

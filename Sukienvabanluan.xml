@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 05 Nov 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 12 Nov 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 05 Nov 2021 19:00:00 +0700</pubDate>
+    <pubDate>Fri, 12 Nov 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Covaxin: WHO phê duyệt vaccine Covid của Ấn Độ dùng trong trường hợp khẩn cấp</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Tổ chức Y tế Thế giới (WHO) vừa  phê duyệt khẩn cấp cho Covaxin loại  vaccine ngừa covid -19 do công ty Ấn Độ sản xuất. Quyết định của WHO có thể thúc đẩy Ấn Độ cam kết chia sẻ vaccine theo cơ chế covax của liên hợp quốc. Từ đó nâng cao khả năng tiếp cận vaccine cho các quốc gia có thu nhập thấp và trung bình. Điều này đặc biệt có ý nghĩa trong bối cảnh tỉ lệ tiêm chủng trên thế giới vẫn còn sự chênh lệch rất lớn giữa một bên là các nước giàu tiềm lực, những nước đang thúc đẩy mũi tiêm tăng cường thứ 3 với một bên là các nước nghèo vẫn đang phải vật lộn để đạt tới tỉ lệ mà liên hợp quốc đề ra là 40% dân số được tiêm đầy đủ.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/11/12/vovlive_sukienvabanluan_-who_phe-_duyet_covaxin.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 12 Nov 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Sử dụng Quỹ Bảo hiểm thất nghiệp hỗ trợ người lao động bị ảnh hưởng bởi Covid - 19 như thế nào?</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2021/11/04/vovlive_sukienvabinhluan_can_lam_gi_de_giai_bai_toan_that_nghiep_thieu_viec_lam_nhung_thang_cuoi_nam.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 04 Nov 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đông Nam Á chạy đua mở cửa lại du lịch trước mùa cao điểm</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Thời điểm cuối năm vốn là mùa cao điểm du lịch tại Đông Nam Á nhắm tới đối tượng là du khách từ các nước phương tây. Không muốn bị chậm chân, nhiều quốc gia trong khu vực thời gian gần đây liên tục đưa ra những thông báo và các bước chuẩn bị cho lộ trình nới lỏng, mở cửa trở lại để thu hút khách quốc tế. Tuy nhiên, làm sao mở cửa cho an toàn khi đại dịch Covid-19 vẫn diễn biến phức tạp?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/11/01/vovlive_sukienvabinhluan_dong_nam_a_chay_dua_mo_cua_lai_du_lich_truoc_mua_cao_diem.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 01 Nov 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 10 Nov 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 11 Nov 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 10 Nov 2021 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 11 Nov 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>New Zealand kỳ vọng mang đến các chính sách đổi mới, tạo tiền đề phát triển cho khu vực tại Cấp cao APEC</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Trong hai ngày 11 - 12/11, các hoạt động cấp cao nhất của Tuần lễ cấp cao Diễn đàn Hợp tác kinh tế Châu Á - Thái Bình Dương (APEC) chính thức diễn ra, gồm: Đối thoại giữa Lãnh đạo các nền kinh tế APEC với Hội đồng tư vấn kinh doanh APEC, Hội nghị Thượng đỉnh doanh nghiệp APEC và Hội nghị các Nhà lãnh đạo kinh tế Châu Á - Thái Bình Dương lần thứ 28. Cùng lắng nghe chia sẻ của Đại sứ New Zealand tại Việt Nam Tredene Dobson về những nội dung nổi bật cũng như kỳ vọng của New Zealand thông qua chuỗi sự kiện quan trọng này.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/11/11/vovlive_vandequocte_newzealandkyvongmangdencacchinhsachdoimoi.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 11 Nov 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Mỹ nỗ lực hàn gắn mối quan hệ rạn nứt với Pháp sau thỏa thuận AUKUS</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2021/11/09/vovlive_vandequocte_apeccunghanhdongdephuchoikinhtehaudaidich.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 08 Nov 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Nga – Belarus thúc đẩy hội nhập</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Ngày 4/11, Tổng thống Nga và Tổng thống Belarus đã tham gia cuộc họp trực tuyến của Hội đồng Nhà nước Tối cao Nga – Belarus. Trong đó, hai nhà lãnh đạo đã thảo luận về 28 thỏa thuận nhằm thúc đẩy hội nhập giữa Nga và Belarus trong hàng loạt lĩnh vực như thương mại, lao động, tiền tệ, thuế, năng lượng, công nghiệp, nông nghiệp…, hướng tới hình thành một không gian kinh tế thống nhất giữa hai quốc gia. Việc Nga và Belarus thúc đẩy hội nhập được cho là có lợi cho cả hai bên trong bối cảnh địa chính trị khu vực đang có nhiều diễn biến phức tạp. Trong khi Nga cần một vùng đệm an toàn ở phía Tây giáp Châu Âu, thì Belarus cũng cần một chỗ dựa vững chắc khi đang bị các nước phương Tây áp đặt trừng phạt sau cuộc bầu cử năm 2020.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/11/05/vovlive_vandequocte_ngabelarusthucdayhoinhap.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 05 Nov 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
