@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 11 Nov 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 12 Nov 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 11 Nov 2021 19:00:00 +0700</pubDate>
+    <pubDate>Fri, 12 Nov 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Liệu COP26 có tạo ra được bước ngoặt trong cuộc chiến chống biến đổi khí hậu của nhân loại?</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Ngày 12/11 là ngày làm việc cuối cùng của Hội nghị lần thứ 26 của Các bên tham gia Công ước khung của Liên hợp quốc về biến đổi khí hậu (COP26) diễn ra tại Glasgow - Vương quốc Anh. Với vai trò là nước chủ trì COP26, nước Anh đã công bố dự thảo đầu tiên về tuyên bố chung của hội nghị. Trong khi đó, Mỹ và Trung Quốc, hai quốc gia phát thải lớn nhất thế giới cũng đã ra tuyên bố chung về biến đổi khí hậu, cam kết sẽ xây dựng các chiến lược dài hạn nhằm đạt mục tiêu phát thải ròng bằng 0. Với những cam kết mạnh mẽ mà các nước đưa ra tại hội nghị, liệu COP26 có tạo ra được bước ngoặt trong cuộc chiến chống biến đổi khí hậu của nhân loại?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/11/12/vovlive_vandequocte_lieucop26cotaoraduocbuocngoattrongcuochienchongbiendoikhihau.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 12 Nov 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>New Zealand kỳ vọng mang đến các chính sách đổi mới, tạo tiền đề phát triển cho khu vực tại Cấp cao APEC</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2021/11/09/vovlive_vandequocte_nguycokhunghoanghaubaucu.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 09 Nov 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>APEC cùng hành động để phục hồi kinh tế hậu đại dịch</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Trong khuôn khổ Tuần lễ cấp cao Diễn đàn Hợp tác Kinh tế Châu Á - Thái Bình Dương (APEC) lần thứ 28 do New Zealand chủ trì, Hội nghị Bộ trưởng APEC sẽ diễn ra vào ngày 8 - 9/11, còn Hội nghị cấp cao APEC sẽ được tổ chức vào ngày 11 -12/11 theo hình thức trực tuyến. Với chủ đề xuyên suốt “Cùng phối hợp - Cùng hành động - Cùng tăng trưởng”, Hội nghị lần này mở ra cơ hội cho các nền kinh tế thành viên APEC cùng bàn thảo, đưa ra những cam kết hành động nhằm đối phó với cuộc khủng hoảng do dịch Covid-19 mang lại, để hướng tới phục hồi bền vững.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/11/09/vovlive_vandequocte_apeccunghanhdongdephuchoikinhtehaudaidich.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 08 Nov 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
