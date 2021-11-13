@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 11 Nov 2021 16:46:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 13 Nov 2021 13:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 11 Nov 2021 16:46:00 +0700</pubDate>
+    <pubDate>Sat, 13 Nov 2021 13:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Sài Gòn buổi sáng - 13/11/2021</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-13-11-2021-418146.html</link>
+      <description><![CDATA[06:00 - 13/11/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-13-11-2021-418146.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/11/13/sgbs-131121.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 13 Nov 2021 13:00:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Sài Gòn buổi sáng - 11/11/2021</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-11-11-2021-417970.html</link>
       <description><![CDATA[09:46 - 11/11/2021]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-11-11-2021-417970.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/11/11/FMSGBS06h00p111121.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 11 Nov 2021 16:46:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Quận Tân Phú chi gói hỗ trợ đợt 3 đạt 83% - Sài Gòn buổi sáng 10/11/2021</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/quan-tan-phu-chi-goi-ho-tro-dot-3-dat-83-sai-gon-buoi-sang-10-11-2021-417896.html</link>
-      <description><![CDATA[10:26 - 10/11/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/quan-tan-phu-chi-goi-ho-tro-dot-3-dat-83-sai-gon-buoi-sang-10-11-2021-417896.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/11/10/fmsgbs06h00p101121-20211110070614-Copy.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 10 Nov 2021 17:26:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
