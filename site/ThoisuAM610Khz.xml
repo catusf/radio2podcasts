@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 14 Nov 2021 16:49:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 15 Nov 2021 00:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 14 Nov 2021 16:49:00 +0700</pubDate>
+    <pubDate>Mon, 15 Nov 2021 00:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Xuất khẩu hầu hết các sản phẩm thủy sản chính đều tăng trưởng trở lại - Thời sự 17g00 14/11/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/xuat-khau-hau-het-cac-san-pham-thuy-san-chinh-deu-tang-truong-tro-lai-thoi-su-17g00-14-11-2021-418254.html</link>
+      <description><![CDATA[17:00 - 14/11/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/xuat-khau-hau-het-cac-san-pham-thuy-san-chinh-deu-tang-truong-tro-lai-thoi-su-17g00-14-11-2021-418254.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/11/14/ts17-141121.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 15 Nov 2021 00:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>“Du lịch TPHCM thích ứng trong điều kiện bình thường mới” (Bài 2) - Thời Sự 05g30 14/11/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/du-lich-tphcm-thich-ung-trong-dieu-kien-binh-thuong-moi-bai-2-thoi-su-05g30-14-11-2021-418229.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/bong-lua-vang-2021-thi-sinh-tu-tin-tranh-tai-o-vong-thi-ma-non-online-thoi-su-17g00-13-11-2021-418192.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/11/13/ts17g00-131121.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 14 Nov 2021 00:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Giải thưởng Sách Quốc gia: Tạo động lực lớn cho người làm sách - Thời sự 11g00 13/11/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/giai-thuong-sach-quoc-gia-tao-dong-luc-lon-cho-nguoi-lam-sach-thoi-su-11g00-13-11-2021-418161.html</link>
-      <description><![CDATA[11:00 - 13/11/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/giai-thuong-sach-quoc-gia-tao-dong-luc-lon-cho-nguoi-lam-sach-thoi-su-11g00-13-11-2021-418161.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/11/13/ts11-131121.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 13 Nov 2021 18:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
