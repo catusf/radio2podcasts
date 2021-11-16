@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 16 Nov 2021 12:45:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 16 Nov 2021 18:58:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 16 Nov 2021 12:45:00 +0700</pubDate>
+    <pubDate>Tue, 16 Nov 2021 18:58:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Đìu hiu hoạt động xe buýt sau giãn cách - Thời sự 11g00 16/11/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/diu-hiu-hoat-dong-xe-buyt-sau-gian-cach-thoi-su-11g00-16-11-2021-418458.html</link>
+      <description><![CDATA[11:58 - 16/11/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/diu-hiu-hoat-dong-xe-buyt-sau-gian-cach-thoi-su-11g00-16-11-2021-418458.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/11/16/AMThoisu11h00p161121.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 16 Nov 2021 18:58:00 +0700</pubDate>
+    </item>
     <item>
       <title>Cách xử trí khi người nhà nhiễm Covid-19 – Thời sự 5g30 16/11/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/cach-xu-tri-khi-nguoi-nha-nhiem-covid-19-thoi-su-5g30-16-11-2021-418378.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-buoc-vao-dot-khuyen-mai-lon-nhat-trong-nam-thoi-su-17g00-15-11-2021-418352.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/11/15/ts17-151121.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 16 Nov 2021 00:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Giá heo sẽ nhích dần vào dịp Tết năm nay - Thời sự 11g00 15/11/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/gia-heo-se-nhich-dan-vao-dip-tet-nam-nay-thoi-su-11g00-15-11-2021-418351.html</link>
-      <description><![CDATA[11:00 - 15/11/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/gia-heo-se-nhich-dan-vao-dip-tet-nam-nay-thoi-su-11g00-15-11-2021-418351.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/11/15/ts11g00-151121.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 15 Nov 2021 18:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
