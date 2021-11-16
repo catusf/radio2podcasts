@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 12 Nov 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 16 Nov 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 12 Nov 2021 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 16 Nov 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,22 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Vai trò của Nga trong khủng hoảng di cư ở biên giới Ba Lan – Belarus</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Cuộc khủng hoảng di cư ở khu vực biên giới Ba Lan – Belarus đến thời điểm này vẫn chưa có dấu hiệu hạ nhiệt khi hàng nghìn người từ Syria, Iraq và một số quốc gia Trung Đông khác vẫn đổ về khu vực này để tìm cách vào Châu Âu. Trong khi đó, Belarus tuyên bố các lệnh trừng phạt của Liên minh Châu Âu khiến nước này không còn khoản tiền cần thiết để ngăn chặn dòng người di cư. Trong bối cảnh đó, Tổng thống Nga Vladimia Putin vừa tuyên bố sẵn sàng hỗ trợ giải quyết cuộc khủng hoảng di cư này. Sự lên tiếng của Nga được thế giới đặc biệt quan tâm, bởi trước đó, Nga từng là quốc gia bị các nước Châu Âu chỉ trích vì có liên quan đến việc người di cư đổ về khu vực biên giới Ba Lan – Belarus dù Nga kiên quyết bác bỏ. Vậy Nga thực sự có vai trò như thế nào trong câu chuyện này?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/11/16/vovlive_vandequocte_vaitrocuangatrongkhunghoangdicuobiengioibalanbelarus.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 16 Nov 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Hội đàm trực tuyến Mỹ - Trung: Liệu có thể thu hẹp bất đồng?</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Theo kế hoạch, nhà lãnh đạo Trung Quốc ông Tập Cận Bình và nhà lãnh đạo Mỹ Tổng thống Joe Biden sẽ hội đàm trực tuyến vào tối ngày 15/11 (theo giờ địa phương). Nội dung thảo luận tại cuộc gặp dự kiến bao gồm: căng thẳng xung quanh hoạt động quân sự của Trung Quốc ở Đài Loan, các vấn đề về nhân quyền cũng như hợp tác giữa hai nước trong ứng phó với biến đổi khí hậu. Trong bối cảnh quan hệ Mỹ - Trung liên tục căng thẳng thời gian gần đây, cuộc hội đàm trực tuyến này là cơ hội để hai nhà lãnh đạo Mỹ - Trung hướng tới tháo gỡ bất đồng. Tuy nhiên, kết quả của Hội nghị thượng đỉnh trực tuyến tối nay còn là một ẩn số bởi Mỹ và Trung Quốc khác biệt nhau rất nhiều, thậm chí còn đối đầu nhau về quan điểm trong một số vấn đề.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/11/16/vovlive_vandequocte_hoidamtructuyenmytrunglieucothethuhepbatdong.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 15 Nov 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Liệu COP26 có tạo ra được bước ngoặt trong cuộc chiến chống biến đổi khí hậu của nhân loại?</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -38,22 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2021/11/11/vovlive_vandequocte_newzealandkyvongmangdencacchinhsachdoimoi.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 11 Nov 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Mỹ nỗ lực hàn gắn mối quan hệ rạn nứt với Pháp sau thỏa thuận AUKUS</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Hoạt động ngoại giao của Mỹ ở Châu Âu trở nên sôi động thời gian này sau khi Tổng thống Mỹ Joe Biden tham dự loạt sự kiện ở Italia và Anh, Phó Tổng thống Kamala Harris cũng có chuyến thăm 5 ngày tới Pháp. Mặc dù là hai đồng minh truyền thống, song quan hệ Mỹ - Pháp trở nên xấu đi sau khi Washington tuyên bố thành lập Liên minh AUKUS với Anh và Australia, dẫn tới việc Australia hủy hợp đồng quốc phòng trị giá hàng chục tỷ đô la với Pháp. Vì thế, một trong những nội dung quan trọng nhất trong chuyến công du của bà Harris là hàn gắn mối quan hệ với Pháp, giúp hiện thực hóa chiến lược “đưa nước Mỹ trở lại” của chính quyền Mỹ hiện tại.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/11/10/vovlive_vandequocte_mynoluchanganmoiquanherannutvoiphapsauthoathuanaukus.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 10 Nov 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Nguy cơ khủng hoảng “hậu bầu cử” tại Iraq sau vụ ám sát hụt Thủ tướng</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Dư luận khu vực và toàn cầu những giờ qua tiếp tục lên án vụ ám sát hụt nghiêm trọng nhằm vào Thủ tướng Iraq Mustafa al-Kadhimi cuối tuần trước ngay tại nhà riêng. Giới phân tích cảnh báo, hành động khủng bố “táo tợn” và nguy hiểm này có thể sớm đẩy Iraq rơi vào cảnh bạo loạn và khủng bố, thậm chí là một cuộc đảo chính chống lại hệ thống hiến pháp. Đáng nói, sự việc xảy ra khi làn sóng biểu tình tại thủ đô Baghdad đang có xu hướng biến thành bạo loạn nhằm phản đối kết quả bầu cử Quốc hội vừa diễn ra tại Iraq hồi tháng 10 vừa qua. Vậy những nguy cơ nào đang chờ đợi Iraq và Nhà lãnh đạo Mustapha?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/11/09/vovlive_vandequocte_nguycokhunghoanghaubaucu.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 09 Nov 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
