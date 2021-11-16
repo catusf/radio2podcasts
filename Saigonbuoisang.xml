@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 14 Nov 2021 16:47:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 15 Nov 2021 13:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 14 Nov 2021 16:47:00 +0700</pubDate>
+    <pubDate>Mon, 15 Nov 2021 13:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Sài Gòn buổi sáng - 14/11/2021</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-14-11-2021-418228.html</link>
-      <description><![CDATA[09:47 - 14/11/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-14-11-2021-418228.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/11/14/sgbs-14112021ss.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 14 Nov 2021 16:47:00 +0700</pubDate>
+      <title>Sài Gòn buổi sáng - 15/11/2021</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-15-11-2021-418354.html</link>
+      <description><![CDATA[06:00 - 15/11/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-15-11-2021-418354.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/11/15/sgbs-151121.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 15 Nov 2021 13:00:00 +0700</pubDate>
     </item>
     <item>
-      <title>Sài Gòn buổi sáng - 13/11/2021</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-13-11-2021-418146.html</link>
-      <description><![CDATA[06:00 - 13/11/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-13-11-2021-418146.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/11/13/sgbs-131121.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 13 Nov 2021 13:00:00 +0700</pubDate>
+      <title>Sài Gòn buổi sáng - 12/11/2021</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-12-11-2021-418353.html</link>
+      <description><![CDATA[06:00 - 12/11/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-12-11-2021-418353.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/11/15/sgbs-121121.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 12 Nov 2021 13:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
