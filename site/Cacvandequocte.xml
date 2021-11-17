@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 16 Nov 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 17 Nov 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 16 Nov 2021 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 17 Nov 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Thượng đỉnh trực tuyến Mỹ - Trung Quốc: Thiết lập giới hạn cạnh tranh</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Trong một sự kiện ngoại giao thu hút sự chú ý của dư luận quốc tế, lần đầu tiên Tổng thống Mỹ Joe Biden và Chủ tịch Trung Quốc Tập Cận Bình có cuộc đối thoại trực tuyến kể từ khi ông Biden nhậm chức vào tháng 1 năm nay. Là một sự kiện quan trọng đối với quan hệ của hai nền kinh tế lớn nhất thế giới, cuộc họp này được cả thế giới theo dõi và kỳ vọng về một kết quả tích cực, giúp xuống thang căng thẳng quan hệ 2 nước. Mặc dù không có thỏa thuận nào đạt được song cuộc gặp vẫn có ý nghĩa quan trọng đối với việc quản lý cạnh tranh và những vấn đề khác biệt giữa hai nước Mỹ - Trung.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/11/17/vovlive_vandequocte_thuongdinhtructuyenmytrungquocthietlapgioihancanhtranh.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 17 Nov 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Vai trò của Nga trong khủng hoảng di cư ở biên giới Ba Lan – Belarus</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2021/11/12/vovlive_vandequocte_lieucop26cotaoraduocbuocngoattrongcuochienchongbiendoikhihau.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 12 Nov 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>New Zealand kỳ vọng mang đến các chính sách đổi mới, tạo tiền đề phát triển cho khu vực tại Cấp cao APEC</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Trong hai ngày 11 - 12/11, các hoạt động cấp cao nhất của Tuần lễ cấp cao Diễn đàn Hợp tác kinh tế Châu Á - Thái Bình Dương (APEC) chính thức diễn ra, gồm: Đối thoại giữa Lãnh đạo các nền kinh tế APEC với Hội đồng tư vấn kinh doanh APEC, Hội nghị Thượng đỉnh doanh nghiệp APEC và Hội nghị các Nhà lãnh đạo kinh tế Châu Á - Thái Bình Dương lần thứ 28. Cùng lắng nghe chia sẻ của Đại sứ New Zealand tại Việt Nam Tredene Dobson về những nội dung nổi bật cũng như kỳ vọng của New Zealand thông qua chuỗi sự kiện quan trọng này.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/11/11/vovlive_vandequocte_newzealandkyvongmangdencacchinhsachdoimoi.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 11 Nov 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
