@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 17 Nov 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 18 Nov 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 17 Nov 2021 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 18 Nov 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Lực lượng phản ứng nhanh của EU và tham vọng giảm sự phụ thuộc vào Mỹ</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Sau một thời gian dài chuẩn bị, dự thảo về một lực lượng quân đội phản ứng nhanh của riêng Liên minh Châu Âu (EU) đang bắt đầu định hình một cách rõ nét hơn trong cuộc họp của các Ngoại trưởng và Bộ trưởng Quốc phòng EU vừa diễn ra tại Bruxelles (Bỉ). Khắc phục những hạn chế trong khả năng tự chủ chiến lược, giảm bớt sự phụ thuộc vào Mỹ và NATO được cho là những mục tiêu chính của dự án đầy tham vọng này. Vậy hình thái tập hợp lực lượng mới này có điểm nào đặc biệt? Nếu được các nước thành viên chính thức thông qua, liệu chiến lược quốc phòng - an ninh mới này của Châu Âu có “va chạm” với đồng minh Mỹ vốn cũng đang tồn tại nhiều rạn nứt và mâu thuẫn?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/11/18/vovlive_vandequocte_lucluongphanungnhanhcuaeu.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 18 Nov 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Thượng đỉnh trực tuyến Mỹ - Trung Quốc: Thiết lập giới hạn cạnh tranh</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2021/11/16/vovlive_vandequocte_hoidamtructuyenmytrunglieucothethuhepbatdong.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 15 Nov 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Liệu COP26 có tạo ra được bước ngoặt trong cuộc chiến chống biến đổi khí hậu của nhân loại?</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Ngày 12/11 là ngày làm việc cuối cùng của Hội nghị lần thứ 26 của Các bên tham gia Công ước khung của Liên hợp quốc về biến đổi khí hậu (COP26) diễn ra tại Glasgow - Vương quốc Anh. Với vai trò là nước chủ trì COP26, nước Anh đã công bố dự thảo đầu tiên về tuyên bố chung của hội nghị. Trong khi đó, Mỹ và Trung Quốc, hai quốc gia phát thải lớn nhất thế giới cũng đã ra tuyên bố chung về biến đổi khí hậu, cam kết sẽ xây dựng các chiến lược dài hạn nhằm đạt mục tiêu phát thải ròng bằng 0. Với những cam kết mạnh mẽ mà các nước đưa ra tại hội nghị, liệu COP26 có tạo ra được bước ngoặt trong cuộc chiến chống biến đổi khí hậu của nhân loại?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/11/12/vovlive_vandequocte_lieucop26cotaoraduocbuocngoattrongcuochienchongbiendoikhihau.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 12 Nov 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
