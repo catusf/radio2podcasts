@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 18 Nov 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 19 Nov 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 18 Nov 2021 19:00:00 +0700</pubDate>
+    <pubDate>Fri, 19 Nov 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Hiệp định Thương mại Tự do Bắc Mỹ (NAFTA) phiên bản mới và những vấn đề liên quan đến chủ nghĩa bảo hộ</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Tối qua theo giờ Mỹ, tức sáng ngày 19/11 (theo giờ Việt Nam), Hội nghị thượng đỉnh Bắc Mỹ gồm ba nước Mỹ - Canada - Mexico vừa diễn ra ở thủ đô Washington  (Mỹ). Đây là Hội nghị thượng đỉnh đầu tiên của các nhà lãnh đạo Bắc Mỹ kể từ năm 2016, sau khi Hội nghị thường niên này bị gián đoạn dưới thời tổng thống Mỹ Donald Trump. Tại hội nghị, lãnh đạo 3 nước đã xem xét việc thực hiện đầy đủ Hiệp định Thương mại Tự do Bắc Mỹ (NAFTA) phiên bản mới và những vấn đề liên quan đến chủ nghĩa bảo hộ.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/11/19/vovlive_vandequocte_hiepdinhthuongmaitudobacmy.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 19 Nov 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Lực lượng phản ứng nhanh của EU và tham vọng giảm sự phụ thuộc vào Mỹ</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2021/11/16/vovlive_vandequocte_vaitrocuangatrongkhunghoangdicuobiengioibalanbelarus.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 16 Nov 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Hội đàm trực tuyến Mỹ - Trung: Liệu có thể thu hẹp bất đồng?</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Theo kế hoạch, nhà lãnh đạo Trung Quốc ông Tập Cận Bình và nhà lãnh đạo Mỹ Tổng thống Joe Biden sẽ hội đàm trực tuyến vào tối ngày 15/11 (theo giờ địa phương). Nội dung thảo luận tại cuộc gặp dự kiến bao gồm: căng thẳng xung quanh hoạt động quân sự của Trung Quốc ở Đài Loan, các vấn đề về nhân quyền cũng như hợp tác giữa hai nước trong ứng phó với biến đổi khí hậu. Trong bối cảnh quan hệ Mỹ - Trung liên tục căng thẳng thời gian gần đây, cuộc hội đàm trực tuyến này là cơ hội để hai nhà lãnh đạo Mỹ - Trung hướng tới tháo gỡ bất đồng. Tuy nhiên, kết quả của Hội nghị thượng đỉnh trực tuyến tối nay còn là một ẩn số bởi Mỹ và Trung Quốc khác biệt nhau rất nhiều, thậm chí còn đối đầu nhau về quan điểm trong một số vấn đề.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/11/16/vovlive_vandequocte_hoidamtructuyenmytrunglieucothethuhepbatdong.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 15 Nov 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
