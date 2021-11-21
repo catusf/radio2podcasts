@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 21 Nov 2021 16:12:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 21 Nov 2021 19:47:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 21 Nov 2021 16:12:00 +0700</pubDate>
+    <pubDate>Sun, 21 Nov 2021 19:47:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Dù khó khăn vẫn “giữ lửa” làng nghề - Thời sự 11g00 21/11/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/du-kho-khan-van-giu-lua-lang-nghe-thoi-su-11g00-21-11-2021-418999.html</link>
+      <description><![CDATA[12:47 - 21/11/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/du-kho-khan-van-giu-lua-lang-nghe-thoi-su-11g00-21-11-2021-418999.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/11/21/AMThoisu11h00p211121.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 21 Nov 2021 19:47:00 +0700</pubDate>
+    </item>
     <item>
       <title>Ưu tiên phân bổ vaccine để ĐBSCL phát triển kinh tế - Thời sự 11g00 20/11/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/uu-tien-phan-bo-vaccine-de-dbscl-phat-trien-kinh-te-thoi-su-11g00-20-11-2021-418990.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/viet-nam-don-doan-khach-du-lich-quoc-te-dau-tien-sau-20-thang-thoi-su-17g00-20-11-2021-418982.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/11/21/AMThoisu17h00p201121.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 21 Nov 2021 00:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Trui rèn bản lĩnh “Son sắt niềm tin - vững vàng lý tưởng” - Thời sự 05g30 21/11/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/trui-ren-ban-linh-son-sat-niem-tin-vung-vang-ly-tuong-thoi-su-05g30-21-11-2021-418977.html</link>
-      <description><![CDATA[09:12 - 21/11/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/trui-ren-ban-linh-son-sat-niem-tin-vung-vang-ly-tuong-thoi-su-05g30-21-11-2021-418977.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/11/21/AMThoisu05h30p211121.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 21 Nov 2021 16:12:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

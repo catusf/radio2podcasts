@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 15 Nov 2021 04:30:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 21 Nov 2021 22:54:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 15 Nov 2021 04:30:00 +0700</pubDate>
+    <pubDate>Sun, 21 Nov 2021 22:54:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Cửa sổ văn học trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Cuasovanhoc.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Cửa sổ văn học - 21/11/2021</title>
+      <link>https://radio.voh.com.vn/cua-so-van-hoc/cua-so-van-hoc-21-11-2021-419023.html</link>
+      <description><![CDATA[15:54 - 21/11/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/cua-so-van-hoc-21-11-2021-419023.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/11/21/FMCuasovanhoc07h00p211121.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 21 Nov 2021 22:54:00 +0700</pubDate>
+    </item>
     <item>
       <title>Cửa sổ văn học - 14/11/2021</title>
       <link>https://radio.voh.com.vn/cua-so-van-hoc/cua-so-van-hoc-14-11-2021-418208.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/bac-si-tu-han-gianh-giai-nhat-cuoc-thi-tho-nhan-nghia-dat-phuong-nam-cua-so-van-hoc-7-11-2021-417606.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/11/06/FMCuasovanhoc07h00p071121.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 08 Nov 2021 04:47:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Cửa sổ văn học - 31/10/2021</title>
-      <link>https://radio.voh.com.vn/cua-so-van-hoc/cua-so-van-hoc-31-10-2021-416969.html</link>
-      <description><![CDATA[19:36 - 31/10/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/cua-so-van-hoc-31-10-2021-416969.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/10/30/fmcuasovanhoc07h00p311021-20211030171538.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 01 Nov 2021 02:36:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
