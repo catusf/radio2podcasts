@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 19 Nov 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 22 Nov 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 19 Nov 2021 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 22 Nov 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Hội nghị cấp cao đặc biệt kỷ niệm 30 năm quan hệ ASEAN - Trung Quốc: Cột mốc mới cho quan hệ hợp tác</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Ngày 22/11, Hội nghị cấp cao đặc biệt kỷ niệm 30 năm quan hệ ASEAN - Trung Quốc diễn ra theo hình thức trực tuyến. Đây là dịp để các nhà lãnh đạo các bên đánh giá hợp tác trong 30 năm qua và đề ra các định hướng quan trọng trong thời gian tới, nhất là trong bối cảnh ASEAN và Trung Quốc đã nhất trí thiết lập quan hệ Đối tác Chiến lược toàn diện tại Hội nghị Cấp cao ASEAN - Trung Quốc lần thứ 24 vào tháng 10 vừa qua. Đâu là những điểm nổi bật trong quan hệ hợp tác giữa Trung Quốc và ASEAN? Những định hướng nào sẽ là trọng tâm trong quan hệ hai bên trong thời gian tới?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/11/22/vovlive_vandequocte_hoinghicapcaodacbietkyniem30namquanheaseantrungquoc.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 22 Nov 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Hiệp định Thương mại Tự do Bắc Mỹ (NAFTA) phiên bản mới và những vấn đề liên quan đến chủ nghĩa bảo hộ</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2021/11/17/vovlive_vandequocte_thuongdinhtructuyenmytrungquocthietlapgioihancanhtranh.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 17 Nov 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Vai trò của Nga trong khủng hoảng di cư ở biên giới Ba Lan – Belarus</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Cuộc khủng hoảng di cư ở khu vực biên giới Ba Lan – Belarus đến thời điểm này vẫn chưa có dấu hiệu hạ nhiệt khi hàng nghìn người từ Syria, Iraq và một số quốc gia Trung Đông khác vẫn đổ về khu vực này để tìm cách vào Châu Âu. Trong khi đó, Belarus tuyên bố các lệnh trừng phạt của Liên minh Châu Âu khiến nước này không còn khoản tiền cần thiết để ngăn chặn dòng người di cư. Trong bối cảnh đó, Tổng thống Nga Vladimia Putin vừa tuyên bố sẵn sàng hỗ trợ giải quyết cuộc khủng hoảng di cư này. Sự lên tiếng của Nga được thế giới đặc biệt quan tâm, bởi trước đó, Nga từng là quốc gia bị các nước Châu Âu chỉ trích vì có liên quan đến việc người di cư đổ về khu vực biên giới Ba Lan – Belarus dù Nga kiên quyết bác bỏ. Vậy Nga thực sự có vai trò như thế nào trong câu chuyện này?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/11/16/vovlive_vandequocte_vaitrocuangatrongkhunghoangdicuobiengioibalanbelarus.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 16 Nov 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
