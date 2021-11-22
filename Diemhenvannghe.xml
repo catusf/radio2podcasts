@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 14 Nov 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 22 Nov 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 14 Nov 2021 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 22 Nov 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,14 @@
     <itunes:subtitle>Điểm hẹn văn nghệ</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Diemhenvannghe.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>“Những con cá lạ”: Truyện ngắn mang hình hài của một giấc mơ?  14/11/2021</title>
+      <title>Báo Văn nghệ số 47 ra ngày 20/1122/11/2021</title>
+      <link>http://vov6.vov.vn/diem-hen-van-nghe/bao-van-nghe-so-47-ra-ngay-2011-c158-34048.aspx</link>
+      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/bao-van-nghe-so-47-ra-ngay-2011-c158-34048.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_11/diem_bao_van_nghe_221120218.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 22 Nov 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>“Những con cá lạ”: Truyện ngắn mang hình hài của một giấc mơ?   14/11/2021</title>
       <link>http://vov6.vov.vn/diem-hen-van-nghe/nhung-con-ca-la-truyen-ngan-mang-hinh-hai-cua-mot-giac-mo-c158-34030.aspx</link>
       <description><![CDATA[“Hắn phất tay, rút trong túi ra một chiếc khăn đen, phủ lên miệng bình, lẩm nhẩm như niệm thần chú, hua tay bí ẩn, rồi lại lùng bùng hai tay trong khăn như người làm trò ảo thuật. Khi bỏ khăn ra, cả bọn ồ lên kinh ngạc, trong bình mấy con cá lạ đang nhởn nhơ bơi. Tôi dụi mắt, cho tay vào vớt lên một con, rồi lại thả vào. Rắc vụn bánh, chúng bơi lên ăn. Tôi cảm ơn hắn lắm, nhưng trong lòng phân vân không rõ hư, thực ra sao...Những con cá ngũ sắc đang bơi lượn, hiền minh”(Trích truyện ngắn “Những con cá lạ” của tác giả Đào Duy Hiệp). (Điểm hẹn văn nghệ 06/11/2021)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/nhung-con-ca-la-truyen-ngan-mang-hinh-hai-cua-mot-giac-mo-c158-34030.aspx</guid>
@@ -38,13 +45,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/du-hanh-giua-cac-van-ban-nguyen-huy-thiep-va-xa-hoi-viet-nam-sau-1975-c158-34020.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_11/gts_du_hanh_giua_cac_van_ban_hc_1211202111.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 12 Nov 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Báo Văn nghệ số 46 ra ngày 13/11 11/11/2021</title>
-      <link>http://vov6.vov.vn/diem-hen-van-nghe/bao-van-nghe-so-46-ra-ngay-1311-c158-34015.aspx</link>
-      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/bao-van-nghe-so-46-ra-ngay-1311-c158-34015.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/diem_bao_vn_1211202114.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 11 Nov 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
