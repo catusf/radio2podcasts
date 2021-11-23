@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 24 Oct 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 23 Nov 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 24 Oct 2021 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 23 Nov 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Kể chuyện và hát ru cho bé</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Kechuyenvahatruchobe.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Chàng Rùa kì lạ 24/10/2021</title>
+      <title>Bảy điều ước trong truyện "Đóa hoa thần tiên" 23/11/2021</title>
+      <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/bay-dieu-uoc-trong-truyen-doa-hoa-than-tien-c43-34054.aspx</link>
+      <description><![CDATA[Ngày xửa ngày xưa có cô bé Xonhia rất may mắn khi được bà lão hiền từ trao cho đóa hoa bảy màu, tượng trưng cho bảy điều ước. Thế nhưng Xonhia đã sử dụng phung phí sáu điều ước. Vậy còn điều ước cuối cùng thì sao? Cô bé có đánh mất cơ hội còn lại không? (Kể chuyện và hát ru 13/11/2021)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/bay-dieu-uoc-trong-truyen-doa-hoa-than-tien-c43-34054.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2021_11/v2_1311_21h45_ke_chuyen_hat_ru_2311202116.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 23 Nov 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Chàng Rùa kì lạ  24/10/2021</title>
       <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/chang-rua-ki-la-c43-33967.aspx</link>
       <description><![CDATA[Chàng Rùa từng bị mọi người chế giễu bởi sự chậm chạp của mình, dù chàng đã lao động rất cần mẫn và luôn hiếu thảo với cha mẹ. Thế nhưng chàng lại luôn đem đến những bất ngờ, và bất ngờ lớn nhất là cưới được công chúa đấy! (Kể chuyện và hát ru 16/10/2021)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/chang-rua-ki-la-c43-33967.aspx</guid>
@@ -37,14 +45,6 @@
       <description><![CDATA[Thuở ấy, trong rừng sâu có vị chúa tể của loài nai. Chúa nai đã giúp cô gái nghèo vượt qua nguy hiểm khó khăn. Với phép thuật của mình, chúa nai còn có thể làm được điều gì nữa? Mối quan hệ giữa chúa nai và cô gái nghèo sẽ đi về đâu? (Kể chuyện và hát ru 11/10/2021)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/con-nai-than-c43-33938.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2021_10/v2_1110_21h45_ke_chuyen_hat_ru_1110202123.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 11 Oct 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chú mèo ba chân  11/10/2021</title>
-      <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/chu-meo-ba-chan-c43-33937.aspx</link>
-      <description><![CDATA[Con mèo có bốn chân. Bốn chân ấy giúp nó di chuyển được thuận tiện, làm mọi việc nhanh nhẹn. Nhưng nếu một con mèo nào đó bị mất một chân thì sẽ gặp những bất tiện gì, nó có buồn nhiều về điều ấy không? (Kể chuyện và hát ru 24/09/2021)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/chu-meo-ba-chan-c43-33937.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2021_10/v2_2409_21h45_ke_chuyen_va_hat_ru_1110202122.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 11 Oct 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
