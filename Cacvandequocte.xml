@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 22 Nov 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 23 Nov 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 22 Nov 2021 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 23 Nov 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Căng thẳng gia tăng, Ba Lan tính đóng cửa biên giới với Belarus</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Trong chuyến công du các nước biển Baltic mới đây, Thủ tướng Ba Lan Morawiecki và Thủ tướng Latvia Karins đã có cuộc thảo luận để ứng phó với cuộc khủng hoảng di cư ở khu vực biên giới Pháp và Belarus. Trong bối cảnh cuộc khủng hoảng di cư đang diễn biến căng thẳng, Ba Lan có thể tính tới biện pháp đóng cửa biên giới với Latvia. Nhiều ý kiến hoài nghi về khả năng hai nước có đủ thực lực để xử lý cuộc khủng hoảng này, trong khi Liên minh Châu Âu được cho là chưa có sự hỗ trợ đủ lớn, khiến vấn đề người di cư ở khu vực biên giới Belarus vẫn trong tình thế bế tắc.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/11/23/vovlive_vandequocte_cangthanggiatang.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 23 Nov 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Hội nghị cấp cao đặc biệt kỷ niệm 30 năm quan hệ ASEAN - Trung Quốc: Cột mốc mới cho quan hệ hợp tác</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2021/11/18/vovlive_vandequocte_lucluongphanungnhanhcuaeu.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 18 Nov 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Thượng đỉnh trực tuyến Mỹ - Trung Quốc: Thiết lập giới hạn cạnh tranh</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Trong một sự kiện ngoại giao thu hút sự chú ý của dư luận quốc tế, lần đầu tiên Tổng thống Mỹ Joe Biden và Chủ tịch Trung Quốc Tập Cận Bình có cuộc đối thoại trực tuyến kể từ khi ông Biden nhậm chức vào tháng 1 năm nay. Là một sự kiện quan trọng đối với quan hệ của hai nền kinh tế lớn nhất thế giới, cuộc họp này được cả thế giới theo dõi và kỳ vọng về một kết quả tích cực, giúp xuống thang căng thẳng quan hệ 2 nước. Mặc dù không có thỏa thuận nào đạt được song cuộc gặp vẫn có ý nghĩa quan trọng đối với việc quản lý cạnh tranh và những vấn đề khác biệt giữa hai nước Mỹ - Trung.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/11/17/vovlive_vandequocte_thuongdinhtructuyenmytrungquocthietlapgioihancanhtranh.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 17 Nov 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
