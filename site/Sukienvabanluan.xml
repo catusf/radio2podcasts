@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 22 Nov 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 23 Nov 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 22 Nov 2021 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 23 Nov 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Cuộc sống mới của người di tản Afganistan trên đất Mỹ</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Kể từ khi Taliban tiếp quản Thủ đô Kabul của Afganistan hồi tháng 8, hàng chục nghìn người Afganistan đã rời quê hương tới Mỹ để tìm kiếm một cuộc sống an toàn hơn, tốt đẹp hơn. Trong thông báo mới nhất, chính quyền của Tổng thống Mỹ Joe Biden cho biết đã dừng hoạt động của một trong những điểm sơ tán tạm thời dành cho người Afganistan để đưa những người này tới nơi tái định cư, đánh dấu sự khởi đầu của hành trình bắt đầu hòa nhập vào cuộc sống mới trên đất Mỹ của người di tản Afganistan.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/11/23/vovlive_sukienvabinhluan_cuoc_song_-moi_cua_nguoi_dan_tren_dat_my.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 23 Nov 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Mô hình tham vọng đưa mức phát thải ròng về 0 vào năm 2050 của Australia</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -45,14 +53,6 @@
       <description><![CDATA[Dự kiến trong hai ngày (17 và 18 tháng 11) tỉnh Quảng Nam đón hơn 400 khách quốc tế đến tham quan, mở đầu cho lộ trình khôi phục ngành du lịch, đón khách an toàn trong bối cảnh "bình thường mới". Tiếp đó ngày 20, huyện đảo Phú Quốc của tỉnh Kiên Giang cũng đón đoàn du khách quốc tế. Đây là 2 trung tâm du lịch lớn của cả nước đón thí điểm du khách quốc tế sau gần 2 năm đóng cửa vì dịch covid -19. Hai địa phương đã chuẩn bị ra sao cho sự trở lại của du khách quốc tế? Và đâu là giải pháp để ngành du lịch sôi động trở lại trong trạng thái bình thường mới?]]></description>
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2021/11/16/vovlive_sukienvabanluan_don_du_khach_quoc_te_tat_ca_da_san_sang.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 16 Nov 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Châu Âu tái phong tỏa: Vòng luẩn quẩn Covid-19 bao giờ kết thúc?</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Những tưởng sau khi vaccine ngừa Covid-19 được bao phủ, thế giới có thể đứng ngoài những quy định “Phong tỏa” – một cụm từ không ai muốn nhắc tới kể từ khi dịch Covid-19 xuất hiện, tuy nhiên, biện pháp “cực chẳng đã” này đã buộc phải áp dụng trở lại. Một số nước châu Âu đã bắt đầu tái áp đặt các biện pháp phong tỏa hoặc hạn chế nghiêm ngặt hơn nhằm đối phó với sự tăng mạnh số ca mắc Covid-19 mặc dù có tỷ lệ tiêm chủng vượt trội. Làn sóng dịch thứ 4, rồi thứ 5 kéo đến. Phong tỏa – mở cửa và lại phong tỏa. Covid-19 đang tạo ra một vòng luẩn quẩn chưa biết bao giờ mới kết thúc. Thực tế ở châu Âu cũng là lời cảnh báo với phần còn lại của thế giới. Lý do nào khiến dịch bùng phát trở lại? Tình thế tiến thoái lưỡng nan giữa mở cửa và phong tỏa được các nước châu Âu giải quyết ra sao?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/11/16/vovlive_sukienvabinhluan_chau_au_phong_toa_vong_luan_quan_covi19.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 16 Nov 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
