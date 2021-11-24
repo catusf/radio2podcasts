@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 23 Nov 2021 13:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 25 Nov 2021 00:24:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 23 Nov 2021 13:00:00 +0700</pubDate>
+    <pubDate>Thu, 25 Nov 2021 00:24:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Sài Gòn buổi sáng - 24/11/2021</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-24-11-2021-419332.html</link>
+      <description><![CDATA[17:24 - 24/11/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-24-11-2021-419332.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/11/24/fmsgbs06h00p241121-20211124073517.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 25 Nov 2021 00:24:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Sài Gòn buổi sáng - 23/11/2021</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-23-11-2021-419196.html</link>
       <description><![CDATA[06:00 - 23/11/2021]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-23-11-2021-419196.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/11/23/sgbs-231121.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 23 Nov 2021 13:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Sài Gòn buổi sáng - 22/11/2021</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-22-11-2021-419070.html</link>
-      <description><![CDATA[06:00 - 22/11/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-22-11-2021-419070.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/11/22/sgbs-221121.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 22 Nov 2021 13:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
