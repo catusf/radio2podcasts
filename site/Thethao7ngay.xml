@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 12 Nov 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 25 Nov 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 12 Nov 2021 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 25 Nov 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,28 @@
     </itunes:owner>
     <itunes:subtitle>Thể thao 7 ngày</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Thethao7ngay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Chương trình thể thao 7 ngày 20/11/2021</title>
+      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
+      <description><![CDATA[- Chưa có điểm nào sau 6 trận tại vòng loại cuối cùng WC 2022 khu vực Châu Á, song những thất bại ở đẳng cấp châu lục đã đem đến cho các chiến binh sao vàng rất nhiều bài học lớn. Có thể xem vòng 3 WC thực sự là cú rượt thua để học hỏi, hoàn thiện mình, nhằm chứng minh một lần nữa vị thế ngôi đầu của đội tuyển Việt Nam trong khu vực. 
+- Đoàn quân của huấn luyện viên Park Hang Seo đã sẵn sàng chinh phục AFF Suzuki Cup, giải đấu sẽ khởi tranh vào ngày 5/12 tới. 
+- Thể thao và cuộc sống cùng gặp gỡ nhà vô địch thế giới Muay Huỳnh Hà Hữu Hiếu và cảm nhận khát khao chinh phục huy chương vàng Sea Game của nữ võ sĩ 22 tuổi này.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/11/25/vovlive_thethao7ngay_chuongtrinhthethao7ngay20112021.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 25 Nov 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Chương trình thể thao 7 ngày 13/11/2021</title>
+      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
+      <description><![CDATA[- Đề cập về thất bại 0-1 của Tuyển Việt Nam trước Nhật Bản tại sân vận động Mỹ Đình. 
+- Trả lời của trưởng ban tổ chức giải Fusan HD bank vô địch quốc gia về công tác chuẩn bị cho các trận đấu lượt về tại nhà thi đấu Quận 8 - TP Hồ Chí Minh. 
+- Làn sóng sa thải các huấn luyện viên tại câu lạc bộ Châu Âu, điển hình là giải ngoại hạng Anh. 
+- Kiến thức thể thao sẽ chia sẻ cho các bạn vì sao đằng sau quyết định cấm các cầu thủ Tottenham sử dụng tương cà và sốt mayonnaise trong các bữa ăn của huấn luyện viên Antonio Conte.
+- 'Thể thao và cuộc sống' đề cập đến những thông tin mới nhất cùng với bình luận từ truyền thông Pháp, xoay quanh sự kiện cảnh sát Pháp bắt giữ nữ cầu thủ Paris Saint-Germain  Aminata Diallo.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/11/25/vovlive_thethao7ngay_chuongtrinhthethao7ngay13112021.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 25 Nov 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Chương trình thể thao 7 ngày 6/11/2021</title>
       <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
@@ -45,25 +67,6 @@
       <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2021/11/01/vovlive_thethao-7-ngay_3010.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 01 Nov 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chương trình Thể thao 7 ngày 23/10/2021</title>
-      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
-      <description><![CDATA[- Ngành thể dục thể thao lên kế hoạch đưa các hoạt động thi đấu đỉnh cao và một số giải đấu quay trở lại vào cuối năm khi đợt dịch Covid lần thứ 4 ở nước ta được kiểm soát
-- Sự quyết tâm của đội tuyển bóng đá U23 Quốc gia trước vòng loại giải U23 châu Á 2022.
-- Cùng tìm hiểu về đội tuyển bóng rổ quốc gia khi so tài cùng 7 câu lạc bộ chuyên nghiệp giải đấu VBA Premier Bubble Games 2021.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/10/25/vovlive_thethao-7-ngay_2310.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 25 Oct 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chương trình Thể thao 7 ngày 16/10/2021</title>
-      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
-      <description><![CDATA[- Nhìn lại các trận đấu đã qua cùng các bài học kinh nghiệm và vấn đề cần khắc phục của đội tuyển Việt Nam cho cuộc so tài tiếp theo tại vòng loại thứ 3 World Cup 2022 khu vực châu Á
-- Tìm hiểu nguyên nhân, cách phòng và điều trị đứt, rách giây chằng khi tập luyện thể thao]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/10/18/vovlive_thethao-7-ngay_1610.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 18 Oct 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
