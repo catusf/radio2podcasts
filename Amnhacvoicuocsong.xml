@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 16 Nov 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 23 Nov 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 16 Nov 2021 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 23 Nov 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,15 @@
     </itunes:owner>
     <itunes:subtitle>Âm nhạc với cuộc sống</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Amnhacvoicuocsong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>“Tiếng chuông ngân trong gió”: Lời tạm biệt những người đã khuất vì đại dịch Covid-19</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[- Để tưởng niệm đồng bào, cán bộ, chiến sĩ đã hy sinh, tử vong vì đại dịch COVID-19, nhạc sĩ Nguyễn Bá Hùng đã sáng tác ca khúc “Tiếng chuông vang trong gió” như lời tạm biệt dành cho những người đã khuất. Ca khúc với giai điệu đầy xúc cảm cùng lời hát tự sự  gửi gắm thông điệp của tác giả “hãy nhớ về những người đã khuất thông qua những hành động tích cực, ý nghĩa như hãy làm tốt hơn các công việc của mình, hãy cùng nhau gánh vác trách nhiệm mà những người đã khuất còn dang dở”… 
+- Thưởng thức ca khúc “Ranh giới’ và cùng nghe những cảm xúc sáng tác của tác giả, nhạc sĩ trẻ Tuấn Nguyễn.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/11/25/vovlive_am_nhac_voi_cuoc_song_tieng_chuong_ngan_trong_gio_nguyen_ba_hung.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 23 Nov 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Kỷ niệm ngày Nhà giáo Việt Nam 20/11, trò chuyện cùng nhạc sĩ, thầy giáo Đào Hữu Thi về đề tài Nhà giáo trong các sáng tác âm nhạc</title>
       <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
@@ -50,14 +59,6 @@
       <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2021/10/26/vovlive_am_nhac_voi_cuoc_song_tro_chuyen_pham_anh_thong.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 26 Oct 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>“Những chuyến tàu không số”: Ca khúc xúc động nhắc nhớ về công lao của những người chiến sĩ, kí ức về con đường Hồ Chí Minh huyền thoại.</title>
-      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[Kỷ niệm 60 năm ngày mở đường Hồ Chí Minh trên biển (23/10/1961 – 23/10/2021), thưởng thức ca khúc “Những chuyến tàu không số” (âm nhạc: nhạc sĩ Hoàng Trong, Lời thơ: Nguyễn Địch Long, trình bày: ca sĩ Lê Anh Dũng) và lắng nghe những chia sẻ của nhạc sĩ Hoàng Trọng  cùng nhà thơ Nguyễn Địch Long về ca khúc này.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/10/19/vovlive_am_nhac_voi_cuoc_song_nhung_chuyen_tau_khong_so.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 19 Oct 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
