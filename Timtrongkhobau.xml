@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 18 Nov 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 25 Nov 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 18 Nov 2021 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 25 Nov 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Tìm trong kho báu</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Timtrongkhobau.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Quan điểm Phật giáo trong truyện thơ Nôm “Sãi vãi”18/11/2021</title>
+      <title>Thơ Nôm danh thần Nguyễn Văn Giai25/11/2021</title>
+      <link>http://vov6.vov.vn/tim-trong-kho-bau/tho-nom-danh-than-nguyen-van-giai-c54-34058.aspx</link>
+      <description><![CDATA[Thời Lê trung hưng ghi đậm dấu ấn của nhiều danh nhân đỗ đạt cao, được phong nhiều chức tước quan trọng trong triều đình và để lại nhiều trước tác thơ ca có giá trị. Có thể kể đến Phùng Khắc Khoan, đỗ tiến sĩ đời vua Lê Thế Tông, trải qua nhiều chức vụ như Tả thị lang bộ công, Thượng thư bộ công, Thượng thư bộ hộ. Ông là con người có khát vọng hào kiệt, nổi tiếng là người có chí khí hào mại, có cống hiến trên nhiều phương diện như: quân sự, kinh tế, ngoại giao, văn học. Phùng Khắc Khoan để lại bốn tập thơ chữ Hán có giá trị. Về sáng tác thơ Nôm thời kỳ này nổi lên tài năng của Nguyễn Văn Giai. Ông thi đỗ Tam nguyên Hoàng giáp, từng giữ chức Tể tướng, tước Thái bảo, Quận công đời vua Lê Kính Tông. Nếu làm quan nổi tiếng thanh liêm thì khi sáng tác thơ Nôm, Nguyễn Văn Giai có cái cười trào tiếu và triết lý thâm thuý về mọi sự ở đời. Tuy số lượng trước tác để lại không nhiều nhưng ông cũng cho thấy một phong cách nhà nho tài tử độc đáo.]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/tho-nom-danh-than-nguyen-van-giai-c54-34058.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/v2_252911_18h30_tim_trong_kho_bau_261120219.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 25 Nov 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Quan điểm Phật giáo trong truyện thơ Nôm “Sãi vãi” 18/11/2021</title>
       <link>http://vov6.vov.vn/tim-trong-kho-bau/quan-diem-phat-giao-trong-truyen-tho-nom-sai-vai-c54-34036.aspx</link>
       <description><![CDATA[Với độ dài dài 340 liên (tức 640 câu), truyện thơ Nôm “Sãi vãi” được viết vào năm Canh Ngọ (1750), khi Nguyễn Cư Trinh bắt đầu nhậm chức Tuần vũ Quảng Ngãi. Thông qua cuộc đối thoại giữa hai nhân vật ông sãi và bà vãi nơi cửa Chùa, tác phẩm khuyên răn quan quân, động viên binh sĩ, phủ dụ dân miền Thượng, một cách văn trị của vị Tuần vũ mới. Cũng qua “Sãi vãi”, danh tướng Nguyễn Cư Trinh cho thấy cái nhìn đối với Phật giáo, đồng thời đề cao Nho giáo, châm biếm tà đạo, răn giới tầng lớp Nho sĩ về đạo lý “tu, tề, trị, bình” trong hoàn cảnh chế độ phong kiến ở Đàng trong đã suy vi, mục nát]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/quan-diem-phat-giao-trong-truyen-tho-nom-sai-vai-c54-34036.aspx</guid>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/tho-nom-danh-tuong-nguyen-cu-trinh-c54-34017.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/v2_1111_08h00_tim_trong_kho_bau_1211202110.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 11 Nov 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chuyện tình công chúa triều Nguyễn và thiền sư Thiệt Thành Liễu Đạt 4/11/2021</title>
-      <link>http://vov6.vov.vn/tim-trong-kho-bau/chuyen-tinh-cong-chua-trieu-nguyen-va-thien-su-thiet-thanh-lieu-dat-c54-33996.aspx</link>
-      <description><![CDATA["Sách Thiền sư Việt Nam chép rằng, Thiền sư Thiệt Thành Liễu Đạt, hiệu Liên Hoa là nhà sư đầu tiên ở miền Nam được phong Quốc sư. Vào những năm cuối đời vì muốn trốn tránh tấm tình của công chúa Ngọc Anh, ông đã từ kinh đô Huế về sống và tu tập ở ngôi chùa này. Nhưng rồi cuối cùng, Thiền sư Thiệt Thành Liễu Đạt vẫn phải chịu một kết cục bi thương từ nghiệp duyên này.]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/chuyen-tinh-cong-chua-trieu-nguyen-va-thien-su-thiet-thanh-lieu-dat-c54-33996.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/v2_040811_18h30_tim_trong_kho_bau_411202115.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 04 Nov 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
