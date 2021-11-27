@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 27 Nov 2021 19:02:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 28 Nov 2021 00:30:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 27 Nov 2021 19:02:00 +0700</pubDate>
+    <pubDate>Sun, 28 Nov 2021 00:30:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>BS Nguyễn Quang Thái Dương: Mỗi trang hình ảnh là một câu chuyện kể! – Thời sự 17g00 27/11/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/bs-nguyen-quang-thai-duong-moi-trang-hinh-anh-la-mot-cau-chuyen-ke-thoi-su-17g00-27-11-2021-419588.html</link>
+      <description><![CDATA[17:30 - 27/11/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/bs-nguyen-quang-thai-duong-moi-trang-hinh-anh-la-mot-cau-chuyen-ke-thoi-su-17g00-27-11-2021-419588.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/11/27/amthoisu17h00p271121-20211127171451.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 28 Nov 2021 00:30:00 +0700</pubDate>
+    </item>
     <item>
       <title>Nâng cao nghiệp vụ PCCC và cứu nạn cứu hộ cho lực lượng BVDP - Thời sự 11g 27/11/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/nang-cao-nghiep-vu-pccc-va-cuu-nan-cuu-ho-cho-luc-luong-bvdp-thoi-su-11g-27-11-2021-419575.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/to-y-te-luu-dong-khu-pho-phat-huy-hieu-qua-voi-dia-ban-dan-cu-dong-thoi-su-5g30-27-11-2021-419559.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/11/27/amthoisu05h30p271121-20211126231544.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 27 Nov 2021 13:29:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đề nghị sớm bàn giao mặt bằng triển khai thi công tuyến metro số 2 - Thời sự 17g00 26/11/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/de-nghi-som-ban-giao-mat-bang-trien-khai-thi-cong-tuyen-metro-so-2-thoi-su-17g00-26-11-2021-419521.html</link>
-      <description><![CDATA[16:39 - 26/11/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/de-nghi-som-ban-giao-mat-bang-trien-khai-thi-cong-tuyen-metro-so-2-thoi-su-17g00-26-11-2021-419521.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/11/26/amthoisu17h00p261121-20211126170957-Copy.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 26 Nov 2021 23:39:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
