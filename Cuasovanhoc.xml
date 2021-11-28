@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 21 Nov 2021 22:54:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 28 Nov 2021 19:14:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 21 Nov 2021 22:54:00 +0700</pubDate>
+    <pubDate>Sun, 28 Nov 2021 19:14:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Cửa sổ văn học trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Cuasovanhoc.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>“Vượt qua Covid 19” trao giải - Cùng thi tiếp “Về nhà” - Cửa sổ văn học - 28/11/2021</title>
+      <link>https://radio.voh.com.vn/cua-so-van-hoc/vuot-qua-covid-19-trao-giai-cung-thi-tiep-ve-nha-cua-so-van-hoc-28-11-2021-419647.html</link>
+      <description><![CDATA[12:14 - 28/11/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/vuot-qua-covid-19-trao-giai-cung-thi-tiep-ve-nha-cua-so-van-hoc-28-11-2021-419647.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/11/28/FMCuasovanhoc07h00p281121.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 28 Nov 2021 19:14:00 +0700</pubDate>
+    </item>
     <item>
       <title>Cửa sổ văn học - 21/11/2021</title>
       <link>https://radio.voh.com.vn/cua-so-van-hoc/cua-so-van-hoc-21-11-2021-419023.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/cua-so-van-hoc-14-11-2021-418208.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/11/13/fmcuasovanhoc07h00p141121-20211113192937.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 15 Nov 2021 04:30:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Bác sĩ Tự Hàn giành giải nhất cuộc thi thơ “Nhân Nghĩa đất Phương Nam” - Cửa sổ văn học 7/11/2021</title>
-      <link>https://radio.voh.com.vn/cua-so-van-hoc/bac-si-tu-han-gianh-giai-nhat-cuoc-thi-tho-nhan-nghia-dat-phuong-nam-cua-so-van-hoc-7-11-2021-417606.html</link>
-      <description><![CDATA[21:47 - 07/11/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/bac-si-tu-han-gianh-giai-nhat-cuoc-thi-tho-nhan-nghia-dat-phuong-nam-cua-so-van-hoc-7-11-2021-417606.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/11/06/FMCuasovanhoc07h00p071121.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 08 Nov 2021 04:47:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
