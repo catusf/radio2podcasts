@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 23 Nov 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 30 Nov 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 23 Nov 2021 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 30 Nov 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Âm nhạc với cuộc sống</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Amnhacvoicuocsong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Tưởng nhớ Đại tá, Nhạc sĩ, NSND Nguyễn Tiến với một số tác phẩm âm nhạc tiêu biểu</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[Đại tá, Nhạc sĩ, NSND Nguyễn Tiến (nguyên Giám đốc Nhà hát Ca múa nhạc Quân đội) là một nghệ sĩ hiếm hoi thành công ở cả hai lĩnh vực biểu diễn và sáng tác nhạc. Ông được biết đến là người nghệ sĩ biểu diễn có công mang cây đàn bầu độc đáo quảng bá tới hàng chục nước trên thế giới và là nhạc sĩ của những sáng tác nổi tiếng gắn bó với công chúng yêu nhạc Việt Nam như: “Hoa cau vườn trầu”, “Phú nước non”, “Chiều mưa Hà Nội”, “Chiều xứ Lạng”, “Nhớ đêm giã bạn” “Hồn Việt” “Chuyện tình lá diêu bông”, “Hoa cỏ may”, “Nam Định mình ơi” ,“Dời đô, ngàn năm còn mãi” . … Chương trình hôm nay cùng lắng nghe một số tác phẩm tiêu biểu của ông như một lời tạm biệt đến người nghệ sĩ tài hoa này…]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/11/30/vovlive_am_nhac_voi_cuoc_song_nguyen_tien.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 30 Nov 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>“Tiếng chuông ngân trong gió”: Lời tạm biệt những người đã khuất vì đại dịch Covid-19</title>
       <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
@@ -50,15 +58,6 @@
       <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2021/11/04/vovlive_am_nhac_voi_cuoc_song_104_nam_cach_mang_thang_muoi_nga_yen_ha.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 02 Nov 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Gặp gỡ Nhạc sĩ, Trung tá Phạm Anh Thông,Trưởng Đoàn Văn công-Phòng không- Không quân để tìm hiểu về cuộc sống của người nghệ sĩ, chiến sĩ</title>
-      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[- Thưởng thức ca khúc “Nơi ấy tình yêu bắt đầu” (Âm nhạc: Phạm Anh Thông, Lời thơ: Nguyễn Hồng Sơn, Trình bày: Ca sĩ Hoàng Viết Danh) và cùng nghe những chia sẻ của Nhạc sĩ, Trung tá Phạm Anh Thông về cuộc sống của một người nghệ sĩ, chiến sĩ
-- Thưởng thức các ca khúc tham dự cuộc vận động sáng tác ca khúc Hát lên Việt Nam-Let’sing Vietnam do Đài TNVN tổ chức: “Lúc vui lúc buồn có tôi có bạn” (tác giả Nguyễn Lê Tâm), và “Trái tim quê hương sẽ yên bình”.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/10/26/vovlive_am_nhac_voi_cuoc_song_tro_chuyen_pham_anh_thong.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 26 Oct 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

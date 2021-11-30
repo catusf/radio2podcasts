@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 29 Nov 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 30 Nov 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 29 Nov 2021 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 30 Nov 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Siêu biến thể mới Omicron: Mức độ nguy hiểm và phản ứng của các nước</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Cuộc chiến chống đại dịch COVID-19 lại vừa có thêm một lực cản mới được đánh giá sẽ kéo lùi các nỗ lực trở lại cuộc sống bình thường của các quốc gia. Lực cản với tên gọi “biến thể B.1.1.529” xuất hiện lần đầu tiên tại châu Phi. Tổ chức Y tế thế giới (WHO) cuối tuần qua đã phải tổ chức cuộc họp khẩn cấp, đặt lại tên cho siêu biến thể là Omicron, đồng thời tuyên bố đây là biến thể đáng quan ngại. Vậy mức độ nguy hiểm của siêu biến thể này ra sao, các nước và khu vực đã ghi nhận chủng mới này như: Nam Phi , Trung Quốc, Châu Âu đang chuẩn bị những gì để ứng phó với mối nguy này?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/11/30/vovlive_sukienvabinhluan_sieu_bien_the_moi_omicron.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 30 Nov 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Sản xuất thuốc phiện tại Afghanistan tăng cao, báo động nguy cơ bùng nổ thị trường ma túy toàn cầu</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -45,14 +53,6 @@
       <description><![CDATA[Là một quốc gia có diện tích nhỏ ở Đông Nam Á và là một nền kinh tế đang phát triển, Lào đang tận dụng các lợi thế để phát triển các ngành kinh tế trọng điểm, trong đó có năng lượng. Điện được coi là nguồn thu lớn của Lào, đặc biệt là thông qua xuất khẩu sang các nước láng giềng và các nước ASEAN như Thái Lan, Việt Nam, Campuchia, Malaysia và Myanmar. Vì vậy, trong nhiều năm qua, nước này đã đẩy mạnh xây dựng hạ tầng sản xuất năng lượng, trong đó có phát triển năng lượng tái tạo với mục tiêu trở thành “viên pin xanh” của khu vực Đông Nam Á.]]></description>
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2021/11/25/vovlive_sukienvabanluan_tiem_nang_thach_thuc.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 24 Nov 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chiến lược phát triển ngành năng lượng của Lào</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Là một quốc gia có diện tích nhỏ ở Đông Nam Á và là một nền kinh tế đang phát triển, Lào đang tận dụng các lợi thế để phát triển các ngành kinh tế trọng điểm, trong đó có phát triển năng lượng. Điện được coi là nguồn thu lớn của Lào, đặc biệt là thông qua xuất khẩu sang các nước láng giềng và các nước ASEAN như Thái Lan, Việt Nam, Campuchia, Malaysia và Myanmar. Vì vậy, trong nhiều năm qua, nước này đã đẩy mạnh xây dựng hạ tầng sản xuất năng lượng, trong đó có phát triển năng lượng tái tạo với mục tiêu trở thành “viên pin xanh” của khu vực Đông Nam Á.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/11/24/vovlive_sukienvabinhluan_chien_luong_va_phat_trien_nganh_nang_luong_cua_lao.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 24 Nov 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
