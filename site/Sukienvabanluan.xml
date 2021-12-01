@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 30 Nov 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 01 Dec 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 30 Nov 2021 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 01 Dec 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Giải bài toán ngăn sụt lún ở Đồng Bằng Sông Cửu Long do khai thác nước ngầm</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Sụt lún đất ở Đồng bằng Sông Cửu Long hiện đang nhanh hơn gấp nhiều lần so với nước biển dâng. Nếu tình trạng này tiếp tục xảy ra, phần lớn diện tích của đồng bằng có thể sẽ nằm dưới mực nước biển vào cuối thế kỷ XXI. Thông tin đáng chú ý này vừa được đưa ra tại một hội thảo về quản trị nước ngầm và sụt lún ở đồng bằng này được tổ chức mới đây. Mối quan hệ giữa khai thác nước ngầm và sụt lún là gì? Đâu là giải pháp để giảm tốc độ sụt lún hiện nay?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/12/01/vovlive_sukienvabinhluan_giai_bai_toan-sut_lun_o_dong_bang_song-cua_long.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 01 Dec 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Siêu biến thể mới Omicron: Mức độ nguy hiểm và phản ứng của các nước</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2021/11/25/vovlive_sukienvabanluan_nganh_thuy_san_but_toc.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 25 Nov 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Tiềm năng và thách thức với phát triển năng lượng điện của Lào</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Là một quốc gia có diện tích nhỏ ở Đông Nam Á và là một nền kinh tế đang phát triển, Lào đang tận dụng các lợi thế để phát triển các ngành kinh tế trọng điểm, trong đó có năng lượng. Điện được coi là nguồn thu lớn của Lào, đặc biệt là thông qua xuất khẩu sang các nước láng giềng và các nước ASEAN như Thái Lan, Việt Nam, Campuchia, Malaysia và Myanmar. Vì vậy, trong nhiều năm qua, nước này đã đẩy mạnh xây dựng hạ tầng sản xuất năng lượng, trong đó có phát triển năng lượng tái tạo với mục tiêu trở thành “viên pin xanh” của khu vực Đông Nam Á.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/11/25/vovlive_sukienvabanluan_tiem_nang_thach_thuc.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 24 Nov 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
