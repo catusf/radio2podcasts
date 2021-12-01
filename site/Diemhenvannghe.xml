@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 29 Nov 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 01 Dec 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 29 Nov 2021 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 01 Dec 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Điểm hẹn văn nghệ</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Diemhenvannghe.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Gởi em xứ Nẫu29/11/2021</title>
+      <title>Tập thơ của một người yêu nước mình1/12/2021</title>
+      <link>http://vov6.vov.vn/diem-hen-van-nghe/tap-tho-cua-mot-nguoi-yeu-nuoc-minh-c158-34085.aspx</link>
+      <description><![CDATA[Một trong những điểm đáng chú ý của Giải Sách Quốc gia lần thứ 4 vừa qua là việc tập thơ “Bài thơ của một người yêu nước mình” của nhà thơ Trần Vàng Sao, do Công ty Văn hóa & Truyền thông Nhã Nam cùng NXB Hội Nhà văn ấn hành, đã được trao giải B. Sau những lận đận, tác giả của trường ca “Gọi tìm xác đồng đội” đã được ghi nhận chính thức và xứng đáng. Để hiểu thêm về tác phẩm này, mời quý vị và các bạn nghe đôi lời bình luận của BTV chương trình.]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/tap-tho-cua-mot-nguoi-yeu-nuoc-minh-c158-34085.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_12/gts_bai_tho_cua_mot_nguoi_yeu_nuoc_minh_112202115.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 01 Dec 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Gởi em xứ Nẫu 29/11/2021</title>
       <link>http://vov6.vov.vn/diem-hen-van-nghe/goi-em-xu-nau-c158-34075.aspx</link>
       <description><![CDATA[Trên mọi miền đất nước ta có nhiều vùng văn hóa khác biệt làm nên tên tuổi và cách nhận biết địa danh. Trong đó, vùng đất xứ Nẫu-Phú Yên nổi tiếng với những bãi biển xanh trong, món ăn đậm đà, tính cách hào sảng. Và ấn tượng nhất là giọng nói của người xứ Nẫu mang một thanh âm thô ráp mà mộc mạc gần gũi. Về thăm xứ Nẫu thân thương để khám phá nét đẹp trong văn hóa, tâm hồn con người Phú Yên. Một xứ Nẫu thân thiện, mến khách và rất đỗi nhiệt tình-vùng đất của những tháp Chàm trầm mặc, rêu phong cùng những điệu bài chòi mượt mà, sâu lắng và những con người thật thà chất phác…Trong bút ký “Gởi em xứ Nẫu”, tác giả Trương Chí Hùng đã bày tỏ tình cảm thiết tha với vùng đất “hoa vàng cỏ xanh” này theo một cách rất riêng:]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/goi-em-xu-nau-c158-34075.aspx</guid>
@@ -38,13 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/lang-le-cuoc-doi-thay-vun-trong-bao-the-he-ngay-mai-c158-34071.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/v2_2011_18h30_diem_hen_van_nghe_2811202118.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 28 Nov 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Báo Văn nghệ số 48 ra ngày 27/11 25/11/2021</title>
-      <link>http://vov6.vov.vn/diem-hen-van-nghe/bao-van-nghe-so-48-ra-ngay-2711-c158-34064.aspx</link>
-      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/bao-van-nghe-so-48-ra-ngay-2711-c158-34064.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/diem_bao_van_nghe_2911202110.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 25 Nov 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
