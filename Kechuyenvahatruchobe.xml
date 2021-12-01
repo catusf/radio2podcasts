@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 25 Nov 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 01 Dec 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 25 Nov 2021 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 01 Dec 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Kể chuyện và hát ru cho bé</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Kechuyenvahatruchobe.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Sự tích kèn môi 25/11/2021</title>
+      <title>Người khách đi đường sáng trí 1/12/2021</title>
+      <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/nguoi-khach-di-duong-sang-tri-c43-34081.aspx</link>
+      <description><![CDATA[Có một người lái buôn bị mất con lạc đà. Ông ta vô cùng bối rối, chưa biết phải làm thế nào. Ông đã được một người đi đường phân tích, đưa ra những suy luận giúp ông có hướng tìm kiếm con vật thân thiết của mình như thế nào? (Kể chuyện và hát ru 24/11/2021)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/nguoi-khach-di-duong-sang-tri-c43-34081.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2021_12/v2_2411_21h45_ke_chuyen_va_hat_ru_1_112202110.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 01 Dec 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Sự tích kèn môi  25/11/2021</title>
       <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/su-tich-ken-moi-c43-34062.aspx</link>
       <description><![CDATA[Từ đó, mỗi khi vui chơi, chàng lại mang chiếc kèn môi ra thổi, để nhớ lại những kỷ niệm xưa. Dân bản Mèo cảm phục gương anh dũng của chàng nên cũng làm kèn môi để thổi. Và trong những cuộc hẹn hò của nam thanh nữ tú, họ lại dùng kèn môi thủ thỉ tâm tình... (Kể chuyện và hát ru 22/11/2021)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/su-tich-ken-moi-c43-34062.aspx</guid>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/bay-dieu-uoc-trong-truyen-doa-hoa-than-tien-c43-34054.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2021_11/v2_1311_21h45_ke_chuyen_hat_ru_2311202116.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 23 Nov 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chàng Rùa kì lạ  24/10/2021</title>
-      <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/chang-rua-ki-la-c43-33967.aspx</link>
-      <description><![CDATA[Chàng Rùa từng bị mọi người chế giễu bởi sự chậm chạp của mình, dù chàng đã lao động rất cần mẫn và luôn hiếu thảo với cha mẹ. Thế nhưng chàng lại luôn đem đến những bất ngờ, và bất ngờ lớn nhất là cưới được công chúa đấy! (Kể chuyện và hát ru 16/10/2021)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/chang-rua-ki-la-c43-33967.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2021_10/v2_1510_10h4518h15_van_nghe_thieu_nhi_2410202110.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 24 Oct 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
