@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 30 Nov 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 02 Dec 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 30 Nov 2021 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 02 Dec 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,22 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>OPEC+ liệu có tăng sản lượng khai thác dầu?</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Ngày 02/12, tại Viên (Áo) diễn ra cuộc họp của Tổ chức các nước xuất khẩu dầu mỏ và các đối tác (gọi là nhóm OPEC+). Tại cuộc họp, các thành viên của nhóm sẽ thảo luận về chính sách khai thác dầu mỏ trong đầu năm tới, đồng thời đánh giá ảnh hưởng của biến thể mới đối với thị trường. Cuộc họp của nhóm OPEC+ lần này được đánh giá là quan trọng trong bối cảnh thị trường dầu mỏ đang phải đối mặt với thách thức từ sự xuất hiện biến thể mới Omicron của virus SARS-Cov2 và việc một số nước mở các kho dự trữ dầu. Trong bối cảnh như vậy, dư luận có thể kỳ vọng gì vào một chính sách dầu mỏ nhằm ổn định thị trường cũng như không chặn đà phục hồi kinh tế trước các tác động của đại dịch Covid-19.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/12/02/vovlive_vandequocte_opec-lieucotangsanluongkhaithacdau.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 02 Dec 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Thách thức với quá trình phục hồi kinh tế toàn cầu</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Sau gần 2 năm chao đảo vì dịch Covid-19, nhiều quốc gia đã thay đổi chiến lược ứng phó, từ áp đặt phong tỏa chuyển sang thích ứng linh hoạt, từ Zero Covid sang sống chung an toàn, tạo tiền đề cho quá trình phục hồi kinh tế toàn cầu. Nhưng sự xuất hiện của biến thể mới Omicron đang tạo ra thách thức mới cho quá trình phục hồi này, thậm chí có thể “kèo lùi” những thành quả về phục hồi kinh tế từng đạt được khi các quốc gia từng bước mở cửa lại nền kinh tế. Sự xuất hiện của các biến thể mới Omicron cho thấy việc cân bằng giữa phục hồi kinh tế và đảm bảo an toàn cho sức khỏe người dân là không hề đơn giản, đòi hỏi chính phủ các quốc gia phải có cách tiếp cận phù hợp.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/12/01/vovlive_vandequocte_thachthucvoiquatrinhphuchoikinhtetoancau.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 01 Dec 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Biến thể Omicron hâm nóng các diễn đàn toàn cầu</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -38,22 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2021/11/30/vovlive_vandequocte_tuonglaikhoiphucviecnoilaidamphanvethoathuanhatnhan.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 29 Nov 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Mỹ và các nước lớn “xả” kho dự trữ dầu: Những kịch bản nào cho giá dầu thế giới?</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Giá dầu tăng, nguồn cung hạn hẹp là những từ khóa được nhắc đến nhiều lần trong những ngày qua và là yếu tố quan trọng tác động đến sự phục hồi của kinh tế toàn cầu. Trong một diễn biến đáng chú ý, Tổng thống Mỹ Joe Biden vừa ra lệnh mở kho dự trữ dầu chiến lược, “xả” 50 triệu thùng dầu cùng lúc với các nước Trung Quốc, Ấn Độ, Nhật Bản, Hàn Quốc và Vương quốc Anh. Theo thông cáo của Nhà Trắng, đây là một chiến dịch phối hợp đa quốc gia nhằm kìm lại giá dầu thô đang tăng vọt trên toàn cầu dẫn tới nhiều hệ lụy với các nền kinh tế mới bắt đầu phục hồi. Động thái diễn ra sau khi Tổ chức các nước xuất khẩu dầu mỏ OPEC và đối tác (OPEC+) kiên quyết không tăng sản lượng dầu thô khai thác mỗi ngày cho đến hết ngày 2/12. Động thái xả kho dự trữ dầu của Mỹ và các nước tác động ra sao đến thị trường dầu thế giới? Mối bất hòa giữa OPEC + với các nước tiêu thụ dầu thô lớn sẽ đi đến đâu?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/11/25/vovlive_vandequocte_myvacacnuoclonxakhodutrudau(1).mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 25 Nov 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Quan hệ Nga - Mỹ lại “nóng” vì dự án Dòng chảy phương Bắc 2</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Sau khi các cơ quan chức năng Đức tạm dừng quá trình phê chuẩn Dòng chảy phương Bắc 2, quan hệ Nga - Mỹ tiếp tục nóng liên quan đến dự án nhiều tranh cãi này. Ngoại trưởng Mỹ Antoni Blinken vừa thông báo áp đặt các biện pháp trừng phạt mới nhằm vào tuyến đường ống dẫn khí đốt tự nhiên chạy thẳng từ Nga sang Đức. Đáp lại, Nga phản đối và cho rằng, các nỗ lực cản trở hoạt động xuất khẩu dầu mỏ và khí đốt của Nga đến Châu Âu là hành vi cạnh tranh không lành mạnh, hủy hoại các nguyên tắc thị trường tự do. Đằng sau những căng thẳng mới nhất giữa các bên lần này là gì? Liệu có tiếp tục là những mục tiêu và toan tính chính trị như nhiều chuyên gia lo ngại?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/11/24/vovlive_vandequocte_quanhengamylainongviduandongchayphuongbac2.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 24 Nov 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
