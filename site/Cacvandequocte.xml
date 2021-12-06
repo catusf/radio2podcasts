@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 02 Dec 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 06 Dec 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 02 Dec 2021 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 06 Dec 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Nước Đức chuẩn bị có Thủ tướng mới, thách thức chờ đợi nhà lãnh đạo mới của Đức</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Hôm nay (ngày 6/12), Hạ viện Đức bắt đầu bỏ phiếu thông qua vị trí Thủ tướng mới của nước Đức thay thế cho bà Angela Merkel kết thúc nhiệm kỳ sau 16 năm cầm quyền. Nếu không có gì thay đổi, gần như chắc chắn, Hạ viện Đức sẽ lựa chọn ông Olaf Scholz trở thành Thủ tướng mới của Đức. Đáng chú ý, ngay sau khi được phê chuẩn, dự kiến Thủ tướng mới của nước Đức sẽ thăm chính thức Pháp ngay trong tuần này để khẳng định quan hệ đồng minh Pháp - Đức cũng như xác định những đường hướng mới lãnh đạo Liên minh Châu Âu.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/12/06/vovlive_vandequocte_nuocducchuanbicothutuongmoi.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 06 Dec 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>OPEC+ liệu có tăng sản lượng khai thác dầu?</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2021/11/30/vovlive_vandequocte_bientheomicron.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 30 Nov 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Tương lai khôi phục việc nối lại đàm phán về Thỏa thuận hạt nhân Iran</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Theo kế hoạch, ngày 29/11, cuộc đàm phán về Thỏa thuận hạt nhân Iran sẽ được nối lại tại Viên (Áo). Sau gần nửa năm bị đình trệ, cuộc đàm phán lần này được kỳ vọng sẽ tìm ra giải pháp nhằm cứu vãn Kế hoạch hành động chung toàn diện giữa Iran và Nhóm P5+1 ký kết năm 2015, vốn gần như đổ vỡ sau khi Mỹ rút khỏi thỏa thuận này năm 2018. Tuy nhiên, tiến trình đàm phán để khôi phục Thỏa thuận hạt nhân Iran vẫn còn lắm chông gai vì sự nhượng bộ giữa các bên là không dễ dàng.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/11/30/vovlive_vandequocte_tuonglaikhoiphucviecnoilaidamphanvethoathuanhatnhan.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 29 Nov 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
