@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 07 Dec 2021 03:05:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 07 Dec 2021 12:30:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 07 Dec 2021 03:05:00 +0700</pubDate>
+    <pubDate>Tue, 07 Dec 2021 12:30:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Các trường hợp học sinh F0, cách ly sẽ được kiểm tra học kỳ bổ sung - Thời sự 05g30 7/12/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/cac-truong-hop-hoc-sinh-f0-cach-ly-se-duoc-kiem-tra-hoc-ky-bo-sung-thoi-su-05g30-7-12-2021-420415.html</link>
+      <description><![CDATA[05:30 - 07/12/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/cac-truong-hop-hoc-sinh-f0-cach-ly-se-duoc-kiem-tra-hoc-ky-bo-sung-thoi-su-05g30-7-12-2021-420415.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/12/07/TS-05G30-071221.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 07 Dec 2021 12:30:00 +0700</pubDate>
+    </item>
     <item>
       <title>Kỳ thứ 4 Hội đồng nhân dân Thành phố sẽ cho ý kiến nhiều nội dung quan trọng - Thời sự 17g 6/12/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/ky-thu-4-hoi-dong-nhan-dan-thanh-pho-se-cho-y-kien-nhieu-noi-dung-quan-trong-thoi-su-17g-6-12-2021-420389.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tien-si-tran-du-lich-hien-ke-phuc-hoi-va-phat-trien-kinh-te-xa-hoi-tphcm-thoi-su-11g00-6-12-2021-420330.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/12/06/AMThoisu11h00p061221.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 06 Dec 2021 19:38:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Thành phố thích ứng an toàn, linh hoạt, kiểm soát hiệu quả dịch bệnh - Thời sự 5g30 6/12/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/thanh-pho-thich-ung-an-toan-linh-hoat-kiem-soat-hieu-qua-dich-benh-thoi-su-5g30-6-12-2021-420315.html</link>
-      <description><![CDATA[06:33 - 06/12/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/thanh-pho-thich-ung-an-toan-linh-hoat-kiem-soat-hieu-qua-dich-benh-thoi-su-5g30-6-12-2021-420315.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/12/06/AMThoisu05h30p061221.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 06 Dec 2021 13:33:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
