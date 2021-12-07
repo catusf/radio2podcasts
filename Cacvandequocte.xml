@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 06 Dec 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 07 Dec 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 06 Dec 2021 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 07 Dec 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Hội nghị thượng đỉnh trực tuyến Mỹ - Nga: Nỗ lực đưa mối quan hệ song phương đi đúng hướng</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Cuộc đối thoại trực tuyến giữa hai tổng thống Nga và Mỹ trong ngày hôm nay (ngày 7/12) là một trong những sự kiện ngoại giao được quan tâm nhất thời điểm này. Có nhiều lý do để cả hai bên muốn tạo lập một trạng thái ổn định trong mối quan hệ ngoại giao được đánh giá là thấp chưa từng có giữa 2 nước. Tuy nhiên, những diễn biến căng thẳng xoay quanh Ukraine đặt mối quan hệ hai bên vào tình huống nhiều rủi ro. Theo giới quan sát, nếu không có giải pháp hạ nhiệt tình hình, quan hệ Nga – Mỹ có thể bị cuốn vào một vòng xoáy đối đầu mới khi cả hai dường như đều đặt ra những “lằn ranh đỏ” cho đối phương. Liệu cuộc đối thoại này sẽ giải quyết đến đâu những vấn đề an ninh mà cả Mỹ và Nga cùng quan tâm liên quan đến Ukraine và những vấn đề bất đồng khác?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/12/07/vovlive_vandequocte_hoinghithuongdinhtructuyenmynga.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 07 Dec 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Nước Đức chuẩn bị có Thủ tướng mới, thách thức chờ đợi nhà lãnh đạo mới của Đức</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2021/12/01/vovlive_vandequocte_thachthucvoiquatrinhphuchoikinhtetoancau.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 01 Dec 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Biến thể Omicron hâm nóng các diễn đàn toàn cầu</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Sau khi xuất hiện siêu biến thể Omicron với những nguy cơ khó lường, các quốc gia và khu vực ngay lập tức đã có những phản ứng nhanh chóng và quyết liệt. Các diễn đàn khu vực, toàn cầu trong đó có Hội nghị Bộ trưởng Y tế G7 cũng được triệu tập họp khẩn để phân tích các diễn biến mới cũng như bàn tính giải pháp ứng phó. Điều đó cho thấy, không chỉ là vấn đề biến thể mới nguy hiểm đến mức nào, Omicon còn “vô tình” làm lộ diện rất nhiều mặt trái và thực trạng nhức nhối vẫn đang tồn tại trong cuộc chiến chống COVID-19, thậm chí có thể “kéo lùi” mọi nỗ lực toàn cầu nếu không sớm được giải quyết triệt để.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/11/30/vovlive_vandequocte_bientheomicron.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 30 Nov 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
