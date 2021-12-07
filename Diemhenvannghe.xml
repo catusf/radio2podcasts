@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 01 Dec 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 07 Dec 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 01 Dec 2021 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 07 Dec 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,14 @@
     <itunes:subtitle>Điểm hẹn văn nghệ</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Diemhenvannghe.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Tập thơ của một người yêu nước mình1/12/2021</title>
+      <title>Báo Văn nghệ số 49 ra ngày 4/127/12/2021</title>
+      <link>http://vov6.vov.vn/diem-hen-van-nghe/bao-van-nghe-so-49-ra-ngay-412-c158-34091.aspx</link>
+      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/bao-van-nghe-so-49-ra-ngay-412-c158-34091.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_12/diem_bao_van_nghe_712202111.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 07 Dec 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Tập thơ của một người yêu nước mình 1/12/2021</title>
       <link>http://vov6.vov.vn/diem-hen-van-nghe/tap-tho-cua-mot-nguoi-yeu-nuoc-minh-c158-34085.aspx</link>
       <description><![CDATA[Một trong những điểm đáng chú ý của Giải Sách Quốc gia lần thứ 4 vừa qua là việc tập thơ “Bài thơ của một người yêu nước mình” của nhà thơ Trần Vàng Sao, do Công ty Văn hóa & Truyền thông Nhã Nam cùng NXB Hội Nhà văn ấn hành, đã được trao giải B. Sau những lận đận, tác giả của trường ca “Gọi tìm xác đồng đội” đã được ghi nhận chính thức và xứng đáng. Để hiểu thêm về tác phẩm này, mời quý vị và các bạn nghe đôi lời bình luận của BTV chương trình.]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/tap-tho-cua-mot-nguoi-yeu-nuoc-minh-c158-34085.aspx</guid>
@@ -38,14 +45,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/goi-em-xu-nau-c158-34075.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/goi_em_xu_nau_2911202111.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 29 Nov 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>“Lặng lẽ cuộc đời thầy”: Vun trồng bao thế hệ ngày mai   28/11/2021</title>
-      <link>http://vov6.vov.vn/diem-hen-van-nghe/lang-le-cuoc-doi-thay-vun-trong-bao-the-he-ngay-mai-c158-34071.aspx</link>
-      <description><![CDATA[Tác phẩm được tác giả Bùi Thanh Hà lấy cảm hứng từ chính cuộc đời làm nghề dậy học của mình hơn 30 năm qua. Bài thơ có thêm một đời sống tinh thần mới khi nhạc sĩ Trọng Tĩnh phổ nhạc thành bài hát cùng tên ngợi ca người giáo viên. (Điểm hẹn văn nghệ 20/11/2021)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/lang-le-cuoc-doi-thay-vun-trong-bao-the-he-ngay-mai-c158-34071.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/v2_2011_18h30_diem_hen_van_nghe_2811202118.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 28 Nov 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
