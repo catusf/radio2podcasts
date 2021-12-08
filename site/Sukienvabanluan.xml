@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 06 Dec 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 08 Dec 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 06 Dec 2021 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 08 Dec 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Thành phố đắt đỏ nhất thế giới - đằng sau sự "thăng hạng" của Tel Aviv</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Tạp chí Economist vừa mới công bố kết quả khảo sát các thành phố có chi phí sinh hoạt đắt đỏ nhất thế giới. Việc chi phí sinh hoạt tại hầu hết các thành phố khảo sát đều tăng cao là điều nằm trong dự tính do dịch Covid-19 dẫn đến lạm phát cao và sự gián đoạn chuỗi cung ứng toàn cầu. Nhưng kết quả khiến nhiều người ngạc nhiên là thành phố Tel Aviv của Israel đã tăng tới 5 bậc trong bảng xếp hạng, vượt qua cả Thủ đô Paris của Pháp để lần đầu tiên trở thành thành phố đắt đỏ nhất thế giới.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/12/08/vovlive_sukienvabinhluan_thanh_pho_dat_do_nhat_the_gioi.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 08 Dec 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Tình thế khó của Nam Phi sau khi báo cáo về biến thể Omicron</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2021/12/02/vovlive_sukienvabinhluan_thay_gi_tu_ke_hoach_phat_trien_cong_nghiep_xanh_indonesia.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 02 Dec 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Giải bài toán ngăn sụt lún ở Đồng Bằng Sông Cửu Long do khai thác nước ngầm</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Sụt lún đất ở Đồng bằng Sông Cửu Long hiện đang nhanh hơn gấp nhiều lần so với nước biển dâng. Nếu tình trạng này tiếp tục xảy ra, phần lớn diện tích của đồng bằng có thể sẽ nằm dưới mực nước biển vào cuối thế kỷ XXI. Thông tin đáng chú ý này vừa được đưa ra tại một hội thảo về quản trị nước ngầm và sụt lún ở đồng bằng này được tổ chức mới đây. Mối quan hệ giữa khai thác nước ngầm và sụt lún là gì? Đâu là giải pháp để giảm tốc độ sụt lún hiện nay?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/12/01/vovlive_sukienvabinhluan_giai_bai_toan-sut_lun_o_dong_bang_song-cua_long.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Dec 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
