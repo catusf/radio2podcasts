@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 09 Nov 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 07 Dec 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 09 Nov 2021 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 07 Dec 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,22 @@
     </itunes:owner>
     <itunes:subtitle>Những giọng ca còn mãi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Nhunggiongcaconmai.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>NSƯT Xuân Theo: Người chiến sĩ, nghệ sĩ đam mê với nghệ thuật Chèo</title>
+      <link>https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</link>
+      <description><![CDATA[Với giọng hát mượt mà, ngọt ngào, nghệ sĩ Xuân Theo nhập vai nữ chính rất phù hợp. Có thể nói cả cuộc đời và sự nghiệp của bà gắn liền với hai vai diễn và đều là những vai diễn mẫu mực trong chèo đó là Nguyên Phi Ỷ Lan trong bộ ba vở “Bài ca giữ nước” của tác giả, NSND Tào Mạt, và vai Châu Long trong vở “Lưu Bình, Dương Lễ”. Nếu như ở vai diễn Châu Long, Xuân Theo diễn mềm mại, câu hát nhẹ nhàng, dịu dàng thể hiện Châu Long là một người phụ nữ hiền thục nết na thì ở vai diễn Nguyên Phi Ỷ Lan, nghệ sĩ “xuất thần” diễn với những tình huống khác nhau, xử trí cách hát, câu hát khác nhau…]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/12/08/vovlive_nhung_giong_ca_con_mai_nsut_cheo_xuan_theo.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 07 Dec 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>NSND Mạnh Tưởng: Người nghệ sĩ thành công trên Sân khấu cải lương và trên làn sóng Đài TNVN</title>
+      <link>https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</link>
+      <description><![CDATA[Là một nghệ sĩ có tài, nổi tiếng trong ngành nghệ thuật cải lương của cả nước, NSND Mạnh Tưởng không chỉ diễn giỏi mà hát cũng rất hay. Suốt trong những năm chống Mỹ cứu nước, giọng ca vàng của ông đã được Đài Phát thanh Tiếng nói Việt Nam giới thiệu qua làn sóng nhiều lần, góp phần cổ vũ, động viên quân dân cả nước, chiến đấu và chiến thắng kẻ thù xâm lược. Những bài ca quê hương: Võ Thị Thắng, Cây sáo trúc, Hoa tím chiều thu, Hạt lúa quê mình... được thính giả cả nước yêu cầu phát lại nhiều lần trên làn sóng Đài Tiếng nói Việt Nam…]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/12/08/vovlive_nhung_giong_ca_con_mai_nsnd_cai_luong_manh_tuong.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 30 Nov 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>NSND Út Trà Ôn: Vua vọng cổ</title>
       <link>https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</link>
@@ -38,22 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2021/10/12/vovlive_nhung_giong_ca_con_mai_nsnd_thuy_cai.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 12 Oct 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Nghệ nhân-NSƯT Hà Thị Cầu: Hiện tượng độc đáo của nghệ thuật dân tộc</title>
-      <link>https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</link>
-      <description><![CDATA[Trong nghệ thuật hát xẩm, tên tuổi của nghệ nhân-NSƯT Hà Thị Cầu luôn gắn liền với nghệ thuật hát xẩm đương đại. Bà được đánh giá là nghệ nhân duy nhất còn lưu giữ được nhiều làn điệu cổ của nghề và có thể tự đặt lời mới mang hơi thở của thời đại cho các làn điệu xẩm truyền thống. Giọng hát của bà không chỉ đằm, sâu mà còn mang đủ năm yếu tố vang, rền, nền, nảy và tình; cách hát buông hơi nhả chữ, lấy hơi luyến láy, đảo phách, rung ngân,…mà còn đặc biệt ở tiếng nhị được thể hiện một cách thuần thục điêu luyện…]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/10/07/vovlive_nhung_giong_ca_con_mai_ha_thi_cau.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 07 Oct 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>NSND Thanh Huyền: Ngôi sao trên sóng phát thanh</title>
-      <link>https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</link>
-      <description><![CDATA[Giọng hát của NSND Thanh Huyền đã đi sâu vào ký ức của nhiều thế hệ công chúng.  Đó là giọng hát vừa trong, vừa cao, mà đầy ngọt ngào, sâu lắng. Một giọng ca nữ xuất sắc kết hợp nhuần nhuyễn giữa dân ca và kỹ thuật thanh nhạc cổ điển. Trong suốt các thập niên 1960 – 1990, giọng hát của nữ nghệ sĩ đã vang lên trên làn sóng Đài TNVN. Và bà là một trong những nghệ sĩ có nhiều bản thu được phát nhiều nhất trên làn sóng Đài Tiếng nói Việt Nam. Với giọng hát đẹp bẩm sinh mang đậm chất dân ca Việt Nam cùng sự lao động nghệ thuật bền bỉ, tên tuổi Thanh Huyền đã nổi lên như một trong những ngôi sao sáng nhất của giới nghệ sỹ biểu diễn. Nổi tiếng không chỉ với những bài dân ca Bắc Bộ như: Bèo dạt mây trôi, Xe chỉ luồn kim, Người ở đừng về, Gửi anh một khúc dân ca,..NSND Thanh Huyền còn thổi hồn dân ca thành công vào nhạc cách mạng tạo nên điệu hồn dân tộc thấm đẫm trong những ca khúc nhạc cách mạng: Đường cày đảm đang, Lời ca dâng Bác, Khi thành phố lên đèn…]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/09/28/vovlive_nhung_giong_ca_con_mai_nsnd_thanh_huyen.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 28 Sep 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
