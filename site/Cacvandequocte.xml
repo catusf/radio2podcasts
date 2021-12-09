@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 07 Dec 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 09 Dec 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 07 Dec 2021 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 09 Dec 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Căng thẳng giữa 2 nước Mỹ và Trung Quốc liên quan đến việc tổ chức Đại hội Thể thao Olympic mùa Đông 2022 tại Bắc Kinh</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Trong động thái mới nhất, Nhà Trắng vừa thông báo quyết định không cử đại diện ngoại giao đến Đại hội Thể thao Olympic mùa Đông 2022 tại Bắc Kinh, dự kiến diễn ra vào tháng 2 năm tới. Chưa hết, Mỹ cũng đã thông báo quyết định cho một số đồng minh. Một số nước như Australia và Anh cũng đang cân nhắc vấn đề này. Trong phản ứng đầu tiên, Người phát ngôn Bộ Ngoại giao Trung Quốc Triệu Lập Kiên nhấn mạnh, Olympic là sân chơi thể thao toàn cầu, không phải là một sân khấu chính trị. Quyết định của Mỹ sẽ không ảnh hưởng đến việc Trung Quốc tổ chức thành công sự kiện thể thao này.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/12/09/vovlive_cangthanggiua2nuocmytrung.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 09 Dec 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Hội nghị thượng đỉnh trực tuyến Mỹ - Nga: Nỗ lực đưa mối quan hệ song phương đi đúng hướng</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2021/12/02/vovlive_vandequocte_opec-lieucotangsanluongkhaithacdau.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 02 Dec 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Thách thức với quá trình phục hồi kinh tế toàn cầu</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Sau gần 2 năm chao đảo vì dịch Covid-19, nhiều quốc gia đã thay đổi chiến lược ứng phó, từ áp đặt phong tỏa chuyển sang thích ứng linh hoạt, từ Zero Covid sang sống chung an toàn, tạo tiền đề cho quá trình phục hồi kinh tế toàn cầu. Nhưng sự xuất hiện của biến thể mới Omicron đang tạo ra thách thức mới cho quá trình phục hồi này, thậm chí có thể “kèo lùi” những thành quả về phục hồi kinh tế từng đạt được khi các quốc gia từng bước mở cửa lại nền kinh tế. Sự xuất hiện của các biến thể mới Omicron cho thấy việc cân bằng giữa phục hồi kinh tế và đảm bảo an toàn cho sức khỏe người dân là không hề đơn giản, đòi hỏi chính phủ các quốc gia phải có cách tiếp cận phù hợp.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/12/01/vovlive_vandequocte_thachthucvoiquatrinhphuchoikinhtetoancau.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Dec 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
