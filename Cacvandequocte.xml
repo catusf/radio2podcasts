@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 09 Dec 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 10 Dec 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 09 Dec 2021 19:00:00 +0700</pubDate>
+    <pubDate>Fri, 10 Dec 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Đề xuất mới của Iran thử thách sự kiên nhẫn của Nhóm P5+1</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Ngày 9/12, vòng đàm phán mới về khôi phục thỏa thuận hạt nhân Iran sẽ nối lại tại Viên (Áo) sau khi gián đoạn vào cuối tuần trước. Về phía P5+1 sẽ có các đoàn đàm phán của Anh, Trung Quốc, Pháp, Đức và Nga, trong khi phái đoàn Mỹ vẫn tham dự gián tiếp thông qua sự trung gian của Liên minh Châu Âu. Vòng đàm phán này diễn ra trong bối cảnh các nước P5+1 đang rất thất vọng với thái độ mà P5+1 cho là “thiếu nghiêm túc” của Iran khi nước này tuần trước đưa ra đề xuất mới thay đổi tới 70-80% các thỏa thuận mà hai bên phải mất nhiều vòng đàm phán căng thẳng mới đạt được. Việc P5+1 chấp thuận trở lại bàn đàm phán để xem xét các đề xuất của Iran được đánh giá là sự kiên nhẫn rất lớn. Iran sẽ ứng xử như thế nào trước sự kiên nhẫn này và các bên liệu sẽ chấp nhận nhượng bộ đến đâu trong các vấn đề cốt lõi?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/12/10/vovlive_vandequocte_dexuatmoicuairanthuthachsukiennhancuanhomp5-1.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 10 Dec 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Căng thẳng giữa 2 nước Mỹ và Trung Quốc liên quan đến việc tổ chức Đại hội Thể thao Olympic mùa Đông 2022 tại Bắc Kinh</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2021/12/06/vovlive_vandequocte_nuocducchuanbicothutuongmoi.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 06 Dec 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>OPEC+ liệu có tăng sản lượng khai thác dầu?</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Ngày 02/12, tại Viên (Áo) diễn ra cuộc họp của Tổ chức các nước xuất khẩu dầu mỏ và các đối tác (gọi là nhóm OPEC+). Tại cuộc họp, các thành viên của nhóm sẽ thảo luận về chính sách khai thác dầu mỏ trong đầu năm tới, đồng thời đánh giá ảnh hưởng của biến thể mới đối với thị trường. Cuộc họp của nhóm OPEC+ lần này được đánh giá là quan trọng trong bối cảnh thị trường dầu mỏ đang phải đối mặt với thách thức từ sự xuất hiện biến thể mới Omicron của virus SARS-Cov2 và việc một số nước mở các kho dự trữ dầu. Trong bối cảnh như vậy, dư luận có thể kỳ vọng gì vào một chính sách dầu mỏ nhằm ổn định thị trường cũng như không chặn đà phục hồi kinh tế trước các tác động của đại dịch Covid-19.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/12/02/vovlive_vandequocte_opec-lieucotangsanluongkhaithacdau.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 02 Dec 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
