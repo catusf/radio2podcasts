@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 07 Dec 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 12 Dec 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 07 Dec 2021 19:00:00 +0700</pubDate>
+    <pubDate>Sun, 12 Dec 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Điểm hẹn văn nghệ</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Diemhenvannghe.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Báo Văn nghệ số 49 ra ngày 4/127/12/2021</title>
+      <title>Thanh âm và sắc màu trong “Giấc mộng lang thang trên đồng cỏ úa” 12/12/2021</title>
+      <link>http://vov6.vov.vn/diem-hen-van-nghe/thanh-am-va-sac-mau-trong-giac-mong-lang-thang-tren-dong-co-ua-c158-34109.aspx</link>
+      <description><![CDATA[Tập truyện ngắn của tác giả Hiền Trang nằm trong tủ sách Văn học Tuổi 20 của NXB Trẻ kể về nỗi niềm của Phố Trong và Phố Ngoài với chất nhạc, họa, thi ca bảng lảng trong mỗi truyện. Đó có thể là nốt trầm (Cửa tiệm mua trái tim, ký ức, và giấc mơ), nốt ngang (Những người thích trườn), nốt bổng (Giấc mộng đêm hè) và cả bản concert (Tấu khúc tháng Sáu)…(Điểm hẹn văn nghệ 04/12/2021)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/thanh-am-va-sac-mau-trong-giac-mong-lang-thang-tren-dong-co-ua-c158-34109.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_12/v2_0412_08h00_diem_hen_van_nghe_1212202122.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 12 Dec 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Báo Văn nghệ số 49 ra ngày 4/12 7/12/2021</title>
       <link>http://vov6.vov.vn/diem-hen-van-nghe/bao-van-nghe-so-49-ra-ngay-412-c158-34091.aspx</link>
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/bao-van-nghe-so-49-ra-ngay-412-c158-34091.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_12/diem_bao_van_nghe_712202111.mp3" length="0" type="audio/mpeg"/>
@@ -37,14 +45,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/tap-tho-cua-mot-nguoi-yeu-nuoc-minh-c158-34085.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_12/gts_bai_tho_cua_mot_nguoi_yeu_nuoc_minh_112202115.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 01 Dec 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Gởi em xứ Nẫu 29/11/2021</title>
-      <link>http://vov6.vov.vn/diem-hen-van-nghe/goi-em-xu-nau-c158-34075.aspx</link>
-      <description><![CDATA[Trên mọi miền đất nước ta có nhiều vùng văn hóa khác biệt làm nên tên tuổi và cách nhận biết địa danh. Trong đó, vùng đất xứ Nẫu-Phú Yên nổi tiếng với những bãi biển xanh trong, món ăn đậm đà, tính cách hào sảng. Và ấn tượng nhất là giọng nói của người xứ Nẫu mang một thanh âm thô ráp mà mộc mạc gần gũi. Về thăm xứ Nẫu thân thương để khám phá nét đẹp trong văn hóa, tâm hồn con người Phú Yên. Một xứ Nẫu thân thiện, mến khách và rất đỗi nhiệt tình-vùng đất của những tháp Chàm trầm mặc, rêu phong cùng những điệu bài chòi mượt mà, sâu lắng và những con người thật thà chất phác…Trong bút ký “Gởi em xứ Nẫu”, tác giả Trương Chí Hùng đã bày tỏ tình cảm thiết tha với vùng đất “hoa vàng cỏ xanh” này theo một cách rất riêng:]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/goi-em-xu-nau-c158-34075.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/goi_em_xu_nau_2911202111.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 29 Nov 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
