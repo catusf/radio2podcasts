@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 05 Dec 2021 17:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 12 Dec 2021 17:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 05 Dec 2021 17:00:00 +0700</pubDate>
+    <pubDate>Sun, 12 Dec 2021 17:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Quà tặng âm nhạc trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Quatangamnhac.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Em ơi Hà Nội phố - Quà tặng âm nhạc 12/12/2021</title>
+      <link>https://radio.voh.com.vn/qua-tang-am-nhac/em-oi-ha-noi-pho-qua-tang-am-nhac-12-12-2021-420916.html</link>
+      <description><![CDATA[10:00 - 12/12/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/em-oi-ha-noi-pho-qua-tang-am-nhac-12-12-2021-420916.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/12/12/qtan-121221.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 12 Dec 2021 17:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Gọi tên bốn mùa - Quà tặng âm nhạc 5/12/2021</title>
       <link>https://radio.voh.com.vn/qua-tang-am-nhac/goi-ten-bon-mua-qua-tang-am-nhac-5-12-2021-420260.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/nguoi-dua-do-qua-tang-am-nhac-14-11-2021-418309.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/11/15/QTAN-141121.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 14 Nov 2021 17:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Mùa thu cho em - Quà tặng âm nhạc 7/11/2021</title>
-      <link>https://radio.voh.com.vn/qua-tang-am-nhac/mua-thu-cho-em-qua-tang-am-nhac-7-11-2021-417807.html</link>
-      <description><![CDATA[10:00 - 07/11/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/mua-thu-cho-em-qua-tang-am-nhac-7-11-2021-417807.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/11/09/qtan-071121.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 07 Nov 2021 17:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
