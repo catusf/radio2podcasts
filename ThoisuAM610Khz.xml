@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 11 Dec 2021 18:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 12 Dec 2021 01:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 11 Dec 2021 18:00:00 +0700</pubDate>
+    <pubDate>Sun, 12 Dec 2021 01:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Công an là lực lượng tuyến đầu trong phòng, chống Covid-19 - Thời sự 17g00 11/12/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/cong-an-la-luc-luong-tuyen-dau-trong-phong-chong-covid-19-thoi-su-17g00-11-12-2021-420901.html</link>
+      <description><![CDATA[18:00 - 11/12/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/cong-an-la-luc-luong-tuyen-dau-trong-phong-chong-covid-19-thoi-su-17g00-11-12-2021-420901.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/12/12/AMThoisu17h00p1112211.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 12 Dec 2021 01:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Báo chí là lực lượng tuyến đầu của tuyến đầu - Thời sự 11g00 11/12/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/bao-chi-la-luc-luong-tuyen-dau-cua-tuyen-dau-thoi-su-11g00-11-12-2021-420862.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-tap-trung-nguon-luc-phuc-hoi-kinh-te-va-phong-chong-dich-thoi-su-5g30-11-12-2021-420853.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/12/11/AMThoisu05h30p111221.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 11 Dec 2021 12:30:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Cần cơ chế đặc thù để phát triển thành phố Thủ Đức – Thời sự 17g00 10/12/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/can-co-che-dac-thu-de-phat-trien-thanh-pho-thu-duc-thoi-su-17g00-10-12-2021-420808.html</link>
-      <description><![CDATA[18:39 - 10/12/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/can-co-che-dac-thu-de-phat-trien-thanh-pho-thu-duc-thoi-su-17g00-10-12-2021-420808.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/12/10/AMThoisu17h00p101221.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 11 Dec 2021 01:39:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
