@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 12 Dec 2021 18:13:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 13 Dec 2021 03:57:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 12 Dec 2021 18:13:00 +0700</pubDate>
+    <pubDate>Mon, 13 Dec 2021 03:57:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ngày của phở 12/12: món ăn quốc hồn, quốc túy, tinh hoa ẩm thực Việt Nam - Thời Sự 17g00 12/12/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/ngay-cua-pho-12-12-mon-an-quoc-hon-quoc-tuy-tinh-hoa-am-thuc-viet-nam-thoi-su-17g00-12-12-2021-420945.html</link>
+      <description><![CDATA[20:57 - 12/12/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/ngay-cua-pho-12-12-mon-an-quoc-hon-quoc-tuy-tinh-hoa-am-thuc-viet-nam-thoi-su-17g00-12-12-2021-420945.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/12/12/AMThoisu17h00p121221.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 13 Dec 2021 03:57:00 +0700</pubDate>
+    </item>
     <item>
       <title>Sài Gòn buổi sáng - 12/12/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/sai-gon-buoi-sang-12-12-2021-420931.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tao-moi-truong-trong-xanh-an-toan-don-tre-den-truong-thoi-su-11g00-12-12-2021-420928.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/12/12/amthoisu11h00p121221-20211212104205-Copy.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 12 Dec 2021 17:48:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Văn hóa đọc trong doanh nghiệp, cách tiếp cận tri thức nhân loại nhanh nhất –Thời sự 5g30 12/12/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/van-hoa-doc-trong-doanh-nghiep-cach-tiep-can-tri-thuc-nhan-loai-nhanh-nhat-thoi-su-5g30-12-12-2021-420921.html</link>
-      <description><![CDATA[08:51 - 12/12/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/van-hoa-doc-trong-doanh-nghiep-cach-tiep-can-tri-thuc-nhan-loai-nhanh-nhat-thoi-su-5g30-12-12-2021-420921.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/12/12/amthoisu05h30p121221-20211211231443-Copy.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 12 Dec 2021 15:51:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
