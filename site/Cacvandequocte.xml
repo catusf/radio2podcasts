@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 10 Dec 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 13 Dec 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 10 Dec 2021 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 13 Dec 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Kết nối G7 – ASEAN: Khẳng định tầm quan trọng của Châu Á – Thái Bình Dương</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Hội nghị Ngoại trưởng Nhóm các nước công nghiệp phát triển hàng đầu thế giới trong 2 ngày vừa qua đã đề cập nhiều nội dung quan trọng, từ phục hồi kinh tế hậu đại dịch Covid-19 tới xử lý mối quan hệ với Nga, Trung Quốc, các điểm nóng Ucraina, Triều Tiên, Iran… Tuy nhiên, điều thu hút sự quan tâm rất lớn của dư luận quốc tế là việc lần đầu tiên, Anh mời ngoại trưởng các nước Đông Nam Á (trừ Myanma) tham gia thảo luận với Ngoại trưởng các nước G7. Sự xuất hiện của Ngoại trưởng các nước ASEAN bên cạnh các nước khác như Hàn Quốc, Australia, Ấn Độ cho thấy vai trò ngày càng quan trọng của ASEAN trong bối cảnh nhiều quốc gia xác định đặt trọng tâm chính sách đối ngoại vào khu vực Châu Á – Thái Bình Dương. Từng công bố chiến lược “Nước Anh toàn cầu” với điểm nhấn Châu Á – Thái Bình Dương, nước Anh với vai trò Chủ tịch luân phiên của G7 cũng thể hiện sự tự chủ chiến lược với EU khi thúc đẩy kết nối giữa G7 và ASEAN tại Hội nghị Ngoại trưởng G7.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/12/13/vovlive_vandequocte_ketnoig7aseankhangdinhtamquantrongcuachauathaibinhduong.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 13 Dec 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Đề xuất mới của Iran thử thách sự kiên nhẫn của Nhóm P5+1</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2021/12/07/vovlive_vandequocte_hoinghithuongdinhtructuyenmynga.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 07 Dec 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Nước Đức chuẩn bị có Thủ tướng mới, thách thức chờ đợi nhà lãnh đạo mới của Đức</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Hôm nay (ngày 6/12), Hạ viện Đức bắt đầu bỏ phiếu thông qua vị trí Thủ tướng mới của nước Đức thay thế cho bà Angela Merkel kết thúc nhiệm kỳ sau 16 năm cầm quyền. Nếu không có gì thay đổi, gần như chắc chắn, Hạ viện Đức sẽ lựa chọn ông Olaf Scholz trở thành Thủ tướng mới của Đức. Đáng chú ý, ngay sau khi được phê chuẩn, dự kiến Thủ tướng mới của nước Đức sẽ thăm chính thức Pháp ngay trong tuần này để khẳng định quan hệ đồng minh Pháp - Đức cũng như xác định những đường hướng mới lãnh đạo Liên minh Châu Âu.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/12/06/vovlive_vandequocte_nuocducchuanbicothutuongmoi.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 06 Dec 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

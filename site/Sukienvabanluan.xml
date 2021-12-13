@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 08 Dec 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 13 Dec 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 08 Dec 2021 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 13 Dec 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>New Zealand và kế hoạch tham vọng trở thành quốc gia không khói thuốc</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Với “Kế hoạch hành động không khói thuốc 2025”, chính quyền New Zealand đang ấp ủ chiến lược đầy tham vọng để từng bước trở thành quốc gia không khói thuốc lá vào năm 2025. Liệu triển vọng chiến lược này của New Zealand có khả thi?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/12/13/vovlive_sukienvabinhluan_new-zealand-_va_ke_hoach_tham-vong_tro_thanh_quoc_gia_khong_khoi_thuoc.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 13 Dec 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Thành phố đắt đỏ nhất thế giới - đằng sau sự "thăng hạng" của Tel Aviv</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2021/12/03/vovlive_sukienvabinhluan_du_lich_dam_bao_tang_truong_trong_binh_thuong_moi.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 03 Dec 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Thấy gì từ kế hoạch phát triển công nghiệp xanh của Indonesia?</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[“Trung hòa khí thải carbon để bảo vệ môi trường” là mục tiêu của nhiều quốc gia, trong đó nhiều nước hướng tới phát thải ròng bằng 0 trong vài thập kỷ tới. Là quốc gia phát thải khí nhà kính đứng thứ 8 trên thế giới, Indonesia gần đây đã đưa ra mục tiêu đạt mức phát thải ròng bằng 0 vào năm 2060 hoặc sớm hơn. Để thực hiện mục tiêu này chính quyền của Tổng thống Joko Widodo đã có nhiều nỗ lực nhằm thúc đẩy phát triển bền vững, trong đó tiến tới một nền công nghiệp dựa vào năng lượng sạch.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/12/02/vovlive_sukienvabinhluan_thay_gi_tu_ke_hoach_phat_trien_cong_nghiep_xanh_indonesia.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 02 Dec 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
