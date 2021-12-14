@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 06 Dec 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 14 Dec 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 06 Dec 2021 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 14 Dec 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,16 @@
     </itunes:owner>
     <itunes:subtitle>Thể thao 7 ngày</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Thethao7ngay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Chương trình thể thao 7 ngày 11/12/2021</title>
+      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
+      <description><![CDATA[- Trong tuần quan thầy trò HLV Park Hang Seo khởi động hành trình bảo vệ ngôi vô địch Đông Nam Á bằng chiến thắng đầu tiên trước tuyển Lào tại vòng bảng AFF Suzuki Cup 2020. Những dấu ấn sau chiến thằng 2 - 0 trước tuyển Lào cùng nhận định cuộc so tài mang tính quyết định với Malaysia ở lượt đấu thứ 2. 
+- Thể thao và cuộc sống có bài viết về tấm gương đầy nghị lực của vận đông viên cử tạ người khuyết tật Lê Văn Công. 
+- Kiến thức thể thao: Sự phát triển của môn trượt băng nghệ thuật tại Việt Nam.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/12/14/vovlive_thethao7ngay_chuongtrinhthethao7ngay11122021.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 14 Dec 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Chương trình Thể thao 7 ngày 5/12/2021</title>
       <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
@@ -50,18 +60,6 @@
 - Thể thao và cuộc sống cùng gặp gỡ nhà vô địch thế giới Muay Huỳnh Hà Hữu Hiếu và cảm nhận khát khao chinh phục huy chương vàng Sea Game của nữ võ sĩ 22 tuổi này.]]></description>
       <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2021/11/25/vovlive_thethao7ngay_chuongtrinhthethao7ngay20112021.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 25 Nov 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chương trình thể thao 7 ngày 13/11/2021</title>
-      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
-      <description><![CDATA[- Đề cập về thất bại 0-1 của Tuyển Việt Nam trước Nhật Bản tại sân vận động Mỹ Đình. 
-- Trả lời của trưởng ban tổ chức giải Fusan HD bank vô địch quốc gia về công tác chuẩn bị cho các trận đấu lượt về tại nhà thi đấu Quận 8 - TP Hồ Chí Minh. 
-- Làn sóng sa thải các huấn luyện viên tại câu lạc bộ Châu Âu, điển hình là giải ngoại hạng Anh. 
-- Kiến thức thể thao sẽ chia sẻ cho các bạn vì sao đằng sau quyết định cấm các cầu thủ Tottenham sử dụng tương cà và sốt mayonnaise trong các bữa ăn của huấn luyện viên Antonio Conte.
-- 'Thể thao và cuộc sống' đề cập đến những thông tin mới nhất cùng với bình luận từ truyền thông Pháp, xoay quanh sự kiện cảnh sát Pháp bắt giữ nữ cầu thủ Paris Saint-Germain  Aminata Diallo.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/11/25/vovlive_thethao7ngay_chuongtrinhthethao7ngay13112021.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 25 Nov 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
