@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 13 Dec 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 16 Dec 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 13 Dec 2021 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 16 Dec 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Chuộng làm việc tại nhà: Châu Âu sẽ chuyển đổi mô hình làm việc tương lai?</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Làm việc từ xa, hay trực tuyến đã không còn là câu chuyện về sở thích cá nhân hoặc thể hiện mô hình hoạt động linh hoạt của một số công ty. Trong dịch Covid - 19, làm việc từ xa trở thành lựa chọn mang tính bắt buộc nhưng có thể sớm trở thành một phương thức làm việc không thể đảo ngược. Một cuộc khảo sát gần đây cho thấy hơn 50% người lao động châu Âu không muốn trở lại mô hình làm việc truyền thống khi làm việc tại nhà mang lại cho họ năng suất cao hơn. Điều gì sẽ xảy ra khi mô hình làm việc tại nhà sớm thay đổi trên quy mô lớn? Những điều kiện gì để đảm bảo hình thức làm việc từ xa sẽ trở thành xu hướng thay thế mô hình làm việc truyền thống?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/12/16/vovlive_sukienvabinhluan_chuong_lam_viec_tai_nha.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 16 Dec 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>New Zealand và kế hoạch tham vọng trở thành quốc gia không khói thuốc</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2021/12/06/vovlive_sukienvabanluan_tinh_the_kho_cua_nam_phi.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 06 Dec 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Để du lịch đảm bảo tăng trưởng trong bình thường mới</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Thông tin từ Tổng cục Thống kê vừa công bố, khách quốc tế đến Việt Nam trong tháng 11 vừa qua đạt trên 15 nghìn lượt người, tăng 42 % so với tháng 10 trước đó. Những tín hiệu tích cực đó là do chủ trương của Chính phủ cho phép mở cửa thí điểm đón khách quốc tế.Trong bối cảnh dịch Covid 19 vẫn diễn biến phức tạp, cùng với sự xuất hiện của biến thể Omicron, làm thế nào để giữ vững thành quả và đẩy dần tăng trưởng du lịch trong những tháng tiếp theo?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/12/03/vovlive_sukienvabinhluan_du_lich_dam_bao_tang_truong_trong_binh_thuong_moi.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 03 Dec 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
