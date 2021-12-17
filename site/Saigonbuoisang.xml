@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 16 Dec 2021 17:07:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 17 Dec 2021 18:05:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 16 Dec 2021 17:07:00 +0700</pubDate>
+    <pubDate>Fri, 17 Dec 2021 18:05:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Sài Gòn buổi sáng - 17/12/2021</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-17-12-2021-421398.html</link>
+      <description><![CDATA[11:05 - 17/12/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-17-12-2021-421398.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/12/17/fmsgbs06h00p171221-20211217062834.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 17 Dec 2021 18:05:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Sài Gòn buổi sáng - 16/12/2021</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-16-12-2021-421279.html</link>
       <description><![CDATA[10:07 - 16/12/2021]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-16-12-2021-421279.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/12/16/fmsgbs06h00p161221.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 16 Dec 2021 17:07:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Kiều bào hiến kế TPHCM phục hồi và phát triển trong bình thường mới - Sài Gòn buổi sáng 15/12/2021</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/kieu-bao-hien-ke-tphcm-phuc-hoi-va-phat-trien-trong-binh-thuong-moi-sai-gon-buoi-sang-15-12-2021-421155.html</link>
-      <description><![CDATA[06:00 - 15/12/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/kieu-bao-hien-ke-tphcm-phuc-hoi-va-phat-trien-trong-binh-thuong-moi-sai-gon-buoi-sang-15-12-2021-421155.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/12/15/sgbs-151221.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 15 Dec 2021 13:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
