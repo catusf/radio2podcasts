@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 09 Dec 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 16 Dec 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 09 Dec 2021 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 16 Dec 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Tìm trong kho báu</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Timtrongkhobau.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Người vợ tào khang của nhà thơ Nguyễn Đình Chiểu9/12/2021</title>
+      <title>Chuyện người con gái tài sắc của cụ Đồ Chiểu16/12/2021</title>
+      <link>http://vov6.vov.vn/tim-trong-kho-bau/chuyen-nguoi-con-gai-tai-sac-cua-cu-do-chieu-c54-34112.aspx</link>
+      <description><![CDATA[Sinh thời, nhà thơ, nhà yêu nước Nguyễn Đình Chiểu và bạn đời – Bà Lê Thị Điền có tất cả 6 người con: 3 người con trai và 3 người con gái. Trong đó, nữ sĩ Sương Nguyệt Anh (con gái, thứ tư) và Nguyễn Đình Chiêm (con trai, thứ năm) đều là người có tiếng trong giới văn nghệ. Nếu như Nguyễn Đình Chiêm, còn gọi là thầy Bảy Chiêm ngoài sáng tác và dịch thơ còn là tác giả các vở tuồng hát hội: “Phong ba đình”, “Phấn trang lâu” có giá trị văn chương thì người chị Sương Nguyệt Anh là một trang nữ lưu được người đương thời trọng vọng. Sách “Nam Kỳ cố sự” của tác giả Nguyễn Hữu Hiếu có phần viết về người con gái tài sắc của cụ Đồ Chiểu.]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/chuyen-nguoi-con-gai-tai-sac-cua-cu-do-chieu-c54-34112.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/v2_16_2012_18h30_tim_trong_kho_bau_171220219.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 16 Dec 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Người vợ tào khang của nhà thơ Nguyễn Đình Chiểu 9/12/2021</title>
       <link>http://vov6.vov.vn/tim-trong-kho-bau/nguoi-vo-tao-khang-cua-nha-tho-nguyen-dinh-chieu-c54-34094.aspx</link>
       <description><![CDATA[Sau khi đỗ Tú tài trong kỳ thi hương 1843 tại Gia Định, nhà thơ Nguyễn Đình Chiểu ngược ra kinh đô Huế để tham dự kỳ thi Hội. Dọc đường đi, nghe tin mẹ mất, là người con hiếu thảo, ông quyết định trở về quê nhà chịu tang. Trên đường về, phần vì khóc thương, đau buồn, lại không may mắc bệnh, Nguyễn Đình Chiểu bị mù cả hai mắt. Nhờ nghề thuốc học được trong thời gian lưu lại tư gia một thầy thuốc vốn dòng dõi Ngự y, về đến quê nhà, ông mở trường dạy học, bốc thuốc giúp người nghèo. Trong số các học trò của Đồ Chiểu, có Lê Tăng Quýnh vốn mồ côi cha mẹ, cảm kích tài năng và đức độ của người thầy mù lòa đã se duyên cho người em gái là Lê Thị Điền. Cuộc đời Nguyễn Đình Chiểu từ đó về sau dù trải qua nhiều biến cố luôn có sự chăm sóc, sát cánh của người vợ tào khang:]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/nguoi-vo-tao-khang-cua-nha-tho-nguyen-dinh-chieu-c54-34094.aspx</guid>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/di-san-nguyen-dinh-chieu-nhin-tu-the-ky-xxi-c54-34083.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/v2_020612_18h30_tim_trong_kho_bau_212202114.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 01 Dec 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Thơ Nôm danh thần Nguyễn Văn Giai 25/11/2021</title>
-      <link>http://vov6.vov.vn/tim-trong-kho-bau/tho-nom-danh-than-nguyen-van-giai-c54-34058.aspx</link>
-      <description><![CDATA[Thời Lê trung hưng ghi đậm dấu ấn của nhiều danh nhân đỗ đạt cao, được phong nhiều chức tước quan trọng trong triều đình và để lại nhiều trước tác thơ ca có giá trị. Có thể kể đến Phùng Khắc Khoan, đỗ tiến sĩ đời vua Lê Thế Tông, trải qua nhiều chức vụ như Tả thị lang bộ công, Thượng thư bộ công, Thượng thư bộ hộ. Ông là con người có khát vọng hào kiệt, nổi tiếng là người có chí khí hào mại, có cống hiến trên nhiều phương diện như: quân sự, kinh tế, ngoại giao, văn học. Phùng Khắc Khoan để lại bốn tập thơ chữ Hán có giá trị. Về sáng tác thơ Nôm thời kỳ này nổi lên tài năng của Nguyễn Văn Giai. Ông thi đỗ Tam nguyên Hoàng giáp, từng giữ chức Tể tướng, tước Thái bảo, Quận công đời vua Lê Kính Tông. Nếu làm quan nổi tiếng thanh liêm thì khi sáng tác thơ Nôm, Nguyễn Văn Giai có cái cười trào tiếu và triết lý thâm thuý về mọi sự ở đời. Tuy số lượng trước tác để lại không nhiều nhưng ông cũng cho thấy một phong cách nhà nho tài tử độc đáo.]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/tho-nom-danh-than-nguyen-van-giai-c54-34058.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/v2_252911_18h30_tim_trong_kho_bau_261120219.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 25 Nov 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
