@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 07 Dec 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 14 Dec 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 07 Dec 2021 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 14 Dec 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Những giọng ca còn mãi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Nhunggiongcaconmai.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>NSND Thúy Hiền: Giọng hát chèo quen thuộc trên làn sóng của Đài TNVN</title>
+      <link>https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</link>
+      <description><![CDATA[NSND Thúy Hiền đã cộng tác thu thanh tại Đài TNVN từ năm 1965. Suốt mấy chục năm qua, giọng hát của bà trên sóng phát thanh đã rất quen thuộc với thính giả cả nước. Trong cuộc đấu tranh bảo vệ Tổ quốc hay trong lao động xây dựng đất nước, tiếng hát của bà đã theo cánh sóng của Đài TNVN đem đến nguồn cổ vũ động viên to lớn đối với chiến sĩ đồng bảo cả nước…]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/12/17/vovlive_nhung_giong_ca_con_mai_nsnd_thuy_hien.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 14 Dec 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>NSƯT Xuân Theo: Người chiến sĩ, nghệ sĩ đam mê với nghệ thuật Chèo</title>
       <link>https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2021/11/09/vovlive_mhung_giong_ca_con_mai_nsnd_ut_tra_on.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 09 Nov 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chị Hai-NSND Thúy Cải: Người nghệ sĩ có công lớn trong hành trình đưa nghệ thuật dân ca quan họ vươn ra thế giới</title>
-      <link>https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</link>
-      <description><![CDATA[Ở xứ Kinh Bắc, nhắc đến những nghệ sĩ hát quan họ thế hệ đầu tiên thì không thể không nhắc đến NSND Thúy Cải bởi người ta nhìn thấy ở bà cái duyên từ giọng nói, miệng cười, duyên từ ánh mắt, dáng đi và nét duyên ngay ở trong giọng hát. Với chất giọng mang đậm chất quê, hương cau, hương cải, chỉ cần khoác trên mình bộ trang phục liền chị, chít cái khăn mỏ quạ ... hình ảnh NSND Thúy Cải luôn nhẹ nhàng, khoan thai đúng chất “người quan họ”. NSND Thúy Cải cũng được xem là gương mặt nghệ sĩ góp công không nhỏ trong quá trình đưa nghệ thuật dân ca quan họ ra thế giới…]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/10/12/vovlive_nhung_giong_ca_con_mai_nsnd_thuy_cai.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 12 Oct 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
