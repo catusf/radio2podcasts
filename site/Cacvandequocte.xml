@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 15 Dec 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 20 Dec 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 15 Dec 2021 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 20 Dec 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Tương lai nào cho đề xuất an ninh mà Nga gửi tới phương Tây?</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Vào tuần trước, Nga đã đưa ra một đề xuất gồm 8 điểm, trong đó yêu cầu Mỹ và các đồng minh ngừng mọi hoạt động quân sự ở Đông Âu và Trung Á, nhằm thiết lập một thỏa thuận an ninh, giúp hạ nhiệt căng thẳng giữa Nga với phương Tây. Thế nhưng cho đến thời điểm này, phản ứng từ phía Mỹ và Tổ chức Hiệp ước Bắc Đại Tây Dương (NATO) là không khả quan và cũng chưa thấy tia hy vọng nào cho việc các bên sẽ cùng ngồi vào bàn đàm phán để thảo luận về đề xuất an ninh mới của Nga. Vậy tương lai nào cho bản đề xuất này? Tình hình khu vực Đông Âu sẽ tăng nhiệt tới mức nào nếu các bên không đạt được thỏa thuận làm dịu căng thẳng?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/12/20/vovlive_vandequocte_tuonglainaochodexuatanninhmangaguitoiphuongtay(1).mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 20 Dec 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Triển vọng chính thức kết thúc chiến tranh Triều Tiên: Bước ngoặt mới cho hòa bình khu vực</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2021/12/13/vovlive_vandequocte_ketnoig7aseankhangdinhtamquantrongcuachauathaibinhduong.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 13 Dec 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đề xuất mới của Iran thử thách sự kiên nhẫn của Nhóm P5+1</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Ngày 9/12, vòng đàm phán mới về khôi phục thỏa thuận hạt nhân Iran sẽ nối lại tại Viên (Áo) sau khi gián đoạn vào cuối tuần trước. Về phía P5+1 sẽ có các đoàn đàm phán của Anh, Trung Quốc, Pháp, Đức và Nga, trong khi phái đoàn Mỹ vẫn tham dự gián tiếp thông qua sự trung gian của Liên minh Châu Âu. Vòng đàm phán này diễn ra trong bối cảnh các nước P5+1 đang rất thất vọng với thái độ mà P5+1 cho là “thiếu nghiêm túc” của Iran khi nước này tuần trước đưa ra đề xuất mới thay đổi tới 70-80% các thỏa thuận mà hai bên phải mất nhiều vòng đàm phán căng thẳng mới đạt được. Việc P5+1 chấp thuận trở lại bàn đàm phán để xem xét các đề xuất của Iran được đánh giá là sự kiên nhẫn rất lớn. Iran sẽ ứng xử như thế nào trước sự kiên nhẫn này và các bên liệu sẽ chấp nhận nhượng bộ đến đâu trong các vấn đề cốt lõi?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/12/10/vovlive_vandequocte_dexuatmoicuairanthuthachsukiennhancuanhomp5-1.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 10 Dec 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
