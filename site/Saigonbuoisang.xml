@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 19 Dec 2021 13:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 20 Dec 2021 13:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 19 Dec 2021 13:00:00 +0700</pubDate>
+    <pubDate>Mon, 20 Dec 2021 13:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Chiến lược kinh doanh mới “hậu Covid-19” - Sài Gòn buổi sáng 20/12/2021</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/chien-luoc-kinh-doanh-moi-hau-covid-19-sai-gon-buoi-sang-20-12-2021-421656.html</link>
+      <description><![CDATA[06:00 - 20/12/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/chien-luoc-kinh-doanh-moi-hau-covid-19-sai-gon-buoi-sang-20-12-2021-421656.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/12/20/fmsgbs06h00p201221-20211220070323.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 20 Dec 2021 13:00:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Sài Gòn buổi sáng - 19/12/2021</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-19-12-2021-421556.html</link>
       <description><![CDATA[06:00 - 19/12/2021]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-19-12-2021-421556.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/12/19/fmsaigonbuoisang06h00p191221-20211218231544.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 19 Dec 2021 13:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Sài Gòn buổi sáng - 18/12/2021</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-18-12-2021-421479.html</link>
-      <description><![CDATA[06:00 - 18/12/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-18-12-2021-421479.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/12/18/sgbs-181221.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 18 Dec 2021 13:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
