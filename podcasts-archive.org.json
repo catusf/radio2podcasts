@@ -1,0 +1,46 @@
+{
+  "podcasts": {
+    "host": "https://catusf.github.io/radio2podcasts/",
+    "bucket_name": "radio2podcasts",
+    "podcast_ext": ".xml",
+    "name": "catusf",
+    "email": "catus.phan@gmail.com"
+  },
+  "websites": {
+    "Archive.org": {
+      "home": "https://archive.org/",
+      "name": "Archive.org",
+      "function": null,
+      "programs": {
+        "qthtntb'": {
+          "url": "https://archive.org/embed/qua-trinh-7",
+          "title": "Warren Buffett - Quá Trình Hình Thành Một Nhà Tư Bản Mỹ",
+          "subtitle": "Roger Lowenstein",
+          "cover": "",
+          "no": 100
+        },
+        "sldtwb'": {
+          "url": "https://archive.org/embed/sach-luoc-dau-tu-cua-warren-buffett",
+          "title": "Sách Lược Đầu Tư Của Warren Buffett",
+          "subtitle": "Lý Thành Tư",
+          "cover": "",
+          "no": 100
+        },
+        "dcbdgv'": {
+          "url": "https://archive.org/embed/dao-chau-bau_202009",
+          "title": "Đảo Châu Báu (Đảo giấu vàng)",
+          "subtitle": "Robert Louis Stevenson",
+          "cover": "",
+          "no": 100
+        },
+        "cptlnpt'": {
+          "url": "https://archive.org/embed/Co-Phieu-Thuong-Loi-Nhuan-Phi-Thuong",
+          "title": "Cổ phiếu thường, lợi nhuận phi thường - ",
+          "subtitle": "Philip A. Fisher",
+          "cover": "",
+          "no": 100
+        }
+      }
+    }
+  }
+}
