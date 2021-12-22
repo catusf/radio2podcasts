@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 14 Dec 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 22 Dec 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 14 Dec 2021 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 22 Dec 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thể thao 7 ngày</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Thethao7ngay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Chương trình thể thao 7 ngày 19/12/2021</title>
+      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
+      <description><![CDATA[Do ảnh hưởng của dịch Covid-19 giải điền kinh vô địch quốc gia 2021 đã nhiều lần phải tạm hoãn. Trước khi được tổ chức trở lại từ ngày mùng 9 đến ngày 15/12 tại khu liên hợp thể thao quốc gia Mỹ Đình - TP Hà Nội. Giải đấu là dịp để liên đoàn điền kinh Việt Nam rà soát lực lượng cũng như công tác tổ chức cho giải tiền SEA GAME dự kiến tổ chức vào tháng 3/2022. Và đặc biệt là SEA GAME 31 từ ngày 12/5 đến ngày 23/5/2022.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/12/22/vovlive_thethao7ngay_chuongtrinhthethao7ngay19122021.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 22 Dec 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Chương trình thể thao 7 ngày 11/12/2021</title>
       <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
@@ -51,16 +59,6 @@
       <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2021/12/01/vovlive_thethao7ngay_chuongtrinhthethao7ngay27112021.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 01 Dec 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chương trình thể thao 7 ngày 20/11/2021</title>
-      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
-      <description><![CDATA[- Chưa có điểm nào sau 6 trận tại vòng loại cuối cùng WC 2022 khu vực Châu Á, song những thất bại ở đẳng cấp châu lục đã đem đến cho các chiến binh sao vàng rất nhiều bài học lớn. Có thể xem vòng 3 WC thực sự là cú rượt thua để học hỏi, hoàn thiện mình, nhằm chứng minh một lần nữa vị thế ngôi đầu của đội tuyển Việt Nam trong khu vực. 
-- Đoàn quân của huấn luyện viên Park Hang Seo đã sẵn sàng chinh phục AFF Suzuki Cup, giải đấu sẽ khởi tranh vào ngày 5/12 tới. 
-- Thể thao và cuộc sống cùng gặp gỡ nhà vô địch thế giới Muay Huỳnh Hà Hữu Hiếu và cảm nhận khát khao chinh phục huy chương vàng Sea Game của nữ võ sĩ 22 tuổi này.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/11/25/vovlive_thethao7ngay_chuongtrinhthethao7ngay20112021.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 25 Nov 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
