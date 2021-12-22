@@ -1,0 +1,59 @@
+# This workflow will install Python dependencies, run tests and lint with a single version of Python
+# For more information see: https://help.github.com/actions/language-and-framework-guides/using-python-with-github-actions
+
+name: Deploy GitHub Pages PPUD site
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+  schedule:
+    - cron: "0 0 * * 1" #runs at 00:00 on Monday
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.9
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+    - name: Create podcasts
+      run: |
+        python radio2podcasts/__main__.py --input=podcasts-ppud.json --output=index-ppud.html
+        
+        if [[ -z $(git status -s) ]]
+        then
+            echo "Nothing to commit."
+        else
+            echo "---------------------------------"
+            ls
+            echo "---------------------------------"
+            git config user.name "catus felis"
+            git config user.email catusf@users.noreply.github.com
+            git branch --show-current
+            git add site
+            git status
+            git commit -m "Update website"
+            git fetch
+            git push origin --force
+        fi
+
+    - name: Deploy site to GitHub Pages 🚀
+      uses: JamesIves/github-pages-deploy-action@3.6.2
+      with:
+        GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+        BRANCH: gh-pages # The branch the action should deploy to.
+        FOLDER: site # The folder the action should deploy.
+        CLEAN: true # Automatically remove deleted files from the deploy branch
