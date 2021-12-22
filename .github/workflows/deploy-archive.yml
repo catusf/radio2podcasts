@@ -31,7 +31,7 @@ jobs:
 
     - name: Create podcasts
       run: |
-        python radio2podcasts/__main__.py --input=podcasts-ppud.json --output=index-ppud.html
+        python radio2podcasts/__main__.py --input=podcasts-archive.org.json --output=index-archive.html
         
         if [[ -z $(git status -s) ]]
         then
