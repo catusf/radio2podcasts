@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 22 Dec 2021 02:33:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 22 Dec 2021 13:19:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 22 Dec 2021 02:33:00 +0700</pubDate>
+    <pubDate>Wed, 22 Dec 2021 13:19:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Vai trò của tổ chức Hội trong thực công tác cán bộ nữ của Thành phố - Thời sự 5g30 22/12/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/vai-tro-cua-to-chuc-hoi-trong-thuc-cong-tac-can-bo-nu-cua-thanh-pho-thoi-su-5g30-22-12-2021-421815.html</link>
+      <description><![CDATA[06:19 - 22/12/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/vai-tro-cua-to-chuc-hoi-trong-thuc-cong-tac-can-bo-nu-cua-thanh-pho-thoi-su-5g30-22-12-2021-421815.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/12/22/AMThoisu05h30p221221.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 22 Dec 2021 13:19:00 +0700</pubDate>
+    </item>
     <item>
       <title>"Dư luận đang rất bức xúc về vụ “thổi giá” kit test Covid-19” - Thời sự 17g00 21/12/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/du-luan-dang-rat-buc-xuc-ve-vu-thoi-gia-kit-test-covid-19-thoi-su-17g00-21-12-2021-421789.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/hieu-qua-tich-cuc-tu-mang-xanh-noi-lam-viec-thoi-su-11g00-21-12-2021-421771.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/12/21/amthoisu11h00p211221-20211221104649-Copy.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 21 Dec 2021 22:23:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Sản xuất nông nghiệp sạch: xu hướng tất yếu - Thời sự 5g30 21/12/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/san-xuat-nong-nghiep-sach-xu-huong-tat-yeu-thoi-su-5g30-21-12-2021-421724.html</link>
-      <description><![CDATA[06:10 - 21/12/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/san-xuat-nong-nghiep-sach-xu-huong-tat-yeu-thoi-su-5g30-21-12-2021-421724.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/12/21/amthoisu05h30p211221-20211220235800-Copy.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 21 Dec 2021 13:10:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
