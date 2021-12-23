@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 22 Dec 2021 14:21:04 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 23 Dec 2021 14:20:57 +0100</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 22 Dec 2021 14:21:04 +0100</pubDate>
+    <pubDate>Thu, 23 Dec 2021 14:20:57 +0100</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>17'</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Chuongtrinh17.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>23-12-2021 Chương trình 17'</title>
+      <link>https://www.rfi.fr/vi/t%E1%BA%A1p-ch%C3%AD/13h00-13h17-gmt/20211223-th%C3%B4ng-tin-23-12-13h00-gmt</link>
+      <description><![CDATA[Chương trình ngày 23-12-2021 ]]></description>
+      <guid isPermaLink="false">https://www.rfi.fr/vi/t%E1%BA%A1p-ch%C3%AD/13h00-13h17-gmt/20211223-th%C3%B4ng-tin-23-12-13h00-gmt</guid>
+      <enclosure url="https://aod-rfi.akamaized.net/rfi/vietnamien/audio/magazines/r001/13h00_-_13h17_gmt_20211223.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 23 Dec 2021 14:20:57 +0100</pubDate>
+    </item>
     <item>
       <title>22-12-2021 Chương trình 17'</title>
       <link>https://www.rfi.fr/vi/t%E1%BA%A1p-ch%C3%AD/13h00-13h17-gmt/20211222-th%C3%B4ng-tin-22-12-13h00-gmt</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://www.rfi.fr/vi/t%E1%BA%A1p-ch%C3%AD/13h00-13h17-gmt/20211219-th%C3%B4ng-tin-19-12-13h00-gmt</guid>
       <enclosure url="https://aod-rfi.akamaized.net/rfi/vietnamien/audio/magazines/r001/13h00_-_13h17_gmt_20211219.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 19 Dec 2021 14:22:56 +0100</pubDate>
-    </item>
-    <item>
-      <title>18-12-2021 Chương trình 17'</title>
-      <link>https://www.rfi.fr/vi/t%E1%BA%A1p-ch%C3%AD/13h00-13h17-gmt/20211218-th%C3%B4ng-tin-18-12-13h00-gmt</link>
-      <description><![CDATA[Chương trình ngày 18-12-2021 ]]></description>
-      <guid isPermaLink="false">https://www.rfi.fr/vi/t%E1%BA%A1p-ch%C3%AD/13h00-13h17-gmt/20211218-th%C3%B4ng-tin-18-12-13h00-gmt</guid>
-      <enclosure url="https://aod-rfi.akamaized.net/rfi/vietnamien/audio/magazines/r001/13h00_-_13h17_gmt_20211218.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 18 Dec 2021 14:21:23 +0100</pubDate>
     </item>
   </channel>
 </rss>
