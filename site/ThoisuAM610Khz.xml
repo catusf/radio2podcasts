@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 23 Dec 2021 22:51:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 24 Dec 2021 00:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 23 Dec 2021 22:51:00 +0700</pubDate>
+    <pubDate>Fri, 24 Dec 2021 00:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Văn hóa trên không gian mạng cần có sự chuyển biến tích cực - Thời sự 17g00 23/12/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/van-hoa-tren-khong-gian-mang-can-co-su-chuyen-bien-tich-cuc-thoi-su-17g00-23-12-2021-421987.html</link>
+      <description><![CDATA[17:00 - 23/12/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/van-hoa-tren-khong-gian-mang-can-co-su-chuyen-bien-tich-cuc-thoi-su-17g00-23-12-2021-421987.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/12/23/ts17-231221.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 24 Dec 2021 00:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Vai trò của tổ chức Hội trong thực công tác cán bộ nữ của TP (kỳ 2) - Thời sự 5g30 23/12/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/vai-tro-cua-to-chuc-hoi-trong-thuc-cong-tac-can-bo-nu-cua-tp-ky-2-thoi-su-5g30-23-12-2021-421970.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/luon-san-sang-ho-tro-nhung-cong-viec-co-ich-cho-cong-dong-thoi-su-11g00-23-12-2021-421954.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/12/23/AMThoisu11h00p231221.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 23 Dec 2021 19:48:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Thành phố kỷ niệm 77 năm ngày thành lập quân đội nhân dân Việt Nam - Thời sự 17g00 22/12/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/thanh-pho-ky-niem-77-nam-ngay-thanh-lap-quan-doi-nhan-dan-viet-nam-thoi-su-17g00-22-12-2021-421888.html</link>
-      <description><![CDATA[18:09 - 22/12/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/thanh-pho-ky-niem-77-nam-ngay-thanh-lap-quan-doi-nhan-dan-viet-nam-thoi-su-17g00-22-12-2021-421888.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/12/22/AMThoisu17h00p221221.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 23 Dec 2021 01:09:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
