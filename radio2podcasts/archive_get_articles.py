@@ -2,16 +2,19 @@
 """
 
 import collections
-from urllib.parse import urljoin
+from urllib.parse import urlparse
 import datetime
 import json
-import re
+import os
 import pytz
-import requests
+# import requests
 from bs4 import BeautifulSoup
+from operator import attrgetter
 
 # from podcasts_utils import get_true_url
 
+def first_diff(a, b):
+   return [i for i in range(len(a)) if a[i] != b[i]]
 
 def get_articles_from_html(soup, url, no_items, podcast_title, item_titles=None):
     """
@@ -22,19 +25,19 @@ def get_articles_from_html(soup, url, no_items, podcast_title, item_titles=None)
     feed_article = collections.namedtuple(
         'feed_article', {
             'link', 'title', 'description', 'pub_date', 'media', 'type'})
-    articles = list()
+    temp_list = list()
 
     # debug = False
-    count = 0
 
     items = json.loads(soup.select('input')[0]['value'])
-    for n, i in enumerate(items):
-        # try:
-        count = count + 1
-        if count > no_items:
+    for num, i in enumerate(items):
+
+        if num > no_items:
             break
+
         media = 'https://archive.org' + i['sources'][0]['file']
-        title = podcast_title + " P" + str(n)
+
+        title = podcast_title + " P" + str(num + 1)
 
         description = ''
 
@@ -43,16 +46,63 @@ def get_articles_from_html(soup, url, no_items, podcast_title, item_titles=None)
 
         pub_date = datetime.datetime(year, month, day, 12, 0).astimezone(vt_tz)
 
-        articles.append(
+        temp_list.append(
             feed_article(
                 link=url,
                 title=title,
                 description=description,
                 pub_date=pub_date,
                 media=media,
-                type='audio/mpeg'))
+                type='audio/mpeg')
+            )
 
-        # except:
-        #     print(f'An exception occured while processing {link}')
+    if len(temp_list) < 2: # Just one item, returns it
+        return temp_list
+
+    # Find the first difference if file name
+    parsed1 = urlparse(temp_list[0].media) # First item
+    parsed2 = urlparse(temp_list[1].media) # Second item
+
+    filebase1 = os.path.splitext(os.path.basename(parsed1.path))[0]
+    filebase2 = os.path.splitext(os.path.basename(parsed2.path))[0]
+
+    poss = first_diff(filebase1, filebase2)
+    
+    if len(poss) < 1:
+        pos = min(len(filebase1), len(filebase2)) - 1
+    else:
+        pos = poss[0]
+
+    sorted_list = list()
+
+    for i in temp_list:
+        parsed = urlparse(i.media)
+        filebase = os.path.splitext(os.path.basename(parsed.path))[0]
+        num = filebase[pos:] # Extract the number part of the filename 
+        
+        if num.isnumeric():
+            sorted_list.append((i, num.zfill(2))) # Add one padding zero if this is a number and less than 10
+        else:
+            sorted_list.append((i, num))
+
+    sorted_list.sort(key=lambda x: x[1])
+
+    articles = list()
+
+    count = 1
+    for i, num in sorted_list:
+        articles.append(
+            feed_article(
+                link=i.link,
+                title=i.title,
+                description=i.description,
+                pub_date=i.pub_date + datetime.timedelta(minutes=count),
+                media=i.media,
+                type=i.type)
+        )
+        count = count + 1
+        
+    for i in articles:
+        print(i.pub_date, i.media)
 
     return articles
