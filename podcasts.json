@@ -1,40 +1,11 @@
 {
   "podcasts": {
     "host": "https://catusf.github.io/radio2podcasts/",
-    "bucket_name": "radio2podcasts",
     "podcast_ext": ".xml",
-    "name": "catusf",
+    "name": "catus.phan",
     "email": "catus.phan@gmail.com"
   },
   "websites": {
-    "RFI": {
-      "home": "https://www.rfi.fr/vi/",
-      "name": "RFI Tiếng Việt",
-      "function": null,
-      "programs": {
-        "cc17'": {
-          "url": "https://www.rfi.fr/vi/emission/info/13h00-13h17-gmt/",
-          "title": "Chương trình 17'",
-          "subtitle": "17'",
-          "cover": "",
-          "no": 5
-        },
-        "cc60'": {
-          "url": "https://www.rfi.fr/vi/emission/info/13h00-13h17-gmt/",
-          "title": "Chương trình 60'",
-          "subtitle": "60'",
-          "cover": "",
-          "no": 5
-        },
-        "cc43'": {
-          "url": "https://www.rfi.fr/vi/emission/info/13h00-13h17-gmt/",
-          "title": "Chương trình 43'",
-          "subtitle": "43'",
-          "cover": "",
-          "no": 5
-        }
-      }
-    },  
     "VOVL": {
       "home": "https://vovlive.vn/",
       "name": "VOV Live",
@@ -187,6 +158,34 @@
           "subtitle": "Văn nghệ thiếu nhi",
           "cover": "",
           "no": 3
+        }
+      }
+    },
+    "RFI": {
+      "home": "https://www.rfi.fr/vi/",
+      "name": "RFI Tiếng Việt",
+      "function": null,
+      "programs": {
+        "cc17'": {
+          "url": "https://www.rfi.fr/vi/emission/info/13h00-13h17-gmt/",
+          "title": "Chương trình 17'",
+          "subtitle": "17'",
+          "cover": "",
+          "no": 5
+        },
+        "cc60'": {
+          "url": "https://www.rfi.fr/vi/emission/info/13h00-13h17-gmt/",
+          "title": "Chương trình 60'",
+          "subtitle": "60'",
+          "cover": "",
+          "no": 5
+        },
+        "cc43'": {
+          "url": "https://www.rfi.fr/vi/emission/info/13h00-13h17-gmt/",
+          "title": "Chương trình 43'",
+          "subtitle": "43'",
+          "cover": "",
+          "no": 5
         }
       }
     }

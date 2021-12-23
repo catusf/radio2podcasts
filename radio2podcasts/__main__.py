@@ -15,17 +15,17 @@ from podcasts_utils import output_rss, rss_from_webpage, number_in_cirle, send_m
 
 from create_cover_image import create_image
 from remove_marks import remove_marks
-import voh_get_articles
-import vov1_get_articles
-import vov2_get_articles
-import vov6_get_articles
-import drt_get_articles
-import vnexpress_get_articles
-import vovlive_get_articles
-import rfivi_get_articles
-import ppud_get_articles
-import vovlive_sachnoi_get_articles
-import archive_get_articles
+import get_voh_com_vn
+import get_vov1
+import get_vov2
+import get_vov6
+import get_drt_danang_vn
+import get_vnexpress_vn
+import get_vovlive
+import get_rfi_vi
+import get_ppud
+import get_vovlive_sachnoi
+import get_archive_org
 
 DE = True # False
 
@@ -39,17 +39,17 @@ PODCASTS_FOLDER = 'site/'
 
 # Maps site urls to their processing functions
 PROCESS_FUNCTIONS = {
-    'http://vov1.vov.vn/':vov1_get_articles.get_articles_from_html,
-    'http://vov2.vov.vn/':vov2_get_articles.get_articles_from_html,
-    'http://vov6.vov.vn/': vov6_get_articles.get_articles_from_html,
-    'http://radio.voh.com.vn': voh_get_articles.get_articles_from_html,
-    'http://www.drt.danang.vn/': drt_get_articles.get_articles_from_html,
-    'https://vnexpress.net/podcast': vnexpress_get_articles.get_articles_from_html,
-    'https://vovlive.vn/': vovlive_get_articles.get_articles_from_html,
-    'https://www.rfi.fr/vi/': rfivi_get_articles.get_articles_from_html,
-    'https://phatphapungdung.com/sach-noi/': ppud_get_articles.get_articles_from_html,
-    'https://vovlive.vn/sach-noi/': vovlive_sachnoi_get_articles.get_articles_from_html,
-    'https://archive.org/': archive_get_articles.get_articles_from_html,
+    'http://vov1.vov.vn/':get_vov1.get_articles_from_html,
+    'http://vov2.vov.vn/':get_vov2.get_articles_from_html,
+    'http://vov6.vov.vn/': get_vov6.get_articles_from_html,
+    'http://radio.voh.com.vn': get_voh_com_vn.get_articles_from_html,
+    'http://www.drt.danang.vn/': get_drt_danang_vn.get_articles_from_html,
+    'https://vnexpress.net/podcast': get_vnexpress_vn.get_articles_from_html,
+    'https://vovlive.vn/': get_vovlive.get_articles_from_html,
+    'https://www.rfi.fr/vi/': get_rfi_vi.get_articles_from_html,
+    'https://phatphapungdung.com/sach-noi/': get_ppud.get_articles_from_html,
+    'https://vovlive.vn/sach-noi/': get_vovlive_sachnoi.get_articles_from_html,
+    'https://archive.org/': get_archive_org.get_articles_from_html,
 }
 
 def main():
@@ -159,7 +159,7 @@ def main():
                 output_url=output_url,
                 title=title,
                 subtitle=subtitle,
-                author={'name': 'catus.phan', 'email': 'catus.phan@gmail.com'},
+                author={'name': PODCASTS['podcasts']['name'], 'email': PODCASTS['podcasts']['email']},
                 img_url=cover_url,
                 language='vi',
                 copyright=name,
@@ -186,8 +186,8 @@ def main():
 
 if __name__ == "__main__":
     main()
-    # try:
-    #     main()
-    # except Exception as ex:
-    #     print(ex)
-    #     send_mail_on_error(str(ex))
+    try:
+        main()
+    except Exception as ex:
+        print(ex)
+        send_mail_on_error(str(ex))

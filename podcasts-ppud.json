@@ -1,9 +1,8 @@
 {
   "podcasts": {
     "host": "https://catusf.github.io/radio2podcasts/",
-    "bucket_name": "radio2podcasts",
     "podcast_ext": ".xml",
-    "name": "catusf",
+    "name": "catus.phan",
     "email": "catus.phan@gmail.com"
   },
   "websites": {

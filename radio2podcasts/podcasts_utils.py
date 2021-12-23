@@ -24,12 +24,12 @@ def exception_info():
     """
     Gets details of where exception occurs
     """
-    exc_type, exc_obj, tb = sys.exc_info()
-    f = tb.tb_frame
-    lineno = tb.tb_lineno
-    filename = f.f_code.co_filename
+    exc_type, exc_obj, tbtype = sys.exc_info()
+    frame = tbtype.tb_frame
+    lineno = tbtype.tb_lineno
+    filename = frame.f_code.co_filename
     linecache.checkcache(filename)
-    line = linecache.getline(filename, lineno, f.f_globals)
+    line = linecache.getline(filename, lineno, frame.f_globals)
     return 'EXCEPTION IN ({}, LINE {} "{}"): {}'.format(filename, lineno, line.strip(), exc_obj)
 
 
@@ -95,6 +95,7 @@ def rss_from_webpage(feed_settings, get_articles_from_html, podcast_title, item_
     :param feed_settings:
     :return:
     """
+    print(f'Processing: {podcast_title}')
     headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0'}
 
     source_page_html = requests.get(feed_settings.source_page_url, headers=headers).content
@@ -136,7 +137,7 @@ def generate_rss_from_articles(feed_settings, articles):
     # p.xslt = "http://example.com/stylesheet.xsl"
 
     vt_tz = pytz.timezone('Asia/Ho_Chi_Minh')
-    pastdate = datetime.datetime(2000,1,1,0,0).astimezone(vt_tz)
+    pastdate = datetime.datetime(2000, 1, 1, 0, 0).astimezone(vt_tz)
     # podcast.last_updated = datetime.datetime.now(vt_tz)
 
     for article in articles:
@@ -150,7 +151,7 @@ def generate_rss_from_articles(feed_settings, articles):
         pastdate = max(pastdate, article.pub_date)
         # episode.media = Media.create_from_server_response(article.media, size=None, duration=None)
         episode.media = Media(article.media, size=None, duration=None, type=article.type)
-    
+
     podcast.last_updated = pastdate
     podcast.publication_date = pastdate
 
