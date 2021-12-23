@@ -34,7 +34,7 @@ def get_articles_from_html(soup, url, no_items, podcast_title, item_titles=None)
         if count > no_items:
             break
         media = 'https://archive.org' + i['sources'][0]['file']
-        title = podcast_title + "P " + str(n)
+        title = podcast_title + " P" + str(n)
 
         description = ''
 
