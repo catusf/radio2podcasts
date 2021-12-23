@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 22 Dec 2021 12:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 22 Dec 2021 12:03:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 22 Dec 2021 12:00:00 +0700</pubDate>
+    <pubDate>Wed, 22 Dec 2021 12:03:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,25 +24,25 @@
     <itunes:subtitle>Robert Louis Stevenson</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/DaoChauBauDaogiauvang.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Đảo Châu Báu (Đảo giấu vàng)P 0</title>
+      <title>Đảo Châu Báu (Đảo giấu vàng) P1</title>
       <link>https://archive.org/embed/dao-chau-bau_202009</link>
       <guid isPermaLink="false">https://archive.org/embed/dao-chau-bau_202009</guid>
       <enclosure url="https://archive.org/download/dao-chau-bau_202009/1.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 22 Dec 2021 12:00:00 +0700</pubDate>
+      <pubDate>Wed, 22 Dec 2021 12:01:00 +0700</pubDate>
     </item>
     <item>
-      <title>Đảo Châu Báu (Đảo giấu vàng)P 1</title>
+      <title>Đảo Châu Báu (Đảo giấu vàng) P2</title>
       <link>https://archive.org/embed/dao-chau-bau_202009</link>
       <guid isPermaLink="false">https://archive.org/embed/dao-chau-bau_202009</guid>
       <enclosure url="https://archive.org/download/dao-chau-bau_202009/2.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 22 Dec 2021 12:00:00 +0700</pubDate>
+      <pubDate>Wed, 22 Dec 2021 12:02:00 +0700</pubDate>
     </item>
     <item>
-      <title>Đảo Châu Báu (Đảo giấu vàng)P 2</title>
+      <title>Đảo Châu Báu (Đảo giấu vàng) P3</title>
       <link>https://archive.org/embed/dao-chau-bau_202009</link>
       <guid isPermaLink="false">https://archive.org/embed/dao-chau-bau_202009</guid>
       <enclosure url="https://archive.org/download/dao-chau-bau_202009/3.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 22 Dec 2021 12:00:00 +0700</pubDate>
+      <pubDate>Wed, 22 Dec 2021 12:03:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
