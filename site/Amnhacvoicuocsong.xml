@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 30 Nov 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 21 Dec 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 30 Nov 2021 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 21 Dec 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Âm nhạc với cuộc sống</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Amnhacvoicuocsong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>NSƯT Minh Thu gửi ước mơ, khát khao của những người lính trẻ qua Album "Đồng đội" kỷ niệm ngày Quân đội Nhân dân Việt Nam</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[Kỷ niệm 77 năm Ngày thành lập Quân đội nhân dân (22/12) và 75 năm Ngày Toàn quốc kháng chiến (19/12), NSƯT Minh Thu ra mắt Album “Đồng đội”. Album với 12 ca khúc quen thuộc đã đi vào trái tim bao thế hệ như: “Ngày mai anh lên đường” (Thanh Trúc), “Em vẫn đợi anh về”, “Chút thơ tình lính biển”, “Đồng đội” (Hoàng Hiệp), “Một đời người một rừng cây” (Trần Long Ẩn); “Hát về anh” (Thế Hiển)... đã được nữ nghệ sĩ thể hiện qua chất liệu acoustic để có thể gần gũi hơn với giới trẻ… NSƯT Minh Thu chia sẻ: “Album là ước mơ, khát khao của những người lính trẻ, đôi khi chỉ đơn sơ như một mảnh vườn, gia đình, vợ con, những nụ cười ấm áp, hạnh phúc sau những ngày tháng gian lao, vất vả"…]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/12/23/vovlive_am_nhac_voi_cuoc_song_dong_doi_minh_thu.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 21 Dec 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Tưởng nhớ Đại tá, Nhạc sĩ, NSND Nguyễn Tiến với một số tác phẩm âm nhạc tiêu biểu</title>
       <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
@@ -49,15 +57,6 @@
       <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2021/11/17/vovlive_am_nhac_voi_cuoc_song_dao_huu_thi.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 16 Nov 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Kỷ niệm 104 năm Cách mạng Tháng Mười Nga (07/11/1917-07/11/2021): Gặp gỡ ca sĩ Yên Hà cùng album những bài hát Nga - “Niềm hy vọng”</title>
-      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[- Thưởng thức các ca khúc lọt vào vòng chung khảo cuộc vận động sáng tác ca khúc “Hát lên Việt Nam-Let’s Sing Vietnam” của Đài TNVN: Hát lên Việt Nam (Âm nhạc: Trần Nhật Dương, Lời thơ: Trần Nhật Minh); Amazing Việt Nam (Sáng tác: Nguyễn Thành Long) 
- - Kỷ niệm 104 năm Cách mạng Tháng Mười Nga (07/11/1917-07/11/2021) lắng nghe những chia sẻ của ca sĩ Yên Hà về album những bài hát Nga “Niềm Hy vọng” và cùng thưởng thức các ca khúc Đàn Sếu, Niềm hy vọng …]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/11/04/vovlive_am_nhac_voi_cuoc_song_104_nam_cach_mang_thang_muoi_nga_yen_ha.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 02 Nov 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
