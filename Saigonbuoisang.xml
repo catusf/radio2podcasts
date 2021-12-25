@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 24 Dec 2021 13:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 25 Dec 2021 13:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 24 Dec 2021 13:00:00 +0700</pubDate>
+    <pubDate>Sat, 25 Dec 2021 13:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Sài Gòn buổi sáng - 25/12/2021</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-25-12-2021-422116.html</link>
+      <description><![CDATA[06:00 - 25/12/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-25-12-2021-422116.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/12/25/sgbs-251221.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 25 Dec 2021 13:00:00 +0700</pubDate>
+    </item>
+    <item>
       <title>TPHCM đón Giáng sinh an toàn trong mùa dịch - Sài Gòn buổi sáng - 24/12/2021</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/tphcm-don-giang-sinh-an-toan-trong-mua-dich-sai-gon-buoi-sang-24-12-2021-422018.html</link>
       <description><![CDATA[06:00 - 24/12/2021]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/tphcm-don-giang-sinh-an-toan-trong-mua-dich-sai-gon-buoi-sang-24-12-2021-422018.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/12/24/sgbs-241221.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 24 Dec 2021 13:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Phát triển đô thị thông minh gắn chặt với quá trình chuyển đổi số - Sài Gòn buổi sáng 23/12/2021</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/phat-trien-do-thi-thong-minh-gan-chat-voi-qua-trinh-chuyen-doi-so-sai-gon-buoi-sang-23-12-2021-421921.html</link>
-      <description><![CDATA[08:40 - 23/12/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/phat-trien-do-thi-thong-minh-gan-chat-voi-qua-trinh-chuyen-doi-so-sai-gon-buoi-sang-23-12-2021-421921.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/12/23/fmsgbs06h00p231221ss.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 23 Dec 2021 15:40:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
