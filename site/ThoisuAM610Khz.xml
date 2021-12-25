@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 25 Dec 2021 12:30:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 25 Dec 2021 18:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 25 Dec 2021 12:30:00 +0700</pubDate>
+    <pubDate>Sat, 25 Dec 2021 18:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,6 +24,14 @@
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Nỗ lực tổ chức các giải thể thao thành tích cao trong điều kiện mới - Thời sự 11g00 25/12/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/no-luc-to-chuc-cac-giai-the-thao-thanh-tich-cao-trong-dieu-kien-moi-thoi-su-11g00-25-12-2021-422136.html</link>
+      <description><![CDATA[11:00 - 25/12/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/no-luc-to-chuc-cac-giai-the-thao-thanh-tich-cao-trong-dieu-kien-moi-thoi-su-11g00-25-12-2021-422136.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/12/25/ts11-251221.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 25 Dec 2021 18:00:00 +0700</pubDate>
+    </item>
+    <item>
       <title>TPHCM sẽ cho F0 điều trị tại nhà sử dụng thuốc Favipiravir - Thời sự 05g30 25/12/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-se-cho-f0-dieu-tri-tai-nha-su-dung-thuoc-favipiravir-thoi-su-05g30-25-12-2021-422117.html</link>
       <description><![CDATA[05:30 - 25/12/2021]]></description>
@@ -32,20 +40,12 @@
       <pubDate>Sat, 25 Dec 2021 12:30:00 +0700</pubDate>
     </item>
     <item>
-      <title>Thí điểm mô hình đô thị sân bay - Thời sự 11g00 24/12/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/thi-diem-mo-hinh-do-thi-san-bay-thoi-su-11g00-24-12-2021-422043.html</link>
-      <description><![CDATA[11:00 - 24/12/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/thi-diem-mo-hinh-do-thi-san-bay-thoi-su-11g00-24-12-2021-422043.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/12/24/ts11-241121.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 24 Dec 2021 18:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>TPHCM bổ sung hơn 4.000 tỷ đồng hỗ trợ Covid-19 - Thời sự 05g30 24/12/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-bo-sung-hon-4-000-ty-dong-ho-tro-covid-19-thoi-su-05g30-24-12-2021-422016.html</link>
-      <description><![CDATA[05:30 - 24/12/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-bo-sung-hon-4-000-ty-dong-ho-tro-covid-19-thoi-su-05g30-24-12-2021-422016.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/12/24/ts05-30-241221.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 24 Dec 2021 12:30:00 +0700</pubDate>
+      <title>Cống hiến âm thầm, lặng lẽ theo gương Bác như lẽ sống tự nhiên - Thời sự 17g00 24/12/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/cong-hien-am-tham-lang-le-theo-guong-bac-nhu-le-song-tu-nhien-thoi-su-17g00-24-12-2021-422088.html</link>
+      <description><![CDATA[18:02 - 24/12/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/cong-hien-am-tham-lang-le-theo-guong-bac-nhu-le-song-tu-nhien-thoi-su-17g00-24-12-2021-422088.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/12/24/AMThoisu17h00p241221.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 25 Dec 2021 01:02:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
