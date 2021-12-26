@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 25 Dec 2021 13:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 26 Dec 2021 13:54:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 25 Dec 2021 13:00:00 +0700</pubDate>
+    <pubDate>Sun, 26 Dec 2021 13:54:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Văn hoá Việt nhìn từ tiếng Việt - Sài Gòn buổi sáng 26/12/2021</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/van-hoa-viet-nhin-tu-tieng-viet-sai-gon-buoi-sang-26-12-2021-422162.html</link>
+      <description><![CDATA[06:54 - 26/12/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/van-hoa-viet-nhin-tu-tieng-viet-sai-gon-buoi-sang-26-12-2021-422162.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/12/26/FMsaigonbuoisang06h00p261221.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 26 Dec 2021 13:54:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Sài Gòn buổi sáng - 25/12/2021</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-25-12-2021-422116.html</link>
       <description><![CDATA[06:00 - 25/12/2021]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-25-12-2021-422116.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/12/25/sgbs-251221.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 25 Dec 2021 13:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>TPHCM đón Giáng sinh an toàn trong mùa dịch - Sài Gòn buổi sáng - 24/12/2021</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/tphcm-don-giang-sinh-an-toan-trong-mua-dich-sai-gon-buoi-sang-24-12-2021-422018.html</link>
-      <description><![CDATA[06:00 - 24/12/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/tphcm-don-giang-sinh-an-toan-trong-mua-dich-sai-gon-buoi-sang-24-12-2021-422018.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/12/24/sgbs-241221.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 24 Dec 2021 13:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
