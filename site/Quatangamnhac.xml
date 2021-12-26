@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 19 Dec 2021 17:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 26 Dec 2021 17:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 19 Dec 2021 17:00:00 +0700</pubDate>
+    <pubDate>Sun, 26 Dec 2021 17:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Quà tặng âm nhạc trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Quatangamnhac.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Khúc giao mùa - Quà tặng âm nhạc 26/12/2021</title>
+      <link>https://radio.voh.com.vn/qua-tang-am-nhac/khuc-giao-mua-qua-tang-am-nhac-26-12-2021-422164.html</link>
+      <description><![CDATA[10:00 - 26/12/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/khuc-giao-mua-qua-tang-am-nhac-26-12-2021-422164.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/12/26/qtan-261221.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 26 Dec 2021 17:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Bài ca người lính - Quà tặng âm nhạc 19/12/2021</title>
       <link>https://radio.voh.com.vn/qua-tang-am-nhac/bai-ca-nguoi-linh-qua-tang-am-nhac-19-12-2021-421568.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/dua-be-qua-tang-am-nhac-28-11-2021-419719.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/11/29/qtan-281121.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 28 Nov 2021 17:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Hãy yêu nhau đi - Quà tặng âm nhạc 21/11/2021</title>
-      <link>https://radio.voh.com.vn/qua-tang-am-nhac/hay-yeu-nhau-di-qua-tang-am-nhac-21-11-2021-419135.html</link>
-      <description><![CDATA[10:00 - 21/11/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/hay-yeu-nhau-di-qua-tang-am-nhac-21-11-2021-419135.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/11/22/qtan-211121.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 21 Nov 2021 17:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
