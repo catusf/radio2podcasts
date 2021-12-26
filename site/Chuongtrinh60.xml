@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 25 Dec 2021 14:20:47 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 26 Dec 2021 14:20:42 +0100</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 25 Dec 2021 14:20:47 +0100</pubDate>
+    <pubDate>Sun, 26 Dec 2021 14:20:42 +0100</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>60'</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Chuongtrinh60.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>26-12-2021 Chương trình 60'</title>
+      <link>https://www.rfi.fr/vi/t%E1%BB%95ng-h%E1%BB%A3p/20211226-ch%C6%B0%C6%A1ng-tr%C3%ACnh-60-ph%C3%BAt</link>
+      <description><![CDATA[Chương trình ngày 26-12-2021 ]]></description>
+      <guid isPermaLink="false">https://www.rfi.fr/vi/t%E1%BB%95ng-h%E1%BB%A3p/20211226-ch%C6%B0%C6%A1ng-tr%C3%ACnh-60-ph%C3%BAt</guid>
+      <enclosure url="https://aod-rfi.akamaized.net/rfi/vietnamien/audio/modules/actu/202112/VN_60MN_2021_12_26.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 26 Dec 2021 14:20:42 +0100</pubDate>
+    </item>
     <item>
       <title>25-12-2021 Chương trình 60'</title>
       <link>https://www.rfi.fr/vi/t%E1%BB%95ng-h%E1%BB%A3p/20211225-ch%C6%B0%C6%A1ng-tr%C3%ACnh-60-ph%C3%BAt</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://www.rfi.fr/vi/t%E1%BB%95ng-h%E1%BB%A3p/20211222-ch%C6%B0%C6%A1ng-tr%C3%ACnh-60-ph%C3%BAt</guid>
       <enclosure url="https://aod-rfi.akamaized.net/rfi/vietnamien/audio/modules/actu/202112/VN_60MN_2021_12_22.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 22 Dec 2021 14:21:04 +0100</pubDate>
-    </item>
-    <item>
-      <title>21-12-2021 Chương trình 60'</title>
-      <link>https://www.rfi.fr/vi/t%E1%BB%95ng-h%E1%BB%A3p/20211221-ch%C6%B0%C6%A1ng-tr%C3%ACnh-60-ph%C3%BAt</link>
-      <description><![CDATA[Chương trình ngày 21-12-2021 ]]></description>
-      <guid isPermaLink="false">https://www.rfi.fr/vi/t%E1%BB%95ng-h%E1%BB%A3p/20211221-ch%C6%B0%C6%A1ng-tr%C3%ACnh-60-ph%C3%BAt</guid>
-      <enclosure url="https://aod-rfi.akamaized.net/rfi/vietnamien/audio/modules/actu/202112/VN_60MN_2021_12_21.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 21 Dec 2021 14:21:07 +0100</pubDate>
     </item>
   </channel>
 </rss>
