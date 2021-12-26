@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 20 Dec 2021 03:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 27 Dec 2021 03:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 20 Dec 2021 03:00:00 +0700</pubDate>
+    <pubDate>Mon, 27 Dec 2021 03:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sóng điện ảnh trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Songdienanh.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Tứ đại thiên vương thanh xuân ngọt ngào (Kỳ 3) - Khung hình thứ 25 26/12/2021</title>
+      <link>https://radio.voh.com.vn/khung-hinh-thu-25/tu-dai-thien-vuong-thanh-xuan-ngot-ngao-ky-3-khung-hinh-thu-25-26-12-2021-422198.html</link>
+      <description><![CDATA[20:00 - 26/12/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/khung-hinh-thu-25/tu-dai-thien-vuong-thanh-xuan-ngot-ngao-ky-3-khung-hinh-thu-25-26-12-2021-422198.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/12/26/khunghinh-261221.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 27 Dec 2021 03:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Tứ đại thiên vương thanh xuân ngọt ngào (Kỳ 2) - Khung hình thứ 25 19/12/2021</title>
       <link>https://radio.voh.com.vn/khung-hinh-thu-25/tu-dai-thien-vuong-thanh-xuan-ngot-ngao-ky-2-khung-hinh-thu-25-19-12-2021-421570.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/khung-hinh-thu-25/hau-truong-phim-truyen-hinh-luoi-troi-ky-2-khung-hinh-thu-25-28-11-2021-419656.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/11/28/khunghinh-281121.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 29 Nov 2021 03:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Hậu trường phim truyền hình "Lưới trời" - Khung hình thứ 25 21/11/2021</title>
-      <link>https://radio.voh.com.vn/khung-hinh-thu-25/hau-truong-phim-truyen-hinh-luoi-troi-khung-hinh-thu-25-21-11-2021-419038.html</link>
-      <description><![CDATA[20:00 - 21/11/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/khung-hinh-thu-25/hau-truong-phim-truyen-hinh-luoi-troi-khung-hinh-thu-25-21-11-2021-419038.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/11/21/khunghinh-25-211121.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 22 Nov 2021 03:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
