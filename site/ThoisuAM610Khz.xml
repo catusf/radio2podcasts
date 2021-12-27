@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 26 Dec 2021 18:11:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 27 Dec 2021 04:56:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 26 Dec 2021 18:11:00 +0700</pubDate>
+    <pubDate>Mon, 27 Dec 2021 04:56:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Không để gián đoạn cung ứng oxy trong điều trị bệnh nhân Covid-19 - Thời sự 17g00 26/12/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/khong-de-gian-doan-cung-ung-oxy-trong-dieu-tri-benh-nhan-covid-19-thoi-su-17g00-26-12-2021-422202.html</link>
+      <description><![CDATA[21:56 - 26/12/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/khong-de-gian-doan-cung-ung-oxy-trong-dieu-tri-benh-nhan-covid-19-thoi-su-17g00-26-12-2021-422202.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/12/26/AMThoisu17h00p261221.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 27 Dec 2021 04:56:00 +0700</pubDate>
+    </item>
     <item>
       <title>Đẩy nhanh tiến độ cấp căn cước công dân gắn chip cho người dân - Thời sự 11g00 26/12/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/day-nhanh-tien-do-cap-can-cuoc-cong-dan-gan-chip-cho-nguoi-dan-thoi-su-11g00-26-12-2021-422172.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/diu-ba-con-vung-lu-qua-kho-khan-thoi-su-5g30-26-12-2021-422161.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/12/26/AMThoisu05h30p261221.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 26 Dec 2021 13:47:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Ra mắt các tour du lịch khám phá nét đẹp TPHCM - Thời sự 17g00 25/12/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/ra-mat-cac-tour-du-lich-kham-pha-net-dep-tphcm-thoi-su-17g00-25-12-2021-422142.html</link>
-      <description><![CDATA[17:00 - 25/12/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/ra-mat-cac-tour-du-lich-kham-pha-net-dep-tphcm-thoi-su-17g00-25-12-2021-422142.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/12/25/ts17g00-251221.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 26 Dec 2021 00:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
