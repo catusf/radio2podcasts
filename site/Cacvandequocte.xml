@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 23 Dec 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 27 Dec 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 23 Dec 2021 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 27 Dec 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Nhật Bản chờ đón năm mới 2022: Đẩy mạnh cải cách về kinh tế và chính sách đối ngoại</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Năm 2021, chính trường Nhật Bản có những thay đổi lớn, trong đó có việc Thủ tướng Kishida Fumio chính thức lên nắm quyền thay cho cựu Thủ tướng Suga. Ngay sau khi nhậm chức, Chính phủ mới của Nhật Bản đã có rất nhiều điều chỉnh về chính sách với mong muốn thúc đẩy hơn nữa uy tín và vị thế của nước Nhật trong bối cảnh mới. Là một người theo chủ nghĩa ôn hòa và ưa thích sự ổn định, năm 2022, ông Kishida Fumio được cho là sẽ tiếp tục dẫn dắt Nhật Bản - nền kinh tế lớn thứ 3 thế giới vượt qua hàng loạt khó khăn hiện tại, như khống chế đại dịch Covid-19, phục hồi nền kinh tế, tình trạng già hoá dân số và căng thẳng với Trung Quốc.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/12/27/vovlive_vandequocte_nhatbanchodonnam2022.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 27 Dec 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Tình hình dịch bệnh Covid-19 tại Mỹ, đầu tàu kinh tế của thế giới</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2021/12/21/vovlive_vandequocte_thaogokhunghoangnhandaooafghanistan.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 21 Dec 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Tương lai nào cho đề xuất an ninh mà Nga gửi tới phương Tây?</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Vào tuần trước, Nga đã đưa ra một đề xuất gồm 8 điểm, trong đó yêu cầu Mỹ và các đồng minh ngừng mọi hoạt động quân sự ở Đông Âu và Trung Á, nhằm thiết lập một thỏa thuận an ninh, giúp hạ nhiệt căng thẳng giữa Nga với phương Tây. Thế nhưng cho đến thời điểm này, phản ứng từ phía Mỹ và Tổ chức Hiệp ước Bắc Đại Tây Dương (NATO) là không khả quan và cũng chưa thấy tia hy vọng nào cho việc các bên sẽ cùng ngồi vào bàn đàm phán để thảo luận về đề xuất an ninh mới của Nga. Vậy tương lai nào cho bản đề xuất này? Tình hình khu vực Đông Âu sẽ tăng nhiệt tới mức nào nếu các bên không đạt được thỏa thuận làm dịu căng thẳng?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/12/20/vovlive_vandequocte_tuonglainaochodexuatanninhmangaguitoiphuongtay(1).mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 20 Dec 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
