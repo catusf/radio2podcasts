@@ -91,8 +91,8 @@ def get_articles_from_html(soup, url, no_items, podcast_title, item_titles=None)
         vt_tz = pytz.timezone('Asia/Ho_Chi_Minh')
 
         print(title, link)
-
-        if item_titles != None:
+    
+        if item_titles is not None:
             item_titles.append(title)
 
         episodes = find_episodes(link)
