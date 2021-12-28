@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Các nền văn minh nhân loại - BBC</title>
+    <link>https://archive.org/embed/nen-van-minh-nhan-loai</link>
+    <description>Trần Hạnh</description>
+    <itunes:explicit>no</itunes:explicit>
+    <copyright>cnvmnl'</copyright>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
+    <language>vi</language>
+    <lastBuildDate>Wed, 22 Dec 2021 19:14:00 +0700</lastBuildDate>
+    <itunes:author>catus.phan</itunes:author>
+    <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
+    <pubDate>Wed, 22 Dec 2021 19:14:00 +0700</pubDate>
+    <itunes:category text="Music">
+      <itunes:category text="Music Commentary"/>
+    </itunes:category>
+    <itunes:image href="https://catusf.github.io/radio2podcasts/CacnenvanminhnhanloaiBBC.png"/>
+    <itunes:owner>
+      <itunes:name>catus.phan</itunes:name>
+      <itunes:email>catus.phan@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:subtitle>Trần Hạnh</itunes:subtitle>
+    <atom:link href="https://catusf.github.io/radio2podcasts/CacnenvanminhnhanloaiBBC.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Các nền văn minh nhân loại - BBC P1</title>
+      <link>https://archive.org/embed/nen-van-minh-nhan-loai</link>
+      <guid isPermaLink="false">https://archive.org/embed/nen-van-minh-nhan-loai</guid>
+      <enclosure url="https://archive.org/download/nen-van-minh-nhan-loai/1.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 22 Dec 2021 19:01:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Các nền văn minh nhân loại - BBC P7</title>
+      <link>https://archive.org/embed/nen-van-minh-nhan-loai</link>
+      <guid isPermaLink="false">https://archive.org/embed/nen-van-minh-nhan-loai</guid>
+      <enclosure url="https://archive.org/download/nen-van-minh-nhan-loai/2.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 22 Dec 2021 19:02:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Các nền văn minh nhân loại - BBC P8</title>
+      <link>https://archive.org/embed/nen-van-minh-nhan-loai</link>
+      <guid isPermaLink="false">https://archive.org/embed/nen-van-minh-nhan-loai</guid>
+      <enclosure url="https://archive.org/download/nen-van-minh-nhan-loai/3.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 22 Dec 2021 19:03:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Các nền văn minh nhân loại - BBC P9</title>
+      <link>https://archive.org/embed/nen-van-minh-nhan-loai</link>
+      <guid isPermaLink="false">https://archive.org/embed/nen-van-minh-nhan-loai</guid>
+      <enclosure url="https://archive.org/download/nen-van-minh-nhan-loai/4.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 22 Dec 2021 19:04:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Các nền văn minh nhân loại - BBC P10</title>
+      <link>https://archive.org/embed/nen-van-minh-nhan-loai</link>
+      <guid isPermaLink="false">https://archive.org/embed/nen-van-minh-nhan-loai</guid>
+      <enclosure url="https://archive.org/download/nen-van-minh-nhan-loai/5.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 22 Dec 2021 19:05:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Các nền văn minh nhân loại - BBC P11</title>
+      <link>https://archive.org/embed/nen-van-minh-nhan-loai</link>
+      <guid isPermaLink="false">https://archive.org/embed/nen-van-minh-nhan-loai</guid>
+      <enclosure url="https://archive.org/download/nen-van-minh-nhan-loai/6.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 22 Dec 2021 19:06:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Các nền văn minh nhân loại - BBC P12</title>
+      <link>https://archive.org/embed/nen-van-minh-nhan-loai</link>
+      <guid isPermaLink="false">https://archive.org/embed/nen-van-minh-nhan-loai</guid>
+      <enclosure url="https://archive.org/download/nen-van-minh-nhan-loai/7.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 22 Dec 2021 19:07:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Các nền văn minh nhân loại - BBC P13</title>
+      <link>https://archive.org/embed/nen-van-minh-nhan-loai</link>
+      <guid isPermaLink="false">https://archive.org/embed/nen-van-minh-nhan-loai</guid>
+      <enclosure url="https://archive.org/download/nen-van-minh-nhan-loai/8.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 22 Dec 2021 19:08:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Các nền văn minh nhân loại - BBC P14</title>
+      <link>https://archive.org/embed/nen-van-minh-nhan-loai</link>
+      <guid isPermaLink="false">https://archive.org/embed/nen-van-minh-nhan-loai</guid>
+      <enclosure url="https://archive.org/download/nen-van-minh-nhan-loai/9.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 22 Dec 2021 19:09:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Các nền văn minh nhân loại - BBC P2</title>
+      <link>https://archive.org/embed/nen-van-minh-nhan-loai</link>
+      <guid isPermaLink="false">https://archive.org/embed/nen-van-minh-nhan-loai</guid>
+      <enclosure url="https://archive.org/download/nen-van-minh-nhan-loai/10.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 22 Dec 2021 19:10:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Các nền văn minh nhân loại - BBC P3</title>
+      <link>https://archive.org/embed/nen-van-minh-nhan-loai</link>
+      <guid isPermaLink="false">https://archive.org/embed/nen-van-minh-nhan-loai</guid>
+      <enclosure url="https://archive.org/download/nen-van-minh-nhan-loai/11.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 22 Dec 2021 19:11:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Các nền văn minh nhân loại - BBC P4</title>
+      <link>https://archive.org/embed/nen-van-minh-nhan-loai</link>
+      <guid isPermaLink="false">https://archive.org/embed/nen-van-minh-nhan-loai</guid>
+      <enclosure url="https://archive.org/download/nen-van-minh-nhan-loai/12.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 22 Dec 2021 19:12:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Các nền văn minh nhân loại - BBC P5</title>
+      <link>https://archive.org/embed/nen-van-minh-nhan-loai</link>
+      <guid isPermaLink="false">https://archive.org/embed/nen-van-minh-nhan-loai</guid>
+      <enclosure url="https://archive.org/download/nen-van-minh-nhan-loai/13.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 22 Dec 2021 19:13:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Các nền văn minh nhân loại - BBC P6</title>
+      <link>https://archive.org/embed/nen-van-minh-nhan-loai</link>
+      <guid isPermaLink="false">https://archive.org/embed/nen-van-minh-nhan-loai</guid>
+      <enclosure url="https://archive.org/download/nen-van-minh-nhan-loai/14.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 22 Dec 2021 19:14:00 +0700</pubDate>
+    </item>
+  </channel>
+</rss>
