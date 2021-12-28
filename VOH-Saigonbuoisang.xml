@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Sài gòn buổi sáng</title>
+    <link>https://radio.voh.com.vn/sai-gon-buoi-sang-590.html</link>
+    <description>Thời sự buổi sáng hàng ngày trên VOH</description>
+    <itunes:explicit>no</itunes:explicit>
+    <copyright>sgbs</copyright>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
+    <language>vi</language>
+    <lastBuildDate>Mon, 27 Dec 2021 15:10:00 +0700</lastBuildDate>
+    <itunes:author>catus.phan</itunes:author>
+    <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
+    <pubDate>Mon, 27 Dec 2021 15:10:00 +0700</pubDate>
+    <itunes:category text="Music">
+      <itunes:category text="Music Commentary"/>
+    </itunes:category>
+    <itunes:image href="https://catusf.github.io/radio2podcasts/VOH-Saigonbuoisang.png"/>
+    <itunes:owner>
+      <itunes:name>catus.phan</itunes:name>
+      <itunes:email>catus.phan@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
+    <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Sài Gòn buổi sáng - 27/12/2021</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-27-12-2021-422242.html</link>
+      <description><![CDATA[08:10 - 27/12/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-27-12-2021-422242.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/12/27/fmsgbs06h00p271221-20211227070753.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 27 Dec 2021 15:10:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Văn hoá Việt nhìn từ tiếng Việt - Sài Gòn buổi sáng 26/12/2021</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/van-hoa-viet-nhin-tu-tieng-viet-sai-gon-buoi-sang-26-12-2021-422162.html</link>
+      <description><![CDATA[06:54 - 26/12/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/van-hoa-viet-nhin-tu-tieng-viet-sai-gon-buoi-sang-26-12-2021-422162.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/12/26/FMsaigonbuoisang06h00p261221.mp3" length="0" type="audio/mpeg"/>
+<<<<<<< HEAD:site/VOH-Saigonbuoisang.xml
+      <pubDate>Sun, 26 Dec 2021 06:54:00 +0700</pubDate>
+=======
+      <pubDate>Sun, 26 Dec 2021 13:54:00 +0700</pubDate>
+>>>>>>> df5570e081dd6cd706ded1ee94dc8860fda9c4ad:site/Saigonbuoisang.xml
+    </item>
+  </channel>
+</rss>
