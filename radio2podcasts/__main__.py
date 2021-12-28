@@ -133,11 +133,12 @@ def main():
 
             url = program['url']
             bare_title = remove_marks(title)
-            filename = bare_title + PODCASTS['podcasts']['podcast_ext']
+            base_name = f"{sitename}-{bare_title}"
+            filename = f"{base_name}{PODCASTS['podcasts']['podcast_ext']}"
             output_file = PODCASTS_FOLDER + filename
             host = PODCASTS['podcasts']['host']
             output_url = host + filename
-            image_file = bare_title + '.png'
+            image_file = f"{base_name}.png"
             image_path = PODCASTS_FOLDER + image_file
             cover_url = host + image_file
 
