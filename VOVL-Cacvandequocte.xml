@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 27 Dec 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 28 Dec 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 27 Dec 2021 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 28 Dec 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Năm 2021: Nước Mỹ đan xen các gam màu “sáng, tối”</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Khi nước Mỹ và thế giới đang bước vào những ngày cuối cùng của năm 2021, cũng đồng nghĩa đã gần một năm kể từ khi Chính quyền Tổng thống Joe Biden nhậm chức. Có lẽ không một Tổng thống nào trong lịch sử nước Mỹ đương đại lại phải đương đầu với hàng loạt những thách thức lớn cả về đối nội và đối ngoại như ông Joe Biden. Là một chính trị gia dày dạn kinh nghiệm và được sự trợ giúp đắc lực của đội ngũ cố vấn, có thể nói Tổng thống Joe Biden và Phó Tổng thống Kamala Harris đã đưa nước Mỹ vượt qua nhiều khó khăn và gặt hái được một số thành công nhất định về đối nội và đối ngoại trong năm 2021. Vậy nước Mỹ năm nay có những gam màu nào nổi bật?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/12/28/vovlive_vandequocte_nam2021nuocmydanxencacgammausangtoi.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 28 Dec 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Nhật Bản chờ đón năm mới 2022: Đẩy mạnh cải cách về kinh tế và chính sách đối ngoại</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2021/12/23/vovlive_vandequocte_damphanhatnhaniran.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 22 Dec 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Tháo gỡ khủng hoảng nhân đạo ở Afghanistan</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Đại diện của 57 quốc gia Hồi giáo trên thế giới đã đến Pakistan tham dự hội nghị do Tổ chức Hợp tác Hồi giáo (OIC) tổ chức nhằm tháo gỡ cuộc khủng hoảng nhân đạo ở Afghanistan. Đây là hội nghị lớn nhất từ trước đến nay để thảo luận về tình hình tại Afghanistan kể từ khi lực lượng Taliban lên nắm quyền tại nước này hồi tháng 8 vừa qua. Hiện chưa có quốc gia nào chính thức công nhận chính quyền mới ở Afghanistan do Taliban đứng đầu và các nỗ lực ngoại giao đều đang bế tắc trong việc tìm cách đưa các khoản trợ cấp nhân đạo đến nước này mà không trở thành các khoản tài trợ cho chính quyền Taliban. Liên hợp quốc cũng đã nhiều lần cảnh báo Afghanistan đang đứng trước nguy cơ rơi vào tình trạng khẩn cấp nhân đạo nghiêm trọng nhất thế giới do cùng lúc khủng hoảng cả về thực phẩm, nhiên liệu và tiền mặt. Tại hội nghị này, các bên kỳ vọng sẽ đưa ra được các đề xuất, giải pháp nhằm tháo gỡ khủng hoảng nhân đạo cho Afghanistan.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/12/21/vovlive_vandequocte_thaogokhunghoangnhandaooafghanistan.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 21 Dec 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
