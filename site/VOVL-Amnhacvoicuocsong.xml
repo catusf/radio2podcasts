@@ -9,17 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-<<<<<<< HEAD:site/VOVL-Amnhacvoicuocsong.xml
-    <lastBuildDate>Tue, 21 Dec 2021 12:00:00 +0700</lastBuildDate>
-    <itunes:author>catus.phan</itunes:author>
-    <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 21 Dec 2021 12:00:00 +0700</pubDate>
-=======
     <lastBuildDate>Tue, 21 Dec 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
     <pubDate>Tue, 21 Dec 2021 19:00:00 +0700</pubDate>
->>>>>>> df5570e081dd6cd706ded1ee94dc8860fda9c4ad:site/Amnhacvoicuocsong.xml
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -71,11 +64,7 @@
 - Lắng nghe các ca khúc “Yêu lắm lớp Một ơi”, “Cô giáo của em” của nhạc sĩ, thầy giáo Lê Thống Nhất.]]></description>
       <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2021/11/17/vovlive_am_nhac_voi_cuoc_song_dao_huu_thi.mp3" length="0" type="audio/mpeg"/>
-<<<<<<< HEAD:site/VOVL-Amnhacvoicuocsong.xml
-      <pubDate>Tue, 16 Nov 2021 12:00:00 +0700</pubDate>
-=======
       <pubDate>Tue, 16 Nov 2021 19:00:00 +0700</pubDate>
->>>>>>> df5570e081dd6cd706ded1ee94dc8860fda9c4ad:site/Amnhacvoicuocsong.xml
     </item>
   </channel>
 </rss>
