@@ -38,7 +38,7 @@ def get_articles_from_html(soup, url, no_items, podcast_title, item_titles=None)
         else:
             item = i.h4
 
-        title = item.text.strip().replace('\n', ' ')
+        title = ' '.join(item.strings).strip()
 
         link = urljoin(url, item.a['href'])
         description = i.find('p', class_='moreless-content').get_text().strip()

@@ -1,8 +1,8 @@
 # Todo List
-[ ] Add website's name to podcasts' name
 [ ] Update VOV Sachnoi to include each episode desc
+[X] Add website's name to podcasts' name
 [X] [Obsolete] Scan a Google Sheet to create Archive.org podcast json
-[ ] Add Site name next to Site abbreviation in HTML
+[X] Add Site name next to Site abbreviation in HTML
 [x] Update Actions so that when having nothing to commit, quits gracefully
 [x] Fix duplicating issue for every podcasts.
 [X] Update Actions so that when having nothing to commit, quits gracefully
