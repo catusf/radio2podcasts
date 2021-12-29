@@ -7,20 +7,21 @@ import datetime
 import json
 import os
 import pytz
-# import requests
-from bs4 import BeautifulSoup
-from operator import attrgetter
 
 # from podcasts_utils import get_true_url
 
-def first_diff(a, b):
-   return [i for i in range(len(a)) if a[i] != b[i]]
+def diff_positions(str1, str2):
+    """
+    Finds list of positions where the strings differs
+    """
+    return [i for i in range(len(str1)) if str1[i] != str2[i]]
 
 def get_articles_from_html(soup, url, no_items, podcast_title, item_titles=None):
     """
     Takes an HTML string and extracts children according to
     Returns a set of namedtuples with link, title and description
     """
+    del item_titles
 
     feed_article = collections.namedtuple(
         'feed_article', {
@@ -42,7 +43,7 @@ def get_articles_from_html(soup, url, no_items, podcast_title, item_titles=None)
         description = ''
 
         vt_tz = pytz.timezone('Asia/Ho_Chi_Minh')
-        year, month, day = 2021,12,22
+        year, month, day = 2021, 12, 22
 
         pub_date = datetime.datetime(year, month, day, 12, 0).astimezone(vt_tz)
 
@@ -66,8 +67,8 @@ def get_articles_from_html(soup, url, no_items, podcast_title, item_titles=None)
     filebase1 = os.path.splitext(os.path.basename(parsed1.path))[0]
     filebase2 = os.path.splitext(os.path.basename(parsed2.path))[0]
 
-    poss = first_diff(filebase1, filebase2)
-    
+    poss = diff_positions(filebase1, filebase2)
+
     if len(poss) < 1:
         pos = min(len(filebase1), len(filebase2)) - 1
     else:
@@ -78,8 +79,8 @@ def get_articles_from_html(soup, url, no_items, podcast_title, item_titles=None)
     for i in temp_list:
         parsed = urlparse(i.media)
         filebase = os.path.splitext(os.path.basename(parsed.path))[0]
-        num = filebase[pos:] # Extract the number part of the filename 
-        
+        num = filebase[pos:] # Extract the number part of the filename
+
         if num.isnumeric():
             sorted_list.append((i, num.zfill(2))) # Add one padding zero if this is a number and less than 10
         else:
@@ -101,7 +102,7 @@ def get_articles_from_html(soup, url, no_items, podcast_title, item_titles=None)
                 type=i.type)
         )
         count = count + 1
-        
+
     for i in articles:
         print(i.pub_date, i.media)
 

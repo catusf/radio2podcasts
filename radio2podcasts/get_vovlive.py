@@ -2,21 +2,17 @@
 """
 
 import collections
-from urllib.parse import urljoin, urlparse, urlunparse
 import datetime
 import re
 import pytz
-import requests
-from bs4 import BeautifulSoup
-
-from podcasts_utils import get_true_url
-
 
 def get_articles_from_html(soup, url, no_items, podcast_title, item_titles=None):
     """
     Takes an HTML string and extracts children according to
     Returns a set of namedtuples with link, title and description
     """
+
+    del podcast_title
 
     feed_article = collections.namedtuple(
         'feed_article', {

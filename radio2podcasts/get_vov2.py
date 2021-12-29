@@ -18,6 +18,8 @@ def get_articles_from_html(soup, url, no_items, podcast_title, item_titles=None)
     Returns a set of namedtuples with link, title and description
     """
 
+    del podcast_title
+
     feed_article = collections.namedtuple(
         'feed_article', {
             'link', 'title', 'description', 'pub_date', 'media', 'type'})

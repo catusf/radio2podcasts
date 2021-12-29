@@ -2,14 +2,10 @@
 """
 
 import collections
-from urllib.parse import urljoin, urlunparse, urlparse
+from urllib.parse import urljoin
 import datetime
 import re
 import pytz
-import requests
-from bs4 import BeautifulSoup
-
-from podcasts_utils import get_true_url
 
 def process_item(title, rmedia, rlink, url):
     '''
@@ -35,6 +31,8 @@ def get_articles_from_html(soup, url, no_items, podcast_title, item_titles=None)
     Returns a set of namedtuples with link, title and description
     """
 
+    del podcast_title
+
     feed_article = collections.namedtuple(
         'feed_article', {'link', 'title', 'description', 'pub_date', 'media', 'type'})
 
@@ -43,9 +41,9 @@ def get_articles_from_html(soup, url, no_items, podcast_title, item_titles=None)
     # debug = False
     count = 0
 
-    top_item = soup.find('script', text = re.compile('mp3'))
+    top_item = soup.find('script', text=re.compile('mp3'))
     string = top_item.string
-    pieces = re.split("[\(\)',;]", string)
+    pieces = re.split(r"[()',;]", string)
     rmedia = pieces[2]
     title = pieces[8]
     rlink = pieces[11]

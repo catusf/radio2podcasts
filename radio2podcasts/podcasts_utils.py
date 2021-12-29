@@ -25,6 +25,9 @@ def exception_info():
     Gets details of where exception occurs
     """
     exc_type, exc_obj, tbtype = sys.exc_info()
+
+    del exc_type
+
     frame = tbtype.tb_frame
     lineno = tbtype.tb_lineno
     filename = frame.f_code.co_filename

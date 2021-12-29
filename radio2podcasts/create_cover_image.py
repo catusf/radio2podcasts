@@ -1,10 +1,14 @@
-
+"""This content utils to generate cover images for podcasts
+"""
 from PIL import Image, ImageDraw, ImageFont
 
 TITLE_FONT_FILE = './fonts/STENCIL.TTF'
 DESC_FONT_FILE = './fonts/calibrib.ttf'
 
+
 def text_wrap(text, font, canvas, max_width, max_height):
+    """ Utility function to break line of input text
+    """
     lines = [[]]
     words = text.split()
     for word in words:
@@ -34,7 +38,10 @@ def text_wrap(text, font, canvas, max_width, max_height):
 
 
 def create_image(title, description, filenpath, width=3000, height=3000, title_height=1000,
-    desc_height=500, title_color=(235, 30, 35), desc_color=(46, 48, 148), back_color=(255,255,255), title_font_file=TITLE_FONT_FILE, desc_font_file=DESC_FONT_FILE):
+                 desc_height=500, title_color=(235, 30, 35), desc_color=(46, 48, 148), back_color=(255, 255, 255),
+                 title_font_file=TITLE_FONT_FILE, desc_font_file=DESC_FONT_FILE):
+    """ Generates cover image for a podcast
+    """
     bg = Image.new('RGB', (width, height), color=back_color)
     # bg = Image.open('test/my_background.png')
     # ws = Image.open('test/my_overlay_with_alpha.png')
@@ -67,7 +74,10 @@ def create_image(title, description, filenpath, width=3000, height=3000, title_h
 
 
 def main():
+    """ Test function
+    """
     create_image('RADIO', 'Test Radio Station', 'RADIO.png')
+
 
 if __name__ == "__main__":
     main()

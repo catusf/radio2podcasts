@@ -63,6 +63,8 @@ def get_articles_from_html(soup, url, no_items, podcast_title, item_titles=None)
     Takes an HTML string and extracts children according to
     Returns a set of namedtuples with link, title and description
     """
+
+    del url, podcast_title
     feed_article = collections.namedtuple(
         'feed_article', {
             'link', 'title', 'description', 'pub_date', 'media', 'type'})
@@ -91,7 +93,7 @@ def get_articles_from_html(soup, url, no_items, podcast_title, item_titles=None)
         vt_tz = pytz.timezone('Asia/Ho_Chi_Minh')
 
         print(title, link)
-    
+
         if item_titles is not None:
             item_titles.append(title)
 

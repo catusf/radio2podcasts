@@ -1,3 +1,5 @@
+""" Utility to remove Vietnamese specific characters from file names and titles
+"""
 
 VIETNAMESE_CHAR_MAP = {
     'a': 'a',
@@ -192,20 +194,23 @@ VIETNAMESE_CHAR_MAP = {
 
 def remove_marks(marked):
     '''
-    Remove Vietnamese specific characters with Latin characters for safe file 
+    Remove Vietnamese specific characters with Latin characters for safe file
     names. Also remove spaces.
     '''
     cleaned = ''
     for character in marked:
         if character.isalnum():
             cleaned += character
-            
+
     return ''.join(
         [VIETNAMESE_CHAR_MAP[i] if i in VIETNAMESE_CHAR_MAP else i for i in cleaned])
 
 
 def main():
+    """ Test method
+    """
     print(remove_marks('Bèo dạt mây trôi chốn xa xôi Anh ơi em vẫn đợi bèo dạt'))
+
 
 if __name__ == "__main__":
     main()

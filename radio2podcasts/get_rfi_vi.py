@@ -1,18 +1,13 @@
-"""This module purse VOH website to get the contents for podcast feed.
+"""This module purse RFI website to get the contents for podcast feed.
 """
 
 import collections
-from urllib.parse import urljoin, urlparse, urlunparse
-import datetime
-from dateutil import parser
 import json
-import re
+from urllib.parse import urlparse, urlunparse
+from dateutil import parser
 import pytz
 import requests
 from bs4 import BeautifulSoup
-
-from podcasts_utils import get_true_url
-
 
 def get_articles_from_html(soup, url, no_items, podcast_title, item_titles=None):
     """
@@ -35,10 +30,10 @@ def get_articles_from_html(soup, url, no_items, podcast_title, item_titles=None)
 
         title = i.select_one('p.article__title').text.strip()
         link = i.a.get('href')
-        
+
         parsed = urlparse(url)
         link = urlunparse((parsed[0], parsed[1], link, '', '', ''))
-        
+
         # media = i.a.get('data-source')
         # description = i.select_one('div.b-grid__desc').text.strip()
         time_string = i.find('time').get('datetime')
@@ -46,7 +41,7 @@ def get_articles_from_html(soup, url, no_items, podcast_title, item_titles=None)
         vt_tz = pytz.timezone('Europe/Paris')
 
         pub_date = parser.parse(time_string).astimezone(vt_tz)
-        
+
         headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0'}
 
         spage = requests.get(link, headers=headers)
@@ -64,21 +59,21 @@ def get_articles_from_html(soup, url, no_items, podcast_title, item_titles=None)
         # Other RFI podcasts have different media urls
         if podcast_title == "Chương trình 43'":
             link = f'https://www.rfi.fr/vi/t%E1%BA%A1p-ch%C3%AD/13h17-14h00-gmt/{datestr1}-ph%E1%BA%A7n-c%C3%B2n-l%E1%BA%A1i-c%E1%BB%A7a-ch%C6%B0%C6%A1ng-tr%C3%ACnh-{datestr4}-13h17-gmt'
-            media=f'https://aod-rfi.akamaized.net/rfi/vietnamien/audio/magazines/r001/13h17_-_14h00_gmt_{datestr1}.mp3'
+            media = f'https://aod-rfi.akamaized.net/rfi/vietnamien/audio/magazines/r001/13h17_-_14h00_gmt_{datestr1}.mp3'
         elif podcast_title == "Chương trình 60'":
             link = f'https://www.rfi.fr/vi/t%E1%BB%95ng-h%E1%BB%A3p/{datestr1}-ch%C6%B0%C6%A1ng-tr%C3%ACnh-60-ph%C3%BAt'
-            media=f'https://aod-rfi.akamaized.net/rfi/vietnamien/audio/modules/actu/{datestr2}/VN_60MN_{datestr3}.mp3'
+            media = f'https://aod-rfi.akamaized.net/rfi/vietnamien/audio/modules/actu/{datestr2}/VN_60MN_{datestr3}.mp3'
 
         description = "Chương trình ngày " + pub_date.strftime(r'%d-%m-%Y ')
         title = pub_date.strftime(r'%d-%m-%Y ') + podcast_title
-        
+
         mime = 'audio/mpeg'
 
         print(link, title, pub_date)
 
         if item_titles is not None:
             item_titles.append(title)
-        
+
         articles.append(
             feed_article(
                 link=link,

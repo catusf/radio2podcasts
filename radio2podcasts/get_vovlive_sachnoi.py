@@ -3,7 +3,6 @@
 
 import collections
 from datetime import datetime
-import json
 import pytz
 import requests
 from bs4 import BeautifulSoup
@@ -62,6 +61,9 @@ def get_articles_from_html(soup, url, no_items, podcast_title, item_titles=None)
     Takes an HTML string and extracts children according to
     Returns a set of namedtuples with link, title and description
     """
+
+    del url, podcast_title
+
     feed_article = collections.namedtuple(
         'feed_article', {
             'link', 'title', 'description', 'pub_date', 'media', 'type'})
@@ -73,7 +75,7 @@ def get_articles_from_html(soup, url, no_items, podcast_title, item_titles=None)
     content_soup = soup.select_one('ul.clearfix')
     items = content_soup.select('div.c-square-item__thumb')
 
-    for n, i in enumerate(items):
+    for i in items:
         count = count + 1
         if count > no_items:
             break
@@ -88,7 +90,7 @@ def get_articles_from_html(soup, url, no_items, podcast_title, item_titles=None)
 
         episodes, description = find_episodes(link)
 
-        for m, e in enumerate(episodes):
+        for e in episodes:
             # Add one second for every episode, so they can be sorted
             articles.append(
                 feed_article(

@@ -18,6 +18,8 @@ def get_articles_from_html(soup, url, no_items, podcast_title, item_titles=None)
     Returns a set of namedtuples with link, title and description
     """
 
+    del podcast_title
+
     feed_article = collections.namedtuple(
         'feed_article', {
             'link', 'title', 'description', 'pub_date', 'media', 'type'})
@@ -48,7 +50,8 @@ def get_articles_from_html(soup, url, no_items, podcast_title, item_titles=None)
         match = re.search(time_regex, updated, re.M | re.I)
 
         vt_tz = pytz.timezone('Asia/Ho_Chi_Minh')
-        year, month, day = int(match.group(3)), int(match.group(2)), int(match.group(1))
+        year, month, day = int(match.group(3)), int(
+            match.group(2)), int(match.group(1))
 
         pub_date = datetime.datetime(year, month, day, 12, 0).astimezone(vt_tz)
 
