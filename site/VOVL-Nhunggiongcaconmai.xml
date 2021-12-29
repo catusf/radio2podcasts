@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 14 Dec 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 28 Dec 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 14 Dec 2021 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 28 Dec 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Những giọng ca còn mãi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Nhunggiongcaconmai.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>NSƯT Thanh Kim Huệ: Giọng ca vàng vượt thời gian</title>
+      <link>https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</link>
+      <description><![CDATA[NSƯT Thanh Kim Huệ có chất giọng kim, làn hơi trong suốt, cao vút, lối hát uyển chuyển, mềm mại tạo thành lối ca lạ, hấp dẫn người nghe. Bà sử dụng nhuần nhuyễn các bài lý, các điệu hò miền Nam vào trong lòng câu vọng cổ và rất được giới trẻ yêu thích. Trong sự nghiệp của mình, NSƯT Thanh Kim Huệ đã để lại gia tài là những vai diễn tạo dấu ấn đặc biệt trong hàng trăm vở diễn…, trong đó phải kể đến Lan trong "Lan và Điệp", Thị Hến trong "Ngao sò ốc hến"... là những vai diễn của Thanh Kim Huệ được khán giả nhiều thế hệ yêu mến.…]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/12/29/vovlive_nhung_giong_ca_con_mai_nsut_thanh_kim_hue.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 28 Dec 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>NSND Thúy Hiền: Giọng hát chèo quen thuộc trên làn sóng của Đài TNVN</title>
       <link>https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2021/12/08/vovlive_nhung_giong_ca_con_mai_nsnd_cai_luong_manh_tuong.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 30 Nov 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>NSND Út Trà Ôn: Vua vọng cổ</title>
-      <link>https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</link>
-      <description><![CDATA[NSND Út Trà Ôn có làn hơi trầm ấm cùng phong cách ca, ngâm độc đáo, vừa luyến láy kỹ thuật nhưng lại vừa chân phương. Ông còn được xem là bậc thầy về lối hành văn sắp chữ. Với cách phát âm tròn vành, nhịp nhàng, chắc chắn, trầm bổng, rõ ràng, ông đã được giới mộ điệu cải lương và các ký giả kịch trường trao tặng danh hiệu “đệ nhất danh ca” miền Nam, hay “vua vọng cổ”. Hơn 60 năm theo nghề hát, NSND Út Trà Ôn đã tham gia nhiều vở cải lương như: Tuyệt tình ca, Nạn con rơi, Sương khói rừng khuya, Lưu Bình Dương Lễ... và tạo dấu ấn qua nhiều bài vọng cổ kinh điển như: Tình anh bán chiếu, Ông lão chèo đò, Dạ cổ hoài lang, Tôn Tẫn giả điên...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/nhung-giong-ca-con-mai-p262.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/11/09/vovlive_mhung_giong_ca_con_mai_nsnd_ut_tra_on.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 09 Nov 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
