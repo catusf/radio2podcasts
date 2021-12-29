@@ -30,6 +30,11 @@ Khi chương trình gặp lỗi, email sẽ được gửi từ hòm thư **Gmai
 - EMAIL_RECIPIENT_ENV
 - EMAIL_PASSWORD_ENV
 
+# Để thêm sách trên [archive.org](http://archive.org/)
+- Tìm một cuốn sách nói trên [archive.org](http://archive.org/) ví dụ [7 Thói Quen Để Thành Đạt](https://archive.org/details/audiobook-7thoiquendethanhdat)
+- Sửa đường dẫn từ `https://archive.org/details/audiobook-7thoiquendethanhdat` thành `https://archive.org/embed/audiobook-7thoiquendethanhdat`
+- Sửa file [podcasts-archive.org.json](https://github.com/catusf/radio2podcasts/blob/master/podcasts-archive.org.json) để thêm cuốn sách
+- GitHub Action tương ứng sẽ được thực hiện và cuốn sách sẽ được xuất hiện ở [danh sách podcast](https://www.catusfelis.xyz/radio2podcasts/index-archive.html)
 
 ## Generate favicon from PNG
 Uses [favicon.io](https://favicon.io/favicon-converter/)
@@ -39,3 +44,4 @@ Do vậy cần đặt các biến hệ thống trên máy phát triển và/ho�
 <br>
 
 [![Gitter](https://badges.gitter.im/radio2podcasts/community.svg)](https://gitter.im/radio2podcasts/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
