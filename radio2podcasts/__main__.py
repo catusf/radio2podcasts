@@ -175,7 +175,7 @@ def main():
             output_rss(rss, this_feed_settings.output_file)
 
             render_site['podcasts'].append(
-                {'title': title, 'subslink': subslink, 'link': output_url, 'item_titles': ', '.join(item_titles)})
+                {'title': title, 'subslink': subslink, 'link': output_url, 'item_titles': ' | '.join(item_titles).strip()})
 
         render_sites.append(render_site)
 
