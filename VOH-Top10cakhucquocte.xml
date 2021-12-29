@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 26 Dec 2021 13:09:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 26 Dec 2021 20:09:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 26 Dec 2021 13:09:00 +0700</pubDate>
+    <pubDate>Sun, 26 Dec 2021 20:09:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -29,7 +29,7 @@
       <description><![CDATA[13:09 - 26/12/2021]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/top-10-ca-khuc-quoc-te/top-ten-25-12-2021-422186.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/12/26/FMtopten21h00p251221.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 26 Dec 2021 13:09:00 +0700</pubDate>
+      <pubDate>Sun, 26 Dec 2021 20:09:00 +0700</pubDate>
     </item>
     <item>
       <title>Top ten - 18/12/2021</title>
@@ -37,7 +37,7 @@
       <description><![CDATA[22:00 - 18/12/2021]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/top-10-ca-khuc-quoc-te/top-ten-18-12-2021-421509.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/12/18/FMtopten21h00p181221.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 18 Dec 2021 22:00:00 +0700</pubDate>
+      <pubDate>Sun, 19 Dec 2021 05:00:00 +0700</pubDate>
     </item>
     <item>
       <title>Top ten - 11/12/2021</title>
@@ -45,7 +45,7 @@
       <description><![CDATA[22:14 - 11/12/2021]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/top-10-ca-khuc-quoc-te/top-ten-11-12-2021-420891.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/12/11/FMtopten21h00p111221.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 11 Dec 2021 22:14:00 +0700</pubDate>
+      <pubDate>Sun, 12 Dec 2021 05:14:00 +0700</pubDate>
     </item>
     <item>
       <title>Top ten - 4/12/2021</title>
@@ -53,7 +53,7 @@
       <description><![CDATA[22:09 - 04/12/2021]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/top-10-ca-khuc-quoc-te/top-ten-4-12-2021-420228.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/12/04/fmtopten21h00p041221-20211204000258.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 04 Dec 2021 22:09:00 +0700</pubDate>
+      <pubDate>Sun, 05 Dec 2021 05:09:00 +0700</pubDate>
     </item>
     <item>
       <title>Top ten - 27/11/2021</title>
@@ -61,7 +61,7 @@
       <description><![CDATA[22:44 - 27/11/2021]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/top-10-ca-khuc-quoc-te/top-ten-27-11-2021-419586.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/11/27/fmtopten21h00p271121-20211127144844.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 27 Nov 2021 22:44:00 +0700</pubDate>
+      <pubDate>Sun, 28 Nov 2021 05:44:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
