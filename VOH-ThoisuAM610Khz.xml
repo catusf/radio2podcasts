@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 28 Dec 2021 18:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 29 Dec 2021 00:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 28 Dec 2021 18:00:00 +0700</pubDate>
+    <pubDate>Wed, 29 Dec 2021 00:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>TPHCM: Duyệt kế hoạch phát triển nhà ở giai đoạn 2021-2025 - Thời sự 17g00 28/12/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-duyet-ke-hoach-phat-trien-nha-o-giai-doan-2021-2025-thoi-su-17g00-28-12-2021-422395.html</link>
+      <description><![CDATA[17:00 - 28/12/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-duyet-ke-hoach-phat-trien-nha-o-giai-doan-2021-2025-thoi-su-17g00-28-12-2021-422395.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/12/28/AMThoisu17h00p2812211.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 29 Dec 2021 00:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Kiến nghị lùi thời gian lắp thiết bị giám sát học lái xe ô tô - Thời sự 11g00 28/12/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/kien-nghi-lui-thoi-gian-lap-thiet-bi-giam-sat-hoc-lai-xe-o-to-thoi-su-11g00-28-12-2021-422352.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/quy-hoach-van-la-diem-nghen-diem-yeu-cua-tphcm-thoi-su-5g30-28-12-2021-422351.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/12/28/AMThoisu05h30p281221.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 28 Dec 2021 12:30:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>TPHCM tập trung đẩy mạnh chuyển đổi số thời hậu Covid-19 – Thời sự 17g00 27/12/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-tap-trung-day-manh-chuyen-doi-so-thoi-hau-covid-19-thoi-su-17g00-27-12-2021-422300.html</link>
-      <description><![CDATA[17:35 - 27/12/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-tap-trung-day-manh-chuyen-doi-so-thoi-hau-covid-19-thoi-su-17g00-27-12-2021-422300.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/12/27/AMThoisu17h00p271221.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 28 Dec 2021 00:35:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
