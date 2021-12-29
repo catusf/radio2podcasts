@@ -10,7 +10,7 @@
             "request": "launch",
             "program": "radio2podcasts/__main__.py",
             "console": "integratedTerminal",
-            "args": ["--input=podcasts-ppud.json", "--output=index-ppud.html", "--debug="]
+            "args": ["--input=podcasts-archive.org.json", "--output=index-archive.html", "--debug="]
         }
     ]
 }
