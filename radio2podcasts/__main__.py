@@ -14,7 +14,7 @@ from jinja2 import Environment, FileSystemLoader
 from podcasts_utils import output_rss, rss_from_webpage, number_in_cirle, send_mail_on_error
 
 from create_cover_image import create_image
-from remove_marks import remove_marks, initials
+from remove_marks import remove_marks
 import get_voh_com_vn
 import get_vov1
 import get_vov2
@@ -27,7 +27,7 @@ import get_ppud
 import get_vovlive_sachnoi
 import get_archive_org
 
-DE = True # False
+DE = True  # False
 
 CWD = os.getcwd()
 
@@ -39,8 +39,8 @@ PODCASTS_FOLDER = 'site/'
 
 # Maps site urls to their processing functions
 PROCESS_FUNCTIONS = {
-    'http://vov1.vov.vn/':get_vov1.get_articles_from_html,
-    'http://vov2.vov.vn/':get_vov2.get_articles_from_html,
+    'http://vov1.vov.vn/': get_vov1.get_articles_from_html,
+    'http://vov2.vov.vn/': get_vov2.get_articles_from_html,
     'http://vov6.vov.vn/': get_vov6.get_articles_from_html,
     'http://radio.voh.com.vn': get_voh_com_vn.get_articles_from_html,
     'http://www.drt.danang.vn/': get_drt_danang_vn.get_articles_from_html,
@@ -52,14 +52,16 @@ PROCESS_FUNCTIONS = {
     'https://archive.org/': get_archive_org.get_articles_from_html,
 }
 
+
 def cleanup_url(url):
     """
     Preprocess url for special cases.
     """
 
     newurl = re.sub(r"(archive.org/)(details)(/)", r'\1embed\3', url)
-    
+
     return newurl
+
 
 def main():
     """
@@ -68,15 +70,18 @@ def main():
     """
 
     parser = argparse.ArgumentParser()
-    parser.add_argument('-i', '--input', help='Name of JSON input file for podcast feed', type=str, required=True)
-    parser.add_argument('-o', '--output', help='Name of HTML output file containing description of all podcasts', type=str, required=True)
-    parser.add_argument('-d', '--debug', help='Debug mode True/False', default=False, type=bool)
+    parser.add_argument(
+        '-i', '--input', help='Name of JSON input file for podcast feed', type=str, required=True)
+    parser.add_argument(
+        '-o', '--output', help='Name of HTML output file containing description of all podcasts', type=str, required=True)
+    parser.add_argument(
+        '-d', '--debug', help='Debug mode True/False', default=False, type=bool)
     args = parser.parse_args()
 
     global PODCASTS
 
-    if args.debug:
-        debug_sites = {'RFI',}
+    # if args.debug:
+    #     debug_sites = {'RFI',}
 
     if not os.path.exists(PODCASTS_FOLDER):
         os.makedirs(PODCASTS_FOLDER)
@@ -88,9 +93,9 @@ def main():
         PODCASTS_CONFIG = json.load(outfile)
 
     for sitename in PODCASTS['websites']:
-        if args.debug:
-            if not sitename in debug_sites:
-                continue
+        # if args.debug:
+        #     if not sitename in debug_sites:
+        #         continue
 
         site_url = PODCASTS['websites'][sitename]['home']
         PODCASTS['websites'][sitename]['function'] = PROCESS_FUNCTIONS[site_url]
@@ -119,9 +124,9 @@ def main():
     render_sites = []
 
     for sitename in PODCASTS['websites']:
-        if args.debug:
-            if not sitename in debug_sites:
-                continue
+        # if args.debug:
+        #     if not sitename in debug_sites:
+        #         continue
 
         website = PODCASTS['websites'][sitename]
 
@@ -129,18 +134,14 @@ def main():
                        'url': website['home'], 'podcasts': []}
 
         for program in website['programs']:
-            # program = website['programs'][name]
-            # home = PODCASTS['broadcaster']['home']
             title = program['title']
-            # name = initials(title)
             no_items = program['no']
             subtitle = program['subtitle']
 
             time_regex = r'(\d+)$'
             match = re.search(time_regex, subtitle, re.I)
-            if match: # If there is episode number in subtitle, then makes a number in circle and puts it in title
+            if match:  # If there is episode number in subtitle, then makes a number in circle and puts it in title
                 episode = int(match.group(0))
-
                 title = number_in_cirle(episode) + " " + title
 
             url = cleanup_url(program['url'])
@@ -155,14 +156,10 @@ def main():
             cover_url = host + image_file
 
             subslink = f"https://www.subscribeonandroid.com/{DEST_URL}/{filename}"
-            # render_site['podcasts'].append(
-            #     {'title': title, 'subslink': subslink, 'link': output_url})
 
             print(output_file)
 
             create_image(sitename, title.upper(), image_path)
-
-            # continue
 
             this_feed_settings = feed_settings(
                 source_page_url=url,
@@ -172,18 +169,17 @@ def main():
                 output_url=output_url,
                 title=title,
                 subtitle=subtitle,
-                author={'name': PODCASTS_CONFIG['podcasts']['name'], 'email': PODCASTS_CONFIG['podcasts']['email']},
+                author={'name': PODCASTS_CONFIG['podcasts']['name'],
+                        'email': PODCASTS_CONFIG['podcasts']['email']},
                 img_url=cover_url,
                 language='vi',
                 copyright=PODCASTS_CONFIG['podcasts']['name'],
             )
 
-            # if sitename in {'VOV2'}:
-            #     print('Here')
-
             item_titles = []
 
-            rss = rss_from_webpage(this_feed_settings, website['function'], title, item_titles)
+            rss = rss_from_webpage(
+                this_feed_settings, website['function'], title, item_titles)
             output_rss(rss, this_feed_settings.output_file)
 
             render_site['podcasts'].append(
@@ -192,10 +188,10 @@ def main():
         render_sites.append(render_site)
 
     output = template.render(sites=render_sites)
-    # print(output)
 
     with open(index_file_path, 'w', encoding='utf-8') as file:
         file.write(output)
+
 
 if __name__ == "__main__":
     main()
