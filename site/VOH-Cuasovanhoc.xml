@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 26 Dec 2021 20:12:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 30 Dec 2021 05:39:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 26 Dec 2021 20:12:00 +0700</pubDate>
+    <pubDate>Thu, 30 Dec 2021 05:39:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Cửa sổ văn học trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Cuasovanhoc.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>La Thị Ánh Hường với “Cô đơn rực rỡ” - Cửa sổ văn học 29/12/2021</title>
+      <link>https://radio.voh.com.vn/cua-so-van-hoc/la-thi-anh-huong-voi-co-don-ruc-ro-cua-so-van-hoc-29-12-2021-422519.html</link>
+      <description><![CDATA[22:39 - 29/12/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/la-thi-anh-huong-voi-co-don-ruc-ro-cua-so-van-hoc-29-12-2021-422519.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/12/30/FMCuasovanhoc22h00p291221.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 30 Dec 2021 05:39:00 +0700</pubDate>
+    </item>
     <item>
       <title>Phát động cuộc thi viết về đề tài Thương binh Liệt sĩ - Cửa sổ văn học 26/12/2021</title>
       <link>https://radio.voh.com.vn/cua-so-van-hoc/phat-dong-cuoc-thi-viet-ve-de-tai-thuong-binh-liet-si-cua-so-van-hoc-26-12-2021-422187.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/dong-a-ra-mat-tu-sach-van-chuong-va-my-thuat-cua-so-van-hoc-19-12-2021-421510.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/12/18/FMCuasovanhoc07h00p191221.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 19 Dec 2021 23:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Nhà văn Lê Văn Nghĩa và nhà thơ Đoàn Vị Thượng được vinh danh - Cửa sổ văn học - 12/12/2021</title>
-      <link>https://radio.voh.com.vn/cua-so-van-hoc/nha-van-le-van-nghia-va-nha-tho-doan-vi-thuong-duoc-vinh-danh-cua-so-van-hoc-12-12-2021-420893.html</link>
-      <description><![CDATA[12:15 - 12/12/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/nha-van-le-van-nghia-va-nha-tho-doan-vi-thuong-duoc-vinh-danh-cua-so-van-hoc-12-12-2021-420893.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/12/11/FMCuasovanhoc07h00p121221.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 12 Dec 2021 19:15:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
