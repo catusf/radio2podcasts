@@ -4,184 +4,183 @@
       "home": "https://vovlive.vn/",
       "name": "VOV Live",
       "function": null,
-      "programs": {
-        "skvbl": {
+      "programs": [
+        {
           "url": "https://vovlive.vn/su-kien-va-ban-luan-p194.html",
           "title": "Sự kiện và bàn luận",
           "subtitle": "Sự kiện và bàn luận",
           "cover": "",
           "no": 5
-        },       
-        "cvdqt": {
+        },
+        {
           "url": "https://vovlive.vn/cac-van-de-quoc-te-p211.html",
           "title": "Các vấn đề quốc tế",
           "subtitle": "Các vấn đề quốc tế",
           "cover": "",
           "no": 5
         },
-        "tt7n": {
+        {
           "url": "https://vovlive.vn/the-thao-7-ngay-p160.html",
           "title": "Thể thao 7 ngày",
           "subtitle": "Thể thao 7 ngày",
           "cover": "",
           "no": 5
         },
-        "ancs": {
+        {
           "url": "https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html",
           "title": "Âm nhạc với cuộc sống",
           "subtitle": "Âm nhạc với cuộc sống",
           "cover": "",
           "no": 5
         },
-        "tcamt": {
+        {
           "url": "https://vovlive.vn/tap-chi-am-nhac-tre-p146.html",
           "title": "Tạp chí âm nhạc trẻ",
           "subtitle": "Tạp chí âm nhạc trẻ",
           "cover": "",
           "no": 5
         },
-        "gccm": {
+        {
           "url": "https://vovlive.vn/nhung-giong-ca-con-mai-p262.html",
           "title": "Những giọng ca còn mãi",
           "subtitle": "Những giọng ca còn mãi",
           "cover": "",
           "no": 5
         }
-      }
+      ]
     },
-    
     "VOH": {
       "home": "http://radio.voh.com.vn",
       "name": "VOH Đài tiếng nói nhân dân TPHCM",
       "function": null,
-      "programs": {
-        "sda": {
+      "programs": [
+        {
           "url": "https://radio.voh.com.vn/song-dien-anh-395.html",
           "title": "Sóng điện ảnh",
           "subtitle": "Sóng điện ảnh trên VOH",
           "cover": "",
           "no": 5
         },
-        "lsx": {
+        {
           "url": "https://radio.voh.com.vn/lan-song-xanh-386.html",
           "title": "Làn sóng xanh",
           "subtitle": "Làn sóng xanh trên VOH",
           "cover": "",
           "no": 5
         },
-        "top10": {
+        {
           "url": "https://radio.voh.com.vn/top-10-ca-khuc-quoc-te-402.html",
           "title": "Top 10 ca khúc quốc tế",
           "subtitle": "Top 10 ca khúc quốc tế thứ hai hàng tuần trên VOH",
           "cover": "",
           "no": 5
         },
-        "qtan": {
+        {
           "url": "https://radio.voh.com.vn/qua-tang-am-nhac-394.html",
           "title": "Quà tặng âm nhạc",
           "subtitle": "Quà tặng âm nhạc trên VOH",
           "cover": "",
           "no": 5
         },
-        "sgbs": {
+        {
           "url": "https://radio.voh.com.vn/sai-gon-buoi-sang-590.html",
           "title": "Sài gòn buổi sáng",
           "subtitle": "Thời sự buổi sáng hàng ngày trên VOH",
           "cover": "",
           "no": 2
         },
-        "sgbc": {
+        {
           "url": "https://radio.voh.com.vn/sai-gon-buoi-chieu-591.html",
           "title": "Sài gòn buổi chiều",
           "subtitle": "Thời sự buổi chiều hàng ngày trên VOH",
           "cover": "",
           "no": 2
         },
-        "am610": {
+        {
           "url": "https://radio.voh.com.vn/thoi-su-am-610-khz-599.html",
           "title": "Thời sự AM 610 Khz",
           "subtitle": "Thời sự AM 610 Khz hàng ngày trên VOH",
           "cover": "",
           "no": 3
         },
-        "csvh": {
+        {
           "url": "https://radio.voh.com.vn/cua-so-van-hoc-634.html",
           "title": "Cửa sổ văn học",
           "subtitle": "Cửa sổ văn học trên VOH",
           "cover": "",
           "no": 3
         }
-      }
+      ]
     },
     "VOV6": {
       "home": "http://vov6.vov.vn/",
       "name": "VOV6 Đài tiếng nói Việt Nam",
       "function": null,
-      "programs": {
-        "dhvn": {
+      "programs": [
+        {
           "url": "http://vov6.vov.vn/diem-hen-van-nghe-cmobile158.aspx",
           "title": "Điểm hẹn văn nghệ",
           "subtitle": "Điểm hẹn văn nghệ",
           "cover": "",
           "no": 3
         },
-        "dtdk": {
+        {
           "url": "http://vov6.vov.vn/doc-truyen-dem-khuya-cmobile11.aspx",
           "title": "Đọc tr. đêm khuya",
           "subtitle": "Đọc truyện đêm khuya",
           "cover": "",
           "no": 3
         },
-        "kchr": {
+        {
           "url": "http://vov6.vov.vn/ke-chuyen-va-hat-ru-cmobile43.aspx",
           "title": "Kể chuyện và hát ru cho bé",
           "subtitle": "Kể chuyện và hát ru cho bé",
           "cover": "",
           "no": 3
         },
-        "trkb": {
+        {
           "url": "http://vov6.vov.vn/tim-trong-kho-bau-cmobile54.aspx",
           "title": "Tìm trong kho báu",
           "subtitle": "Tìm trong kho báu",
           "cover": "",
           "no": 3
         },
-        "vntn": {
+        {
           "url": "http://vov6.vov.vn/van-nghe-thieu-nhi-cmobile44.aspx",
           "title": "Văn nghệ thiếu nhi",
           "subtitle": "Văn nghệ thiếu nhi",
           "cover": "",
           "no": 3
         }
-      }
+      ]
     },
     "RFI": {
       "home": "https://www.rfi.fr/vi/",
       "name": "RFI Tiếng Việt",
       "function": null,
-      "programs": {
-        "cc17'": {
+      "programs": [
+        {
           "url": "https://www.rfi.fr/vi/emission/info/13h00-13h17-gmt/",
           "title": "Chương trình 17'",
           "subtitle": "17'",
           "cover": "",
           "no": 5
         },
-        "cc60'": {
+        {
           "url": "https://www.rfi.fr/vi/emission/info/13h00-13h17-gmt/",
           "title": "Chương trình 60'",
           "subtitle": "60'",
           "cover": "",
           "no": 5
         },
-        "cc43'": {
+        {
           "url": "https://www.rfi.fr/vi/emission/info/13h00-13h17-gmt/",
           "title": "Chương trình 43'",
           "subtitle": "43'",
           "cover": "",
           "no": 5
         }
-      }
+      ]
     }
   }
 }

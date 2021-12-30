@@ -14,7 +14,7 @@ from jinja2 import Environment, FileSystemLoader
 from podcasts_utils import output_rss, rss_from_webpage, number_in_cirle, send_mail_on_error
 
 from create_cover_image import create_image
-from remove_marks import remove_marks
+from remove_marks import remove_marks, initials
 import get_voh_com_vn
 import get_vov1
 import get_vov2
@@ -128,12 +128,12 @@ def main():
         render_site = {'name': sitename,
                        'url': website['home'], 'podcasts': []}
 
-        for name in website['programs']:
-            program = website['programs'][name]
+        for program in website['programs']:
+            # program = website['programs'][name]
             # home = PODCASTS['broadcaster']['home']
             title = program['title']
+            # name = initials(title)
             no_items = program['no']
-
             subtitle = program['subtitle']
 
             time_regex = r'(\d+)$'
@@ -175,7 +175,7 @@ def main():
                 author={'name': PODCASTS_CONFIG['podcasts']['name'], 'email': PODCASTS_CONFIG['podcasts']['email']},
                 img_url=cover_url,
                 language='vi',
-                copyright=name,
+                copyright=PODCASTS_CONFIG['podcasts']['name'],
             )
 
             # if sitename in {'VOV2'}:
