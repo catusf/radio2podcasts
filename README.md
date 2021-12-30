@@ -39,6 +39,7 @@ Khi chương trình gặp lỗi, email sẽ được gửi từ hòm thư **Gmai
 ## Generate favicon from PNG
 Uses [favicon.io](https://favicon.io/favicon-converter/)
 
+## Lưu trữ mật khẩu
 Do vậy cần đặt các biến hệ thống trên máy phát triển và/hoặc trên GitHub [Secrets](https://github.com/catusf/radio2podcasts/settings/secrets). Mật khẩu Gmail dùng cho ứng dụng được tạo trên [Google Account](https://myaccount.google.com)  > Security > **App Passwords**.
 
 <br>

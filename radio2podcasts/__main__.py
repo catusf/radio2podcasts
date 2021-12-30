@@ -52,6 +52,15 @@ PROCESS_FUNCTIONS = {
     'https://archive.org/': get_archive_org.get_articles_from_html,
 }
 
+def cleanup_url(url):
+    """
+    Preprocess url for special cases.
+    """
+
+    newurl = re.sub(r"(archive.org/)(details)(/)", r'\1embed\3', url)
+    
+    return newurl
+
 def main():
     """
     Entry point of the module
@@ -131,7 +140,7 @@ def main():
 
                 title = number_in_cirle(episode) + " " + title
 
-            url = program['url']
+            url = cleanup_url(program['url'])
             bare_title = remove_marks(title)
             base_name = f"{sitename}-{bare_title}"
             filename = f"{base_name}{PODCASTS['podcasts']['podcast_ext']}"
