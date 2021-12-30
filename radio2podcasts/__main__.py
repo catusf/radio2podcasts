@@ -84,6 +84,9 @@ def main():
     with open(args.input, 'r', encoding='utf-8') as outfile:
         PODCASTS = json.load(outfile)
 
+    with open('config.json', 'r', encoding='utf-8') as outfile:
+        PODCASTS_CONFIG = json.load(outfile)
+
     for sitename in PODCASTS['websites']:
         if args.debug:
             if not sitename in debug_sites:
@@ -143,9 +146,9 @@ def main():
             url = cleanup_url(program['url'])
             bare_title = remove_marks(title)
             base_name = f"{sitename}-{bare_title}"
-            filename = f"{base_name}{PODCASTS['podcasts']['podcast_ext']}"
+            filename = f"{base_name}{PODCASTS_CONFIG['podcasts']['podcast_ext']}"
             output_file = PODCASTS_FOLDER + filename
-            host = PODCASTS['podcasts']['host']
+            host = PODCASTS_CONFIG['podcasts']['host']
             output_url = host + filename
             image_file = f"{base_name}.png"
             image_path = PODCASTS_FOLDER + image_file
@@ -169,7 +172,7 @@ def main():
                 output_url=output_url,
                 title=title,
                 subtitle=subtitle,
-                author={'name': PODCASTS['podcasts']['name'], 'email': PODCASTS['podcasts']['email']},
+                author={'name': PODCASTS_CONFIG['podcasts']['name'], 'email': PODCASTS_CONFIG['podcasts']['email']},
                 img_url=cover_url,
                 language='vi',
                 copyright=name,

@@ -1,5 +1,6 @@
 # Todo List
 [ ] Change .json file format so that no need to input abbreveation of podcasts. Use their titles instead
+[X] Add one config .json for common setting such as email and name, to remove duplication in all .json files
 [ ] Update VOV Sachnoi to include each episode desc
 [X] Add website's name to podcasts' name
 [X] [Obsolete] Scan a Google Sheet to create Archive.org podcast json
