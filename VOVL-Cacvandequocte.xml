@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 29 Dec 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 30 Dec 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 29 Dec 2021 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 30 Dec 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Quyết định chiến lược “đi xa hơn” của Australia tại khu vực Ấn Độ Dương – Thái Bình Dương</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Năm 2021, khu vực Ấn Độ Dương – Thái Bình Dương tiếp tục là tâm điểm của các hoạt động ngoại giao quốc tế, trở thành khu vực có vai trò chiến lược đối với của các nước lớn và các nước tầm trung, kéo theo những cơ cấu an ninh mới ra đời và các mối liên kết cũ được củng cố. Trong đó, có thể kể đến vai trò của Australia khi quốc gia này có một bước đi dài trong kế hoạch gia tăng sự ảnh hưởng và trở thành một trong những quốc gia dẫn dắt khu vực khi tham gia AUKUS, một cơ chế an ninh được thành lập vào tháng 9 năm nay. AUKUS không chỉ tạo nền tảng để Australia nâng cao năng lực quốc phòng và thúc đẩy việc nghiên cứu, áp dụng các công nghệ tiên tiến mà còn là mở ra cơ hội để Australia định hình vị thế trong khu vực trong nhiều năm tới.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2021/12/30/vovlive_vandequocte_quyetdinhchienluocdixhoncuaaustralia.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 30 Dec 2021 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Đạo luật chi tiêu quốc phòng Mỹ và thông điệp gửi Nga - Trung Quốc</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2021/12/27/vovlive_vandequocte_nhatbanchodonnam2022.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 27 Dec 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Tình hình dịch bệnh Covid-19 tại Mỹ, đầu tàu kinh tế của thế giới</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Tổng thống Mỹ Joe Biden vừa có bài phát biểu trấn an người dân về năng lực ứng phó của Chính phủ trước biến thể Omicron. Cũng giống như các quốc gia khác, biến thể này đang lây lan nhanh tại Mỹ, chiếm đa số ca mắc Covid-19 mới, làm dấy lên nỗi lo ngại về việc nước Mỹ có thể một lần nữa trở thành tâm dịch lớn nhất của thế giới, điều đã từng xảy ra năm ngoái. Không chỉ người dân Mỹ mà các nước khác trên thế giới cũng theo dõi rất sát sao tình hình dịch bệnh của quốc gia này. Bởi với vị thế là nền kinh tế số 1 thế giới, mọi biến động tại nước Mỹ sẽ tác động nhanh chóng tới kinh tế toàn cầu.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/12/23/vovlive_vandequocte_tinhhinhdichbencovid19taimy.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 23 Dec 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

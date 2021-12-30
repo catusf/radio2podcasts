@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 30 Dec 2021 13:29:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 30 Dec 2021 19:33:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 30 Dec 2021 13:29:00 +0700</pubDate>
+    <pubDate>Thu, 30 Dec 2021 19:33:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Phát huy vai trò của sinh viên ngành y trong phòng chống dịch - Thời sự 11g00 30/12/2021</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/phat-huy-vai-tro-cua-sinh-vien-nganh-y-trong-phong-chong-dich-thoi-su-11g00-30-12-2021-422527.html</link>
+      <description><![CDATA[12:33 - 30/12/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/phat-huy-vai-tro-cua-sinh-vien-nganh-y-trong-phong-chong-dich-thoi-su-11g00-30-12-2021-422527.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/12/30/AMThoisu11h00p301221.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 30 Dec 2021 19:33:00 +0700</pubDate>
+    </item>
     <item>
       <title>TPHCM từng bước phục hồi kinh tế - Thời sự 5g30 30/12/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-tung-buoc-phuc-hoi-kinh-te-thoi-su-5g30-30-12-2021-422499.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/thoi-su-17g00-29-12-2021-422496.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/12/29/amthoisu17h00p181121-20211118164158.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 30 Dec 2021 05:52:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Hình thành và thúc đẩy khu kinh tế cộng hưởng để TPHCM phát triển bền vững –Thời sự 11g00 29/12/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/hinh-thanh-va-thuc-day-khu-kinh-te-cong-huong-de-tphcm-phat-trien-ben-vung-thoi-su-11g00-29-12-2021-422427.html</link>
-      <description><![CDATA[11:05 - 29/12/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/hinh-thanh-va-thuc-day-khu-kinh-te-cong-huong-de-tphcm-phat-trien-ben-vung-thoi-su-11g00-29-12-2021-422427.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/12/29/amthoisu11h00p291221-20211229102913-Copy.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 29 Dec 2021 18:05:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
