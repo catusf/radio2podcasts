@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 30 Dec 2021 16:42:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 31 Dec 2021 13:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 30 Dec 2021 16:42:00 +0700</pubDate>
+    <pubDate>Fri, 31 Dec 2021 13:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Sài Gòn buổi sáng - 31/12/2021</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-31-12-2021-422642.html</link>
+      <description><![CDATA[06:00 - 31/12/2021]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-31-12-2021-422642.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/12/31/sgbs-311221.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 31 Dec 2021 13:00:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Sôi động thị trường thương mại điện tử mùa cuối năm - Sài Gòn buổi sáng 30/12/2021</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/soi-dong-thi-truong-thuong-mai-dien-tu-mua-cuoi-nam-sai-gon-buoi-sang-30-12-2021-422514.html</link>
       <description><![CDATA[09:42 - 30/12/2021]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/soi-dong-thi-truong-thuong-mai-dien-tu-mua-cuoi-nam-sai-gon-buoi-sang-30-12-2021-422514.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/12/30/fmsgbs06h00p301221-20211230063013.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 30 Dec 2021 16:42:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>DN nỗ lực đảm bảo cung ứng hàng tết trong bối cảnh còn nhiều khó khăn – Sài Gòn buổi sáng 29/12/2021</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/dn-no-luc-dam-bao-cung-ung-hang-tet-trong-boi-canh-con-nhieu-kho-khan-sai-gon-buoi-sang-29-12-2021-422412.html</link>
-      <description><![CDATA[07:36 - 29/12/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/dn-no-luc-dam-bao-cung-ung-hang-tet-trong-boi-canh-con-nhieu-kho-khan-sai-gon-buoi-sang-29-12-2021-422412.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/12/29/fmsgbs06h00p291221-20211229064759-Copy.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 29 Dec 2021 14:36:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
