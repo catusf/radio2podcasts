@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 30 Dec 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 31 Dec 2021 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 30 Dec 2021 19:00:00 +0700</pubDate>
+    <pubDate>Fri, 31 Dec 2021 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Điểm hẹn văn nghệ</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Diemhenvannghe.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Báo Văn nghệ số 1+2 ra ngày 1/1/2022 30/12/2021</title>
+      <title>Văn học Việt-Một năm nhìn lại 31/12/2021</title>
+      <link>http://vov6.vov.vn/diem-hen-van-nghe/van-hoc-viet-mot-nam-nhin-lai-c158-34151.aspx</link>
+      <description><![CDATA[Vậy là năm 2021 đã qua, một năm đầy biến động trên mọi phương diện do tình hình dịch bệnh phức tạp và văn học Việt cũng nằm trong vòng quay đầy biến động đó. Với mong muốn mang đến những người yêu văn chương có thêm những góc nhìn văn học, Ban Văn học nghệ thuật (VOV6) phối hợp cùng Khoa Văn học-Trường Đại học KHXH và NV-Đại học Quốc gia Hà Nội tổ chức tọa đàm "Văn học Việt-Một năm nhìn lại" qua hình thức tọa đàm trực tiếp và tọa đàm online]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/van-hoc-viet-mot-nam-nhin-lai-c158-34151.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_12/v2_0101_07h4518h15_van_nghe_3112202111.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 31 Dec 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Báo Văn nghệ số 1+2 ra ngày 1/1/2022  30/12/2021</title>
       <link>http://vov6.vov.vn/diem-hen-van-nghe/bao-van-nghe-so-12-ra-ngay-112022-c158-34150.aspx</link>
       <description><![CDATA[Aqua, Trần Băng Khuê, Điền hương, Tống Ngọc Hân, Người dơi, Quyên Gavoye, Khí lạ, Phạm Duy Nghĩa]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/bao-van-nghe-so-12-ra-ngay-112022-c158-34150.aspx</guid>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/van-hoc-nghe-thuat-thoi-covid-sang-tao-de-thich-nghi-c158-34149.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_12/v2_3112_18h30_van_nghe_3012202115.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 30 Dec 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>"Đội trinh sát và con chó Sara": Góc nhìn dung dị về người lính  24/12/2021</title>
-      <link>http://vov6.vov.vn/diem-hen-van-nghe/doi-trinh-sat-va-con-cho-sara-goc-nhin-dung-di-ve-nguoi-linh-c158-34134.aspx</link>
-      <description><![CDATA[Tác giả Trung Sỹ tên thật là Xuân Tùng, sinh năm 1960 tại Hà Nội. 18 tuổi, ông nhập ngũ, tham gia chiến tranh bảo vệ biên giới Tây Nam từ năm 1978 đến năm 1983. Khoảng thời gian chiến đấu tại đây đã trở thành những kí ức không phai, được ông tái hiện trong “Chuyện lính Tây Nam” và sau đó là “Đội trinh sát và con chó Sara”. Sách do Công ty Cổ phần Văn hóa Truyền thông Sống và NXB Lao động ấn hành. Đây cũng là một trong những tác phẩm nhận Giải C Giải Sách Quốc gia lần thứ 4. Chọn một chú chó làm nhân vật chính, tác giả Trung Sỹ đã khiến nhiều người đọc thêm phần tò mò về “Đội trinh sát và con chó Sara”. Ông gửi gắm điều gì qua nhân vật này? Tác giả bật mí ngay sau đây qua cuộc trò chuyện với phóng viên chương trình.]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/doi-trinh-sat-va-con-cho-sara-goc-nhin-dung-di-ve-nguoi-linh-c158-34134.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_12/gts_doi_trinh_sat_va_con_cho_sara_2412202117.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 24 Dec 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
