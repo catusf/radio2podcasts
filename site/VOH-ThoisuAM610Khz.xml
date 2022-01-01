@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jan 2022 12:30:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 01 Jan 2022 00:00:00 +0700</pubDate>
+    <pubDate>Sat, 01 Jan 2022 12:30:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Năm mới kỳ vọng đất nước và thành phố tiếp tục tăng tốc phát triển - Thời sự 05g30 1/1/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/nam-moi-ky-vong-dat-nuoc-va-thanh-pho-tiep-tuc-tang-toc-phat-trien-thoi-su-05g30-1-1-2022-422719.html</link>
+      <description><![CDATA[05:30 - 01/01/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/nam-moi-ky-vong-dat-nuoc-va-thanh-pho-tiep-tuc-tang-toc-phat-trien-thoi-su-05g30-1-1-2022-422719.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/01/01/ts0530-010122.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 01 Jan 2022 12:30:00 +0700</pubDate>
+    </item>
     <item>
       <title>Phải đẩy mạnh xã hội hóa đầu tư cho giao thông - Thời sự 17g00 31/12/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/phai-day-manh-xa-hoi-hoa-dau-tu-cho-giao-thong-thoi-su-17g00-31-12-2021-422691.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/nam-moi-2022-dai-dich-tiep-tuc-thu-thach-cac-quoc-gia-thoi-su-05g30-31-12-2021-422641.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/12/31/ts05g30-311221-sua.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 31 Dec 2021 12:30:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Trao giải Hội thi AI-Challenge 2021 - Thời sự 11g00 31/12/2021</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/trao-giai-hoi-thi-ai-challenge-2021-thoi-su-11g00-31-12-2021-422639.html</link>
-      <description><![CDATA[11:00 - 31/12/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/trao-giai-hoi-thi-ai-challenge-2021-thoi-su-11g00-31-12-2021-422639.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/12/31/ts11-311221.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 31 Dec 2021 18:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
