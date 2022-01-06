@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 05 Jan 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jan 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 05 Jan 2022 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 06 Jan 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Vì sao Nhật Bản thành công trong việc nâng tầm giá trị nông sản?</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Giống như nhiều nước châu Á có nền nông nghiệp lúa nước, nền nông nghiệp Nhật Bản vào những năm đầu thế kỷ 20 có công nghệ canh tác còn tương đối lạc hậu, nhiều giống cây trồng được mang về từ nước ngoài. Điều đáng nói là những giống cây trồng này qua thời gian đã được Nhật Bản áp dụng công nghệ mới, dần trở thành những sản phẩm có chất lượng cao, không những đáp ứng thị trường trong nước mà còn được thị trường nước ngoài ở những phân khúc cao cấp chấp nhận và ưa chuộng. Vậy điều gì đã làm nên thành công, tạo thương hiệu đột phá cho nông sản Nhật Bản?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/01/06/vovlive_sukienvabanluan_vi_sao_nhat_ban_thanh_cong_trong_viec_ang_tam_gia_tri_nong_san.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 06 Jan 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Vì sao huyện miền núi Tiên Yên và Đầm Hà  - Quảng Ninh có thể cán đích sớm Nông thôn mới?</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/01/04/vovlive_sukienvabanluan_tin_hieu_vui_cho_nganh_du_lich_lao_dau_nam_moi.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 04 Jan 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Lãnh thổ rộng lớn - nước Nga "cần thêm người"</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Trong cuộc họp báo thường niên mới đây, bên cạnh các vấn đề lớn và gai góc như vị thế của Nga trên trường quốc tế, quan hệ với phương Tây, ứng phó với dịch bệnh Covid-19. Một vấn đề được Tổng thống Nga Vladimir Putin đặc biệt quan tâm, là sự suy giảm dân số nghiêm trọng của nước Nga. “146 triệu người sinh sống trên một lãnh thổ rộng lớn như vậy, là hoàn toàn không đủ, xét cả về góc độ nhân đạo lẫn địa chính trị. 'Chúng ta cần thêm người' .Tổng thống Vladimir Putin đã khẳng định về nhu cầu tăng trưởng dân số của nước Nga, vậy tình trạng suy giảm dân số đang “gây khó” cho nước Nga như thế nào?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/12/31/vovlive_sukienvabinhluan_lanh_tho_rong_lon_nuoc_nga_can_them_nguoi.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 31 Dec 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
