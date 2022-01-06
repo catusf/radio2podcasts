@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 06 Jan 2022 00:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jan 2022 14:10:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 06 Jan 2022 00:00:00 +0700</pubDate>
+    <pubDate>Thu, 06 Jan 2022 14:10:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Vắc xin Tinh thần: trách nhiệm đại học hướng về cộng đồng – Thời sự 5g30 6/1/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/vac-xin-tinh-than-trach-nhiem-dai-hoc-huong-ve-cong-dong-thoi-su-5g30-6-1-2022-423154.html</link>
+      <description><![CDATA[07:10 - 06/01/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/vac-xin-tinh-than-trach-nhiem-dai-hoc-huong-ve-cong-dong-thoi-su-5g30-6-1-2022-423154.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/01/06/amthoisu05h30p060122-20220105233202-Copy.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 06 Jan 2022 14:10:00 +0700</pubDate>
+    </item>
     <item>
       <title>TPHCM chi trên 12.000 tỷ đồng chăm lo an sinh xã hội - Thời sự 17g00 05/01/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-chi-tren-12-000-ty-dong-cham-lo-an-sinh-xa-hoi-thoi-su-17g00-05-01-2022-423132.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/toa-dam-nhin-lai-2021-nhung-chuyen-huong-chien-luoc-thoi-su-17g00-4-1-2022-423030.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/01/04/AMThoisu17h00p040122.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 05 Jan 2022 00:07:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Nhà thuốc tư nhân đồng hành cùng ngành y tế tư vấn, chăm sóc F0 tại nhà – Thời sự 11g00 4/1/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/nha-thuoc-tu-nhan-dong-hanh-cung-nganh-y-te-tu-van-cham-soc-f0-tai-nha-thoi-su-11g00-4-1-2022-423006.html</link>
-      <description><![CDATA[11:54 - 04/01/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/nha-thuoc-tu-nhan-dong-hanh-cung-nganh-y-te-tu-van-cham-soc-f0-tai-nha-thoi-su-11g00-4-1-2022-423006.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/01/04/AMThoisu11h00p040122.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 04 Jan 2022 18:54:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
