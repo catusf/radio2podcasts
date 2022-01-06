@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 31 Dec 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jan 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 31 Dec 2021 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 06 Jan 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Điểm hẹn văn nghệ</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Diemhenvannghe.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Văn học Việt-Một năm nhìn lại 31/12/2021</title>
+      <title>Chiếc thang cao màu xanh – Hành trình trưởng thành đầy mất mát 6/1/2022</title>
+      <link>http://vov6.vov.vn/diem-hen-van-nghe/chiec-thang-cao-mau-xanh-hanh-trinh-truong-thanh-day-mat-mat-c158-34164.aspx</link>
+      <description><![CDATA[Không quá nổi bật như điện ảnh hay âm nhạc nhưng giai đoạn gần đây, văn học Hàn Quốc cũng nhận được nhiều sự chú ý. Các tác phẩm văn học Hàn cũng dần được giới thiệu rộng rãi ở nước ta. Trong đó, có thể nhắc tới một trong những nhà văn thuộc hàng best seller của Hàn Quốc Gong Ji-Young (Cung Chi Oong) với hàng loạt các tác phẩm như “Ngôi nhà vui vẻ”, “Dù con sống thế nào mẹ cũng luôn ủng hộ”, “Cá thu”, “Công thức nấu ăn tặng con gái”… và nổi bật nhất là “Chiếc thang cao màu xanh” do NXB Phụ nữ ấn hành. Chúng ta cùng tìm hiểu tác phẩm này qua bài “Chiếc thang cao màu xanh – Hành trình trưởng thành đầy mất mát” của BTV Nguyễn Hà]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/chiec-thang-cao-mau-xanh-hanh-trinh-truong-thanh-day-mat-mat-c158-34164.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2022_1/gts_chiec_thang_cao_mau_xanh_61202215.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 06 Jan 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Văn học Việt-Một năm nhìn lại  31/12/2021</title>
       <link>http://vov6.vov.vn/diem-hen-van-nghe/van-hoc-viet-mot-nam-nhin-lai-c158-34151.aspx</link>
       <description><![CDATA[Vậy là năm 2021 đã qua, một năm đầy biến động trên mọi phương diện do tình hình dịch bệnh phức tạp và văn học Việt cũng nằm trong vòng quay đầy biến động đó. Với mong muốn mang đến những người yêu văn chương có thêm những góc nhìn văn học, Ban Văn học nghệ thuật (VOV6) phối hợp cùng Khoa Văn học-Trường Đại học KHXH và NV-Đại học Quốc gia Hà Nội tổ chức tọa đàm "Văn học Việt-Một năm nhìn lại" qua hình thức tọa đàm trực tiếp và tọa đàm online]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/van-hoc-viet-mot-nam-nhin-lai-c158-34151.aspx</guid>
@@ -37,14 +45,6 @@
       <description><![CDATA[Aqua, Trần Băng Khuê, Điền hương, Tống Ngọc Hân, Người dơi, Quyên Gavoye, Khí lạ, Phạm Duy Nghĩa]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/bao-van-nghe-so-12-ra-ngay-112022-c158-34150.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/diem_bao_van_nghe_1-1_3112202111.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 30 Dec 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Văn học nghệ thuật thời Covid: Sáng tạo để thích nghi   30/12/2021</title>
-      <link>http://vov6.vov.vn/diem-hen-van-nghe/van-hoc-nghe-thuat-thoi-covid-sang-tao-de-thich-nghi-c158-34149.aspx</link>
-      <description><![CDATA[Như chúng ta đều biết, khoảng thời gian hai năm qua, hoạt động văn học nghệ thuật nói riêng và đời sống nói chung đều chịu ảnh hưởng nghiêm trọng của dịch bệnh Covid 19. Tuy nhiên, trên nền bối cảnh đó, dòng chảy văn học nghệ thuật vẫn không ngừng nghỉ. Cùng Ban Văn học nghệ thuật (VOV6) bình chọn các sự kiện văn học nghệ thuật nổi bật trong năm vừa qua]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/van-hoc-nghe-thuat-thoi-covid-sang-tao-de-thich-nghi-c158-34149.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_12/v2_3112_18h30_van_nghe_3012202115.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 30 Dec 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
