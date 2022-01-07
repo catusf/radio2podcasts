@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 06 Jan 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 07 Jan 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 06 Jan 2022 19:00:00 +0700</pubDate>
+    <pubDate>Fri, 07 Jan 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Bất ổn ở Kazakhstan tác động tới tình hình khu vực</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Kazakhstan đối mặt với nhiều thách thức sau khi cuộc biểu tình phản đối tăng giá nhiên liệu ở nước này từ cuối tuần qua đã biến thành bạo động, kéo theo hàng loạt diễn biến nóng trong nước và quốc tế. An ninh bất ổn đã buộc Tổng thống Kazakhstan Tokayev ban bố tình trạng khẩn cấp trên toàn quốc. Ông cũng đã chấp thuận để Chính phủ nước này từ chức, song Chính phủ sẽ tiếp tục thực hiện nhiệm vụ của mình cho tới khi Nội các mới được thành lập. Trước những thách thức chính trị đặt ra, Hội đồng tối cao Tổ chức Hiệp ước An ninh Tập thể đã quyết định cử các lực lượng gìn giữ hòa bình tới khu vực này.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/01/07/vovlive_vandequocte_batonocadactan(1).mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 07 Jan 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Triều Tiên phóng tên lửa gửi thông điệp đầu năm mới</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/01/05/vovlive_vandequocte_dubao2022motnamdaybiendongtrongquanhemytrung.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 04 Jan 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Pháp đảm nhận cương vị Chủ tịch luân phiên EU với tầm nhìn "Phục hồi, mạnh mẽ và tương hỗ"</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Pháp vừa chính thức đảm nhận cương vị Chủ tịch luân phiên Hội đồng Liên minh Châu Âu (EU) nửa đầu năm 2022. Đây là lần thứ 13 Pháp giữ vai trò này kể từ khi EU được thành lập. Theo dự tính, trong nhiệm kỳ 6 tháng đầu năm, gần 400 sự kiện đã được lên kế hoạch và sẽ tổ chức tại Pháp, Bỉ cũng như trong các quốc gia thành viên trước khi Pháp chuyển giao vai trò chủ tịch cho Thụy Điển vào nửa cuối năm nay. Với phương châm "Phục hồi, mạnh mẽ, tương hỗ", Tổng thống Pháp Emmanuel Macron đã công bố những ưu tiên trong nhiệm kỳ chủ tịch luân phiên này bao gồm chủ quyền, tăng trưởng, sinh thái, chuyển đổi kỹ thuật số, nhà nước pháp quyền. Vậy, nước Pháp sẽ đối mặt với những thách thức nào và đâu là mục tiêu quan trọng nước này đưa ra nhằm giải quyết những khó khăn thách thức?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/01/05/vovlive_vandequocte_phapdamnhancuongvichutichluanphieneu.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 03 Jan 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
