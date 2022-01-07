@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 06 Jan 2022 19:13:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 07 Jan 2022 02:30:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 06 Jan 2022 19:13:00 +0700</pubDate>
+    <pubDate>Fri, 07 Jan 2022 02:30:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Chủ quyền quốc gia trên không gian mạng - Thời sự 17g00 6/1/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/chu-quyen-quoc-gia-tren-khong-gian-mang-thoi-su-17g00-6-1-2022-423201.html</link>
+      <description><![CDATA[19:30 - 06/01/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/chu-quyen-quoc-gia-tren-khong-gian-mang-thoi-su-17g00-6-1-2022-423201.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/01/06/amthoisu17h00p060122-20220106164101-Copy.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 07 Jan 2022 02:30:00 +0700</pubDate>
+    </item>
     <item>
       <title>Sẵn sàng kết nối hỗ trợ các bạn trẻ đam mê nghiên cứu – Thời sự 11g00 6/1/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/san-sang-ket-noi-ho-tro-cac-ban-tre-dam-me-nghien-cuu-thoi-su-11g00-6-1-2022-423176.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/vac-xin-tinh-than-trach-nhiem-dai-hoc-huong-ve-cong-dong-thoi-su-5g30-6-1-2022-423154.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/01/06/amthoisu05h30p060122-20220105233202-Copy.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 06 Jan 2022 14:10:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>TPHCM chi trên 12.000 tỷ đồng chăm lo an sinh xã hội - Thời sự 17g00 05/01/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-chi-tren-12-000-ty-dong-cham-lo-an-sinh-xa-hoi-thoi-su-17g00-05-01-2022-423132.html</link>
-      <description><![CDATA[17:00 - 05/01/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-chi-tren-12-000-ty-dong-cham-lo-an-sinh-xa-hoi-thoi-su-17g00-05-01-2022-423132.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/01/05/AMThoisu17h00p050122.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 06 Jan 2022 00:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
