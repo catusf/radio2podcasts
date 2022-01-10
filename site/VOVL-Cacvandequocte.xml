@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 07 Jan 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jan 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 07 Jan 2022 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 10 Jan 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Cuộc chiến “cân não” giữa Nga và phương Tây khi tiến hành hội đàm an ninh</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Theo dự kiến, cuộc đàm phán về an ninh giữa các quan chức Nga - Mỹ diễn ra tại Giơnevơ (Thụy Sĩ) vào ngày 10/1 và sau hai ngày  cuộc họp Hội đồng Nga - Tổ chức Hiệp ước Bắc Đại Tây Dương (NATO) sẽ diễn ra tại Brussels (Bỉ). Trước thềm hội đàm, Nga và các nước phương Tây đều bày tỏ ưu tiên cho giải pháp ngoại giao, hy vọng giải quyết khác biệt thông qua đối thoại thẳng thắn và cởi mở. Song trên thực tế, các bên đều đang tính toán kỹ để giành lợi thế trong cuộc “mặc cả” sắp diễn ra, cũng như trên thực địa tại những điểm nóng ở Đông Âu và Trung Á.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/01/10/vovlive_vandequocte_cuochiencannaogiuangavaphuongtaykhitienhanhhoidamanninh(1).mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 10 Jan 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Bất ổn ở Kazakhstan tác động tới tình hình khu vực</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/01/05/vovlive_vandequocte_thitruongdauchodoicuochopcuaopec.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 05 Jan 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Dự báo 2022 - một năm đầy biến động trong quan hệ Mỹ - Trung</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Cách đây 50 năm, vào đầu năm 1972, Tổng thống Mỹ Richard Nixon là nguyên thủ đầu tiên của Mỹ tới thăm Trung Quốc, đưa quan hệ Mỹ - Trung bước sang trang mới, mở đường tái lập quan hệ ngoại giao song phương. Nhưng sau 50 năm, mối quan hệ này ngày càng trở nên căng thẳng và năm 2022 được dự báo sẽ là một năm đầy biến động trong quan hệ Mỹ - Trung. Nếu như trong năm 2021, mối quan hệ giữa Mỹ và Trung Quốc leo thang đối đầu từ vấn đề thương mại, quốc phòng, ngoại giao thì xu hướng này được nhiều nhà quan sát dự đoán sẽ tiếp tục trong năm nay. Trong đó, tại Mỹ, dù các thành viên Đảng Cộng hòa và Dân chủ đang chuẩn bị cho cuộc bầu cử giữa nhiệm kỳ có ý nghĩa quan trọng và vốn chia rẽ sâu sắc nhưng đều nhất trí với nhau ở duy nhất 1 điểm là không mềm mỏng với Trung Quốc. Cụ thể, mối quan hệ này sẽ duy trì ở mức nào, đối đầu và hợp tác liệu có diễn ra song phương?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/01/05/vovlive_vandequocte_dubao2022motnamdaybiendongtrongquanhemytrung.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 04 Jan 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
