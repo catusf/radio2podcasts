@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 10 Jan 2022 13:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jan 2022 13:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 10 Jan 2022 13:00:00 +0700</pubDate>
+    <pubDate>Tue, 11 Jan 2022 13:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Sài Gòn buổi sáng - 11/1/2022</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-11-1-2022-423551.html</link>
+      <description><![CDATA[06:00 - 11/01/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-11-1-2022-423551.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/01/11/sgbs-110122.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 11 Jan 2022 13:00:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Sài Gòn buổi sáng - 10/1/2022</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-10-1-2022-423438.html</link>
       <description><![CDATA[06:00 - 10/01/2022]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-10-1-2022-423438.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/01/10/sgbs-100122.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 10 Jan 2022 13:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Sài Gòn buổi sáng - 9/1/2022</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-9-1-2022-423389.html</link>
-      <description><![CDATA[06:00 - 09/01/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-9-1-2022-423389.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/01/09/sgbs-090122.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 09 Jan 2022 13:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
