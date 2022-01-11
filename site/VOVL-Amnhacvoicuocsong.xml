@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 28 Dec 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 02 Jan 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 28 Dec 2021 19:00:00 +0700</pubDate>
+    <pubDate>Sun, 02 Jan 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Âm nhạc với cuộc sống</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Amnhacvoicuocsong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Trải nghiệm những cung bậc cảm xúc cùng “Hùng vĩ trái tim Việt Nam”(Nhạc sĩ Nguyễn Thắng)- Ca khúc đoạt giải nhì cuộc Vận động sáng tác ca khúc Hát lên Việt Nam-Let’s Sing Vietnam do Đài TNVN tổ chức</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[Nhạc sĩ Nguyễn Thắng, thành viên nhóm nhạc M6 hiện đang công tác tại Nhà hát Đài TNVN - Anh tốt nghiệp chuyên nghành biểu diễn sáo trúc Nhạc viện Hà Nội (nay là Học viện Âm nhạc Quốc gia Việt Nam). Ngoài biểu diễn, Nguyễn Thắng còn có đam mê sáng tác ca khúc. Cùng nghe những chia sẻ về một năm thành công của nhạc sĩ và thưởng thức các tác phẩm âm nhạc của anh: “Hùng vĩ trái tim Việt Nam”; “Nhắc nhớ ta ở yên”; “Chúc mừng năm mới” …]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/01/10/vovlive_am_nhac_voi_cuoc_song_nhac_si_nguyen_thang.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 02 Jan 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>“Bản hùng ca một thời kiêu hãnh”: Lời tri ân của những người con Hà Nội với các thế hệ cha anh đã chiến đấu bảo vệ Thủ đô, một tác phẩm âm nhạc của Nhà báo, Nhạc sĩ Trần Nhật Dương và Nhà báo Trần Nhật Minh</title>
       <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
@@ -47,15 +55,6 @@
       <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2021/11/30/vovlive_am_nhac_voi_cuoc_song_nguyen_tien.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 30 Nov 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>“Tiếng chuông ngân trong gió”: Lời tạm biệt những người đã khuất vì đại dịch Covid-19</title>
-      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[- Để tưởng niệm đồng bào, cán bộ, chiến sĩ đã hy sinh, tử vong vì đại dịch COVID-19, nhạc sĩ Nguyễn Bá Hùng đã sáng tác ca khúc “Tiếng chuông vang trong gió” như lời tạm biệt dành cho những người đã khuất. Ca khúc với giai điệu đầy xúc cảm cùng lời hát tự sự  gửi gắm thông điệp của tác giả “hãy nhớ về những người đã khuất thông qua những hành động tích cực, ý nghĩa như hãy làm tốt hơn các công việc của mình, hãy cùng nhau gánh vác trách nhiệm mà những người đã khuất còn dang dở”… 
-- Thưởng thức ca khúc “Ranh giới’ và cùng nghe những cảm xúc sáng tác của tác giả, nhạc sĩ trẻ Tuấn Nguyễn.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/11/25/vovlive_am_nhac_voi_cuoc_song_tieng_chuong_ngan_trong_gio_nguyen_ba_hung.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 23 Nov 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
