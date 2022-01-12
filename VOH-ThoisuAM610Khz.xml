@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 12 Jan 2022 21:42:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jan 2022 03:03:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 12 Jan 2022 21:42:00 +0700</pubDate>
+    <pubDate>Thu, 13 Jan 2022 03:03:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ngành Nội vụ góp phần xây dựng Chính phủ đổi mới, liêm chính, kỷ cương – Thời sự 17g00 12/1/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/nganh-noi-vu-gop-phan-xay-dung-chinh-phu-doi-moi-liem-chinh-ky-cuong-thoi-su-17g00-12-1-2022-423703.html</link>
+      <description><![CDATA[20:03 - 12/01/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/nganh-noi-vu-gop-phan-xay-dung-chinh-phu-doi-moi-liem-chinh-ky-cuong-thoi-su-17g00-12-1-2022-423703.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/01/12/AMThoisu17h00p120122.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 13 Jan 2022 03:03:00 +0700</pubDate>
+    </item>
     <item>
       <title>TPHCM cần tập trung cải thiện Chỉ số năng lực cạnh tranh cấp tỉnh PCI – Thời sự 11g00 12/1/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-can-tap-trung-cai-thien-chi-so-nang-luc-canh-tranh-cap-tinh-pci-thoi-su-11g00-12-1-2022-423666.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/quoc-hoi-khoa-15-hop-phien-be-mac-ky-hop-bat-thuong-lan-thu-nhat-thoi-su-5g30-12-1-2022-423620.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/01/12/AMThoisu05h30p120122.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 12 Jan 2022 14:43:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>TPHCM kiểm soát tốt dịch trong môi trường học đường - Thời sự 17g00 11/1/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-kiem-soat-tot-dich-trong-moi-truong-hoc-duong-thoi-su-17g00-11-1-2022-423599.html</link>
-      <description><![CDATA[17:00 - 11/01/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-kiem-soat-tot-dich-trong-moi-truong-hoc-duong-thoi-su-17g00-11-1-2022-423599.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/01/11/ts17-110122.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 12 Jan 2022 00:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
