@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 10 Jan 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jan 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 10 Jan 2022 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 11 Jan 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Tiếp theo Mỹ, NATO tính toán quan hệ với Nga</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Ngày 10/1, cuộc đàm phán về an ninh giữa các quan chức Mỹ và Nga đã diễn ra tại Giơnevơ (Thụy Sỹ). Ngay sau cuộc đàm phán này thì Hội nghị Hội đồng Nga - Tổ chức Hiệp ước Bắc Đại Tây dương (NATO) cũng sẽ diễn ra tại Brussels (Bỉ). Châu Âu đang rất lo ngại Mỹ, NATO và Nga có thể đạt những thỏa thuận mà không tính tới lợi ích an ninh của Châu Âu, nhất là liên quan đến cuộc khủng hoảng ở miền đông Ukraina. Có thể thấy, tuần này diễn ra nhiều sự kiện dồn dập xoay quanh mối quan hệ Nga – phương Tây như cuộc đàm phán Nga – Mỹ, Nga – NATO, tiếp sau đó là cuộc họp của Tổ chức Hợp tác An ninh châu Âu (OSCE). Nhưng liệu các sự kiện này có mang lại kết quả thực chất nào hay không, nhất là khi các bên đều có rất nhiều tính toán chiến lược khác nhau.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/01/11/vovlive_vandequocte_tieptheomynatotinhtoanquanhevoinga.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 11 Jan 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Cuộc chiến “cân não” giữa Nga và phương Tây khi tiến hành hội đàm an ninh</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/01/06/vovlive_vandequocte_trieutienphongtenluaguitoithongdiepdaunammoi.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 06 Jan 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Thị trường dầu chờ đợi cuộc họp của OPEC +</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Tổ chức các nước xuất khẩu dầu mỏ và các đồng minh (gọi tắt là OPEC +) đã nhóm họp tại thủ đô Viên (Áo) để quyết định có tăng sản lượng khai thác hay không. Cuộc họp được dư luận đặc biệt quan tâm trong bối cảnh giá năng lượng vẫn là nỗi lo của nhiều quốc gia, nhất là các quốc gia Châu Âu trong những tháng mùa đông. Trước đó, dự báo dư cung trên thị trường dầu trong quý 1 năm nay của OPEC+ chỉ ở mức 1,4 triệu thùng/ngày, thấp hơn khoảng 25% so với dự báo hồi đầu tháng 12 năm ngoái là 1,7 triệu thùng/ngày, đẩy giá dầu leo dốc trong những ngày cuối năm 2021. Vì vậy, thị trường thế giới chờ đợi cuộc họp của OPEC+ có thể đưa ra chính sách tăng sản lượng khai thác để bình ổn giá dầu thế giới. Liệu kỳ vọng này có được đáp ứng?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/01/05/vovlive_vandequocte_thitruongdauchodoicuochopcuaopec.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 05 Jan 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
