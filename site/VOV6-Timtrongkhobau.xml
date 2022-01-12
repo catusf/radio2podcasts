@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 29 Dec 2021 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jan 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 29 Dec 2021 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 12 Jan 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,8 +24,16 @@
     <itunes:subtitle>Tìm trong kho báu</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Timtrongkhobau.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Truyện thơ "Lục Vân Tiên"  trong dân gian Nam bộ 12/1/2022</title>
+      <link>http://vov6.vov.vn/tim-trong-kho-bau/truyen-tho-luc-van-tien-trong-dan-gian-nam-bo-c54-34180.aspx</link>
+      <description><![CDATA[Sinh thời, Nhà Cách mạng, Giáo sư Trần Văn Giàu từng nhận định: “Sở dĩ người Việt Nam ở miền Nam thích truyện “Lục Vân Tiên” trước hết là vì họ thấy mình trong các nhân vật tích cực được ca tụng trong truyện, y như Nguyễn Đình Chiểu nói về họ. Có gì thích thú hơn là đọc truyện mà thấy chính mình trong truyện?”. Dẫn ra như vậy để thấy rằng truyện thơ tiêu biểu của nhà thơ Nguyễn Đình Chiểu có một vị trí đặc biệt trong tâm thức tiếp nhận của công chúng, độc giả Nam bộ. Tác giả Đăng Huỳnh, khi nghiên cứu về tầm ảnh hưởng, sức lan tỏa của “Lục Vân Tiên” ở phương Nam đã đi vào cụ thể các câu đố, ca dao, tục ngữ, dân nhạc lấy cảm hứng từ tác phẩm này]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/truyen-tho-luc-van-tien-trong-dan-gian-nam-bo-c54-34180.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2022_1/v2_061001_18h30_tim_trong_kho_bau_121202215.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 12 Jan 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
       <title>"Truyện Kiều" và "Lục Vân Tiên" - Tương đồng và ảnh hưởng
- 29/12/2021</title>
+  29/12/2021</title>
       <link>http://vov6.vov.vn/tim-trong-kho-bau/truyen-kieu-va-luc-van-tien-tuong-dong-va-anh-huong-c54-34147.aspx</link>
       <description><![CDATA[Cùng là những tác phẩm phổ biến và có tầm ảnh hưởng trong tâm thức dân gian, nếu “Truyện Kiều” của Đại thi hào Nguyễn Du được ca tụng là kiệt tác hàng đầu của văn học dân tộc ở mọi thời đại thì truyện thơ “Lục Vân Tiên” của nhà thơ Nguyễn Đình Chiểu từ đầu thế kỷ 20 đã được dân vùng lục tỉnh miền Nam hết sức tâm đắc và ưa chuộng. Sức sống, tinh thần của Lục Vân Tiên đến nay đã trở thành biểu tượng cho quan niệm sống “Giữa đàng thấy chuyện bất bình chẳng tha” của người Nam bộ. Và theo nhà thơ Lê Minh Quốc, tính cách nghĩa hiệp ấy trở thành lẽ sống, tinh thần phụng sự bất vụ lợi: “Làm ơn há dễ trông người trả ơn” và đã trở thành triết lý sống, di sản văn hóa của người Việt Nam ta]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/truyen-kieu-va-luc-van-tien-tuong-dong-va-anh-huong-c54-34147.aspx</guid>
@@ -39,14 +47,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/chuyen-nguoi-con-gai-tai-sac-cua-cu-do-chieu-c54-34112.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/v2_16_2012_18h30_tim_trong_kho_bau_171220219.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 16 Dec 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Người vợ tào khang của nhà thơ Nguyễn Đình Chiểu  9/12/2021</title>
-      <link>http://vov6.vov.vn/tim-trong-kho-bau/nguoi-vo-tao-khang-cua-nha-tho-nguyen-dinh-chieu-c54-34094.aspx</link>
-      <description><![CDATA[Sau khi đỗ Tú tài trong kỳ thi hương 1843 tại Gia Định, nhà thơ Nguyễn Đình Chiểu ngược ra kinh đô Huế để tham dự kỳ thi Hội. Dọc đường đi, nghe tin mẹ mất, là người con hiếu thảo, ông quyết định trở về quê nhà chịu tang. Trên đường về, phần vì khóc thương, đau buồn, lại không may mắc bệnh, Nguyễn Đình Chiểu bị mù cả hai mắt. Nhờ nghề thuốc học được trong thời gian lưu lại tư gia một thầy thuốc vốn dòng dõi Ngự y, về đến quê nhà, ông mở trường dạy học, bốc thuốc giúp người nghèo. Trong số các học trò của Đồ Chiểu, có Lê Tăng Quýnh vốn mồ côi cha mẹ, cảm kích tài năng và đức độ của người thầy mù lòa đã se duyên cho người em gái là Lê Thị Điền. Cuộc đời Nguyễn Đình Chiểu từ đó về sau dù trải qua nhiều biến cố luôn có sự chăm sóc, sát cánh của người vợ tào khang:]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/nguoi-vo-tao-khang-cua-nha-tho-nguyen-dinh-chieu-c54-34094.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_12/v2_09_1312_18h30_tim_trong_kho_bau_912202115.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 09 Dec 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
