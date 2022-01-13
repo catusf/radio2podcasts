@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 12 Jan 2022 14:21:35 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jan 2022 14:21:34 +0100</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 12 Jan 2022 14:21:35 +0100</pubDate>
+    <pubDate>Thu, 13 Jan 2022 14:21:34 +0100</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>43'</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/RFI-Chuongtrinh43.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>13-01-2022 Chương trình 43'</title>
+      <link>https://www.rfi.fr/vi/t%E1%BA%A1p-ch%C3%AD/13h17-14h00-gmt/20220113-ph%E1%BA%A7n-c%C3%B2n-l%E1%BA%A1i-c%E1%BB%A7a-ch%C6%B0%C6%A1ng-tr%C3%ACnh-13-01-13h17-gmt</link>
+      <description><![CDATA[Chương trình ngày 13-01-2022 ]]></description>
+      <guid isPermaLink="false">https://www.rfi.fr/vi/t%E1%BA%A1p-ch%C3%AD/13h17-14h00-gmt/20220113-ph%E1%BA%A7n-c%C3%B2n-l%E1%BA%A1i-c%E1%BB%A7a-ch%C6%B0%C6%A1ng-tr%C3%ACnh-13-01-13h17-gmt</guid>
+      <enclosure url="https://aod-rfi.akamaized.net/rfi/vietnamien/audio/magazines/r001/13h17_-_14h00_gmt_20220113.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 13 Jan 2022 14:21:34 +0100</pubDate>
+    </item>
     <item>
       <title>12-01-2022 Chương trình 43'</title>
       <link>https://www.rfi.fr/vi/t%E1%BA%A1p-ch%C3%AD/13h17-14h00-gmt/20220112-ph%E1%BA%A7n-c%C3%B2n-l%E1%BA%A1i-c%E1%BB%A7a-ch%C6%B0%C6%A1ng-tr%C3%ACnh-12-01-13h17-gmt</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://www.rfi.fr/vi/t%E1%BA%A1p-ch%C3%AD/13h17-14h00-gmt/20220109-ph%E1%BA%A7n-c%C3%B2n-l%E1%BA%A1i-c%E1%BB%A7a-ch%C6%B0%C6%A1ng-tr%C3%ACnh-09-01-13h17-gmt</guid>
       <enclosure url="https://aod-rfi.akamaized.net/rfi/vietnamien/audio/magazines/r001/13h17_-_14h00_gmt_20220109.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 09 Jan 2022 14:20:51 +0100</pubDate>
-    </item>
-    <item>
-      <title>08-01-2022 Chương trình 43'</title>
-      <link>https://www.rfi.fr/vi/t%E1%BA%A1p-ch%C3%AD/13h17-14h00-gmt/20220108-ph%E1%BA%A7n-c%C3%B2n-l%E1%BA%A1i-c%E1%BB%A7a-ch%C6%B0%C6%A1ng-tr%C3%ACnh-08-01-13h17-gmt</link>
-      <description><![CDATA[Chương trình ngày 08-01-2022 ]]></description>
-      <guid isPermaLink="false">https://www.rfi.fr/vi/t%E1%BA%A1p-ch%C3%AD/13h17-14h00-gmt/20220108-ph%E1%BA%A7n-c%C3%B2n-l%E1%BA%A1i-c%E1%BB%A7a-ch%C6%B0%C6%A1ng-tr%C3%ACnh-08-01-13h17-gmt</guid>
-      <enclosure url="https://aod-rfi.akamaized.net/rfi/vietnamien/audio/magazines/r001/13h17_-_14h00_gmt_20220108.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 08 Jan 2022 14:21:27 +0100</pubDate>
     </item>
   </channel>
 </rss>
