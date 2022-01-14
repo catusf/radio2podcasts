@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 14 Jan 2022 00:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jan 2022 14:10:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 14 Jan 2022 00:00:00 +0700</pubDate>
+    <pubDate>Fri, 14 Jan 2022 14:10:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>COVID-19 đẩy lùi phục hồi kinh tế toàn cầu - Thời sự 5g30 14/1/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/covid-19-day-lui-phuc-hoi-kinh-te-toan-cau-thoi-su-5g30-14-1-2022-423800.html</link>
+      <description><![CDATA[07:10 - 14/01/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/covid-19-day-lui-phuc-hoi-kinh-te-toan-cau-thoi-su-5g30-14-1-2022-423800.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/01/14/amthoisu05h30p140122-20220113233657.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 14 Jan 2022 14:10:00 +0700</pubDate>
+    </item>
     <item>
       <title>Chuẩn bị thông xe cao tốc Trung Lương - Mỹ Thuận - Thời sự 17g00 13/01/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/chuan-bi-thong-xe-cao-toc-trung-luong-my-thuan-thoi-su-17g00-13-01-2022-423788.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/xu-phat-gan-18-ty-dong-vi-pham-cho-hang-qua-tai-trong-thoi-su-11g00-13-01-2022-423767.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/01/13/AMThoisu11h00p1301221.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 13 Jan 2022 18:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Tìm giải pháp thúc đẩy xuất khẩu nông sản bền vững - Thời sự 5g30 13/01/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tim-giai-phap-thuc-day-xuat-khau-nong-san-ben-vung-thoi-su-5g30-13-01-2022-423734.html</link>
-      <description><![CDATA[05:30 - 13/01/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tim-giai-phap-thuc-day-xuat-khau-nong-san-ben-vung-thoi-su-5g30-13-01-2022-423734.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/01/13/AMThoisu05h30p130122.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 13 Jan 2022 12:30:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
