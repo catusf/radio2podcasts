@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 11 Jan 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jan 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 11 Jan 2022 19:00:00 +0700</pubDate>
+    <pubDate>Fri, 14 Jan 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,9 +24,17 @@
     <itunes:subtitle>Điểm hẹn văn nghệ</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Diemhenvannghe.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>"Người công giáo cộng sản" kể về cuộc đời của một vị tướng 14/1/2022</title>
+      <link>http://vov6.vov.vn/diem-hen-van-nghe/nguoi-cong-giao-cong-san-ke-ve-cuoc-doi-cua-mot-vi-tuong-c158-34187.aspx</link>
+      <description><![CDATA[Nhân vật chính trong tiểu thuyết là một nhà cách mạng thuộc thế hệ đầu tiên. Cuộc đời trải dài trên những vùng địa lý rộng lớn trong Nam, ngoài Bắc và cả nước ngoài. Xuất thân từ Công giáo, nhưng cuộc đời đã đưa ông "sắm" rất nhiều vai khác nhau: thầy giảng, phu đồn điền, thủ lĩnh phong trào, tù nhân, thầy thuốc, người thiết lập mạng lưới cách mạng, người quyết định khởi nghĩa, nhà tổ chức đào tạo quân sự, vị tướng trận, vị thanh tra, nhà ngoại giao... Đây là một đặc trưng của một thế hệ cách mạng tiền bối: sẵn sàng nhận bất cứ nhiệm vụ nào được giao và phải hoàn thành bằng mọi giá! Tìm lại những mẩu chuyện đã xảy ra về một nhân vật, người viết muốn tôn vinh những thế hệ tiền bối cách mạng đã xả thân để giành lại nền độc lập cho dân tộc Việt Nam. Những câu chuyện của quá khứ, thiết nghĩ vẫn còn nguyên giá trị cho các thế hệ sau này. Đó chính là phẩm chất của các thế hệ cách mạng trung kiên, rộng hơn đó cũng là biểu tượng của người Việt Nam khi dân tộc phải trực diện với những thử thách sống còn.]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/nguoi-cong-giao-cong-san-ke-ve-cuoc-doi-cua-mot-vi-tuong-c158-34187.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2022_1/gts_nguoi_cong_giao_cong_san_141202215.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 14 Jan 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Từ bài thơ “Gửi dòng sông câu ví” đến ca khúc “Bến xưa” 
 
- 11/1/2022</title>
+  11/1/2022</title>
       <link>http://vov6.vov.vn/diem-hen-van-nghe/tu-bai-tho-gui-dong-song-cau-vi-den-ca-khuc-ben-xua-c158-34174.aspx</link>
       <description><![CDATA[Bài hát “Bến xưa” của nhạc sĩ Lê An Tuyên, phổ từ bài thơ “Gửi dòng sông câu ví” của nhà thơ Nguyên Hùng (người con xứ Nghệ đang sống và làm việc tại thành phố Hồ Chí Minh). Nhạc sĩ Lê An Tuyên đang định cư ở nước Đức. Tình cảm nhớ quê hương, xứ sở luôn đầy ắp trong trái tim người con xa quê. Vì thế khi đọc bài thơ “Gửi dòng sông câu ví” thì nỗi niềm ấy như được đồng cảm, lan tỏa và nhanh chóng thăng hoa cùng nốt nhạc. (Điểm hẹn văn nghệ)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/tu-bai-tho-gui-dong-song-cau-vi-den-ca-khuc-ben-xua-c158-34174.aspx</guid>
@@ -40,14 +48,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/chiec-thang-cao-mau-xanh-hanh-trinh-truong-thanh-day-mat-mat-c158-34164.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2022_1/gts_chiec_thang_cao_mau_xanh_61202215.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 06 Jan 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Văn học Việt-Một năm nhìn lại  31/12/2021</title>
-      <link>http://vov6.vov.vn/diem-hen-van-nghe/van-hoc-viet-mot-nam-nhin-lai-c158-34151.aspx</link>
-      <description><![CDATA[Vậy là năm 2021 đã qua, một năm đầy biến động trên mọi phương diện do tình hình dịch bệnh phức tạp và văn học Việt cũng nằm trong vòng quay đầy biến động đó. Với mong muốn mang đến những người yêu văn chương có thêm những góc nhìn văn học, Ban Văn học nghệ thuật (VOV6) phối hợp cùng Khoa Văn học-Trường Đại học KHXH và NV-Đại học Quốc gia Hà Nội tổ chức tọa đàm "Văn học Việt-Một năm nhìn lại" qua hình thức tọa đàm trực tiếp và tọa đàm online]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/van-hoc-viet-mot-nam-nhin-lai-c158-34151.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2021_12/v2_0101_07h4518h15_van_nghe_3112202111.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 31 Dec 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
