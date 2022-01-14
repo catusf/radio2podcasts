@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 12 Jan 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jan 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 12 Jan 2022 19:00:00 +0700</pubDate>
+    <pubDate>Fri, 14 Jan 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Tìm trong kho báu</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Timtrongkhobau.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Truyện thơ "Lục Vân Tiên"  trong dân gian Nam bộ 12/1/2022</title>
+      <title>Hình ảnh con người Nam bộ qua thơ văn Nguyễn Đình Chiểu 14/1/2022</title>
+      <link>http://vov6.vov.vn/tim-trong-kho-bau/hinh-anh-con-nguoi-nam-bo-qua-tho-van-nguyen-dinh-chieu-c54-34186.aspx</link>
+      <description><![CDATA[Nói về thơ văn Đồ Chiểu, nhà thơ Xuân Diệu ngợi ca: “Ngôn ngữ trong thơ ông “là thứ ngôn ngữ bình dân, chân thực, thông dụng, thực tế, có cái vị thơm, cái hương lành của cây trái Nam Bộ – cái hương vị văn miền Nam”. Giáo sư Lê Trí Viễn nhận định Nguyễn Đình Chiểu vừa là “thầy học giữa làng” vừa là “thầy lang cuối xóm”. Trong ông, có “ba con người trí thức”. Đó là “thầy thuốc, thầy giáo, và nhà thơ”. Giáo sư Trần Văn Giàu cho rằng nhiều câu thơ của Nguyễn Đình Chiểu không cần gọt giũa mà vẫn nói được nhiều điều đơn giản, thẳng thắn, có khi “còn nguyên thuỷ của người Nam Bộ”. Theo Nhà Phê bình Lê Xuân – Người dành nhiều thời gian, công sức để nghiên cứu và khám phá vẻ đẹp của văn hóa - văn nghệ dân gian Nam bộ thì sự nghiệp sáng tác của nhà thơ Nguyễn Đình Chiểu gắn liền với vận mệnh đất nước và nhân dân Nam Bộ trong một giai đoạn lịch sử đầy bi tráng. Thơ văn của ông là hơi thở, là ý tình của người dân Nam Bộ]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/hinh-anh-con-nguoi-nam-bo-qua-tho-van-nguyen-dinh-chieu-c54-34186.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2022_1/v2_131701_18h30_tim_trong_kho_bau_141202213.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 14 Jan 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Truyện thơ "Lục Vân Tiên"  trong dân gian Nam bộ  12/1/2022</title>
       <link>http://vov6.vov.vn/tim-trong-kho-bau/truyen-tho-luc-van-tien-trong-dan-gian-nam-bo-c54-34180.aspx</link>
       <description><![CDATA[Sinh thời, Nhà Cách mạng, Giáo sư Trần Văn Giàu từng nhận định: “Sở dĩ người Việt Nam ở miền Nam thích truyện “Lục Vân Tiên” trước hết là vì họ thấy mình trong các nhân vật tích cực được ca tụng trong truyện, y như Nguyễn Đình Chiểu nói về họ. Có gì thích thú hơn là đọc truyện mà thấy chính mình trong truyện?”. Dẫn ra như vậy để thấy rằng truyện thơ tiêu biểu của nhà thơ Nguyễn Đình Chiểu có một vị trí đặc biệt trong tâm thức tiếp nhận của công chúng, độc giả Nam bộ. Tác giả Đăng Huỳnh, khi nghiên cứu về tầm ảnh hưởng, sức lan tỏa của “Lục Vân Tiên” ở phương Nam đã đi vào cụ thể các câu đố, ca dao, tục ngữ, dân nhạc lấy cảm hứng từ tác phẩm này]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/truyen-tho-luc-van-tien-trong-dan-gian-nam-bo-c54-34180.aspx</guid>
@@ -39,14 +47,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/truyen-kieu-va-luc-van-tien-tuong-dong-va-anh-huong-c54-34147.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/v2_30120301_18h30_tim_trong_kho_bau_3012202115.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 29 Dec 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chuyện người con gái tài sắc của cụ Đồ Chiểu  16/12/2021</title>
-      <link>http://vov6.vov.vn/tim-trong-kho-bau/chuyen-nguoi-con-gai-tai-sac-cua-cu-do-chieu-c54-34112.aspx</link>
-      <description><![CDATA[Sinh thời, nhà thơ, nhà yêu nước Nguyễn Đình Chiểu và bạn đời – Bà Lê Thị Điền có tất cả 6 người con: 3 người con trai và 3 người con gái. Trong đó, nữ sĩ Sương Nguyệt Anh (con gái, thứ tư) và Nguyễn Đình Chiêm (con trai, thứ năm) đều là người có tiếng trong giới văn nghệ. Nếu như Nguyễn Đình Chiêm, còn gọi là thầy Bảy Chiêm ngoài sáng tác và dịch thơ còn là tác giả các vở tuồng hát hội: “Phong ba đình”, “Phấn trang lâu” có giá trị văn chương thì người chị Sương Nguyệt Anh là một trang nữ lưu được người đương thời trọng vọng. Sách “Nam Kỳ cố sự” của tác giả Nguyễn Hữu Hiếu có phần viết về người con gái tài sắc của cụ Đồ Chiểu.]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/chuyen-nguoi-con-gai-tai-sac-cua-cu-do-chieu-c54-34112.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/v2_16_2012_18h30_tim_trong_kho_bau_171220219.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Dec 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
