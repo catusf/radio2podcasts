@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 14 Jan 2022 14:10:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 15 Jan 2022 15:29:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 14 Jan 2022 14:10:00 +0700</pubDate>
+    <pubDate>Sat, 15 Jan 2022 15:29:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Sài Gòn buổi sáng - 15/1/2022</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-15-1-2022-423875.html</link>
+      <description><![CDATA[08:29 - 15/01/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-15-1-2022-423875.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/01/15/FMsaigonbuoisang06h00p150122.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 15 Jan 2022 15:29:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Sài Gòn buổi sáng - 14/1/2022</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-14-1-2022-423799.html</link>
       <description><![CDATA[07:10 - 14/01/2022]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-14-1-2022-423799.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/01/14/fmsgbs06h00p140122-20220114063525.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 14 Jan 2022 14:10:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Vận tải hành khách TPHCM đìu hiu chờ khách Tết - Sài Gòn buổi sáng 13/01/2022</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/van-tai-hanh-khach-tphcm-diu-hiu-cho-khach-tet-sai-gon-buoi-sang-13-01-2022-423733.html</link>
-      <description><![CDATA[06:00 - 13/01/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/van-tai-hanh-khach-tphcm-diu-hiu-cho-khach-tet-sai-gon-buoi-sang-13-01-2022-423733.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/01/13/fmsgbs06h00p130122.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 13 Jan 2022 13:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
