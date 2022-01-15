@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 15 Jan 2022 01:19:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 15 Jan 2022 18:35:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 15 Jan 2022 01:19:00 +0700</pubDate>
+    <pubDate>Sat, 15 Jan 2022 18:35:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,28 +24,28 @@
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Công an thành phố: nỗ lực vì sự bình yên - Thời sự 11g00 15/1/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/cong-an-thanh-pho-no-luc-vi-su-binh-yen-thoi-su-11g00-15-1-2022-423897.html</link>
+      <description><![CDATA[11:35 - 15/01/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/cong-an-thanh-pho-no-luc-vi-su-binh-yen-thoi-su-11g00-15-1-2022-423897.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/01/15/AMThoisu11h00p150122.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 15 Jan 2022 18:35:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Đường hoa Nguyễn Huệ 2022 sẽ mang những dấu ấn khó quên - Thời sự 5g30 15/1/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/duong-hoa-nguyen-hue-2022-se-mang-nhung-dau-an-kho-quen-thoi-su-5g30-15-1-2022-423874.html</link>
+      <description><![CDATA[06:29 - 15/01/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/duong-hoa-nguyen-hue-2022-se-mang-nhung-dau-an-kho-quen-thoi-su-5g30-15-1-2022-423874.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/01/15/AMThoisu05h30p150122.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 15 Jan 2022 13:29:00 +0700</pubDate>
+    </item>
+    <item>
       <title>TPHCM tiếp tục chiến dịch bảo vệ người có nguy cơ - Thời sự 17g00 14/1/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-tiep-tuc-chien-dich-bao-ve-nguoi-co-nguy-co-thoi-su-17g00-14-1-2022-423852.html</link>
       <description><![CDATA[18:19 - 14/01/2022]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-tiep-tuc-chien-dich-bao-ve-nguoi-co-nguy-co-thoi-su-17g00-14-1-2022-423852.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/01/14/amthoisu17h00p140122-20220114165106-Copy.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 15 Jan 2022 01:19:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đảng viên tiên phong, dân tin, dân làm theo! - Thời sự 11g00 14/1/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/dang-vien-tien-phong-dan-tin-dan-lam-theo-thoi-su-11g00-14-1-2022-423819.html</link>
-      <description><![CDATA[11:09 - 14/01/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/dang-vien-tien-phong-dan-tin-dan-lam-theo-thoi-su-11g00-14-1-2022-423819.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/01/14/AMThoisu11h00p140122-Copy.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 14 Jan 2022 18:09:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>COVID-19 đẩy lùi phục hồi kinh tế toàn cầu - Thời sự 5g30 14/1/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/covid-19-day-lui-phuc-hoi-kinh-te-toan-cau-thoi-su-5g30-14-1-2022-423800.html</link>
-      <description><![CDATA[07:10 - 14/01/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/covid-19-day-lui-phuc-hoi-kinh-te-toan-cau-thoi-su-5g30-14-1-2022-423800.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/01/14/amthoisu05h30p140122-20220113233657.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 14 Jan 2022 14:10:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
