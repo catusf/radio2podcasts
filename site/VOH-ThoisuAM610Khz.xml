@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 15 Jan 2022 18:35:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 16 Jan 2022 01:26:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 15 Jan 2022 18:35:00 +0700</pubDate>
+    <pubDate>Sun, 16 Jan 2022 01:26:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Đấu giá thế nào để chọn nhà đầu tư có năng lực thực sự? - Thời sự 17g00 15/1/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/dau-gia-the-nao-de-chon-nha-dau-tu-co-nang-luc-thuc-su-thoi-su-17g00-15-1-2022-423918.html</link>
+      <description><![CDATA[18:26 - 15/01/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/dau-gia-the-nao-de-chon-nha-dau-tu-co-nang-luc-thuc-su-thoi-su-17g00-15-1-2022-423918.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/01/15/AMThoisu17h00p150122.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 16 Jan 2022 01:26:00 +0700</pubDate>
+    </item>
     <item>
       <title>Công an thành phố: nỗ lực vì sự bình yên - Thời sự 11g00 15/1/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/cong-an-thanh-pho-no-luc-vi-su-binh-yen-thoi-su-11g00-15-1-2022-423897.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/duong-hoa-nguyen-hue-2022-se-mang-nhung-dau-an-kho-quen-thoi-su-5g30-15-1-2022-423874.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/01/15/AMThoisu05h30p150122.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 15 Jan 2022 13:29:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>TPHCM tiếp tục chiến dịch bảo vệ người có nguy cơ - Thời sự 17g00 14/1/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-tiep-tuc-chien-dich-bao-ve-nguoi-co-nguy-co-thoi-su-17g00-14-1-2022-423852.html</link>
-      <description><![CDATA[18:19 - 14/01/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-tiep-tuc-chien-dich-bao-ve-nguoi-co-nguy-co-thoi-su-17g00-14-1-2022-423852.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/01/14/amthoisu17h00p140122-20220114165106-Copy.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 15 Jan 2022 01:19:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
