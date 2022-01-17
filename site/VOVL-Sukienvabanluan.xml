@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 10 Jan 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jan 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 10 Jan 2022 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 12 Jan 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>“Vòng tròn khép kín” có giúp Thế vận hội mùa Đông Bắc Kinh an toàn trước COVID-19?</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Chỉ còn gần 1 tháng nữa, Thế vận hội mùa Đông Bắc Kinh 2022 sẽ chính thức khai mạc. Để chuẩn bị các phương án tối ưu nhằm phòng dịch COVID-19 trước các mối nguy mới từ biến thể Omicron, Trung Quốc đã chính thức khởi động hệ thống quản lý khép kín - còn gọi là “vòng tròn” hay “bong bóng” khép kín. Mô hình này cụ thể như thế nào, liệu có giúp Bắc Kinh có một kỳ Olympic an toàn trước dịch bệnh?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/01/17/vovlive_sukienvabanluan_vong_trong_khep_kin.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 12 Jan 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Ứng phó với Omicron: Các nước thay đổi cách chống dịch như thế nào?</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/01/05/vovlive_sukienvabanluan_vi_sao_huyen_tien_yen_dam_ha_can_dich_nong_thon_moi.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 05 Jan 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Người Trung Quốc trăn trở về quê hay ăn Tết tại chỗ do dịch bệnh</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Trong bối cảnh tình hình dịch bệnh COVID-19 vẫn diễn biến phức tạp, lần thứ 2 liên tiếp các địa phương của Trung Quốc đã đưa ra lời kêu gọi người dân “ở yên tại chỗ” và không về quê ăn Tết trong dịp Năm mới và Tết Nguyên Đán sắp tới. Một lần nữa, việc ăn Tết tại chỗ hay về quê ăn Tết lại “dậy sóng” các diễn đàn tại Trung Quốc, khi hành trình về quê ăn Tết của quốc gia đông dân nhất thế giới lại sắp về!]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/01/05/vovlive_sukienvabanluan_nguoi_trung_quoc_tran_tro_ve_que_hay_an_tet_tai_cho_do_dich_benh.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 03 Jan 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
