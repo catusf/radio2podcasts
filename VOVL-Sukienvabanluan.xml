@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 12 Jan 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jan 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 12 Jan 2022 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 18 Jan 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Những điểm sáng trong xu hướng đô thị thông minh ở Việt Nam</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Thành phố Sơn La tỉnh Sơn La vừa trở thành đơn vị mới nhất có tên trong danh sách các đô thị ứng dụng công nghệ điều hành thông minh ở nước ta. Một trung tâm điều hành đã được thiết lập và đây được xem là nền tảng để toàn thành phố thực hiện chuyển đổi số. Đâu sẽ là những thuận lợi và khó khăn trong quá trình chuyển đổi này của Sơn La? Những bài học từ các đô thị thông minh thành công như Đà Nẵng sẽ hỗ trợ ra sao cho những địa phương mới triển khai?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/01/18/vovlive_sukienvabanluan_nhung_diem_sang_trong_khu_do_thi_thong_minh_o_viet_nam.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 18 Jan 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>“Vòng tròn khép kín” có giúp Thế vận hội mùa Đông Bắc Kinh an toàn trước COVID-19?</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/01/06/vovlive_sukienvabanluan_vi_sao_nhat_ban_thanh_cong_trong_viec_ang_tam_gia_tri_nong_san.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 06 Jan 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Vì sao huyện miền núi Tiên Yên và Đầm Hà  - Quảng Ninh có thể cán đích sớm Nông thôn mới?</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Chương trình mục tiêu quốc gia xây dựng Nông thôn mới là chương trình phát triển nông thôn toàn diện bao gồm nhiều nội dung liên quan đến các vấn đề  Kinh tế - Xã hội - Văn hóa - Môi trường. Hệ thống chính trị  ở cơ sở và an ninh trật tự xã hội ở nông thôn để đạt được nông thôn mới thì địa phương phải hoàn thành đủ bộ 19 tiêu chí. Tại Quảng Ninh Tiên Yên  là huyện miền núi phía Bắc đầu tiên đạt chuẩn Nông thôn mới, lại cán đích sớm trước 1 năm. Bên cạnh Tiên Yên còn có Đầm Hà, một huyện miền núi khác của Quảng Ninh cũng vừa cán đích Nông thôn mới. Vậy làm thế nào để đạt nông thôn mới nhìn từ 2 huyện miền núi từ Quảng Ninh?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/01/05/vovlive_sukienvabanluan_vi_sao_huyen_tien_yen_dam_ha_can_dich_nong_thon_moi.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 05 Jan 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
