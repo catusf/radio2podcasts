@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 18 Jan 2022 00:56:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jan 2022 13:29:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 18 Jan 2022 00:56:00 +0700</pubDate>
+    <pubDate>Tue, 18 Jan 2022 13:29:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Quyết tâm xử lý tiếng ồn ở TPHCM: Cần khắc phục những bất cập - Thời sự 5g30 18/1/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/quyet-tam-xu-ly-tieng-on-o-tphcm-can-khac-phuc-nhung-bat-cap-thoi-su-5g30-18-1-2022-424067.html</link>
+      <description><![CDATA[06:29 - 18/01/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/quyet-tam-xu-ly-tieng-on-o-tphcm-can-khac-phuc-nhung-bat-cap-thoi-su-5g30-18-1-2022-424067.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/01/18/AMThoisu05h30p180122.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 18 Jan 2022 13:29:00 +0700</pubDate>
+    </item>
     <item>
       <title>Cải cách tư pháp phải đặt dưới sự lãnh đạo toàn diện, chặt chẽ của Đảng - Thời Sự 17g00 17/1/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/cai-cach-tu-phap-phai-dat-duoi-su-lanh-dao-toan-dien-chat-che-cua-dang-thoi-su-17g00-17-1-2022-424040.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/xay-dung-thuong-hieu-de-tphcm-tro-thanh-mot-megacity-sieu-do-thi-thoi-su-11g00-17-1-2022-424007.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/01/17/AMThoisu11h00p170122ss.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 17 Jan 2022 18:28:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Năm 2022: Công tác dân vận chú trọng xây dựng hệ thống chính trị ở cơ sở - Thời sự 5g30 17/1/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/nam-2022-cong-tac-dan-van-chu-trong-xay-dung-he-thong-chinh-tri-o-co-so-thoi-su-5g30-17-1-2022-423999.html</link>
-      <description><![CDATA[08:46 - 17/01/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/nam-2022-cong-tac-dan-van-chu-trong-xay-dung-he-thong-chinh-tri-o-co-so-thoi-su-5g30-17-1-2022-423999.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/01/17/AMThoisu05h30p170122.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 17 Jan 2022 15:46:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
