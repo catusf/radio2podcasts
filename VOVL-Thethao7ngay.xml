@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 04 Jan 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jan 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 04 Jan 2022 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 18 Jan 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,25 @@
     </itunes:owner>
     <itunes:subtitle>Thể thao 7 ngày</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Thethao7ngay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Chương trình thể thao 7 ngày 16/01/2022</title>
+      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
+      <description><![CDATA[- Trong tuần qua thầy trò huấn luyện viên Park Hang Seo tập trung trở lại tại Hà Nội để chuẩn bị cho trận đấu tiếp theo tại vòng loại thứ 3 WC 2022 khu vực Châu Á. Sau những kết quả không khả quan ở giải đấu này cũng như AFF Cup 2020, sẽ có những thay đổi về mặt lực lượng của đội tuyển quốc gia. Liệu nhà cầm quân người Hàn Quốc và các học trò có hoàn thành được mục tiêu với những sự bổ sung lực lượng...
+- Giải vô địch Motorkhana, giải đua xe ô tô chuyên nghiệp đầu tiên của Việt Nam.
+- Hệ thống thi đấu quốc gia về Golf năm 2022]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/01/18/vovlive_thethao7ngay_chuongtrinhthethao7ngay1612022.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 18 Jan 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Chương trình thể thao 7 ngày 8/01/2022</title>
+      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
+      <description><![CDATA[- Những sự kiện thể thao nổi bật tuần qua. 
+- Sự chuẩn bị của đội tuyển nữ Việt Nam cho giấc mơ tham dự World Cup với vị khách mới là huấn luyện viên trưởng đội tuyển nữ Việt Nam Ông Mai Đức Chung.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/01/18/vovlive_thethao7ngay_chuongtrinhthethao7ngay812022.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 18 Jan 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Chương trình thể thao 7 ngày 1/1/2022</title>
       <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
@@ -43,24 +62,6 @@
       <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2021/12/27/vovlive_thethao7ngay_chuongtrinhthethao7ngay26122021.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 27 Dec 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chương trình thể thao 7 ngày 19/12/2021</title>
-      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
-      <description><![CDATA[Do ảnh hưởng của dịch Covid-19 giải điền kinh vô địch quốc gia 2021 đã nhiều lần phải tạm hoãn. Trước khi được tổ chức trở lại từ ngày mùng 9 đến ngày 15/12 tại khu liên hợp thể thao quốc gia Mỹ Đình - TP Hà Nội. Giải đấu là dịp để liên đoàn điền kinh Việt Nam rà soát lực lượng cũng như công tác tổ chức cho giải tiền SEA GAME dự kiến tổ chức vào tháng 3/2022. Và đặc biệt là SEA GAME 31 từ ngày 12/5 đến ngày 23/5/2022.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/12/22/vovlive_thethao7ngay_chuongtrinhthethao7ngay19122021.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 22 Dec 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chương trình thể thao 7 ngày 11/12/2021</title>
-      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
-      <description><![CDATA[- Trong tuần quan thầy trò HLV Park Hang Seo khởi động hành trình bảo vệ ngôi vô địch Đông Nam Á bằng chiến thắng đầu tiên trước tuyển Lào tại vòng bảng AFF Suzuki Cup 2020. Những dấu ấn sau chiến thằng 2 - 0 trước tuyển Lào cùng nhận định cuộc so tài mang tính quyết định với Malaysia ở lượt đấu thứ 2. 
-- Thể thao và cuộc sống có bài viết về tấm gương đầy nghị lực của vận đông viên cử tạ người khuyết tật Lê Văn Công. 
-- Kiến thức thể thao: Sự phát triển của môn trượt băng nghệ thuật tại Việt Nam.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/12/14/vovlive_thethao7ngay_chuongtrinhthethao7ngay11122021.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 14 Dec 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
