@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 18 Jan 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jan 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 18 Jan 2022 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 20 Jan 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Quản lý quy hoạch đô thị để phát triển kinh tế - xã hội</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Luật Quy hoạch đã được Quốc hội khóa 14 thông qua tại Kỳ họp thứ 4 và các văn bản hướng dẫn về triển khai lập quy hoạch cho thời kỳ 2021-2030 đã được ban hành. Tuy nhiên, trong quá trình xây dựng đô thị tại một địa phương đã xuất hiện nhiều bất cập. Tại cuộc giám sát việc thực hiện chính sách, pháp luật về công tác quy hoạch trên địa bàn Thành phố Hồ Chí Minh kể từ khi Luật Quy hoạch có hiệu lực thi hành diễn ra mới đây, Chủ tịch nước Nguyễn Xuân Phúc nêu rõ Quy hoạch phải đi trước một bước, phải thể hiện được tầm nhìn chiến lược, làm cơ sở cho triển khai kế hoạch, quy hoạch phải bám vào Luật Quy hoạch để huy động nguồn lực của cả nhà nước và tư nhân, xác định các mục tiêu, chỉ tiêu cụ thể.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/01/20/vovlive_sukienvabanluan_luat_quy_hoach.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 20 Jan 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Những điểm sáng trong xu hướng đô thị thông minh ở Việt Nam</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/01/10/vovlive_sukienvabanluan_ung_pho_voi_omicron.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 10 Jan 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Vì sao Nhật Bản thành công trong việc nâng tầm giá trị nông sản?</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Giống như nhiều nước châu Á có nền nông nghiệp lúa nước, nền nông nghiệp Nhật Bản vào những năm đầu thế kỷ 20 có công nghệ canh tác còn tương đối lạc hậu, nhiều giống cây trồng được mang về từ nước ngoài. Điều đáng nói là những giống cây trồng này qua thời gian đã được Nhật Bản áp dụng công nghệ mới, dần trở thành những sản phẩm có chất lượng cao, không những đáp ứng thị trường trong nước mà còn được thị trường nước ngoài ở những phân khúc cao cấp chấp nhận và ưa chuộng. Vậy điều gì đã làm nên thành công, tạo thương hiệu đột phá cho nông sản Nhật Bản?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/01/06/vovlive_sukienvabanluan_vi_sao_nhat_ban_thanh_cong_trong_viec_ang_tam_gia_tri_nong_san.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 06 Jan 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
