@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 19 Jan 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jan 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 19 Jan 2022 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 20 Jan 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Một năm cầm quyền đầu tiên của Tổng thống Mỹ Joe Biden: Hành trình vượt “bão” khủng hoảng</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Cách đây tròn 1 năm, ngày 20/1/2021, ông Joe Biden chính thức nhậm chức Tổng thống Mỹ thứ 46. Đó cũng là khi nước Mỹ cùng lúc phải đối mặt với các cuộc khủng hoảng lớn: Đại dịch Covid-19, kinh tế và sắc tộc, là khi mà những chia rẽ cả trong đời sống chính trị và xã hội Mỹ trở nên sâu sắc hơn bao giờ hết. Có thể nói, năm cầm quyền đầu tiên của Tổng thống  Joe Biden là chuỗi nỗ lực vực dậy nước Mỹ khỏi các cuộc khủng hoảng bên trong lẫn bên ngoài, nhằm mục tiêu xây dựng lại nước Mỹ tốt đẹp hơn.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/01/20/vovlive_vandequocte_motnamcamquyendautiencuatongthongmyjoebiden.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 20 Jan 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Chuyến công du đầy chông gai của Tân Ngoại trưởng Đức tới Ucraina và Nga</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/01/12/vovlive_vandequocte_phantichchinhsachlienquandenvieclientiepthutenluacuatrieutien.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 12 Jan 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Tiếp theo Mỹ, NATO tính toán quan hệ với Nga</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Ngày 10/1, cuộc đàm phán về an ninh giữa các quan chức Mỹ và Nga đã diễn ra tại Giơnevơ (Thụy Sỹ). Ngay sau cuộc đàm phán này thì Hội nghị Hội đồng Nga - Tổ chức Hiệp ước Bắc Đại Tây dương (NATO) cũng sẽ diễn ra tại Brussels (Bỉ). Châu Âu đang rất lo ngại Mỹ, NATO và Nga có thể đạt những thỏa thuận mà không tính tới lợi ích an ninh của Châu Âu, nhất là liên quan đến cuộc khủng hoảng ở miền đông Ukraina. Có thể thấy, tuần này diễn ra nhiều sự kiện dồn dập xoay quanh mối quan hệ Nga – phương Tây như cuộc đàm phán Nga – Mỹ, Nga – NATO, tiếp sau đó là cuộc họp của Tổ chức Hợp tác An ninh châu Âu (OSCE). Nhưng liệu các sự kiện này có mang lại kết quả thực chất nào hay không, nhất là khi các bên đều có rất nhiều tính toán chiến lược khác nhau.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/01/11/vovlive_vandequocte_tieptheomynatotinhtoanquanhevoinga.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 11 Jan 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
