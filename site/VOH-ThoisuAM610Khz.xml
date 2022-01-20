@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 20 Jan 2022 00:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jan 2022 13:56:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 20 Jan 2022 00:00:00 +0700</pubDate>
+    <pubDate>Thu, 20 Jan 2022 13:56:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Những nét mới trong chương trình chăm lo tết cho người lao động – Thời sự 5g30 20/12022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/nhung-net-moi-trong-chuong-trinh-cham-lo-tet-cho-nguoi-lao-dong-thoi-su-5g30-20-12022-424251.html</link>
+      <description><![CDATA[06:56 - 20/01/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/nhung-net-moi-trong-chuong-trinh-cham-lo-tet-cho-nguoi-lao-dong-thoi-su-5g30-20-12022-424251.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/01/20/AMThoisu05h30p200122.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 20 Jan 2022 13:56:00 +0700</pubDate>
+    </item>
     <item>
       <title>Thêm một trạm y tế đảm nhận chăm sóc sức khỏe người dân hậu Covid-19 - Thời sự 17g00 19/1/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/them-mot-tram-y-te-dam-nhan-cham-soc-suc-khoe-nguoi-dan-hau-covid-19-thoi-su-17g00-19-1-2022-424247.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-huong-den-phat-trien-do-thi-ben-vung-thoi-su-11g00-19-1-2022-424209.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/01/19/ts11g00-190122.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 19 Jan 2022 18:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Ngành du lịch TPHCM sẵn sàng chào đón kiều bào về thăm quê hương - Thời sự 05g30 19/1/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/nganh-du-lich-tphcm-san-sang-chao-don-kieu-bao-ve-tham-que-huong-thoi-su-05g30-19-1-2022-424207.html</link>
-      <description><![CDATA[05:30 - 19/01/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/nganh-du-lich-tphcm-san-sang-chao-don-kieu-bao-ve-tham-que-huong-thoi-su-05g30-19-1-2022-424207.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/01/19/ts05-30-190121.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 19 Jan 2022 12:30:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
