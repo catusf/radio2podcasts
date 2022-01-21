@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 14 Jan 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jan 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 14 Jan 2022 19:00:00 +0700</pubDate>
+    <pubDate>Fri, 21 Jan 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Tìm trong kho báu</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Timtrongkhobau.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Hình ảnh con người Nam bộ qua thơ văn Nguyễn Đình Chiểu 14/1/2022</title>
+      <title>Quan niệm về người anh hùng trong “Văn tế nghĩa sĩ Cần Giuộc” 21/1/2022</title>
+      <link>http://vov6.vov.vn/tim-trong-kho-bau/quan-niem-ve-nguoi-anh-hung-trong-van-te-nghia-si-can-giuoc-c54-34203.aspx</link>
+      <description><![CDATA[Nhà thơ Nguyễn Đình Chiểu vốn là một nhà nho giàu lòng yêu nước, nhưng vì hoàn cảnh mù lòa mà không thể phất cờ khởi nghĩa như các bậc anh hào như Trương Định, Phan Công Tòng, Thủ khoa Huân. Dẫu vậy, cũng như Nhà yêu nước Phan Văn Trị, bằng tài năng sáng tác thơ văn, cụ Đồ Chiểu đã thành công trong việc biến ngòi bút thành vũ khí chiến đấu sắc bén để phụng sự lý tưởng giải phóng dân tộc. Buổi “Tìm trong kho báu” hôm nay của Ban VHNT VOV6 tập trung soi sáng tâm niệm ấy.]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/quan-niem-ve-nguoi-anh-hung-trong-van-te-nghia-si-can-giuoc-c54-34203.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2022_1/v2_2001_18h30_tim_trong_kho_bau_211202216.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 21 Jan 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Hình ảnh con người Nam bộ qua thơ văn Nguyễn Đình Chiểu  14/1/2022</title>
       <link>http://vov6.vov.vn/tim-trong-kho-bau/hinh-anh-con-nguoi-nam-bo-qua-tho-van-nguyen-dinh-chieu-c54-34186.aspx</link>
       <description><![CDATA[Nói về thơ văn Đồ Chiểu, nhà thơ Xuân Diệu ngợi ca: “Ngôn ngữ trong thơ ông “là thứ ngôn ngữ bình dân, chân thực, thông dụng, thực tế, có cái vị thơm, cái hương lành của cây trái Nam Bộ – cái hương vị văn miền Nam”. Giáo sư Lê Trí Viễn nhận định Nguyễn Đình Chiểu vừa là “thầy học giữa làng” vừa là “thầy lang cuối xóm”. Trong ông, có “ba con người trí thức”. Đó là “thầy thuốc, thầy giáo, và nhà thơ”. Giáo sư Trần Văn Giàu cho rằng nhiều câu thơ của Nguyễn Đình Chiểu không cần gọt giũa mà vẫn nói được nhiều điều đơn giản, thẳng thắn, có khi “còn nguyên thuỷ của người Nam Bộ”. Theo Nhà Phê bình Lê Xuân – Người dành nhiều thời gian, công sức để nghiên cứu và khám phá vẻ đẹp của văn hóa - văn nghệ dân gian Nam bộ thì sự nghiệp sáng tác của nhà thơ Nguyễn Đình Chiểu gắn liền với vận mệnh đất nước và nhân dân Nam Bộ trong một giai đoạn lịch sử đầy bi tráng. Thơ văn của ông là hơi thở, là ý tình của người dân Nam Bộ]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/hinh-anh-con-nguoi-nam-bo-qua-tho-van-nguyen-dinh-chieu-c54-34186.aspx</guid>
@@ -38,15 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/truyen-tho-luc-van-tien-trong-dan-gian-nam-bo-c54-34180.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2022_1/v2_061001_18h30_tim_trong_kho_bau_121202215.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 12 Jan 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>"Truyện Kiều" và "Lục Vân Tiên" - Tương đồng và ảnh hưởng
-  29/12/2021</title>
-      <link>http://vov6.vov.vn/tim-trong-kho-bau/truyen-kieu-va-luc-van-tien-tuong-dong-va-anh-huong-c54-34147.aspx</link>
-      <description><![CDATA[Cùng là những tác phẩm phổ biến và có tầm ảnh hưởng trong tâm thức dân gian, nếu “Truyện Kiều” của Đại thi hào Nguyễn Du được ca tụng là kiệt tác hàng đầu của văn học dân tộc ở mọi thời đại thì truyện thơ “Lục Vân Tiên” của nhà thơ Nguyễn Đình Chiểu từ đầu thế kỷ 20 đã được dân vùng lục tỉnh miền Nam hết sức tâm đắc và ưa chuộng. Sức sống, tinh thần của Lục Vân Tiên đến nay đã trở thành biểu tượng cho quan niệm sống “Giữa đàng thấy chuyện bất bình chẳng tha” của người Nam bộ. Và theo nhà thơ Lê Minh Quốc, tính cách nghĩa hiệp ấy trở thành lẽ sống, tinh thần phụng sự bất vụ lợi: “Làm ơn há dễ trông người trả ơn” và đã trở thành triết lý sống, di sản văn hóa của người Việt Nam ta]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/truyen-kieu-va-luc-van-tien-tuong-dong-va-anh-huong-c54-34147.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/v2_30120301_18h30_tim_trong_kho_bau_3012202115.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 29 Dec 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
