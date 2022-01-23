@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 23 Jan 2022 06:37:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 23 Jan 2022 14:19:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 23 Jan 2022 06:37:00 +0700</pubDate>
+    <pubDate>Sun, 23 Jan 2022 14:19:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Đoàn ĐBQH trao 500 phần quà cho phụ nữ có hoàn cảnh khó khăn - Thời sự 5g30 23/1/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/doan-dbqh-trao-500-phan-qua-cho-phu-nu-co-hoan-canh-kho-khan-thoi-su-5g30-23-1-2022-424514.html</link>
+      <description><![CDATA[07:19 - 23/01/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/doan-dbqh-trao-500-phan-qua-cho-phu-nu-co-hoan-canh-kho-khan-thoi-su-5g30-23-1-2022-424514.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/01/23/AMThoisu05h30p230122.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 23 Jan 2022 14:19:00 +0700</pubDate>
+    </item>
     <item>
       <title>TP Thủ Đức có đủ yếu tố tiềm năng phát triển, chỉ thiếu cơ chế thúc đẩy - Thời sự 11g 22/1/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tp-thu-duc-co-du-yeu-to-tiem-nang-phat-trien-chi-thieu-co-che-thuc-day-thoi-su-11g-22-1-2022-424491.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/so-van-hoa-the-thao-tphcm-day-manh-hoat-dong-van-hoa-doc-trong-cong-dong-thoi-su-17g00-22-1-2022-424489.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/01/22/amthoisu17h00p220122-20220122172333.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 23 Jan 2022 06:26:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Bước xoay chuyển cục diện thực hiện mục tiêu kép - Thời sự 5g30 2/1/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/buoc-xoay-chuyen-cuc-dien-thuc-hien-muc-tieu-kep-thoi-su-5g30-2-1-2022-424420.html</link>
-      <description><![CDATA[06:13 - 22/01/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/buoc-xoay-chuyen-cuc-dien-thuc-hien-muc-tieu-kep-thoi-su-5g30-2-1-2022-424420.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/01/22/amthoisu05h30p220122-20220121223355.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 22 Jan 2022 13:13:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
