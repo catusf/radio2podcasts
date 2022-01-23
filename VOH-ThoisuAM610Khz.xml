@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 23 Jan 2022 14:19:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 23 Jan 2022 18:48:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 23 Jan 2022 14:19:00 +0700</pubDate>
+    <pubDate>Sun, 23 Jan 2022 18:48:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Mai vàng đem lại vàng cho nông dân Bình Lợi - Thời sự 11g00 23/1/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/mai-vang-dem-lai-vang-cho-nong-dan-binh-loi-thoi-su-11g00-23-1-2022-424523.html</link>
+      <description><![CDATA[11:48 - 23/01/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/mai-vang-dem-lai-vang-cho-nong-dan-binh-loi-thoi-su-11g00-23-1-2022-424523.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/01/23/AMThoisu11h00p230122.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 23 Jan 2022 18:48:00 +0700</pubDate>
+    </item>
     <item>
       <title>Đoàn ĐBQH trao 500 phần quà cho phụ nữ có hoàn cảnh khó khăn - Thời sự 5g30 23/1/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/doan-dbqh-trao-500-phan-qua-cho-phu-nu-co-hoan-canh-kho-khan-thoi-su-5g30-23-1-2022-424514.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tp-thu-duc-co-du-yeu-to-tiem-nang-phat-trien-chi-thieu-co-che-thuc-day-thoi-su-11g-22-1-2022-424491.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/01/22/amthoisu11h00p220122-20220122103958.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 23 Jan 2022 06:37:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Sở Văn hóa Thể thao TPHCM: Đẩy mạnh hoạt động văn hóa đọc trong cộng đồng – Thời sự 17g00 22/1/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/so-van-hoa-the-thao-tphcm-day-manh-hoat-dong-van-hoa-doc-trong-cong-dong-thoi-su-17g00-22-1-2022-424489.html</link>
-      <description><![CDATA[23:26 - 22/01/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/so-van-hoa-the-thao-tphcm-day-manh-hoat-dong-van-hoa-doc-trong-cong-dong-thoi-su-17g00-22-1-2022-424489.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/01/22/amthoisu17h00p220122-20220122172333.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 23 Jan 2022 06:26:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
