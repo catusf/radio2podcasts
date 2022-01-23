@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 22 Jan 2022 13:13:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 23 Jan 2022 15:39:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 22 Jan 2022 13:13:00 +0700</pubDate>
+    <pubDate>Sun, 23 Jan 2022 15:39:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Sài Gòn buổi sáng - 23/1/2022</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-23-1-2022-424481.html</link>
+      <description><![CDATA[08:39 - 23/01/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-23-1-2022-424481.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/01/22/FMsaigonbuoisang06h00p230122.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 23 Jan 2022 15:39:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Sài Gòn buổi sáng - 22/1/2022</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-22-1-2022-424421.html</link>
       <description><![CDATA[06:13 - 22/01/2022]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-22-1-2022-424421.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/01/22/fmsaigonbuoisang06h00p220122-20220122010054.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 22 Jan 2022 13:13:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Việt Nam bác bỏ thông tin sai trái của Trung Quốc về dân quân tự vệ biển - Sài Gòn buổi sáng 21/01</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/viet-nam-bac-bo-thong-tin-sai-trai-cua-trung-quoc-ve-dan-quan-tu-ve-bien-sai-gon-buoi-sang-21-01-424387.html</link>
-      <description><![CDATA[06:00 - 21/01/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/viet-nam-bac-bo-thong-tin-sai-trai-cua-trung-quoc-ve-dan-quan-tu-ve-bien-sai-gon-buoi-sang-21-01-424387.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/01/21/fmsgbs06h00p210122-20220121150451.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 21 Jan 2022 13:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
