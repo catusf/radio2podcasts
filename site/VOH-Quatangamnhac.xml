@@ -24,6 +24,14 @@
     <itunes:subtitle>Quà tặng âm nhạc trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Quatangamnhac.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Lắng nghe mùa xuân về - Quà tặng âm nhạc 16/1/2022</title>
+      <link>https://radio.voh.com.vn/qua-tang-am-nhac/lang-nghe-mua-xuan-ve-qua-tang-am-nhac-16-1-2022-424590.html</link>
+      <description><![CDATA[10:00 - 16/01/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/lang-nghe-mua-xuan-ve-qua-tang-am-nhac-16-1-2022-424590.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/01/24/qtan-160122-re.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 16 Jan 2022 17:00:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Anh cho em mùa xuân - Quà tặng âm nhạc 23/1/2022</title>
       <link>https://radio.voh.com.vn/qua-tang-am-nhac/anh-cho-em-mua-xuan-qua-tang-am-nhac-23-1-2022-424535.html</link>
       <description><![CDATA[10:00 - 23/01/2022]]></description>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/khuc-giao-mua-qua-tang-am-nhac-26-12-2021-422164.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/12/26/qtan-261221.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 26 Dec 2021 17:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Bài ca người lính - Quà tặng âm nhạc 19/12/2021</title>
-      <link>https://radio.voh.com.vn/qua-tang-am-nhac/bai-ca-nguoi-linh-qua-tang-am-nhac-19-12-2021-421568.html</link>
-      <description><![CDATA[10:00 - 19/12/2021]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/bai-ca-nguoi-linh-qua-tang-am-nhac-19-12-2021-421568.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2021/12/19/qtan-191221.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 19 Dec 2021 17:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
