@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 20 Jan 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jan 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 20 Jan 2022 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 24 Jan 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,22 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Hy vọng từ vòng đàm phán đầu tiên giữa phương Tây và Taliban</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Cuộc đàm phán chính thức đầu tiên giữa đại diện chính quyền Taliban tại Afghanistan với các nước phương Tây đang diễn ra ở Oslo (Na-uy) với nội dung chính là bảo đảm quyền con người và viện trợ nhân đạo. Đại diện Taliban sẽ có các cuộc tiếp xúc với giới chức nước chủ nhà cùng quan chức các nước gồm Anh, Pháp, Đức, Italia, Mỹ và đại diện Liên minh Châu Âu. Theo ngoại trưởng Na Uy Anniken Huitfeldt, sự kiện này không đồng nghĩa với sự công nhận hay hợp pháp hóa lực lượng Taliban cầm quyền tại Afghanistan nhưng phía Taliban hy vọng, cuộc đàm phán này sẽ là cơ hội để “chuyển đổi bầu không khí chiến tranh sau hai thập kỷ chiến tranh chống lại lực lượng Tổ chức Hiệp ước Bắc Đại Tây Dương (NATO).]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/01/24/vovlive_vandequocte_hyvonglavongdamphandautiengiuaphuongtayvataliban.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 24 Jan 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Giữ vị trí Chủ tịch EU, Pháp xử lý quan hệ với Nga như thế nào?</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Sau hàng loạt cuộc gặp tuần trước mà không đạt tiến triển đáng kể, quan hệ giữa Châu Âu và Nga vẫn đang rất căng thẳng, nhất là xung quanh vấn đề Ukraine. Trong thời gian qua, Pháp cùng với Đức luôn nỗ lực tìm kiếm sự độc lập của Châu Âu trong quan hệ với Nga. Tuy nhiên vẫn gặp trở ngại là sự chia rẽ trong chính nội bộ Châu Âu. Vậy với việc đang giữ chức Chủ tịch luân phiên của Liên minh Châu Âu (EU), Pháp sẽ thể hiện vai trò như thế nào trong việc dẫn dắt mối quan hệ của khối với Nga?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/01/24/vovlive_vandequocte_giuvitrichuticheuphapxulyquanhevoinganhuthenao.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 21 Jan 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Một năm cầm quyền đầu tiên của Tổng thống Mỹ Joe Biden: Hành trình vượt “bão” khủng hoảng</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -38,22 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/01/19/vovlive_vandequocte_chuyencongdudaychonggaicuatanngoaitruongduc.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 19 Jan 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chuyến thăm Trung Đông của Tổng thống Hàn Quốc, nhằm thúc đẩy ngoại giao kinh tế</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Tổng thống Hàn Quốc Moon Jae-in đang có chuyến công du 8 ngày đến một loạt đối tác quan trọng tại Trung Đông gồm: Các Tiểu vương quốc Ả -rập thống nhất (UAE), Saudi Arabia và Ai Cập. Mở rộng hợp tác kinh doanh, đầu tư trong nhiều lĩnh vực chiến lược như chuỗi cung ứng năng lượng, hậu cần hàng hải, quốc phòng hay chuyển đổi số... là những nội dung chính dự kiến được bàn thảo trong các cuộc đối thoại giữa các nhà lãnh đạo. Theo giới quan sát, chuyến thăm một lần nữa khẳng định chiến lược phát huy “quyền lực mềm”, ngoại giao kinh tế mà Seoul đang theo đuổi tại khu vực này. Đồng thời, Seoul cũng muốn tạo những mối liên kết chặt chẽ với các đối tác chiến lược, trong bối cảnh nước láng giềng Triều Tiên liên tục thử tên lửa và phô trương sức mạnh.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/01/19/vovlive_vandequocte_chuyenthamtrungdongcuatongthonghanquoc.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 18 Jan 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Phân tích chính sách liên quan đến việc liên tiếp thử tên lửa của Triều Tiên</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Cùng với nhiều vấn đề quốc tế nóng khác, bán đảo Triều Tiên những ngày gần đây trở thành tâm điểm chú ý khi Triều Tiên tiến hành các vụ thử tên lửa. Trong khi Mỹ cùng 5 nước thành viên Liên Hợp Quốc bao gồm Albania, Pháp, Ireland, Nhật Bản và Anh ra tuyên bố chung lên án vụ thử tên lửa đạn đạo của Triều Tiên ngày 5/1, nước này tiến hành vụ thử tên lửa thứ hai chỉ trong chưa đầy một tuần qua. Mỹ, Hàn Quốc, Nhật Bản ngay lập tức xác minh thông tin này và bắt đầu nghiên cứu về loại vật liệu bay mà Triều Tiên vừa phóng thử. Trong khi đó, dư luận quốc tế đặt ra câu hỏi: Liệu Triều Tiên đang áp dụng chính sách “kiên nhẫn chiến lược” của mình, nghĩa là phớt lờ các biện pháp ngoại giao và những cảnh báo từ bên ngoài cho đến khi tình hình có lợi?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/01/12/vovlive_vandequocte_phantichchinhsachlienquandenvieclientiepthutenluacuatrieutien.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 12 Jan 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
