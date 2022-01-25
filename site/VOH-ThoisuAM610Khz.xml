@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 25 Jan 2022 03:09:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jan 2022 16:32:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 25 Jan 2022 03:09:00 +0700</pubDate>
+    <pubDate>Tue, 25 Jan 2022 16:32:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Tết sum vầy - Tết tiết kiệm – Thời sự 5g30 25/1/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tet-sum-vay-tet-tiet-kiem-thoi-su-5g30-25-1-2022-424683.html</link>
+      <description><![CDATA[09:32 - 25/01/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tet-sum-vay-tet-tiet-kiem-thoi-su-5g30-25-1-2022-424683.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/01/25/AMThoisu05h30p250122.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 25 Jan 2022 16:32:00 +0700</pubDate>
+    </item>
     <item>
       <title>Chủ tịch nước Nguyễn Xuân Phúc chúc Tết Công an TP và Bộ tư lệnh TPHCM - Thời sự 17g00 24/1/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/chu-tich-nuoc-nguyen-xuan-phuc-chuc-tet-cong-an-tp-va-bo-tu-lenh-tphcm-thoi-su-17g00-24-1-2022-424648.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tong-ket-cong-tac-ho-tro-nong-dan-thanh-pho-nam-2021-thoi-su-11g00-24-1-2022-424594.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/01/24/AMThoisu11h00p240122.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 24 Jan 2022 21:34:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chủ động chăm lo Tết cho người lao động sau dịch Covid-19 – Thời sự 5g30 24/1/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/chu-dong-cham-lo-tet-cho-nguoi-lao-dong-sau-dich-covid-19-thoi-su-5g30-24-1-2022-424550.html</link>
-      <description><![CDATA[07:19 - 24/01/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/chu-dong-cham-lo-tet-cho-nguoi-lao-dong-sau-dich-covid-19-thoi-su-5g30-24-1-2022-424550.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/01/24/AMThoisu05h30p240122.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 24 Jan 2022 14:19:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
