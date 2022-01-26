@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 20 Jan 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jan 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 20 Jan 2022 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 26 Jan 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,22 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>“Online Influencers” trong thúc đẩy hợp tác kinh tế số giữa Trung Quốc với các quốc gia láng giềng</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[“Bán hàng trực tuyến” hay “livestream bán hàng” là những cụm từ đã trở nên quen thuộc ở thời điểm hiện tại. Những người bán hàng hay giới thiệu sản phẩm trên không gian số hóa ngày nay hầu như không phải là những người làm ra sản phẩm, phân phối sản phẩm mà có thể là những người nổi tiếng, những người có ảnh hưởng trên mạng xã hội. Trong tiếng Anh họ được gọi là những “online influencers”, Trung Quốc là quốc gia đang phát triển mạnh mô hình này với nhiều người được biết đến như “nữ hoàng livestream” hay “ông vua bán hàng”… Theo dự báo, tiềm năng của thị trường này còn rất lớn. Trung Quốc còn đưa ra ý tưởng sẽ thúc đẩy hợp tác kinh tế số với các quốc gia láng giềng nhờ những influencers, cụ thể cách làm này ra sao?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/01/26/vovlive_sukienvabanluan_ban_hang_truc_tuyen.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 26 Jan 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>13 cổng chào tại Kon Tum đã thực sự cần thiết trong bối cảnh hiện nay?</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Trong lúc dịch bệnh COVID-19, đời sống người dân và doanh nghiệp còn nhiều khó khăn, thành phố Kon Tum, tỉnh Kon Tum đầu tư xây dựng 13 cổng chào với số tiền hơn 21 tỉ đồng, chủ yếu từ nguồn ngân sách nhà nước. Trong số này, có 5 cổng chào nằm trên đường Hồ Chí Minh được triển khai lắp đặt khi chưa được chấp thuận hồ sơ thiết kế. Dư luận cho rằng, việc xây dựng này có nhiều dấu hiệu lãng phí, tốn kém tiền của nhà nước. Hơn nữa, trong khi ngân sách bị thâm hụt do dịch bệnh kéo dài, đời sống người dân gặp nhiều khó khăn cho nên việc xây dựng các cổng chào như thế có thực sự cần thiết?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/01/26/vovlive_sukienvabanluan_13_cong_chao.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 21 Jan 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Quản lý quy hoạch đô thị để phát triển kinh tế - xã hội</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -38,22 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/01/18/vovlive_sukienvabanluan_nhung_diem_sang_trong_khu_do_thi_thong_minh_o_viet_nam.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 18 Jan 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>“Vòng tròn khép kín” có giúp Thế vận hội mùa Đông Bắc Kinh an toàn trước COVID-19?</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Chỉ còn gần 1 tháng nữa, Thế vận hội mùa Đông Bắc Kinh 2022 sẽ chính thức khai mạc. Để chuẩn bị các phương án tối ưu nhằm phòng dịch COVID-19 trước các mối nguy mới từ biến thể Omicron, Trung Quốc đã chính thức khởi động hệ thống quản lý khép kín - còn gọi là “vòng tròn” hay “bong bóng” khép kín. Mô hình này cụ thể như thế nào, liệu có giúp Bắc Kinh có một kỳ Olympic an toàn trước dịch bệnh?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/01/17/vovlive_sukienvabanluan_vong_trong_khep_kin.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 12 Jan 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Ứng phó với Omicron: Các nước thay đổi cách chống dịch như thế nào?</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Những làn sóng lây nhiễm mới, số ca mắc Covid-19 ở Mỹ, châu Âu với chuỗi ngày tăng kỷ lục vẫn chưa có dấu hiệu dừng lại... Tất cả đều được cho là do sự xuất hiện của biến thể mới Omicron. Tuy nhiên, sau hai năm chống dịch Covid-19, chính sách ứng phó của nhiều nước bắt đầu có sự thay đổi rõ rệt. Ngoại trừ Trung Quốc vẫn kiên trì mục tiêu “không Covid” thì hầu hết các quốc gia đều chuyển sang giải pháp vừa ứng phó, vừa sống chung với dịch...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/01/10/vovlive_sukienvabanluan_ung_pho_voi_omicron.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 10 Jan 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
