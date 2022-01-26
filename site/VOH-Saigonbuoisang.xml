@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 25 Jan 2022 16:31:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jan 2022 13:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 25 Jan 2022 16:31:00 +0700</pubDate>
+    <pubDate>Wed, 26 Jan 2022 13:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Chợ hoa Tết TPHCM khởi sắc, nhà vườn nhiều kỳ vọng - Sài Gòn buổi sáng 26/1/2022</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/cho-hoa-tet-tphcm-khoi-sac-nha-vuon-nhieu-ky-vong-sai-gon-buoi-sang-26-1-2022-424783.html</link>
+      <description><![CDATA[06:00 - 26/01/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/cho-hoa-tet-tphcm-khoi-sac-nha-vuon-nhieu-ky-vong-sai-gon-buoi-sang-26-1-2022-424783.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/01/26/sgbs-260122.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 26 Jan 2022 13:00:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Kỳ vọng mùa Tết sẽ tạo đà phục hồi mạnh mẽ cho du lịch Việt Nam 2022 - Sài Gòn buổi sáng 25/1/2022</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/ky-vong-mua-tet-se-tao-da-phuc-hoi-manh-me-cho-du-lich-viet-nam-2022-sai-gon-buoi-sang-25-1-2022-424682.html</link>
       <description><![CDATA[09:31 - 25/01/2022]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/ky-vong-mua-tet-se-tao-da-phuc-hoi-manh-me-cho-du-lich-viet-nam-2022-sai-gon-buoi-sang-25-1-2022-424682.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/01/25/fmsgbs06h00p250122.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 25 Jan 2022 16:31:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Các dấu hiệu chuyển nặng mà F0 điều trị tại nhà cần biết - Sài Gòn buổi sáng 24/1/2022</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/cac-dau-hieu-chuyen-nang-ma-f0-dieu-tri-tai-nha-can-biet-sai-gon-buoi-sang-24-1-2022-424570.html</link>
-      <description><![CDATA[09:11 - 24/01/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/cac-dau-hieu-chuyen-nang-ma-f0-dieu-tri-tai-nha-can-biet-sai-gon-buoi-sang-24-1-2022-424570.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/01/24/fmsgbs06h00p240122-20220124070421.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 24 Jan 2022 16:11:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
