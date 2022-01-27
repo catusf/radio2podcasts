@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 18 Jan 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jan 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 18 Jan 2022 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 27 Jan 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,15 @@
     </itunes:owner>
     <itunes:subtitle>Thể thao 7 ngày</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Thethao7ngay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Chương trình thể thao 7 ngày 22/01/2022</title>
+      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
+      <description><![CDATA[- Hàng loạt trường hợp dương tính với Covid-19 cộng thêm với chấn thương, thẻ phạt, đội tuyển Việt Nam buộc phải có những thay đổi ở trận đối đầu với Australia và tuyển Trung Quốc ở lượt trận vòng loại thứ 3 WC 2022 vào những ngày đầu năm. Vậy diện mạo mới có tuyển Việt Nam sẽ như thế nào? Liệu đội tuyển Việt Nam có hoàn thành được mục tiêu? 
+- Thể thao và cuộc sống: cùng tìm hiểu môn võ cổ truyền dân tộc, Võ Việt Nam tinh hoa võ Việt.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/01/27/vovlive_thethao7ngay_chuongtrinhthethao7ngay2212022.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 27 Jan 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Chương trình thể thao 7 ngày 16/01/2022</title>
       <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
@@ -51,17 +60,6 @@
       <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/01/04/vovlive_thethao7ngay_chuongtrinhthethao7ngay212022.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 04 Jan 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chương trình thể thao 7 ngày 26/12/2021</title>
-      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
-      <description><![CDATA[- Điểm các tin thể thao trong nước và quốc tế
-- Những hạn chế và điểm cần chỉnh sửa về chiến thuật cũng như nhân sự của tuyển Việt Nam trước trận bán kết lượt về với đội tuyển Thái Lan tại AFF CUP 2020
-- Những thông tin xoay quanh mối lo ngại của các cầu thủ bóng đá và giải thích lý do vì sao, vẫn có những vận động viên thể thao chuyên nghiệp từ chối tiêm vaccine Covid-19.
-- Những thay đổi về kỹ thuật công nghệ áp dụng lên những chiếc xe F1 trong mùa giải tới, sau sự kiện Mercedes công bố sự ra mắt của chiếc W13 - một dấu hiệu thể hiện sự quyết tâm "bại binh phục hận" trong mùa 2022...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/12/27/vovlive_thethao7ngay_chuongtrinhthethao7ngay26122021.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 27 Dec 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
