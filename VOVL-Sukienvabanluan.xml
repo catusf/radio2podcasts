@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 26 Jan 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jan 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 26 Jan 2022 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 27 Jan 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Liệu có sự cạnh tranh không lành mạnh trong cung cấp dịch vụ thu phí không dừng?</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Trải qua rất nhiều khó khăn, mục tiêu tất cả các trạm thu phí sử dụng đường bộ phải lắp đặt trạm thu phí không dừng mới thực hiện được.Tuy vậy chỉ sau thời gian ngắn, các trạm thu phí không dừng đang bộc lộ những bất cập: Chấp nhận thẻ của nhà cung cấp dịch vụ này, nhưng không chấp nhận thẻ của nhà cung cấp dịch vụ kia. Vì sao lại có câu chuyện này? Liệu có hay không thực trạng cạnh tranh không lành mạnh giữa các nhà cung cấp dịch vụ đầu cuối và đâu là giải pháp chấm dứt những vụ việc tương tự để không ảnh hưởng tới quyền lợi của các khách hàng?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/01/27/vovlive_sukienvabanluan_lieu_co_su_canh_tranh_k_lanh_manh.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 27 Jan 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>“Online Influencers” trong thúc đẩy hợp tác kinh tế số giữa Trung Quốc với các quốc gia láng giềng</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/01/20/vovlive_sukienvabanluan_luat_quy_hoach.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 20 Jan 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Những điểm sáng trong xu hướng đô thị thông minh ở Việt Nam</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Thành phố Sơn La tỉnh Sơn La vừa trở thành đơn vị mới nhất có tên trong danh sách các đô thị ứng dụng công nghệ điều hành thông minh ở nước ta. Một trung tâm điều hành đã được thiết lập và đây được xem là nền tảng để toàn thành phố thực hiện chuyển đổi số. Đâu sẽ là những thuận lợi và khó khăn trong quá trình chuyển đổi này của Sơn La? Những bài học từ các đô thị thông minh thành công như Đà Nẵng sẽ hỗ trợ ra sao cho những địa phương mới triển khai?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/01/18/vovlive_sukienvabanluan_nhung_diem_sang_trong_khu_do_thi_thong_minh_o_viet_nam.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 18 Jan 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

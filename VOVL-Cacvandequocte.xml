@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 26 Jan 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jan 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 26 Jan 2022 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 27 Jan 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Trung Quốc - Ấn Độ tăng tốc cạnh tranh ảnh hưởng tại Trung Á</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Với vị trí địa chiến lược quan trọng hàng đầu, khu vực Trung Á đang trở thành điểm nóng cạnh tranh ảnh hưởng của hai nước lớn là Trung Quốc và Ấn Độ. Chỉ hai ngày trước Hội nghị thượng đỉnh lần đầu tiên được tổ chức giữa Thủ tướng Ấn Độ Narendra Modi và lãnh đạo 5 nước Trung Á vào ngày 27/1, Bắc Kinh đã “đi trước một bước” khi tổ chức một hội nghị thượng đỉnh tương tự vào ngày 25/1. Đâu là tính toán của Trung Quốc và Ấn Độ tại những khu vực điểm nóng này. Những bước đi của các nước lớn đến các trục quan hệ trong khu vực là gì?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/01/27/vovlive_vandequocte_trungquocandotangtoccanhtranhanhhuongtaitrunga.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 27 Jan 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Tín hiệu tích cực về triển vọng cứu vãn thỏa thuận hạt nhân Iran</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/01/24/vovlive_vandequocte_hyvonglavongdamphandautiengiuaphuongtayvataliban.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 24 Jan 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Giữ vị trí Chủ tịch EU, Pháp xử lý quan hệ với Nga như thế nào?</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Sau hàng loạt cuộc gặp tuần trước mà không đạt tiến triển đáng kể, quan hệ giữa Châu Âu và Nga vẫn đang rất căng thẳng, nhất là xung quanh vấn đề Ukraine. Trong thời gian qua, Pháp cùng với Đức luôn nỗ lực tìm kiếm sự độc lập của Châu Âu trong quan hệ với Nga. Tuy nhiên vẫn gặp trở ngại là sự chia rẽ trong chính nội bộ Châu Âu. Vậy với việc đang giữ chức Chủ tịch luân phiên của Liên minh Châu Âu (EU), Pháp sẽ thể hiện vai trò như thế nào trong việc dẫn dắt mối quan hệ của khối với Nga?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/01/24/vovlive_vandequocte_giuvitrichuticheuphapxulyquanhevoinganhuthenao.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 21 Jan 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

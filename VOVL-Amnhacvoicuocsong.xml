@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 16 Jan 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 23 Jan 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 16 Jan 2022 19:00:00 +0700</pubDate>
+    <pubDate>Sun, 23 Jan 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,15 @@
     </itunes:owner>
     <itunes:subtitle>Âm nhạc với cuộc sống</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Amnhacvoicuocsong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>“Không ngừng nuôi dưỡng niềm đam mê nghệ thuật”: Thông điệp Nhạc sĩ Trần Nhật Bằng gửi tới các bạn nhỏ trong ca khúc “Thắp sáng những ngôi sao tương lai”</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[- Cùng thưởng thức ca khúc “Thắp sáng những ngôi sao tương lai” - ca khúc đoạt giải A-Giải thưởng Âm nhạc Việt Nam năm 2021 cho thể loại ca khúc thiếu nhi của nhạc sĩ Trần Nhật Bằng- Trưởng phòng Ca nhạc Thiếu nhi, Ban Âm nhạc VOV3 và cùng nghe những chia sẻ của anh về thông điệp và sự ra đời của tác phẩm này.
+- Hướng tới chào mừng 92 năm ngày thành lập Đảng Cộng sản Việt Nam (3/2/1930-3/2/2022) cùng thưởng thức ca khúc “Ta tự hào gọi tên Đảng ta” (Âm nhạc: Nhạc sĩ Võ Thiên Lan; Lời thơ: Trần Thế Tuyển) và cùng nghe những chia sẻ của nhạc sĩ Võ Thiên Lan về hoàn cảnh ra đời của tác phẩm âm nhạc này.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/01/26/vovlive_am_nhac_voi_cuoc_song_thap_sang_nhung_ngoi_sao_tuong_lai_tran_nhat_bang.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 23 Jan 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Nguyễn Thúy My: Nữ nghệ sĩ luôn nỗ lực phấn đấu hết mình cho công việc và nghệ thuật</title>
       <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
@@ -47,14 +56,6 @@
       <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2021/12/29/vovlive_am_nhac_voi_cuoc_song_ban_hung_ca_mot_thoi_kieu_hanh.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 28 Dec 2021 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>NSƯT Minh Thu gửi ước mơ, khát khao của những người lính trẻ qua Album "Đồng đội" kỷ niệm ngày Quân đội Nhân dân Việt Nam</title>
-      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[Kỷ niệm 77 năm Ngày thành lập Quân đội nhân dân (22/12) và 75 năm Ngày Toàn quốc kháng chiến (19/12), NSƯT Minh Thu ra mắt Album “Đồng đội”. Album với 12 ca khúc quen thuộc đã đi vào trái tim bao thế hệ như: “Ngày mai anh lên đường” (Thanh Trúc), “Em vẫn đợi anh về”, “Chút thơ tình lính biển”, “Đồng đội” (Hoàng Hiệp), “Một đời người một rừng cây” (Trần Long Ẩn); “Hát về anh” (Thế Hiển)... đã được nữ nghệ sĩ thể hiện qua chất liệu acoustic để có thể gần gũi hơn với giới trẻ… NSƯT Minh Thu chia sẻ: “Album là ước mơ, khát khao của những người lính trẻ, đôi khi chỉ đơn sơ như một mảnh vườn, gia đình, vợ con, những nụ cười ấm áp, hạnh phúc sau những ngày tháng gian lao, vất vả"…]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/12/23/vovlive_am_nhac_voi_cuoc_song_dong_doi_minh_thu.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 21 Dec 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
