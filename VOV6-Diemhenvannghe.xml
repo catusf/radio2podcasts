@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 24 Jan 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jan 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 24 Jan 2022 19:00:00 +0700</pubDate>
+    <pubDate>Fri, 28 Jan 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Điểm hẹn văn nghệ</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Diemhenvannghe.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Báo Văn nghệ số xuân Nhâm Dần 24/1/2022</title>
+      <title>"Một thoáng ta rực rỡ ở nhân gian": Sinh ra từ cái đẹp 28/1/2022</title>
+      <link>http://vov6.vov.vn/diem-hen-van-nghe/mot-thoang-ta-ruc-ro-o-nhan-gian-sinh-ra-tu-cai-dep-c158-34222.aspx</link>
+      <description><![CDATA[Khi nhắc về văn học của người Việt ở hải ngoại, một trong những cái tên không thể bỏ qua là Ocean Vuong. Anh ngay lập tức thu hút sự chú ý của giới chuyên môn và độc giả trên khắp thế giới với tập thơ “Trời đêm những vết thương xuyên thấu”. Tiểu thuyết đầu tay của Ocean Vuong, “Một thoáng ta rực rỡ ở nhân gian”, khi vừa phát hành đã lọt vào danh sách bán chạy nhất của tờ New York Times và được dịch sang 12 thứ tiếng. Gần đây, với cầu nối là Công ty Văn hóa & Truyền thông Nhã Nam, cuốn sách cũng đã đến tay độc giả Việt qua phần chuyển ngữ của dịch giả Khánh Nguyên.]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/mot-thoang-ta-ruc-ro-o-nhan-gian-sinh-ra-tu-cai-dep-c158-34222.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2022_1/gts_mot_thoang_ta_ruc_ro_hc_281202211.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 28 Jan 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Báo Văn nghệ số xuân Nhâm Dần  24/1/2022</title>
       <link>http://vov6.vov.vn/diem-hen-van-nghe/bao-van-nghe-so-xuan-nham-dan-c158-34204.aspx</link>
       <description><![CDATA[Văn nghệ số xuân Nhâm Dần có những sáng tác: GIAN NAN THÊM MỘT LẦN THỬ SỨC của Hải Đường; LỬA TỪ DÂN của Uông Ngọc Dậu; NHỮNG DẤU ẤN CỦA MỘT NỀN "NGOẠI GIAO CÂY TRE" của Ngọc Sơn; THỜI KỲ HẬU CORONA - LUÔN CÓ CƠ HỘI TRONG KHỦNG HOẢNG của Ts. Nguyễn Hoàng Dũng; NING NƠNG MÙA QUỲ TÀN của Văn Công Hùng; XUÂN NÀY TẾT NỌ của Nguyễn Hiệp; MÙA CÚC VÀNG HOA của Huỳnh Thạch Thảo; HOA CHI PÂU TRÊN ĐỈNH TÀ CHÌ NHÙ của Võ Bá Cường; NGƯỜI GIỜ NƠI NAO... của Trần Quỳnh Nga; NHỮNG NGƯỜI DỆT MÙA XUÂN của Hoàng Thanh Hương; CÁI GIÁ CỦA HÒA BÌNH của Trầm Hương; LẠI NHỚ TẾT XƯA của Nguyễn Minh Ngọc; TẾT TA của Lộc Bích Kiệm; TẾT CỒN CÚ NHỚ... LÂN KY của Trần Dũng; THƠ THẨN HOÀNG LIÊN của Nguyên An;]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/bao-van-nghe-so-xuan-nham-dan-c158-34204.aspx</guid>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/doc-radio-an-pham-chao-xuan-cua-vov6-c158-34200.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2022_1/gts_doc_radio_201202215.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 20 Jan 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>"Vẽ gì cũng là tự họa" - 60 năm cuộc đời đi vẽ của họa sĩ Trịnh Lữ  14/1/2022</title>
-      <link>http://vov6.vov.vn/diem-hen-van-nghe/ve-gi-cung-la-tu-hoa-60-nam-cuoc-doi-di-ve-cua-hoa-si-trinh-lu-c158-34188.aspx</link>
-      <description><![CDATA[Không phải lần đầu tiên dịch giả, họa sĩ Trịnh Lữ ra mắt một tuyển tập tranh. Tuy nhiên, “Vẽ gì cũng là tự họa” vẫn để lại một dấu ấn đặc biệt khi tập hợp các bức tranh mà họa sĩ Trịnh Lữ vẽ từ năm 1963 đến nay. Đây cũng là tác phẩm mở màn cho Tủ sách Mỹ thuật Việt Nam của Công ty Omega Plus, đồng thời cũng là chủ đề triển lãm cá nhân của ông diễn ra gần đây. Cuốn sách này có gì thú vị? Mời quý vị và các bạn cùng bước vào thế giới “Vẽ gì cũng là tự họa” của họa sĩ Trịnh Lữ qua bài viết của phóng viên chương trình.]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/ve-gi-cung-la-tu-hoa-60-nam-cuoc-doi-di-ve-cua-hoa-si-trinh-lu-c158-34188.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2022_1/gts_ve_gi_cung_la_tu_hoa_141202215.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 14 Jan 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
