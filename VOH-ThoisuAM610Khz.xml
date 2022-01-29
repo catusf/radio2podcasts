@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 29 Jan 2022 18:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 30 Jan 2022 00:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 29 Jan 2022 18:00:00 +0700</pubDate>
+    <pubDate>Sun, 30 Jan 2022 00:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Tuần thứ 4 liên tiếp TPHCM duy trì "vùng xanh" - Thời sự 17g00 29/01/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tuan-thu-4-lien-tiep-tphcm-duy-tri-vung-xanh-thoi-su-17g00-29-01-2022-425078.html</link>
+      <description><![CDATA[17:00 - 29/01/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tuan-thu-4-lien-tiep-tphcm-duy-tri-vung-xanh-thoi-su-17g00-29-01-2022-425078.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/01/29/AMThoisu17h00p290122.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 30 Jan 2022 00:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Hôm nay 29/1 (27 Tết): Khai mạc đường hoa, đường sách tết - Thời sự 11g00 29/01/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/hom-nay-29-1-27-tet-khai-mac-duong-hoa-duong-sach-tet-thoi-su-11g00-29-01-2022-425050.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/cac-phuong-an-tranh-un-tac-giao-thong-tai-tphcm-thoi-su-5g30-29-01-2022-425049.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/01/29/AMThoisu05h30p290122.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 29 Jan 2022 12:30:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Rạng ngời hình ảnh người thầy thuốc quân y – Thời sự 11g00 28/1/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/rang-ngoi-hinh-anh-nguoi-thay-thuoc-quan-y-thoi-su-11g00-28-1-2022-424964.html</link>
-      <description><![CDATA[10:55 - 28/01/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/rang-ngoi-hinh-anh-nguoi-thay-thuoc-quan-y-thoi-su-11g00-28-1-2022-424964.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/01/28/AMThoisu11h00p280122.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 28 Jan 2022 17:55:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
