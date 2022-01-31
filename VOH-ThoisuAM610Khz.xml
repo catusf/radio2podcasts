@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 31 Jan 2022 05:27:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 31 Jan 2022 19:17:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 31 Jan 2022 05:27:00 +0700</pubDate>
+    <pubDate>Mon, 31 Jan 2022 19:17:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Sự khác biệt giữa tết xưa và tết thời 4.0! - Thời sự 5g30 31/1/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/su-khac-biet-giua-tet-xua-va-tet-thoi-4-0-thoi-su-5g30-31-1-2022-425186.html</link>
+      <description><![CDATA[12:17 - 31/01/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/su-khac-biet-giua-tet-xua-va-tet-thoi-4-0-thoi-su-5g30-31-1-2022-425186.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/01/31/amthoisu05h30p310122-20220130223944-Copy.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 31 Jan 2022 19:17:00 +0700</pubDate>
+    </item>
     <item>
       <title>Nhu cầu mua sắm dịp Tết tăng cao, CPI tháng 1 tăng 1,94% so với cùng kỳ - Thời sự 17g00 30/1/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/nhu-cau-mua-sam-dip-tet-tang-cao-cpi-thang-1-tang-1-94-so-voi-cung-ky-thoi-su-17g00-30-1-2022-425153.html</link>
@@ -37,14 +45,6 @@
       <description><![CDATA[16:04 - 30/01/2022]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/no-luc-to-chuc-ky-sea-games-31-thanh-cong-an-toan-va-song-phang-thoi-su-11g00-30-1-2022-425148.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/01/30/amthoisu11h00p300122-20220130112405-Copy.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 30 Jan 2022 23:04:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Người dân thành phố trước thềm Xuân mới: đan xen nhiều cảm xúc - Thời sự 5g30 30/1/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/nguoi-dan-thanh-pho-truoc-them-xuan-moi-dan-xen-nhieu-cam-xuc-thoi-su-5g30-30-1-2022-425147.html</link>
-      <description><![CDATA[16:04 - 30/01/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/nguoi-dan-thanh-pho-truoc-them-xuan-moi-dan-xen-nhieu-cam-xuc-thoi-su-5g30-30-1-2022-425147.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/01/30/amthoisu05h30p300122-20220129232103-Copy.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 30 Jan 2022 23:04:00 +0700</pubDate>
     </item>
   </channel>
