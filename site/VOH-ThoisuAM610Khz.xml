@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 01 Feb 2022 01:11:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 01 Feb 2022 18:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 01 Feb 2022 01:11:00 +0700</pubDate>
+    <pubDate>Tue, 01 Feb 2022 18:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,28 +24,28 @@
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Thành phố xuất khẩu lô hàng đầu tiên 30.000 tấn sang Mỹ - Thời sự 11g00 1/2/2022 (Mùng 1 Tết)</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/thanh-pho-xuat-khau-lo-hang-dau-tien-30-000-tan-sang-my-thoi-su-11g00-1-2-2022-mung-1-tet-425222.html</link>
+      <description><![CDATA[11:00 - 01/02/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/thanh-pho-xuat-khau-lo-hang-dau-tien-30-000-tan-sang-my-thoi-su-11g00-1-2-2022-mung-1-tet-425222.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/02/01/ts11g-010222.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 01 Feb 2022 18:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Đón chào Xuân mới 2022 - Thời sự 05g30 1/2/2022 (Mùng 1 Tết)</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/don-chao-xuan-moi-2022-thoi-su-05g30-1-2-2022-mung-1-tet-425220.html</link>
+      <description><![CDATA[05:30 - 01/02/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/don-chao-xuan-moi-2022-thoi-su-05g30-1-2-2022-mung-1-tet-425220.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/02/01/ts05g30-010222.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 01 Feb 2022 12:30:00 +0700</pubDate>
+    </item>
+    <item>
       <title>TPHCM tiêm vaccine Covid-19 xuyên tết - Thời sự 17g00 31/1/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-tiem-vaccine-covid-19-xuyen-tet-thoi-su-17g00-31-1-2022-425195.html</link>
       <description><![CDATA[18:11 - 31/01/2022]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-tiem-vaccine-covid-19-xuyen-tet-thoi-su-17g00-31-1-2022-425195.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/01/31/amthoisu17h00p310122-20220131164742-Copy.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 01 Feb 2022 01:11:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Ngành nông nghiệp vững tin thắng lợi trong năm mới - Thời sự 11g00 31/1/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/nganh-nong-nghiep-vung-tin-thang-loi-trong-nam-moi-thoi-su-11g00-31-1-2022-425188.html</link>
-      <description><![CDATA[12:20 - 31/01/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/nganh-nong-nghiep-vung-tin-thang-loi-trong-nam-moi-thoi-su-11g00-31-1-2022-425188.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/01/31/amthoisu11h00p310122-20220131104608-Copy.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 31 Jan 2022 19:20:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Sự khác biệt giữa tết xưa và tết thời 4.0! - Thời sự 5g30 31/1/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/su-khac-biet-giua-tet-xua-va-tet-thoi-4-0-thoi-su-5g30-31-1-2022-425186.html</link>
-      <description><![CDATA[12:17 - 31/01/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/su-khac-biet-giua-tet-xua-va-tet-thoi-4-0-thoi-su-5g30-31-1-2022-425186.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/01/31/amthoisu05h30p310122-20220130223944-Copy.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 31 Jan 2022 19:17:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
