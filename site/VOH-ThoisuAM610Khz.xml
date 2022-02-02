@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 02 Feb 2022 00:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 02 Feb 2022 19:08:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 02 Feb 2022 00:00:00 +0700</pubDate>
+    <pubDate>Wed, 02 Feb 2022 19:08:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,28 +24,28 @@
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Ngày Xuân nói chuyện xuất hành đầu năm và bước đi của ngành giáo dục - Thời sự 11g00 2/2/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/ngay-xuan-noi-chuyen-xuat-hanh-dau-nam-va-buoc-di-cua-nganh-giao-duc-thoi-su-11g00-2-2-2022-425249.html</link>
+      <description><![CDATA[12:08 - 02/02/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/ngay-xuan-noi-chuyen-xuat-hanh-dau-nam-va-buoc-di-cua-nganh-giao-duc-thoi-su-11g00-2-2-2022-425249.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/02/02/AMThoisu11h00p020222ss.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 02 Feb 2022 19:08:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Ước vọng đầu năm của doanh nghiệp - Thời sự 05g30 2/2/2022 (Mùng 2 Tết)</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/uoc-vong-dau-nam-cua-doanh-nghiep-thoi-su-05g30-2-2-2022-mung-2-tet-425246.html</link>
+      <description><![CDATA[09:34 - 02/02/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/uoc-vong-dau-nam-cua-doanh-nghiep-thoi-su-05g30-2-2-2022-mung-2-tet-425246.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/02/02/AMThoisu05h30p020222AA.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 02 Feb 2022 16:34:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Hình tượng con cọp trong quan niệm văn hóa dân gian - Thời sự 17g00 1/2/2022 (Mùng 1 Tết)</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/hinh-tuong-con-cop-trong-quan-niem-van-hoa-dan-gian-thoi-su-17g00-1-2-2022-mung-1-tet-425235.html</link>
       <description><![CDATA[17:00 - 01/02/2022]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/hinh-tuong-con-cop-trong-quan-niem-van-hoa-dan-gian-thoi-su-17g00-1-2-2022-mung-1-tet-425235.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/02/01/ts17-010222.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 02 Feb 2022 00:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Thành phố xuất khẩu lô hàng đầu tiên 30.000 tấn sang Mỹ - Thời sự 11g00 1/2/2022 (Mùng 1 Tết)</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/thanh-pho-xuat-khau-lo-hang-dau-tien-30-000-tan-sang-my-thoi-su-11g00-1-2-2022-mung-1-tet-425222.html</link>
-      <description><![CDATA[11:00 - 01/02/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/thanh-pho-xuat-khau-lo-hang-dau-tien-30-000-tan-sang-my-thoi-su-11g00-1-2-2022-mung-1-tet-425222.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/02/01/ts11g-010222.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 01 Feb 2022 18:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đón chào Xuân mới 2022 - Thời sự 05g30 1/2/2022 (Mùng 1 Tết)</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/don-chao-xuan-moi-2022-thoi-su-05g30-1-2-2022-mung-1-tet-425220.html</link>
-      <description><![CDATA[05:30 - 01/02/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/don-chao-xuan-moi-2022-thoi-su-05g30-1-2-2022-mung-1-tet-425220.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/02/01/ts05g30-010222.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 01 Feb 2022 12:30:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
