@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 30 Jan 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 04 Feb 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 30 Jan 2022 19:00:00 +0700</pubDate>
+    <pubDate>Fri, 04 Feb 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Văn nghệ thiếu nhi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Vannghethieunhi.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Đọc truyện "Ông già Khốt-ta-bít" - Buổi mười một - Đụng đầu kẻ mách lẻo  30/1/2022</title>
+      <title>Tết sum vầy  4/2/2022</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/tet-sum-vay-c44-34237.aspx</link>
+      <description><![CDATA[Tết cổ truyền đã về với muôn nhà, ai ai cũng vui tươi và hạnh phúc, đón chào một cái Tết sum vầy, ấm áp. Các bạn có náo nức không nào! Chúc tất cả các bạn mến thân một năm mới thật nhiều sức khỏe, sáng tạo và gặt hái những kết quả tốt đẹp nhé. Hòa cùng không khí Tết sum vầy, hai cha con - nhà thơ Đoàn Văn Mật và bạn Đoàn Lữ Thụy Phương sẽ mang đến cùng chúng ta những câu chuyện, những vần thơ thật ấm áp... (Văn nghệ thiếu nhi 31/01/2022)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/tet-sum-vay-c44-34237.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2022_2/v2_3101_10h45_van_nghe_thieu_nhi_1_42202211.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 04 Feb 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Đọc truyện "Ông già Khốt-ta-bít" - Buổi mười một - Đụng đầu kẻ mách lẻo   30/1/2022</title>
       <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-ong-gia-khot-ta-bit-buoi-muoi-mot-dung-dau-ke-mach-leo-c44-34228.aspx</link>
       <description><![CDATA[Khi Vôn-ca chuẩn bị đưa quả đấm thép lên ngang mặt kẻ mách lẻo thì cậu ta đã nhanh chóng bỏ chạy. Ông già Khốt-ta-bít  định xuất hiện để an ủi Vôn-ca, nhưng nghĩ đi nghĩ lại ông cho rằng tốt nhất không nên xuất hiện lúc này, bởi những chuyện không vui mà Vôn-ca gặp phải trong ngày hôm nay đều liên quan đến ông. Vì thế ông Khốt-ta-bít mau lẹ biến vào khoảng không... (Văn nghệ thiếu nhi 30/01/2022)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-ong-gia-khot-ta-bit-buoi-muoi-mot-dung-dau-ke-mach-leo-c44-34228.aspx</guid>
@@ -37,14 +45,6 @@
       <description><![CDATA[Rời khỏi rạp chiếu phim với cảm giác tồi tệ, ông già Khốt-ta-bít theo chân cậu chủ nhân nhỏ tuổi vào quán nước. Khi những người bán hàng cúi chào họ thì ông già Khốt-ta-bít lại hiểu nhầm rằng đó là cử chỉ thể hiện sự xem thường Vôn-ca. Chính vì thế ông quyết định sẽ trừng phạt họ bằng cách biến họ thành chim sẻ... (Văn nghệ thiếu nhi 29/01/2022)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-ong-gia-khot-ta-bit-buoi-thu-10-tinh-huong-hieu-nham-c44-34227.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2022_1/v2_2901_10h4518h15_van_nghe_thieu_nhi_301202218.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 30 Jan 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đọc truyện "Ông già Khốt-ta-bít" - Buổi thứ chín - Vị cứu tinh trẻ tuổi    30/1/2022</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-ong-gia-khot-ta-bit-buoi-thu-chin-vi-cuu-tinh-tre-tuoi-c44-34226.aspx</link>
-      <description><![CDATA[Trong quá trình theo dõi cuốn truyện “Ông già Khốt-ta-bít” của nhà văn Nga La-ghin, chúng mình bắt gặp nhiều cụm từ như là: “hỡi viên kim cương trong tâm hồn ta”; “vị cứu tinh trẻ tuổi”; “người bạn trẻ tuổi”; “hỡi cậu thiếu niên đáng quý”… Đây là những câu nói thể hiện sự nâng niu, quý trọng của ông già Khốt-ta-bít dành cho cậu bé đã cứu ông khỏi chiếc lọ ngàn năm... (Văn nghệ thiếu nhi 28/01/2022)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-ong-gia-khot-ta-bit-buoi-thu-chin-vi-cuu-tinh-tre-tuoi-c44-34226.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2022_1/v2_2801_10h4518h15_van_nghe_thieu_nhi_301202218.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 30 Jan 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
