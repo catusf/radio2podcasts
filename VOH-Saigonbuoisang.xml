@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 03 Feb 2022 14:26:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 04 Feb 2022 14:03:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 03 Feb 2022 14:26:00 +0700</pubDate>
+    <pubDate>Fri, 04 Feb 2022 14:03:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Sài Gòn buổi sáng - 4/2/2022</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-4-2-2022-425315.html</link>
+      <description><![CDATA[07:03 - 04/02/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-4-2-2022-425315.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/02/04/FMSGBS06h00p040222.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 04 Feb 2022 14:03:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Sài Gòn buổi sáng - 3/2/2022</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-3-2-2022-425280.html</link>
       <description><![CDATA[07:26 - 03/02/2022]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-3-2-2022-425280.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/02/03/fmsgbs06h00p030222-20220129185541.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 03 Feb 2022 14:26:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Sài Gòn buổi sáng - 2/2/2022 (Mùng 2 Tết)</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-2-2-2022-mung-2-tet-425248.html</link>
-      <description><![CDATA[12:08 - 02/02/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-2-2-2022-mung-2-tet-425248.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/02/02/FMSGBS06h00p020222ss.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 02 Feb 2022 19:08:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
