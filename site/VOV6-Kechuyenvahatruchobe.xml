@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 30 Jan 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 06 Feb 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 30 Jan 2022 19:00:00 +0700</pubDate>
+    <pubDate>Sun, 06 Feb 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Kể chuyện và hát ru cho bé</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Kechuyenvahatruchobe.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Bí mật cất nhà giữa hồ (Phần 2)  30/1/2022</title>
+      <title>Tết bắt đầu từ bếp  6/2/2022</title>
+      <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/tet-bat-dau-tu-bep-c43-34242.aspx</link>
+      <description><![CDATA[Ngày Tết, nhà nhà sum vầy đầm ấm bên nhau, cùng ngắm những cành đào thật đẹp, cùng ăn bữa cơm vui vẻ, được mừng tuổi đầu năm. Tết đến từ đất trời, mùa xuân. Hẳn là vậy rồi. Tết còn đến từ một nơi thật gần, thật bận rộn và cũng thật ấm áp nữa... (Kể chuyện và hát ru 03/02/2022)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/tet-bat-dau-tu-bep-c43-34242.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2022_2/v2_0302_21h45_ke_chuyen_va_hat_ru_6220229.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 06 Feb 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Bí mật cất nhà giữa hồ (Phần 2)   30/1/2022</title>
       <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/bi-mat-cat-nha-giua-ho-phan-2-c43-34231.aspx</link>
       <description><![CDATA[Mây phải chấp nhận thử thách cất nhà giữa hồ cho tên chúa làng tham lam độc ác. Cậu vô cùng lo lắng. Trong giấc ngủ chập chờn, cậu mơ thấy chú cá sấu già muốn giúp đỡ mình. Giấc mơ ấy có ý nghĩa gì? Mây sẽ vượt qua được thử thách khó khăn này bằng cách nào? (Kể chuyện và hát ru 20/01/2022)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/bi-mat-cat-nha-giua-ho-phan-2-c43-34231.aspx</guid>
@@ -37,14 +45,6 @@
       <description><![CDATA[Cậu bé mồ côi nghèo khổ tên Mây phải đi làm thuê cho chúa làng tham lam độc ác. Một ngày nọ hắn yêu cầu Mây dựng một cái nhà thật to ở giữa hồ nước vừa sâu vừa nhiều xoáy nước để cho gia đình hắn ở. Mây sẽ xoay sở thế nào khi chỉ có hai bàn tay trắng? (Kể chuyện và hát ru 19/01/2022)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/bi-mat-cat-nha-giua-ho-phan-1-c43-34230.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2022_1/v2_192101_21h45_ke_chuyen_va_hat_ru_cho_be_moi_301202220.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 30 Jan 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Mưu trí bắt cướp   30/1/2022</title>
-      <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/muu-tri-bat-cuop-c43-34229.aspx</link>
-      <description><![CDATA[Thi thoảng có những người lợi dụng sơ hở của người khác để lấy trộm tài sản. Hành vi ấy rất đáng bị lên án. Song chúng ta cũng cần phải cẩn thận đề phòng, giữ gìn đồ đạc tài sản của mình. Có người thông minh dũng cảm còn lập mưu bắt được kẻ cắp đó... (Kể chuyện và hát ru 17/01/2022)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/muu-tri-bat-cuop-c43-34229.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2022_1/v2_1701_21h45_ke_chuyen_va_hat_ru_cho_be_301202218.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 30 Jan 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
