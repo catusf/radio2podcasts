@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 07 Feb 2022 13:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 08 Feb 2022 14:11:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 07 Feb 2022 13:00:00 +0700</pubDate>
+    <pubDate>Tue, 08 Feb 2022 14:11:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>2022 – năm để phục hồi - Sài Gòn buổi sáng 8/2/2022</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/2022-nam-de-phuc-hoi-sai-gon-buoi-sang-8-2-2022-425510.html</link>
+      <description><![CDATA[07:11 - 08/02/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/2022-nam-de-phuc-hoi-sai-gon-buoi-sang-8-2-2022-425510.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/02/08/fmsgbs06h00p080222-20220208064727.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 08 Feb 2022 14:11:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Từ 7/2, trẻ mầm non, tiểu học và lớp 6 sẽ đi học trực tiếp - Sài Gòn buổi sáng 7/2/2022</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/tu-7-2-tre-mam-non-tieu-hoc-va-lop-6-se-di-hoc-truc-tiep-sai-gon-buoi-sang-7-2-2022-425443.html</link>
       <description><![CDATA[06:00 - 07/02/2022]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/tu-7-2-tre-mam-non-tieu-hoc-va-lop-6-se-di-hoc-truc-tiep-sai-gon-buoi-sang-7-2-2022-425443.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/02/07/fmsgbs06h00p070222-20220207070247.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 07 Feb 2022 13:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Sài Gòn buổi sáng - 06/02/2022</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-06-02-2022-425392.html</link>
-      <description><![CDATA[06:00 - 06/02/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-06-02-2022-425392.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/02/06/FMsaigonbuoisang06h00p060222.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 06 Feb 2022 13:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
