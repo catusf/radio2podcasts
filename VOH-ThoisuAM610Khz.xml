@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 08 Feb 2022 00:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 08 Feb 2022 14:11:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 08 Feb 2022 00:00:00 +0700</pubDate>
+    <pubDate>Tue, 08 Feb 2022 14:11:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Họp mặt báo chí đầu năm Xuân Nhâm Dần 2022 – Thời sự 5g30 8/2/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/hop-mat-bao-chi-dau-nam-xuan-nham-dan-2022-thoi-su-5g30-8-2-2022-425509.html</link>
+      <description><![CDATA[07:11 - 08/02/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/hop-mat-bao-chi-dau-nam-xuan-nham-dan-2022-thoi-su-5g30-8-2-2022-425509.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/02/08/amthoisu05h30p080222-20220208001058.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 08 Feb 2022 14:11:00 +0700</pubDate>
+    </item>
     <item>
       <title>Không để tháng Giêng là tháng ăn chơi - Thời sự 17g00 07/02/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/khong-de-thang-gieng-la-thang-an-choi-thoi-su-17g00-07-02-2022-425490.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/ec-se-kiem-tra-viec-khac-phuc-the-vang-thuy-san-cua-viet-nam-thoi-su-11g00-07-02-2022-425474.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/02/07/AMThoisu11h00p070222.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 07 Feb 2022 18:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Công nhân sẽ được vay với lãi suất thấp để mua nhà ở xã hội - Thời sự 5g30 7/2/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/cong-nhan-se-duoc-vay-voi-lai-suat-thap-de-mua-nha-o-xa-hoi-thoi-su-5g30-7-2-2022-425447.html</link>
-      <description><![CDATA[06:00 - 07/02/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/cong-nhan-se-duoc-vay-voi-lai-suat-thap-de-mua-nha-o-xa-hoi-thoi-su-5g30-7-2-2022-425447.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/02/07/AMThoisu05h30p070222.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 07 Feb 2022 13:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
