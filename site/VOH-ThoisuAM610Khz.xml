@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 09 Feb 2022 19:38:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 10 Feb 2022 02:23:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 09 Feb 2022 19:38:00 +0700</pubDate>
+    <pubDate>Thu, 10 Feb 2022 02:23:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Thị trường vàng trong nước sôi động trước Ngày vía Thần Tài - Thời sự 17g00 9/2/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/thi-truong-vang-trong-nuoc-soi-dong-truoc-ngay-via-than-tai-thoi-su-17g00-9-2-2022-425625.html</link>
+      <description><![CDATA[19:23 - 09/02/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/thi-truong-vang-trong-nuoc-soi-dong-truoc-ngay-via-than-tai-thoi-su-17g00-9-2-2022-425625.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/02/09/AMThoisu17h00p090222.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 10 Feb 2022 02:23:00 +0700</pubDate>
+    </item>
     <item>
       <title>Chuẩn bị kỹ lưỡng cho việc tiêm vaccine phòng Covid-19 cho trẻ em - Thời sự 11g00 9/2/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/chuan-bi-ky-luong-cho-viec-tiem-vaccine-phong-covid-19-cho-tre-em-thoi-su-11g00-9-2-2022-425596.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/bai-hoc-doi-moi-cua-co-tong-bi-thu-truong-chinh-thoi-su-5g30-9-2-2022-425567.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/02/09/AMThoisu05h30p090222.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 09 Feb 2022 12:25:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Phó thủ tướng Vũ Đức Đam dự Giao ban báo chí đầu xuân Nhâm Dần 2022 - Thời sự 17g00 8/2/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/pho-thu-tuong-vu-duc-dam-du-giao-ban-bao-chi-dau-xuan-nham-dan-2022-thoi-su-17g00-8-2-2022-425554.html</link>
-      <description><![CDATA[20:35 - 08/02/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/pho-thu-tuong-vu-duc-dam-du-giao-ban-bao-chi-dau-xuan-nham-dan-2022-thoi-su-17g00-8-2-2022-425554.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/02/08/amthoisu17h00p080222-20220208165539.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 09 Feb 2022 03:35:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
