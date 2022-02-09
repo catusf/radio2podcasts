@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 08 Feb 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 09 Feb 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 08 Feb 2022 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 09 Feb 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Làm giàu từ trồng rừng</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA["Mùa xuân là Tết trồng cây. Làm cho đất nước càng ngày càng Xuân". Câu thơ của Chủ tịch Hồ Chí Minh khi phát động Tết trồng cây lần đầu tiên năm 1959 và nay đã trở thành phong trào lan tỏa khắp các địa phương trong cả nước. Đáng chú ý, trồng rừng không chỉ với mục tiêu vĩ mô là phủ xanh đất trống đồi trọc, cải thiện môi trường, giúp đất nước thêm xanh tươi, mà trồng rừng giờ đây giúp nhiều người dân thoát nghèo, vươn lên làm giàu.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/02/09/vovlive_sukienvabinhluan_mua_xuan_la_tet_trong_cay.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 09 Feb 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Mở cửa biên giới - bước ngoặt trong chính sách chống dịch của New Zealand</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/01/26/vovlive_sukienvabanluan_ban_hang_truc_tuyen.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 26 Jan 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>13 cổng chào tại Kon Tum đã thực sự cần thiết trong bối cảnh hiện nay?</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Trong lúc dịch bệnh COVID-19, đời sống người dân và doanh nghiệp còn nhiều khó khăn, thành phố Kon Tum, tỉnh Kon Tum đầu tư xây dựng 13 cổng chào với số tiền hơn 21 tỉ đồng, chủ yếu từ nguồn ngân sách nhà nước. Trong số này, có 5 cổng chào nằm trên đường Hồ Chí Minh được triển khai lắp đặt khi chưa được chấp thuận hồ sơ thiết kế. Dư luận cho rằng, việc xây dựng này có nhiều dấu hiệu lãng phí, tốn kém tiền của nhà nước. Hơn nữa, trong khi ngân sách bị thâm hụt do dịch bệnh kéo dài, đời sống người dân gặp nhiều khó khăn cho nên việc xây dựng các cổng chào như thế có thực sự cần thiết?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/01/26/vovlive_sukienvabanluan_13_cong_chao.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 21 Jan 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
