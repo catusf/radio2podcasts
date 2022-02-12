@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 12 Feb 2022 00:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 12 Feb 2022 12:30:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 12 Feb 2022 00:00:00 +0700</pubDate>
+    <pubDate>Sat, 12 Feb 2022 12:30:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>TPHCM mở rộng đối tượng nguy cơ từ 50 tuổi trở lên - Thời sự 05g30 12/2/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-mo-rong-doi-tuong-nguy-co-tu-50-tuoi-tro-len-thoi-su-05g30-12-2-2022-425833.html</link>
+      <description><![CDATA[05:30 - 12/02/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-mo-rong-doi-tuong-nguy-co-tu-50-tuoi-tro-len-thoi-su-05g30-12-2-2022-425833.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/02/12/ts05g30-120222.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 12 Feb 2022 12:30:00 +0700</pubDate>
+    </item>
     <item>
       <title>Hạnh phúc của người dân là niềm vui của người cán bộ - Thời sự 17g00 11/2/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/hanh-phuc-cua-nguoi-dan-la-niem-vui-cua-nguoi-can-bo-thoi-su-17g00-11-2-2022-425806.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/96-lao-dong-quay-tro-lai-tphcm-lam-viec-thoi-su-11g00-11-2-2022-425756.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/02/11/ts11g00-110222.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 11 Feb 2022 18:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>TPHCM sẵn sáng đón học sinh cấp 1 và mầm non đi học trở lại - Thời sự 05g30 11/2/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-san-sang-don-hoc-sinh-cap-1-va-mam-non-di-hoc-tro-lai-thoi-su-05g30-11-2-2022-425730.html</link>
-      <description><![CDATA[05:30 - 11/02/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-san-sang-don-hoc-sinh-cap-1-va-mam-non-di-hoc-tro-lai-thoi-su-05g30-11-2-2022-425730.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/02/11/ts05g30-110222.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 11 Feb 2022 12:30:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
