@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 12 Feb 2022 13:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 13 Feb 2022 13:11:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 12 Feb 2022 13:00:00 +0700</pubDate>
+    <pubDate>Sun, 13 Feb 2022 13:11:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Sài Gòn buổi sáng - 13/2/2022</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-13-2-2022-425881.html</link>
+      <description><![CDATA[06:11 - 13/02/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-13-2-2022-425881.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/02/13/FMsaigonbuoisang06h00p130222.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 13 Feb 2022 13:11:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Sài Gòn buổi sáng - 12/2/2022</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-12-2-2022-425835.html</link>
       <description><![CDATA[06:00 - 12/02/2022]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-12-2-2022-425835.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/02/12/sgbs-120222.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 12 Feb 2022 13:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Giá hoa hồng Đà Lạt chuẩn bị cho ngày Valentine tăng gấp từ 2-3 lần - Sài Gòn buổi sáng 11/2/2022</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/gia-hoa-hong-da-lat-chuan-bi-cho-ngay-valentine-tang-gap-tu-2-3-lan-sai-gon-buoi-sang-11-2-2022-425731.html</link>
-      <description><![CDATA[06:00 - 11/02/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/gia-hoa-hong-da-lat-chuan-bi-cho-ngay-valentine-tang-gap-tu-2-3-lan-sai-gon-buoi-sang-11-2-2022-425731.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/02/11/SGBS-110222.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 11 Feb 2022 13:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
