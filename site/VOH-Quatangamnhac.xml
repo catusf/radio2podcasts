@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 06 Feb 2022 17:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 13 Feb 2022 17:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 06 Feb 2022 17:00:00 +0700</pubDate>
+    <pubDate>Sun, 13 Feb 2022 17:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Quà tặng âm nhạc trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Quatangamnhac.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Có nhau trọn đời - Quà tặng âm nhạc 13/2/2022</title>
+      <link>https://radio.voh.com.vn/qua-tang-am-nhac/co-nhau-tron-doi-qua-tang-am-nhac-13-2-2022-425888.html</link>
+      <description><![CDATA[10:00 - 13/02/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/co-nhau-tron-doi-qua-tang-am-nhac-13-2-2022-425888.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/02/13/QTAN-130222.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 13 Feb 2022 17:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Như hoa mùa xuân - Quà tặng âm nhạc 6/2/2022</title>
       <link>https://radio.voh.com.vn/qua-tang-am-nhac/nhu-hoa-mua-xuan-qua-tang-am-nhac-6-2-2022-425495.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/anh-cho-em-mua-xuan-qua-tang-am-nhac-23-1-2022-424535.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/01/23/qtan-230122.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 23 Jan 2022 17:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đi để trở về - Quà tặng âm nhạc 9/1/2022</title>
-      <link>https://radio.voh.com.vn/qua-tang-am-nhac/di-de-tro-ve-qua-tang-am-nhac-9-1-2022-423392.html</link>
-      <description><![CDATA[10:00 - 09/01/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/di-de-tro-ve-qua-tang-am-nhac-9-1-2022-423392.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/01/09/qtan-090122.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 09 Jan 2022 17:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
