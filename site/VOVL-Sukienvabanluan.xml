@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 09 Feb 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 10 Feb 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 09 Feb 2022 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 10 Feb 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Tranh cãi vì mỏ vàng 400 năm tuổi: Nhật Bản, Hàn Quốc khó thoát “bóng” quá khứ!</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Nhật Bản và Hàn Quốc là hai nước láng giềng Đông Bắc Á, đều là đồng minh chiến lược của Mỹ ở châu Á, song bản thân hai nước còn nhiều mâu thuẫn và bất đồng liên quan đến những vấn đề lịch sử. Gần đây mối quan hệ giữa hai nước trở nên căng thẳng hơn, bắt nguồn từ một mỏ vàng 400 năm tuổi trên đảo Sado, thuộc Nhật Bản...... Chính phủ Nhật Bản mới đây đã chính thức trình hồ sơ đề cử mỏ Sado lên Trung tâm di sản thế giới của UNESCO. Điều này làm dấy lên sự phản đối mạnh mẽ từ phía Hàn Quốc. Diễn biến của những động thái này như thế nào? Cái “bóng” quá khứ liệu sẽ ảnh hưởng đến lợi ích tương lai của hai nước ra sao?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/02/10/vovlive_sukienvabanluan_tranh_cai_mo_vang_400_nam_tuoi.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 10 Feb 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Làm giàu từ trồng rừng</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/01/27/vovlive_sukienvabanluan_lieu_co_su_canh_tranh_k_lanh_manh.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 27 Jan 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>“Online Influencers” trong thúc đẩy hợp tác kinh tế số giữa Trung Quốc với các quốc gia láng giềng</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[“Bán hàng trực tuyến” hay “livestream bán hàng” là những cụm từ đã trở nên quen thuộc ở thời điểm hiện tại. Những người bán hàng hay giới thiệu sản phẩm trên không gian số hóa ngày nay hầu như không phải là những người làm ra sản phẩm, phân phối sản phẩm mà có thể là những người nổi tiếng, những người có ảnh hưởng trên mạng xã hội. Trong tiếng Anh họ được gọi là những “online influencers”, Trung Quốc là quốc gia đang phát triển mạnh mô hình này với nhiều người được biết đến như “nữ hoàng livestream” hay “ông vua bán hàng”… Theo dự báo, tiềm năng của thị trường này còn rất lớn. Trung Quốc còn đưa ra ý tưởng sẽ thúc đẩy hợp tác kinh tế số với các quốc gia láng giềng nhờ những influencers, cụ thể cách làm này ra sao?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/01/26/vovlive_sukienvabanluan_ban_hang_truc_tuyen.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 26 Jan 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
