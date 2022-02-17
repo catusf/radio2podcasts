@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 16 Feb 2022 14:51:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 17 Feb 2022 13:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 16 Feb 2022 14:51:00 +0700</pubDate>
+    <pubDate>Thu, 17 Feb 2022 13:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Giá xăng dầu tăng cao tác động đến tăng trưởng - Sài Gòn buổi sáng 17/02/2022</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/gia-xang-dau-tang-cao-tac-dong-den-tang-truong-sai-gon-buoi-sang-17-02-2022-426265.html</link>
+      <description><![CDATA[06:00 - 17/02/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/gia-xang-dau-tang-cao-tac-dong-den-tang-truong-sai-gon-buoi-sang-17-02-2022-426265.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/02/17/fmsgbs06h00p170222-202202170627161.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 17 Feb 2022 13:00:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Năm nay, bão và nắng nóng đến muộn - Sài Gòn buổi sáng 16/2/2022</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/nam-nay-bao-va-nang-nong-den-muon-sai-gon-buoi-sang-16-2-2022-426133.html</link>
       <description><![CDATA[07:51 - 16/02/2022]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/nam-nay-bao-va-nang-nong-den-muon-sai-gon-buoi-sang-16-2-2022-426133.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/02/16/fmsgbs06h00p160222-20220216070205.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 16 Feb 2022 14:51:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Thị trường lao động sôi động trở lại - Sài Gòn buổi sáng 15/2/2022</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/thi-truong-lao-dong-soi-dong-tro-lai-sai-gon-buoi-sang-15-2-2022-426055.html</link>
-      <description><![CDATA[09:19 - 15/02/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/thi-truong-lao-dong-soi-dong-tro-lai-sai-gon-buoi-sang-15-2-2022-426055.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/02/15/fmsgbs06h00p150222-20220215063404.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 15 Feb 2022 16:19:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
