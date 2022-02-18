@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 17 Feb 2022 18:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 18 Feb 2022 00:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 17 Feb 2022 18:00:00 +0700</pubDate>
+    <pubDate>Fri, 18 Feb 2022 00:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Thông báo toàn cầu mở tất cả đường bay quốc tế đến Việt Nam - Thời sự 17g00 17/02/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/thong-bao-toan-cau-mo-tat-ca-duong-bay-quoc-te-den-viet-nam-thoi-su-17g00-17-02-2022-426291.html</link>
+      <description><![CDATA[17:00 - 17/02/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/thong-bao-toan-cau-mo-tat-ca-duong-bay-quoc-te-den-viet-nam-thoi-su-17g00-17-02-2022-426291.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/02/17/AMThoisu17h00p170222.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 18 Feb 2022 00:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Ngày 15/3/2022 sẽ mở cửa lại hoạt động du lịch đón khách quốc tế - Thời sự 5g30 17/02/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/ngay-15-3-2022-se-mo-cua-lai-hoat-dong-du-lich-don-khach-quoc-te-thoi-su-5g30-17-02-2022-426266.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/bo-xay-dung-siet-quan-ly-nha-o-xa-hoi-thoi-su-11g00-17-02-2022-426264.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/02/17/AMThoisu11h00p170222.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 17 Feb 2022 18:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>“Vòng tay yêu thương” hỗ trợ pháp lý cho trẻ mồ côi do dịch Covid-19 – Thời sự 17g00 16/2/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/vong-tay-yeu-thuong-ho-tro-phap-ly-cho-tre-mo-coi-do-dich-covid-19-thoi-su-17g00-16-2-2022-426204.html</link>
-      <description><![CDATA[17:44 - 16/02/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/vong-tay-yeu-thuong-ho-tro-phap-ly-cho-tre-mo-coi-do-dich-covid-19-thoi-su-17g00-16-2-2022-426204.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/02/16/AMThoisu17h00p160222.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 17 Feb 2022 00:44:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
