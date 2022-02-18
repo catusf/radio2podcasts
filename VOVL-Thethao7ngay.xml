@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 27 Jan 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 17 Feb 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 27 Jan 2022 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 17 Feb 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,27 @@
     </itunes:owner>
     <itunes:subtitle>Thể thao 7 ngày</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Thethao7ngay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Chương trình thể thao 7 ngày 6/02/2022</title>
+      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
+      <description><![CDATA[- "For a Stronger South East Asia" vì một Đông Nam Á mạnh mẽ hơn. Đó là khẩu hiệu đón chào xuân mới của thể thao nước ta và thời điểm kết thúc kỳ nghỉ tết Nguyên đán Nhâm Dần cũng chính thức bắt đầu đếm ngược quỹ thời gian 100 ngày đến lễ khai mạc SEA GAME 31. Vui xuân mới nhưng không quên nhiệm vụ, công tác tổ chức đại hội thể thao đảm bảo tiến độ khu vực ra sao?
+- Gặp gỡ tiền vệ Nguyễn Hải Huy trong thể thao và cuộc sống để hiểu rõ hơn về câu chuyện quay xe đình đám, về nhiệm vụ mới tại Hải Phòng FC cũng như nỗi khắc khoải dành cho bóng đá đất mỏ.
+- Kiến thức thể thao cung cấp thông tin về Olimpic mùa đông.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/02/17/vovlive_thethao7ngay_chuongtrinhthethao7ngay622022.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 17 Feb 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Chương trình thể thao 7 ngày 30/01/2022</title>
+      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
+      <description><![CDATA[- Điểm lại các chương trình thể thao trong nước và ngoài nước nổi bật tuần qua.
+- Điểm nhấn thể thao đề cập những hạn chế và điểm cần chỉnh sửa về chiến thuật cũng như nhân sự của đội tuyển Việt Nam trước thềm trận đấu với tuyển Trung Quốc.
+- Nỗi ám ảnh chấn thương của cựu thần đồng bóng đá Anh và các cầu thủ chuyên nghiệp.
+- Lý giải lý do vì sao siêu sao người Achentina - Mesi luôn chật vật thích nghi với môi trường bóng mới tại Pháp.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/02/17/vovlive_thethao7ngay_chuongtrinhthethao7ngay3012022.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 17 Feb 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Chương trình thể thao 7 ngày 22/01/2022</title>
       <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
@@ -41,25 +62,6 @@
       <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/01/18/vovlive_thethao7ngay_chuongtrinhthethao7ngay1612022.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 18 Jan 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chương trình thể thao 7 ngày 8/01/2022</title>
-      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
-      <description><![CDATA[- Những sự kiện thể thao nổi bật tuần qua. 
-- Sự chuẩn bị của đội tuyển nữ Việt Nam cho giấc mơ tham dự World Cup với vị khách mới là huấn luyện viên trưởng đội tuyển nữ Việt Nam Ông Mai Đức Chung.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/01/18/vovlive_thethao7ngay_chuongtrinhthethao7ngay812022.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 18 Jan 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chương trình thể thao 7 ngày 1/1/2022</title>
-      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
-      <description><![CDATA[- Bức tranh 2021 của thể thao Việt Nam có khá ít những gam màu tươi sáng để rồi kết thúc bằng nút trầm khi đội tuyển bóng đá quốc gia không bảo vệ thành công danh hiệu vô địch Đông Nam Á. Bên cạnh việc thầy trò huấn luyện viên Park Hang Seo dừng chân ở bán kết AFF CUP, thể thao nước ta còn không có bất kỳ tấm huy chương nào tại Olimpic Tokyo, chưa kể sự hụt hẫng khi V-Leagua bị hủy giữa chừng. Cùng nhìn lại những điều hài lòng và chưa hài lòng năm vừa qua để rút ra những bài học kinh nghiệm hướng tới năm 2022, đầy ắp các sự kiện thể thao rất được chờ đợi. 
-- Gặp gỡ 2 tuyển thủ điền kinh Phạm Thị Huệ và Bùi Thị Thu Thảo để lắng nghe câu chuyện thể thao và cuộc sống từ những nhà vô địch khu vực châu lục, đồng thời cũng là những bà mẹ bỉm sữa. 
-- Nhìn lại những sự kiện thể thao nổi bật nhất trong 365 này qua...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/01/04/vovlive_thethao7ngay_chuongtrinhthethao7ngay212022.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 04 Jan 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
