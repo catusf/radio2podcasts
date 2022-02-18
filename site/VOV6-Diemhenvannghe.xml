@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 14 Feb 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 18 Feb 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 14 Feb 2022 19:00:00 +0700</pubDate>
+    <pubDate>Fri, 18 Feb 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Điểm hẹn văn nghệ</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Diemhenvannghe.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Báo Văn nghệ số 7 ra ngày 12/2/2022  14/2/2022</title>
+      <title>“Yêu sách của Antigone: Thân tộc giữa sự sống và cái chết 18/2/2022</title>
+      <link>http://vov6.vov.vn/diem-hen-van-nghe/yeu-sach-cua-antigone-than-toc-giua-su-song-va-cai-chet-c158-34271.aspx</link>
+      <description><![CDATA[“Yêu sách của Antigone” là tác phẩm cô đúc các bài giảng của học giả Judith Butler tại các trường đại học lớn như Đại học California, Cornell và Princeton năm 1998, bàn về tác phẩm kinh điển “Antigone” của Sophocles dưới góc độ nữ quyền. Vở kịch, nằm trong bộ 3 câu chuyện thành Thebes, kể về gia đình bi thương của ông vua Oedipus-kẻ đã giết cha lấy mẹ, số phận cô con gái Antigone (kết quả của mối tình oan nghiệt này) và bi kịch của nàng. “Yêu sách của Antigone” được đánh giá là “một trong những tác phẩm quan trọng nhất của giới học thuật trong 50 năm qua]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/yeu-sach-cua-antigone-than-toc-giua-su-song-va-cai-chet-c158-34271.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2022_2/gts_yeu_sach_cua_antigone_182202211.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 18 Feb 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Báo Văn nghệ số 7 ra ngày 12/2/2022   14/2/2022</title>
       <link>http://vov6.vov.vn/diem-hen-van-nghe/bao-van-nghe-so-7-ra-ngay-1222022-c158-34259.aspx</link>
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/bao-van-nghe-so-7-ra-ngay-1222022-c158-34259.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2022_2/diem_bao_van_nghe_142202215.mp3" length="0" type="audio/mpeg"/>
@@ -37,14 +45,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/nguon-coi-chuyen-ve-nhung-nguoi-hai-que-huong-c158-34256.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2022_2/gts_nguon_coi_hc_14220228.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 14 Feb 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Tùy bút "Lửa từ dân"  9/2/2022</title>
-      <link>http://vov6.vov.vn/diem-hen-van-nghe/tuy-but-lua-tu-dan-c158-34250.aspx</link>
-      <description><![CDATA[Như ngọn lửa xà nu một thuở, những bếp lửa lòng dân được nhen lên khắp mọi miền trong những ngày đất nước dập dồn thiên tai dịch họa, tỏa rạng nghĩa đồng bào-tình dân tộc. Qua đây mới thấy, sức dân quan trọng đến nhường nào, đúng như Chủ tịch Hồ Chí Minh từng nói “Dễ trăm lần không dân cũng chịu, khó vạn lần dân liệu cũng xong”. Chuyện muôn đời là sức dân-vận nước, sức dân xoay chuyển vận nước, tạo thế nước. Qua thăng trầm lịch sử, kết tinh thành thứ văn hóa, bền bỉ, lớn lao không thể cân đong đo đếm…Trong những ngày đầu xuân năm mới, chúng ta cùng ngẫm nghĩ về sức dân qua tùy bút “Lửa từ dân” của nhà báo Uông Ngọc Dậu]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/tuy-but-lua-tu-dan-c158-34250.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2022_2/lua_tu_dan_92202210.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 09 Feb 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
