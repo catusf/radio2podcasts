@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 18 Feb 2022 19:07:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 19 Feb 2022 03:41:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 18 Feb 2022 19:07:00 +0700</pubDate>
+    <pubDate>Sat, 19 Feb 2022 03:41:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Cải cách hành chính TPHCM năm 2021 có nhiều điểm sáng - Thời sự 17g00 18/2/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/cai-cach-hanh-chinh-tphcm-nam-2021-co-nhieu-diem-sang-thoi-su-17g00-18-2-2022-426383.html</link>
+      <description><![CDATA[20:41 - 18/02/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/cai-cach-hanh-chinh-tphcm-nam-2021-co-nhieu-diem-sang-thoi-su-17g00-18-2-2022-426383.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/02/18/AMThoisu17h00p180222sss.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 19 Feb 2022 03:41:00 +0700</pubDate>
+    </item>
     <item>
       <title>Phát huy vai trò tuổi trẻ của sinh viên ngành y trong phòng chống dịch - Thời sự 11g00 18/2/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/phat-huy-vai-tro-tuoi-tre-cua-sinh-vien-nganh-y-trong-phong-chong-dich-thoi-su-11g00-18-2-2022-426339.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/cho-hoc-sinh-di-hoc-tro-lai-kho-may-cung-phai-lam-thoi-su-5g30-18-2-2022-426331.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/02/18/AMThoisu05h30p180222ss.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 18 Feb 2022 18:29:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Thông báo toàn cầu mở tất cả đường bay quốc tế đến Việt Nam - Thời sự 17g00 17/02/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/thong-bao-toan-cau-mo-tat-ca-duong-bay-quoc-te-den-viet-nam-thoi-su-17g00-17-02-2022-426291.html</link>
-      <description><![CDATA[17:00 - 17/02/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/thong-bao-toan-cau-mo-tat-ca-duong-bay-quoc-te-den-viet-nam-thoi-su-17g00-17-02-2022-426291.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/02/17/AMThoisu17h00p170222.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 18 Feb 2022 00:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
