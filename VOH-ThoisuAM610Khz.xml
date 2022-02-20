@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 20 Feb 2022 12:30:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 21 Feb 2022 01:09:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 20 Feb 2022 12:30:00 +0700</pubDate>
+    <pubDate>Mon, 21 Feb 2022 01:09:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Thành phố Thủ Đức quyết tâm triển khai nhanh các dự án trọng điểm - Thời sự 17g 20/2/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/thanh-pho-thu-duc-quyet-tam-trien-khai-nhanh-cac-du-an-trong-diem-thoi-su-17g-20-2-2022-426499.html</link>
+      <description><![CDATA[18:09 - 20/02/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/thanh-pho-thu-duc-quyet-tam-trien-khai-nhanh-cac-du-an-trong-diem-thoi-su-17g-20-2-2022-426499.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/02/20/AMThoisu17h00p200222.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 21 Feb 2022 01:09:00 +0700</pubDate>
+    </item>
     <item>
       <title>Trong khó khăn vẫn ngời niềm tin chiến thắng - Thời sự 05g30 20/2/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/trong-kho-khan-van-ngoi-niem-tin-chien-thang-thoi-su-05g30-20-2-2022-426466.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/nhieu-cay-xang-o-tphcm-khong-gioi-han-luong-ban-thoi-su-17g00-19-2-2022-426442.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/02/19/ts17-190222.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 20 Feb 2022 00:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chủ động ngăn chặn các hành vi vi phạm về vũ khí, vật liệu nổ - Thời sự 11g00 19/2/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/chu-dong-ngan-chan-cac-hanh-vi-vi-pham-ve-vu-khi-vat-lieu-no-thoi-su-11g00-19-2-2022-426420.html</link>
-      <description><![CDATA[11:00 - 19/02/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/chu-dong-ngan-chan-cac-hanh-vi-vi-pham-ve-vu-khi-vat-lieu-no-thoi-su-11g00-19-2-2022-426420.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/02/19/ts11g-190222.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 19 Feb 2022 18:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
