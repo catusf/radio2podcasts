@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 14 Feb 2022 03:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 21 Feb 2022 03:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 14 Feb 2022 03:00:00 +0700</pubDate>
+    <pubDate>Mon, 21 Feb 2022 03:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sóng điện ảnh trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Songdienanh.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Giao lưu cùng đoàn phim "Người tình" - Khung hình thứ 25 20/2/2022</title>
+      <link>https://radio.voh.com.vn/khung-hinh-thu-25/giao-luu-cung-doan-phim-nguoi-tinh-khung-hinh-thu-25-20-2-2022-426523.html</link>
+      <description><![CDATA[20:00 - 20/02/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/khung-hinh-thu-25/giao-luu-cung-doan-phim-nguoi-tinh-khung-hinh-thu-25-20-2-2022-426523.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/02/21/khunghinh-200222.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 21 Feb 2022 03:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Giao lưu cùng đoàn phim "Bẫy ngọt ngào" - Khung hình thứ 25 13/2/2022</title>
       <link>https://radio.voh.com.vn/khung-hinh-thu-25/giao-luu-cung-doan-phim-bay-ngot-ngao-khung-hinh-thu-25-13-2-2022-425943.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/khung-hinh-thu-25/tu-dai-thien-vuong-thanh-xuan-ngot-ngao-ky-cuoi-khung-hinh-thu-25-23-1-2022-424587.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/01/24/khunghinh-230122.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 24 Jan 2022 03:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Tứ đại thiên vương thanh xuân ngọt ngào (Kỳ 4) - Khung hình thứ 25 16/1/2022</title>
-      <link>https://radio.voh.com.vn/khung-hinh-thu-25/tu-dai-thien-vuong-thanh-xuan-ngot-ngao-ky-4-khung-hinh-thu-25-16-1-2022-423969.html</link>
-      <description><![CDATA[20:00 - 16/01/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/khung-hinh-thu-25/tu-dai-thien-vuong-thanh-xuan-ngot-ngao-ky-4-khung-hinh-thu-25-16-1-2022-423969.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/01/16/khunghinh-160122.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 17 Jan 2022 03:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
