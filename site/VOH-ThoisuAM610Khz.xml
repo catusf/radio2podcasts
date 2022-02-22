@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 22 Feb 2022 13:07:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 22 Feb 2022 18:18:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 22 Feb 2022 13:07:00 +0700</pubDate>
+    <pubDate>Tue, 22 Feb 2022 18:18:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Tác động giá xăng dầu tới lạm phát và tăng trưởng – Thời sự 11g00 22/2/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tac-dong-gia-xang-dau-toi-lam-phat-va-tang-truong-thoi-su-11g00-22-2-2022-426659.html</link>
+      <description><![CDATA[11:18 - 22/02/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tac-dong-gia-xang-dau-toi-lam-phat-va-tang-truong-thoi-su-11g00-22-2-2022-426659.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/02/22/AMThoisu11h00p220222.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 22 Feb 2022 18:18:00 +0700</pubDate>
+    </item>
     <item>
       <title>Tín hiệu vui phát triển kinh tế từ nhu cầu lao động tăng (P1) – Thời sự 5g30 22/2/2021</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tin-hieu-vui-phat-trien-kinh-te-tu-nhu-cau-lao-dong-tang-p1-thoi-su-5g30-22-2-2021-426626.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-can-tap-trung-phat-trien-kinh-te-so-de-tang-truong-ben-vung-thoi-su-17g00-21-2-2022-426600.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/02/21/ts17g00-210222.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 22 Feb 2022 00:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Cung ứng sách giáo khoa trước ngày 15/8 - Thời sự 11g00 21/2/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/cung-ung-sach-giao-khoa-truoc-ngay-15-8-thoi-su-11g00-21-2-2022-426569.html</link>
-      <description><![CDATA[11:00 - 21/02/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/cung-ung-sach-giao-khoa-truoc-ngay-15-8-thoi-su-11g00-21-2-2022-426569.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/02/21/ts11g00-210222.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 21 Feb 2022 18:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
