@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 17 Feb 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 22 Feb 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 17 Feb 2022 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 22 Feb 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Kể chuyện và hát ru cho bé</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Kechuyenvahatruchobe.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Cuộc phiêu lưu của bọ xấu xí (Phần 2) 17/2/2022</title>
+      <title>Chuyện kể về những chiếc lá non  22/2/2022</title>
+      <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/chuyen-ke-ve-nhung-chiec-la-non-c43-34280.aspx</link>
+      <description><![CDATA[Những hạt mưa cùng ánh nắng ấm áp của mùa xuân giúp cây cối đâm chồi, nảy lộc. Những chiếc lá non lần lượt ra đời trong sự vui mừng chào đón của mẹ cây và chị em lá. Một câu chuyện ý nghĩa về tình cảm gia đình được nhà văn Lý Lan kể cùng chúng ta... (Kể chuyện và hát ru 18/02/2022)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/chuyen-ke-ve-nhung-chiec-la-non-c43-34280.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2022_2/v2_1802_21h45_ke_chuyen_va_hat_ru_222202214.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 22 Feb 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Cuộc phiêu lưu của bọ xấu xí (Phần 2)  17/2/2022</title>
       <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/cuoc-phieu-luu-cua-bo-xau-xi-phan-2-c43-34269.aspx</link>
       <description><![CDATA[Nhờ lời động viên của cô Ốc nhồi, bà Hến và bà Ngao nên bọ nhỏ đã quyết tâm thực hiện chuyến phiêu lưu. Sau khi gặp cụ Cá chép và đám Cá mương hiếu động, Bọ nhỏ thấy nước sáng dần lên, cảnh vật nhìn được xa hơn. Nó liền nghĩ rằng sắp được lên khỏi mặt nước. Tuy nhiên những điều Bọ nhỏ tưởng tượng có trở thành sự thật không, hay là sự nguy hiểm đang chờ phía trước? (Kể chuyện và hát ru 15/02/2022)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/cuoc-phieu-luu-cua-bo-xau-xi-phan-2-c43-34269.aspx</guid>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/cuoc-phieu-luu-cua-bo-xau-xi-phan-1-c43-34268.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2022_2/v2_141602_21h45_ke_chuyen_va_hat_ru_172202212.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 17 Feb 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Tết bắt đầu từ bếp   6/2/2022</title>
-      <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/tet-bat-dau-tu-bep-c43-34242.aspx</link>
-      <description><![CDATA[Ngày Tết, nhà nhà sum vầy đầm ấm bên nhau, cùng ngắm những cành đào thật đẹp, cùng ăn bữa cơm vui vẻ, được mừng tuổi đầu năm. Tết đến từ đất trời, mùa xuân. Hẳn là vậy rồi. Tết còn đến từ một nơi thật gần, thật bận rộn và cũng thật ấm áp nữa... (Kể chuyện và hát ru 03/02/2022)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/tet-bat-dau-tu-bep-c43-34242.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2022_2/v2_0302_21h45_ke_chuyen_va_hat_ru_6220229.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 06 Feb 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
