@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 14 Mar 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 23 Feb 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 14 Mar 2022 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 23 Feb 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,22 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Phân tích những diễn biến mới tại Ukraine</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Việc Tổng thống Nga Vladimir Putin công nhận độc lập của hai Nhà nước cộng hòa tự xưng Luhans và Donetsk, đồng thời ra lệnh cho “lực lượng gìn giữ hòa bình” với khu vực này đã đẩy cuộc khủng hoảng Ukraine lên một nấc thang căng thẳng mới. Mỹ và phương Tây liên tiếp tiến hành các cuộc họp khẩn cấp để tìm cách đáp trả một cách nhanh chóng và dứt khoát trước bước đi này của Nga, trong khi phía Nga vẫn tỏ ra “khó lường” trong các bước đi tiếp theo. Trước các diễn biến mới liên tục như hiện nay, rất nhiều câu hỏi đang đặt ra về các tính toán của Nga cũng như những gì có thể diễn ra tại điểm nóng Ukraine.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/02/23/vovlive_vandequocte_phantichnhungdienbienmoitaiukraine.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 23 Feb 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Giai đoạn quyết định cho cuộc đàm phán hạt nhân Iran</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Các cường quốc trên thế giới đang tiến gần hơn bao giờ hết tới một thỏa thuận nhằm khôi phục thỏa thuận hạt nhân Iran ký năm 2015 có tên là “Kế hoạch hành động chung toàn diện” (JCPOA). Tuyên bố này được đưa ra trong bối cảnh các bên đều đang đẩy mạnh các nỗ lực ngoại giao nhằm hồi sinh thỏa thuận hạt nhân Iran. Cả Mỹ và Iran đều mô tả các cuộc đàm phán hạt nhân giữa Iran với nhóm P5+1 gồm Mỹ, Nga, Trung Quốc, Pháp, Anh và Đức sau khi nối lại hồi tuần trước mang tính xây dựng và đang “đi đúng hướng”. Tuy nhiên, các bên liên quan cũng nói rằng, cần phải đưa ra những quyết định chính trị cứng rắn để khắc phục những khác biệt còn lại và đây là lúc để đưa ra “những quyết định nghiêm túc”. Liệu những nỗ lực ngoại giao nhằm hồi sinh thỏa thuận hạt nhân Iran có đem lại kết quả như dư luận kỳ vọng?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/02/23/vovlive_vandequocte_giaidoanquyetdinhchocuocdamphanhatnhaniran.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 22 Feb 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Hội nghị hẹp Bộ trưởng Ngoại giao thúc đẩy vai trò trung tâm, đoàn kết, thống nhất của ASEAN</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -38,22 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/02/17/vovlive_vandequocte_nhungnguycotuchientranhlanhmoi.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 15 Feb 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Những lo ngại về nguy cơ một cuộc “Chiến tranh lạnh” mới (Phần 1)</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Nguy cơ cuộc “chiến tranh lạnh mới” với một bên là Mỹ và đồng minh, một bên là hai cường quốc Nga - Trung Quốc đang ngày một hiện hữu với những động thái cứng rắn của các bên liên quan. Trong cuộc gặp trực tiếp diễn ra vào đầu tháng này, Chủ tịch Trung Quốc Tập Cận Bình và Tổng thống Nga Vladimir Putin đã ra tuyên bố chung về mối quan hệ đối tác mới, khẳng định quan hệ này “vượt trội so với các liên minh chính trị, quân sự trong thời kỳ chiến tranh lạnh”. Trong khi đó, chính quyền của Tổng thống Mỹ Joe Biden cũng vừa công bố chiến lược Ấn Độ Dương - Thái Bình Dương tự do và rộng mở trong hàng loạt lĩnh vực từ an ninh tới kinh tế và thông qua một mạng lưới liên minh mạnh mẽ. Những động thái răn đe này của Mỹ, Nga và Trung Quốc đang khiến dư luận lo ngại bóng ma “Chiến tranh lạnh” có thể quay trở lại.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/02/17/vovlive_vandequocte_nhunglongaivenguycomotcuocchientrinhlanhmoi.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 14 Mar 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Australia lần đầu tiên tổ chức hội nghị Ngoại trưởng Nhóm Bộ Tứ (QUAD)</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Ngày 11/2, tại thành phố Melbourne (Australia) khai mạc Hội nghị ngoại trưởng nhóm Bộ Tứ (QUAD), với sự tham dự của ngoại trưởng các nước Mỹ, Australia, Nhật Bản và Ấn Độ. Đây là cuộc họp trực tiếp đầu tiên trong năm nay và cũng là lần đầu tiên ngoại trưởng các nước trong nhóm QUAD gặp mặt trực tiếp kể từ tháng 10/2020. Lần đầu tiên Australia đăng cai tổ chức Hội nghị ngoại trưởng nhóm Bộ Tứ (QUAD), chính phủ của Thủ tướng Scott Morrison đang nỗ lực làm sâu sắc hơn các mối quan hệ đối tác của Australia trong khu vực, trong bối cảnh “cạnh tranh chiến lược, các mối đe dọa đối với trật tự quốc tế tự do và sự bất ổn ngày càng gia tăng”.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/02/17/vovlive_vandequocte_australialandautientochuchoinghingoaitruongnhombotu.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 11 Feb 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
