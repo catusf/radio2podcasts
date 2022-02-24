@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 23 Jan 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 20 Feb 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 23 Jan 2022 19:00:00 +0700</pubDate>
+    <pubDate>Sun, 20 Feb 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,23 @@
     </itunes:owner>
     <itunes:subtitle>Âm nhạc với cuộc sống</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Amnhacvoicuocsong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>“Sức mạnh chúng ta”: Niềm tự hào về tinh thần quyết chiến, quyết thắng của dân tộc trong cuộc chiến đấu bảo vệ Tổ quốc</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[- Kỷ niệm 43 năm Cuộc chiến đấu bảo vệ biên giới phía Bắc (17/2/1979-17/2/2022) gặp gỡ nhạc sĩ Cát Vận cùng ca khúc “Sức mạnh chúng ta” để cùng tri ân, bày tỏ lòng biết ơn tới những người lính đã ngã xuống vì độc lập dân tộc.
+- Thưởng thức ca khúc “Hãy ngăn chặn Covid” của nhạc sĩ Trịnh Ngọc Tân-nguyên Biên tập Âm nhạc Điện ảnh Quân đội Nhân dân Việt Nam và cùngnghe những chia sẻ của anh về ca khúc này...]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/02/24/vovlive_am_nhac_voi_cuoc_song_suc_manh_chung_ta.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 20 Feb 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Nguyễn Tài Tuệ: Người Nhạc sĩ tài hoa</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[Nhạc sĩ Nguyễn Tài Tuệ qua đời vào sáng 11/2/2022, hưởng thọ 87 tuổi. Trong sự nghiệp âm nhạc của mình, đến nay ông cũng mới chỉ công bố chưa đến 20 ca khúc cùng một số tác phẩm khí nhạc. Nhưng khi nhắc tới ông, người yêu nhạc nhớ ngay đến các tác phẩm nổi tiếng, mang dấu ấn một thời như "Xa khơi", "Tiếng hát giữa rừng Pác Bó", "Mùa xuân gọi bạn", "Mơ quê", "Suối Mường Hum còn chảy mãi',... Bên cạnh sáng tác ca khúc, nhạc sĩ Nguyễn Tài Tuệ còn sáng tác một số tác phẩm khí nhạc như: "Những cánh chim cao nguyên", "Kỷ niệm quê hương" (cello và piano)... Ngoài ra, ông còn viết phần âm nhạc cho múa và một số ca cảnh, tổ khúc dân ca. Để tưởng nhớ tới người nhạc sĩ tài danh, cùng nghe lại một số ca khúc của ông đã ghi dấu ấn sâu đậm trong lòng công chúng yêu nhạc...]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/02/24/vovlive_am_nhac_voi_cuoc_song_nguyen_tai_tue_ngui_nhac_si_tai_hoa.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 13 Feb 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>“Không ngừng nuôi dưỡng niềm đam mê nghệ thuật”: Thông điệp Nhạc sĩ Trần Nhật Bằng gửi tới các bạn nhỏ trong ca khúc “Thắp sáng những ngôi sao tương lai”</title>
       <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
@@ -39,23 +56,6 @@
       <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/01/18/vovlive_am_nhac_voi_cuoc_song_thuy_my.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 16 Jan 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Trải nghiệm những cung bậc cảm xúc cùng “Hùng vĩ trái tim Việt Nam”(Nhạc sĩ Nguyễn Thắng)- Ca khúc đoạt giải nhì cuộc Vận động sáng tác ca khúc Hát lên Việt Nam-Let’s Sing Vietnam do Đài TNVN tổ chức</title>
-      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[Nhạc sĩ Nguyễn Thắng, thành viên nhóm nhạc M6 hiện đang công tác tại Nhà hát Đài TNVN - Anh tốt nghiệp chuyên nghành biểu diễn sáo trúc Nhạc viện Hà Nội (nay là Học viện Âm nhạc Quốc gia Việt Nam). Ngoài biểu diễn, Nguyễn Thắng còn có đam mê sáng tác ca khúc. Cùng nghe những chia sẻ về một năm thành công của nhạc sĩ và thưởng thức các tác phẩm âm nhạc của anh: “Hùng vĩ trái tim Việt Nam”; “Nhắc nhớ ta ở yên”; “Chúc mừng năm mới” …]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/01/10/vovlive_am_nhac_voi_cuoc_song_nhac_si_nguyen_thang.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 02 Jan 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>“Bản hùng ca một thời kiêu hãnh”: Lời tri ân của những người con Hà Nội với các thế hệ cha anh đã chiến đấu bảo vệ Thủ đô, một tác phẩm âm nhạc của Nhà báo, Nhạc sĩ Trần Nhật Dương và Nhà báo Trần Nhật Minh</title>
-      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[- Kỷ niệm chiến thắng “Hà Nội - Điện Biên Phủ trên không” cùng thưởng thức “Bản hùng ca một thời kiêu hãnh” (Âm nhạc: Nhà báo, Nhạc sĩ Trần Nhật Dương ; Lời: Nhà báo Trần Nhật Minh) và lắng nghe những chia sẻ của các tác giả về bài hát này.
-- Tìm hiểu về bài hát Hà Nội Điện Biên Phủ của nhạc sĩ Phạm Tuyên.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/12/29/vovlive_am_nhac_voi_cuoc_song_ban_hung_ca_mot_thoi_kieu_hanh.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 28 Dec 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

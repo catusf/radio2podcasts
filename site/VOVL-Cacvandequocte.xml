@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 23 Feb 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 24 Feb 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 23 Feb 2022 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 24 Feb 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Đằng sau việc Nga công nhận hai nhà nước tự xưng ở miền Đông Ukraine</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Cuộc khủng hoảng tại Ukraine đã bị đẩy lên một mức căng thẳng mới sau khi Tổng thống Nga Putin chính thức công nhận hai nhà nước tự xưng ở miền Đông Ucraine. Dù đánh giá ngoại giao vẫn là giải pháp duy nhất để giải quyết những xung đột phức tạp hiện nay, thế nhưng, liệu các bên sẽ phải lựa chọn giải pháp như thế nào để tránh những kịch bản xấu nhất? Mặt khác, cuộc chiến cân não càng lúc càng kịch tính với những tuyên bố mới nhất của nhà lãnh đạo Nga liên quan đến việc công nhận các khu vực ở miền Đông Ukraine.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/02/24/vovlive_vandequocte_dangsauviecngacongnhanh2nhanuoctuxung.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 24 Feb 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Phân tích những diễn biến mới tại Ukraine</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/02/17/vovlive_vandequocte_hoinghihepbotruongngoaigiao.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 16 Feb 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Những nguy cơ từ “Chiến tranh Lạnh mới” (Phần 2)</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Trong chuyên mục "Vấn đề Quốc tế" ngày hôm qua, chúng tôi đã phân tích những động thái đáng chú ý khi Nga và Trung Quốc xích lại gần nhau, phản ánh niềm tin chính trị giữa hai cường quốc này, đồng thời khiến Mỹ và phương Tây phải có những tính toán cẩn trọng hơn trong mối quan hệ với Nga và Trung Quốc. Những động thái “tập hợp lực lượng” ngày càng rõ nét trong trục quan hệ giữa các nước lớn làm dấy lên mối lo ngại về khả năng xảy ra một cuộc “Chiến tranh lạnh mới". Hôm nay, chúng ta tiếp tục mạch phân tích vấn đề này, trong đó làm rõ những luận điểm khi nào thì “Chiến tranh lạnh mới” thực sự hình thành, khi hình thành sẽ có gì khác biệt với cuộc Chiến tranh lạnh từng xảy ra trong quá khứ, khả năng tác động đến cục diện địa chính trị thế giới sẽ ra sao.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/02/17/vovlive_vandequocte_nhungnguycotuchientranhlanhmoi.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 15 Feb 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
