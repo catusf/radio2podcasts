@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 21 Feb 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 24 Feb 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 21 Feb 2022 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 24 Feb 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Điểm hẹn văn nghệ</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Diemhenvannghe.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>TS Nguyễn Mạnh Hùng: Lan tỏa văn hóa đọc, khuyến đọc  21/2/2022</title>
+      <title>Luôn có một quê hương chờ bạn trở về 24/2/2022</title>
+      <link>http://vov6.vov.vn/diem-hen-van-nghe/luon-co-mot-que-huong-cho-ban-tro-ve-c158-34288.aspx</link>
+      <description><![CDATA[Sinh năm 1980, tại một thị trấn nhỏ ven biển ở Giang Tô, Trương Gia Giai là một trong những nhà văn đương đại nổi tiếng ở Trung Quốc. Một số tác phẩm của anh đã giới thiệu ở nước ta như “Ngang qua thế giới của em”, “Hãy để tôi ở bên bạn” và mới nhất là cuốn “Ngang qua thị trấn Ngàn Mây”, do dịch giả Tố Hinh chuyển ngữ, Công ty Văn Việt và NXB Thanh niên ấn hành. Để hiểu thêm về cuốn sách, mời quý vị và các bạn nghe bài “Luôn có một quê hương chờ bạn trở về…”.]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/luon-co-mot-que-huong-cho-ban-tro-ve-c158-34288.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2022_2/gts_ngang_qua_thi_tran_ngan_may_242202215.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 24 Feb 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>TS Nguyễn Mạnh Hùng: Lan tỏa văn hóa đọc, khuyến đọc   21/2/2022</title>
       <link>http://vov6.vov.vn/diem-hen-van-nghe/ts-nguyen-manh-hung-lan-toa-van-hoa-doc-khuyen-doc-c158-34278.aspx</link>
       <description><![CDATA[Trong suốt 15 năm hoạt động, Công ty sách Thái Hà (Thái Hà Books) không ngừng nỗ lực đẩy mạnh văn hóa đọc và khuyến đọc với hàng loạt chương trình như: Tết sách-Tôn vinh sách, Mừng tuổi sách, tổ chức Booktour tới các doanh nghiệp, trường học hay các hoạt động Reading Books Together, ATM Sách miễn phí, tủ sách gia đình, tủ sách doanh nghiệp, tủ sách nhà văn hóa, tủ sách làng xã…Ngoài ra, Thái Hà Books kết nối với các tổ chức trên thế giới, những người có ảnh hưởng và tâm huyết với sách trên thế giới để tổ chức các hội thảo, các chương trình truyền cảm hứng yêu sách cho độc giả. Để hoạt động khuyến đọc có thể lan tỏa mạnh mẽ và có sức tác động sâu đậm đến với đông đảo mọi người, trong ngày hôm nay, 22 tháng 2, Thái Hà Books phát động Dự án khuyến đọc Việt Nam với nhiều hoạt động phong phú, ý nghĩa. Nhân dịp này, phóng viên chuyên mục Tiếng nói Văn nghệ sỹ có cuộc trò chuyện với TS Nguyễn Mạnh Hùng-Người sáng tập, Chủ tịch HĐQT Thái Hà Books-tác giả của hàng chục đầu sách về văn hóa, kỹ năng sống]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/ts-nguyen-manh-hung-lan-toa-van-hoa-doc-khuyen-doc-c158-34278.aspx</guid>
@@ -38,13 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/yeu-sach-cua-antigone-than-toc-giua-su-song-va-cai-chet-c158-34271.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2022_2/gts_yeu_sach_cua_antigone_182202211.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 18 Feb 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Báo Văn nghệ số 7 ra ngày 12/2/2022   14/2/2022</title>
-      <link>http://vov6.vov.vn/diem-hen-van-nghe/bao-van-nghe-so-7-ra-ngay-1222022-c158-34259.aspx</link>
-      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/bao-van-nghe-so-7-ra-ngay-1222022-c158-34259.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2022_2/diem_bao_van_nghe_142202215.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 14 Feb 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
