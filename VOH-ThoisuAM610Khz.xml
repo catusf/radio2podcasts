@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 25 Feb 2022 13:45:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 26 Feb 2022 02:43:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 25 Feb 2022 13:45:00 +0700</pubDate>
+    <pubDate>Sat, 26 Feb 2022 02:43:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Hiệu quả từ Chương trình Giáo dục giới tính cho trẻ 3–5 tuổi - Thời sự 17g00 25/2/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/hieu-qua-tu-chuong-trinh-giao-duc-gioi-tinh-cho-tre-3-5-tuoi-thoi-su-17g00-25-2-2022-426971.html</link>
+      <description><![CDATA[19:43 - 25/02/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/hieu-qua-tu-chuong-trinh-giao-duc-gioi-tinh-cho-tre-3-5-tuoi-thoi-su-17g00-25-2-2022-426971.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/02/25/AMThoisu17h00p250222.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 26 Feb 2022 02:43:00 +0700</pubDate>
+    </item>
     <item>
       <title>Kỳ 2: Thế hệ trẻ ngành Y soi theo hình ảnh Bác - Thời sự 5g30 25/2/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/ky-2-the-he-tre-nganh-y-soi-theo-hinh-anh-bac-thoi-su-5g30-25-2-2022-426901.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/huong-dan-dieu-tri-covid-19-o-tre-voi-muc-do-nhe-thoi-su-17g00-24-02-2022-426891.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/02/24/AMThoisu17h00p2402221.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 25 Feb 2022 00:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đoàn kết - điểm tựa sức mạnh mãi nguyên giá trị: Kỳ 1 - Gần dân để trưởng thành - Thời sự 5g30 24/02</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/doan-ket-diem-tua-suc-manh-mai-nguyen-gia-tri-ky-1-gan-dan-de-truong-thanh-thoi-su-5g30-24-02-426851.html</link>
-      <description><![CDATA[05:30 - 24/02/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/doan-ket-diem-tua-suc-manh-mai-nguyen-gia-tri-ky-1-gan-dan-de-truong-thanh-thoi-su-5g30-24-02-426851.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/02/24/AMThoisu05h30p240222.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 24 Feb 2022 12:30:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
