@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 27 Feb 2022 03:17:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 27 Feb 2022 18:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 27 Feb 2022 03:17:00 +0700</pubDate>
+    <pubDate>Sun, 27 Feb 2022 18:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Mãi mãi một tình yêu - ngân lên giai điệu tự hào - Thời sự 11g00 27/2/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/mai-mai-mot-tinh-yeu-ngan-len-giai-dieu-tu-hao-thoi-su-11g00-27-2-2022-427093.html</link>
+      <description><![CDATA[11:00 - 27/02/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/mai-mai-mot-tinh-yeu-ngan-len-giai-dieu-tu-hao-thoi-su-11g00-27-2-2022-427093.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/02/27/ts11g00-270222.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 27 Feb 2022 18:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Tiếp tục nâng chất lượng dịch vụ thu hút người dân sử dụng xe buýt - Thời sự 17g00 26/2/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tiep-tuc-nang-chat-luong-dich-vu-thu-hut-nguoi-dan-su-dung-xe-buyt-thoi-su-17g00-26-2-2022-427032.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/kieu-bao-va-nhung-y-kien-tam-huyet-de-phuc-hoi-kinh-te-tphcm-thoi-su-11g00-26-2-2022-427012.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/02/26/AMThoisu11h00p260222sss.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 26 Feb 2022 19:03:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Kỳ 3: Những đảng viên tận lực với chuyên ngành nhiễm - Thời sự 5g30 26/2/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/ky-3-nhung-dang-vien-tan-luc-voi-chuyen-nganh-nhiem-thoi-su-5g30-26-2-2022-427008.html</link>
-      <description><![CDATA[11:39 - 26/02/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/ky-3-nhung-dang-vien-tan-luc-voi-chuyen-nganh-nhiem-thoi-su-5g30-26-2-2022-427008.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/02/26/amthoisu05h30p260222sss.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 26 Feb 2022 18:39:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
