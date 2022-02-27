@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 23 Feb 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 27 Feb 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 23 Feb 2022 19:00:00 +0700</pubDate>
+    <pubDate>Sun, 27 Feb 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,27 +24,27 @@
     <itunes:subtitle>Văn nghệ thiếu nhi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Vannghethieunhi.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Những kỉ niệm với nhà thơ Y Phương  23/2/2022</title>
+      <title>Các bạn nhỏ Thái Nguyên với đêm thơ Nguyên tiêu  27/2/2022</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/cac-ban-nho-thai-nguyen-voi-dem-tho-nguyen-tieu-c44-34290.aspx</link>
+      <description><![CDATA[Đêm thơ Nguyên tiêu ở thành phố Thái Nguyên diễn ra trong không khí thật đầm ấm. Các tiết mục đọc thơ, ngâm thơ, trình diễn thơ do các nhà thơ, các nghệ sĩ thể hiện rất phong phú, hấp dẫn. Bên cạnh đó còn có phần trình diễn của các cô giáo và các bạn học sinh. Đặc biệt sinh động là phần trình diễn thơ "Chuyện cổ tích về loài người"... (Văn nghệ thiếu nhi 23/02/2022)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/cac-ban-nho-thai-nguyen-voi-dem-tho-nguyen-tieu-c44-34290.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2022_2/v2_2302_10h4518h15_van_nghe_thieu_nhi_272202216.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 27 Feb 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Tạ Vũ Phong gương mặt nhí đam mê diễn xuất  27/2/2022</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/ta-vu-phong-guong-mat-nhi-dam-me-dien-xuat-c44-34289.aspx</link>
+      <description><![CDATA[Gia đình NSUT Tạ Tuấn Minh là một gia đình nghệ sĩ có nhiều đóng góp cho sân khấu kịch nói và phim truyền hình. Hai bạn nhỏ của cô chú Tuấn Minh- Thanh Hương cũng có niềm yêu thích với diễn xuất như bố mẹ. Hôm nay chúng mình sẽ gặp gỡ với cô Thanh Hường và bạn Tạ Vũ Phong- một trong hai cậu con trai của cô chú để cùng chia sẻ về niềm yêu thích diễn xuất của Vũ Phong nhé! (Văn nghệ thiếu nhi 16/02/2022)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/ta-vu-phong-guong-mat-nhi-dam-me-dien-xuat-c44-34289.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2022_2/v2_1602_10h4518h15_van_nghe_thieu_nhi_272202216.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 27 Feb 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Những kỉ niệm với nhà thơ Y Phương   23/2/2022</title>
       <link>http://vov6.vov.vn/van-nghe-thieu-nhi/nhung-ki-niem-voi-nha-tho-y-phuong-c44-34286.aspx</link>
       <description><![CDATA[Thời gian qua nhiều giáo viên, học sinh và bạn đọc yêu thơ cả nước bày tỏ niềm tiếc thương trước sự ra đi đột ngột của nhà thơ Y Phương - tác giả bài thơ “Nói với con” trong chương trình ngữ văn THCS nhiều năm nay. Nhà thơ Y Phương đã gửi vào tác phẩm tình yêu tha thiết với quê hương xứ sở, với văn hóa dân tộc mình, nhắn nhủ con phải biết rõ cội nguồn, từ đó sống sao cho xứng đáng... (Văn nghệ thiếu nhi 21/02/2022)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/nhung-ki-niem-voi-nha-tho-y-phuong-c44-34286.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2022_2/v2_2102_10h4518h15_van_nghe_thieu_nhi_1_232202212.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 23 Feb 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đọc truyện "Ông già Khốt-ta-bít" - Buổi 20 - Phép thuật trở lại   23/2/2022</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-ong-gia-khot-ta-bit-buoi-20-phep-thuat-tro-lai-c44-34285.aspx</link>
-      <description><![CDATA[Ông già Khốt-ta-bít vui mừng vì phép thuật đã được phục hồi. Trong nháy mắt ông hóa phép để ba người rời khỏi căn phòng đến một nơi mà ông cho rằng an toàn hơn. Sau đó ông biến ra đồ ăn cho Vôn-ca và Gienia, nhưng ông chợt nhận thấy rằng ông thật kỳ quặc trong bộ quần áo ngủ... (Văn nghệ thiếu nhi 20/02/2022)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-ong-gia-khot-ta-bit-buoi-20-phep-thuat-tro-lai-c44-34285.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2022_2/v2_2002_10h4518h15_van_nghe_thieu_nhi_232202211.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 23 Feb 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đọc truyện "Ông già Khốt-ta-bít" - Buổi 19 - Bộ râu ướt   23/2/2022</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-ong-gia-khot-ta-bit-buoi-19-bo-rau-uot-c44-34284.aspx</link>
-      <description><![CDATA[Tấm thảm bay hạ dần độ cao và đáp xuống một khu nhà sang trọng. Ông Khốt-ta-bít bắt đầu tưởng tượng về những điều chẳng lành. Vôn-ca và Gienia vừa lạnh run vì quần áo ướt, vừa đói bụng vô cùng. Trong khi đó ông Khốt-ta-bít chỉ muốn tìm một chiếc khăn để lau khô bộ râu đang ướt, mong phép thuật trở lại... (Văn nghệ thiếu nhi 19/02/2022)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-ong-gia-khot-ta-bit-buoi-19-bo-rau-uot-c44-34284.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2022_2/v2_1902_10h4518h15_van_nghe_thieu_nhi_232202211.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 23 Feb 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
