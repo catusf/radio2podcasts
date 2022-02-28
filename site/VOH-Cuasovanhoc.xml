@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 21 Feb 2022 02:06:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 28 Feb 2022 05:04:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 21 Feb 2022 02:06:00 +0700</pubDate>
+    <pubDate>Mon, 28 Feb 2022 05:04:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Cửa sổ văn học trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Cuasovanhoc.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Cửa sổ văn học - 27/2/2022</title>
+      <link>https://radio.voh.com.vn/cua-so-van-hoc/cua-so-van-hoc-27-2-2022-427051.html</link>
+      <description><![CDATA[22:04 - 27/02/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/cua-so-van-hoc-27-2-2022-427051.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/02/26/FMCuasovanhoc07h00p270222.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 28 Feb 2022 05:04:00 +0700</pubDate>
+    </item>
     <item>
       <title>Cửa sổ văn học - 20/2/2022</title>
       <link>https://radio.voh.com.vn/cua-so-van-hoc/cua-so-van-hoc-20-2-2022-426440.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/hanh-ngo-tro-lai-voi-lang-soi-cua-so-van-hoc-13-2-2022-425915.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/02/13/FMCuasovanhoc07h00p130222.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 13 Feb 2022 22:29:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Cửa sổ văn học - 6/2/2022</title>
-      <link>https://radio.voh.com.vn/cua-so-van-hoc/cua-so-van-hoc-6-2-2022-425412.html</link>
-      <description><![CDATA[19:25 - 06/02/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/cua-so-van-hoc-6-2-2022-425412.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/02/06/fmcuasovanhoc07h00p060222-20220205175257.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 07 Feb 2022 02:25:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
