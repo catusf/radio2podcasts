@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 25 Feb 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 01 Mar 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 25 Feb 2022 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 01 Mar 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,22 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Đằng sau việc Triều Tiên âm thầm “làm giàu” kho vũ khí chiến lược</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Cùng với diễn biến nóng tại Ukraine thì bán đảo Triều Tiên cũng gây sự chú ý của dư luận quốc tế với vụ phóng tên lửa đạn đạo mới nhất của Triều Tiên. Theo xác nhận từ Bình Nhưỡng, vụ thử tên lửa đạn đạo này là nhằm phát triển hệ thống vệ tinh do thám và là vụ thử tên lửa thứ 8 từ đầu năm đến nay của nước này. Như vậy, từ các hệ thống vũ khí công nghệ cao đến hệ thống giám sát vệ tinh, Triều Tiên không ngừng mở rộng và làm giàu kho vũ khí giữa lúc đàm phán bế tắc với Mỹ và Hàn Quốc. Động thái của Triều Tiên diễn ra chưa đầy hai tuần trước cuộc bầu cử tổng thống vào ngày 9.3 ở Hàn Quốc. Các bên cũng đang lo ngại rằng, Triều Tiên có thể thúc đẩy việc phát triển tên lửa trong khi sự chú ý của cộng đồng quốc tế đang tập trung vào chiến dịch quân sự của Nga ở Ukraine.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/03/01/vovlive_vandequocte_dangsauviectrieutienamthamlamgiaukhivukhichienluoc.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 01 Mar 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Tình hình Ukraine tiếp tục diễn biến phức tạp, có còn cơ hội cho đàm phán?</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Tình hình chiến sự tại Ukraine vẫn đang diễn biến phức tạp với nhiều luồng thông tin khác biệt. Cả Nga, Ukraine và phương Tây liên tục đưa ra những tin tức chiến sự trái ngược nhau tại Kiev khiến dư luận quốc tế lo ngại về khả năng chiến sự leo thang và số người thiệt mạng tăng nhanh. Các nước phương Tây đang tích cực chuẩn bị cho các biện pháp trừng phạt tiếp theo nhằm vào Nga mà mới nhất là việc đưa Nga ra khỏi hệ thống thanh toán toàn cầu SWIFT. Trong một động thái mới nhất, rạng sáng ngày 28/2 theo giờ Việt Nam, Đại hội đồng Liên hợp quốc tổ chức phiên họp đặc biệt bỏ phiếu cho một nghị quyết về vấn đề Ukraine. Đã có những lo ngại rằng cuộc khủng hoảng Ukraine sẽ làm thay đổi cấu trúc an ninh khu vực. Giới phân tích nhận định, các diễn biến dồn dập, phức tạp tại Ukraine hiện nay có còn khiến ngọn lửa đối thoại có thể nhóm lên?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/03/01/vovlive_vandequocte_tinhhinhukrainetieptucdienbienphuctap.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 28 Feb 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Các diễn biến nóng về tình hình Ukraine</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -38,22 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/02/24/vovlive_vandequocte_dangsauviecngacongnhanh2nhanuoctuxung.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 24 Feb 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Phân tích những diễn biến mới tại Ukraine</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Việc Tổng thống Nga Vladimir Putin công nhận độc lập của hai Nhà nước cộng hòa tự xưng Luhans và Donetsk, đồng thời ra lệnh cho “lực lượng gìn giữ hòa bình” với khu vực này đã đẩy cuộc khủng hoảng Ukraine lên một nấc thang căng thẳng mới. Mỹ và phương Tây liên tiếp tiến hành các cuộc họp khẩn cấp để tìm cách đáp trả một cách nhanh chóng và dứt khoát trước bước đi này của Nga, trong khi phía Nga vẫn tỏ ra “khó lường” trong các bước đi tiếp theo. Trước các diễn biến mới liên tục như hiện nay, rất nhiều câu hỏi đang đặt ra về các tính toán của Nga cũng như những gì có thể diễn ra tại điểm nóng Ukraine.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/02/23/vovlive_vandequocte_phantichnhungdienbienmoitaiukraine.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 23 Feb 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Giai đoạn quyết định cho cuộc đàm phán hạt nhân Iran</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Các cường quốc trên thế giới đang tiến gần hơn bao giờ hết tới một thỏa thuận nhằm khôi phục thỏa thuận hạt nhân Iran ký năm 2015 có tên là “Kế hoạch hành động chung toàn diện” (JCPOA). Tuyên bố này được đưa ra trong bối cảnh các bên đều đang đẩy mạnh các nỗ lực ngoại giao nhằm hồi sinh thỏa thuận hạt nhân Iran. Cả Mỹ và Iran đều mô tả các cuộc đàm phán hạt nhân giữa Iran với nhóm P5+1 gồm Mỹ, Nga, Trung Quốc, Pháp, Anh và Đức sau khi nối lại hồi tuần trước mang tính xây dựng và đang “đi đúng hướng”. Tuy nhiên, các bên liên quan cũng nói rằng, cần phải đưa ra những quyết định chính trị cứng rắn để khắc phục những khác biệt còn lại và đây là lúc để đưa ra “những quyết định nghiêm túc”. Liệu những nỗ lực ngoại giao nhằm hồi sinh thỏa thuận hạt nhân Iran có đem lại kết quả như dư luận kỳ vọng?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/02/23/vovlive_vandequocte_giaidoanquyetdinhchocuocdamphanhatnhaniran.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 22 Feb 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
