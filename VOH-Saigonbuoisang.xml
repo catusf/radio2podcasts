@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 04 Mar 2022 18:30:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 06 Mar 2022 17:49:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 04 Mar 2022 18:30:00 +0700</pubDate>
+    <pubDate>Sun, 06 Mar 2022 17:49:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Sài Gòn buổi sáng - 6/3/2022</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-6-3-2022-427740.html</link>
+      <description><![CDATA[10:49 - 06/03/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-6-3-2022-427740.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/03/06/FMsaigonbuoisang06h00p060322ss.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 06 Mar 2022 17:49:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Tiến tới bình thường hóa với dịch bệnh, xem COVID-19 là bệnh đặc hữu - Sài Gòn buổi sáng 4/3/2022</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/tien-toi-binh-thuong-hoa-voi-dich-benh-xem-covid-19-la-benh-dac-huu-sai-gon-buoi-sang-4-3-2022-427576.html</link>
       <description><![CDATA[11:30 - 04/03/2022]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/tien-toi-binh-thuong-hoa-voi-dich-benh-xem-covid-19-la-benh-dac-huu-sai-gon-buoi-sang-4-3-2022-427576.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/03/04/fmsgbs06h00p040322-20220304062939.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 04 Mar 2022 18:30:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đảm bảo nguồn cung xăng dầu trong nước - Sài Gòn buổi sáng 03/03/2022</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/dam-bao-nguon-cung-xang-dau-trong-nuoc-sai-gon-buoi-sang-03-03-2022-427480.html</link>
-      <description><![CDATA[06:00 - 03/03/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/dam-bao-nguon-cung-xang-dau-trong-nuoc-sai-gon-buoi-sang-03-03-2022-427480.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/03/03/fmsgbs06h00p030322-202203030628082.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 03 Mar 2022 13:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
