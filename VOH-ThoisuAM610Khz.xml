@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 06 Mar 2022 18:58:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 07 Mar 2022 12:30:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 06 Mar 2022 18:58:00 +0700</pubDate>
+    <pubDate>Mon, 07 Mar 2022 12:30:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,28 +24,28 @@
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>“Cảnh giác các chiêu trò lừa đảo khi tham gia chuyển nhượng bất động sản” - Thời sự 05g30 7/3/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/canh-giac-cac-chieu-tro-lua-dao-khi-tham-gia-chuyen-nhuong-bat-dong-san-thoi-su-05g30-7-3-2022-427770.html</link>
+      <description><![CDATA[05:30 - 07/03/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/canh-giac-cac-chieu-tro-lua-dao-khi-tham-gia-chuyen-nhuong-bat-dong-san-thoi-su-05g30-7-3-2022-427770.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/03/07/ts05g30-070322.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 07 Mar 2022 12:30:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Diễu hành Áo dài “Khát vọng Hòa Bình” - Thời sự 17g00 6/3/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/dieu-hanh-ao-dai-khat-vong-hoa-binh-thoi-su-17g00-6-3-2022-427758.html</link>
+      <description><![CDATA[21:32 - 06/03/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/dieu-hanh-ao-dai-khat-vong-hoa-binh-thoi-su-17g00-6-3-2022-427758.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/03/06/AMThoisu17h00p060322.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 07 Mar 2022 04:32:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Nâng cao hiệu quả công tác đấu tranh, phòng chống tội phạm trên địa bàn – Thời sự 11g00 6/3/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/nang-cao-hieu-qua-cong-tac-dau-tranh-phong-chong-toi-pham-tren-dia-ban-thoi-su-11g00-6-3-2022-427742.html</link>
       <description><![CDATA[11:58 - 06/03/2022]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/nang-cao-hieu-qua-cong-tac-dau-tranh-phong-chong-toi-pham-tren-dia-ban-thoi-su-11g00-6-3-2022-427742.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/03/06/AMThoisu11h00p060322sss.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 06 Mar 2022 18:58:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Khép lại mùa giải Bông Lúa Vàng 2021 - Hành trình nhiều cảm xúc - Thời sự 5g30 6/3/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/khep-lai-mua-giai-bong-lua-vang-2021-hanh-trinh-nhieu-cam-xuc-thoi-su-5g30-6-3-2022-427733.html</link>
-      <description><![CDATA[07:57 - 06/03/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/khep-lai-mua-giai-bong-lua-vang-2021-hanh-trinh-nhieu-cam-xuc-thoi-su-5g30-6-3-2022-427733.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/03/06/AMThoisu05h30p060322sss.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 06 Mar 2022 14:57:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>TPHCM tiếp tục mở đợt cao điểm chiến dịch bảo vệ người nguy cơ - Thời sự 17g00 5/3/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-tiep-tuc-mo-dot-cao-diem-chien-dich-bao-ve-nguoi-nguy-co-thoi-su-17g00-5-3-2022-427697.html</link>
-      <description><![CDATA[19:29 - 05/03/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-tiep-tuc-mo-dot-cao-diem-chien-dich-bao-ve-nguoi-nguy-co-thoi-su-17g00-5-3-2022-427697.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/03/05/AMThoisu17h00p050322.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 06 Mar 2022 02:29:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
