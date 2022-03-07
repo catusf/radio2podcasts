@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 07 Mar 2022 18:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 08 Mar 2022 00:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 07 Mar 2022 18:00:00 +0700</pubDate>
+    <pubDate>Tue, 08 Mar 2022 00:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Giữ lửa phong trào bóng đá nữ (Bài 1) - Thời sự 17g00 7/3/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/giu-lua-phong-trao-bong-da-nu-bai-1-thoi-su-17g00-7-3-2022-427865.html</link>
+      <description><![CDATA[17:00 - 07/03/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/giu-lua-phong-trao-bong-da-nu-bai-1-thoi-su-17g00-7-3-2022-427865.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/03/07/ts17g00-030722.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 08 Mar 2022 00:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Cần tiếp cận nhanh các gói tài khóa để phục hồi kinh tế TPHCM - Thời sự 11g00 7/3/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/can-tiep-can-nhanh-cac-goi-tai-khoa-de-phuc-hoi-kinh-te-tphcm-thoi-su-11g00-7-3-2022-427819.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/canh-giac-cac-chieu-tro-lua-dao-khi-tham-gia-chuyen-nhuong-bat-dong-san-thoi-su-05g30-7-3-2022-427770.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/03/07/ts05g30-070322.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 07 Mar 2022 12:30:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Diễu hành Áo dài “Khát vọng Hòa Bình” - Thời sự 17g00 6/3/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/dieu-hanh-ao-dai-khat-vong-hoa-binh-thoi-su-17g00-6-3-2022-427758.html</link>
-      <description><![CDATA[21:32 - 06/03/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/dieu-hanh-ao-dai-khat-vong-hoa-binh-thoi-su-17g00-6-3-2022-427758.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/03/06/AMThoisu17h00p060322.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 07 Mar 2022 04:32:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
