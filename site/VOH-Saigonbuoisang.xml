@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 08 Mar 2022 19:19:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 09 Mar 2022 13:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 08 Mar 2022 19:19:00 +0700</pubDate>
+    <pubDate>Wed, 09 Mar 2022 13:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Rối loạn tâm lý học đường do Covid-19: Hậu quả không thể xem thường! - Sài Gòn buổi sáng 9/3/2022</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/roi-loan-tam-ly-hoc-duong-do-covid-19-hau-qua-khong-the-xem-thuong-sai-gon-buoi-sang-9-3-2022-428004.html</link>
+      <description><![CDATA[06:00 - 09/03/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/roi-loan-tam-ly-hoc-duong-do-covid-19-hau-qua-khong-the-xem-thuong-sai-gon-buoi-sang-9-3-2022-428004.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/03/09/sgbs-090322.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 09 Mar 2022 13:00:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Lễ hội Áo Dài 2022 – Minh chứng cho sự hồi phục trở lại của TPHCM - Sài Gòn buổi sáng 8/3/2022</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/le-hoi-ao-dai-2022-minh-chung-cho-su-hoi-phuc-tro-lai-cua-tphcm-sai-gon-buoi-sang-8-3-2022-427932.html</link>
       <description><![CDATA[12:19 - 08/03/2022]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/le-hoi-ao-dai-2022-minh-chung-cho-su-hoi-phuc-tro-lai-cua-tphcm-sai-gon-buoi-sang-8-3-2022-427932.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/03/08/fmsgbs06h00p080322.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 08 Mar 2022 19:19:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Phụ nữ khí chất - Sài Gòn buổi sáng 7/3/2022</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/phu-nu-khi-chat-sai-gon-buoi-sang-7-3-2022-427779.html</link>
-      <description><![CDATA[06:00 - 07/03/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/phu-nu-khi-chat-sai-gon-buoi-sang-7-3-2022-427779.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/03/07/sgbs-070322.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 07 Mar 2022 13:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
