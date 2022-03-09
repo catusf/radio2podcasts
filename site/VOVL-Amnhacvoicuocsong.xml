@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 20 Feb 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 06 Mar 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 20 Feb 2022 19:00:00 +0700</pubDate>
+    <pubDate>Sun, 06 Mar 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,24 @@
     </itunes:owner>
     <itunes:subtitle>Âm nhạc với cuộc sống</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Amnhacvoicuocsong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>“Mẹ tôi”: Ca khúc trữ tình gợi nỗi nhớ da diết về mẹ</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[- Kỷ niệm ngày Quốc tế Phụ nữ (08/3), thưởng thức ca khúc Mẹ tôi (Lời thơ: Nguyễn Thị Mai Lan, Âm nhạc: Nhạc sĩ Trọng Đài, Trình bày: NSƯT Mai Hoa) và lắng nghe những chia sẻ của tác giả thơ về nội dung bài thơ được phổ nhạc...
+- Thưởng thức các ca khúc: Chị em bón bèo (Sáng tác: Nhạc sĩ Tô Vũ,Trình bày: Tốp ca nữ Đài TNVN); Bài ca người phụ nữ Việt Nam (Sáng tác: Nhạc sĩ Nguyễn Văn Tý, Trình bày: NSƯT Tuyết Thanh); Mẹ yêu con (Nhạc sĩ Nguyễn Văn Tý)]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/03/09/vovlive_am_nhac_voi_cuoc_song_me_toi.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 06 Mar 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Gặp gỡ Thiếu tá-Nhà văn Phạm Vân Anh (Cục Chính trị, Bộ Tư lệnh Bộ đội Biên phòng) tìm hiểu những đề tài được khai thác chủ yếu về hình ảnh người lính biên phòng trong các sáng tác âm nhạc hiện nay</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[- Kỷ niệm ngày truyền thống Bộ đội Biên phòng (03/3/2022) cùng lắng nghe những chia sẻ của Thiếu tá-Nhà văn Phạm Vân Anh (Cục Chính trị, Bộ Tư lệnh Bộ đội Biên phòng) về những đề tài viết cho người lính Biên phòng được phản ánh trong các sáng tác âm nhạc.
+- Thưởng thức các ca khúc: Cán bộ tăng cường xã (Lời thơ Phạm Vân Anh, Âm nhạc: Nhạc sĩ Xuân Đại), Chiều mưa phố (Lời thơ: Hoàng Quý), Những người trai đi trong lòng biển (Lời thơ Phạm Vân Anh, Âm nhạc: Nhạc sĩ Nguyễn Tuấn Anh)...]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/03/09/vovlive_am_nhac_voi_cuoc_song_ky_niem_ngay_bo_doi_bien_phong.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 27 Feb 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>“Sức mạnh chúng ta”: Niềm tự hào về tinh thần quyết chiến, quyết thắng của dân tộc trong cuộc chiến đấu bảo vệ Tổ quốc</title>
       <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
@@ -39,23 +57,6 @@
       <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/02/24/vovlive_am_nhac_voi_cuoc_song_nguyen_tai_tue_ngui_nhac_si_tai_hoa.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 13 Feb 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>“Không ngừng nuôi dưỡng niềm đam mê nghệ thuật”: Thông điệp Nhạc sĩ Trần Nhật Bằng gửi tới các bạn nhỏ trong ca khúc “Thắp sáng những ngôi sao tương lai”</title>
-      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[- Cùng thưởng thức ca khúc “Thắp sáng những ngôi sao tương lai” - ca khúc đoạt giải A-Giải thưởng Âm nhạc Việt Nam năm 2021 cho thể loại ca khúc thiếu nhi của nhạc sĩ Trần Nhật Bằng- Trưởng phòng Ca nhạc Thiếu nhi, Ban Âm nhạc VOV3 và cùng nghe những chia sẻ của anh về thông điệp và sự ra đời của tác phẩm này.
-- Hướng tới chào mừng 92 năm ngày thành lập Đảng Cộng sản Việt Nam (3/2/1930-3/2/2022) cùng thưởng thức ca khúc “Ta tự hào gọi tên Đảng ta” (Âm nhạc: Nhạc sĩ Võ Thiên Lan; Lời thơ: Trần Thế Tuyển) và cùng nghe những chia sẻ của nhạc sĩ Võ Thiên Lan về hoàn cảnh ra đời của tác phẩm âm nhạc này.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/01/26/vovlive_am_nhac_voi_cuoc_song_thap_sang_nhung_ngoi_sao_tuong_lai_tran_nhat_bang.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 23 Jan 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Nguyễn Thúy My: Nữ nghệ sĩ luôn nỗ lực phấn đấu hết mình cho công việc và nghệ thuật</title>
-      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[Năm 2021 là một năm đầy khó khăn với diễn biến phức tạp của đại dịch Covid 19, Nhạc sĩ, nghệ sĩ trẻ Nguyễn Thúy My và các nghệ sĩ đoàn âm nhạc dân gian Nhà hát Đài TNVN luôn phấn đấu, nỗ lực hết mình để hoàn thành nhiệm vụ; phối khí, dàn dựng và thu thanh hơn 100 tác phẩm dân gian phục vụ thính giả Đài TNVN trên sóng phát thanh. Thúy My cũng dành cho mình thành tích cao ở lĩnh vực mới trong vai trò soạn giả, soạn lời dân ca, tham dự cuộc thi “Sáng tác lời mới cho làn điệu dân ca và nhạc cổ truyền chủ đề phòng chống thiên tai” do Ban Chỉ đạo Trung ương – Tổng cục phòng chống thiên tai tổ chức. Tác phẩm “Tây Bắc quê em” trên làn điệu dân ca dân tộc Tày của Nguyễn Thúy My đạt giải 3. Cùng Nguyễn Thúy My tổng kết các hoạt động trong năm, lắng nghe những chia sẻ của chị về những dự án, kế hoạch mới trong năm 2022 và thưởng thức các tác phẩm của nữ nhạc sĩ: “Nét duyên quê” (hòa tấu dàn nhạc dân tộc), “Tây Bắc quê em” (Tốp ca nữ), “Tình yêu người lính đảo” (Nghệ sĩ Tuấn Dũng độc tấu sáo trúc cùng dàn nhạc dân tộc)…]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/01/18/vovlive_am_nhac_voi_cuoc_song_thuy_my.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 16 Jan 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
