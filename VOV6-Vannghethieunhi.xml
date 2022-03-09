@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 04 Mar 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 09 Mar 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 04 Mar 2022 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 09 Mar 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Văn nghệ thiếu nhi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Vannghethieunhi.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Câu chuyện đằng sau bức tranh "Đêm trăng" 4/3/2022</title>
+      <title>Tuổi thơ thi vị trong “Mùa tiểu học cuối cùng”  9/3/2022</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/tuoi-tho-thi-vi-trong-mua-tieu-hoc-cuoi-cung-c44-34298.aspx</link>
+      <description><![CDATA[Cuốn truyện vừa “Mùa tiểu học cuối cùng” của nhà văn Lê Văn Nghĩa vừa được nhận giải thưởng của Hội Nhà văn Việt Nam năm 2021. Tác phẩm có nội dung xoay quanh đám học trò siêu quậy ở Sài Gòn vào những năm 70, 80 của thế kỷ trước. Tình bạn tuổi học trò, tình yêu gia đình và sự tương thân tương ái được thể hiện qua nhiều tình huống thú vị đã làm nên một “Mùa tiểu học cuối cùng” hài hước, trong trẻo, và ắp đầy yêu thương (Văn nghệ thiếu nhi 22/02/2022)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/tuoi-tho-thi-vi-trong-mua-tieu-hoc-cuoi-cung-c44-34298.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2022_3/v2_2202_10h4518h15_van_nghe_thieu_nhi_2_93202210.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 09 Mar 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Câu chuyện đằng sau bức tranh "Đêm trăng"  4/3/2022</title>
       <link>http://vov6.vov.vn/van-nghe-thieu-nhi/cau-chuyen-dang-sau-buc-tranh-dem-trang-c44-34294.aspx</link>
       <description><![CDATA[Nhà thơ Y Phương là một tên tuổi trong nền thơ hiện đại nước ta, tác giả của bài "Nói với con" được đưa vào sách giáo khoa ngữ văn trong nhà trường. Khi ông mất, gia đình đã đưa ông trở về quê hương, trở về ngôi nhà sàn đơn sơ ở làng Hiếu Lễ, huyện Trùng Khánh, tỉnh Cao Bằng. Với tất cả niềm xúc động nhớ thương, họa sĩ Hoàng A Sáng - con rể của nhà thơ đã vẽ bức tranh “Đêm trăng”, họa lại ngôi nhà sàn ngày đón nhà thơ Y Phương trở về... (Văn nghệ thiếu nhi 02/03/2022)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/cau-chuyen-dang-sau-buc-tranh-dem-trang-c44-34294.aspx</guid>
@@ -37,14 +45,6 @@
       <description><![CDATA[Đêm thơ Nguyên tiêu ở thành phố Thái Nguyên diễn ra trong không khí thật đầm ấm. Các tiết mục đọc thơ, ngâm thơ, trình diễn thơ do các nhà thơ, các nghệ sĩ thể hiện rất phong phú, hấp dẫn. Bên cạnh đó còn có phần trình diễn của các cô giáo và các bạn học sinh. Đặc biệt sinh động là phần trình diễn thơ "Chuyện cổ tích về loài người"... (Văn nghệ thiếu nhi 23/02/2022)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/cac-ban-nho-thai-nguyen-voi-dem-tho-nguyen-tieu-c44-34290.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2022_2/v2_2302_10h4518h15_van_nghe_thieu_nhi_272202216.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 27 Feb 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Tạ Vũ Phong gương mặt nhí đam mê diễn xuất  27/2/2022</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/ta-vu-phong-guong-mat-nhi-dam-me-dien-xuat-c44-34289.aspx</link>
-      <description><![CDATA[Gia đình NSUT Tạ Tuấn Minh là một gia đình nghệ sĩ có nhiều đóng góp cho sân khấu kịch nói và phim truyền hình. Hai bạn nhỏ của cô chú Tuấn Minh- Thanh Hương cũng có niềm yêu thích với diễn xuất như bố mẹ. Hôm nay chúng mình sẽ gặp gỡ với cô Thanh Hường và bạn Tạ Vũ Phong- một trong hai cậu con trai của cô chú để cùng chia sẻ về niềm yêu thích diễn xuất của Vũ Phong nhé! (Văn nghệ thiếu nhi 16/02/2022)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/ta-vu-phong-guong-mat-nhi-dam-me-dien-xuat-c44-34289.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2022_2/v2_1602_10h4518h15_van_nghe_thieu_nhi_272202216.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 27 Feb 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
