@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 07 Mar 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 08 Mar 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 07 Mar 2022 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 08 Mar 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,15 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>"Mô hình phi NATO” và cơ hội tháo gỡ khủng hoảng</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Trong bối cảnh cuộc chiến giữa Nga và Ukraine vẫn đang diễn biến phức tạp, thì một thông tin được dư luận quan tâm là phía Ukraine để ngỏ khả năng đàm phán về “các mô hình phi NATO” cho tương lai của đất nước. Mô hình này được đại diện đàm phán của Ukraine giải thích là “một vòng kết nối rộng hơn", giúp Ukraine có sự đảm bảo trực tiếp của các quốc gia khác như Mỹ, Trung Quốc, Anh, Pháp hay Đức.
+Giới phân tích cho rằng, con đường gia nhập NATO của Ukraine có rất ít triển vọng, nhất là sau khi NATO trong cuộc họp của các Ngoại trưởng cuối tuần qua đã từ chối thiết lập vùng cấm bay như đề xuất của Ukraine. Vì vậy, “mô hình phi NATO” có thể là một cách tiếp cận khả thi hơn, đồng thời xóa đi “lằn ranh đỏ” mà Nga đặt ra đối với việc quốc gia sát sườn phía Tây gia nhập NATO.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/03/09/vovlive_vandequocte_mohinhphinato.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 08 Mar 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Nỗ lực tháo nút thắt trong đàm phán hạt nhân Iran</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +55,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/03/01/vovlive_vandequocte_dangsauviectrieutienamthamlamgiaukhivukhichienluoc.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 01 Mar 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Tình hình Ukraine tiếp tục diễn biến phức tạp, có còn cơ hội cho đàm phán?</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Tình hình chiến sự tại Ukraine vẫn đang diễn biến phức tạp với nhiều luồng thông tin khác biệt. Cả Nga, Ukraine và phương Tây liên tục đưa ra những tin tức chiến sự trái ngược nhau tại Kiev khiến dư luận quốc tế lo ngại về khả năng chiến sự leo thang và số người thiệt mạng tăng nhanh. Các nước phương Tây đang tích cực chuẩn bị cho các biện pháp trừng phạt tiếp theo nhằm vào Nga mà mới nhất là việc đưa Nga ra khỏi hệ thống thanh toán toàn cầu SWIFT. Trong một động thái mới nhất, rạng sáng ngày 28/2 theo giờ Việt Nam, Đại hội đồng Liên hợp quốc tổ chức phiên họp đặc biệt bỏ phiếu cho một nghị quyết về vấn đề Ukraine. Đã có những lo ngại rằng cuộc khủng hoảng Ukraine sẽ làm thay đổi cấu trúc an ninh khu vực. Giới phân tích nhận định, các diễn biến dồn dập, phức tạp tại Ukraine hiện nay có còn khiến ngọn lửa đối thoại có thể nhóm lên?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/03/01/vovlive_vandequocte_tinhhinhukrainetieptucdienbienphuctap.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 28 Feb 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
