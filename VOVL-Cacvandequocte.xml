@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 08 Mar 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 10 Mar 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 08 Mar 2022 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 10 Mar 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Dấu ấn của chính quyền Tổng thống Moon Jae-in và những tác động cuộc bầu cử Tổng thống Hàn Quốc</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Ngày 9/3 diễn ra cuộc bầu cử Tổng thống Hàn Quốc nhằm tìm ra người kế nhiệm Tổng thống Moon Jae-in, người lãnh đạo đất nước Hàn Quốc trong 5 năm qua. Sau 20 ngày tranh cử, cuộc bầu cử tổng thống lần thứ 20 của Hàn Quốc hiện tại chỉ còn là cuộc đua của hai ứng cử viên gồm ông Lee Jae Myung của Đảng Dân chủ Hàn Quốc và ông Yoon Suk Yeol của Đảng Quyền lực nhân dân đối lập. Các kết quả thăm dò trước bầu cử cho thấy tỷ lệ ủng hộ đối với 2 ứng cử viên này gần như ngang nhau. Vì thế, kết quả cuộc bầu cử được dự đoán sẽ rất sít sao. Trong khi đó, theo giới quan sát, những di sản của chính quyền Tổng thống Moon Jae-in trong nhiệm kỳ qua là yếu tố quan trọng để cử tri soi chiếu trong việc bầu chọn người lãnh đạo kế tiếp.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/03/10/vovlive_vandequocte_dauancuachinhquyentononjongthongmoonjaein.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 10 Mar 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>"Mô hình phi NATO” và cơ hội tháo gỡ khủng hoảng</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -47,14 +55,6 @@ Giới phân tích cho rằng, con đường gia nhập NATO của Ukraine có r
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/03/02/vovlive_vandequocte_nhieutrongtamtrongthongdieplienbangcuatongthongmy.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 02 Mar 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đằng sau việc Triều Tiên âm thầm “làm giàu” kho vũ khí chiến lược</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Cùng với diễn biến nóng tại Ukraine thì bán đảo Triều Tiên cũng gây sự chú ý của dư luận quốc tế với vụ phóng tên lửa đạn đạo mới nhất của Triều Tiên. Theo xác nhận từ Bình Nhưỡng, vụ thử tên lửa đạn đạo này là nhằm phát triển hệ thống vệ tinh do thám và là vụ thử tên lửa thứ 8 từ đầu năm đến nay của nước này. Như vậy, từ các hệ thống vũ khí công nghệ cao đến hệ thống giám sát vệ tinh, Triều Tiên không ngừng mở rộng và làm giàu kho vũ khí giữa lúc đàm phán bế tắc với Mỹ và Hàn Quốc. Động thái của Triều Tiên diễn ra chưa đầy hai tuần trước cuộc bầu cử tổng thống vào ngày 9.3 ở Hàn Quốc. Các bên cũng đang lo ngại rằng, Triều Tiên có thể thúc đẩy việc phát triển tên lửa trong khi sự chú ý của cộng đồng quốc tế đang tập trung vào chiến dịch quân sự của Nga ở Ukraine.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/03/01/vovlive_vandequocte_dangsauviectrieutienamthamlamgiaukhivukhichienluoc.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 01 Mar 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
