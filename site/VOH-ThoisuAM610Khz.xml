@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 10 Mar 2022 00:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 10 Mar 2022 13:19:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 10 Mar 2022 00:00:00 +0700</pubDate>
+    <pubDate>Thu, 10 Mar 2022 13:19:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Giải quyết ách tắc, tăng kết nối từ vùng sản xuất đến vùng xuất khẩu – Thời sự 5g30 10/3/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/giai-quyet-ach-tac-tang-ket-noi-tu-vung-san-xuat-den-vung-xuat-khau-thoi-su-5g30-10-3-2022-428099.html</link>
+      <description><![CDATA[06:19 - 10/03/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/giai-quyet-ach-tac-tang-ket-noi-tu-vung-san-xuat-den-vung-xuat-khau-thoi-su-5g30-10-3-2022-428099.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/03/10/AMThoisu05h30p100322.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 10 Mar 2022 13:19:00 +0700</pubDate>
+    </item>
     <item>
       <title>Người dân không nên mua thuốc điều trị Covid-19 tích trữ - Thời sự 17g00 9/3/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/nguoi-dan-khong-nen-mua-thuoc-dieu-tri-covid-19-tich-tru-thoi-su-17g00-9-3-2022-428078.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/giam-ap-luc-thi-cu-nho-da-dang-phuong-thuc-tuyen-sinh-nam-2022-thoi-su-11g00-9-3-2022-428040.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/03/09/ts11g00-090322.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 09 Mar 2022 18:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đặt trọn niềm tin vào Đại hội đại biểu phụ nữ toàn quốc lần thứ XIII - Thời sự 05g30 9/3/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/dat-tron-niem-tin-vao-dai-hoi-dai-bieu-phu-nu-toan-quoc-lan-thu-xiii-thoi-su-05g30-9-3-2022-428003.html</link>
-      <description><![CDATA[05:30 - 09/03/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/dat-tron-niem-tin-vao-dai-hoi-dai-bieu-phu-nu-toan-quoc-lan-thu-xiii-thoi-su-05g30-9-3-2022-428003.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/03/09/ts05g30-090322.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 09 Mar 2022 12:30:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
