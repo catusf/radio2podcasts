@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 04 Mar 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 11 Mar 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 04 Mar 2022 19:00:00 +0700</pubDate>
+    <pubDate>Fri, 11 Mar 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Điểm hẹn văn nghệ</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Diemhenvannghe.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>“Châu Phi nghìn trùng” – Sự lộng lẫy của ngôn từ 4/3/2022</title>
+      <title>"Cõi nhân gian": Bức tranh về đời người dâu bể 11/3/2022</title>
+      <link>http://vov6.vov.vn/diem-hen-van-nghe/coi-nhan-gian-buc-tranh-ve-doi-nguoi-dau-be-c158-34309.aspx</link>
+      <description><![CDATA[Nhân vật trung tâm của tác phẩm là Hương “còm”, một trí thức mới về nước sau quãng thời gian du học ở nước ngoài. Người đàn ông này tràn đầy nhiệt huyết, nhưng những trò nhiễu nhương của xã hội đã làm anh cảm thấy chán nản. Lấy bối cảnh đất nước những năm đầu thời kỳ đổi mới, Nguyễn Phúc Lộc Thành đã cho người đọc thấy muôn mặt của đời sống trong một giai đoạn rất khó quên. Bằng ngòi bút của mình, nhà văn đã “mổ phanh” vào hiện thực, cho người đọc thấy rõ biết bao thứ trắng đen, tốt xấu ở đời. Trải qua bao gian khó của chiến tranh và đói nghèo, giống như bao người khác, nhân vật Hương luôn đặt niềm tin vào một tương lai tốt đẹp, nhưng chính sự tàn khốc của hiện thực đã giết chết chút hy vọng nhỏ nhoi đang le lói ấy. Hệ thống nhân vật của tác phẩm rất đa dạng, từ trí thức, công nhân, nông dân, người lao động nghèo, đến trộm cướp, giang hồ… nhân vật nào cũng hiện lên trên trang viết của Nguyễn Phúc Lộc Thành một cách rất có hồn, đầy tỉ mỉ. Tác giả là một người có vốn sống dày dặn. Sự từng trải của anh thể hiện rõ ràng qua văn phong và lối miêu tả của tác phẩm.]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/coi-nhan-gian-buc-tranh-ve-doi-nguoi-dau-be-c158-34309.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2022_3/gts_coi_nhan_gian_hc_11320228.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 11 Mar 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>“Châu Phi nghìn trùng” – Sự lộng lẫy của ngôn từ  4/3/2022</title>
       <link>http://vov6.vov.vn/diem-hen-van-nghe/chau-phi-nghin-trung-su-long-lay-cua-ngon-tu-c158-34295.aspx</link>
       <description><![CDATA[Được in lần đầu năm 1937 bằng tiếng Anh, “Châu Phi nghìn trùng” của tác giả người Đan Mạch Isak Dinesen đã nhanh chóng gây tiếng vang lớn ở Mỹ và châu Âu. Tuy nhiên, phải đến năm ngoái, cuốn sách này mới được dịch giả Hà Thế Giang và NXB Phụ nữ giới thiệu tới độc giả Việt. Một cuộc gặp gỡ có phần muộn màng nhưng đem lại nhiều trái ngọt khi “Châu Phi nghìn trùng” đã được xướng tên trong hạng mục Dịch thuật của Giải thưởng Hội Nhà văn Việt Nam. Để hiểu thêm về cuốn sách, mời quý vị và các bạn nghe bài viết của BTV  Nguyễn Hà có nhan đề “Châu Phi nghìn trùng” – Sự lộng lẫy của ngôn từ.]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/chau-phi-nghin-trung-su-long-lay-cua-ngon-tu-c158-34295.aspx</guid>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/luon-co-mot-que-huong-cho-ban-tro-ve-c158-34288.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2022_2/gts_ngang_qua_thi_tran_ngan_may_242202215.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 24 Feb 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>TS Nguyễn Mạnh Hùng: Lan tỏa văn hóa đọc, khuyến đọc   21/2/2022</title>
-      <link>http://vov6.vov.vn/diem-hen-van-nghe/ts-nguyen-manh-hung-lan-toa-van-hoa-doc-khuyen-doc-c158-34278.aspx</link>
-      <description><![CDATA[Trong suốt 15 năm hoạt động, Công ty sách Thái Hà (Thái Hà Books) không ngừng nỗ lực đẩy mạnh văn hóa đọc và khuyến đọc với hàng loạt chương trình như: Tết sách-Tôn vinh sách, Mừng tuổi sách, tổ chức Booktour tới các doanh nghiệp, trường học hay các hoạt động Reading Books Together, ATM Sách miễn phí, tủ sách gia đình, tủ sách doanh nghiệp, tủ sách nhà văn hóa, tủ sách làng xã…Ngoài ra, Thái Hà Books kết nối với các tổ chức trên thế giới, những người có ảnh hưởng và tâm huyết với sách trên thế giới để tổ chức các hội thảo, các chương trình truyền cảm hứng yêu sách cho độc giả. Để hoạt động khuyến đọc có thể lan tỏa mạnh mẽ và có sức tác động sâu đậm đến với đông đảo mọi người, trong ngày hôm nay, 22 tháng 2, Thái Hà Books phát động Dự án khuyến đọc Việt Nam với nhiều hoạt động phong phú, ý nghĩa. Nhân dịp này, phóng viên chuyên mục Tiếng nói Văn nghệ sỹ có cuộc trò chuyện với TS Nguyễn Mạnh Hùng-Người sáng tập, Chủ tịch HĐQT Thái Hà Books-tác giả của hàng chục đầu sách về văn hóa, kỹ năng sống]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/ts-nguyen-manh-hung-lan-toa-van-hoa-doc-khuyen-doc-c158-34278.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2022_2/pv_ts_nguyen_manh_hung_212202210.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 21 Feb 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
