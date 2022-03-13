@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 10 Mar 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 11 Mar 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 10 Mar 2022 19:00:00 +0700</pubDate>
+    <pubDate>Fri, 11 Mar 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Sự tính toán “được – mất” của Mỹ khi cấm nhập khẩu dầu từ Nga</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Tổng thống Mỹ Joe Biden vừa công bố lệnh cấm nhập khẩu dầu từ Nga. Dự kiến sau Mỹ, sẽ có thêm những quốc gia có bước đi tương tự nhằm thực hiện quyết tâm của các nước phương Tây về việc “đánh quỵ nền kinh tế Nga”. Ngay sau tuyên bố của ông Joe Biden, giá dầu trên thị trường thế giới lập tức tăng vọt. Phía Nga cũng cảnh báo, việc các nước phương Tây cấm nhập khẩu dầu từ Nga có thể dẫn tới “hậu quả khủng khiếp” làm giá dầu có thể tăng không dự đoán trước được, thậm chí lên tới 300 USD/thùng. Giá dầu tăng sẽ gây áp lực lớn với các nền kinh tế, trong đó Mỹ không phải ngoại lệ khi vẫn là quốc gia nhập khẩu ròng về năng lượng, trong đó nhập khẩu từ Nga chiếm 10%. Vậy Mỹ tính toán “được – mất” như thế nào khi quyết định tiến hành bước đi như vậy?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/03/11/vovlive_vandequocte_sutinhtoanduocmatcuamy.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 11 Mar 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Dấu ấn của chính quyền Tổng thống Moon Jae-in và những tác động cuộc bầu cử Tổng thống Hàn Quốc</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -47,14 +55,6 @@ Giới phân tích cho rằng, con đường gia nhập NATO của Ukraine có r
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/03/07/vovlive_vandequocte_nolucthaonutthattrongdamphanhatnhaniran.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 07 Mar 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Nhiều trọng tâm trong Thông điệp liên bang của Tổng thống Mỹ</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[9h tối 1/3, tức 9h sáng ngày 2/3 theo giờ Việt Nam, Tổng thống Mỹ Joe Biden đọc Thông điệp liên bang lần đầu tiên tại lưỡng viện Quốc hội Mỹ. Đây là dịp để người đứng đầu nước Mỹ đưa ra những thông điệp quan trọng về các chiến lược phát triển đất nước, cũng như thuyết phục người dân và các nghị sỹ về những quyết sách còn gây tranh cãi. Dù Tổng thống Biden từng có bài phát biểu trước Quốc hội 1 năm trước nhưng đó chưa phải là một bản Thông điệp Liên bang chính thức như lần này. Vì thế, trong bối cảnh nước Mỹ đang đối diện rất nhiều thách thức như cuộc khủng hoảng Ukraine, quan hệ với Nga, phục hồi kinh tế, xử lý triệt để hậu quả đại dịch Covid-19, dư luận đang đặc biệt chú ý đến những gì mà ông Biden sẽ đề cập.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/03/02/vovlive_vandequocte_nhieutrongtamtrongthongdieplienbangcuatongthongmy.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 02 Mar 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
