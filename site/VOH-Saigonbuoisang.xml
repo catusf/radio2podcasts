@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 13 Mar 2022 03:38:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 13 Mar 2022 15:25:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 13 Mar 2022 03:38:00 +0700</pubDate>
+    <pubDate>Sun, 13 Mar 2022 15:25:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Hội thi vẽ tranh áo dài và hoa 2022 - Sài Gòn buổi sáng 13/3/2022</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/hoi-thi-ve-tranh-ao-dai-va-hoa-2022-sai-gon-buoi-sang-13-3-2022-428428.html</link>
+      <description><![CDATA[08:25 - 13/03/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/hoi-thi-ve-tranh-ao-dai-va-hoa-2022-sai-gon-buoi-sang-13-3-2022-428428.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/03/13/FMsaigonbuoisang06h00p130322.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 13 Mar 2022 15:25:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Sài Gòn buổi sáng 12/3/2022</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-12-3-2022-428407.html</link>
       <description><![CDATA[20:38 - 12/03/2022]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-12-3-2022-428407.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/03/12/fmsaigonbuoisang06h00p120322-20220311223714.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 13 Mar 2022 03:38:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>TPHCM sẽ cấp giấy hoàn thành cách ly qua email - Sài Gòn Buổi Sáng 11/03/2022</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/tphcm-se-cap-giay-hoan-thanh-cach-ly-qua-email-sai-gon-buoi-sang-11-03-2022-428252.html</link>
-      <description><![CDATA[12:56 - 11/03/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/tphcm-se-cap-giay-hoan-thanh-cach-ly-qua-email-sai-gon-buoi-sang-11-03-2022-428252.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/03/11/fmsgbs06h00p110322-20220311062408.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 11 Mar 2022 19:56:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
