@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 13 Mar 2022 19:09:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 14 Mar 2022 05:52:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 13 Mar 2022 19:09:00 +0700</pubDate>
+    <pubDate>Mon, 14 Mar 2022 05:52:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Khởi động chiến dịch Giờ Trái Đất năm 2022 - Thời Sự 17g00 13/3/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/khoi-dong-chien-dich-gio-trai-dat-nam-2022-thoi-su-17g00-13-3-2022-428479.html</link>
+      <description><![CDATA[22:52 - 13/03/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/khoi-dong-chien-dich-gio-trai-dat-nam-2022-thoi-su-17g00-13-3-2022-428479.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/03/13/AMThoisu17h00p130322.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 14 Mar 2022 05:52:00 +0700</pubDate>
+    </item>
     <item>
       <title>Thủ tướng Phạm Minh Chính dâng hương tưởng niệm các liệt sĩ Gạc Ma – Thời sự 11g 13/3/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/thu-tuong-pham-minh-chinh-dang-huong-tuong-niem-cac-liet-si-gac-ma-thoi-su-11g-13-3-2022-428449.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/bai-2-loi-giai-cho-bai-toan-nhan-luc-du-lich-chi-mang-tinh-tam-thoi-thoi-su-5g30-13-3-2022-428425.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/03/13/AMThoisu05h30p130322.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 13 Mar 2022 13:07:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Thiếu ưu đãi, các chủ đầu tư “không mặn mà” xây dựng nhà ở xã hội - Thời sự 17g00 12/3/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/thieu-uu-dai-cac-chu-dau-tu-khong-man-ma-xay-dung-nha-o-xa-hoi-thoi-su-17g00-12-3-2022-428409.html</link>
-      <description><![CDATA[20:38 - 12/03/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/thieu-uu-dai-cac-chu-dau-tu-khong-man-ma-xay-dung-nha-o-xa-hoi-thoi-su-17g00-12-3-2022-428409.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/03/12/amthoisu17h00p120322-20220312171704.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 13 Mar 2022 03:38:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
