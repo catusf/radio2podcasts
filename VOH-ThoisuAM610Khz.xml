@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 14 Mar 2022 21:26:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 15 Mar 2022 02:44:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 14 Mar 2022 21:26:00 +0700</pubDate>
+    <pubDate>Tue, 15 Mar 2022 02:44:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>“Việt Nam sẽ tạo điều kiện tốt nhất cho du khách quốc tế” - Thời sự 17g00 14/3/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/viet-nam-se-tao-dieu-kien-tot-nhat-cho-du-khach-quoc-te-thoi-su-17g00-14-3-2022-428548.html</link>
+      <description><![CDATA[19:44 - 14/03/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/viet-nam-se-tao-dieu-kien-tot-nhat-cho-du-khach-quoc-te-thoi-su-17g00-14-3-2022-428548.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/03/14/AMThoisu17h00p140322.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 15 Mar 2022 02:44:00 +0700</pubDate>
+    </item>
     <item>
       <title>Ngân hàng Thế giới: "Kinh tế Việt Nam tiếp tục phục hồi" – Thời sự 11g00 14/3/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/ngan-hang-the-gioi-kinh-te-viet-nam-tiep-tuc-phuc-hoi-thoi-su-11g00-14-3-2022-428526.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/kieu-bao-canh-tay-noi-dai-dua-nong-san-viet-nam-bay-xa-thoi-su-5g30-14-3-2022-428502.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/03/14/AMThoisu05h30p140322.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 14 Mar 2022 16:23:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Khởi động chiến dịch Giờ Trái Đất năm 2022 - Thời Sự 17g00 13/3/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/khoi-dong-chien-dich-gio-trai-dat-nam-2022-thoi-su-17g00-13-3-2022-428479.html</link>
-      <description><![CDATA[22:52 - 13/03/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/khoi-dong-chien-dich-gio-trai-dat-nam-2022-thoi-su-17g00-13-3-2022-428479.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/03/13/AMThoisu17h00p130322.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 14 Mar 2022 05:52:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
