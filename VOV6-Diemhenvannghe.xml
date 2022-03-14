@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 13 Mar 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 14 Mar 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 13 Mar 2022 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 14 Mar 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,14 @@
     <itunes:subtitle>Điểm hẹn văn nghệ</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Diemhenvannghe.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>“Lửa ấm”:  Vững tin với những yêu thương  13/3/2022</title>
+      <title>Báo Văn nghệ số 11 ra ngày 12/3/2022 14/3/2022</title>
+      <link>http://vov6.vov.vn/diem-hen-van-nghe/bao-van-nghe-so-11-ra-ngay-1232022-c158-34317.aspx</link>
+      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/bao-van-nghe-so-11-ra-ngay-1232022-c158-34317.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2022_3/diem_bao_van_nghe_143202214.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 14 Mar 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>“Lửa ấm”:  Vững tin với những yêu thương   13/3/2022</title>
       <link>http://vov6.vov.vn/diem-hen-van-nghe/lua-am-vung-tin-voi-nhung-yeu-thuong-c158-34314.aspx</link>
       <description><![CDATA[Điền nhớ mãi ngày anh quyết định trở về thuê một cái ốt nho nhỏ cạnh trường học để mở lò bánh. Những ngày đầu khách chưa quen tiệm, anh dậy sớm nướng bánh rồi ủ vào thùng xốp đạp xe vào tận ngõ ngách xóm làng rao bán. Bánh mì Thơm nhờ thế ngày một làm ăn nên nổi, cuộc sống của vợ chồng anh nhờ thế cũng đỡ lên phần nào. Cho đến bây giờ anh vẫn mãi không quên động lực đã làm nên sức mạnh khiến anh về lại quê hương lập nghiệp. Đó là tình yêu của Thơm, tình yêu như lửa ấm đã giúp anh trở về... (Trích truyện ngắn “Lửa ấm” của nhà văn Trần Quỳnh Nga). (Điểm hẹn văn nghệ)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/lua-am-vung-tin-voi-nhung-yeu-thuong-c158-34314.aspx</guid>
@@ -38,14 +45,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/coi-nhan-gian-buc-tranh-ve-doi-nguoi-dau-be-c158-34309.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2022_3/gts_coi_nhan_gian_hc_11320228.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 11 Mar 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>“Châu Phi nghìn trùng” – Sự lộng lẫy của ngôn từ  4/3/2022</title>
-      <link>http://vov6.vov.vn/diem-hen-van-nghe/chau-phi-nghin-trung-su-long-lay-cua-ngon-tu-c158-34295.aspx</link>
-      <description><![CDATA[Được in lần đầu năm 1937 bằng tiếng Anh, “Châu Phi nghìn trùng” của tác giả người Đan Mạch Isak Dinesen đã nhanh chóng gây tiếng vang lớn ở Mỹ và châu Âu. Tuy nhiên, phải đến năm ngoái, cuốn sách này mới được dịch giả Hà Thế Giang và NXB Phụ nữ giới thiệu tới độc giả Việt. Một cuộc gặp gỡ có phần muộn màng nhưng đem lại nhiều trái ngọt khi “Châu Phi nghìn trùng” đã được xướng tên trong hạng mục Dịch thuật của Giải thưởng Hội Nhà văn Việt Nam. Để hiểu thêm về cuốn sách, mời quý vị và các bạn nghe bài viết của BTV  Nguyễn Hà có nhan đề “Châu Phi nghìn trùng” – Sự lộng lẫy của ngôn từ.]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/chau-phi-nghin-trung-su-long-lay-cua-ngon-tu-c158-34295.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2022_3/gts_chau_phi_nghin_trung_hc_43202212.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 04 Mar 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
