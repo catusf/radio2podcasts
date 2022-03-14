@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 13 Mar 2022 14:20:42 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 14 Mar 2022 14:21:15 +0100</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 13 Mar 2022 14:20:42 +0100</pubDate>
+    <pubDate>Mon, 14 Mar 2022 14:21:15 +0100</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>60'</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/RFI-Chuongtrinh60.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>14-03-2022 Chương trình 60'</title>
+      <link>https://www.rfi.fr/vi/t%E1%BB%95ng-h%E1%BB%A3p/20220314-ch%C6%B0%C6%A1ng-tr%C3%ACnh-60-ph%C3%BAt</link>
+      <description><![CDATA[Chương trình ngày 14-03-2022 ]]></description>
+      <guid isPermaLink="false">https://www.rfi.fr/vi/t%E1%BB%95ng-h%E1%BB%A3p/20220314-ch%C6%B0%C6%A1ng-tr%C3%ACnh-60-ph%C3%BAt</guid>
+      <enclosure url="https://aod-rfi.akamaized.net/rfi/vietnamien/audio/modules/actu/202203/VN_60MN_2022_03_14.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 14 Mar 2022 14:21:15 +0100</pubDate>
+    </item>
     <item>
       <title>13-03-2022 Chương trình 60'</title>
       <link>https://www.rfi.fr/vi/t%E1%BB%95ng-h%E1%BB%A3p/20220313-ch%C6%B0%C6%A1ng-tr%C3%ACnh-60-ph%C3%BAt</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://www.rfi.fr/vi/t%E1%BB%95ng-h%E1%BB%A3p/20220310-ch%C6%B0%C6%A1ng-tr%C3%ACnh-60-ph%C3%BAt</guid>
       <enclosure url="https://aod-rfi.akamaized.net/rfi/vietnamien/audio/modules/actu/202203/VN_60MN_2022_03_10.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 10 Mar 2022 14:21:14 +0100</pubDate>
-    </item>
-    <item>
-      <title>09-03-2022 Chương trình 60'</title>
-      <link>https://www.rfi.fr/vi/t%E1%BB%95ng-h%E1%BB%A3p/20220309-ch%C6%B0%C6%A1ng-tr%C3%ACnh-60-ph%C3%BAt</link>
-      <description><![CDATA[Chương trình ngày 09-03-2022 ]]></description>
-      <guid isPermaLink="false">https://www.rfi.fr/vi/t%E1%BB%95ng-h%E1%BB%A3p/20220309-ch%C6%B0%C6%A1ng-tr%C3%ACnh-60-ph%C3%BAt</guid>
-      <enclosure url="https://aod-rfi.akamaized.net/rfi/vietnamien/audio/modules/actu/202203/VN_60MN_2022_03_09.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 09 Mar 2022 14:21:12 +0100</pubDate>
     </item>
   </channel>
 </rss>
