@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 10 Mar 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 15 Mar 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 10 Mar 2022 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 15 Mar 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,27 +24,27 @@
     <itunes:subtitle>Văn nghệ thiếu nhi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Vannghethieunhi.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Bên dòng Lại giang  10/3/2022</title>
+      <title>Đọc truyện "Ông già Khốt-ta-bít" - Buổi 27 - Chú chó béc giê 15/3/2022</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-ong-gia-khot-ta-bit-buoi-27-chu-cho-bec-gie-c44-34320.aspx</link>
+      <description><![CDATA[Mấy hôm rồi Vôn-ka không gặp mặt Gô-ga. Cậu vẫn ghen tị, nghĩ rằng Gô-ga đang nuôi một chú chó. Vôn-ka vui mừng khi được ông già Khốt-ta-bít tặng cho một chú chó bec-giê rất đẹp nhưng cậu bối rối không biết trả lời mẹ như thế nào nếu mẹ hỏi về sự xuất hiện của chú béc-giê ấy... (Văn nghệ thiếu nhi 11/03/2022)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-ong-gia-khot-ta-bit-buoi-27-chu-cho-bec-gie-c44-34320.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2022_3/v2_1103_10h4518h15_van_nghe_thieu_nhi_153202216.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 15 Mar 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>"Bốn mùa yêu thương" cùng nhạc sỹ Lê Dũng   15/3/2022</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/bon-mua-yeu-thuong-cung-nhac-sy-le-dung-c44-34319.aspx</link>
+      <description><![CDATA[Dù mới chuyên tâm với công việc sáng tác ca khúc, nhưng nhạc sĩ Lê Dũng đã có nhiều ca khúc ấn tượng được các  bạn nhỏ yêu thích. Trong đó các ca khúc như “Bốn mùa yêu thương” (giải nhì Cuộc thi vận động sáng tác ca khúc cho lứa tuổi thanh thiếu niên do Hội giáo viên dạy Âm nhạc toàn quốc phát động năm 2020), “Khúc hoan ca mùa thu” (giải nhì Liên hoan hội diễn các CLB, trung tâm nghệ thuật tỉnh Bắc Giang năm 2020), “Ngôi trường giữa ngàn mây (giải khuyến khích Cuộc thi sáng tác ca khúc về đề tài dân tộc, thiểu số miền núi năm 2020 do bộ VHTT&DL tổ chức)... (Văn nghệ thiếu nhi 09/03/2022)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/bon-mua-yeu-thuong-cung-nhac-sy-le-dung-c44-34319.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2022_3/v2_0903_10h4518h15_van_nghe_thieu_nhi_153202215.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 15 Mar 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Bên dòng Lại giang   10/3/2022</title>
       <link>http://vov6.vov.vn/van-nghe-thieu-nhi/ben-dong-lai-giang-c44-34308.aspx</link>
       <description><![CDATA["Lại giang cạn khô dòng nước mắt mặc cho lau sậy mọc kín cả mặt sông. Lại giang khóc khúc ai oán khi bỏng rát những tháng ngày nóng chờ đợi những cơn mưa mùa mới cựa mình trở lại…”. Tản văn “Lại giang bên lở bên bồi” của thầy giáo Bùi Duy Phong (trường THPT Tăng Bạt Hổ, thị xã Hoài Nhơn, Bình Định) viết về con sông Lại quê hương, bộc lộ tình cảm thiết tha, trìu mến về quê hương, đất nước mến yêu... (Văn nghệ thiếu nhi 07/03/2022)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/ben-dong-lai-giang-c44-34308.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2022_3/v2_0703_10h4518h15_van_nghe_thieu_nhi_103202216.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 10 Mar 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đọc truyện "Ông già Khốt-ta-bít" - Buổi 26 - Ốm rồi sao   10/3/2022</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-ong-gia-khot-ta-bit-buoi-26-om-roi-sao-c44-34307.aspx</link>
-      <description><![CDATA[Ở rạp xiếc, ông Khôt-ta-bít biểu diễn hết trò này đến trò khác trong sự phấn khích và vui vẻ của mọi người. Tuy nhiên, một sự việc bất ngờ xảy ra. Ông già Khốt-ta-bít bỗng nhiên đổ bệnh, sốt cao và phải đưa vào phòng cấp cứu. Ông mê sảng khiến cho Vôn-ca vô cùng hoảng hốt... (Văn nghệ thiếu nhi 06/03/2022)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-ong-gia-khot-ta-bit-buoi-26-om-roi-sao-c44-34307.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2022_3/v2_0603_10h4518h15_van_nghe_thieu_nhi_103202216.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 10 Mar 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đọc truyện "Ông già Khốt-ta-bít" - Buổi 25 - Bất ngờ ở rạp xiếc   10/3/2022</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-ong-gia-khot-ta-bit-buoi-25-bat-ngo-o-rap-xiec-c44-34306.aspx</link>
-      <description><![CDATA[Muốn giúp Vôn-ca nguôi ngoai nỗi sợ hãi, ông già Khốt-ta-bít yêu cầu Vôn-ca dạy ông học chữ. Sau buổi học thú vị ấy, Vôn-ca còn mua kem cho ông ăn. Ông ăn bốn mươi ba cái kem trước sự ngạc nhiên của Vôn-ca và Giê-ni-a. Họ quay lại rạp xiếc và bắt đầu xem các trò ảo thuật hấp dẫn... (Văn nghệ thiếu nhi 05/03/2022)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-ong-gia-khot-ta-bit-buoi-25-bat-ngo-o-rap-xiec-c44-34306.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2022_3/v2_0503_10h4518h15_van_nghe_thieu_nhi_103202216.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 10 Mar 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
