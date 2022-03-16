@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 14 Mar 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 16 Mar 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 14 Mar 2022 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 16 Mar 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,22 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Áp dụng hệ thống phần mềm ISO điện tử - bước chuyển quan trọng để cơ quan nhà nước phục vụ người dân tốt hơn</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Quảng Ninh vừa trở thành địa phương đầu tiên của miền Bắc áp dụng hệ thống phần mềm ISO điện tử theo Tiêu chuẩn quốc gia ISO 9001:2015 vào hơn 220 cơ quan hành chính Nhà nước, từ tuyến tỉnh đến cấp xã. Trước đó, Quảng Ninh cũng triển khai nhiều giải pháp giúp địa phương đứng đầu cả nước về các chỉ số cải cách hành chính như PCI, SIPAS, PAPI, PAR Index. Những lợi ích thiết thực trong việc áp dụng hệ thống phần mềm ISO điện tử là gì? Làm thế nào để nhân rộng hệ thống này ở các địa phương?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/03/16/vovlive_sukienvabanluan_ap_dung_he_thong_phan_mem_iso.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 16 Mar 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Thách thức xây dựng “thành phố 10 phút” của Indonesia</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Indonesia đã quyết định rời thủ đô từ Jarkarta sang đảo Borneo, phía đông tỉnh Kalimantan và thủ đô mới có tên Nusantara. Quá trình hoàn thiện cơ sở hạ tầng cũng như hoàn tất việc dời đô phải mất đến 20 năm với ngân sách lên đến 32 tỷ đô la Mỹ. Cho đến thời điểm này, những hình dung về thủ đô mới của “đất nước vạn đảo” bắt đầu trở nên rõ nét hơn. Ngoài những điểm nổi bật của một thành phố xanh, thành phố rừng, thì Nusantara cũng được kỳ vọng là một thành phố thông minh, hiện đại…]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/03/16/vovlive_sukienvabanluan_thanh_pho_10_phut.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 16 Mar 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Thái Lan đối mặt khủng hoảng dân số</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -38,22 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/03/14/vovlive_sukienvabanluan_chien_su_nga_-ukraine.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 11 Mar 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Thái Lan từng bước tuyên bố COVID-19 là bệnh đặc hữu</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Bộ Y tế Thái Lan cho biết đang có kế hoạch sớm hạ cấp COVID-19 từ đại dịch thành một bệnh đặc hữu trong vòng 4 tháng tới và muộn nhất là trước cuối năm nay. Trong bối cảnh một số nước châu Âu như Đan Mạch, Thụy Điển đã tuyên bố chấm dứt đại dịch, nhiều quốc gia khác cũng đang đặt mục tiêu sớm công nhận COVID-19 là bệnh đặc hữu, chiến lược của Thái Lan - một quốc gia cùng khu vực với Việt Nam có gì đặc biệt?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/03/14/vovlive_sukienvabinhluan_thai_lan_tunng_tuyen_bo_dac_huu-8.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 08 Mar 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Xuất nhập khẩu 2 tháng đầu năm tăng kỷ lục: góc nhìn từ địa phương</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Hơn 100 tỷ đô la Mỹ là giá trị kim ngạch xuất nhập khẩu 2 tháng đầu năm nay – mức cao nhất từ trước tới nay. Số liệu được Tổng cục thống kê về tình hình sản xuất, xuất nhập khẩu 2 tháng đầu năm cho thấy những tín hiệu khởi sắc, nhiều ngành hàng đang phục hồi sau đại dịch. Những kinh nghiệm nào của các địa phương trong việc hỗ trợ doanh nghiệp sản xuất, xuất khẩu? Những rào cản nào cần tiếp tục phải tháo gỡ để hướng tới xuất khẩu bền vững?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/03/14/vovlive_sukienvabinhluan_xuat_nhap_khau_2-_thang_dau_nam-7-3.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 07 Mar 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
