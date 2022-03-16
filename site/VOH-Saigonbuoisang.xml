@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 15 Mar 2022 17:27:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 16 Mar 2022 13:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 15 Mar 2022 17:27:00 +0700</pubDate>
+    <pubDate>Wed, 16 Mar 2022 13:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Hiệp hội BĐS TPHCM đề xuất phát triển nhà ở giá phù hợp - Sài Gòn buổi sáng 16/3/2022</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/hiep-hoi-bds-tphcm-de-xuat-phat-trien-nha-o-gia-phu-hop-sai-gon-buoi-sang-16-3-2022-428685.html</link>
+      <description><![CDATA[06:00 - 16/03/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/hiep-hoi-bds-tphcm-de-xuat-phat-trien-nha-o-gia-phu-hop-sai-gon-buoi-sang-16-3-2022-428685.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/03/16/sgbs-160322.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 16 Mar 2022 13:00:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Nông nghiệp thông minh giải bài toán được mùa mất giá - Sài Gòn buổi sáng 15/3/2022</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/nong-nghiep-thong-minh-giai-bai-toan-duoc-mua-mat-gia-sai-gon-buoi-sang-15-3-2022-428584.html</link>
       <description><![CDATA[10:27 - 15/03/2022]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/nong-nghiep-thong-minh-giai-bai-toan-duoc-mua-mat-gia-sai-gon-buoi-sang-15-3-2022-428584.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/03/15/fmsgbs06h00p150322.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 15 Mar 2022 17:27:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Người dân không nên tự ý mua thuốc điều trị Covid-19 tại nhà - Sài Gòn buổi sáng 14/3/2022</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/nguoi-dan-khong-nen-tu-y-mua-thuoc-dieu-tri-covid-19-tai-nha-sai-gon-buoi-sang-14-3-2022-428501.html</link>
-      <description><![CDATA[09:14 - 14/03/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/nguoi-dan-khong-nen-tu-y-mua-thuoc-dieu-tri-covid-19-tai-nha-sai-gon-buoi-sang-14-3-2022-428501.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/03/14/fmsgbs06h00p140322-20220314063417.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 14 Mar 2022 16:14:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
