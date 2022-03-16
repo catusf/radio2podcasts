@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 11 Mar 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 16 Mar 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 11 Mar 2022 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 16 Mar 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,37 +24,36 @@
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Australia - Ấn Độ thúc đẩy thỏa thuận thương mại chiến lược tránh phụ thuộc Trung Quốc</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Mới đây, Australia cho biết đang thúc đẩy các nỗ lực để hoàn tất thỏa thuận thương mại song phương với Ấn Độ ngay trong tuần này. Đây là một trong những thỏa thuận quan trọng nhất của Canberra và Newdelhi, trong bối cảnh quan hệ của cả 2 nước với Trung Quốc đã xấu đi trong vài năm qua. Đâu là những tính toán của hai nước thông qua thỏa thuận thương mại chiến lược này? Đồng thời, nếu một thỏa thuận như vậy đạt được sẽ tác động ra sao đến các trục quan hệ kinh tế trong khu vực?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/03/16/vovlive_vandequocte_australiaandothucdaythoathuanthuongmai.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 16 Mar 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Đàm phán hàn gắn quan hệ song phương Iran - Ảrập Xê-út : “Giữa đường đứt gánh”</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Iran đã bất ngờ ra quyết định đơn phương ngừng vòng đàm phán thứ 5 giữa nước này với Ảrập Xê-út nhằm hàn gắn mối quan hệ “cơm chẳng lành, canh chẳng ngọt” từ nhiều năm nay. Cuộc đàm phán “giữa đường đứt gánh” sẽ ảnh hưởng như thế nào tới cơ hội giải quyết bất đồng giữa hai quốc gia vốn luôn tranh giành ảnh hưởng tại Trung Đông và điều đó tác động thế nào tới khu vực?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/03/16/vovlive_vandquocte_damphanhanganquanheiirsongphuoniranarap.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 15 Mar 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Thách thức nào cho tân Tổng thống Hàn Quốc?</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Cuộc bầu cử Tổng thống lần thứ 20 của Hàn Quốc đã khép lại với chiến thắng sít sao của ứng cử viên Yoon Suk-yeol của Đảng Quyền lực nhân dân (PPP). Đây được đánh giá là một trong những cuộc đua gay cấn nhất trong lịch sử của “Xứ sở kim chi”, vốn sẽ định hình chiến lược phát triển nền kinh tế lớn thứ tư Châu Á này trong 5 năm tới. Là một luật sư, chính trị gia và cựu công tố viên, liệu chủ nhân mới của Nhà Xanh sẽ có những chiến lược nào nổi bật cả về đối nội và đối ngoại, trong bối cảnh hàng loạt thách thức đang đặt ra đối với Hàn Quốc thời gian qua.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/03/16/vovlive_vandequocte_thachthucnaochotantongthonghanquoc.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 11 Mar 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Sự tính toán “được – mất” của Mỹ khi cấm nhập khẩu dầu từ Nga</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
       <description><![CDATA[Tổng thống Mỹ Joe Biden vừa công bố lệnh cấm nhập khẩu dầu từ Nga. Dự kiến sau Mỹ, sẽ có thêm những quốc gia có bước đi tương tự nhằm thực hiện quyết tâm của các nước phương Tây về việc “đánh quỵ nền kinh tế Nga”. Ngay sau tuyên bố của ông Joe Biden, giá dầu trên thị trường thế giới lập tức tăng vọt. Phía Nga cũng cảnh báo, việc các nước phương Tây cấm nhập khẩu dầu từ Nga có thể dẫn tới “hậu quả khủng khiếp” làm giá dầu có thể tăng không dự đoán trước được, thậm chí lên tới 300 USD/thùng. Giá dầu tăng sẽ gây áp lực lớn với các nền kinh tế, trong đó Mỹ không phải ngoại lệ khi vẫn là quốc gia nhập khẩu ròng về năng lượng, trong đó nhập khẩu từ Nga chiếm 10%. Vậy Mỹ tính toán “được – mất” như thế nào khi quyết định tiến hành bước đi như vậy?]]></description>
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/03/11/vovlive_vandequocte_sutinhtoanduocmatcuamy.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 11 Mar 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Dấu ấn của chính quyền Tổng thống Moon Jae-in và những tác động cuộc bầu cử Tổng thống Hàn Quốc</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Ngày 9/3 diễn ra cuộc bầu cử Tổng thống Hàn Quốc nhằm tìm ra người kế nhiệm Tổng thống Moon Jae-in, người lãnh đạo đất nước Hàn Quốc trong 5 năm qua. Sau 20 ngày tranh cử, cuộc bầu cử tổng thống lần thứ 20 của Hàn Quốc hiện tại chỉ còn là cuộc đua của hai ứng cử viên gồm ông Lee Jae Myung của Đảng Dân chủ Hàn Quốc và ông Yoon Suk Yeol của Đảng Quyền lực nhân dân đối lập. Các kết quả thăm dò trước bầu cử cho thấy tỷ lệ ủng hộ đối với 2 ứng cử viên này gần như ngang nhau. Vì thế, kết quả cuộc bầu cử được dự đoán sẽ rất sít sao. Trong khi đó, theo giới quan sát, những di sản của chính quyền Tổng thống Moon Jae-in trong nhiệm kỳ qua là yếu tố quan trọng để cử tri soi chiếu trong việc bầu chọn người lãnh đạo kế tiếp.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/03/10/vovlive_vandequocte_dauancuachinhquyentononjongthongmoonjaein.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 10 Mar 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>"Mô hình phi NATO” và cơ hội tháo gỡ khủng hoảng</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Trong bối cảnh cuộc chiến giữa Nga và Ukraine vẫn đang diễn biến phức tạp, thì một thông tin được dư luận quan tâm là phía Ukraine để ngỏ khả năng đàm phán về “các mô hình phi NATO” cho tương lai của đất nước. Mô hình này được đại diện đàm phán của Ukraine giải thích là “một vòng kết nối rộng hơn", giúp Ukraine có sự đảm bảo trực tiếp của các quốc gia khác như Mỹ, Trung Quốc, Anh, Pháp hay Đức.
-Giới phân tích cho rằng, con đường gia nhập NATO của Ukraine có rất ít triển vọng, nhất là sau khi NATO trong cuộc họp của các Ngoại trưởng cuối tuần qua đã từ chối thiết lập vùng cấm bay như đề xuất của Ukraine. Vì vậy, “mô hình phi NATO” có thể là một cách tiếp cận khả thi hơn, đồng thời xóa đi “lằn ranh đỏ” mà Nga đặt ra đối với việc quốc gia sát sườn phía Tây gia nhập NATO.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/03/09/vovlive_vandequocte_mohinhphinato.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 08 Mar 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Nỗ lực tháo nút thắt trong đàm phán hạt nhân Iran</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Cuối tuần qua, Iran và Cơ quan Năng lượng nguyên tử quốc tế (IAEA) đã nhất trí về lộ trình tháo gỡ vướng mắc liên quan đến chương trình hạt nhân của nước Cộng hoà Hồi giáo này đến cuối tháng 6 tới. Đây được xem là đòn bẩy mới nhất nhằm góp phần nhanh chóng khôi phục thỏa thuận hạt nhân ký hồi năm 2015 có tên gọi đầy đủ là Kế hoạch Hành động chung toàn diện (JCPOA). Trước đó, các bên liên quan cho rằng, cuộc đàm phán đang ở "các bước quan trọng cuối cùng" và do đó cần thể hiện quyết tâm chính trị để đạt được thỏa thuận. Với những nỗ lực của các bên liên quan, liệu dư luận có thể trông đợi vào một bản thoả thuận nhằm sớm khép lại hồ sơ hạt nhân Iran vốn phức tạp và dai dẳng?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/03/07/vovlive_vandequocte_nolucthaonutthattrongdamphanhatnhaniran.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 07 Mar 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
