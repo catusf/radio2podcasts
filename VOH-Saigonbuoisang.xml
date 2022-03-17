@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 16 Mar 2022 13:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 17 Mar 2022 16:01:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 16 Mar 2022 13:00:00 +0700</pubDate>
+    <pubDate>Thu, 17 Mar 2022 16:01:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Sài Gòn buổi sáng - 17/3/2022</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-17-3-2022-428787.html</link>
+      <description><![CDATA[09:01 - 17/03/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-17-3-2022-428787.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/03/17/fmsgbs06h00p170322-20220317070113.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 17 Mar 2022 16:01:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Hiệp hội BĐS TPHCM đề xuất phát triển nhà ở giá phù hợp - Sài Gòn buổi sáng 16/3/2022</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/hiep-hoi-bds-tphcm-de-xuat-phat-trien-nha-o-gia-phu-hop-sai-gon-buoi-sang-16-3-2022-428685.html</link>
       <description><![CDATA[06:00 - 16/03/2022]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/hiep-hoi-bds-tphcm-de-xuat-phat-trien-nha-o-gia-phu-hop-sai-gon-buoi-sang-16-3-2022-428685.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/03/16/sgbs-160322.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 16 Mar 2022 13:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Nông nghiệp thông minh giải bài toán được mùa mất giá - Sài Gòn buổi sáng 15/3/2022</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/nong-nghiep-thong-minh-giai-bai-toan-duoc-mua-mat-gia-sai-gon-buoi-sang-15-3-2022-428584.html</link>
-      <description><![CDATA[10:27 - 15/03/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/nong-nghiep-thong-minh-giai-bai-toan-duoc-mua-mat-gia-sai-gon-buoi-sang-15-3-2022-428584.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/03/15/fmsgbs06h00p150322.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 15 Mar 2022 17:27:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
