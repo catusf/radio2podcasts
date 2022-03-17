@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 06 Mar 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 13 Mar 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 06 Mar 2022 19:00:00 +0700</pubDate>
+    <pubDate>Sun, 13 Mar 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,15 @@
     </itunes:owner>
     <itunes:subtitle>Âm nhạc với cuộc sống</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Amnhacvoicuocsong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>“Ngàn tình yêu cho con”: Đưa âm nhạc Ngũ Cung tới gần hơn với công chúng</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[- “Ngàn tình yêu cho con”- Album nhạc nằm trong dự án đưa âm nhạc Ngũ cung tới gần hơn với công chúng nói chung và giới trẻ nói riêng của Ca sỹ, Chỉ huy hợp xướng Hà Ny và Thạc sĩ – Giảng viên Piano Trúc Vy. Nội dung album xoay quanh tình yêu gia đình và thiên nhiên. 
+- Thưởng thức các ca khúc “Dòng sông tình mẹ” và “Ngàn tình yêu cho con”  (Sáng tác: Hà Ny, Trúc My; Trình bày: Hà Ny) và cùng nghe những chia sẻ của hai nghệ sĩ Hà Ny, Trúc My về album nhạc này....]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/03/14/vovlive_am_nhac_voi_cuoc_song_ngan_tinh_yeu_cho_con.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 13 Mar 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>“Mẹ tôi”: Ca khúc trữ tình gợi nỗi nhớ da diết về mẹ</title>
       <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
@@ -49,14 +58,6 @@
       <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/02/24/vovlive_am_nhac_voi_cuoc_song_suc_manh_chung_ta.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 20 Feb 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Nguyễn Tài Tuệ: Người Nhạc sĩ tài hoa</title>
-      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[Nhạc sĩ Nguyễn Tài Tuệ qua đời vào sáng 11/2/2022, hưởng thọ 87 tuổi. Trong sự nghiệp âm nhạc của mình, đến nay ông cũng mới chỉ công bố chưa đến 20 ca khúc cùng một số tác phẩm khí nhạc. Nhưng khi nhắc tới ông, người yêu nhạc nhớ ngay đến các tác phẩm nổi tiếng, mang dấu ấn một thời như "Xa khơi", "Tiếng hát giữa rừng Pác Bó", "Mùa xuân gọi bạn", "Mơ quê", "Suối Mường Hum còn chảy mãi',... Bên cạnh sáng tác ca khúc, nhạc sĩ Nguyễn Tài Tuệ còn sáng tác một số tác phẩm khí nhạc như: "Những cánh chim cao nguyên", "Kỷ niệm quê hương" (cello và piano)... Ngoài ra, ông còn viết phần âm nhạc cho múa và một số ca cảnh, tổ khúc dân ca. Để tưởng nhớ tới người nhạc sĩ tài danh, cùng nghe lại một số ca khúc của ông đã ghi dấu ấn sâu đậm trong lòng công chúng yêu nhạc...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/02/24/vovlive_am_nhac_voi_cuoc_song_nguyen_tai_tue_ngui_nhac_si_tai_hoa.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 13 Feb 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
