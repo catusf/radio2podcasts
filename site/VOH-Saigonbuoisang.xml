@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 17 Mar 2022 16:01:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 18 Mar 2022 13:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 17 Mar 2022 16:01:00 +0700</pubDate>
+    <pubDate>Fri, 18 Mar 2022 13:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Tăng giờ làm thêm từ 40 giờ lên 72 giờ trong tháng có hợp lý không? - Sài Gòn buổi sáng 18/3/2022</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/tang-gio-lam-them-tu-40-gio-len-72-gio-trong-thang-co-hop-ly-khong-sai-gon-buoi-sang-18-3-2022-428972.html</link>
+      <description><![CDATA[06:00 - 18/03/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/tang-gio-lam-them-tu-40-gio-len-72-gio-trong-thang-co-hop-ly-khong-sai-gon-buoi-sang-18-3-2022-428972.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/03/18/sgbs-180322.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 18 Mar 2022 13:00:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Sài Gòn buổi sáng - 17/3/2022</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-17-3-2022-428787.html</link>
       <description><![CDATA[09:01 - 17/03/2022]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-17-3-2022-428787.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/03/17/fmsgbs06h00p170322-20220317070113.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 17 Mar 2022 16:01:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Hiệp hội BĐS TPHCM đề xuất phát triển nhà ở giá phù hợp - Sài Gòn buổi sáng 16/3/2022</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/hiep-hoi-bds-tphcm-de-xuat-phat-trien-nha-o-gia-phu-hop-sai-gon-buoi-sang-16-3-2022-428685.html</link>
-      <description><![CDATA[06:00 - 16/03/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/hiep-hoi-bds-tphcm-de-xuat-phat-trien-nha-o-gia-phu-hop-sai-gon-buoi-sang-16-3-2022-428685.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/03/16/sgbs-160322.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 16 Mar 2022 13:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
