@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 11 Mar 2022 21:37:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 18 Mar 2022 21:23:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 11 Mar 2022 21:37:00 +0700</pubDate>
+    <pubDate>Fri, 18 Mar 2022 21:23:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Làn sóng xanh trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Lansongxanh.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Làn Sóng Xanh - 18/3/2022</title>
+      <link>https://radio.voh.com.vn/lan-song-xanh/lan-song-xanh-18-3-2022-428891.html</link>
+      <description><![CDATA[14:23 - 18/03/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/lan-song-xanh/lan-song-xanh-18-3-2022-428891.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/03/18/lsx-180322-20220317203247.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 18 Mar 2022 21:23:00 +0700</pubDate>
+    </item>
     <item>
       <title>Làn Sóng Xanh - 11/3/2022</title>
       <link>https://radio.voh.com.vn/lan-song-xanh/lan-song-xanh-11-3-2022-428224.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/lan-song-xanh/lan-song-xanh-18-2-2022-426378.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/02/18/FMlansongxanh12h00p180222.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 19 Feb 2022 03:18:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Làn Sóng Xanh - 4/2/2022</title>
-      <link>https://radio.voh.com.vn/lan-song-xanh/lan-song-xanh-4-2-2022-426175.html</link>
-      <description><![CDATA[14:30 - 16/02/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/lan-song-xanh/lan-song-xanh-4-2-2022-426175.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/02/16/fmlansongxanh12h00p040222-20220207095108.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 16 Feb 2022 21:30:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
