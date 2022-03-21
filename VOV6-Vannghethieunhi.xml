@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 01 Jan 2000 07:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 16 Mar 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 01 Jan 2000 07:00:00 +0700</pubDate>
+    <pubDate>Wed, 16 Mar 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,5 +23,29 @@
     </itunes:owner>
     <itunes:subtitle>Văn nghệ thiếu nhi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Vannghethieunhi.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Tác phẩm "Bình Ngô đại cáo" trong chương trình Ngữ văn phổ thông  16/3/2022</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/tac-pham-binh-ngo-dai-cao-trong-chuong-trinh-ngu-van-pho-thong-c44-34323.aspx</link>
+      <description><![CDATA[Bình Ngô đại cáo là áng văn chính luận “vô tiền khoáng hậu” của nền văn học Trung đại Việt Nam. Tác phẩm mang ý nghĩa to lớn về lịch sử, chính trị đồng thời cũng mang những giá trị văn chương vô cùng sâu sắc. Đây là tác phẩm có vị trí quan trọng trong chương trình Ngữ văn trung học phổ thông... (Văn nghệ thiếu nhi 14/03/2022)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/tac-pham-binh-ngo-dai-cao-trong-chuong-trinh-ngu-van-pho-thong-c44-34323.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2022_3/v2_1403_10h4518h15_van_nghe_thieu_nhi_1_16320229.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 16 Mar 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Đọc truyện "Ông già Khốt-ta-bít" - Buổi 27-  Chăm sóc người ốm   15/3/2022</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-ong-gia-khot-ta-bit-buoi-27-cham-soc-nguoi-om-c44-34322.aspx</link>
+      <description><![CDATA[Dường như việc sử dụng phép thuật quá nhiều đã ảnh hưởng tới sức khỏe của ông Khốt-ta-bít. Vôn-ka và Giê-ni-a lo lắng bối rối khi một vị thần hùng mạnh như ông lại bị ốm. Sau khi đưa ông Khốt-ta-bít đang mê sảng về  nhà, hai cậu bé đặt ông ở chỗ quen thuộc dưới gầm giường, cho ông uống thuốc và để ông ăn cả một hộp mứt... (Văn nghệ thiếu nhi 11/03/2022)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-ong-gia-khot-ta-bit-buoi-27-cham-soc-nguoi-om-c44-34322.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2022_3/v2_1103_10h4518h15_van_nghe_thieu_nhi_153202216.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 15 Mar 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Đọc truyện "Ông già Khốt-ta-bít" - Buổi 29 - Bác sỹ chữa bệnh cho Gô-ga   15/3/2022</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-ong-gia-khot-ta-bit-buoi-29-bac-sy-chua-benh-cho-go-ga-c44-34321.aspx</link>
+      <description><![CDATA[Ông Khốt-ta-bít đến căn hộ số 37 để xem bác sĩ sẽ chữa căn bệnh kì lạ của Gô-ga như thế nào. Cứ mỗi khi nhắc tới cậu bạn Vôn-ka là Gô-ga lại sủa gâu gâu. Bác sĩ chuẩn đoán Gô-ga bị bệnh về thần kinh và chỉ có cậu ta mới giúp mình khỏi bệnh mà thôi.Vậy ông Khốt-ta-bít có tiếp tục trừng phạt thói mách lẻo của Gô-ga hay không? (Văn nghệ thiếu nhi 13/03/2022)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-ong-gia-khot-ta-bit-buoi-29-bac-sy-chua-benh-cho-go-ga-c44-34321.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/v2_1303_10h4518h15_van_nghe_thieu_nhi_1_153202216.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 15 Mar 2022 19:00:00 +0700</pubDate>
+    </item>
   </channel>
 </rss>
