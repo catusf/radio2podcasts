@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 14 Mar 2022 03:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 21 Mar 2022 03:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 14 Mar 2022 03:00:00 +0700</pubDate>
+    <pubDate>Mon, 21 Mar 2022 03:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sóng điện ảnh trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Songdienanh.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Những bản nhạc phim Kim Dung kinh điển (Kỳ 2) - Khung hình thứ 25 20/3/2022</title>
+      <link>https://radio.voh.com.vn/khung-hinh-thu-25/nhung-ban-nhac-phim-kim-dung-kinh-dien-ky-2-khung-hinh-thu-25-20-3-2022-429137.html</link>
+      <description><![CDATA[20:00 - 20/03/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/khung-hinh-thu-25/nhung-ban-nhac-phim-kim-dung-kinh-dien-ky-2-khung-hinh-thu-25-20-3-2022-429137.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/03/21/khunghinh-210322.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 21 Mar 2022 03:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Giao lưu cùng đoàn phim "Người lắng nghe" - Khung hình thứ 25 13/3/2022</title>
       <link>https://radio.voh.com.vn/khung-hinh-thu-25/giao-luu-cung-doan-phim-nguoi-lang-nghe-khung-hinh-thu-25-13-3-2022-428475.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/khung-hinh-thu-25/giao-luu-cung-doan-phim-nguoi-tinh-khung-hinh-thu-25-20-2-2022-426523.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/02/21/khunghinh-200222.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 21 Feb 2022 03:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Giao lưu cùng đoàn phim "Bẫy ngọt ngào" - Khung hình thứ 25 13/2/2022</title>
-      <link>https://radio.voh.com.vn/khung-hinh-thu-25/giao-luu-cung-doan-phim-bay-ngot-ngao-khung-hinh-thu-25-13-2-2022-425943.html</link>
-      <description><![CDATA[20:00 - 13/02/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/khung-hinh-thu-25/giao-luu-cung-doan-phim-bay-ngot-ngao-khung-hinh-thu-25-13-2-2022-425943.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/02/14/kh-130222.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 14 Feb 2022 03:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
