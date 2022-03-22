@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 01 Jan 2000 07:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 14 Mar 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 01 Jan 2000 07:00:00 +0700</pubDate>
+    <pubDate>Mon, 14 Mar 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,5 +23,28 @@
     </itunes:owner>
     <itunes:subtitle>Điểm hẹn văn nghệ</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Diemhenvannghe.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Bút ký "Hò hẹn với Gành Hào" 14/3/2022</title>
+      <link>http://vov6.vov.vn/diem-hen-van-nghe/but-ky-ho-hen-voi-ganh-hao-c158-34318.aspx</link>
+      <description><![CDATA[“Dưới trăng, dòng sông trôi rất dịu dàng/ Như dải lụa vàng xuôi về phương Đông/ Gành Hào ơi nửa đêm ai hát lên câu hoài lang/ Vầng trăng nghiêng xuống trên vạt rừng tràm…”. Con sông Gành Hào được nhạc sĩ Vũ Đức Sao Biển vẽ lên bằng những nốt nhạc dìu dặt trong ca khúc “Đêm Gành Hào nghe điệu hoài lang”, để rồi khi nghe qua, những tâm hồn chai sạn cũng mềm như nước, mong được một lần xuôi dòng sông và trôi về phía biển, được sống trong vài khoảnh khắc ngắn ngủi của cuộc đời mình nhưng nhiều ý nghĩa. Chính cái ý nghĩ ấy dẫn dụ nên tác giả Trương Chí Hùng chẳng ngại ngần cưỡi trên con ngựa sắt rong ruổi xuống miền hạ, để nghe tiếng thở của cỏ cây lau lách, chạm vào vị mặn của từng thớ đất phía cuối trời Nam, và sống cùng nỗi buồn mênh mông thiên cổ…(Văn nghệ 15/03/2022)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/but-ky-ho-hen-voi-ganh-hao-c158-34318.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/ho_hen_voi_ganh_hao_163202210.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 14 Mar 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Báo Văn nghệ số 11 ra ngày 12/3/2022  14/3/2022</title>
+      <link>http://vov6.vov.vn/diem-hen-van-nghe/bao-van-nghe-so-11-ra-ngay-1232022-c158-34317.aspx</link>
+      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/bao-van-nghe-so-11-ra-ngay-1232022-c158-34317.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2022_3/diem_bao_van_nghe_143202214.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 14 Mar 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>“Lửa ấm”:  Vững tin với những yêu thương   13/3/2022</title>
+      <link>http://vov6.vov.vn/diem-hen-van-nghe/lua-am-vung-tin-voi-nhung-yeu-thuong-c158-34314.aspx</link>
+      <description><![CDATA[Điền nhớ mãi ngày anh quyết định trở về thuê một cái ốt nho nhỏ cạnh trường học để mở lò bánh. Những ngày đầu khách chưa quen tiệm, anh dậy sớm nướng bánh rồi ủ vào thùng xốp đạp xe vào tận ngõ ngách xóm làng rao bán. Bánh mì Thơm nhờ thế ngày một làm ăn nên nổi, cuộc sống của vợ chồng anh nhờ thế cũng đỡ lên phần nào. Cho đến bây giờ anh vẫn mãi không quên động lực đã làm nên sức mạnh khiến anh về lại quê hương lập nghiệp. Đó là tình yêu của Thơm, tình yêu như lửa ấm đã giúp anh trở về... (Trích truyện ngắn “Lửa ấm” của nhà văn Trần Quỳnh Nga). (Điểm hẹn văn nghệ)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/lua-am-vung-tin-voi-nhung-yeu-thuong-c158-34314.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/v2_2602_18h30_diem_hen_van_nghe_133202222.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 13 Mar 2022 19:00:00 +0700</pubDate>
+    </item>
   </channel>
 </rss>
