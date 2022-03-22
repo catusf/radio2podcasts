@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 21 Mar 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 22 Mar 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 21 Mar 2022 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 22 Mar 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Chính sách "Zero Covid-19 năng động" của Trung Quốc sẽ như thế nào?</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Sau một thời gian dài duy trì chính “Zero Covid-19” – một chính sách khá khác biệt so với phần lớn các quốc gia trên thế giới, Chủ tịch Trung Quốc Tập Cận Bình mới đây đã nhắc tới một khái niệm, đánh dấu sự thay đổi lớn trong ứng phó với dịch bệnh, đó là “Zero Covid-19 năng động”. Đã có nhiều đồn đoán khác nhau về chính sách mới này của Trung Quốc, rằng sau hai sự kiện thể thao lớn là Olympic và Paralympic Bắc Kinh, đã đến lúc Trung Quốc thay đổi theo xu hướng chung của thế giới, hay nền kinh tế quốc gia này sẽ không thể chống chịu nếu tiếp tục duy trì “Zero Covid-19” trong thời gian dài. Vậy đằng sau việc Trung Quốc đề ra chính sách “Zero Covid-19 năng động” là gì?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/03/22/vovlive_sukienvabanluan_chinh_sach_zeoro.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 22 Mar 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Nga "bơm tiền" ứng phó với lệnh trừng phạt của phương Tây</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -45,14 +53,6 @@
       <description><![CDATA[Quảng Ninh vừa trở thành địa phương đầu tiên của miền Bắc áp dụng hệ thống phần mềm ISO điện tử theo Tiêu chuẩn quốc gia ISO 9001:2015 vào hơn 220 cơ quan hành chính Nhà nước, từ tuyến tỉnh đến cấp xã. Trước đó, Quảng Ninh cũng triển khai nhiều giải pháp giúp địa phương đứng đầu cả nước về các chỉ số cải cách hành chính như PCI, SIPAS, PAPI, PAR Index. Những lợi ích thiết thực trong việc áp dụng hệ thống phần mềm ISO điện tử là gì? Làm thế nào để nhân rộng hệ thống này ở các địa phương?]]></description>
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/03/16/vovlive_sukienvabanluan_ap_dung_he_thong_phan_mem_iso.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 16 Mar 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Thách thức xây dựng “thành phố 10 phút” của Indonesia</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Indonesia đã quyết định rời thủ đô từ Jarkarta sang đảo Borneo, phía đông tỉnh Kalimantan và thủ đô mới có tên Nusantara. Quá trình hoàn thiện cơ sở hạ tầng cũng như hoàn tất việc dời đô phải mất đến 20 năm với ngân sách lên đến 32 tỷ đô la Mỹ. Cho đến thời điểm này, những hình dung về thủ đô mới của “đất nước vạn đảo” bắt đầu trở nên rõ nét hơn. Ngoài những điểm nổi bật của một thành phố xanh, thành phố rừng, thì Nusantara cũng được kỳ vọng là một thành phố thông minh, hiện đại…]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/03/16/vovlive_sukienvabanluan_thanh_pho_10_phut.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 16 Mar 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
