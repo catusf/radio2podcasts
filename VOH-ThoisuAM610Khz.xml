@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 22 Mar 2022 19:49:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 23 Mar 2022 03:02:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 22 Mar 2022 19:49:00 +0700</pubDate>
+    <pubDate>Wed, 23 Mar 2022 03:02:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Lãnh đạo TPHCM tham vấn các góp ý, hiến kế từ các nhà đầu tư - Thời sự 17g00 22/3/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/lanh-dao-tphcm-tham-van-cac-gop-y-hien-ke-tu-cac-nha-dau-tu-thoi-su-17g00-22-3-2022-429313.html</link>
+      <description><![CDATA[20:02 - 22/03/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/lanh-dao-tphcm-tham-van-cac-gop-y-hien-ke-tu-cac-nha-dau-tu-thoi-su-17g00-22-3-2022-429313.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/03/22/AMThoisu17h00p220322.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 23 Mar 2022 03:02:00 +0700</pubDate>
+    </item>
     <item>
       <title>TPHCM lắng nghe ý kiến doanh nghiệp để phát triển bền vững - Thời sự 11g00 22/3/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-lang-nghe-y-kien-doanh-nghiep-de-phat-trien-ben-vung-thoi-su-11g00-22-3-2022-429265.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/ky-2-nang-cao-nang-luc-y-te-co-so-se-chia-tu-nguoi-trong-cuoc-thoi-su-5g30-22-3-2022-429233.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/03/22/AMThoisu05h30p220322.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 22 Mar 2022 13:09:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Thêm bệnh viện tiếp nhận trẻ em mắc Covid-19 trên địa bàn TPHCM - Thời sự 17g00 21/3/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/them-benh-vien-tiep-nhan-tre-em-mac-covid-19-tren-dia-ban-tphcm-thoi-su-17g00-21-3-2022-429230.html</link>
-      <description><![CDATA[23:27 - 21/03/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/them-benh-vien-tiep-nhan-tre-em-mac-covid-19-tren-dia-ban-tphcm-thoi-su-17g00-21-3-2022-429230.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/03/21/amthoisu17h00p210322-20220321171049.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 22 Mar 2022 06:27:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
