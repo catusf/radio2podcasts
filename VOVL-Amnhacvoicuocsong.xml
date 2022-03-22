@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 13 Mar 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 20 Mar 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 13 Mar 2022 19:00:00 +0700</pubDate>
+    <pubDate>Sun, 20 Mar 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Âm nhạc với cuộc sống</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Amnhacvoicuocsong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Vĩnh biệt Nhạc sĩ Ngọc Châu</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[Ngày 17/3/2022, Nhạc sĩ Ngọc Châu đã qua đời -Tác giả của nhiều ca khúc nổi tiếng: Thì thầm mùa xuân, Ban mai anh, Nếu điều đó xảy ra, Chiều xuân .... Trong chương trình cùng lắng nghe những bày tỏ của những nghệ sĩ: Nhạc sĩ Cát Vận-Nguyên Trưởng ban Âm nhạc Đài TNVN, Nhạc sĩ-Nhà báo Nguyễn Thụy Kha, Ca sĩ Hà Myo, Ca sĩ Ngọc Quy, Nhạc sĩ Nguyễn Bá Hùng đã và cùng thưởng thức một số ca khúc của nhạc sĩ Ngọc Châu để tưởng nhớ đến anh-người nhạc sĩ tài hoa của đời sống âm nhạc Việt Nam: Thì thầm mùa xuân (Ca sĩ Mỹ Linh), Chiều xuân (NSƯT Thanh Lam), Cô Tấm ngày nay (Ca sĩ Khánh Linh)- Bài hát trong bộ phim “Chuyện nhà Mộc”, Nếu điều đó xảy ra (Ca sĩ Mỹ Linh, Ca sĩ Bằng Kiều)…]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/03/21/vovlive_am_nhac_voi_cuoc_song_ngoc_chau.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 20 Mar 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>“Ngàn tình yêu cho con”: Đưa âm nhạc Ngũ Cung tới gần hơn với công chúng</title>
       <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
@@ -49,15 +57,6 @@
       <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/03/09/vovlive_am_nhac_voi_cuoc_song_ky_niem_ngay_bo_doi_bien_phong.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 27 Feb 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>“Sức mạnh chúng ta”: Niềm tự hào về tinh thần quyết chiến, quyết thắng của dân tộc trong cuộc chiến đấu bảo vệ Tổ quốc</title>
-      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[- Kỷ niệm 43 năm Cuộc chiến đấu bảo vệ biên giới phía Bắc (17/2/1979-17/2/2022) gặp gỡ nhạc sĩ Cát Vận cùng ca khúc “Sức mạnh chúng ta” để cùng tri ân, bày tỏ lòng biết ơn tới những người lính đã ngã xuống vì độc lập dân tộc.
-- Thưởng thức ca khúc “Hãy ngăn chặn Covid” của nhạc sĩ Trịnh Ngọc Tân-nguyên Biên tập Âm nhạc Điện ảnh Quân đội Nhân dân Việt Nam và cùngnghe những chia sẻ của anh về ca khúc này...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/02/24/vovlive_am_nhac_voi_cuoc_song_suc_manh_chung_ta.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 20 Feb 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
