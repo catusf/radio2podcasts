@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 18 Mar 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 22 Mar 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 18 Mar 2022 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 22 Mar 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,22 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Kỷ nguyên mới cho Syria và xu hướng tái cấu trúc địa chính trị Trung Đông</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Mới đây, Tổng thống Syria Bashar al-Assad đã có chuyến công du một quốc gia thuộc khối Ả-rập là Các Tiểu vương quốc Ả-rập thống nhất (UAE). Chuyến thăm khiến dư luận đặc biệt chú ý vì có thể dự báo một sự thay đổi địa chính trị ở Trung Đông, đồng thời giảm bớt ảnh hưởng của Mỹ đối với các nước Ả-rập. Những kết quả tích cực của chuyến thăm bất ngờ này đã cho thấy những tín hiệu tốt hơn giữa Syria và Các Tiểu vương quốc Ả-rập thống nhất, nước đã từng hậu thuẫn cho lực lượng phiến quân tìm cách lật đổ chế độ Al-Assad. Vì sao Tổng thống Syria bất ngờ đến thăm Các Tiểu vương quốc Ả- rập thống nhất thời điểm này và các bên đang tính toán điều gì?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/03/22/vovlive_vandequocte_kynguyenmoichosyria.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 22 Mar 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Thủ tướng Nhật bản thăm Ấn Độ và Campuchia: “Đẩy mạnh hơn nữa ảnh hưởng của Nhật Bản ở Ấn Độ Dương - Thái Bình Dương”</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Sự kiện đang thu hút sự chú ý của dư luận, đó là chuyến thăm 2 nước Ấn Độ và Campuchia của Thủ tướng Nhật Bản Fumio Kishida. Trong 2 ngày qua, ông Fumio Kishida đã có các cuộc gặp gỡ quan trọng với các nhà lãnh đạo Ấn Độ và Campuchia. Đây cũng là chuyến thăm Châu Á đầu tiên của Thủ tướng Nhật Bản kể từ khi ông nhậm chức. Trong bối cảnh chính sách đối ngoại của Nhật Bản tập trung chủ yếu vào thúc đẩy các liên minh và nâng cấp năng lực phòng thủ nhằm bảo đảm an ninh và thịnh vượng tại khu vực Ấn Độ Dương - Thái Bình Dương, việc ông Fumio Kishida chọn Ấn Độ - đối tác quan trọng trong nhóm Bộ Tứ và Campuchia, nước đang giữ chức Chủ tịch ASEAN để thúc đẩy hợp tác mang tới nhiều thông điệp.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/03/22/vovlive_vandequocte_thutuongnhatbanthamandovacampuchia.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 21 Mar 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Dự thảo kế hoạch hòa bình 15 điểm giữa Nga và Ukraine liệu có khả thi?</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -38,22 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/03/18/vovlive_vandequocte_khunghoangukraine.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 18 Mar 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Australia - Ấn Độ thúc đẩy thỏa thuận thương mại chiến lược tránh phụ thuộc Trung Quốc</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Mới đây, Australia cho biết đang thúc đẩy các nỗ lực để hoàn tất thỏa thuận thương mại song phương với Ấn Độ ngay trong tuần này. Đây là một trong những thỏa thuận quan trọng nhất của Canberra và Newdelhi, trong bối cảnh quan hệ của cả 2 nước với Trung Quốc đã xấu đi trong vài năm qua. Đâu là những tính toán của hai nước thông qua thỏa thuận thương mại chiến lược này? Đồng thời, nếu một thỏa thuận như vậy đạt được sẽ tác động ra sao đến các trục quan hệ kinh tế trong khu vực?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/03/16/vovlive_vandequocte_australiaandothucdaythoathuanthuongmai.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 16 Mar 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đàm phán hàn gắn quan hệ song phương Iran - Ảrập Xê-út : “Giữa đường đứt gánh”</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Iran đã bất ngờ ra quyết định đơn phương ngừng vòng đàm phán thứ 5 giữa nước này với Ảrập Xê-út nhằm hàn gắn mối quan hệ “cơm chẳng lành, canh chẳng ngọt” từ nhiều năm nay. Cuộc đàm phán “giữa đường đứt gánh” sẽ ảnh hưởng như thế nào tới cơ hội giải quyết bất đồng giữa hai quốc gia vốn luôn tranh giành ảnh hưởng tại Trung Đông và điều đó tác động thế nào tới khu vực?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/03/16/vovlive_vandquocte_damphanhanganquanheiirsongphuoniranarap.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 15 Mar 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
