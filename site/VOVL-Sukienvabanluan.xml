@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 23 Mar 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 24 Mar 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 23 Mar 2022 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 24 Mar 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ả-rập Xê-út và tham vọng trở thành nhà xuất khẩu Hydro lớn nhất thế giới</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Với tham vọng trở thành quốc gia dẫn đầu, nhà xuất khẩu Hydrô lớn nhất thế giới, Ả-rập Xê-út dự kiến bắt đầu xây dựng một nhà máy Hydro xanh trị giá 5 tỷ USD ngay vào cuối tháng này. Đây được đánh giá là một trong những nỗ lực nhằm đa dạng hóa nền kinh tế vốn phụ thuộc nhiều vào dầu khí của Ả-rập Xê-út, tạo công ăn việc làm cũng như gây dựng một hình ảnh mới thân thiện với môi trường. Tuy nhiên, liệu tham vọng này của Riyadh có cơ sở khi cuộc đua sản xuất Hydro đang càng lúc càng nóng bỏng với nhiều ứng cử viên hàng đầu như Trung Quốc hay Nga?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/03/24/vovlive_sukienvabanluan_a-rap-xe-ut.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 24 Mar 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Lạng Sơn triển khai "Cửa khẩu số" để chống tiêu cực</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/03/21/vovlive_sukienvabanluan_nga_bom_tien.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 21 Mar 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đồng Bằng Sông Cửu Long chủ động thích ứng, sống chung với hạn, mặn</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Khu vực Đồng Bằng Sông Cửu Long đang hứng chịu đợt mặn xâm nhập lớn thứ hai trong năm. Trước các  sông Cửu Long, nước biển đã vào sâu và dự báo tiếp tục lấn sâu thêm từ 10 - 20 km . Nếu như mọi năm, mỗi đợt hạn mặn gây thiệt hại cho sản xuất nông nghiệp cả vùng cả nghìn tỉ đồng, cuộc sống sinh hoạt của người dân bị đảo lộn thì nay nhiều địa phương vẫn "sống khỏe" ngay trong đợt cao điểm hạn mặn. Vì sao vậy?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/03/21/vovlive_sukienvabanluan_dong_bang_song_cua_long.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 17 Mar 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
