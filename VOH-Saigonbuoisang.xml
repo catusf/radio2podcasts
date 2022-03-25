@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 24 Mar 2022 13:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 25 Mar 2022 14:48:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 24 Mar 2022 13:00:00 +0700</pubDate>
+    <pubDate>Fri, 25 Mar 2022 14:48:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Sài Gòn buổi sáng - 25/3/2022</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-25-3-2022-429573.html</link>
+      <description><![CDATA[07:48 - 25/03/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-25-3-2022-429573.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/03/25/fmsgbs06h00p250322-20220325062643.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 25 Mar 2022 14:48:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Sài Gòn buổi sáng - 24/3/2022</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-24-3-2022-429522.html</link>
       <description><![CDATA[06:00 - 24/03/2022]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-24-3-2022-429522.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/03/24/sgbs-240322.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 24 Mar 2022 13:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Người lao động thắt chặt chi tiêu trong “bão giá” - Sài Gòn buổi sáng 23/3/2022</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/nguoi-lao-dong-that-chat-chi-tieu-trong-bao-gia-sai-gon-buoi-sang-23-3-2022-429373.html</link>
-      <description><![CDATA[06:00 - 23/03/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/nguoi-lao-dong-that-chat-chi-tieu-trong-bao-gia-sai-gon-buoi-sang-23-3-2022-429373.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/03/23/sgbs-230322.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 23 Mar 2022 13:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
