@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 24 Mar 2022 18:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 25 Mar 2022 14:44:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 24 Mar 2022 18:00:00 +0700</pubDate>
+    <pubDate>Fri, 25 Mar 2022 14:44:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>100 ngày cầm quyền đầu tiên của Thủ tướng Đức – Thời sự 5g30 25/3/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/100-ngay-cam-quyen-dau-tien-cua-thu-tuong-duc-thoi-su-5g30-25-3-2022-429572.html</link>
+      <description><![CDATA[07:44 - 25/03/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/100-ngay-cam-quyen-dau-tien-cua-thu-tuong-duc-thoi-su-5g30-25-3-2022-429572.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/03/25/AMThoisu05h30p250322.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 25 Mar 2022 14:44:00 +0700</pubDate>
+    </item>
     <item>
       <title>Kỳ 2: Bảo vệ quyền học tập của trẻ - Thời sự 05g30 24/3/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/ky-2-bao-ve-quyen-hoc-tap-cua-tre-thoi-su-05g30-24-3-2022-429520.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/can-co-diem-dung-trong-giai-quyet-khieu-nai-to-cao-thoi-su-11g00-24-3-2022-429519.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/03/24/ts11g00-240322.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 24 Mar 2022 18:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Du lịch Việt Nam quyết tâm phục hồi ngay trong năm 2022 - Thời sự 17g00 23/3/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/du-lich-viet-nam-quyet-tam-phuc-hoi-ngay-trong-nam-2022-thoi-su-17g00-23-3-2022-429449.html</link>
-      <description><![CDATA[17:00 - 23/03/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/du-lich-viet-nam-quyet-tam-phuc-hoi-ngay-trong-nam-2022-thoi-su-17g00-23-3-2022-429449.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/03/23/ts17g00-230322.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 24 Mar 2022 00:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
