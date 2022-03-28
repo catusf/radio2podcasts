@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 20 Mar 2022 18:47:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 28 Mar 2022 03:31:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 20 Mar 2022 18:47:00 +0700</pubDate>
+    <pubDate>Mon, 28 Mar 2022 03:31:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Cửa sổ văn học trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Cuasovanhoc.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Trại sáng tác trẻ 2022: Tiếp lửa cho hành trình sáng tạo - Cửa sổ văn học - 27/3/2022</title>
+      <link>https://radio.voh.com.vn/cua-so-van-hoc/trai-sang-tac-tre-2022-tiep-lua-cho-hanh-trinh-sang-tao-cua-so-van-hoc-27-3-2022-429757.html</link>
+      <description><![CDATA[20:31 - 27/03/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/trai-sang-tac-tre-2022-tiep-lua-cho-hanh-trinh-sang-tao-cua-so-van-hoc-27-3-2022-429757.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/03/26/FMCuasovanhoc07h00p270322.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 28 Mar 2022 03:31:00 +0700</pubDate>
+    </item>
     <item>
       <title>NXB Trẻ công bố 12 tác phẩm vào chung khảo Văn học tuổi 20 - Cửa sổ văn học - 20/3/2022</title>
       <link>https://radio.voh.com.vn/cua-so-van-hoc/nxb-tre-cong-bo-12-tac-pham-vao-chung-khao-van-hoc-tuoi-20-cua-so-van-hoc-20-3-2022-429042.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/cua-so-van-hoc-13-3-2022-428459.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/03/13/FMCuasovanhoc07h00p130322.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 13 Mar 2022 21:57:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Cửa sổ văn học - 6/3/2022</title>
-      <link>https://radio.voh.com.vn/cua-so-van-hoc/cua-so-van-hoc-6-3-2022-427705.html</link>
-      <description><![CDATA[21:08 - 06/03/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/cua-so-van-hoc-6-3-2022-427705.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/03/05/FMCuasovanhoc07h00p060322.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 07 Mar 2022 04:08:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
