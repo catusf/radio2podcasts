@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 25 Mar 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 28 Mar 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 25 Mar 2022 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 28 Mar 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Nga thiết lập lại luật chơi trên thị trường: Trật tự tiền tệ mới có ra đời?</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Một tháng kể từ khi thực hiện chiến dịch quân sự đặc biệt tại Ukraine, nước Nga đang đối mặt với hàng loạt biện pháp trừng phạt và cấm vận chưa từng có từ Mỹ, châu Âu và các đồng minh. Để đối phó với chiến dịch làm “tê liệt” nền kinh tế Nga của phương Tây, Tổng thống Nga Putin cũng áp dụng nhiều biện pháp đáp trả chưa từng có tiền lệ, trong đó mới nhất phải kể đến quyết định sẽ chỉ chấp thuận thanh toán bằng đồng rúp cho các giao dịch khí đốt với các “nước không thân thiện”, theo danh sách của điện Kremlin. Bước đi này của Nga được cho không chỉ đáp trả các lệnh trừng phạt của phương Tây mà còn hướng tới mục tiêu phi đô la hóa nền kinh tế và thiết lập luật chơi mới trên thị trường.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/03/28/vovlive_sukienvabanluan_nga_thiet_lap_lai_cuoc_choi.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 28 Mar 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Xây dựng thương hiệu sầu riêng vững mạnh cho Đắk Lắk để xuất khẩu chính ngạch đi các nước trên thế giới</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/03/23/vovlive_sukienvabanluan_lang_son_cua_khau_so.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 23 Mar 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chính sách "Zero Covid-19 năng động" của Trung Quốc sẽ như thế nào?</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Sau một thời gian dài duy trì chính “Zero Covid-19” – một chính sách khá khác biệt so với phần lớn các quốc gia trên thế giới, Chủ tịch Trung Quốc Tập Cận Bình mới đây đã nhắc tới một khái niệm, đánh dấu sự thay đổi lớn trong ứng phó với dịch bệnh, đó là “Zero Covid-19 năng động”. Đã có nhiều đồn đoán khác nhau về chính sách mới này của Trung Quốc, rằng sau hai sự kiện thể thao lớn là Olympic và Paralympic Bắc Kinh, đã đến lúc Trung Quốc thay đổi theo xu hướng chung của thế giới, hay nền kinh tế quốc gia này sẽ không thể chống chịu nếu tiếp tục duy trì “Zero Covid-19” trong thời gian dài. Vậy đằng sau việc Trung Quốc đề ra chính sách “Zero Covid-19 năng động” là gì?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/03/22/vovlive_sukienvabanluan_chinh_sach_zeoro.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 22 Mar 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
