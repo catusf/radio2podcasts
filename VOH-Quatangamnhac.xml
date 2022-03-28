@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 20 Mar 2022 17:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 27 Mar 2022 17:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 20 Mar 2022 17:00:00 +0700</pubDate>
+    <pubDate>Sun, 27 Mar 2022 17:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Quà tặng âm nhạc trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Quatangamnhac.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Mưa ngâu - Quà tặng âm nhạc 27/3/2022</title>
+      <link>https://radio.voh.com.vn/qua-tang-am-nhac/mua-ngau-qua-tang-am-nhac-27-3-2022-429828.html</link>
+      <description><![CDATA[10:00 - 27/03/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/mua-ngau-qua-tang-am-nhac-27-3-2022-429828.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/03/27/qtan-270322.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 27 Mar 2022 17:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Gọi tên bốn mùa - Quà tặng âm nhạc 20/3/2022</title>
       <link>https://radio.voh.com.vn/qua-tang-am-nhac/goi-ten-bon-mua-qua-tang-am-nhac-20-3-2022-429133.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/ngoi-hat-ca-benh-bong-qua-tang-am-nhac-20-2-2022-426467.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/02/20/qtan-200222.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 20 Feb 2022 17:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Có nhau trọn đời - Quà tặng âm nhạc 13/2/2022</title>
-      <link>https://radio.voh.com.vn/qua-tang-am-nhac/co-nhau-tron-doi-qua-tang-am-nhac-13-2-2022-425888.html</link>
-      <description><![CDATA[10:00 - 13/02/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/co-nhau-tron-doi-qua-tang-am-nhac-13-2-2022-425888.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/02/13/QTAN-130222.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 13 Feb 2022 17:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
