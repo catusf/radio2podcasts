@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 24 Mar 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 28 Mar 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 24 Mar 2022 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 28 Mar 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,14 @@
     <itunes:subtitle>Điểm hẹn văn nghệ</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Diemhenvannghe.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>“Mật đạo”: Hoài thai từ những ám ảnh 24/3/2022</title>
+      <title>Báo Văn nghệ số 13 ra ngày 26/3/2022 28/3/2022</title>
+      <link>http://vov6.vov.vn/diem-hen-van-nghe/bao-van-nghe-so-13-ra-ngay-2632022-c158-34346.aspx</link>
+      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/bao-van-nghe-so-13-ra-ngay-2632022-c158-34346.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2022_3/diem_bao_van_nghe_283202215.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 28 Mar 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>“Mật đạo”: Hoài thai từ những ám ảnh  24/3/2022</title>
       <link>http://vov6.vov.vn/diem-hen-van-nghe/mat-dao-hoai-thai-tu-nhung-am-anh-c158-34344.aspx</link>
       <description><![CDATA[Là một nhà báo, tác giả Lưu Vĩ Lân đã có nhiều bài viết về vùng đất Quảng Trị. Năm 1994, ông đã xuất bản cuốn sách “Trở về chiến trường xưa” để hướng dẫn tham quan nơi này và các địa danh diễn ra cuộc đấu tranh lịch sử tại đây. Sau 24 năm, ám ảnh về vùng đất Quảng Trị, nơi có vĩ tuyến 17 chia đôi đất nước, có Đường 9 cắt ngang đại ngàn Trường Sơn và đường Hồ Chí Minh huyền thoại trở thành một trong những thôi thúc để tác giả Lưu Vĩ Lân viết tiểu thuyết “Mật đạo”, mà sau này hợp thành một bộ ba cùng với “Ngẫu tượng” và “Nghiệp chướng”.]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/mat-dao-hoai-thai-tu-nhung-am-anh-c158-34344.aspx</guid>
@@ -37,13 +44,6 @@
       <description><![CDATA[“Dưới trăng, dòng sông trôi rất dịu dàng/ Như dải lụa vàng xuôi về phương Đông/ Gành Hào ơi nửa đêm ai hát lên câu hoài lang/ Vầng trăng nghiêng xuống trên vạt rừng tràm…”. Con sông Gành Hào được nhạc sĩ Vũ Đức Sao Biển vẽ lên bằng những nốt nhạc dìu dặt trong ca khúc “Đêm Gành Hào nghe điệu hoài lang”, để rồi khi nghe qua, những tâm hồn chai sạn cũng mềm như nước, mong được một lần xuôi dòng sông và trôi về phía biển, được sống trong vài khoảnh khắc ngắn ngủi của cuộc đời mình nhưng nhiều ý nghĩa. Chính cái ý nghĩ ấy dẫn dụ nên tác giả Trương Chí Hùng chẳng ngại ngần cưỡi trên con ngựa sắt rong ruổi xuống miền hạ, để nghe tiếng thở của cỏ cây lau lách, chạm vào vị mặn của từng thớ đất phía cuối trời Nam, và sống cùng nỗi buồn mênh mông thiên cổ…(Văn nghệ 15/03/2022)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/but-ky-ho-hen-voi-ganh-hao-c158-34318.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/ho_hen_voi_ganh_hao_163202210.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 14 Mar 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Báo Văn nghệ số 11 ra ngày 12/3/2022  14/3/2022</title>
-      <link>http://vov6.vov.vn/diem-hen-van-nghe/bao-van-nghe-so-11-ra-ngay-1232022-c158-34317.aspx</link>
-      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/bao-van-nghe-so-11-ra-ngay-1232022-c158-34317.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2022_3/diem_bao_van_nghe_143202214.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 14 Mar 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
