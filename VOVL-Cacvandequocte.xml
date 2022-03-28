@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 25 Mar 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 28 Mar 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 25 Mar 2022 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 28 Mar 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Israel tổ chức cuộc gặp lịch sử với Mỹ, Các Tiểu vương quốc Ả-rập thống nhất, Bahrain và Maroc</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Tại Israel đang diễn ra Hội nghị cấp ngoại trưởng giữa Mỹ, Các Tiểu vương quốc Ả-rập thống nhất (UAE), Maroc và Bahrain. Cuộc gặp lịch sử kéo dài hai ngày theo lời mời của Bộ trưởng Ngoại giao Israel Lapid nhằm thúc đẩy Thỏa thuận Abraham được ký kết giữa UAE, Bahrain, Sudan, Maroc và Israel năm 2020, góp phần xây dựng hòa bình và ổn định thực sự cho các quốc gia Trung Đông. Đáng chú ý, cuộc gặp lịch sử này diễn ra nhân chuyến thăm của Ngoại trưởng Mỹ Anthony Blinken tới Trung Đông và Bắc Phi còn nhằm nhắc lại sự ủng hộ của Mỹ với khu vực, thúc đẩy tiến trình hòa bình Trung Đông, bàn về vấn đề hạt nhân Iran, cũng như xung đột giữa Nga và Ukraine. Vậy cuộc gặp lịch sử giữa Israel với Mỹ và các nước trong khu vực đề cập tới nội dung cụ thể gì và dư luận đánh giá thế nào về chuyến thăm Trung Đông lần này của Ngoại trưởng Mỹ Anthony Blinken?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/03/28/vovlive_vandequocte_israeltochuccuocgaplichsuvoimyuaebahrainvamaroc.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 28 Mar 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Tổng thống Mỹ tới Ba Lan nhằm thống nhất lập trường về vấn đề Ukraine</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/03/25/vovlive_vandequocte_labanchienluoc.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 23 Mar 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Kỷ nguyên mới cho Syria và xu hướng tái cấu trúc địa chính trị Trung Đông</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Mới đây, Tổng thống Syria Bashar al-Assad đã có chuyến công du một quốc gia thuộc khối Ả-rập là Các Tiểu vương quốc Ả-rập thống nhất (UAE). Chuyến thăm khiến dư luận đặc biệt chú ý vì có thể dự báo một sự thay đổi địa chính trị ở Trung Đông, đồng thời giảm bớt ảnh hưởng của Mỹ đối với các nước Ả-rập. Những kết quả tích cực của chuyến thăm bất ngờ này đã cho thấy những tín hiệu tốt hơn giữa Syria và Các Tiểu vương quốc Ả-rập thống nhất, nước đã từng hậu thuẫn cho lực lượng phiến quân tìm cách lật đổ chế độ Al-Assad. Vì sao Tổng thống Syria bất ngờ đến thăm Các Tiểu vương quốc Ả- rập thống nhất thời điểm này và các bên đang tính toán điều gì?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/03/22/vovlive_vandequocte_kynguyenmoichosyria.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 22 Mar 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
