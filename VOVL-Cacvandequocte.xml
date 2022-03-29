@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 28 Mar 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 29 Mar 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 28 Mar 2022 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 29 Mar 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Diễn biến chặng “nước rút” bầu cử Tổng thống Pháp</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Bắt đầu từ tuần này, cuộc bầu cử Tổng thống tại Pháp bước vào giai đoạn chính thức, hướng tới vòng bỏ phiếu đầu tiên vào ngày 10/4. Cuộc đua đang nóng dần lên với các cuộc vận động tranh cử của các ứng cử viên hàng đầu. Đáng chú ý, trong số những nhân vật ở chặng nước rút cuối cùng, Tổng thống sắp mãn nhiệm Emmanuel Macron hiện đang được đánh giá chiếm ưu thế hàng đầu. Tuy nhiên, liệu cán cân này có đảo chiều khi các ứng cử viên sẽ tung ra những “át chủ bài” vào giai đoạn quan trọng nhất? Bức tranh toàn cảnh cuộc bầu cử Tổng thống Pháp đến thời điểm này có những điểm nhấn nào đáng chú ý?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/03/29/vovlive_vandequocte_dienbienchangnuocrutbaucutongthongphap.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 29 Mar 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Israel tổ chức cuộc gặp lịch sử với Mỹ, Các Tiểu vương quốc Ả-rập thống nhất, Bahrain và Maroc</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/03/25/vovlive_vandequocte_suthantrongtrongchuyenthamando.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 24 Mar 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>“La bàn chiến lược” – cuộc đại tu cấu trúc an ninh của EU</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Trong bối cảnh xung đột Nga – Ukraine vẫn diễn ra phức tạp, Liên minh Châu Âu (EU) chính thức thông qua Định hướng chiến lược (hay còn có tên “La bàn chiến lược”) về an ninh, quốc phòng. Kế hoạch này cung cấp cho EU một chương trình hành động đầy tham vọng nhằm tăng cường chính sách an ninh và quốc phòng của liên minh, trong đó có việc thiết lập một lực lượng chung lên tới 5.000 quân để có khả năng can thiệp vào các cuộc khủng hoảng trên thế giới mà không bị phụ thuộc vào lực lượng quân sự của Mỹ hay NATO. Cuộc xung đột Nga – Ukraine được cho là chất xúc tác quan trọng nhất để EU thúc đẩy chiến lược quân sự này. Xa hơn, đây là một dấu mốc trong quá trình hướng tới tự chủ chiến lược của EU với nền an ninh mạnh hơn và có năng lực hơn.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/03/25/vovlive_vandequocte_labanchienluoc.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 23 Mar 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
