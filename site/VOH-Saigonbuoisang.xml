@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 29 Mar 2022 21:40:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 29 Mar 2022 22:36:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 29 Mar 2022 21:40:00 +0700</pubDate>
+    <pubDate>Tue, 29 Mar 2022 22:36:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Tuyển sinh 2022: đừng để mắc sai lầm!- Sài Gòn buổi sáng 29/3/2022</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/tuyen-sinh-2022-dung-de-mac-sai-lam-sai-gon-buoi-sang-29-3-2022-430027.html</link>
+      <description><![CDATA[15:36 - 29/03/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/tuyen-sinh-2022-dung-de-mac-sai-lam-sai-gon-buoi-sang-29-3-2022-430027.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/03/29/fmsgbs06h00p290322-20220329063244.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 29 Mar 2022 22:36:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Sài Gòn buổi sáng - 28/03/2022</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-28-03-2022-430019.html</link>
       <description><![CDATA[14:40 - 29/03/2022]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-28-03-2022-430019.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/03/29/FMSGBS06h00p280322.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 29 Mar 2022 21:40:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Sài Gòn buổi sáng - 27/03/2022</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-27-03-2022-429792.html</link>
-      <description><![CDATA[09:07 - 27/03/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-27-03-2022-429792.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/03/27/FMsaigonbuoisang06h00p270322.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 27 Mar 2022 16:07:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
