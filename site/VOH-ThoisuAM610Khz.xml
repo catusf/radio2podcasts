@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 29 Mar 2022 00:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 29 Mar 2022 21:40:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 29 Mar 2022 00:00:00 +0700</pubDate>
+    <pubDate>Tue, 29 Mar 2022 21:40:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Doanh nghiệp, hộ kinh doanh sắp được gia hạn hơn 125.000 tỉ thuế, tiền thuê đất - Thời sự 5g30 28/03</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/doanh-nghiep-ho-kinh-doanh-sap-duoc-gia-han-hon-125-000-ti-thue-tien-thue-dat-thoi-su-5g30-28-03-430020.html</link>
+      <description><![CDATA[14:40 - 29/03/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/doanh-nghiep-ho-kinh-doanh-sap-duoc-gia-han-hon-125-000-ti-thue-tien-thue-dat-thoi-su-5g30-28-03-430020.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/03/29/AMThoisu05h30p280322.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 29 Mar 2022 21:40:00 +0700</pubDate>
+    </item>
     <item>
       <title>Bộ Y tế dự kiến cấp hộ chiếu vaccine từ tuần này - Thời sự 17g00 28/03/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/bo-y-te-du-kien-cap-ho-chieu-vaccine-tu-tuan-nay-thoi-su-17g00-28-03-2022-429942.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/gan-80-ngan-thi-sinh-tham-gia-ky-thi-danh-gia-nang-luc-dot-1-thoi-su-17g00-27-3-2022-429826.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/03/27/AMThoisu17h00p270322.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 28 Mar 2022 04:30:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>109ha đất xây dựng nhà ở xã hội - Thời sự 11g00 27/03/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/109ha-dat-xay-dung-nha-o-xa-hoi-thoi-su-11g00-27-03-2022-429811.html</link>
-      <description><![CDATA[11:00 - 27/03/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/109ha-dat-xay-dung-nha-o-xa-hoi-thoi-su-11g00-27-03-2022-429811.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/03/27/AMThoisu11h00p270322.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 27 Mar 2022 18:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
