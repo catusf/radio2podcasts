@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 21 Mar 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 29 Mar 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 21 Mar 2022 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 29 Mar 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Văn nghệ thiếu nhi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Vannghethieunhi.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Đọc truyện "Ông già Khốt-ta-bít" - Buổi 30 - Phép màu có hiện ra?  21/3/2022</title>
+      <title>Diễn biến tâm trạng Thúy Kiều trong trích đoạn "Trao duyên" 29/3/2022</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/dien-bien-tam-trang-thuy-kieu-trong-trich-doan-trao-duyen-c44-34347.aspx</link>
+      <description><![CDATA[Qua cuộc trao đổi giữa phóng viên chương trình và bạn Minh Quang, chương trình sẽ cùng chúng mình hệ thống lại kiến thức về các trích đoạn, về diễn biến tâm trạng và số phận nàng Kiều trong mỗi đoạn, từ đó giúp chúng mình thêm hiểu về nhân vật, thấy được tấm lòng nhân đạo sâu sắc của Nguyễn Du khi viết về thân phận người phụ nữ dưới chế độ phong kiến... (Văn nghệ thiếu nhi 28/03/2022)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/dien-bien-tam-trang-thuy-kieu-trong-trich-doan-trao-duyen-c44-34347.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2022_3/v2_2803_10h4518h15_van_nghe_thieu_nhi_293202210.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 29 Mar 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Đọc truyện "Ông già Khốt-ta-bít" - Buổi 30 - Phép màu có hiện ra?   21/3/2022</title>
       <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-ong-gia-khot-ta-bit-buoi-30-phep-mau-co-hien-ra-c44-34337.aspx</link>
       <description><![CDATA[Ông Oăn-đen-đa-let xoay nhẫn, lặp đi lại lời ra lệnh có một trăm nghìn đô la nhưng phép màu không hiện ra. Cuối cùng, ông Khốt-ta-bit làm phép biến ra số tiền này và để rơi trúng người ông Oăn-đen-đa-let khiến ông ta ngất xỉu. Sau khi tỉnh lại, ông ta nổi lòng tham... (Văn nghệ thiếu nhi 20/03/2022)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-ong-gia-khot-ta-bit-buoi-30-phep-mau-co-hien-ra-c44-34337.aspx</guid>
@@ -37,14 +45,6 @@
       <description><![CDATA[Ông Khốt-ta-bít vẫn tin đó là chiếc nhẫn thần có thể đáp ứng mọi điều ước nên đã để Giê-ni-a thử nghiệm với điều ước về chiếc xe đạp, nhưng chiếc xe đạp không hiện ra. Lúc ấy, ông Khốt-ta-bít mới biết rằng mình đã nhầm. Cùng lúc đó, bà vợ ông Oăn-đen-đa-let cho rằng hẳn đó là một chiếc nhẫn thần như trong truyện “Nghìn lẻ một đêm” nên mới được ông già nọ lấy đi nhanh đến như vậy... (Văn nghệ thiếu nhi 19/03/2022)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-ong-gia-khot-ta-bit-buoi-29-rac-roi-tu-chiec-nhan-c44-34335.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2022_3/v2_1903_10h4518h15_van_nghe_thieu_nhi_1_213202211.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 21 Mar 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đọc truyện "Ông già Khốt-ta-bít" - Buổi 28 - Người đàn ông ngoại quốc   21/3/2022</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-ong-gia-khot-ta-bit-buoi-28-nguoi-dan-ong-ngoai-quoc-c44-34334.aspx</link>
-      <description><![CDATA[Ông  Khốt-ta-bít dẫn hai cậu bé ra một cửa hàng đồ cũ ở ngoài phố để xem hình dạng chiếc ống nhòm ra sao. Khi ra đến cửa hàng, ông nhìn thấy một người đàn ông ngoại quốc đang đeo một chiếc nhẫn mà ông cho rằng đó chính là chiếc nhẫn thần của Xu-lê-măng. Ông Khốt-ta-bít chắc mẩm người đàn ông kia chính là chủ nhân của mình...]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-ong-gia-khot-ta-bit-buoi-28-nguoi-dan-ong-ngoai-quoc-c44-34334.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2022_3/v2_1803_10h4518h15_van_nghe_thieu_nhi_1_213202211.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 21 Mar 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
