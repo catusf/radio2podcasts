@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 30 Mar 2022 19:05:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 31 Mar 2022 02:17:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 30 Mar 2022 19:05:00 +0700</pubDate>
+    <pubDate>Thu, 31 Mar 2022 02:17:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Triển khai chương trình “TPHCM chào đón bạn” với nhiều sản phẩm hấp dẫn - Thời sự 17g00 30/3/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/trien-khai-chuong-trinh-tphcm-chao-don-ban-voi-nhieu-san-pham-hap-dan-thoi-su-17g00-30-3-2022-430143.html</link>
+      <description><![CDATA[19:17 - 30/03/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/trien-khai-chuong-trinh-tphcm-chao-don-ban-voi-nhieu-san-pham-hap-dan-thoi-su-17g00-30-3-2022-430143.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/03/30/AMThoisu17h00p300322.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 31 Mar 2022 02:17:00 +0700</pubDate>
+    </item>
     <item>
       <title>524 doanh nghiệp nhận danh hiệu Hàng Việt Nam chất lượng cao năm 2020 – Thời sự 11g00 30/3/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/524-doanh-nghiep-nhan-danh-hieu-hang-viet-nam-chat-luong-cao-nam-2020-thoi-su-11g00-30-3-2022-430098.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/bo-truong-bo-cong-an-to-lam-tiep-dai-su-belarus-tai-viet-nam-thoi-su-5g30-30-3-2022-430065.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/03/30/AMThoisu05h30p300322.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 30 Mar 2022 13:09:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Bộ Y tế yêu cầu rà soát, lập danh sách tiêm vaccine cho trẻ từ 5-11 tuổi - Thời sự 11g00 29/3/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/bo-y-te-yeu-cau-ra-soat-lap-danh-sach-tiem-vaccine-cho-tre-tu-5-11-tuoi-thoi-su-11g00-29-3-2022-430028.html</link>
-      <description><![CDATA[15:36 - 29/03/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/bo-y-te-yeu-cau-ra-soat-lap-danh-sach-tiem-vaccine-cho-tre-tu-5-11-tuoi-thoi-su-11g00-29-3-2022-430028.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/03/29/amthoisu11h00p290322-20220329105338.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 29 Mar 2022 22:36:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
