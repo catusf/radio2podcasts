@@ -24,6 +24,14 @@
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Thành phố Hồ Chí Minh chan chứa nghĩa tình - Thời sự 17g00 29/3/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/thanh-pho-ho-chi-minh-chan-chua-nghia-tinh-thoi-su-17g00-29-3-2022-430168.html</link>
+      <description><![CDATA[18:00 - 29/03/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/thanh-pho-ho-chi-minh-chan-chua-nghia-tinh-thoi-su-17g00-29-3-2022-430168.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/03/31/amthoisu17h00p290322-20220329170241.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 30 Mar 2022 01:00:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Triển khai chương trình “TPHCM chào đón bạn” với nhiều sản phẩm hấp dẫn - Thời sự 17g00 30/3/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/trien-khai-chuong-trinh-tphcm-chao-don-ban-voi-nhieu-san-pham-hap-dan-thoi-su-17g00-30-3-2022-430143.html</link>
       <description><![CDATA[19:17 - 30/03/2022]]></description>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/524-doanh-nghiep-nhan-danh-hieu-hang-viet-nam-chat-luong-cao-nam-2020-thoi-su-11g00-30-3-2022-430098.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/03/30/AMThoisu11h00p300322.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 30 Mar 2022 19:05:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Bộ trưởng Bộ Công an Tô Lâm tiếp Đại sứ Belarus tại Việt Nam - Thời sự 5g30 30/3/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/bo-truong-bo-cong-an-to-lam-tiep-dai-su-belarus-tai-viet-nam-thoi-su-5g30-30-3-2022-430065.html</link>
-      <description><![CDATA[06:09 - 30/03/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/bo-truong-bo-cong-an-to-lam-tiep-dai-su-belarus-tai-viet-nam-thoi-su-5g30-30-3-2022-430065.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/03/30/AMThoisu05h30p300322.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 30 Mar 2022 13:09:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
