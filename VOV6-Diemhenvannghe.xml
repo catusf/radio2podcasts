@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 28 Mar 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 31 Mar 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 28 Mar 2022 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 31 Mar 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Điểm hẹn văn nghệ</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Diemhenvannghe.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Báo Văn nghệ số 13 ra ngày 26/3/2022 28/3/2022</title>
+      <title>Tranh tứ bình – Sưu tập chọn lọc tranh dân gian Việt Nam 31/3/2022</title>
+      <link>http://vov6.vov.vn/diem-hen-van-nghe/tranh-tu-binh-suu-tap-chon-loc-tranh-dan-gian-viet-nam-c158-34356.aspx</link>
+      <description><![CDATA[Là một trong những đơn vị truyền thống chuyên xuất bản sách nghệ thuật, NXB Mỹ thuật đã đem đến cho độc giả nhiều tác phẩm có giá trị, đẹp về hình thức, chất về nội dung. Tuy nhiên, do khâu quảng bá còn hạn chế, nhiều cuốn sách vẫn chưa đến được tay bạn đọc. Để góp phần làm cầu nối, “Thư viện VOV6” sẽ tìm hiểu và giới thiệu tới quý vị và các bạn một số đầu sách mới, đặc sắc của NXB Mỹ thuật. Một trong số đó là cuốn “Tranh tứ bình – Sưu tập chọn lọc tranh dân gian Việt Nam” do NXB Mỹ thuật và Bảo tàng Mỹ thuật Việt Nam phối hợp ấn hành.]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/tranh-tu-binh-suu-tap-chon-loc-tranh-dan-gian-viet-nam-c158-34356.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2022_3/gts_tranh_tu_binh_313202216.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 31 Mar 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Báo Văn nghệ số 13 ra ngày 26/3/2022  28/3/2022</title>
       <link>http://vov6.vov.vn/diem-hen-van-nghe/bao-van-nghe-so-13-ra-ngay-2632022-c158-34346.aspx</link>
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/bao-van-nghe-so-13-ra-ngay-2632022-c158-34346.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2022_3/diem_bao_van_nghe_283202215.mp3" length="0" type="audio/mpeg"/>
@@ -37,14 +45,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/mat-dao-hoai-thai-tu-nhung-am-anh-c158-34344.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2022_3/gts_mat_dao_243202215.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 24 Mar 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Bút ký "Hò hẹn với Gành Hào"  14/3/2022</title>
-      <link>http://vov6.vov.vn/diem-hen-van-nghe/but-ky-ho-hen-voi-ganh-hao-c158-34318.aspx</link>
-      <description><![CDATA[“Dưới trăng, dòng sông trôi rất dịu dàng/ Như dải lụa vàng xuôi về phương Đông/ Gành Hào ơi nửa đêm ai hát lên câu hoài lang/ Vầng trăng nghiêng xuống trên vạt rừng tràm…”. Con sông Gành Hào được nhạc sĩ Vũ Đức Sao Biển vẽ lên bằng những nốt nhạc dìu dặt trong ca khúc “Đêm Gành Hào nghe điệu hoài lang”, để rồi khi nghe qua, những tâm hồn chai sạn cũng mềm như nước, mong được một lần xuôi dòng sông và trôi về phía biển, được sống trong vài khoảnh khắc ngắn ngủi của cuộc đời mình nhưng nhiều ý nghĩa. Chính cái ý nghĩ ấy dẫn dụ nên tác giả Trương Chí Hùng chẳng ngại ngần cưỡi trên con ngựa sắt rong ruổi xuống miền hạ, để nghe tiếng thở của cỏ cây lau lách, chạm vào vị mặn của từng thớ đất phía cuối trời Nam, và sống cùng nỗi buồn mênh mông thiên cổ…(Văn nghệ 15/03/2022)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/but-ky-ho-hen-voi-ganh-hao-c158-34318.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/ho_hen_voi_ganh_hao_163202210.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 14 Mar 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
