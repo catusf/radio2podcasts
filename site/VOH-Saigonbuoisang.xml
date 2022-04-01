@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 30 Mar 2022 16:40:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 31 Mar 2022 13:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 30 Mar 2022 16:40:00 +0700</pubDate>
+    <pubDate>Thu, 31 Mar 2022 13:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Giải pháp hạ nhiệt giá thức ăn chăn nuôi trong nước - Sài Gòn buổi sáng 31/3/2022</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/giai-phap-ha-nhiet-gia-thuc-an-chan-nuoi-trong-nuoc-sai-gon-buoi-sang-31-3-2022-430234.html</link>
+      <description><![CDATA[06:00 - 31/03/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/giai-phap-ha-nhiet-gia-thuc-an-chan-nuoi-trong-nuoc-sai-gon-buoi-sang-31-3-2022-430234.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/03/31/sgbs-310322.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 31 Mar 2022 13:00:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Công tác PCCC trên địa bàn TP những tháng đầu năm - Sài Gòn buổi sáng 30/3/2022</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/cong-tac-pccc-tren-dia-ban-tp-nhung-thang-dau-nam-sai-gon-buoi-sang-30-3-2022-430087.html</link>
       <description><![CDATA[09:40 - 30/03/2022]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/cong-tac-pccc-tren-dia-ban-tp-nhung-thang-dau-nam-sai-gon-buoi-sang-30-3-2022-430087.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/03/30/fmsgbs06h00p300322-20220330063253.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 30 Mar 2022 16:40:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Tuyển sinh 2022: đừng để mắc sai lầm!- Sài Gòn buổi sáng 29/3/2022</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/tuyen-sinh-2022-dung-de-mac-sai-lam-sai-gon-buoi-sang-29-3-2022-430027.html</link>
-      <description><![CDATA[15:36 - 29/03/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/tuyen-sinh-2022-dung-de-mac-sai-lam-sai-gon-buoi-sang-29-3-2022-430027.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/03/29/fmsgbs06h00p290322-20220329063244.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 29 Mar 2022 22:36:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
