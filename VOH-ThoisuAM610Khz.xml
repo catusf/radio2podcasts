@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 01 Apr 2022 12:30:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 01 Apr 2022 18:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 01 Apr 2022 12:30:00 +0700</pubDate>
+    <pubDate>Fri, 01 Apr 2022 18:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Tăng cường kiểm tra, xử lý xe quá tải tại đầu mối bốc xếp hàng hoá - Thời sự 11g00 1/4/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tang-cuong-kiem-tra-xu-ly-xe-qua-tai-tai-dau-moi-boc-xep-hang-hoa-thoi-su-11g00-1-4-2022-430313.html</link>
+      <description><![CDATA[11:00 - 01/04/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tang-cuong-kiem-tra-xu-ly-xe-qua-tai-tai-dau-moi-boc-xep-hang-hoa-thoi-su-11g00-1-4-2022-430313.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/04/01/ts11g-010422.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 01 Apr 2022 18:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Khách quốc tế đến Việt Nam trong quý I năm 2022 ước đạt gần 91.000 lượt - Thời sự 05g30 1/4/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/khach-quoc-te-den-viet-nam-trong-quy-i-nam-2022-uoc-dat-gan-91-000-luot-thoi-su-05g30-1-4-2022-430264.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/du-bao-nguon-cung-can-ho-tai-tphcm-se-dat-10-000-can-den-cuoi-nam-2022-thoi-su-17g00-31-3-2022-430233.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/03/31/ts17g00-310322.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 01 Apr 2022 00:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Xăng dầu chiếm khoảng 37% tổng chi phí nguyên vật liệu của nền kinh tế - Thời sự 11g00 31/3/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/xang-dau-chiem-khoang-37-tong-chi-phi-nguyen-vat-lieu-cua-nen-kinh-te-thoi-su-11g00-31-3-2022-430231.html</link>
-      <description><![CDATA[11:00 - 31/03/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/xang-dau-chiem-khoang-37-tong-chi-phi-nguyen-vat-lieu-cua-nen-kinh-te-thoi-su-11g00-31-3-2022-430231.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/03/31/ts11g00-310322.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 31 Mar 2022 18:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
