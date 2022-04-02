@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 02 Apr 2022 00:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 02 Apr 2022 19:17:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 02 Apr 2022 00:00:00 +0700</pubDate>
+    <pubDate>Sat, 02 Apr 2022 19:17:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,28 +24,28 @@
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Lễ truy điệu Phó Chủ tịch thường trực UBND TPHCM Lê Hòa Bình – Thời sự 11g00 2/4/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/le-truy-dieu-pho-chu-tich-thuong-truc-ubnd-tphcm-le-hoa-binh-thoi-su-11g00-2-4-2022-430410.html</link>
+      <description><![CDATA[12:17 - 02/04/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/le-truy-dieu-pho-chu-tich-thuong-truc-ubnd-tphcm-le-hoa-binh-thoi-su-11g00-2-4-2022-430410.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/04/02/AMThoisu11h00p020422sss.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 02 Apr 2022 19:17:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Tiếc thương người cán bộ nhiệt huyết, tài năng, hết lòng vì dân - Thời sự 05g30 2/4/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tiec-thuong-nguoi-can-bo-nhiet-huyet-tai-nang-het-long-vi-dan-thoi-su-05g30-2-4-2022-430396.html</link>
+      <description><![CDATA[10:32 - 02/04/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tiec-thuong-nguoi-can-bo-nhiet-huyet-tai-nang-het-long-vi-dan-thoi-su-05g30-2-4-2022-430396.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/04/02/AMThoisu05h30p020422sss.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 02 Apr 2022 17:32:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Tội phạm về trật tự xã hội tại TPHCM giảm trong Quý I năm 2022 - Thời sự 17g00 1/4/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/toi-pham-ve-trat-tu-xa-hoi-tai-tphcm-giam-trong-quy-i-nam-2022-thoi-su-17g00-1-4-2022-430353.html</link>
       <description><![CDATA[17:00 - 01/04/2022]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/toi-pham-ve-trat-tu-xa-hoi-tai-tphcm-giam-trong-quy-i-nam-2022-thoi-su-17g00-1-4-2022-430353.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/04/01/ts17g00-010422.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 02 Apr 2022 00:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Tăng cường kiểm tra, xử lý xe quá tải tại đầu mối bốc xếp hàng hoá - Thời sự 11g00 1/4/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tang-cuong-kiem-tra-xu-ly-xe-qua-tai-tai-dau-moi-boc-xep-hang-hoa-thoi-su-11g00-1-4-2022-430313.html</link>
-      <description><![CDATA[11:00 - 01/04/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tang-cuong-kiem-tra-xu-ly-xe-qua-tai-tai-dau-moi-boc-xep-hang-hoa-thoi-su-11g00-1-4-2022-430313.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/04/01/ts11g-010422.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 01 Apr 2022 18:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Khách quốc tế đến Việt Nam trong quý I năm 2022 ước đạt gần 91.000 lượt - Thời sự 05g30 1/4/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/khach-quoc-te-den-viet-nam-trong-quy-i-nam-2022-uoc-dat-gan-91-000-luot-thoi-su-05g30-1-4-2022-430264.html</link>
-      <description><![CDATA[05:30 - 01/04/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/khach-quoc-te-den-viet-nam-trong-quy-i-nam-2022-uoc-dat-gan-91-000-luot-thoi-su-05g30-1-4-2022-430264.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/04/01/ts05g30-010422.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 01 Apr 2022 12:30:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
