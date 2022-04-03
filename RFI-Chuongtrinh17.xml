@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 02 Apr 2022 15:20:41 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 03 Apr 2022 15:20:44 +0200</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 02 Apr 2022 15:20:41 +0200</pubDate>
+    <pubDate>Sun, 03 Apr 2022 15:20:44 +0200</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>17'</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/RFI-Chuongtrinh17.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>03-04-2022 Chương trình 17'</title>
+      <link>https://www.rfi.fr/vi/t%E1%BA%A1p-ch%C3%AD/13h00-13h17-gmt/20220403-th%C3%B4ng-tin-03-04-13h00-gmt</link>
+      <description><![CDATA[Chương trình ngày 03-04-2022 ]]></description>
+      <guid isPermaLink="false">https://www.rfi.fr/vi/t%E1%BA%A1p-ch%C3%AD/13h00-13h17-gmt/20220403-th%C3%B4ng-tin-03-04-13h00-gmt</guid>
+      <enclosure url="https://aod-rfi.akamaized.net/rfi/vietnamien/audio/magazines/r001/13h00_-_13h17_gmt_20220403.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 03 Apr 2022 15:20:44 +0200</pubDate>
+    </item>
     <item>
       <title>02-04-2022 Chương trình 17'</title>
       <link>https://www.rfi.fr/vi/t%E1%BA%A1p-ch%C3%AD/13h00-13h17-gmt/20220402-th%C3%B4ng-tin-02-04-13h00-gmt</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://www.rfi.fr/vi/t%E1%BA%A1p-ch%C3%AD/13h00-13h17-gmt/20220330-th%C3%B4ng-tin-30-03-13h00-gmt</guid>
       <enclosure url="https://aod-rfi.akamaized.net/rfi/vietnamien/audio/magazines/r001/13h00_-_13h17_gmt_20220330.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 30 Mar 2022 15:20:52 +0200</pubDate>
-    </item>
-    <item>
-      <title>29-03-2022 Chương trình 17'</title>
-      <link>https://www.rfi.fr/vi/t%E1%BA%A1p-ch%C3%AD/13h00-13h17-gmt/20220329-th%C3%B4ng-tin-29-03-13h00-gmt</link>
-      <description><![CDATA[Chương trình ngày 29-03-2022 ]]></description>
-      <guid isPermaLink="false">https://www.rfi.fr/vi/t%E1%BA%A1p-ch%C3%AD/13h00-13h17-gmt/20220329-th%C3%B4ng-tin-29-03-13h00-gmt</guid>
-      <enclosure url="https://aod-rfi.akamaized.net/rfi/vietnamien/audio/magazines/r001/13h00_-_13h17_gmt_20220329.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 29 Mar 2022 15:20:48 +0200</pubDate>
     </item>
   </channel>
 </rss>
