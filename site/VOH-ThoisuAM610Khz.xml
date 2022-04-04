@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 04 Apr 2022 03:48:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 04 Apr 2022 13:07:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 04 Apr 2022 03:48:00 +0700</pubDate>
+    <pubDate>Mon, 04 Apr 2022 13:07:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ngành du lịch đã được gỡ khó (P2) – Thời sự 5g30 - 4/4/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/nganh-du-lich-da-duoc-go-kho-p2-thoi-su-5g30-4-4-2022-430558.html</link>
+      <description><![CDATA[06:07 - 04/04/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/nganh-du-lich-da-duoc-go-kho-p2-thoi-su-5g30-4-4-2022-430558.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/04/04/AMThoisu05h30p040422.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 04 Apr 2022 13:07:00 +0700</pubDate>
+    </item>
     <item>
       <title>Máy bay, tàu hỏa tăng chuyến phục vụ “thượng đế” dịp 30/4 - Thời sự 17g00 3/4/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/may-bay-tau-hoa-tang-chuyen-phuc-vu-thuong-de-dip-30-4-thoi-su-17g00-3-4-2022-430534.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/thu-quan-cong-vien-van-lang-mot-khong-gian-van-hoa-doc-thoi-su-11g00-3-4-2022-430499.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/04/03/AMThoisu11h00p030422.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 03 Apr 2022 18:38:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Ngành du lịch đã được gỡ khó (P1) – Thời sự 5g30 – 3/4/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/nganh-du-lich-da-duoc-go-kho-p1-thoi-su-5g30-3-4-2022-430470.html</link>
-      <description><![CDATA[06:05 - 03/04/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/nganh-du-lich-da-duoc-go-kho-p1-thoi-su-5g30-3-4-2022-430470.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/04/03/AMThoisu05h30p030422.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 03 Apr 2022 13:05:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
