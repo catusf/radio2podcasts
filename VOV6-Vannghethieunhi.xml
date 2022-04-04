@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 03 Apr 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 04 Apr 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 03 Apr 2022 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 04 Apr 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Văn nghệ thiếu nhi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Vannghethieunhi.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Truyện ngắn "Phong thư chưa gửi" và những mơ ước tương lai 3/4/2022</title>
+      <title>Đọc truyện "Ông già Khốt-ta-bít" - Buổi 34 - Diễn biến trên sân cỏ  4/4/2022</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-ong-gia-khot-ta-bit-buoi-34-dien-bien-tren-san-co-c44-34360.aspx</link>
+      <description><![CDATA[Vôn-ca yêu cầu ông già Khốt-ta-bít chấm dứt việc hò reo, cổ vũ cho đội Sai-ba. Cậu còn hét lên cho mọi người cùng nghe rằng chính ông đã tiếp tay cho đội Sai-ba. Phản ứng quá khích của Vôn-ca khiến mọi người cười ầm, bởi ông già Khốt-ta-bít không phải trọng tài thì làm sao có thể "tiếp tay" được...(Văn nghệ thiếu nhi 01/04/2022)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-ong-gia-khot-ta-bit-buoi-34-dien-bien-tren-san-co-c44-34360.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2022_4/v2_0104_10h4518h15_van_nghe_thieu_nhi_44202210.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 04 Apr 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Truyện ngắn "Phong thư chưa gửi" và những mơ ước tương lai  3/4/2022</title>
       <link>http://vov6.vov.vn/van-nghe-thieu-nhi/truyen-ngan-phong-thu-chua-gui-va-nhung-mo-uoc-tuong-lai-c44-34359.aspx</link>
       <description><![CDATA[Tốt nghiệp phổ thông, đứng trước sự lựa chọn về ngành nghề, nhiều bạn đã tham khảo ý kiến của gia đình để có thể đưa ra quyết định tốt nhất. Nhưng cũng có bạn đã chủ động tìm hiểu về lĩnh vực mình yêu thích để có những hình dung ban đầu. Điều này đã được truyện ngắn “Phong thư chưa gửi” khai thác khá hợp lý, chuyển tải những thông điệp của tuổi học đường trước ngưỡng cửa tương lai... (Trang văn học tuổi mới lớn 29/03/2022)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/truyen-ngan-phong-thu-chua-gui-va-nhung-mo-uoc-tuong-lai-c44-34359.aspx</guid>
@@ -37,14 +45,6 @@
       <description><![CDATA[Lợn con, Sóc nâu và Gà con là ba nhân vật nhí của Góc hài hước tuổi thơ tuần này. Ba kẻ khác nhau hội tụ cùng nhau trong một tình huống, một câu chuyện. Chúng sẽ cãi nhau chí chóe, sẽ bất hòa, sẽ gây chuyện và giận dỗi bỏ đi, hay cùng đoàn kết bên nhau? (Văn nghệ thiếu nhi 30/03/2022)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/tieng-cuoi-cho-goc-hai-huoc-tuoi-tho-c44-34358.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2022_4/v2_3003_10h4518h15_van_nghe_thieu_nhi_34202217.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 03 Apr 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Bí kíp in tranh độc bản bằng màu nước  3/4/2022</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/bi-kip-in-tranh-doc-ban-bang-mau-nuoc-c44-34357.aspx</link>
-      <description><![CDATA[Để có những bức tranh in độc bản dân gian chúng ta sẽ cần đến ván khắc bằng gỗ, giấy dó, màu thiên nhiên. Nếu chúng mình không có ván khắc bằng gỗ, không có giấy dó, hay chúng mình muốn có thêm những hình ảnh sáng tạo mới thì có cách nào để chúng mình vẫn có thể in một bức tranh độc bản không nhỉ? (Văn nghệ thiếu nhi 16/03/2022)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/bi-kip-in-tranh-doc-ban-bang-mau-nuoc-c44-34357.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2022_4/v2_1603_10h4518h15_van_nghe_thieu_nhi_34202217.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 03 Apr 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
