@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 31 Mar 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 04 Apr 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 31 Mar 2022 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 04 Apr 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Mở cửa trường học cho nữ sinh - Taliban lại thất hứa</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Sau kỳ nghỉ đông, chính quyền Afghanistan do lực lượng Taliban đứng đầu vừa cho phép các trường học mở cửa trở lại để bắt đầu năm học mới. Nhưng trái với lời cam kết trước đó về việc “sẽ cho phép phụ nữ làm việc và học tập”, nữ sinh từ lớp 6 trở lên vẫn chưa được tới trường. Quyết định của Taliban đã khiến các nữ sinh Afghanistan vô cùng thất vọng, đồng thời tạo ra làn sóng phản đối mạnh mẽ của cộng đồng quốc tế, bởi đằng sau việc nữ sinh không được phép tới trường còn là vấn đề lớn hơn, đó là sự áp đặt hà khắc đối với quyền của phụ nữ.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/04/04/vovlive_sukienvabanluan_mo_cua_truong_hoc_cho_nu_sinh_taliban.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 04 Apr 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Chính quyền Tổng thống Biden đề xuất “thuế tỷ phú”: Liệu có khả thi?</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/03/28/vovlive_sukienvabanluan_nga_thiet_lap_lai_cuoc_choi.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 28 Mar 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Xây dựng thương hiệu sầu riêng vững mạnh cho Đắk Lắk để xuất khẩu chính ngạch đi các nước trên thế giới</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Trong ách tắc thị trường và bộn bề khó khăn bủa vây, như chi phí đầu tư tăng cao mà giá nhiều nông sản xuống rất thấp, thì nông nghiệp của tỉnh Đăk Lăk vẫn có những bước tiến đáng ghi nhận. Một trong số đó là sầu riêng, loại trái cây có giá trị kinh tế cao tại địa phương vừa được Cục sở hữu trí tuệ, Bộ Khoa học công nghệ cấp chứng nhận nhãn hiệu tập thể “Krong Pac Durian- Sầu riêng Krông Pac”. Đây được coi là giấy khai sinh hợp pháp cho nông sản thế mạnh ở địa phương, bước đầu quan trọng trong hành trình sản phẩm này xuất hiện chính danh, được bảo vệ ở thị trường trong nước và xuất khẩu. Vậy, làm thế nào để phát huy tác dụng của nhãn hiệu hàng hóa và nâng cao giá trị nông sản tại thì trường trong nước và xuất khẩu?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/03/25/vovlive_sukienvabanluan_xay_dung_thuong_hieu_sau_rieng.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 25 Mar 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
