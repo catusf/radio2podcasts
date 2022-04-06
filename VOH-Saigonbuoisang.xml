@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 06 Apr 2022 05:49:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 06 Apr 2022 14:23:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 06 Apr 2022 05:49:00 +0700</pubDate>
+    <pubDate>Wed, 06 Apr 2022 14:23:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Bác sĩ với cuộc chiến thông tin - Bài 1: Lang băm trên “cõi mạng” - Sài Gỏn buổi sáng 6/4/2022</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/bac-si-voi-cuoc-chien-thong-tin-bai-1-lang-bam-tren-coi-mang-sai-gon-buoi-sang-6-4-2022-430813.html</link>
+      <description><![CDATA[07:23 - 06/04/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/bac-si-voi-cuoc-chien-thong-tin-bai-1-lang-bam-tren-coi-mang-sai-gon-buoi-sang-6-4-2022-430813.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/04/06/fmsgbs06h00p060422-20220406070458.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 06 Apr 2022 14:23:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Việt Nam đã ghi nhận tổng cộng gần 9,9 triệu ca nhiễm - Sài Gòn buổi sáng 05/02/2022</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/viet-nam-da-ghi-nhan-tong-cong-gan-9-9-trieu-ca-nhiem-sai-gon-buoi-sang-05-02-2022-430792.html</link>
       <description><![CDATA[22:49 - 05/04/2022]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/viet-nam-da-ghi-nhan-tong-cong-gan-9-9-trieu-ca-nhiem-sai-gon-buoi-sang-05-02-2022-430792.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/04/05/fmsgbs06h00p050422-20220405063043.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 06 Apr 2022 05:49:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Sài Gòn buổi sáng - 4/4/2022</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-4-4-2022-430660.html</link>
-      <description><![CDATA[15:58 - 04/04/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-4-4-2022-430660.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/04/04/fmsgbs06h00p040422-20220404070224-1.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 04 Apr 2022 22:58:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

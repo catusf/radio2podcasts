@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 05 Apr 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 06 Apr 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 05 Apr 2022 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 06 Apr 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Vụ 100 container hạt điều xuất khẩu sang Italia và những bài học cho doanh nghiệp Việt Nam trong thương mại quốc tế</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Đã có những diễn biến mới trong vụ việc mất quyền kiểm soát đối với 36 trong tổng số 100 container hạt điều xuất khẩu sang Italia. Tính đến ngày 3/4, các công ty Việt Nam đã thu hồi được 12/35 container hạt điều xuất khẩu sang Italia bị mất chứng từ gốc. Cùng với đó, các doanh nghiệp Việt Nam đã bán lại được 18 container hàng sang Hà Lan và Thổ Nhĩ Kỳ. Đây có thể xem như một thắng lợi rất lớn nhờ những nỗ lực và sự hỗ trợ tích cực của các bên liên quan sau gần một tháng. Nhìn nhận như thế nào về kết quả này? Đâu là những bài học trong xuất khẩu của doanh nghiệp Việt Nam khi hội nhập kinh tế quốc tế?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/04/06/vovlive_sukienvabanluan_vu_10_conterne_hat_dieu.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 06 Apr 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Hạ độ tuổi trưởng thành: Cơ hội giới trẻ Nhật Bản tham gia các hoạt động xã hội</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/03/31/vovlive_sukienvabanluan_chinh_quyen_tong_thong_biden_de_xuat_thue_ti_phu.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 31 Mar 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Báo động tình trạng trẻ thấp còi tại Phillipines và những giải pháp</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Mới đây, Bộ Khoa học và Công nghệ Philippines đã kêu gọi sự quan tâm đúng mức của chính quyền và cộng đồng trước thực trạng được ví như “đại dịch thầm lặng” đang đe dọa cuộc sống của những người dân nghèo Philippines trong nhiều năm. Đó là bệnh thấp còi ở trẻ em - một trong những vấn đề sức khoẻ nghiêm trọng hàng đầu nhưng lại ít được chính phủ bận tâm. Thực trạng này ở Philippines cụ thể ra sao, chính quyền Manila đã có những giải pháp gì cho vấn đề này?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/03/29/vovlive_sukienvabinhluan_bao_dong_tinh_trang_thap_coi_tai_phillipines.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 29 Mar 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
