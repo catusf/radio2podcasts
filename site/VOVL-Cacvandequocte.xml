@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 04 Apr 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 06 Apr 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 04 Apr 2022 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 06 Apr 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Nhiệm kỳ thứ tư và những thách thức của Thủ tướng Hungary</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Theo kết quả kiểm đếm hơn 99% phiếu bầu, đảng Fidesz của Thủ tướng Hungary Viktor Orban đã giành thắng lợi lớn trong cuộc tổng tuyển cử vừa diễn ra để bầu Quốc hội khóa mới. Kết quả này đồng nghĩa với việc ông Orban sẽ tiếp tục lãnh đạo đất nước nhiệm kỳ thứ 4 liên tiếp kể từ năm 2010 đến nay. Điều gì đã làm nên chiến thắng áp đảo của Thủ tướng Orban, trong bối cảnh các cuộc thăm dò trước bầu cử đều cho thấy khoảng cách khá sít sao giữa các đảng? Nhiệm kỳ thứ 4 của nhà lãnh đạo kỳ cựu dự báo sẽ có những chính sách đối nội, đối ngoại nào nổi bật, đặc biệt thời gian qua, Hungary vẫn đang bị giằng co giữa một bên là Nga và một bên là phương Tây?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/04/06/vovlive_vandequocte_nhiemkythutuvanhungthachthuccuathutuongbungary.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 06 Apr 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Những nguy cơ an ninh đối với bán đảo Triều Tiên sau hàng loạt diễn biến “nóng” gần đây</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/03/31/vovlive_vandequocte_xungdotngaukraine.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 31 Mar 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Thỏa thuận an ninh Trung Quốc – Solomon gây lo ngại trong khu vực</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Sau một thời gian xuất hiện nhiều đồn đoán, Thủ tướng Solomon Manasseh Sogavare mới đây xác nhận quốc gia này đang đàm phán một thỏa thuận an ninh với Trung Quốc. Thỏa thuận có thể cho phép Trung Quốc tăng cường hiện diện quân sự ở đảo quốc nam Thái Bình Dương này. Tuy nhiên, ông Sogavare không tiết lộ chi tiết nội dung của thỏa thuận. Thông tin về thỏa thuận này đã khiến các quốc gia trong khu vực như Australia, New Zealand hết sức lo ngại...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/03/31/vovlive_vandequocte_thoathuananinhtrungquocsolomom.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 30 Mar 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
