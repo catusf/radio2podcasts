@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 06 Apr 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 07 Apr 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 06 Apr 2022 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 07 Apr 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Châu Âu còn “lá bài kinh tế” nào với Nga?</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Sau rất nhiều cuộc gặp của lãnh đạo, giới chức an ninh, quốc phòng, hôm qua ngày 5/4, Bộ trưởng Kinh tế và Tài chính các nước Liên minh Châu Âu (EU) tiếp tục họp bàn các giải pháp xử lý mối quan hệ với Nga liên quan đến cuộc xung đột tại Ukraine. Về nguyên tắc, Châu Âu khá đồng thuận trong việc đưa ra quan điểm cứng rắn với Nga, liên tiếp đưa ra các gói trừng phạt kinh tế đối với quốc gia này. Tuy nhiên, giới phân tích cho rằng, các biện pháp mà Châu Âu đưa ra đến nay chưa đủ sức nặng khi Châu Âu vẫn luôn né tránh một lĩnh vực quan trọng nhất là lĩnh vực năng lượng của Nga. Một khi chưa thể tìm được lời giải cho sự phụ thuộc năng lượng của Nga, liệu các Bộ trưởng Tài chính và Kinh tế của EU có thể tìm ra “lá bài kinh tế” phù hợp để gây sức ép với Nga?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/04/07/vovlive_vandequocte_chauauconlabaikinhtenaovoinga.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 07 Apr 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Nhiệm kỳ thứ tư và những thách thức của Thủ tướng Hungary</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/04/01/vovlive_vandequocte_quanhevoingaphubongthuongdinheutrungquoc.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 01 Apr 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Xung đột Nga - Ukraine: “Phép thử” với chính sách trung lập của Ấn Độ</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Trong lúc nhiều nỗ lực ngoại giao đang được triển khai nhằm chấm dứt cuộc xung đột Nga – Ukraine, một điểm đến được đặc biệt chú ý trong thời gian gần đây là Ấn Độ. Trong tuần này, Ấn Độ liên tục tiếp đón các nhà ngoại giao, các cố vấn an ninh của nhiều nước. Dự kiến, Ngoại trưởng Anh và Phó cố vấn An ninh Quốc gia Mỹ sẽ có mặt tại New Delhi vào ngày 31/3 và ngày 1/4 sẽ là chuyến thăm của Ngoại trưởng Nga Sergey Viktorovich Lavrov. Trước đó, hàng loạt cuộc điện đàm của lãnh đạo các nước Mỹ, Nhật Bản với Ấn Độ cũng đã diễn ra và đều xoay quanh cuộc xung đột Nga – Ukraine hiện nay. Có ý kiến cho rằng, với lập trường trung lập như hiện nay, Ấn Độ đối mặt với một “sức nóng” ngoại giao. Quốc gia Nam Á này sẽ làm gì để giữ vững lập trường trung lập, không gây “mất lòng” với bất kỳ bên đối tác nào trong khi không ảnh hưởng đến lợi ích của New Dehli?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/03/31/vovlive_vandequocte_xungdotngaukraine.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 31 Mar 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

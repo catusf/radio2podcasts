@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 04 Apr 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 07 Apr 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 04 Apr 2022 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 07 Apr 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Văn nghệ thiếu nhi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Vannghethieunhi.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Một góc ôn tập Tiếng Việt 8 4/4/2022</title>
+      <title>Thử nghiệm với tranh xé dán 7/4/2022</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/thu-nghiem-voi-tranh-xe-dan-c44-34370.aspx</link>
+      <description><![CDATA[Bút chì, cọ vẽ, màu là những vật phẩm quen thuộc nhất để sáng tạo một bức tranh. Các bạn nghĩ sao khi chúng ta sẽ làm ra những tác phẩm độc đáo bằng cách làm mới lạ. Không dùng cọ dùng chì, mà dùng kéo và các vật liệu như giấy, báo... (Văn nghệ thiếu nhi 06/04/2022)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/thu-nghiem-voi-tranh-xe-dan-c44-34370.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2022_4/v2_0604_10h4518h15_van_nghe_thieu_nhi_74202210.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 07 Apr 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Một góc ôn tập Tiếng Việt 8  4/4/2022</title>
       <link>http://vov6.vov.vn/van-nghe-thieu-nhi/mot-goc-on-tap-tieng-viet-8-c44-34363.aspx</link>
       <description><![CDATA[Trở lại trường học sau những ngày tháng giãn cách vì dịch bệnh, các bạn hẳn rất hào hứng. Chúc tất cả chúng ta học tập thật hiệu quả, mỗi ngày đến trường đón nhận nhiều niềm vui và chia sẻ nhé! Trong chương trình hôm nay, chúng ta cùng nghe cô giáo Nguyễn Lam Anh (giáo viên ngữ văn trường THCS Nguyễn Tri Phương, quận Hoàn Kiếm, Hà Nội) trao đổi về phần ôn tập Tiếng Việt lớp 8. (Văn nghệ thiếu nhi 04/04/2022)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/mot-goc-on-tap-tieng-viet-8-c44-34363.aspx</guid>
@@ -37,14 +45,6 @@
       <description><![CDATA[Tỉ số giữa hai đội bóng đã không có giá trị nữa. Các báo lần lượt đưa tin về sự cố có một không hai này. Vôn-ca lấy làm sung sướng khi trận đấu phải dừng lại giữa chừng. Cơ hội cho đội Du-bi-lô đang ở phía trước. Mọi người rời sân bóng trở về nhà, Vôn-ca và ông già Khốt-ta-bít cũng không còn giận nhau nữa... (Văn nghệ thiếu nhi 03/04/2022)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-ong-gia-khot-ta-bit-buoi-36-qua-con-gian-doi-c44-34362.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2022_4/v2_0304_10h4518h15_van_nghe_thieu_nhi_44202210.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 04 Apr 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đọc truyện "Ông già Khốt-ta-bít" - Buổi 35 - Tình huống bất ngờ trên sân cỏ   4/4/2022</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-ong-gia-khot-ta-bit-buoi-35-tinh-huong-bat-ngo-tren-san-co-c44-34361.aspx</link>
-      <description><![CDATA[Biết đội Du-bi-lô sắp thua, Vôn-ca yêu cầu ông già Khốt-ta-bít phải thay đổi tình thế trận đấu. Trên sân cỏ vang lên tiếng còi báo giải lao. Bác sĩ chăm sóc đội Du-bi-lô thông báo với trọng tài là phải dừng trận đấu vì các cầu thủ bị mắc bệnh sởi... (Văn nghệ thiếu nhi 02/04/2022)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-ong-gia-khot-ta-bit-buoi-35-tinh-huong-bat-ngo-tren-san-co-c44-34361.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2022_4/v2_0204_10h4518h15_van_nghe_thieu_nhi_44202210.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 04 Apr 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
