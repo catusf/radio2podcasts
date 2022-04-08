@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 08 Apr 2022 21:22:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 09 Apr 2022 03:35:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 08 Apr 2022 21:22:00 +0700</pubDate>
+    <pubDate>Sat, 09 Apr 2022 03:35:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>TPHCM đón đoàn khách quốc tế đầu tiên từ sau 15/3 - Thời sự 17g00 8/4/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-don-doan-khach-quoc-te-dau-tien-tu-sau-15-3-thoi-su-17g00-8-4-2022-431125.html</link>
+      <description><![CDATA[20:35 - 08/04/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-don-doan-khach-quoc-te-dau-tien-tu-sau-15-3-thoi-su-17g00-8-4-2022-431125.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/04/08/AMThoisu17h00p080422.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 09 Apr 2022 03:35:00 +0700</pubDate>
+    </item>
     <item>
       <title>“Phát huy hiệu quả sử dụng nguồn sách khoa học kỹ thuật” - Thời Sự 11g00 8/4/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/phat-huy-hieu-qua-su-dung-nguon-sach-khoa-hoc-ky-thuat-thoi-su-11g00-8-4-2022-431091.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/ubnd-tphcm-dieu-chinh-phan-cong-cong-tac-chu-tich-cac-pho-chu-tich-thoi-su-5g30-8-4-2022-431057.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/04/08/AMThoisu05h30p080422.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 08 Apr 2022 17:01:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Hội đồng nhân dân TPHCM Thống nhất đầu tư đường Vành đai 3 - Thời sự 17g00 7/4/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/hoi-dong-nhan-dan-tphcm-thong-nhat-dau-tu-duong-vanh-dai-3-thoi-su-17g00-7-4-2022-431009.html</link>
-      <description><![CDATA[19:39 - 07/04/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/hoi-dong-nhan-dan-tphcm-thong-nhat-dau-tu-duong-vanh-dai-3-thoi-su-17g00-7-4-2022-431009.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/04/07/AMThoisu17h00p070422.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 08 Apr 2022 02:39:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
