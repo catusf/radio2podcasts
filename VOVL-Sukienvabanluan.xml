@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 07 Apr 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 08 Apr 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 07 Apr 2022 19:00:00 +0700</pubDate>
+    <pubDate>Fri, 08 Apr 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ứng dụng công nghệ để nhận biết dấu hiệu, ngăn ngừa lừa đảo trực tuyến</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Theo thống kê của Cục An ninh mạng và Phòng chống tội phạm công nghệ cao, Bộ Công an, năm ngoái, cả nước xảy ra gần 2.500 vụ lừa đảo trên không gian mạng. Như vậy, tính trung bình 1 ngày xảy ra gần 7 vụ! Các thủ đoạn ngày càng tinh vi, tài sản thiệt hại ngày một lớn, thậm chí có những nạn nhất mất tiền tỉ. Trong bối cảnh đó, Trung tâm Giám sát an toàn không gian mạng quốc gia (NCSC) vừa phối hợp cùng google vừa ra mắt một công cụ mới - website dauhieuluadao.com. Trang web này mang lại cho người dân những lợi ích gì? Cần chủ động nâng cao kiến thức và kĩ năng gì để tránh bị lừa đảo trên không gian mạng hiệu quả?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/04/08/vovlive_sukienvabanluan_ung_dung_cong_nghe_de_nhan_biet_dau_hieu-ngan_ngua_lua_dao_truc-_ao_tuyen.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 08 Apr 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Lào thúc đẩy ngành công nghiệp chế biến mũi nhọn: Cơ hội và thách thức!</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/04/05/vovlive_sukienvabanluan_ha_do_tuoi_truong_thanh_nhat_ban.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 05 Apr 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Mở cửa trường học cho nữ sinh - Taliban lại thất hứa</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Sau kỳ nghỉ đông, chính quyền Afghanistan do lực lượng Taliban đứng đầu vừa cho phép các trường học mở cửa trở lại để bắt đầu năm học mới. Nhưng trái với lời cam kết trước đó về việc “sẽ cho phép phụ nữ làm việc và học tập”, nữ sinh từ lớp 6 trở lên vẫn chưa được tới trường. Quyết định của Taliban đã khiến các nữ sinh Afghanistan vô cùng thất vọng, đồng thời tạo ra làn sóng phản đối mạnh mẽ của cộng đồng quốc tế, bởi đằng sau việc nữ sinh không được phép tới trường còn là vấn đề lớn hơn, đó là sự áp đặt hà khắc đối với quyền của phụ nữ.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/04/04/vovlive_sukienvabanluan_mo_cua_truong_hoc_cho_nu_sinh_taliban.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 04 Apr 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
