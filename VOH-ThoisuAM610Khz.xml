@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 09 Apr 2022 03:35:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 09 Apr 2022 18:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 09 Apr 2022 03:35:00 +0700</pubDate>
+    <pubDate>Sat, 09 Apr 2022 18:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,28 +24,28 @@
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Công tác tuyên truyền góp phần phòng ngừa tội phạm tại địa bàn dân cư - Thời sự 11g00 9/4/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/cong-tac-tuyen-truyen-gop-phan-phong-ngua-toi-pham-tai-dia-ban-dan-cu-thoi-su-11g00-9-4-2022-431203.html</link>
+      <description><![CDATA[11:00 - 09/04/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/cong-tac-tuyen-truyen-gop-phan-phong-ngua-toi-pham-tai-dia-ban-dan-cu-thoi-su-11g00-9-4-2022-431203.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/04/09/ts11-090422.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 09 Apr 2022 18:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>“Nâng cao năng lực y tế cơ sở, sẻ chia từ người trong cuộc” - Thời sự 05g30 9/4/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/nang-cao-nang-luc-y-te-co-so-se-chia-tu-nguoi-trong-cuoc-thoi-su-05g30-9-4-2022-431166.html</link>
+      <description><![CDATA[05:30 - 09/04/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/nang-cao-nang-luc-y-te-co-so-se-chia-tu-nguoi-trong-cuoc-thoi-su-05g30-9-4-2022-431166.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/04/09/ts05g30-090422.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 09 Apr 2022 12:30:00 +0700</pubDate>
+    </item>
+    <item>
       <title>TPHCM đón đoàn khách quốc tế đầu tiên từ sau 15/3 - Thời sự 17g00 8/4/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-don-doan-khach-quoc-te-dau-tien-tu-sau-15-3-thoi-su-17g00-8-4-2022-431125.html</link>
       <description><![CDATA[20:35 - 08/04/2022]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-don-doan-khach-quoc-te-dau-tien-tu-sau-15-3-thoi-su-17g00-8-4-2022-431125.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/04/08/AMThoisu17h00p080422.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 09 Apr 2022 03:35:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>“Phát huy hiệu quả sử dụng nguồn sách khoa học kỹ thuật” - Thời Sự 11g00 8/4/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/phat-huy-hieu-qua-su-dung-nguon-sach-khoa-hoc-ky-thuat-thoi-su-11g00-8-4-2022-431091.html</link>
-      <description><![CDATA[14:22 - 08/04/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/phat-huy-hieu-qua-su-dung-nguon-sach-khoa-hoc-ky-thuat-thoi-su-11g00-8-4-2022-431091.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/04/08/AMThoisu11h00p080422.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 08 Apr 2022 21:22:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>UBND TPHCM điều chỉnh phân công công tác Chủ tịch, các Phó Chủ tịch - Thời sự 5g30 8/4/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/ubnd-tphcm-dieu-chinh-phan-cong-cong-tac-chu-tich-cac-pho-chu-tich-thoi-su-5g30-8-4-2022-431057.html</link>
-      <description><![CDATA[10:01 - 08/04/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/ubnd-tphcm-dieu-chinh-phan-cong-cong-tac-chu-tich-cac-pho-chu-tich-thoi-su-5g30-8-4-2022-431057.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/04/08/AMThoisu05h30p080422.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 08 Apr 2022 17:01:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
