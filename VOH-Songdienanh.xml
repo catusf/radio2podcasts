@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 11 Apr 2022 03:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 04 Apr 2022 03:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 11 Apr 2022 03:00:00 +0700</pubDate>
+    <pubDate>Mon, 04 Apr 2022 03:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,14 +23,6 @@
     </itunes:owner>
     <itunes:subtitle>Sóng điện ảnh trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Songdienanh.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Hậu trường phim điện ảnh Đêm tối rực rỡ (Kỳ 1) - Khung hình thứ 25 10/4/2022</title>
-      <link>https://radio.voh.com.vn/khung-hinh-thu-25/hau-truong-phim-dien-anh-dem-toi-ruc-ro-ky-1-khung-hinh-thu-25-10-4-2022-431314.html</link>
-      <description><![CDATA[20:00 - 10/04/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/khung-hinh-thu-25/hau-truong-phim-dien-anh-dem-toi-ruc-ro-ky-1-khung-hinh-thu-25-10-4-2022-431314.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/04/10/khunghinh-100422.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 11 Apr 2022 03:00:00 +0700</pubDate>
-    </item>
     <item>
       <title>Các cặp diễn viên Hàn kết hôn sau khi đóng phim chung (Kỳ 1) - Khung hình thứ 25 3/4/2022</title>
       <link>https://radio.voh.com.vn/khung-hinh-thu-25/cac-cap-dien-vien-han-ket-hon-sau-khi-dong-phim-chung-ky-1-khung-hinh-thu-25-3-4-2022-430548.html</link>
@@ -62,6 +54,14 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/khung-hinh-thu-25/giao-luu-cung-doan-phim-nguoi-lang-nghe-khung-hinh-thu-25-13-3-2022-428475.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/03/13/khunghinh-130322.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 14 Mar 2022 03:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Những bản nhạc phim Kim Dung kinh điển (Kỳ 1) - Khung hình thứ 25 6/3/2022</title>
+      <link>https://radio.voh.com.vn/khung-hinh-thu-25/nhung-ban-nhac-phim-kim-dung-kinh-dien-ky-1-khung-hinh-thu-25-6-3-2022-427746.html</link>
+      <description><![CDATA[20:00 - 06/03/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/khung-hinh-thu-25/nhung-ban-nhac-phim-kim-dung-kinh-dien-ky-1-khung-hinh-thu-25-6-3-2022-427746.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/03/06/khunghinh-060322.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 07 Mar 2022 03:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
