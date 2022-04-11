@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 06 Apr 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 08 Apr 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 06 Apr 2022 19:00:00 +0700</pubDate>
+    <pubDate>Fri, 08 Apr 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Đọc truyện đêm khuya</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Doctrdemkhuya.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Nước mắt chảy xuôi trong "Đường chợ gánh gồng" 6/4/2022</title>
+      <title>"Giấc ngủ xuân": Mơ về tình yêu đẹp 8/4/2022</title>
+      <link>http://vov6.vov.vn/doc-truyen-dem-khuya/giac-ngu-xuan-mo-ve-tinh-yeu-dep-c11-34373.aspx</link>
+      <description><![CDATA[Chương trình Đọc truyện đêm khuya hôm nay, giọng đọc Hải Yến sẽ chuyển tới các bạn truyện ngắn Giấc ngủ xuân của nhà văn Võ Khắc Nghiêm. Truyện ngắn mang đến cho độc giả những cảm giác ấm áp xúc động về tình người, về sự đồng cảm đồng điệu giữa những tâm hồn yêu văn chương nghệ thuật, có cả những bao dung, tha thứ cho những lầm lạc mà bất cứ ai trong số chúng ta cũng có thể một đôi lần mắc phải trong cuộc đời:]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/doc-truyen-dem-khuya/giac-ngu-xuan-mo-ve-tinh-yeu-dep-c11-34373.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2022_4/giac_ngu_xuan_8420229.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 08 Apr 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Nước mắt chảy xuôi trong "Đường chợ gánh gồng"  6/4/2022</title>
       <link>http://vov6.vov.vn/doc-truyen-dem-khuya/nuoc-mat-chay-xuoi-trong-duong-cho-ganh-gong-c11-34369.aspx</link>
       <description><![CDATA[“Đường chợ gánh gồng” là một truyện ngắn nhắc nhớ nhiều hoài niệm. Bước vào không gian của tác phẩm, dường như người đọc được trở về với thuở ấu thơ, với những năm tháng còn được có bà. Truyện ngắn vì thế mà khiến người ta bùi ngùi trước cả khi lật giở từng trang, lắng nghe từng dòng của “Đường chờ gánh gồng”. “Bà” trong kí ức của nhân vật “tôi” vừa có nét riêng vừa phảng phất những đặc điểm thường thấy của nhiều người phụ nữ đã quen với vất vả hi sinh, quen với thiệt thòi tủi phận. Bà của nhân vật “tôi” không thơm thơm mùi trầu mà ngày ngày quanh quẩn bán gà bán vịt. Bà không kể chuyện cổ tích nhưng vẫn gắn với chuyện ngày xửa ngày xưa, chuyện nhuộm răng gội đầu. Bà có những nỗi khổ tâm riêng mà kể cả khi nhắm mắt xuôi tay vẫn chưa được con cháu thấu hiểu cảm thông. “Đường chợ gánh gồng” không phải là một truyện mạnh về kĩ thuật viết. Bản thân tác giả dường như thường chọn cách kể mộc mạc, giản dị khi nói về những phận đời hay bị bỏ quên. Tuy nhiên, cũng chính nhờ sự mộc mạc giản dị ấy, cùng với sự chăm chút về chi tiết, nhà văn lại ghi điểm với độc giả ở những điều tưởng chừng chẳng có gì lạ. Có lẽ, sau những ồn ào của cuộc sống, người ta lại cần những phút lặng lẽ trầm tư để nhớ về những kí ức còn có bà, có mẹ trong đời… (Lời bình của BTV Nguyễn Hà)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/doc-truyen-dem-khuya/nuoc-mat-chay-xuoi-trong-duong-cho-ganh-gong-c11-34369.aspx</guid>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/doc-truyen-dem-khuya/hoa-hue-tinh-con-thom-giac-mo-co-that-cua-nguoi-nghe-sy-c11-34365.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/v2_0404_22h30_doc_truyen_dem_khuya_54202214.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 04 Apr 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>"Giỗ mình”: Câu chuyện xúc động về tình người trong chiến tranh  31/3/2022</title>
-      <link>http://vov6.vov.vn/doc-truyen-dem-khuya/gio-minh-cau-chuyen-xuc-dong-ve-tinh-nguoi-trong-chien-tranh-c11-34354.aspx</link>
-      <description><![CDATA[Trong đời sống tâm linh của người dân Việt Nam thì ngày giỗ là lễ kỉ niệm ngày mất của tổ tiên, ông bà, bố mẹ hoặc người thân. Trong cuộc kháng chiến chống đế quốc Mỹ cứu nước, hàng vạn người lính đã hi sinh để mang lại độc lập, hòa bình cho đất nước. Với những người lính còn sống thì ngày đồng đội hi sinh mãi mãi khắc ghi trong trái tim. Những dịp giỗ các anh là dịp người cựu chiến binh tưởng nhớ người đã khuất, gặp gỡ bạn bè đồng đội năm xưa. Truyện ngắn được kể lại qua lời của nhân vật tôi khi dự đám giỗ của một người đồng đội. Và bất ngờ khi chính người tưởng rằng đã mất làm giỗ cho mình. Điều tưởng rằng khó tin nhưng thực ra lại không hề hiếm ở nước ta thời kỳ hậu chiến. Trong cuộc chiến tranh chống đế quốc Mỹ ác liệt, rất nhiều người lính mất tích rồi hoàn cảnh thông tin liên lạc còn hạn chế nên  tổ chức, gia đình tưởng rằng đã hi sinh. Thế mới có cảnh giở khóc giở cười khi ngày gia đình làm đám giỗ thì người hi sinh bỗng trở về. Nhân vật anh  lính tên Hùng trong câu chuyện chính là một trường hợp như vậy. Đầu năm 1975, Hùng bị thương nặng và thông tin anh hy sinh được thông báo về quê nhà. May mắn Hùng được giúp đỡ, chữa trị, sau khi lành vết thương anh trở về trong niềm hạnh phúc của gia đình. Điều đặc biệt nhất là Hùng được giúp đỡ, chữa trị bởi lực lượng phía bên kia chiến tuyến. Tấm lòng của ông Mến, người bác sĩ quân y Việt Nam Cộng Hòa hay sự cứu giúp của người lính vô danh khiến Hùng vô cùng cảm động. Truyện ngắn mang lại nhiều bất ngờ cho người đọc, người nghe và thể hiện góc nhìn khách quan về chiến tranh. Dù là ta hay địch thì đều có những con người mang phẩm chất tốt đẹp. May mắn Hùng đã gặp những người tốt như vậy để trở lại với gia đình. Sau gần nửa thế kỉ đất nước hòa bình, cần có nhiều sáng tác viết về chiến tranh với góc nhìn đa dạng, khách quan để công chúng hiểu hơn về quãng thời gian hào hùng của dân tộc.]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/doc-truyen-dem-khuya/gio-minh-cau-chuyen-xuc-dong-ve-tinh-nguoi-trong-chien-tranh-c11-34354.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/v2_3103_22h30_doc_truyen_dem_khuya_14202210.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 31 Mar 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
