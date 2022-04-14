@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 12 Apr 2022 14:26:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 14 Apr 2022 05:16:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 12 Apr 2022 14:26:00 +0700</pubDate>
+    <pubDate>Thu, 14 Apr 2022 05:16:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Đổ xô điều trị hậu Covid-19 – Cẩn trọng hậu quả khó lường – Sái Gòn buổi sáng 13/4/2022</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/do-xo-dieu-tri-hau-covid-19-can-trong-hau-qua-kho-luong-sai-gon-buoi-sang-13-4-2022-431665.html</link>
+      <description><![CDATA[22:16 - 13/04/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/do-xo-dieu-tri-hau-covid-19-can-trong-hau-qua-kho-luong-sai-gon-buoi-sang-13-4-2022-431665.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/04/13/fmsgbs06h00p130422-20220413070425.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 14 Apr 2022 05:16:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Sài Gòn buổi sáng - 12/4/2021</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-12-4-2021-431448.html</link>
       <description><![CDATA[07:26 - 12/04/2022]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-12-4-2021-431448.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/04/12/fmsgbs06h00p120422-20220412063407.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 12 Apr 2022 14:26:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đã đến lúc chuẩn hóa giáo dục kỹ năng sống cho người trẻ - Sài Gòn buổi sáng 11/4/2022</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/da-den-luc-chuan-hoa-giao-duc-ky-nang-song-cho-nguoi-tre-sai-gon-buoi-sang-11-4-2022-431399.html</link>
-      <description><![CDATA[06:00 - 11/04/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/da-den-luc-chuan-hoa-giao-duc-ky-nang-song-cho-nguoi-tre-sai-gon-buoi-sang-11-4-2022-431399.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/04/11/sgbs-110422.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 11 Apr 2022 13:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
