@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 12 Apr 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 14 Apr 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 12 Apr 2022 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 14 Apr 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Lộ trình để Thái Lan hiện thực hóa “giấc mơ xe điện” vào năm 2035?</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Ngành công nghiệp ô tô đang có những chuyển biến căn bản khi các quốc gia toàn cầu hướng đến mục tiêu giảm phát thải khí gây hiệu ứng nhà kính. Tại Đông Nam Á, Thái Lan là quốc gia có nền công nghiệp xe hơi phát triển nhất trong khu vực đang cho thấy quyết tâm trong việc trở thành trung tâm tiêu thụ và sản xuất xe điện thân thiện với môi trường. Mới đây, Thái Lan đã lên kế hoạch chỉ bán các phương tiện không phát thải như xe điện từ năm 2035. Điều này cũng đồng nghĩa, cùng thời điểm đó, ô tô sử dụng động cơ đốt trong chạy bằng nhiên liệu xăng, dầu sẽ bị cấm phân phối ở Thái Lan. Đây được đánh giá là một kế hoạch đầy tham vọng. Vậy Thái Lan đang và sẽ triển khai những chính sách gì để hiện thực hóa “giấc mơ xe điện” trong thập niên tới?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/04/14/vovlive_sukienvabanluan_lo_trinh_duoc_thai_lan_hien_thuc_hoa-_giac_mo_xe-dien_-vao_nam_2035.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 14 Apr 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Nga tái khởi động kế hoạch thăm dò Mặt Trăng sau hơn 4 thập kỷ gián đoạn</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/04/08/vovlive_sukienvabanluan_ung_dung_cong_nghe_de_nhan_biet_dau_hieu-ngan_ngua_lua_dao_truc-_ao_tuyen.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 08 Apr 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Lào thúc đẩy ngành công nghiệp chế biến mũi nhọn: Cơ hội và thách thức!</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Vài năm trở lại đây, ngành công nghiệp của Lào được đánh giá có những bước tăng trưởng ấn tượng. Bất chấp nền kinh tế Lào còn gặp nhiều khó khăn và thách thức do ảnh hưởng của đại dịch Covid-19, tuy nhiên, ngành công nghiệp nói chung - lĩnh vực công nghiệp chế biến nói riêng, vẫn có những đóng góp quan trọng trong phát triển kinh tế - xã hội của đất nước Lào. Đâu là những thành tựu và kinh nghiệm nổi bật của Lào trong lĩnh vực này? Chiến lược phát triển sắp tới của chính phủ Lào đối với ngành công nghiệp chế biến có những điểm nào nổi bật?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/04/07/vovlive_sukienvabanluan_lao_thuc_day_nganh_kinh_te_mui_nhon.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 07 Apr 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

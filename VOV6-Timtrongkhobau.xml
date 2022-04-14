@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 06 Apr 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 14 Apr 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 06 Apr 2022 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 14 Apr 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Tìm trong kho báu</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Timtrongkhobau.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Nguyễn Gia Thiều và Tao đàn Tứ Trai 6/4/2022</title>
+      <title>Dấu ấn Tao đàn nhị thập bát tú thời vua Lê Thánh Tông 14/4/2022</title>
+      <link>http://vov6.vov.vn/tim-trong-kho-bau/dau-an-tao-dan-nhi-thap-bat-tu-thoi-vua-le-thanh-tong-c54-34386.aspx</link>
+      <description><![CDATA[Về gốc gác ra đời của “Tao đàn nhị thập bát tú”, tương truyền năm Quý Sửu (1493) và Giáp Dần (1494) do thời tiết thuận hòa nên mùa màng tốt tươi, nhân đất nước thanh bình vua Lê Thánh Tông đặt 9 bài thơ ca ngợi chế độ, là: Phong niên, Quân đạo, Thần tiết, Minh lương, Anh hiển, Kỳ khí, Thư thảo, Văn nhân và Mai hoa. Từ đó nhà vua lập ra Tao Đàn và đưa 9 bài thơ này ra cho các triều thần dựa theo vần luật của chúng mà xướng họa ra tới 250 bài thơ chữ Hán và chữ Nôm ca ngợi triều đại. Chính trong bài tựa tập thơ “Quỳnh uyển cửu ca”, vua Lê Thánh Tông đã đề cập tới cụm từ “Nhị thập bát tú”: “Lại tập hợp bọn học sĩ Thân, Đỗ, Ngô, Lưu, bọn văn thần Nguyễn, Dương, Chu, Phạm, gồm 28 người, ứng với 28 ngôi sao thuộc Nhị thập bát tú thay nhau cùng họa, có tới vài trăm bài, bài nào cũng lựa chữ công phu, dùng từ chắc chắn. Thơ làm xong dâng lên, lòng ta vui thích”.]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/dau-an-tao-dan-nhi-thap-bat-tu-thoi-vua-le-thanh-tong-c54-34386.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/v2_141804_18h30_tim_trong_kho_bau_144202215.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 14 Apr 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Nguyễn Gia Thiều và Tao đàn Tứ Trai  6/4/2022</title>
       <link>http://vov6.vov.vn/tim-trong-kho-bau/nguyen-gia-thieu-va-tao-dan-tu-trai-c54-34368.aspx</link>
       <description><![CDATA[Thời kỳ làm Tổng binh xứ Hưng Hóa, một vùng đất kéo dài từ Lào Cai, Yên Bái, Phú Thọ, Sơn La đến Hòa Bình ngày nay, Nguyễn Gia Thiều thường tranh thủ từ vùng núi rừng hiểm trở về nhà riêng ở gần hồ Tây để sáng tác và đàm đạo cùng anh em, bạn hữu. Tương truyền, ông có đến mười một em trai, hai mươi em gái, trong đó có bốn người em trai cùng chung niềm say mê với thơ ca. Ông cùng các em lập nên Tao đàn Tứ Trai. Thi đàn gia đình gồm Nguyễn Gia Thiều tên hiệu là Tâm Thi Viện Tử được tôn là Thi Nguyên. Bốn người em trai là Kỳ Trai Nguyễn Gia Cơ, Hòa Trai Nguyễn Gia Diễm, Mục Trai Nguyễn Gia Xuyến, Thanh Trai Nguyễn Gia Tuyên lấy tên hiệu lần lượt là Thi Đề, Thi Xích, Thi Cầm, Thi Thược.]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/nguyen-gia-thieu-va-tao-dan-tu-trai-c54-34368.aspx</guid>
@@ -39,14 +47,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/di-san-van-hoc-tam-tinh-nguoi-ha-noi-voi-vuong-trieu-tay-son-c54-34355.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/v2_3103_0404_18h30_tim_trong_kho_bau_14202210.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 31 Mar 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Di sản văn học thời Tây Sơn  23/3/2022</title>
-      <link>http://vov6.vov.vn/tim-trong-kho-bau/di-san-van-hoc-thoi-tay-son-c54-34342.aspx</link>
-      <description><![CDATA[Cuối thế kỷ 18, thời kỳ gắn với những biến động lịch sử, sự tồn tại song song của nhiều chính thể, văn học vẫn không ngừng phát triển. Nhiều tác giả lỗi lạc xuất hiện trong giai đoạn này với những di sản thơ văn giá trị. Trong đó, có thể khẳng định dưới triều Tây Sơn, tồn tại từ năm 1771 đến năm 1801, văn học nghệ thuật có sự phát triển nở rộ. Dù sau này triều Nguyễn đã mạnh tay xóa bỏ ảnh hưởng của nhà Tây Sơn trong xã hội nhưng qua những sưu tầm, khám phá, tìm lại khẳng định thời kỳ Tây Sơn có những cống hiến quan trọng cho nền văn học dân tộc]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/di-san-van-hoc-thoi-tay-son-c54-34342.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/v2_24_2803_18h30_tim_trong_kho_bau_253202214.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 23 Mar 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
