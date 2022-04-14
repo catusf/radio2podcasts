@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 12 Apr 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 14 Apr 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 12 Apr 2022 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 14 Apr 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,22 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Các nguy cơ từ cuộc khủng hoảng chính trị Pakistan</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Pakistan vừa có Thủ tướng mới là ông Shehbaz Sharif (lãnh đạo Đảng đối lập) sau khi Thủ tướng Imran Khan bất ngờ bị bãi nhiệm. Đã có những cuộc biểu tình phản đối và ủng hộ trước diễn biến chính trị “chóng vánh” tại Pakistan. Điều đó cho thấy sự chia rẽ trong xã hội giữa lúc nền kinh tế nước này đang hỗn loạn, lạm phát tăng cao, đồng nội tệ liên tục mất giá trong nhiều tháng qua... Những căng thẳng chính trị ở Pakistan vẫn chưa dừng lại, đặt ra nhiều thách thức với quốc gia Nam Á này. Bên cạnh đó, do Pakistan nằm ở vị trí chiến lược quan trọng giữa Trung Quốc, Ấn Độ và Afghanistan, bất cứ sự thay đổi nào ở quốc gia này cũng thu hút sự quan tâm của các nước có ảnh hưởng ở khu vực, đặc biệt là trong chính sách đối ngoại.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/04/14/vovlive_vandequocte_nguycotucuockhunghoangchinhtripakistan.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 14 Apr 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Triển vọng tháo gỡ căng thẳng Mỹ và Ấn Độ liên quan thương vụ dầu Ấn - Nga</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Mối quan hệ giữa hai đồng minh Mỹ - Ấn Độ thời gian qua đang vấp phải không ít mâu thuẫn khi New Delhi triển khai chính sách cân bằng, trung lập trong vấn đề Ukraine. Dù đã có một số điều chỉnh trong quan điểm về cuộc xung đột này, tuy nhiên, Ấn Độ vẫn không áp đặt các lệnh trừng phạt Nga, thậm chí “phớt lờ” sức ép của Mỹ để tiếp tục mua số lượng lớn dầu thô của Nga. Trong bối cảnh như vậy, liệu cuộc điện đàm trực tuyến mới nhất giữa Tổng thống Mỹ Joe Biden và Thủ tướng Ấn Độ Narendra Modi có mang lại những tín hiệu tích cực nhằm tháo gỡ khúc mắc giữa hai bên trước thềm cuộc họp “Mỹ - Ấn 2+2” sắp tới?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/04/13/vovlive_vandequocte_trienvongthaogocangthangmyvaando.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 13 Apr 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Kết quả vòng đầu tiên của cuộc bầu cử Tổng thống Pháp</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -38,22 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/04/12/vovlive_vandequocte_baucutongthongphaptruocgiog.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 08 Apr 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Liên minh AUKUS hợp tác phát triển vũ khí siêu thanh làm "nóng" cuộc chạy đua vũ trang mới</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Nhiều nước phương Tây quyết định tăng ngân sách và chi tiêu quốc phòng, trong đó dành một phần không nhỏ cho việc hiện đại hóa các loại vũ khí tối tân. Vũ khí siêu thanh đang là trung tâm của cuộc cạnh tranh giữa Mỹ, Nga và Trung Quốc. Nhiều nước tiên tiến khác cũng bắt đầu chạy đua nghiên cứu công nghệ này. Trong một bước đi mới nhất, Mỹ, Anh và Australia đã cam kết hợp tác phát triển tên lửa siêu thanh như một phần của hiệp ước an ninh giữa ba nước (còn gọi là AUKUS) được công bố vào năm ngoái. Bước đi này của cơ chế an ninh AUKUS được cho là sẽ “đốt nóng” cuộc chạy đua vũ trang mới và biến tên lửa siêu thanh trở thành một công cụ răn đe quan trọng giữa các cường quốc.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/04/12/vovlive_vandequocte_lienminhaukushoptacphattrienvukhisieuthanh.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 07 Apr 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Châu Âu còn “lá bài kinh tế” nào với Nga?</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Sau rất nhiều cuộc gặp của lãnh đạo, giới chức an ninh, quốc phòng, hôm qua ngày 5/4, Bộ trưởng Kinh tế và Tài chính các nước Liên minh Châu Âu (EU) tiếp tục họp bàn các giải pháp xử lý mối quan hệ với Nga liên quan đến cuộc xung đột tại Ukraine. Về nguyên tắc, Châu Âu khá đồng thuận trong việc đưa ra quan điểm cứng rắn với Nga, liên tiếp đưa ra các gói trừng phạt kinh tế đối với quốc gia này. Tuy nhiên, giới phân tích cho rằng, các biện pháp mà Châu Âu đưa ra đến nay chưa đủ sức nặng khi Châu Âu vẫn luôn né tránh một lĩnh vực quan trọng nhất là lĩnh vực năng lượng của Nga. Một khi chưa thể tìm được lời giải cho sự phụ thuộc năng lượng của Nga, liệu các Bộ trưởng Tài chính và Kinh tế của EU có thể tìm ra “lá bài kinh tế” phù hợp để gây sức ép với Nga?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/04/07/vovlive_vandequocte_chauauconlabaikinhtenaovoinga.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 07 Apr 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
