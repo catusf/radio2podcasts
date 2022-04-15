@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 14 Apr 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 15 Apr 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 14 Apr 2022 19:00:00 +0700</pubDate>
+    <pubDate>Fri, 15 Apr 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,22 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Tranh luận tại Phần Lan và Thụy Điển về việc gia nhập NATO</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Thủ tướng Phần Lan và người đồng cấp Thụy Điển vừa có cuộc gặp quan trọng ở Stockholm để thảo luận về các vấn đề an ninh khu vực trong bối cảnh cuộc chiến ở Ukraine đã thúc đẩy cả hai nước đánh giá lại quan điểm trung lập truyền thống kéo dài suốt chiến tranh lạnh để gia nhập NATO. Mặc dù Thụy Điển và Phần Lan dự kiến thời gian khác nhau về kế hoạch nộp đơn xin gia nhập NATO, nhưng theo giới phân tích, việc hai nước này trở thành thành viên của liên minh quân sự lớn nhất hành tinh đang dần trở thành hiện thực, do lo ngại kịch bản giống như Ukraine khi không có một cơ chế đảm bảo an ninh vững chắc. Tuy nhiên, bước đi này có thể khiến cấu trúc an ninh ở khu vực thêm phức tạp khi Nga tuyên bố sẽ tìm cách “tái cân bằng tình thế”.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/04/15/vovlive_vandequocte_tranhluantaiphanlanvathuydienveviecgianhapnato.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 15 Apr 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Sri Lanka tuyên bố vỡ nợ và tác động tới khu vực</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Chính phủ Sri Lanka vừa thông báo tạm dừng thanh toán 51 tỷ USD nợ nước ngoài của nước này do không thể trả nợ. Điều đó nghĩa là quốc gia Nam Á này lâm vào tình cảnh vỡ nợ, kinh tế suy thoái trầm trọng và nguy cơ bất ổn cận kề. Trong một động thái mới nhất, Chính phủ Sri Lanka đã phải xin Quỹ Tiền tệ Quốc tế và Trung Quốc cứu trợ. Điều đáng nói là Sri Lanka, quốc gia tham gia Sáng kiến Vành đai Con đường, nổi lên như một điểm nóng địa chính trị mới ở Nam Á nhờ nhận được rất nhiều các khoản tài trợ, nhưng rốt cuộc vẫn lâm vào tình cảnh này. Giới phân tích nhận định: suy thoái kinh tế và vỡ nợ không chỉ đẩy Sri Lanka đứng trước nguy cơ bất ổn chính trị mà còn có thể tác động xấu tới địa chính trị khu vực.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/04/15/vovlive_vandequocte_srilancatuyenbovono.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 14 Apr 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Các nguy cơ từ cuộc khủng hoảng chính trị Pakistan</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -38,22 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/04/13/vovlive_vandequocte_trienvongthaogocangthangmyvaando.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 13 Apr 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Kết quả vòng đầu tiên của cuộc bầu cử Tổng thống Pháp</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Dư luận quốc tế đang đổ dồn sự chú ý vào nước Pháp khi vòng 1 cuộc bầu cử Tổng thống Pháp vừa kết thúc vào rạng sáng nay 11/4 theo giờ Việt Nam. Đáng chú ý, dù Tổng thống đương nhiệm Emmanuel Macron đang dẫn đầu trong vòng đầu tiên của cuộc bầu cử tổng thống Pháp năm nay, nhưng ứng cử viên của phe cực hữu bà Marine Le Pen đã rút ngắn khoảng cách, với tỷ lệ khá sít sao. Việc ông Macron và bà Le Pen bước vào vòng 2 cuộc bầu cử Tổng thống năm nay đã tái hiện lại kịch bản cuộc bầu cử Tổng thống Pháp cách đây 5 năm. Tuy nhiên, tỷ lệ ủng hộ đối với bà Le Pen trong chặng nước rút bất ngờ tăng lên nhanh chóng. Dự báo ứng cử viên của Đảng Cực hữu có thể sẽ là một ẩn số khó dự đoán trong vòng 2 cuộc bầu cử Tổng thống Pháp.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/04/12/vovlive_vandequocte_ketquavongdautiencuacuocbaucutongthongphap.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 12 Apr 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Bầu cử Tổng thống Pháp trước giờ G</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Chỉ còn 2 ngày nữa, gần 50 triệu cử tri Pháp sẽ tham gia cuộc bầu cử tổng thống ở nước này. Hội đồng Hiến pháp của Pháp đã xác nhận quyền ứng cử của 12 người, trong số đó có Tổng thống đương nhiệm Emmanuel Macron và đại diện Đảng cực hữu “Tập hợp Quốc gia”, bà Marine Le Pen. Nếu không có ứng cử viên nào giành được đa số phiếu tuyệt đối trong vòng bầu cử đầu tiên vào ngày 10/4 tới, hai ứng cử viên nhận được số phiếu cao nhất sẽ tiếp tục tiến vào vòng bầu cử thứ hai diễn ra vào ngày 24/4. Theo kết quả của các cuộc thăm dò dư luận gần đây, Tổng thống đương nhiệm Emmanuel Macron đang nhận được sự ủng hộ cao của người dân và hiện là ứng cử hàng đầu cho cuộc bầu cử tổng thống Pháp năm nay. Tuy nhiên, khoảng cách giữa ứng cử viên Emmanuel Macron và bà Le Pen đang bị thu hẹp mạnh khi cuộc bầu cử ngày càng đến gần, báo trước một cuộc chạy đua quyết liệt có thể xảy ra giữa hai nhân vật này. Cuộc bầu cử Tổng thống Pháp năm nay liệu sẽ có những bất ngờ và người dân Pháp kỳ vọng gì vào cuộc bầu cử lần này?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/04/12/vovlive_vandequocte_baucutongthongphaptruocgiog.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 08 Apr 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
