@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 16 Apr 2022 17:39:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 17 Apr 2022 00:47:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 16 Apr 2022 17:39:00 +0700</pubDate>
+    <pubDate>Sun, 17 Apr 2022 00:47:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Đề nghị lùi thời hạn trình Luật Đất đai - Thời sự 17g00 16/4/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/de-nghi-lui-thoi-han-trinh-luat-dat-dai-thoi-su-17g00-16-4-2022-431988.html</link>
+      <description><![CDATA[17:47 - 16/04/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/de-nghi-lui-thoi-han-trinh-luat-dat-dai-thoi-su-17g00-16-4-2022-431988.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/04/16/AMThoisu17h00p160422.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 17 Apr 2022 00:47:00 +0700</pubDate>
+    </item>
     <item>
       <title>Du lịch lễ 30/4 khởi sắc  - Thời sự 05g30 16/4/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/du-lich-le-30-4-khoi-sac-thoi-su-05g30-16-4-2022-431942.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-dua-vao-su-dung-4-cong-trinh-lon-dip-le-30-4-thoi-su-17g00-15-4-2022-431893.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/04/15/AMThoisu17h00p150422.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 16 Apr 2022 02:38:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Cộng đồng cần phát huy tính chủ động, giám sát về an toàn thực phẩm – Thời sự 11g00 15/4/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/cong-dong-can-phat-huy-tinh-chu-dong-giam-sat-ve-an-toan-thuc-pham-thoi-su-11g00-15-4-2022-431826.html</link>
-      <description><![CDATA[12:09 - 15/04/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/cong-dong-can-phat-huy-tinh-chu-dong-giam-sat-ve-an-toan-thuc-pham-thoi-su-11g00-15-4-2022-431826.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/04/15/AMThoisu11h00p150422.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 15 Apr 2022 19:09:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
