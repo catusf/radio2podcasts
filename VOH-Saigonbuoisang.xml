@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 16 Apr 2022 17:41:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 17 Apr 2022 13:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 16 Apr 2022 17:41:00 +0700</pubDate>
+    <pubDate>Sun, 17 Apr 2022 13:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Sài Gòn buổi sáng - 17/4/2021</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-17-4-2021-432031.html</link>
+      <description><![CDATA[06:00 - 17/04/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-17-4-2021-432031.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/04/17/sgbs-170422.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 17 Apr 2022 13:00:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Tạp chí cuối tuần - Sài Gòn buổi sáng 16/4/2022</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/tap-chi-cuoi-tuan-sai-gon-buoi-sang-16-4-2022-431943.html</link>
       <description><![CDATA[10:41 - 16/04/2022]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/tap-chi-cuoi-tuan-sai-gon-buoi-sang-16-4-2022-431943.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/04/16/sgbs16042022ss.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 16 Apr 2022 17:41:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Thấy gì với thời tiết "bất thường" nhưng "có thể lặp đi lặp lại" - Sài Gòn buổi sáng 15/4/2022</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/thay-gi-voi-thoi-tiet-bat-thuong-nhung-co-the-lap-di-lap-lai-sai-gon-buoi-sang-15-4-2022-431806.html</link>
-      <description><![CDATA[07:32 - 15/04/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/thay-gi-voi-thoi-tiet-bat-thuong-nhung-co-the-lap-di-lap-lai-sai-gon-buoi-sang-15-4-2022-431806.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/04/15/fmsgbs06h00p150422-20220415062934.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 15 Apr 2022 14:32:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
