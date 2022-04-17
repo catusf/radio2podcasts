@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 10 Apr 2022 17:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 17 Apr 2022 17:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 10 Apr 2022 17:00:00 +0700</pubDate>
+    <pubDate>Sun, 17 Apr 2022 17:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Quà tặng âm nhạc trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Quatangamnhac.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Mưa hồng - Quà tặng âm nhạc 17/4/2022</title>
+      <link>https://radio.voh.com.vn/qua-tang-am-nhac/mua-hong-qua-tang-am-nhac-17-4-2022-432016.html</link>
+      <description><![CDATA[10:00 - 17/04/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/mua-hong-qua-tang-am-nhac-17-4-2022-432016.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/04/17/qtan-170422.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 17 Apr 2022 17:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Rạng rỡ Việt Nam - Quà tặng âm nhạc 10/4/2022</title>
       <link>https://radio.voh.com.vn/qua-tang-am-nhac/rang-ro-viet-nam-qua-tang-am-nhac-10-4-2022-431217.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/goi-ten-bon-mua-qua-tang-am-nhac-20-3-2022-429133.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/03/21/qtan-200322.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 20 Mar 2022 17:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Là con gái thật tuyệt - Quà tặng âm nhạc 6/3/2022</title>
-      <link>https://radio.voh.com.vn/qua-tang-am-nhac/la-con-gai-that-tuyet-qua-tang-am-nhac-6-3-2022-427747.html</link>
-      <description><![CDATA[10:00 - 06/03/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/la-con-gai-that-tuyet-qua-tang-am-nhac-6-3-2022-427747.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/03/06/qtan-060322.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 06 Mar 2022 17:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
