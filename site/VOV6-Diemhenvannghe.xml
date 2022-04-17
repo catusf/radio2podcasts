@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 07 Apr 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 17 Apr 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 07 Apr 2022 19:00:00 +0700</pubDate>
+    <pubDate>Sun, 17 Apr 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,16 @@
     <itunes:subtitle>Điểm hẹn văn nghệ</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Diemhenvannghe.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Hoàng Thế Sinh với "Cánh đồng Chum mùa hoa Ban” 7/4/2022</title>
+      <title>“Câu chuyện Phương Đông”: Giao thoa nghệ thuật sơn mài Việt Nam và Nhật Bản 
+ 17/4/2022</title>
+      <link>http://vov6.vov.vn/diem-hen-van-nghe/cau-chuyen-phuong-dong-giao-thoa-nghe-thuat-son-mai-viet-nam-va-nhat-ban-c158-34389.aspx</link>
+      <description><![CDATA[Triển lãm " Câu chuyện Phương Đông" của họa sĩ Triệu Khắc Tiến (giảng viên trường Đại học Mỹ thuật Việt Nam) đang diễn ra tại Trung tâm giao lưu Văn hóa Nhật Bản tại Việt Nam. (Điểm hẹn văn nghệ)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/cau-chuyen-phuong-dong-giao-thoa-nghe-thuat-son-mai-viet-nam-va-nhat-ban-c158-34389.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2022_4/v2_0904_18h30_diem_hen_van_nghe_174202212.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 17 Apr 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Hoàng Thế Sinh với "Cánh đồng Chum mùa hoa Ban”  7/4/2022</title>
       <link>http://vov6.vov.vn/diem-hen-van-nghe/hoang-the-sinh-voi-canh-dong-chum-mua-hoa-ban-c158-34372.aspx</link>
       <description><![CDATA[Tiểu thuyết “Cánh đồng Chum mùa hoa ban” của nhà văn Hoàng Thế Sinh kể lại cuộc chiến đấu gian khổ và anh dũng của quân tình nguyện Việt Nam trong chiến dịch Cánh đồng Chum, Xiêng Khoảng, Lào năm 1971 - 1972. Đây là chiến dịch phòng ngự của liên quân Việt - Lào nhằm đánh bại kế hoạch lấn chiếm đất Lào trong mùa mưa của quân phái hữu Lào và quân đội Thái Lan, bảo vệ vùng giải phóng Cánh đồng Chum, Xiêng Khoảng. Nhân vật chính trong tiểu thuyết là Thanh Bình, Yên Hoàng, Minh Phú, Dương Minh... Họ là những người bạn học cùng lớp, ở tuổi hai mươi đã vào đội quân tình nguyện Việt Nam, lên đường làm nghĩa vụ quốc tế tại Lào. Với “Cánh đồng Chum mùa hoa ban”, nhà văn Hoàng Thế Sinh muốn gửi gắm điều gì khi viết về nơi từng là một phần kí ức của chính mình? Câu trả lời sẽ được bật mí trong cuộc trò chuyện qua điện thoại giữa nhà văn và phóng viên chương trình.]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/hoang-the-sinh-voi-canh-dong-chum-mua-hoa-ban-c158-34372.aspx</guid>
@@ -38,13 +47,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/tranh-tu-binh-suu-tap-chon-loc-tranh-dan-gian-viet-nam-c158-34356.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2022_3/gts_tranh_tu_binh_313202216.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 31 Mar 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Báo Văn nghệ số 13 ra ngày 26/3/2022  28/3/2022</title>
-      <link>http://vov6.vov.vn/diem-hen-van-nghe/bao-van-nghe-so-13-ra-ngay-2632022-c158-34346.aspx</link>
-      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/bao-van-nghe-so-13-ra-ngay-2632022-c158-34346.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2022_3/diem_bao_van_nghe_283202215.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 28 Mar 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
