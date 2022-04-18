@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 15 Apr 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 18 Apr 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 15 Apr 2022 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 18 Apr 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Căng thẳng gia tăng trên bán đảo Triều Tiên</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Cuối tuần qua, bán đảo Triều Tiên nóng trở lại với các vụ bắn thử vật thể mà phía Hàn Quốc cho biết nhiều khả năng là tên lửa ra vùng biển phía Đông nước này. Vụ phóng được thực hiện vào dịp kỷ niệm lần thứ 110 ngày sinh của Chủ tịch Kim Nhật Thành (ngày 15/4), và trong bối cảnh Hàn Quốc - Mỹ đang chuẩn bị khởi động cuộc tập trận mùa Xuân thường niên từ ngày hôm nay (18/4). Phía Triều Tiên thường chỉ trích các cuộc tập trận này là một cuộc tập dượt cho chiến tranh xâm lược Triều Tiên. Trong bối cảnh các cuộc đàm phán phi hạt nhân hóa trên bán đảo Triều Tiên bị đình trệ, các vụ phóng thử tên lửa gần đây của Triều Tiên cũng như việc Mỹ và Hàn Quốc khởi động cuộc tập trận mùa Xuân đang đẩy bán đảo Triều Tiên trước những làn ranh mới.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/04/18/vovlive_vandequocte_cangthanggiatangtrenbandaotrieutien.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 18 Apr 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Tranh luận tại Phần Lan và Thụy Điển về việc gia nhập NATO</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/04/14/vovlive_vandequocte_nguycotucuockhunghoangchinhtripakistan.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 14 Apr 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Triển vọng tháo gỡ căng thẳng Mỹ và Ấn Độ liên quan thương vụ dầu Ấn - Nga</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Mối quan hệ giữa hai đồng minh Mỹ - Ấn Độ thời gian qua đang vấp phải không ít mâu thuẫn khi New Delhi triển khai chính sách cân bằng, trung lập trong vấn đề Ukraine. Dù đã có một số điều chỉnh trong quan điểm về cuộc xung đột này, tuy nhiên, Ấn Độ vẫn không áp đặt các lệnh trừng phạt Nga, thậm chí “phớt lờ” sức ép của Mỹ để tiếp tục mua số lượng lớn dầu thô của Nga. Trong bối cảnh như vậy, liệu cuộc điện đàm trực tuyến mới nhất giữa Tổng thống Mỹ Joe Biden và Thủ tướng Ấn Độ Narendra Modi có mang lại những tín hiệu tích cực nhằm tháo gỡ khúc mắc giữa hai bên trước thềm cuộc họp “Mỹ - Ấn 2+2” sắp tới?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/04/13/vovlive_vandequocte_trienvongthaogocangthangmyvaando.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 13 Apr 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
