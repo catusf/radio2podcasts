@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 15 Apr 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 18 Apr 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 15 Apr 2022 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 18 Apr 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Trùng tu hay phá hoại di tích?</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Trùng tu di tích nghìn năm tuổi bằng xe cơ giới, phá bỏ giếng cổ để xây giếng mới... Đó là những gì đã xảy ra ở tháp Bánh Ít  - Bình Định, một trong những công trình kiến trúc cổ được xây dựng từ cuối thế kỷ 11 mang đậm dấu ấn văn hóa Chăm và di tích lịch sử quốc gia - đền thờ Lê Văn Hưu ở huyện Thiệu Hóa, tỉnh Thanh Hóa. Đây chỉ là 2 trong số rất nhiều hành động trùng tu, làm phá hỏng di tích diễn ra lâu nay tại nhiều nơi. Hiện công tác trùng tu tại hai công trình này đã được tạm ngừng sau khi dư luận và giới chuyên môn lên tiếng. Vậy câu hỏi đặt ra, vì sao lại có sự thi công cẩu thả, vô trách nhiệm trong quá trình trùng tu những di tích cấp quốc gia như vậy? Vai trò, trách nhiệm của đơn vị tư vấn giám sát, của chủ động tư được đặt ra như thế nào, cần làm gì để không xảy ra sự việc tương tự ở các di tích di sản?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/04/18/vovlive_sukienvabinhluan_trung_tu_hay_pha_do_di_tich.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 18 Apr 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Chậm thu phí tự động không dừng - đâu là điểm nghẽn?</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/04/12/vovlive_sukienvabanluan_nga_tai_khoi_dong_tham_do_mat_trang.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 12 Apr 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Hộ chiếu vaccine Covid-19 - Nơi bình minh, nơi hoàng hôn!</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Kể từ khi dịch Covid-19 bùng phát và làm chao đảo nền kinh tế thế giới, hộ chiếu vaccine Covid-19 luôn được nhắc đến như một giải pháp tối ưu để mở cửa trở lại nền kinh tế một cách an toàn giữa các quốc gia, dần trở lại cuộc sống bình thường mới. Nhưng đến thời điểm này, phạm vi sử dụng hộ chiếu vaccine Covid-19 đang rất khác nhau giữa các khu vực, có nơi bắt đầu đẩy mạnh giải pháp này, nhưng cũng có nơi đã bỏ hộ chiếu vaccine Covid-19 khi không còn cần thiết. Vậy hộ chiếu vaccine Covid-19 phát huy tác dụng nhiều nhất ở giai đoạn nào, và cần đáp ứng những điều kiện nào để bỏ sử dụng hộ chiếu vaccine?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/04/12/vovlive_sukienvabanluan_ho_chieu_-vaccine-covid-19-_noi_binh_yen_noi_hoang_hon.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 08 Apr 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
