@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 18 Apr 2022 18:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 19 Apr 2022 00:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 18 Apr 2022 18:00:00 +0700</pubDate>
+    <pubDate>Tue, 19 Apr 2022 00:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Lao động nữ di cư khó tiếp cận chính sách an sinh - Thời sự 17g00 18/4/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/lao-dong-nu-di-cu-kho-tiep-can-chinh-sach-an-sinh-thoi-su-17g00-18-4-2022-432187.html</link>
+      <description><![CDATA[17:00 - 18/04/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/lao-dong-nu-di-cu-kho-tiep-can-chinh-sach-an-sinh-thoi-su-17g00-18-4-2022-432187.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/04/18/ts17g00-180422.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Hỗ trợ trẻ vị thành niên vì một xã hội hạnh phúc ở tương lai - Thời sự 11g00 18/4/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/ho-tro-tre-vi-thanh-nien-vi-mot-xa-hoi-hanh-phuc-o-tuong-lai-thoi-su-11g00-18-4-2022-432134.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/ngay-nguoi-khuyet-tat-viet-nam-thoi-su-05g30-18-4-2022-432129.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/04/18/ts05g30-180422.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 18 Apr 2022 12:30:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chăm sóc và bảo vệ an toàn cho trẻ em trong đại dịch Covid-19 - Thời sự 17g00 17/4/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/cham-soc-va-bao-ve-an-toan-cho-tre-em-trong-dai-dich-covid-19-thoi-su-17g00-17-4-2022-432079.html</link>
-      <description><![CDATA[22:52 - 17/04/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/cham-soc-va-bao-ve-an-toan-cho-tre-em-trong-dai-dich-covid-19-thoi-su-17g00-17-4-2022-432079.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/04/17/AMThoisu17h00p170422.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 18 Apr 2022 05:52:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
