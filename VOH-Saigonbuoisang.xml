@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 20 Apr 2022 14:20:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 22 Apr 2022 03:13:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 20 Apr 2022 14:20:00 +0700</pubDate>
+    <pubDate>Fri, 22 Apr 2022 03:13:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Sài Gòn buổi sáng - 21/4/2022</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-21-4-2022-432526.html</link>
+      <description><![CDATA[20:13 - 21/04/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-21-4-2022-432526.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/04/21/fmsgbs06h00p210422-20220421062324.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 22 Apr 2022 03:13:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Sài Gòn buổi sáng - 20/4/2022</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-20-4-2022-432336.html</link>
       <description><![CDATA[07:20 - 20/04/2022]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-20-4-2022-432336.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/04/20/fmsgbs06h00p200422-20220420070136.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 20 Apr 2022 14:20:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>KHCN: Nền tảng cho tự lực, tự cường phát triển đất nước (Kỳ 1) - Sài Gòn buổi sáng 19/4/2022</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/khcn-nen-tang-cho-tu-luc-tu-cuong-phat-trien-dat-nuoc-ky-1-sai-gon-buoi-sang-19-4-2022-432224.html</link>
-      <description><![CDATA[06:00 - 19/04/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/khcn-nen-tang-cho-tu-luc-tu-cuong-phat-trien-dat-nuoc-ky-1-sai-gon-buoi-sang-19-4-2022-432224.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/04/19/sgbs-190422.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 19 Apr 2022 13:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
