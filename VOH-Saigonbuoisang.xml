@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 22 Apr 2022 13:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 23 Apr 2022 16:40:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 22 Apr 2022 13:00:00 +0700</pubDate>
+    <pubDate>Sat, 23 Apr 2022 16:40:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Sài Gòn buổi sáng - 23/4/2022</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-23-4-2022-432709.html</link>
+      <description><![CDATA[09:40 - 23/04/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-23-4-2022-432709.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/04/23/FMsaigonbuoisang06h00p230422.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 23 Apr 2022 16:40:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Mua thực phẩm Online – Không chỉ nên tin vào những lời quảng cáo - Sài Gòn buổi sáng 22/04/2022</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/mua-thuc-pham-online-khong-chi-nen-tin-vao-nhung-loi-quang-cao-sai-gon-buoi-sang-22-04-2022-432668.html</link>
       <description><![CDATA[06:00 - 22/04/2022]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/mua-thuc-pham-online-khong-chi-nen-tin-vao-nhung-loi-quang-cao-sai-gon-buoi-sang-22-04-2022-432668.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/04/22/fmsgbs06h00p220422-20220422063415.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 22 Apr 2022 13:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Sài Gòn buổi sáng - 21/4/2022</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-21-4-2022-432526.html</link>
-      <description><![CDATA[20:13 - 21/04/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-21-4-2022-432526.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/04/21/fmsgbs06h00p210422-20220421062324.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 22 Apr 2022 03:13:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

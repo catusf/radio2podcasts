@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 23 Apr 2022 12:59:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 23 Apr 2022 19:09:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 23 Apr 2022 12:59:00 +0700</pubDate>
+    <pubDate>Sat, 23 Apr 2022 19:09:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Nỗ lực xóa bỏ điểm đen tai nạn giao thông ở vòng xoay Mỹ Thủy - Thời sự 11g00 23/4/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/no-luc-xoa-bo-diem-den-tai-nan-giao-thong-o-vong-xoay-my-thuy-thoi-su-11g00-23-4-2022-432719.html</link>
+      <description><![CDATA[12:09 - 23/04/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/no-luc-xoa-bo-diem-den-tai-nan-giao-thong-o-vong-xoay-my-thuy-thoi-su-11g00-23-4-2022-432719.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/04/23/AMThoisu11h00p230422.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 23 Apr 2022 19:09:00 +0700</pubDate>
+    </item>
     <item>
       <title>Sân bay Tân Sơn Nhất lên nhiều phương án đảm bảo phục vụ tốt cao điểm dịp lễ - Thời sự 5g30 23/4/202</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/san-bay-tan-son-nhat-len-nhieu-phuong-an-dam-bao-phuc-vu-tot-cao-diem-dip-le-thoi-su-5g30-23-4-202-432699.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/de-dong-bang-song-cuu-long-dung-day-lam-chu-va-vuon-len-manh-me-hon-thoi-su-17g00-22-04-2022-432676.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/04/22/AMThoisu17h00p220422.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 23 Apr 2022 00:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Số ca mắc sốt xuất huyết gia tăng - Thành phố lên đèn 22/04/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/so-ca-mac-sot-xuat-huyet-gia-tang-thanh-pho-len-den-22-04-2022-432674.html</link>
-      <description><![CDATA[18:00 - 22/04/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/so-ca-mac-sot-xuat-huyet-gia-tang-thanh-pho-len-den-22-04-2022-432674.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/04/22/fmcitylights18h00p220422-20220422190632.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 23 Apr 2022 01:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
