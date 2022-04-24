@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 18 Apr 2022 05:11:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 25 Apr 2022 05:41:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 18 Apr 2022 05:11:00 +0700</pubDate>
+    <pubDate>Mon, 25 Apr 2022 05:41:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Top 10 ca khúc quốc tế thứ hai hàng tuần trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Top10cakhucquocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Top ten - 24/4/2022</title>
+      <link>https://radio.voh.com.vn/top-10-ca-khuc-quoc-te/top-ten-24-4-2022-432711.html</link>
+      <description><![CDATA[22:41 - 24/04/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/top-10-ca-khuc-quoc-te/top-ten-24-4-2022-432711.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/04/23/FMtopten18h00p240422.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 25 Apr 2022 05:41:00 +0700</pubDate>
+    </item>
     <item>
       <title>Top ten - 17/4/2022</title>
       <link>https://radio.voh.com.vn/top-10-ca-khuc-quoc-te/top-ten-17-4-2022-432074.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/top-10-ca-khuc-quoc-te/top-ten-27-3-2022-429816.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/03/27/FMtopten02h30p270322.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 27 Mar 2022 21:45:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Top ten - 13/3/2022</title>
-      <link>https://radio.voh.com.vn/top-10-ca-khuc-quoc-te/top-ten-13-3-2022-429043.html</link>
-      <description><![CDATA[19:52 - 18/03/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/top-10-ca-khuc-quoc-te/top-ten-13-3-2022-429043.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/03/19/fmtopten02h30ppl18h00p130322-20220315080916.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 19 Mar 2022 02:52:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
