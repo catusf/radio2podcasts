@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 25 Apr 2022 04:27:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 25 Apr 2022 18:29:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 25 Apr 2022 04:27:00 +0700</pubDate>
+    <pubDate>Mon, 25 Apr 2022 18:29:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Phỏng vấn PGS.TS Hà Minh Hồng - Thời sự 5g30 25/4/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/phong-van-pgs-ts-ha-minh-hong-thoi-su-5g30-25-4-2022-432912.html</link>
+      <description><![CDATA[11:29 - 25/04/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/phong-van-pgs-ts-ha-minh-hong-thoi-su-5g30-25-4-2022-432912.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/04/25/AMThoisu05h30p250422.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 25 Apr 2022 18:29:00 +0700</pubDate>
+    </item>
     <item>
       <title>Tiếp xúc cử tri, lắng nghe về nhu cầu nhà ở của nữ công nhân - Thời sự 17g00 24/4/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tiep-xuc-cu-tri-lang-nghe-ve-nhu-cau-nha-o-cua-nu-cong-nhan-thoi-su-17g00-24-4-2022-432850.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/nong-thon-moi-phai-dinh-hinh-do-thi-ve-tinh-thoi-su-11g00-24-4-2022-432811.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/04/24/AMThoisu11h00p240422ss.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 24 Apr 2022 19:30:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Hỗ trợ doanh nghiệp giải quyết các chính sách chăm lo nguồn nhân lực - Thời sự 5g30 24/4/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/ho-tro-doanh-nghiep-giai-quyet-cac-chinh-sach-cham-lo-nguon-nhan-luc-thoi-su-5g30-24-4-2022-432810.html</link>
-      <description><![CDATA[12:22 - 24/04/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/ho-tro-doanh-nghiep-giai-quyet-cac-chinh-sach-cham-lo-nguon-nhan-luc-thoi-su-5g30-24-4-2022-432810.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/04/24/AMThoisu05h30p240422sss.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 24 Apr 2022 19:22:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
