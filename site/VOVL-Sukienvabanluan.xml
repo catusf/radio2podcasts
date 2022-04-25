@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 22 Apr 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 25 Apr 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 22 Apr 2022 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 25 Apr 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Phong tỏa Thượng Hải gây tác động ra sao đến thương mại toàn cầu?</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Từ cuối tháng 3 vừa qua, thành phố Thượng Hải (Trung Quốc) với 25 triệu dân đã áp đặt lệnh phong tỏa trong bối cảnh số ca nhiễm Covid-19 tăng cao mức kỷ lục. Mặc dù thành phố này bắt đầu nới lỏng phong tỏa một cách thận trọng, song việc một trung tâm kinh tế, tài chính và vận tải như Thượng Hải phải ngưng trệ đã gây ra những ảnh hưởng tiêu cực đến tăng trưởng kinh tế của Trung Quốc trong bối cảnh nước này kiên định chính sách “không Covid” (zero-Covid). Bên cạnh đó, do Thượng Hải đóng một vai trò lớn trong nền kinh tế toàn cầu nên nhiều cảnh báo được đưa ra về tác động của đợt phong tỏa lần này đến các hoạt động thương mại và kinh tế thế giới. Những tác động này lớn đến đâu? Những lĩnh vực nào sẽ bị ảnh hưởng?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/04/25/vovlive_sukienvabanluan_phong_toa_thuong_hai_gay_tac-dong_ra_sao.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 25 Apr 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Cần nhiều hành động thiết thực hơn nữa để phát triển văn hóa đọc tại nước ta</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -45,14 +53,6 @@
       <description><![CDATA[Tổng thống Nga Vladimir Putin vừa công bố kế hoạch nhằm nâng cao thị phần thanh toán của đồng nội tệ ruble trong thương mại quốc tế. Trong bối cảnh phương Tây đang gia tăng sức ép trừng phạt lên Nga nhằm gạt nền kinh tế nước này khỏi hệ thống tài chính và thương mại toàn cầu, việc tăng khả năng thanh toán của đồng ruble trong thương mại quốc tế được cho là bước đi quan trọng để ổn định kinh tế và tài chính của Nga về lâu dài. Tuy nhiên, kế hoạch này của Nga dự kiến sẽ không dễ dàng, bởi để một đồng nội tệ được chấp thuận rộng rãi trong giao dịch quốc tế rất cần có sự sẵn sàng của các đối tác.]]></description>
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/04/22/vovlive_sukienvabanluan_nga_thuc-day_thanh_toan_dong_rup.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 19 Apr 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Hàn Quốc bỏ khuyến cáo đặc biệt về đi lại</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Bắt đầu từ ngày hôm qua, Hàn Quốc đã dỡ bỏ khuyến cáo đặc biệt từng áp dụng trong hoạt động đi lại với nước ngoài để phòng chống dịch COVID-19. Sau bước đi này, dự kiến cuối tuần, chính phủ Hàn Quốc sẽ thông báo các sửa đổi về quy định giãn cách xã hội để trở lại cuộc sống bình thường mới. Điều đáng chú ý là việc gỡ bỏ toàn bộ các quy định về đi lại với nước ngoài được Hàn Quốc thực hiện trong bối cảnh nước này vẫn ghi nhận trên dưới 200.000 ca mắc Covid-19 mới mỗi ngày, cho thấy sự thay đổi căn bản trong chiến lược ứng phó với dịch bệnh, từng bước coi Covid-19 là bệnh đặc hữu ở Hàn Quốc.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/04/19/vovlive_sukienvabanluan_han_quoc_bo_khuyen_cao_dac_biet(1).mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 19 Apr 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
