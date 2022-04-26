@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 25 Apr 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 26 Apr 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 25 Apr 2022 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 26 Apr 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Giải mã sức hút của đồng Nhân dân tệ ở Trung Đông?</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Israel vừa có sự thay đổi lớn nhất đối với việc phân bổ dự trữ ngoại tệ trong hơn một thập kỷ qua. Theo đó, Ngân hàng Trung ương Israel lần đầu tiên bổ sung đồng Nhân dân tệ của Trung Quốc vào kho dự trữ ngoại tệ, đồng thời cắt giảm lượng nắm giữ bằng đồng đô la Mỹ và đồng euro. Điều này không ảnh hưởng đến hệ thống tài chính toàn cầu nhưng lại là một chỉ dấu cho thấy xu hướng mà một số quốc gia ở Trung Đông đang tiến hành là giảm dự trữ đồng đô la Mỹ, thay vào đó là tìm đến đồng tiền Trung Quốc trong dự trữ cũng như thanh toán thương mại. Vì sao đồng nhân dân tệ có sức hút ở Trung Đông? Việc chuyển đổi sang đồng nhân dân tệ sẽ ảnh hưởng như thế nào đến vị thế quốc tế của đồng tiền Trung Quốc và hệ thống tài chính toàn cầu?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/04/26/vovlive_sukienvabanluan_giai_ma_suc_hut_dong_nhan_dan_te.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 26 Apr 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Phong tỏa Thượng Hải gây tác động ra sao đến thương mại toàn cầu?</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/04/22/vovlive_sukienvabanluan_chien_luoc_quyen_luc_mem.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 20 Apr 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Nga thúc đẩy khả năng thanh toán của đồng Ruble trong giao dịch quốc tế</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Tổng thống Nga Vladimir Putin vừa công bố kế hoạch nhằm nâng cao thị phần thanh toán của đồng nội tệ ruble trong thương mại quốc tế. Trong bối cảnh phương Tây đang gia tăng sức ép trừng phạt lên Nga nhằm gạt nền kinh tế nước này khỏi hệ thống tài chính và thương mại toàn cầu, việc tăng khả năng thanh toán của đồng ruble trong thương mại quốc tế được cho là bước đi quan trọng để ổn định kinh tế và tài chính của Nga về lâu dài. Tuy nhiên, kế hoạch này của Nga dự kiến sẽ không dễ dàng, bởi để một đồng nội tệ được chấp thuận rộng rãi trong giao dịch quốc tế rất cần có sự sẵn sàng của các đối tác.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/04/22/vovlive_sukienvabanluan_nga_thuc-day_thanh_toan_dong_rup.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 19 Apr 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
