@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 26 Apr 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 29 Apr 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 26 Apr 2022 19:00:00 +0700</pubDate>
+    <pubDate>Fri, 29 Apr 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,22 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Campuchia tham vọng đưa nền bóng đá quốc gia lên top đầu khu vực</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Tuần này, hai giải bóng đá nội địa hàng đầu của Campuchia bắt đầu lăn bóng. Điều khiến người ta tập trung chú ý là những thể hiện đầu tiên của dàn “kiến trúc sư” nổi tiếng của đất nước Nhật Bản - đứng đầu là chuyên gia lâu năm Satoshi Saito. Ông là chuyên gia hàng đầu từng có kinh nghiệm thiết kế mô hình phát triển cho nhiều giải bóng đá vô địch quốc gia trên thế giới. Và nay, ông Saito và các đồng nghiệp Nhật Bản đã được mời đến Campuchia với tham vọng từng bước chuyên nghiệp hóa, biến nước này trở thành một trong những cường quốc bóng đá tại Đông Nam Á và vươn lên đẳng cấp châu lục trong tương lai. Liệu ước mơ này của Campuchia có sớm thành hiện thực?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/04/29/vovlive_sukienvabanluan_campuchia_tham_vong_dua_nen_bong_da_quoc_gia_len_top_dau_khu_vuc.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 29 Apr 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Hơn một nửa người trong độ tuổi lao động ở Ấn Độ không muốn tìm việc làm</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Với dân số hơn 1,3 tỷ người, trong đó 65% dân số trong độ tuổi lao động, Ấn Độ là một trong số các quốc gia có dân số trẻ nhất thế giới. Tạo công ăn việc làm cho lực lượng lao động đông đảo này luôn là thách thức lớn cho chính quyền của Thủ tướng Narendra Modi trong nhiều năm trở lại đây. Nhưng theo một báo cáo vừa công bố của Trung tâm Giám sát Kinh tế Ấn Độ, có tới hơn một nửa trong tổng số 900 triệu người trong độ tuổi lao động ở quốc gia này không muốn tìm việc làm, do quá khó để kiếm việc tạo thêm một thách thức mới cho cuộc khủng hoảng việc làm đang diễn ra tại Ấn Độ. Vì sao lại tồn tại nghịch lý ở quốc gia đông dân thứ hai thế giới này?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/04/29/vovlive_sukienvabanluan_hon_mot_nua_nguoi_o_do_tuoi_lao_dong_o_an_do_khong_muon_tim_viec_lam.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 27 Apr 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Giải mã sức hút của đồng Nhân dân tệ ở Trung Đông?</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -38,22 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/04/25/vovlive_sukienvabanluan_phong_toa_thuong_hai_gay_tac-dong_ra_sao.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 25 Apr 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Cần nhiều hành động thiết thực hơn nữa để phát triển văn hóa đọc tại nước ta</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Theo Quyết định của Thủ tướng Chính phủ, hôm nay là ngày sách và văn hóa đọc Việt Nam. Ngày Sách và Văn hóa đọc Việt Nam năm nay có chủ đề: “Chấn hưng văn hóa và phát triển văn hóa đọc”. Có thể nói, đây là dịp nhằm tôn vinh giá trị của sách, khẳng định tầm quan trọng của sách trong đời sống xã hội, đồng thời đề cao trách nhiệm của các cấp, ngành đối với việc xây dựng, phát triển văn hóa đọc ở Việt Nam. Vấn đề là làm sao từ sự kiện này, văn hóa đọc, văn hóa nghe sẽ không chỉ là phong trào, làm sao đọc sách và nghe trở thành thói quen của mỗi người, đặc biệt là của giới trẻ trong thời đại công nghệ số hiện nay.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/04/22/vovlive_sukienvabanluan_phat_trien_van_hoa_doc_o_nuoc_ta.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 22 Apr 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chiến lược “quyền lực mềm” thu hút du lịch và đầu tư của Thái Lan</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Mới đây, Thủ tướng Thái Lan Prayut Chan-o-cha đã yêu cầu các bộ ngành nước này tích cực thúc đẩy chiến lược “quyền lực mềm” thông qua ẩm thực, văn hóa, phim ảnh, thể thao hay địa danh nổi tiếng. Đây được đánh giá là chính sách trọng tâm của Thái Lan nhằm gây dựng hình ảnh, thu hút du lịch và đầu tư, từ đó phát triển kinh tế trong giai đoạn hậu Covid-19. Rõ ràng, quyền lực mềm thời gian qua đã chứng minh được sức lan tỏa mạnh mẽ, dễ dàng được chấp nhận trên toàn cầu như văn hóa Hàn Quốc, Nhật Bản hay xa hơn là Mỹ từ những năm 90 thế kỷ trước. Vậy với Thái Lan, chiến lược này có gì đặc biệt?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/04/22/vovlive_sukienvabanluan_chien_luoc_quyen_luc_mem.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 20 Apr 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

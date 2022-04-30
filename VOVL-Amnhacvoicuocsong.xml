@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 17 Apr 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 24 Apr 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 17 Apr 2022 19:00:00 +0700</pubDate>
+    <pubDate>Sun, 24 Apr 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,15 @@
     </itunes:owner>
     <itunes:subtitle>Âm nhạc với cuộc sống</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Amnhacvoicuocsong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>“Như có Bác trong ngày vui đại thắng”: Ca khúc bất hủ luôn đồng hành trong đời sống âm nhạc Việt Nam với vai trò nhân chứng lịch sử</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[- Thưởng thức bài hát Ơn mẹ (Sáng tác: Nhạc sĩ Nguyễn Hiển, Trình bày: Ca sĩ Minh Long) và lắng nghe những chia sẻ của nhạc sĩ Nguyễn Hiển về bài hát.
+- Trong những ngày tháng này, cách đây 47 năm về trước, ca khúc “Như có Bác trong ngày vui đại thắng” của nhạc sĩ Phạm Tuyên thường vang lên trên làn sóng phát thanh Đài TNVN và được phổ biến rộng rãi đến đồng bào chiến sĩ. Cùng nghe những chia sẻ của nhạc sĩ Phạm Tuyên để hiểu hơn thời khắc lịch sử trọng đại của đất nước 47 năm về trước cũng như thời khắc đặc biệt khi ông viết nên bài hát này….]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/04/29/vovlive_am_nhac_voi_cuoc_song_nhu_co_bac_trong_ngay_vui_dai_thang.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 24 Apr 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Trở lại không khí hào hùng sôi động những ngày tháng 4 lịch sử của đất nước</title>
       <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
@@ -47,15 +56,6 @@
       <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/04/18/vovlive_am_nhac_voi_cuoc_song_ky_niem_tan_trao_tuyen_quang.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 03 Apr 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Ký ức về những hoạt động của các văn nghệ sĩ Đài TNVN trong những ngày tháng của chiến dịch Hồ Chí Minh lịch sử</title>
-      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[- Những ngày tháng này cách đây 47 năm, trong Chiến dịch Hồ Chí Minh lịch sử có một lực lượng đặc biệt là những văn nghệ sĩ, những biên tập viên, phóng viên của Đài TNVN bằng sức lực và tâm huyết của mình đã “thần tốc” mang những lời ca tiếng hát có sức mạnh thông tấn lớn, góp phần không nhỏ trong chiến thắng lịch sử của dân tộc. Cùng thưởng thức các ca khúc: Chân dung dũng sĩ (Nhạc sĩ Cát Vận), Các anh về giữa Huế thân yêu (Nhạc sĩ Vũ Thanh), Chào Đà Nẵng dũng sĩ bên bờ biển Đông (Nhạc sĩ Nguyễn An), Ta đã về Sài Gòn ơi (Nhạc sĩ Văn Dung) và lắng nghe những chia sẻ lúc sinh thời của các nhạc sĩ: Văn Dung, Nguyễn An về hoạt động của các văn nghệ sĩ Đài TNVN trong những ngày tháng lịch sử này. 
-- Lắng nghe bài hát “Biển đảo quê hương” (Tác giả: Phạm Nghi, Trình bày: NSƯT Minh Quang) và những chia sẻ của tác giả về hoàn cảnh ra đời của bài hát.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/03/31/vovlive_am_nhac_voi_cuoc_song_ky_uc_lich_su.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 27 Mar 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
