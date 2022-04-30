@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 29 Apr 2022 15:20:40 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 30 Apr 2022 15:20:39 +0200</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 29 Apr 2022 15:20:40 +0200</pubDate>
+    <pubDate>Sat, 30 Apr 2022 15:20:39 +0200</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>60'</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/RFI-Chuongtrinh60.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>30-04-2022 Chương trình 60'</title>
+      <link>https://www.rfi.fr/vi/t%E1%BB%95ng-h%E1%BB%A3p/20220430-ch%C6%B0%C6%A1ng-tr%C3%ACnh-60-ph%C3%BAt</link>
+      <description><![CDATA[Chương trình ngày 30-04-2022 ]]></description>
+      <guid isPermaLink="false">https://www.rfi.fr/vi/t%E1%BB%95ng-h%E1%BB%A3p/20220430-ch%C6%B0%C6%A1ng-tr%C3%ACnh-60-ph%C3%BAt</guid>
+      <enclosure url="https://aod-rfi.akamaized.net/rfi/vietnamien/audio/modules/actu/202204/VN_60MN_2022_04_30.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 30 Apr 2022 15:20:39 +0200</pubDate>
+    </item>
     <item>
       <title>29-04-2022 Chương trình 60'</title>
       <link>https://www.rfi.fr/vi/t%E1%BB%95ng-h%E1%BB%A3p/20220429-ch%C6%B0%C6%A1ng-tr%C3%ACnh-60-ph%C3%BAt</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://www.rfi.fr/vi/t%E1%BB%95ng-h%E1%BB%A3p/20220426-ch%C6%B0%C6%A1ng-tr%C3%ACnh-60-ph%C3%BAt</guid>
       <enclosure url="https://aod-rfi.akamaized.net/rfi/vietnamien/audio/modules/actu/202204/VN_60MN_2022_04_26.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 26 Apr 2022 15:20:44 +0200</pubDate>
-    </item>
-    <item>
-      <title>25-04-2022 Chương trình 60'</title>
-      <link>https://www.rfi.fr/vi/t%E1%BB%95ng-h%E1%BB%A3p/20220425-ch%C6%B0%C6%A1ng-tr%C3%ACnh-60-ph%C3%BAt</link>
-      <description><![CDATA[Chương trình ngày 25-04-2022 ]]></description>
-      <guid isPermaLink="false">https://www.rfi.fr/vi/t%E1%BB%95ng-h%E1%BB%A3p/20220425-ch%C6%B0%C6%A1ng-tr%C3%ACnh-60-ph%C3%BAt</guid>
-      <enclosure url="https://aod-rfi.akamaized.net/rfi/vietnamien/audio/modules/actu/202204/VN_60MN_2022_04_25.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 25 Apr 2022 15:21:28 +0200</pubDate>
     </item>
   </channel>
 </rss>
