@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 01 May 2022 13:26:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 01 May 2022 18:30:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 01 May 2022 13:26:00 +0700</pubDate>
+    <pubDate>Sun, 01 May 2022 18:30:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>47 năm sân khấu Thành phố-Lớp nghệ sĩ trẻ tự hào tiếp bước - Thời sự 11g00 1/5/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/47-nam-san-khau-thanh-pho-lop-nghe-si-tre-tu-hao-tiep-buoc-thoi-su-11g00-1-5-2022-433609.html</link>
+      <description><![CDATA[11:30 - 01/05/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/47-nam-san-khau-thanh-pho-lop-nghe-si-tre-tu-hao-tiep-buoc-thoi-su-11g00-1-5-2022-433609.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/05/01/AMThoisu11h00p010522.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 01 May 2022 18:30:00 +0700</pubDate>
+    </item>
     <item>
       <title>Các giải pháp đẩy mạnh công tác an toàn vệ sinh lao động trong doanh nghiệp - Thời sự 5g30 1/5/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/cac-giai-phap-day-manh-cong-tac-an-toan-ve-sinh-lao-dong-trong-doanh-nghiep-thoi-su-5g30-1-5-2022-433596.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/di-cu-lao-dong-va-bai-toan-an-toan-cho-phu-nu-thoi-su-17g00-19-4-2022-433578.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/04/30/ts17g00-190422.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 20 Apr 2022 00:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Những công trình giao thông tạo sức bật mới – Thời sự 17g00 30/4/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/nhung-cong-trinh-giao-thong-tao-suc-bat-moi-thoi-su-17g00-30-4-2022-433549.html</link>
-      <description><![CDATA[18:32 - 30/04/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/nhung-cong-trinh-giao-thong-tao-suc-bat-moi-thoi-su-17g00-30-4-2022-433549.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/04/30/amthoisu17h00p300422-20220430173715-Copy.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 01 May 2022 01:32:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
