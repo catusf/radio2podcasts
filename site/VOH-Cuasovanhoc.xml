@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 24 Apr 2022 22:57:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 02 May 2022 03:10:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 24 Apr 2022 22:57:00 +0700</pubDate>
+    <pubDate>Mon, 02 May 2022 03:10:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Cửa sổ văn học trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Cuasovanhoc.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Hội nhà văn TPHCM tổ chức trại sáng tác lần 2/2022 - Cửa sổ văn học - 1/5/2022</title>
+      <link>https://radio.voh.com.vn/cua-so-van-hoc/hoi-nha-van-tphcm-to-chuc-trai-sang-tac-lan-2-2022-cua-so-van-hoc-1-5-2022-433574.html</link>
+      <description><![CDATA[20:10 - 01/05/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/hoi-nha-van-tphcm-to-chuc-trai-sang-tac-lan-2-2022-cua-so-van-hoc-1-5-2022-433574.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/04/30/FMCuasovanhoc07h00p010522.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 02 May 2022 03:10:00 +0700</pubDate>
+    </item>
     <item>
       <title>Ngày sách nói chuyện lan toả văn hoá đọc - Cửa sổ văn học 24/4/2022</title>
       <link>https://radio.voh.com.vn/cua-so-van-hoc/ngay-sach-noi-chuyen-lan-toa-van-hoa-doc-cua-so-van-hoc-24-4-2022-432829.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/vung-oi-mo-ra-thong-diep-yeu-thuong-tu-co-giao-cua-so-van-hoc-17-4-2022-432077.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/04/17/FMCuasovanhoc07h00p170422.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 18 Apr 2022 05:21:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Cửa sổ văn học - 10/4/2022</title>
-      <link>https://radio.voh.com.vn/cua-so-van-hoc/cua-so-van-hoc-10-4-2022-431236.html</link>
-      <description><![CDATA[22:23 - 10/04/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/cua-so-van-hoc-10-4-2022-431236.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/04/09/FMCuasovanhoc07h00p100422.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 11 Apr 2022 05:23:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
