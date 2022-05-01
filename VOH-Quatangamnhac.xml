@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 24 Apr 2022 17:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 01 May 2022 17:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 24 Apr 2022 17:00:00 +0700</pubDate>
+    <pubDate>Sun, 01 May 2022 17:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Quà tặng âm nhạc trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Quatangamnhac.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Giấc mơ thần tiên - Quà tặng âm nhạc 1/5/2022</title>
+      <link>https://radio.voh.com.vn/qua-tang-am-nhac/giac-mo-than-tien-qua-tang-am-nhac-1-5-2022-433619.html</link>
+      <description><![CDATA[10:00 - 01/05/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/giac-mo-than-tien-qua-tang-am-nhac-1-5-2022-433619.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/05/01/qtan-010522.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 01 May 2022 17:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Bài ca thống nhất - Quà tặng âm nhạc 24/4/2022</title>
       <link>https://radio.voh.com.vn/qua-tang-am-nhac/bai-ca-thong-nhat-qua-tang-am-nhac-24-4-2022-432817.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/viet-nam-que-huong-toi-qua-tang-am-nhac-3-4-2022-430490.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/04/03/qtan-030322.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 03 Apr 2022 17:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Mưa ngâu - Quà tặng âm nhạc 27/3/2022</title>
-      <link>https://radio.voh.com.vn/qua-tang-am-nhac/mua-ngau-qua-tang-am-nhac-27-3-2022-429828.html</link>
-      <description><![CDATA[10:00 - 27/03/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/mua-ngau-qua-tang-am-nhac-27-3-2022-429828.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/03/27/qtan-270322.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 27 Mar 2022 17:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
