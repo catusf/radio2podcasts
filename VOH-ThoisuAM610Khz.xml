@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 02 May 2022 13:23:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 02 May 2022 21:20:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 02 May 2022 13:23:00 +0700</pubDate>
+    <pubDate>Mon, 02 May 2022 21:20:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Đấu giá quyền sử dụng đất - Cần phải sửa đổi các quy định hiện hành - Thời sự 11g00 2/5/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/dau-gia-quyen-su-dung-dat-can-phai-sua-doi-cac-quy-dinh-hien-hanh-thoi-su-11g00-2-5-2022-433656.html</link>
+      <description><![CDATA[14:20 - 02/05/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/dau-gia-quyen-su-dung-dat-can-phai-sua-doi-cac-quy-dinh-hien-hanh-thoi-su-11g00-2-5-2022-433656.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/05/02/AMThoisu11h00p020522.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 02 May 2022 21:20:00 +0700</pubDate>
+    </item>
     <item>
       <title>Bài 1: Người lao động khó tiếp cận nhà ở xã hội – Thời sự 5g30 2/5/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/bai-1-nguoi-lao-dong-kho-tiep-can-nha-o-xa-hoi-thoi-su-5g30-2-5-2022-433641.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/47-nam-san-khau-thanh-pho-lop-nghe-si-tre-tu-hao-tiep-buoc-thoi-su-11g00-1-5-2022-433609.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/05/01/AMThoisu11h00p010522.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 01 May 2022 18:30:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Các giải pháp đẩy mạnh công tác an toàn vệ sinh lao động trong doanh nghiệp - Thời sự 5g30 1/5/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/cac-giai-phap-day-manh-cong-tac-an-toan-ve-sinh-lao-dong-trong-doanh-nghiep-thoi-su-5g30-1-5-2022-433596.html</link>
-      <description><![CDATA[06:26 - 01/05/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/cac-giai-phap-day-manh-cong-tac-an-toan-ve-sinh-lao-dong-trong-doanh-nghiep-thoi-su-5g30-1-5-2022-433596.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/05/01/AMThoisu05h30p010522.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 01 May 2022 13:26:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

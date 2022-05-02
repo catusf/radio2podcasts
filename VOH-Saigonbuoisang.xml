@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>"Sốt đất" và trách nhiệm của địa phương - Sài Gòn buổi sáng 26/4/2022</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sot-dat-va-trach-nhiem-cua-dia-phuong-sai-gon-buoi-sang-26-4-2022-433670.html</link>
+      <description><![CDATA[06:00 - 26/04/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sot-dat-va-trach-nhiem-cua-dia-phuong-sai-gon-buoi-sang-26-4-2022-433670.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/05/02/sgbs-260422.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 26 Apr 2022 13:00:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Sài Gòn buổi sáng - 2/5/2022</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-2-5-2022-433648.html</link>
       <description><![CDATA[08:20 - 02/05/2022]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-2-5-2022-433648.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/05/02/fmsgbs06h00p020522-20220502070229.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 02 May 2022 15:20:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Sài Gòn buổi sáng - 1/5/2022</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-1-5-2022-433597.html</link>
-      <description><![CDATA[08:32 - 01/05/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-1-5-2022-433597.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/05/01/FMsaigonbuoisang06h00p010522.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 01 May 2022 15:32:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
