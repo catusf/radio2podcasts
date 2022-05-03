@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 02 May 2022 15:20:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 03 May 2022 17:41:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 02 May 2022 15:20:00 +0700</pubDate>
+    <pubDate>Tue, 03 May 2022 17:41:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Những nỗ lực tạo đà tăng trưởng kinh tế sau dich bệnh của TPHCM - Sài Gòn buổi sáng 3/5/2022</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/nhung-no-luc-tao-da-tang-truong-kinh-te-sau-dich-benh-cua-tphcm-sai-gon-buoi-sang-3-5-2022-433707.html</link>
+      <description><![CDATA[10:41 - 03/05/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/nhung-no-luc-tao-da-tang-truong-kinh-te-sau-dich-benh-cua-tphcm-sai-gon-buoi-sang-3-5-2022-433707.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/05/03/fmsgbs06h00p030522sss.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 03 May 2022 17:41:00 +0700</pubDate>
+    </item>
+    <item>
       <title>"Sốt đất" và trách nhiệm của địa phương - Sài Gòn buổi sáng 26/4/2022</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sot-dat-va-trach-nhiem-cua-dia-phuong-sai-gon-buoi-sang-26-4-2022-433670.html</link>
       <description><![CDATA[06:00 - 26/04/2022]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sot-dat-va-trach-nhiem-cua-dia-phuong-sai-gon-buoi-sang-26-4-2022-433670.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/05/02/sgbs-260422.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 26 Apr 2022 13:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Sài Gòn buổi sáng - 2/5/2022</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-2-5-2022-433648.html</link>
-      <description><![CDATA[08:20 - 02/05/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-2-5-2022-433648.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/05/02/fmsgbs06h00p020522-20220502070229.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 02 May 2022 15:20:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
