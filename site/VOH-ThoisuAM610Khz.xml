@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 05 May 2022 00:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 05 May 2022 12:30:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 05 May 2022 00:00:00 +0700</pubDate>
+    <pubDate>Thu, 05 May 2022 12:30:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Gần 1,8 tỷ đô la Mỹ kiều hối đổ về TPHCM sau 3 tháng đầu năm - Thời sự 05g30 5/5/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/gan-1-8-ty-do-la-my-kieu-hoi-do-ve-tphcm-sau-3-thang-dau-nam-thoi-su-05g30-5-5-2022-433837.html</link>
+      <description><![CDATA[05:30 - 05/05/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/gan-1-8-ty-do-la-my-kieu-hoi-do-ve-tphcm-sau-3-thang-dau-nam-thoi-su-05g30-5-5-2022-433837.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/05/05/ts05g30-050522.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 05 May 2022 12:30:00 +0700</pubDate>
+    </item>
     <item>
       <title>TPHCM đón 186.800 lượt khách du lịch nội địa trong kỳ nghỉ lễ 30/4 và 1/5 - Thời sự 17g00 4/5/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-don-186-800-luot-khach-du-lich-noi-dia-trong-ky-nghi-le-30-4-va-1-5-thoi-su-17g00-4-5-2022-433804.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/nhung-buoc-di-cu-the-huong-den-nen-kinh-te-so-cua-tphcm-thoi-su-11g00-4-5-2022-433802.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/05/04/ts11g00-040522.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 04 May 2022 18:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Bài 3: Thuê nhà giá rẻ - Giải pháp an cư cho người lao động thu nhập thấp - Thời sự 05g30 4/5/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/bai-3-thue-nha-gia-re-giai-phap-an-cu-cho-nguoi-lao-dong-thu-nhap-thap-thoi-su-05g30-4-5-2022-433799.html</link>
-      <description><![CDATA[05:30 - 04/05/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/bai-3-thue-nha-gia-re-giai-phap-an-cu-cho-nguoi-lao-dong-thu-nhap-thap-thoi-su-05g30-4-5-2022-433799.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/05/04/ts05g30-040522.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 04 May 2022 12:30:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
