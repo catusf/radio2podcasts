@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 28 Apr 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 05 May 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 28 Apr 2022 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 05 May 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,8 +24,16 @@
     <itunes:subtitle>Tìm trong kho báu</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Timtrongkhobau.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Văn học cung đình Việt Nam thời trung đại 5/5/2022</title>
+      <link>http://vov6.vov.vn/tim-trong-kho-bau/van-hoc-cung-dinh-viet-nam-thoi-trung-dai-c54-34435.aspx</link>
+      <description><![CDATA[Mười thế kỷ văn học trung đại nước ta cũng là quãng thời gian ghi dấu ấn một nền khoa bảng bề thế. Nhiều tác giả danh tiếng đồng thời là những danh nho đỗ đạt cao ra giúp nước giúp đời. Qua từng triều đại, cùng với các vị hoàng đế, các vị danh nho này góp phần gây dựng phong trào sáng tác và xướng họa thơ văn trong cung đình. Chương trình hôm nay nhận diện một số đặc điểm của dòng văn học chủ lưu này của giai đoạn trung đại.]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/van-hoc-cung-dinh-viet-nam-thoi-trung-dai-c54-34435.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/v2_050905_18h30_tim_trong_kho_bau_65202216.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 05 May 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Đỗ Nhuận – Danh sĩ thời Lê sơ
- 28/4/2022</title>
+  28/4/2022</title>
       <link>http://vov6.vov.vn/tim-trong-kho-bau/do-nhuan-danh-si-thoi-le-so-c54-34418.aspx</link>
       <description><![CDATA[Theo các tư liệu lịch sử, Danh sĩ Đỗ Nhuận từng giữ nhiều chức vụ quan trọng trong triều đình như: Đông các Hiệu thư, Hàn lâm viện Thị độc, Thượng thư, Đông các đại học sĩ. Năm 1495, vua Lê Thánh Tông sáng lập Hội Tao đàn nhị thập bát tú,  nhà vua đương nhiên là Đô nguyên soái, Đỗ Nhuận và Thân Nhân Trung được phong làm Phó nguyên soái, mời dự các buổi bình thơ của vua. Nếu Danh sĩ Thân Nhân Trung nổi tiếng với câu nói: “Hiền tài là nguyên khí quốc gia” thì Quan Đông các đại học sĩ Đỗ Nhuận đỗ Đệ tam giáp đồng tiến sĩ xuất thân khoa Bính Tuất dưới thời vua Lê Thánh Tông. Ông sinh năm 1446, người xã Kim Hoa, huyện Kim Hoa, thừa tuyên Kinh Bắc, nay thuộc thôn Bạch Đa, xã Kim Hoa (Mê Linh - Hà Nội). Đánh giá về Danh sĩ Đỗ Nhuận, nhà sử học Phan Huy Chú xếp ông là một trong mười tám người phò tá có công lao, tài đức thời Lê sơ. Nhóm sử quan biên soạn “Đại Nam nhất thống chí” ghi nhận Đỗ Nhuận là một trong những nhân vật tiêu biểu dưới thời Lê của tỉnh Bắc Ninh xưa.]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/do-nhuan-danh-si-thoi-le-so-c54-34418.aspx</guid>
@@ -39,14 +47,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/tao-dan-nhi-thap-bat-tu-trong-chinh-su-c54-34405.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/v2_212504_18h30_tim_trong_kho_bau_224202212.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 21 Apr 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Dấu ấn Tao đàn nhị thập bát tú thời vua Lê Thánh Tông  14/4/2022</title>
-      <link>http://vov6.vov.vn/tim-trong-kho-bau/dau-an-tao-dan-nhi-thap-bat-tu-thoi-vua-le-thanh-tong-c54-34386.aspx</link>
-      <description><![CDATA[Về gốc gác ra đời của “Tao đàn nhị thập bát tú”, tương truyền năm Quý Sửu (1493) và Giáp Dần (1494) do thời tiết thuận hòa nên mùa màng tốt tươi, nhân đất nước thanh bình vua Lê Thánh Tông đặt 9 bài thơ ca ngợi chế độ, là: Phong niên, Quân đạo, Thần tiết, Minh lương, Anh hiển, Kỳ khí, Thư thảo, Văn nhân và Mai hoa. Từ đó nhà vua lập ra Tao Đàn và đưa 9 bài thơ này ra cho các triều thần dựa theo vần luật của chúng mà xướng họa ra tới 250 bài thơ chữ Hán và chữ Nôm ca ngợi triều đại. Chính trong bài tựa tập thơ “Quỳnh uyển cửu ca”, vua Lê Thánh Tông đã đề cập tới cụm từ “Nhị thập bát tú”: “Lại tập hợp bọn học sĩ Thân, Đỗ, Ngô, Lưu, bọn văn thần Nguyễn, Dương, Chu, Phạm, gồm 28 người, ứng với 28 ngôi sao thuộc Nhị thập bát tú thay nhau cùng họa, có tới vài trăm bài, bài nào cũng lựa chữ công phu, dùng từ chắc chắn. Thơ làm xong dâng lên, lòng ta vui thích”.]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/dau-an-tao-dan-nhi-thap-bat-tu-thoi-vua-le-thanh-tong-c54-34386.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/v2_141804_18h30_tim_trong_kho_bau_144202215.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 14 Apr 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
