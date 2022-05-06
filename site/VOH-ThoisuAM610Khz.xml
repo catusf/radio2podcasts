@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 06 May 2022 17:51:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 06 May 2022 22:24:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 06 May 2022 17:51:00 +0700</pubDate>
+    <pubDate>Fri, 06 May 2022 22:24:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Liệu đại dịch COVID19 đã “lùi xa”? – Thời sự 5g30 6/5/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/lieu-dai-dich-covid19-da-lui-xa-thoi-su-5g30-6-5-2022-434015.html</link>
+      <description><![CDATA[15:24 - 06/05/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/lieu-dai-dich-covid19-da-lui-xa-thoi-su-5g30-6-5-2022-434015.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/05/06/AMThoisu05h30p060522.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 06 May 2022 22:24:00 +0700</pubDate>
+    </item>
     <item>
       <title>TPHCM sẽ tiếp tục là đầu tàu trọng điểm của kinh tế số - Thời sự 11g00 6/5/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-se-tiep-tuc-la-dau-tau-trong-diem-cua-kinh-te-so-thoi-su-11g00-6-5-2022-433984.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/xuat-khau-nong-san-4-thang-dat-gan-18-ty-do-la-my-thoi-su-17g00-5-5-2022-433896.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/05/05/ts17g00-050522.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 06 May 2022 00:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Thể dục dụng cụ Việt Nam tự tin và đã sẵn sàng cho SEA Games 31 - Thời sự 11g00 5/5/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/the-duc-dung-cu-viet-nam-tu-tin-va-da-san-sang-cho-sea-games-31-thoi-su-11g00-5-5-2022-433880.html</link>
-      <description><![CDATA[11:00 - 05/05/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/the-duc-dung-cu-viet-nam-tu-tin-va-da-san-sang-cho-sea-games-31-thoi-su-11g00-5-5-2022-433880.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/05/05/ts11g00-050522.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 05 May 2022 18:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
