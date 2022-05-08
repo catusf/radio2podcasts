@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 08 May 2022 14:30:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 08 May 2022 18:21:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 08 May 2022 14:30:00 +0700</pubDate>
+    <pubDate>Sun, 08 May 2022 18:21:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>“Chú Hỏa” giúp chàng trai hiện đại hóa nghề ve chai - Thời sự 11g00 8/5/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/chu-hoa-giup-chang-trai-hien-dai-hoa-nghe-ve-chai-thoi-su-11g00-8-5-2022-434198.html</link>
+      <description><![CDATA[11:21 - 08/05/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/chu-hoa-giup-chang-trai-hien-dai-hoa-nghe-ve-chai-thoi-su-11g00-8-5-2022-434198.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/05/08/amthoisu11h00p080522-20220508104917-Copy.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 08 May 2022 18:21:00 +0700</pubDate>
+    </item>
     <item>
       <title>Bài 2: Để biên kịch sân khấu trở thành nghề hấp dẫn – Thời sự 5g30 8/5/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/bai-2-de-bien-kich-san-khau-tro-thanh-nghe-hap-dan-thoi-su-5g30-8-5-2022-434184.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/phai-luon-khac-ghi-va-thuc-hien-tot-sau-dieu-bac-ho-day-cong-an-nhan-dan-thoi-su-11g00-07-05-2022-434159.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/05/07/AMThoisu11h00p070522.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 07 May 2022 18:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đảm bảo điều kiện chỉ áp dụng thu phí không dừng - Thời sự 17g00 07/05/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/dam-bao-dieu-kien-chi-ap-dung-thu-phi-khong-dung-thoi-su-17g00-07-05-2022-434156.html</link>
-      <description><![CDATA[17:00 - 07/05/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/dam-bao-dieu-kien-chi-ap-dung-thu-phi-khong-dung-thoi-su-17g00-07-05-2022-434156.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/05/07/AMThoisu17h00p070522.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 08 May 2022 00:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
