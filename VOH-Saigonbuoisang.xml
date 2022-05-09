@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 08 May 2022 14:34:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 09 May 2022 19:12:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 08 May 2022 14:34:00 +0700</pubDate>
+    <pubDate>Mon, 09 May 2022 19:12:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Những lưu ý về việc chăm sóc người cao tuổi mắc Covid-19 tại nhà - Sài Gòn buổi sáng 9/5/2022</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/nhung-luu-y-ve-viec-cham-soc-nguoi-cao-tuoi-mac-covid-19-tai-nha-sai-gon-buoi-sang-9-5-2022-434270.html</link>
+      <description><![CDATA[12:12 - 09/05/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/nhung-luu-y-ve-viec-cham-soc-nguoi-cao-tuoi-mac-covid-19-tai-nha-sai-gon-buoi-sang-9-5-2022-434270.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/05/09/fmsgbs06h00p090522-20220509070330-Copy.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 09 May 2022 19:12:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Những khó khăn mà sân khấu kịch nói đối diện sau Covid-19 - Sài Gòn buổi sáng 8/5/2022</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/nhung-kho-khan-ma-san-khau-kich-noi-doi-dien-sau-covid-19-sai-gon-buoi-sang-8-5-2022-434185.html</link>
       <description><![CDATA[07:34 - 08/05/2022]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/nhung-kho-khan-ma-san-khau-kich-noi-doi-dien-sau-covid-19-sai-gon-buoi-sang-8-5-2022-434185.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/05/08/sgbstcct-08052022-hoan-chinh-20220507225505-Copy.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 08 May 2022 14:34:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>“47 năm xưa và nay trong mắt các cựu chiến binh” - Sài Gòn buổi sáng 30/4/2022</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/47-nam-xua-va-nay-trong-mat-cac-cuu-chien-binh-sai-gon-buoi-sang-30-4-2022-434182.html</link>
-      <description><![CDATA[07:09 - 30/04/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/47-nam-xua-va-nay-trong-mat-cac-cuu-chien-binh-sai-gon-buoi-sang-30-4-2022-434182.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/05/08/fmsaigonbuoisang06h00p300422-20220501221552-Copy.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 30 Apr 2022 14:09:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
