@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 05 May 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 06 May 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 05 May 2022 19:00:00 +0700</pubDate>
+    <pubDate>Fri, 06 May 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Chương mới trong quan hệ Nhật Bản – Thái Lan</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Đông Nam Á ngày càng đóng vai trò quan trọng trong những lợi ích chiến lược của Nhật Bản trong cả phát triển kinh tế và cân bằng nước lớn. Vì vậy, không khó hiểu khi Tokyo không ngừng xích lại gần hơn với các quốc gia ASEAN. Đất nước “Mặt trời mọc” tích cực thiết lập quan hệ kinh tế, quốc phòng chặt chẽ với các nước ASEAN theo những cách khác nhau. Trong chuyến công du mới đây của Thủ tướng Nhật Bản Kishida Fumio, Nhật Bản và Thái Lan đã nhất trí nâng cấp mối quan hệ lên “Đối tác chiến lược toàn diện và bao trùm”. Điều này được cho sẽ mở rộng hơn nữa sự hiện diện của Nhật Bản tại các quốc gia Đông Nam Á trong tất cả các lĩnh vực.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/05/09/vovlive_vandequocte_chuongmoitrongquanhennhatbanthailan.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 06 May 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Đằng sau động thái chấm dứt các thỏa thuận quốc phòng với Pháp của Mali</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/05/05/vovlive_vandequocte_chuyenthamchauaucuathutuongando.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 03 May 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Khủng hoảng Nga - Ukraine: Cảnh báo nguy cơ một cuộc chiến ủy nhiệm</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Trong bối cảnh chiến sự Nga - Ukraine tiếp tục diễn ra và các cuộc thương lượng hòa bình vẫn chưa mang đến kết quả rõ rệt, nguy cơ leo thang thành xung đột hạt nhân và một cuộc chiến ủy nhiệm có thể diễn ra. Ngoại trưởng Nga vừa lên tiếng cáo buộc NATO đang tiến hành một cuộc chiến tranh ủy nhiệm tại Ukraine, đồng thời cảnh báo, nếu vũ khí của phương Tây tiếp tục chảy vào Ukraine thì các cuộc đàm phán nhằm chấm dứt giao tranh sẽ không mang lại kết quả nào. Nguy hiểm hơn, nguy cơ một cuộc chiến ủy nhiệm có thể lan rộng sẽ đe dọa an ninh Châu Âu và cả khu vực.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/04/29/vovlive_vandequocte_khunghoangngaukraine.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 29 Apr 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
