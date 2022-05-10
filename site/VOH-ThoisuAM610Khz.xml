@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 10 May 2022 17:57:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 11 May 2022 00:49:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 10 May 2022 17:57:00 +0700</pubDate>
+    <pubDate>Wed, 11 May 2022 00:49:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Cần sửa đổi Luật Phòng, chống bạo lực gia đình theo hướng đồng bộ, chặt chẽ - Thời sự 17g 10/5/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/can-sua-doi-luat-phong-chong-bao-luc-gia-dinh-theo-huong-dong-bo-chat-che-thoi-su-17g-10-5-2022-434419.html</link>
+      <description><![CDATA[17:49 - 10/05/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/can-sua-doi-luat-phong-chong-bao-luc-gia-dinh-theo-huong-dong-bo-chat-che-thoi-su-17g-10-5-2022-434419.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/05/10/AMThoisu17h00p100522.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 11 May 2022 00:49:00 +0700</pubDate>
+    </item>
     <item>
       <title>Hôm nay, bế mạc Hội nghị Trung ương 5 khóa XIII - Thời sự 11g00 10/5/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/hom-nay-be-mac-hoi-nghi-trung-uong-5-khoa-xiii-thoi-su-11g00-10-5-2022-434381.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/dam-bao-an-toan-ve-sinh-lao-dong-tai-dn-gop-phan-nang-cao-nang-suat-thoi-su-5g30-10-5-2022-434357.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/05/10/AMThoisu05h30p100522.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 10 May 2022 12:55:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>“TPHCM hội đủ điều kiện để chuyển đổi số và phát triển kinh tế số” – Thời sự 11g00 9/5/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-hoi-du-dieu-kien-de-chuyen-doi-so-va-phat-trien-kinh-te-so-thoi-su-11g00-9-5-2022-434271.html</link>
-      <description><![CDATA[12:15 - 09/05/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-hoi-du-dieu-kien-de-chuyen-doi-so-va-phat-trien-kinh-te-so-thoi-su-11g00-9-5-2022-434271.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/05/09/AMThoisu11h00p090522-Copy.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 09 May 2022 19:15:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
