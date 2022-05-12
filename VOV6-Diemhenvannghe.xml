@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 04 May 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 12 May 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 04 May 2022 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 12 May 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Điểm hẹn văn nghệ</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Diemhenvannghe.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Thấm đẫm tình người trong “Lời nguyện cầu cho những linh hồn phiêu dạt” 4/5/2022</title>
+      <title>“Tiền từ Hitler" – Chiến tranh từ một góc nhìn khác 12/5/2022</title>
+      <link>http://vov6.vov.vn/diem-hen-van-nghe/tien-tu-hitler-chien-tranh-tu-mot-goc-nhin-khac-c158-34450.aspx</link>
+      <description><![CDATA[Chiến tranh vẫn luôn là một nỗi ám ảnh đối với nhiều người cầm bút trên thế giới. Câu chuyện thế chiến vẫn được nhiều tác giả khai thác từ nhiều góc nhìn khác nhau. Có khi là từ góc nhìn trào phúng giễu nhại. Có khi là từ những sự thật đau đớn, những nỗi đau mà cho tới giờ, vẫn còn âm ỉ. Trong chương trình hôm nay, chúng tôi xin giới thiệu đến quý vị và các bạn một tác phẩm nổi tiếng của văn học Séc viết về đề tài này – cuốn tiểu thuyết “Tiền từ Hitler” của nhà văn Radka Denamarková (Rát-ka Đê-na-mác-cô-va). Cuốn sách đã được dịch sang hơn 20 thứ tiếng và giành được nhiều giải thưởng danh giá. Gần đây, tác phẩm này đã đến tay độc giả Việt qua bản dịch của dịch giả Hậu Phamova. Sách do NXB Phụ nữ ấn hành.]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/tien-tu-hitler-chien-tranh-tu-mot-goc-nhin-khac-c158-34450.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2022_5/gts_tien_tu_hitler_125202210.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 12 May 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Thấm đẫm tình người trong “Lời nguyện cầu cho những linh hồn phiêu dạt”  4/5/2022</title>
       <link>http://vov6.vov.vn/diem-hen-van-nghe/tham-dam-tinh-nguoi-trong-loi-nguyen-cau-cho-nhung-linh-hon-phieu-dat-c158-34432.aspx</link>
       <description><![CDATA[Nhà văn-nhà biên kịch Đoàn Tuấn trong lĩnh vực điện ảnh được công chúng biết đến qua các bộ phim “Chiếc chìa khóa vàng”, “Đường thư”, “Chuyện tình trong ngõ hẹp”, “Sống cùng lịch sử”, “Truyền thuyết về Quán Tiên”... Còn trong lĩnh vực văn chương, Đoàn Tuấn chỉ chuyên tâm viết để trả món nợ ân tình với đồng đội cũ đã một thời cầm súng vì “đất bên ngoài Tổ quốc”. Sau hai tập ký “Những người không gặp lại”, “Mùa linh cảm” và hai tiểu thuyết “Một trăm ngày trước tuổi hai mươi”, “Mùa chinh chiến ấy”, nhà văn-nhà biên kịch Đoàn Tuấn ở tuổi 63 tiếp tục kể về những người lính tình nguyện Việt Nam làm nghĩa vụ quốc tế trên đất bạn Campuchia với cuốn sách “Lời nguyện cầu cho những linh hồn phiêu dạt” vừa được Nhà xuất bản Tổng hợp TP.HCM ấn hành...]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/tham-dam-tinh-nguoi-trong-loi-nguyen-cau-cho-nhung-linh-hon-phieu-dat-c158-34432.aspx</guid>
@@ -37,14 +45,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/bao-van-nghe-so-dac-biet-ra-ngay-3042022-c158-34431.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2022_5/diem_bao_van_nghe_45202211.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 04 May 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Tiểu thuyết Trăng lên - Cuộc "vượt vũ môn" của nhà văn Thế Đức  28/4/2022</title>
-      <link>http://vov6.vov.vn/diem-hen-van-nghe/tieu-thuyet-trang-len-cuoc-vuot-vu-mon-cua-nha-van-the-duc-c158-34419.aspx</link>
-      <description><![CDATA[Viết về một đề tài thuộc hàng kinh điển trong văn học nước nhà như chiến tranh và người lính là một điều không hề dễ dàng. Khai thác gì ở một mảnh đất đã nhiều người cày xới? Viết gì khi trước mặt đã có nhiều đỉnh cao? Kể câu chuyện gì khi đề tài rất kén độc giả? Đối diện với những thách thức ấy, nhà văn Thế Đức đã có câu trả lời của riêng mình. Đó là tiểu thuyết “Trăng lên” do Công ty Sách và Truyền thông Việt Nam cùng NXB Hội Nhà văn ấn hành. Một cuốn tiểu thuyết 500 trang, được kể ngót một phần tư thế kỷ, từ sau Cách mạng tháng Tám năm 1945 đến sau Tết Mậu Thân năm 1968, có gì thú vị? Mọi chuyện sẽ được bật mí trong cuộc trò chuyện giữa nhà văn Thế Đức và phóng viên chương trình.]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/tieu-thuyet-trang-len-cuoc-vuot-vu-mon-cua-nha-van-the-duc-c158-34419.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2022_4/gts_trang_len_284202215.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 28 Apr 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
