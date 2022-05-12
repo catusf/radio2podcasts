@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 12 May 2022 02:15:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 12 May 2022 18:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 12 May 2022 02:15:00 +0700</pubDate>
+    <pubDate>Thu, 12 May 2022 18:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,28 +24,28 @@
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Nâng cao hiệu quả cải cách hành chính tại TPHCM - Thời sự 11g00 12/5/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/nang-cao-hieu-qua-cai-cach-hanh-chinh-tai-tphcm-thoi-su-11g00-12-5-2022-434593.html</link>
+      <description><![CDATA[11:00 - 12/05/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/nang-cao-hieu-qua-cai-cach-hanh-chinh-tai-tphcm-thoi-su-11g00-12-5-2022-434593.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/05/12/ts11g00-120522.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 12 May 2022 18:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>TPHCM nỗ lực cải cách hành chính, đẩy nhanh phục hồi sau đại dịch - Thời sự 05g30 12/5/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-no-luc-cai-cach-hanh-chinh-day-nhanh-phuc-hoi-sau-dai-dich-thoi-su-05g30-12-5-2022-434562.html</link>
+      <description><![CDATA[05:30 - 12/05/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-no-luc-cai-cach-hanh-chinh-day-nhanh-phuc-hoi-sau-dai-dich-thoi-su-05g30-12-5-2022-434562.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/05/12/ts05g30-120522.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 12 May 2022 12:30:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Thủ tướng Phạm Minh Chính dự Hội nghị Cấp cao Đặc biệt ASEAN-Hoa Kỳ - Thời sự 17g00 11/5/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/thu-tuong-pham-minh-chinh-du-hoi-nghi-cap-cao-dac-biet-asean-hoa-ky-thoi-su-17g00-11-5-2022-434524.html</link>
       <description><![CDATA[19:15 - 11/05/2022]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/thu-tuong-pham-minh-chinh-du-hoi-nghi-cap-cao-dac-biet-asean-hoa-ky-thoi-su-17g00-11-5-2022-434524.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/05/11/AMThoisu17h00p110522.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 12 May 2022 02:15:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Mô hình Tư vấn, chăm sóc F0 qua tổng đài 1022 hoàn thành tốt sứ mệnh – Thời sự 11g00 11/5/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/mo-hinh-tu-van-cham-soc-f0-qua-tong-dai-1022-hoan-thanh-tot-su-menh-thoi-su-11g00-11-5-2022-434478.html</link>
-      <description><![CDATA[11:15 - 11/05/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/mo-hinh-tu-van-cham-soc-f0-qua-tong-dai-1022-hoan-thanh-tot-su-menh-thoi-su-11g00-11-5-2022-434478.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/05/11/AMThoisu11h00p110522.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 11 May 2022 18:15:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>92% hồ sơ tiêm chủng Covid-19 đang được xác thực để được cấp hộ chiếu vắc xin-Thời sự 17g00 9/5/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/92-ho-so-tiem-chung-covid-19-dang-duoc-xac-thuc-de-duoc-cap-ho-chieu-vac-xin-thoi-su-17g00-9-5-2022-434473.html</link>
-      <description><![CDATA[10:52 - 09/05/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/92-ho-so-tiem-chung-covid-19-dang-duoc-xac-thuc-de-duoc-cap-ho-chieu-vac-xin-thoi-su-17g00-9-5-2022-434473.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/05/11/AMThoisu17h00p090522-Copy.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 09 May 2022 17:52:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

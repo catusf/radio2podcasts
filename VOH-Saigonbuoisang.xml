@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 12 May 2022 02:10:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 12 May 2022 13:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 12 May 2022 02:10:00 +0700</pubDate>
+    <pubDate>Thu, 12 May 2022 13:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Sài Gòn buổi sáng - 12/5/2022</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-12-5-2022-434564.html</link>
+      <description><![CDATA[06:00 - 12/05/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-12-5-2022-434564.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/05/12/sgbs-120522.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 12 May 2022 13:00:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Sài Gòn buổi sáng - 11/5/2022</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-11-5-2022-434523.html</link>
       <description><![CDATA[19:10 - 11/05/2022]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-11-5-2022-434523.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/05/11/fmsgbs06h00p110522-20220511170548.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 12 May 2022 02:10:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>"Có hẹn với Sài Gòn" - Sài Gòn buổi sáng 10/5/2022</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/co-hen-voi-sai-gon-sai-gon-buoi-sang-10-5-2022-434366.html</link>
-      <description><![CDATA[08:07 - 10/05/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/co-hen-voi-sai-gon-sai-gon-buoi-sang-10-5-2022-434366.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/05/10/fmsgbs06h00p100522-20220510063526.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 10 May 2022 15:07:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
