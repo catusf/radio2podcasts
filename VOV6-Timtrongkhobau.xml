@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 05 May 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 12 May 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 05 May 2022 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 12 May 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Tìm trong kho báu</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Timtrongkhobau.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Văn học cung đình Việt Nam thời trung đại 5/5/2022</title>
+      <title>Di sản thơ văn các hoàng đế triều Nguyễn 12/5/2022</title>
+      <link>http://vov6.vov.vn/tim-trong-kho-bau/di-san-tho-van-cac-hoang-de-trieu-nguyen-c54-34449.aspx</link>
+      <description><![CDATA[Buổi “Tìm trong kho báu” số trước đã cung cấp những nhận định khái quát về phong trào sáng tác và xướng họa trong cung đình nước ta thời trung đại. Chương trình hôm nay tiếp tục có những góc nhìn cận cảnh vào di sản thơ văn của các hoàng đế triều Nguyễn – Đồng thời nối dài ra phong trào sáng tác ở làng xã cùng sự ra đời, phát triển của các văn hội trong xã hội phong kiến.]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/di-san-tho-van-cac-hoang-de-trieu-nguyen-c54-34449.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/v2_121605_18h30_tim_trong_kho_bau_save_13520228.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 12 May 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Văn học cung đình Việt Nam thời trung đại  5/5/2022</title>
       <link>http://vov6.vov.vn/tim-trong-kho-bau/van-hoc-cung-dinh-viet-nam-thoi-trung-dai-c54-34435.aspx</link>
       <description><![CDATA[Mười thế kỷ văn học trung đại nước ta cũng là quãng thời gian ghi dấu ấn một nền khoa bảng bề thế. Nhiều tác giả danh tiếng đồng thời là những danh nho đỗ đạt cao ra giúp nước giúp đời. Qua từng triều đại, cùng với các vị hoàng đế, các vị danh nho này góp phần gây dựng phong trào sáng tác và xướng họa thơ văn trong cung đình. Chương trình hôm nay nhận diện một số đặc điểm của dòng văn học chủ lưu này của giai đoạn trung đại.]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/van-hoc-cung-dinh-viet-nam-thoi-trung-dai-c54-34435.aspx</guid>
@@ -39,14 +47,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/do-nhuan-danh-si-thoi-le-so-c54-34418.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/v2_28040205_18h30_tim_trong_kho_bau_284202214.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 28 Apr 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Tao Đàn nhị thập bát tú trong chính sử  21/4/2022</title>
-      <link>http://vov6.vov.vn/tim-trong-kho-bau/tao-dan-nhi-thap-bat-tu-trong-chinh-su-c54-34405.aspx</link>
-      <description><![CDATA[Tiếp tục tìm hiểu về Tao đàn nhị thập bát tú thời vua Lê Thánh Tông, chương trình tuần này của Ban VHNT (VOV6) đi vào chính sử để giải mã hoạt động và sức ảnh hưởng của hội nhóm thi ca mang tính chất cung đình dưới một triều đại thịnh trị bậc nhất trong lịch sử phong kiến nước ta.]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/tao-dan-nhi-thap-bat-tu-trong-chinh-su-c54-34405.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/v2_212504_18h30_tim_trong_kho_bau_224202212.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 21 Apr 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

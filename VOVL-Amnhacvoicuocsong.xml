@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 01 May 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 08 May 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 01 May 2022 19:00:00 +0700</pubDate>
+    <pubDate>Sun, 08 May 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Âm nhạc với cuộc sống</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Amnhacvoicuocsong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Điện Biên trong các sáng tác âm nhạc</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[Chiến thắng lịch sử Điện Biên Phủ chấm dứt hoàn toàn ách xâm lược của Thực dân Pháp trên đất nước ta và các nước trên bán đảo Đông Dương, mở ra giai đoạn cách mạng mới tiến hành cách mạng xã hội chủ nghĩa ở miền Bắc, đấu tranh giải phóng miền Nam thống nhất Tổ quốc, đưa cả nước đi lên Chủ nghĩa xã hội. Song hành với 9 năm kháng chiến chống Pháp của dân tộc, lực lượng văn nghệ sĩ cũng là một binh chủng lớn đóng góp trên mặt trận văn hóa tinh thần, theo sát phản ánh từng chiến công, từng bước lớn mạnh của quân đội ta góp phần làm nên những chiến thắng thần kỳ, tạo cơ sở và điều kiện vững chắc để quân và dân ta tiến lên vững mạnh bước vào cuộc kháng chiến chống Mỹ cữu nước. Trong chương  trình, cùng lắng nghe những chia sẻ về đề tài Điện Biên trong âm nhạc của trung tướng Phạm Hồng Cư, Nhạc sĩ Đỗ Hồng Quân, Nhạc sĩ Đào Hữu Thi và thưởng thức một số tác phẩm: Hò kéo pháo (Nhạc sĩ Hoàng Vân), Chiến thắng Điện Biên (Nhạc sĩ Đỗ Nhuận), Hát mãi về Điện Biên (Nhạc sĩ Đào Hữu Thi)…]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/05/11/vovlive_am_nhac_voi_cuoc_song_dien_bien_trong_am_nhac.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 08 May 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Trách nhiệm của người nghệ sĩ đối với đất nước</title>
       <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
@@ -47,15 +55,6 @@
       <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/04/18/vovlive_am_-nhac_voi_cuoc_song_thang_tu_lich_su.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 17 Apr 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>“Hành khúc quân tăng cường thủ đô”: Câu chuyện về một lực lượng bộ đội anh hùng của thủ đô Hà Nội</title>
-      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[- Chào mừng 47 năm thống nhất đất nước, cùng nghe những chia sẻ của Cựu chiến binh Đàm Tiến - người được ghi danh vào Sách kỷ lục Guinness Việt Nam năm 2011 với khả năng chơi 6 loại nhạc cụ khác nhau cùng lúc và cựu chiến binh Nguyễn Huy Minh về lực lượng quân tăng cường thủ đô và lắng nghe ca khúc “Hành khúc quân tăng cường thủ đô” (Tác giả Đàm Tiến)
-- Thưởng thức bài hát “Lá thư gửi từ lòng đất” (Nhạc sĩ Phan Lai Triều, Lời: dựa trên lời thơ Lê Văn Huỳnh)…]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/04/18/vovlive_am_nhac_voi_cuoc_song_hanh_khuc_quan_tang_cuong_thu_do.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 10 Apr 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
