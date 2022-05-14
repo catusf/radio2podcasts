@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 13 May 2022 13:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 14 May 2022 15:49:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 13 May 2022 13:00:00 +0700</pubDate>
+    <pubDate>Sat, 14 May 2022 15:49:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Sài Gòn buổi sáng - 14/5/2022</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-14-5-2022-434793.html</link>
+      <description><![CDATA[08:49 - 14/05/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-14-5-2022-434793.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/05/14/FMsaigonbuoisang06h00p140522ss.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 14 May 2022 15:49:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Đấu giá biển số xe ô tô: Cần làm rõ quyền tài sản hay quyền sử dụng - Sài Gòn buổi sáng 13/5/2022</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/dau-gia-bien-so-xe-o-to-can-lam-ro-quyen-tai-san-hay-quyen-su-dung-sai-gon-buoi-sang-13-5-2022-434682.html</link>
       <description><![CDATA[06:00 - 13/05/2022]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/dau-gia-bien-so-xe-o-to-can-lam-ro-quyen-tai-san-hay-quyen-su-dung-sai-gon-buoi-sang-13-5-2022-434682.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/05/13/sgbs-130522.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 13 May 2022 13:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Sài Gòn buổi sáng - 12/5/2022</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-12-5-2022-434564.html</link>
-      <description><![CDATA[06:00 - 12/05/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-12-5-2022-434564.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/05/12/sgbs-120522.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 12 May 2022 13:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
