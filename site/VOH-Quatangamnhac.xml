@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 08 May 2022 17:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 15 May 2022 17:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 08 May 2022 17:00:00 +0700</pubDate>
+    <pubDate>Sun, 15 May 2022 17:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Quà tặng âm nhạc trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Quatangamnhac.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Hồ Chí Minh đẹp nhất tên Người - Quà tặng âm nhạc 15/5/2022</title>
+      <link>https://radio.voh.com.vn/qua-tang-am-nhac/ho-chi-minh-dep-nhat-ten-nguoi-qua-tang-am-nhac-15-5-2022-434918.html</link>
+      <description><![CDATA[10:00 - 15/05/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/ho-chi-minh-dep-nhat-ten-nguoi-qua-tang-am-nhac-15-5-2022-434918.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/05/15/qtan-150522.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 15 May 2022 17:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Ký ức học trò - Quà tặng âm nhạc 8/5/2022</title>
       <link>https://radio.voh.com.vn/qua-tang-am-nhac/ky-uc-hoc-tro-qua-tang-am-nhac-8-5-2022-434226.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/mua-hong-qua-tang-am-nhac-17-4-2022-432016.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/04/17/qtan-170422.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 17 Apr 2022 17:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Rạng rỡ Việt Nam - Quà tặng âm nhạc 10/4/2022</title>
-      <link>https://radio.voh.com.vn/qua-tang-am-nhac/rang-ro-viet-nam-qua-tang-am-nhac-10-4-2022-431217.html</link>
-      <description><![CDATA[10:00 - 10/04/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/rang-ro-viet-nam-qua-tang-am-nhac-10-4-2022-431217.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/04/09/qtan-100422.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 10 Apr 2022 17:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
