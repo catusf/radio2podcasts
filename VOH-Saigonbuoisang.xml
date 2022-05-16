@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 15 May 2022 13:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 16 May 2022 13:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 15 May 2022 13:00:00 +0700</pubDate>
+    <pubDate>Mon, 16 May 2022 13:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Lưu ý về việc tự ý mua và sử dụng thuốc ngủ tại nhà hậu Covid-19 - Sài Gòn buổi sáng 16/05/2022</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/luu-y-ve-viec-tu-y-mua-va-su-dung-thuoc-ngu-tai-nha-hau-covid-19-sai-gon-buoi-sang-16-05-2022-434997.html</link>
+      <description><![CDATA[06:00 - 16/05/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/luu-y-ve-viec-tu-y-mua-va-su-dung-thuoc-ngu-tai-nha-hau-covid-19-sai-gon-buoi-sang-16-05-2022-434997.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/05/16/fmsgbs06h00p160522-20220516070308.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 16 May 2022 13:00:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Sài Gòn buổi sáng - 15/05/2022</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-15-05-2022-434900.html</link>
       <description><![CDATA[06:00 - 15/05/2022]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-15-05-2022-434900.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/05/15/FMsaigonbuoisang06h00p150522.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 15 May 2022 13:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Sài Gòn buổi sáng - 14/5/2022</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-14-5-2022-434793.html</link>
-      <description><![CDATA[08:49 - 14/05/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-14-5-2022-434793.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/05/14/FMsaigonbuoisang06h00p140522ss.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 14 May 2022 15:49:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
