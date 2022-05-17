@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 16 May 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 17 May 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 16 May 2022 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 17 May 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Rút khỏi bảng xếp hạng quốc tế - xu hướng mới của giáo dục đại học Trung Quốc?</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Đứng thứ hạng cao trong các bảng xếp hạng quốc tế vẫn được xem là một tiêu chí đáng tin cậy để đánh giá về uy tín và chất lượng đào tạo của các trường đại học trên thế giới. Những Havard, Cambridge, Oxford… là một số “thương hiệu” điển hình khi luôn đứng trong top các trường đại học tốt nhất thế giới, trở thành giấc mơ của rất nhiều sinh viên. Trong bảng xếp hạng đại học tốt nhất thế giới, chúng ta cũng thấy xuất hiện những tên tuổi đình đám của Trung Quốc như Đại học Bắc Kinh, Đại học Thanh Hoa, Đại học Nam Kinh… Nhưng gần đây, một số trường ở Trung Quốc đã tuyên bố rút khỏi các bảng xếp hạng quốc tế, thậm chí đây còn được dự đoán sẽ trở thành xu hướng của giáo dục đại học Trung Quốc thời gian tới.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/05/17/vovlive_sukienvabanluan_rut_khoi_bang_xep_hang_quoc_te.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 17 May 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Dòng người từ Ukraine làm trầm trọng cuộc khủng hoảng nhà ở tại Thổ Nhĩ Kỳ</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/05/10/vovlive_sukienvabanluan_benh_vien_trung_uong_hue_xac_lap_ky_2-ky_luc_moi.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 10 May 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đối mặt trừng phạt, tác động gì với giới tỷ phú Nga?</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Sau khi Nga phát động chiến dịch quân sự ở Ukraine, Liên minh châu Âu (EU) và các chính phủ Anh, Mỹ đã áp dụng các biện pháp trừng phạt nhắm vào giới tỷ phú Nga nhằm đóng băng những mạch máu của nền kinh tế nước này. Sau hơn 2 tháng, những biện pháp này đang tác động ra sao đến giới tỷ phú Nga? Đâu là “điểm đến” cho giới nhà giàu Nga muốn tìm cách tránh ảnh hưởng của hàng loạt lệnh trừng phạt từ phương Tây?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/05/10/vovlive_sukienvabanluan_doi_mat_trung_phat_tac_dong_gi_voi_ti_phu_nga.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 09 May 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
