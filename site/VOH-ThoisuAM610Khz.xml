@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 16 May 2022 18:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 17 May 2022 00:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 16 May 2022 18:00:00 +0700</pubDate>
+    <pubDate>Tue, 17 May 2022 00:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>TPHCM: Đẩy nhanh tiến độ ký số chứng nhận tiêm chủng Covid-19 - Thời sự 17g00 16/05/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-day-nhanh-tien-do-ky-so-chung-nhan-tiem-chung-covid-19-thoi-su-17g00-16-05-2022-435048.html</link>
+      <description><![CDATA[17:00 - 16/05/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-day-nhanh-tien-do-ky-so-chung-nhan-tiem-chung-covid-19-thoi-su-17g00-16-05-2022-435048.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/05/16/AMThoisu17h00p160522.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 17 May 2022 00:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Giải pháp khắc phục tình trạng đẩy giá bất động sản trên địa bàn TPHCM - Thời sự 11g00 16/05/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/giai-phap-khac-phuc-tinh-trang-day-gia-bat-dong-san-tren-dia-ban-tphcm-thoi-su-11g00-16-05-2022-435014.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/con-vang-mai-loi-bac-ky-1-thoi-su-5g30-16-05-2022-434965.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/05/16/AMThoisu05h30p160522.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 16 May 2022 13:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>TPHCM tổ chức Đại lễ Phật Đản năm 2022 - Thời sự 17g00 15/5/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-to-chuc-dai-le-phat-dan-nam-2022-thoi-su-17g00-15-5-2022-434946.html</link>
-      <description><![CDATA[22:07 - 15/05/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-to-chuc-dai-le-phat-dan-nam-2022-thoi-su-17g00-15-5-2022-434946.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/05/15/AMThoisu17h00p150522.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 16 May 2022 05:07:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
