@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 17 May 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 18 May 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 17 May 2022 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 18 May 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ấn Độ từ mục tiêu “cứu đói thế giới” đến cấm xuất khẩu lúa mì</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Nguồn cung lương thực toàn cầu đang không ngừng chao đảo và ngày càng trở nên thiếu ổn định. Sau khi Indonesia cấm xuất khẩu dầu cọ, mới đây nhất, Chính phủ Ấn Độ tuyên bố sẽ đình chỉ việc xuất khẩu lúa mì ra nước ngoài trừ khi cho phép đặc biệt của chính phủ. Các chuyên gia lo ngại lệnh cấm của quốc gia sản xuất lúa mì thứ hai thế giới sẽ sớm đẩy giá lương thực toàn cầu lên mức đỉnh mới. Đáng chú ý, quyết định bất ngờ của chính phủ Ấn Độ được đưa ra sau khi Thủ tướng N.Modi tuyên bố “Ấn Độ có thể cứu đói thế giới” sau khi cuộc xung đột Nga – Ukraine khiến nguồn cung lương thực bị gián đoạn.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/05/18/vovlive_sukienvabanluan_an_do.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 18 May 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Rút khỏi bảng xếp hạng quốc tế - xu hướng mới của giáo dục đại học Trung Quốc?</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/05/12/vovlive_sukienvabanluan_chau_au_dinh_hinh_cai_cach_vi_tuong_lai_lieu_co_qua_tham_vong.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 12 May 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Bệnh viện Trung ương Huế xác lập 2 kỷ lục mới với ca ghép tim xuyên Việt - thành tựu và vấn đề đặt ra về nguồn tạng hiến</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Ngành ghép tạng ở nước ta vừa ghi nhận một thành tựu quan trọng. Bệnh viện Trung ương Huế mới thực hiện thành công ca ghép tim từ người hiến tạng chết não với 2 kỷ lục: thời gian từ khi lấy tim đến khi tim đập lại ngắn nhất và thời gian mổ ngắn nhất. Những kỉ lục này có ý nghĩa như thế nào trong bối cảnh số người chờ được hiến tạng ở nước ta ngày một nhiều? Làm sao để có thêm bệnh nhân được hưởng thành quả từ những tiến bộ vượt bậc này?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/05/10/vovlive_sukienvabanluan_benh_vien_trung_uong_hue_xac_lap_ky_2-ky_luc_moi.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 10 May 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
