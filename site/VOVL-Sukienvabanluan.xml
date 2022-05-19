@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 18 May 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 19 May 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 18 May 2022 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 19 May 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Thành phố  Hồ Chí Minh thí điểm đánh giá tác động giao thông với công trình xây dựng: Siết cao ốc để cứu giao thông</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Để chấm dứt tình trạng hạ tầng không theo kịp tốc độ xây dựng cao ốc, từ đầu tháng 5 này, UBND thành phố quy định các dự án xây dựng phải có phương án kết nối giao thông, tính toán nhu cầu đi lại phát sinh. Những công trình lớn phải bổ sung đánh giá tác động giao thông từ khi quy hoạch, lập dự án, để xác định quy mô đầu tư và đưa ra các biện pháp giảm tiêu cực. Đây không phải là lần đầu thành phố Hồ Chí Minh  thực hiện chủ trương này nhằm siết “xây cao ốc” để cứu hạ tầng giao thông. Vậy lần thực hiện này có gì mới và liệu có ngăn chặn được tình trạng phát triển tràn lan dự án bất đậu sản đè nặng lên hệ thống giao thông đã quá tải.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/05/19/vovlive_sukienvabanluan_tp-hcm.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 19 May 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Ấn Độ từ mục tiêu “cứu đói thế giới” đến cấm xuất khẩu lúa mì</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/05/16/vovlive_sukienvabanluan_dong_nguoi_ucraina_khung_hoang.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 16 May 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Châu Âu định hình cải cách vì tương lai: Liệu có quá tham vọng?</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Hội nghị tương lai châu Âu vừa kết thúc được xem như một “cuộc diễn tập” chưa từng có về sự cải cách tại Lục địa già. Tại hội nghị này, hàng loạt đề xuất gồm các mục tiêu cụ thể và hơn 320 biện pháp cho các tổ chức EU, vạch ra một tương lai cho EU trong một giai đoạn phát triển mới đã được đưa ra, trong đó không loại trừ cả việc sửa đổi các hiệp ước của EU. Vậy cụ thể, tương lai châu Âu sẽ được định hình như thế nào, mục tiêu ra sao và những đề xuất cải cách liệu có quá tham vọng?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/05/12/vovlive_sukienvabanluan_chau_au_dinh_hinh_cai_cach_vi_tuong_lai_lieu_co_qua_tham_vong.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 12 May 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
