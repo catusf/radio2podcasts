@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 08 May 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 15 May 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 08 May 2022 19:00:00 +0700</pubDate>
+    <pubDate>Sun, 15 May 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Âm nhạc với cuộc sống</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Amnhacvoicuocsong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Một số ca khúc tiêu biểu về hình tượng Chủ tịch Hồ Chí Minh trong lịch sử Âm nhạc Cách mạng Việt Nam</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[Chủ tịch Hồ Chí Minh là mẫu hình, là biểu tượng lớn lao và thiêng liêng không chỉ trong đời sống của dân tộc Việt mà trong văn học nghệ thuật hình ảnh người cũng là niềm cảm hứng bất tận cho những người nghệ sĩ. Kỷ niệm 132 năm ngày sinh Chủ tịch Hồ Chí Minh (19/5/1890-19/5/2022), trong chương trình, cùng nghe lại một số ca khúc tiêu biểu về hình tượng của Chủ tịch Hồ Chí Minh trong lịch sử Âm nhạc Cách mạng Việt Nam: Biết ơn Cụ Hồ Chí Minh (Nhạc sĩ Lương Bách Thụ); Nhớ ơn Hồ Chí Minh (Nhạc sĩ Tô Vũ, Lời thơ: Tác giả Hồng Lực); Tiếng hát giữa rừng Pắc Bó (Nhạc sĩ Nguyễn Tài Tuệ); Đêm nghe hát đò đưa nhớ Bác (Nhạc sĩ An Thuyên); Lãnh tụ ca (Nhạc sĩ Lưu Hữu Phước);…]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/05/18/vovlive_am_nhac_voi_cuoc_song_hinh_tuong_ho_chi_minh_trong_am_nhac.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 15 May 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Điện Biên trong các sáng tác âm nhạc</title>
       <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
@@ -47,14 +55,6 @@
       <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/04/29/vovlive_am_nhac_voi_cuoc_song_nhu_co_bac_trong_ngay_vui_dai_thang.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 24 Apr 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Trở lại không khí hào hùng sôi động những ngày tháng 4 lịch sử của đất nước</title>
-      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[Hòa cùng không khí làm việc của các văn nghệ sĩ Đài TNVN những ngày tháng 4 lịch sử cách đây 47 năm với những chia sẻ của những nghệ sĩ, chiến sĩ trong các đội văn nghệ xung kích: NSND Trần Hiếu, Nhạc sĩ Cao Việt Bách, Nhạc sĩ Cát Vận và cùng thưởng thức những ca khúc đã đóng vai trò như một bản tin chiến thắng bay lên và vang xa trên mọi miền đất nước từ làn sóng phát thanh Đài TNVN: “Mùa xuân trên Thành phố Hồ Chí Minh (Sáng tác: Nhạc sĩ Xuân Hồng, Trình bày: Nhóm Mây Trắng); “Bài ca đất nước anh hùng” (Sáng tác: Nhạc sĩ Lưu Cầu, Trình bày: NSND Trần Hiếu); “Tiếng hát Thành phố mang tên Người” (Sáng tác: Nhạc sĩ Cao Việt Bách, Trình bày: Nghệ sĩ Hữu Nội và đồng ca Nhà hát Đài TNVN); “Hát về thành phố tên Vàng” (Sáng tác: Nhạc sĩ Cát Vận, Trình bày: Tốp ca); “Đất nước trọn niềm vui” (Sáng tác: Nhạc sĩ Hoàng Hà, Trình bày: NSND Trung Kiên)…]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/04/18/vovlive_am_-nhac_voi_cuoc_song_thang_tu_lich_su.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 17 Apr 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
