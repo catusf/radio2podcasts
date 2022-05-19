@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 16 May 2022 13:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 19 May 2022 14:46:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 16 May 2022 13:00:00 +0700</pubDate>
+    <pubDate>Thu, 19 May 2022 14:46:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Lưu ý về việc tự ý mua và sử dụng thuốc ngủ tại nhà hậu Covid-19 - Sài Gòn buổi sáng 16/05/2022</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/luu-y-ve-viec-tu-y-mua-va-su-dung-thuoc-ngu-tai-nha-hau-covid-19-sai-gon-buoi-sang-16-05-2022-434997.html</link>
-      <description><![CDATA[06:00 - 16/05/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/luu-y-ve-viec-tu-y-mua-va-su-dung-thuoc-ngu-tai-nha-hau-covid-19-sai-gon-buoi-sang-16-05-2022-434997.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/05/16/fmsgbs06h00p160522-20220516070308.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 16 May 2022 13:00:00 +0700</pubDate>
+      <title>Không gian văn hóa Hồ Chí Minh – Nền tảng xây dựng con người TP mang tên Bác - SGBS 19/5/2022</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/khong-gian-van-hoa-ho-chi-minh-nen-tang-xay-dung-con-nguoi-tp-mang-ten-bac-sgbs-19-5-2022-435287.html</link>
+      <description><![CDATA[07:46 - 19/05/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/khong-gian-van-hoa-ho-chi-minh-nen-tang-xay-dung-con-nguoi-tp-mang-ten-bac-sgbs-19-5-2022-435287.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/05/19/FMSGBS06h00p190522ss.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 19 May 2022 14:46:00 +0700</pubDate>
     </item>
     <item>
-      <title>Sài Gòn buổi sáng - 15/05/2022</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-15-05-2022-434900.html</link>
-      <description><![CDATA[06:00 - 15/05/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-15-05-2022-434900.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/05/15/FMsaigonbuoisang06h00p150522.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 15 May 2022 13:00:00 +0700</pubDate>
+      <title>Đa dạng Không gian văn hóa Hồ Chí Minh tại cơ sở - Sài Gòn buổi sáng 18/5/2022</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/da-dang-khong-gian-van-hoa-ho-chi-minh-tai-co-so-sai-gon-buoi-sang-18-5-2022-435170.html</link>
+      <description><![CDATA[08:22 - 18/05/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/da-dang-khong-gian-van-hoa-ho-chi-minh-tai-co-so-sai-gon-buoi-sang-18-5-2022-435170.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/05/18/FMSGBS06h00p180522.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 18 May 2022 15:22:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
