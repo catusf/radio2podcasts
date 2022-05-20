@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 19 May 2022 14:46:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 20 May 2022 13:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 19 May 2022 14:46:00 +0700</pubDate>
+    <pubDate>Fri, 20 May 2022 13:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Sài Gòn buổi sáng - 20/5/2022</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-20-5-2022-435394.html</link>
+      <description><![CDATA[06:00 - 20/05/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-20-5-2022-435394.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/05/20/sgbs-200522.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 20 May 2022 13:00:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Không gian văn hóa Hồ Chí Minh – Nền tảng xây dựng con người TP mang tên Bác - SGBS 19/5/2022</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/khong-gian-van-hoa-ho-chi-minh-nen-tang-xay-dung-con-nguoi-tp-mang-ten-bac-sgbs-19-5-2022-435287.html</link>
       <description><![CDATA[07:46 - 19/05/2022]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/khong-gian-van-hoa-ho-chi-minh-nen-tang-xay-dung-con-nguoi-tp-mang-ten-bac-sgbs-19-5-2022-435287.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/05/19/FMSGBS06h00p190522ss.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 19 May 2022 14:46:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đa dạng Không gian văn hóa Hồ Chí Minh tại cơ sở - Sài Gòn buổi sáng 18/5/2022</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/da-dang-khong-gian-van-hoa-ho-chi-minh-tai-co-so-sai-gon-buoi-sang-18-5-2022-435170.html</link>
-      <description><![CDATA[08:22 - 18/05/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/da-dang-khong-gian-van-hoa-ho-chi-minh-tai-co-so-sai-gon-buoi-sang-18-5-2022-435170.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/05/18/FMSGBS06h00p180522.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 18 May 2022 15:22:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
