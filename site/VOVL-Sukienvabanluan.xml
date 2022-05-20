@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 19 May 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 20 May 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 19 May 2022 19:00:00 +0700</pubDate>
+    <pubDate>Fri, 20 May 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Kế hoạch tham vọng giảm sự phụ thuộc vào năng lượng Nga của EU</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Nhằm tiến tới chấm dứt sự phụ thuộc vào nguồn năng lượng và nhiên liệu từ Nga, Ủy ban châu Âu (EC) mới đây đã công bố kế hoạch đầy tham vọng trị giá 210 tỷ euro, tạo đà cho quá trình chuyển đổi nhanh hơn sang sử dụng năng lượng xanh và sạch. Chiến lược này có gì đặc biệt, liệu có thể giúp Liên minh châu Âu đạt được mục tiêu khi phần lớn lượng khí đốt và dầu mỏ của khu vực này là nhập từ Nga?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/05/20/vovlive_sukienvabanluna_ke_hoach_tham_vong.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 20 May 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Thành phố  Hồ Chí Minh thí điểm đánh giá tác động giao thông với công trình xây dựng: Siết cao ốc để cứu giao thông</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/05/17/vovlive_sukienvabanluan_rut_khoi_bang_xep_hang_quoc_te.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 17 May 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Dòng người từ Ukraine làm trầm trọng cuộc khủng hoảng nhà ở tại Thổ Nhĩ Kỳ</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Mua được một căn hộ thực sự rất khó khăn, thậm chí được ví như “nhiệm vụ bất khả thi” – đó là tình cảnh của rất nhiều người Thổ Nhĩ Kỳ khi giá nhà ở liên tục tăng phi mã trong vài năm trở lại đây. Tính trung bình cứ sau một năm, giá nhà ở lại tăng gấp đôi khiến cho mọi tính toán về tài chính để mua một căn hộ của người dân gần như không thể theo kịp. Trong khi đó, lượng khách nước ngoài mua nhà tăng vọt, nhất là những người Ucraina lánh nạn do tình hình chiến sự kéo dài càng làm trầm trọng thêm cuộc khủng hoảng nhà ở tại Thổ Nhĩ Kỳ.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/05/16/vovlive_sukienvabanluan_dong_nguoi_ucraina_khung_hoang.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 16 May 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
