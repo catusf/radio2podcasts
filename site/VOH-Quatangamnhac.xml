@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 15 May 2022 17:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 22 May 2022 17:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 15 May 2022 17:00:00 +0700</pubDate>
+    <pubDate>Sun, 22 May 2022 17:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Quà tặng âm nhạc trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Quatangamnhac.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Một ngày mới - Quà tặng âm nhạc 22/5/2022</title>
+      <link>https://radio.voh.com.vn/qua-tang-am-nhac/mot-ngay-moi-qua-tang-am-nhac-22-5-2022-435547.html</link>
+      <description><![CDATA[10:00 - 22/05/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/mot-ngay-moi-qua-tang-am-nhac-22-5-2022-435547.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/05/21/QTAN-220522.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 22 May 2022 17:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Hồ Chí Minh đẹp nhất tên Người - Quà tặng âm nhạc 15/5/2022</title>
       <link>https://radio.voh.com.vn/qua-tang-am-nhac/ho-chi-minh-dep-nhat-ten-nguoi-qua-tang-am-nhac-15-5-2022-434918.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/bai-ca-thong-nhat-qua-tang-am-nhac-24-4-2022-432817.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/04/24/qtan-240422.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 24 Apr 2022 17:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Mưa hồng - Quà tặng âm nhạc 17/4/2022</title>
-      <link>https://radio.voh.com.vn/qua-tang-am-nhac/mua-hong-qua-tang-am-nhac-17-4-2022-432016.html</link>
-      <description><![CDATA[10:00 - 17/04/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/mua-hong-qua-tang-am-nhac-17-4-2022-432016.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/04/17/qtan-170422.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 17 Apr 2022 17:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
