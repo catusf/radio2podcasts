@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 15 May 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 22 May 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 15 May 2022 19:00:00 +0700</pubDate>
+    <pubDate>Sun, 22 May 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,15 @@
     </itunes:owner>
     <itunes:subtitle>Âm nhạc với cuộc sống</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Amnhacvoicuocsong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>“Bài ca những anh hùng thầm lặng”: Tri ân lực lượng công an nhân dân trong công cuộc điều tra tội phạm phòng chống ma túy</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[- Thưởng thức ca khúc “Bài ca những anh hùng thầm lặng” (Sáng tác và trình bày: Sao mai Hiền Anh) - ca khúc tái hiện những chiến công hiển hách của lực lượng công an nhân dân nói chung, các cán bộ chiến sĩ cục Cảnh sát C47 nói riêng trong công cuộc điều tra tội phạm phòng chống ma túy đồng thời bày tỏ lòng cảm phục nỗi xót xa đối với những mất mát đau thương của người chiến sĩ để hoàn thành nhiệm vụ bảo vệ cuộc sống bình yên cho hàng vạn, hàng triệu người của Sao mai Hiền Anh và lắng nghe những chia sẻ của tác giả ca khúc.
+- Thưởng thức bản hùng ca “Tổ quốc” (Âm nhạc: Nhạc sĩ Lê Quang, Lời thơ: Nhà báo Nguyễn Thế Kỷ, Trình bày: NSND Quốc Hưng) và lắng nghe những chia sẻ của nhạc sĩ Lê Quang về ca khúc.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/05/23/vovlive_am_nhac_voi_cuoc_song_bai_ca_nhung_anh_hung_tham_lang.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 22 May 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Một số ca khúc tiêu biểu về hình tượng Chủ tịch Hồ Chí Minh trong lịch sử Âm nhạc Cách mạng Việt Nam</title>
       <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
@@ -46,15 +55,6 @@
       <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/05/05/vovlive_am_nhac_voi_cuoc_song_trach_nhiem_cua_nguoi_nghe_si_voi_dat_nuoc.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 01 May 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>“Như có Bác trong ngày vui đại thắng”: Ca khúc bất hủ luôn đồng hành trong đời sống âm nhạc Việt Nam với vai trò nhân chứng lịch sử</title>
-      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[- Thưởng thức bài hát Ơn mẹ (Sáng tác: Nhạc sĩ Nguyễn Hiển, Trình bày: Ca sĩ Minh Long) và lắng nghe những chia sẻ của nhạc sĩ Nguyễn Hiển về bài hát.
-- Trong những ngày tháng này, cách đây 47 năm về trước, ca khúc “Như có Bác trong ngày vui đại thắng” của nhạc sĩ Phạm Tuyên thường vang lên trên làn sóng phát thanh Đài TNVN và được phổ biến rộng rãi đến đồng bào chiến sĩ. Cùng nghe những chia sẻ của nhạc sĩ Phạm Tuyên để hiểu hơn thời khắc lịch sử trọng đại của đất nước 47 năm về trước cũng như thời khắc đặc biệt khi ông viết nên bài hát này….]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/04/29/vovlive_am_nhac_voi_cuoc_song_nhu_co_bac_trong_ngay_vui_dai_thang.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 24 Apr 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
