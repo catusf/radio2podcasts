@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 10 May 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 24 May 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 10 May 2022 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 24 May 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,22 @@
     </itunes:owner>
     <itunes:subtitle>Thể thao 7 ngày</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Thethao7ngay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Chương trình thể thao 7 ngày 21 tháng 5 năm 2022</title>
+      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
+      <description><![CDATA[Thành công ngoài mong đợi cũng là cảm nhận chung của những ai đang dõi theo kỳ SEA Games hết sức đáng nhớ tại Việt Nam. Thời điểm này, đại hội thể thao Đông Nam Á đã bước vào những thời khắc tranh tài cuối cùng, trước khi chứng kiến lễ bế mạc. Tuần này chúng ta sẽ cùng cảm nhận bức tranh đầy màu sắc trong tuần qua của SEA Games 31...]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/05/24/vovlive_thethao7ngay_chuongtrinhthethao7ngay21052022.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 24 May 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Chương trình thể thao 7 ngày 14 tháng 5 năm 2022</title>
+      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
+      <description><![CDATA[Thể thao 7 ngày tuần này với điểm nhấn là lễ khai mạc SEA Games 31 diễn ra trên sân vận động quốc gia Mỹ Đình tối ngày 12 tháng 5. Sau gần một năm tạm hoãn vì dịch bệnh, ngày hội thể thao lớn nhất khu vực đã minh chứng cho sự vươn lên mạnh mẽ của các nước trong khối ASEAN....]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/05/24/vovlive_thethao7ngay_chuongtrinhthethao7ngay14052022.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 24 May 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Chương trình thể thao 7 ngày 7 tháng 5 năm 2022</title>
       <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
@@ -40,25 +56,6 @@
       <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/05/10/vovlive_thethao7ngay_chuongtrinhthethao7ngay3042022.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 10 May 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chương trình thể thao 7 ngày 2 tháng 4 năm 2022</title>
-      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
-      <description><![CDATA[- Vị trí của nữ giới trong thể thao, những khó khăn mà các nữ vận động viên Việt Nam gặp phải cũng như những giải pháp để khắc phục vấn đề này qua góc nhìn của các chuyên gia. 
-- Cristian Ericson: giấc mơ đang tới gần]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/04/06/vovlive_thethao7ngay_chuongtrinhthethao7ngay242022.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 06 Apr 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chương trình thể thao 7 ngày 26 tháng 3 năm 2022</title>
-      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
-      <description><![CDATA[- Sea Game 31 cận kề trong sự hối hả của ban tổ chức từ Trung ương đến địa phương cũng như các đội tuyển thể thao quốc gia để chủ nhà Việt Nam có thể hoàn thành mục tiêu kép, kể cả yếu tố chuyên môn lẫn công tác tổ chức trong lần thứ 2 đăng cai sự kiện thể thao lớn nhất khu vực. 
-- Vòng tuyển chọn của đội tuyển goft quốc gia. 
-- Giải marathon báo Tiền Phong diễn ra tại Côn Đảo.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/04/06/vovlive_thethao7ngay_chuongtrinhthethao7ngay2622022.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 06 Apr 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
