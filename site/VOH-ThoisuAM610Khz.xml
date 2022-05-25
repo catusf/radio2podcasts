@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 25 May 2022 12:30:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 25 May 2022 18:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 25 May 2022 12:30:00 +0700</pubDate>
+    <pubDate>Wed, 25 May 2022 18:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Nâng chất hoạt động gắn kết doanh nghiệp với đại học - Thời sự 11g00 25/5/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/nang-chat-hoat-dong-gan-ket-doanh-nghiep-voi-dai-hoc-thoi-su-11g00-25-5-2022-435901.html</link>
+      <description><![CDATA[11:00 - 25/05/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/nang-chat-hoat-dong-gan-ket-doanh-nghiep-voi-dai-hoc-thoi-su-11g00-25-5-2022-435901.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/05/25/ts11g00-250522.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 25 May 2022 18:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Phòng chống đuối nước trẻ em - cần sự quyết liệt và tận tâm (Kỳ 1) - Thời sự 05g30 25/5/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/phong-chong-duoi-nuoc-tre-em-can-su-quyet-liet-va-tan-tam-ky-1-thoi-su-05g30-25-5-2022-435886.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/gia-lai-phan-dau-tro-thanh-vung-kinh-te-dong-luc-cua-khu-vuc-tay-nguyen-thoi-su-11g00-24-5-2022-435810.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/05/24/ts11g-240522.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 24 May 2022 18:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Hãy cho cuộc đời nở hoa - Thời sự 05g30 24/5/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/hay-cho-cuoc-doi-no-hoa-thoi-su-05g30-24-5-2022-435780.html</link>
-      <description><![CDATA[05:30 - 24/05/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/hay-cho-cuoc-doi-no-hoa-thoi-su-05g30-24-5-2022-435780.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/05/24/ts05g30-240522.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 24 May 2022 12:30:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
