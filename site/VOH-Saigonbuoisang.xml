@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 24 May 2022 13:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 25 May 2022 13:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 24 May 2022 13:00:00 +0700</pubDate>
+    <pubDate>Wed, 25 May 2022 13:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Chuyển đổi số trong y tế và chăm sóc sức khỏe đang là xu hướng mạnh mẽ - Sài Gòn buổi sáng 25/5/2022</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/chuyen-doi-so-trong-y-te-va-cham-soc-suc-khoe-dang-la-xu-huong-manh-me-sai-gon-buoi-sang-25-5-2022-435881.html</link>
+      <description><![CDATA[06:00 - 25/05/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/chuyen-doi-so-trong-y-te-va-cham-soc-suc-khoe-dang-la-xu-huong-manh-me-sai-gon-buoi-sang-25-5-2022-435881.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/05/25/sgbs-250522.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 25 May 2022 13:00:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Tổ chức thành công SEA Games - Thể thao Việt Nam vươn mình ra biển lớn - Sài Gòn buổi sáng 24/5/2022</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/to-chuc-thanh-cong-sea-games-the-thao-viet-nam-vuon-minh-ra-bien-lon-sai-gon-buoi-sang-24-5-2022-435782.html</link>
       <description><![CDATA[06:00 - 24/05/2022]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/to-chuc-thanh-cong-sea-games-the-thao-viet-nam-vuon-minh-ra-bien-lon-sai-gon-buoi-sang-24-5-2022-435782.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/05/24/SGBS-240522.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 24 May 2022 13:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Sài Gòn buổi sáng - 23/5/2022</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-23-5-2022-435716.html</link>
-      <description><![CDATA[15:18 - 23/05/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-23-5-2022-435716.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/05/23/FMSGBS06h00p230522-20220523070307-20220523070307.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 23 May 2022 22:18:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

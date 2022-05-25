@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 20 May 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 23 May 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 20 May 2022 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 23 May 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Điểm hẹn văn nghệ</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Diemhenvannghe.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Tiểu thuyết "Nợ nước non": Thời niên thiếu bình dị, xúc động của Bác 20/5/2022</title>
+      <title>Bút ký "Anh hùng nơi làng quê" 23/5/2022</title>
+      <link>http://vov6.vov.vn/diem-hen-van-nghe/but-ky-anh-hung-noi-lang-que-c158-34471.aspx</link>
+      <description><![CDATA[Ở quê hương năm tấn Thái Bình có một người thương binh được coi là niềm tự hào của làng xóm, quê hương. Ông là lương y, Anh hùng Lao động Đào Viết Thoàn. Hơn 30 năm qua, bằng bài thuốc cổ truyền và phương pháp chữa trị độc đáo, đã có hàng vạn bệnh nhân bị bỏng ở mọi cấp độ được ông chữa khỏi hoàn toàn. Hơn một nửa trong số đó được ông miễn tiền thuốc, tiền công, tiền giường bệnh, điện nước… Lương y Đào Viết Thoàn được Đảng, Nhà nước tặng thưởng nhiều danh hiệu cao quý, được Chủ tịch nước tặng thưởng Huân chương Lao động hạng Nhì, hạng Ba. Còn người dân yêu mến gọi ông là “vua chữa bỏng” của đất Thái Bình:]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/but-ky-anh-hung-noi-lang-que-c158-34471.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2022_5/anh_hung_noi_lang_que_235202210.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 23 May 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Tiểu thuyết "Nợ nước non": Thời niên thiếu bình dị, xúc động của Bác  20/5/2022</title>
       <link>http://vov6.vov.vn/diem-hen-van-nghe/tieu-thuyet-no-nuoc-non-thoi-nien-thieu-binh-di-xuc-dong-cua-bac-c158-34464.aspx</link>
       <description><![CDATA[Tiểu thuyết “Nợ nước non” có độ dài hơn 200 trang, là tập 1 của bộ tiểu thuyết “Nước non vạn dặm” của nhà văn Nguyễn Thế Kỷ.  Toàn bộ nội dung của tác phẩm này không chỉ khắc họa những ký ức lịch sử - xã hội mà đi sâu vào luận giải những yếu tố văn hóa, tư tưởng, xã hội đã hun đúc, rèn dũa nên Nguyễn Sinh Cung – Nguyễn Tất Thành – Văn Ba để Người có chuyến đi lịch sử vạn dặm từ quê nhà Nghệ An đến kinh đô Huế, qua Bình Định, Phan Thiết đến bến cảng Sài Gòn, cho chuyến vượt trùng khơi cứu nước ngày 5/6/1911.]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/tieu-thuyet-no-nuoc-non-thoi-nien-thieu-binh-di-xuc-dong-cua-bac-c158-34464.aspx</guid>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/tien-tu-hitler-chien-tranh-tu-mot-goc-nhin-khac-c158-34450.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2022_5/gts_tien_tu_hitler_125202210.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 12 May 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Thấm đẫm tình người trong “Lời nguyện cầu cho những linh hồn phiêu dạt”  4/5/2022</title>
-      <link>http://vov6.vov.vn/diem-hen-van-nghe/tham-dam-tinh-nguoi-trong-loi-nguyen-cau-cho-nhung-linh-hon-phieu-dat-c158-34432.aspx</link>
-      <description><![CDATA[Nhà văn-nhà biên kịch Đoàn Tuấn trong lĩnh vực điện ảnh được công chúng biết đến qua các bộ phim “Chiếc chìa khóa vàng”, “Đường thư”, “Chuyện tình trong ngõ hẹp”, “Sống cùng lịch sử”, “Truyền thuyết về Quán Tiên”... Còn trong lĩnh vực văn chương, Đoàn Tuấn chỉ chuyên tâm viết để trả món nợ ân tình với đồng đội cũ đã một thời cầm súng vì “đất bên ngoài Tổ quốc”. Sau hai tập ký “Những người không gặp lại”, “Mùa linh cảm” và hai tiểu thuyết “Một trăm ngày trước tuổi hai mươi”, “Mùa chinh chiến ấy”, nhà văn-nhà biên kịch Đoàn Tuấn ở tuổi 63 tiếp tục kể về những người lính tình nguyện Việt Nam làm nghĩa vụ quốc tế trên đất bạn Campuchia với cuốn sách “Lời nguyện cầu cho những linh hồn phiêu dạt” vừa được Nhà xuất bản Tổng hợp TP.HCM ấn hành...]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/tham-dam-tinh-nguoi-trong-loi-nguyen-cau-cho-nhung-linh-hon-phieu-dat-c158-34432.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/nhung_linh_hon_phieu_dat_6520228.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 04 May 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
