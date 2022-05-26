@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 24 May 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 26 May 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 24 May 2022 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 26 May 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Gỡ khó tiêu thụ trái cây mùa thu hoạch rộ</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Trái cây đang vào chính vụ thu hoạch, nguồn cung ra thị trường đang tăng. Theo Cục Trồng trọt, Bộ Nông nghiệp và Phát triển nông thôn, có khoảng 1,2 triệu tấn trái cây cần tiêu thụ trong quý 2 này, trong đó tập trung chủ yếu ở Nam Bộ. Tuy nhiên, hầu hết đều đang có dấu hiệu lặp lại điệp khúc "được mùa, mất giá". Năm nay khó khăn hơn khi Trung Quốc – thị trường tiêu thụ trọng điểm đang thực hiện chiến lược Zero Covid nên việc thông quan hàng hóa nói chung, trái cây nông sản nói riêng qua các cửa khẩu chưa thể bình thường. Vậy các địa phương làm gì để gỡ khó tiêu thụ trái cây mùa cao điểm?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/05/26/vovlive_sukienvabanluan_go_kho_trai-cay_tieu_thu_mua_no_ro.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 26 May 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>“Ngày thứ Năm không hẹn, không viết”, mô hình mới trong giải quyết thủ tục hành chính ở Bình Định</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/05/20/vovlive_sukienvabanluna_ke_hoach_tham_vong.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 20 May 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Thành phố  Hồ Chí Minh thí điểm đánh giá tác động giao thông với công trình xây dựng: Siết cao ốc để cứu giao thông</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Để chấm dứt tình trạng hạ tầng không theo kịp tốc độ xây dựng cao ốc, từ đầu tháng 5 này, UBND thành phố quy định các dự án xây dựng phải có phương án kết nối giao thông, tính toán nhu cầu đi lại phát sinh. Những công trình lớn phải bổ sung đánh giá tác động giao thông từ khi quy hoạch, lập dự án, để xác định quy mô đầu tư và đưa ra các biện pháp giảm tiêu cực. Đây không phải là lần đầu thành phố Hồ Chí Minh  thực hiện chủ trương này nhằm siết “xây cao ốc” để cứu hạ tầng giao thông. Vậy lần thực hiện này có gì mới và liệu có ngăn chặn được tình trạng phát triển tràn lan dự án bất đậu sản đè nặng lên hệ thống giao thông đã quá tải.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/05/19/vovlive_sukienvabanluan_tp-hcm.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 19 May 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
