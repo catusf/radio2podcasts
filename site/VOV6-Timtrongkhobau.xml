@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 19 May 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 27 May 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 19 May 2022 19:00:00 +0700</pubDate>
+    <pubDate>Fri, 27 May 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Tìm trong kho báu</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Timtrongkhobau.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Đặc sắc trường thơ Bích Động thi xã 19/5/2022</title>
+      <title>Di sản thi ca của Thiền phái Trúc Lâm đời Trần 27/5/2022</title>
+      <link>http://vov6.vov.vn/tim-trong-kho-bau/di-san-thi-ca-cua-thien-phai-truc-lam-doi-tran-c54-34486.aspx</link>
+      <description><![CDATA[Thời Lý – Trần ở nước ta được xem là giai đoạn hết sức hưng thịnh của Phật giáo. Đó cũng là thời kỳ ra đời dòng thiền Trúc Lâm Yên Tử với những tên tuổi lớn của văn học trung đại. Buổi “Tìm trong kho báu” hôm nay của Ban VHNT VOV6 tìm về với cội nguồn những trung tâm Phật giáo, nơi phát tích dòng thiền và những nhóm phái văn học đặc sắc thời Trần.]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/di-san-thi-ca-cua-thien-phai-truc-lam-doi-tran-c54-34486.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2022_5/v2_263005_18h30_tim_trong_kho_bau_27520228.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 27 May 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Đặc sắc trường thơ Bích Động thi xã  19/5/2022</title>
       <link>http://vov6.vov.vn/tim-trong-kho-bau/dac-sac-truong-tho-bich-dong-thi-xa-c54-34461.aspx</link>
       <description><![CDATA[Từ trước đến nay, nhiều nghiên cứu về văn học thời trung đại vẫn cho rằng Tao đàn nhị thập bát tú thời vua Lê Thánh Tông là hội thơ đầu tiên của nước ta. Trên thực tế, trước đó rất lâu, từ thời nhà Trần, đã có sự xuất hiện của một thi xã mang tên Bích Động do danh tướng Trần Quang Triều sáng lập nên. Buổi “Tìm trong kho báu” hôm nay của Ban VHNT (VOV6) có những giải mã về thi xã với các thành viên đều là những danh nho, danh tướng thời vãn Trần.]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/dac-sac-truong-tho-bich-dong-thi-xa-c54-34461.aspx</guid>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/di-san-tho-van-cac-hoang-de-trieu-nguyen-c54-34449.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/v2_121605_18h30_tim_trong_kho_bau_save_13520228.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 12 May 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Văn học cung đình Việt Nam thời trung đại  5/5/2022</title>
-      <link>http://vov6.vov.vn/tim-trong-kho-bau/van-hoc-cung-dinh-viet-nam-thoi-trung-dai-c54-34435.aspx</link>
-      <description><![CDATA[Mười thế kỷ văn học trung đại nước ta cũng là quãng thời gian ghi dấu ấn một nền khoa bảng bề thế. Nhiều tác giả danh tiếng đồng thời là những danh nho đỗ đạt cao ra giúp nước giúp đời. Qua từng triều đại, cùng với các vị hoàng đế, các vị danh nho này góp phần gây dựng phong trào sáng tác và xướng họa thơ văn trong cung đình. Chương trình hôm nay nhận diện một số đặc điểm của dòng văn học chủ lưu này của giai đoạn trung đại.]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/van-hoc-cung-dinh-viet-nam-thoi-trung-dai-c54-34435.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/v2_050905_18h30_tim_trong_kho_bau_65202216.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 05 May 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
