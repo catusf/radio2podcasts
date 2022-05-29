@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 28 May 2022 18:12:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 29 May 2022 13:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 28 May 2022 18:12:00 +0700</pubDate>
+    <pubDate>Sun, 29 May 2022 13:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Khi âm nhạc không chỉ có tình ca - Sài Gòn buổi sáng 29/05/2022</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/khi-am-nhac-khong-chi-co-tinh-ca-sai-gon-buoi-sang-29-05-2022-436304.html</link>
+      <description><![CDATA[06:00 - 29/05/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/khi-am-nhac-khong-chi-co-tinh-ca-sai-gon-buoi-sang-29-05-2022-436304.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/05/29/fm999mhzsaigonbuoisang-khiamnhackhongchicotinhca06h00p290522.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 29 May 2022 13:00:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Ca sĩ VN tiếp cận thị trường quốc tế qua nền tảng MXH, tại sao không? - Sài Gòn buổi sáng 28/5/2022</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/ca-si-vn-tiep-can-thi-truong-quoc-te-qua-nen-tang-mxh-tai-sao-khong-sai-gon-buoi-sang-28-5-2022-436216.html</link>
       <description><![CDATA[11:12 - 28/05/2022]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/ca-si-vn-tiep-can-thi-truong-quoc-te-qua-nen-tang-mxh-tai-sao-khong-sai-gon-buoi-sang-28-5-2022-436216.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/05/28/FMSaigonbuoisang06h00p280522sss.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 28 May 2022 18:12:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Ngành du lịch TPHCM có nhiều tín hiệu khởi sắc - Sài Gòn buổi sáng 27/5/2022</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/nganh-du-lich-tphcm-co-nhieu-tin-hieu-khoi-sac-sai-gon-buoi-sang-27-5-2022-436134.html</link>
-      <description><![CDATA[14:06 - 27/05/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/nganh-du-lich-tphcm-co-nhieu-tin-hieu-khoi-sac-sai-gon-buoi-sang-27-5-2022-436134.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/05/27/fm999mhzsgbuoisang06h00p270522-1.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 27 May 2022 21:06:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
