@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 27 May 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 31 May 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 27 May 2022 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 31 May 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Thuốc lá - mối đe dọa môi trường sống của chúng ta</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Mỗi năm, 8 triệu người tử vong vì thuốc lá. Con số đó tại Việt Nam khoảng 40 nghìn người. Theo dự đoán của các chuyên gia, đến năm 2030, con số này có thể tăng lên tới 70 nghìn người một năm. Theo Bộ Y tế, Việt Nam nằm trong số 15 quốc gia có tỷ lệ người hút thuốc lá cao nhất thế giới. Có tới một phần ba dân số phải chịu ảnh hưởng do hút thuốc lá thụ động. Nguy hiểm hơn, giới trẻ hút thuốc lá điện tử gia tăng nhanh chóng. Điều đáng nói, chúng ta đã có Luật phòng chống tác hại của thuốc lá, chúng ta cũng thực hiện nhiều biện pháp tuyên truyền về tác hại của thuốc lá, nhưng số người hút thuốc vẫn không giảm thậm chí còn tăng thêm và con số tử vong do thuốc lá vẫn tăng cao. Điểm mấu chốt ở đây là gì và giải pháp nào cho vấn đề này?.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/05/31/vovlive_sukienvabanluan_thuoc_la_moi_de_doa_moi_truong_song_cua_chung_ta.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 31 May 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>“Nóng” cuộc cạnh tranh Trung Quốc – Australia ở Thái Bình Dương</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/05/24/vovlive_sukienvabanluaqn_ngay_thu_5-khong_hen_khong_viet.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 24 May 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Kế hoạch tham vọng giảm sự phụ thuộc vào năng lượng Nga của EU</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Nhằm tiến tới chấm dứt sự phụ thuộc vào nguồn năng lượng và nhiên liệu từ Nga, Ủy ban châu Âu (EC) mới đây đã công bố kế hoạch đầy tham vọng trị giá 210 tỷ euro, tạo đà cho quá trình chuyển đổi nhanh hơn sang sử dụng năng lượng xanh và sạch. Chiến lược này có gì đặc biệt, liệu có thể giúp Liên minh châu Âu đạt được mục tiêu khi phần lớn lượng khí đốt và dầu mỏ của khu vực này là nhập từ Nga?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/05/23/vovlive_sukienvabanluan_ke_hoach_tham_vong_giam_su_phu_thuoc_vao_nang_luong_nga_eu.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 23 May 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
