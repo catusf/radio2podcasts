@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 31 May 2022 12:51:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jun 2022 00:30:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 31 May 2022 12:51:00 +0700</pubDate>
+    <pubDate>Wed, 01 Jun 2022 00:30:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Lo ngại dịch chồng dịch - Thời sự 5g30 31/5/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/lo-ngai-dich-chong-dich-thoi-su-5g30-31-5-2022-436595.html</link>
+      <description><![CDATA[17:30 - 31/05/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/lo-ngai-dich-chong-dich-thoi-su-5g30-31-5-2022-436595.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/05/31/AMThoisu05h30p310522-20220531154857.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 01 Jun 2022 00:30:00 +0700</pubDate>
+    </item>
     <item>
       <title>Quốc hội thảo luận về công tác quy hoạch - Thời sự 11g00 30/5/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/quoc-hoi-thao-luan-ve-cong-tac-quy-hoach-thoi-su-11g00-30-5-2022-436506.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/nam-thang-dau-nam-chi-so-gia-tieu-dung-binh-quan-cua-ca-nuoc-tang-2-25-thoi-su-17g00-29-5-2022-436361.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/05/30/am610khzthoisu4517h00p290522.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 30 May 2022 07:11:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Kiểm soát tín dụng bất động sản nhưng không làm “nghẽn” thị trường - Thời sự 11g00 29/05/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/kiem-soat-tin-dung-bat-dong-san-nhung-khong-lam-nghen-thi-truong-thoi-su-11g00-29-05-2022-436313.html</link>
-      <description><![CDATA[11:00 - 29/05/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/kiem-soat-tin-dung-bat-dong-san-nhung-khong-lam-nghen-thi-truong-thoi-su-11g00-29-05-2022-436313.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/05/29/am610khzthoisu30p11h00p290522.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 29 May 2022 18:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
