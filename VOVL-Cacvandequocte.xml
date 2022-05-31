@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 28 May 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jun 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 28 May 2022 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 01 Jun 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,22 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Nguy cơ chia rẽ bao trùm Hội nghị thượng đỉnh bất thường Liên minh Châu Âu (EU)</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Sau rất nhiều mâu thuẫn, tranh cãi cho thấy nguy cơ rạn nứt ngày càng lớn, các nhà lãnh đạo Liên minh Châu Âu (EU) vừa đạt được thỏa thuận cấm vận dầu mỏ Nga trong gói trừng phạt mới. Theo đó, từ nay đến cuối năm, Châu Âu sẽ cắt giảm 2/3 nguồn dầu mỏ nhập từ Nga. Thỏa thuận đột phá này vừa đạt được trong khuôn khổ Hội nghị thượng đỉnh bất thường của khối này đang diễn ra trong 2 ngày 30/5 - 31/5. Liệu bước tiến này có thể mở ra các giải pháp nào để thu hẹp bất đồng, duy trì sự đoàn kết thống nhất của EU trước nhiều thách thức như hiện nay?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/05/31/vovlive_vandequocte_nguycochiarebaotrumhoinghithuongdinhbatthuongeu.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 01 Jun 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Trung Quốc gia tăng ảnh hưởng ở khu vực Thái Bình Dương</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Ngày 30/05, Ngoại trưởng Trung Quốc Vương Nghị sẽ chủ trì cuộc họp cấp cao ngoại trưởng Trung Quốc và các quốc đảo Thái Bình Dương lần thứ hai tại Fiji. Đây là lần đầu tiên hội nghị này được tổ chức ở một quốc đảo. Dự kiến tại hội nghị, Ngoại trưởng Trung Quốc sẽ công bố một văn bản có tên gọi là “Tầm nhìn phát triển toàn diện”. Giới quan sát nhìn nhận đây là một nỗ lực mới mà Trung Quốc muốn gia tăng ảnh hưởng ở khu vực. Những động thái xích lại gần hơn với các quốc đảo ở Thái Bình Dương của Trung Quốc đã khiến Mỹ, Australia và Newzealand lo ngại khi khu vực này đang trở thành tâm điểm trong các hoạt động ngoại giao của Trung Quốc thời gian gần đây. Những động thái này của Trung Quốc tác động ra sao tới cuộc đua giành ảnh hưởng giữa Trung Quốc và Australia ở khu vực Thái Bình Dương. Liệu các nước Nam Thái Bình Dương có bị cuốn vào cuộc tranh ảnh hưởng này?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/05/31/vovlive_vandequocte_trungquocgiatanganhhuongokhuvucthaibinhduong.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 31 May 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Thổ Nhĩ Kỳ tiếp tục gây sức ép với phương Tây trong việc Thụy Điển, Phần Lan gia nhập NATO</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -38,22 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/05/27/vovlive_vandequocte_nuocmylaidaysongvandekiemsoatsungdan.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 27 May 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Hội nghị thượng đỉnh nhóm Bộ tứ Quad: Thúc đẩy sự hợp tác mới</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Hội nghị thượng đỉnh của nhóm “Bộ tứ kim cương”, còn gọi là nhóm bộ tứ Quad gồm Mỹ, Nhật Bản, Australia và Ấn Độ diễn ra ngày 24/5 tại Tokyo là một trong những sự kiện quan trọng nhất về chính sách đối ngoại của khu vực trong năm nay. Hội nghị diễn ra trong bối cảnh tình hình an ninh, kinh tế, dịch bệnh và cạnh tranh ảnh hưởng giữa các nước lớn ngày một phức tạp, vì thế đây được xem là cơ hội để thúc đẩy sự hợp tác mới giữa 4 quốc gia với những cam kết ngày càng mạnh mẽ hơn. Ngoài việc tái khẳng định quyết tâm của nhóm trong việc bảo vệ trật tự quốc tế dựa trên luật lệ ở khu vực Ấn Độ Dương - Thái Bình Dương, nhóm Bộ tứ Quad còn thảo luận và đưa ra loạt sáng kiến liên quan đến thương mại và an ninh khu vực.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/05/27/vovlive_vandequocte_hoinghithuongdinhnhombotuquad.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 26 May 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Nhiều khó khăn chờ đợi nhà lãnh đạo mới của Australia</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Cùng với thông tin về chuyến thăm Châu Á đầu tiên của Tổng thống Mỹ Joe Biden, cuộc bầu cử tại Australia tiếp tục thu hút sự chú ý của dư luận với chiến thắng cuối cùng thuộc về nhà lãnh đạo Công đảng Anthony Albanese. Theo kết quả kiểm phiếu sơ bộ, Công đảng giành được 72 ghế trong Hạ viện. Với kết quả này ông Anthony Albanese trở thành Thủ tướng thứ 31 của Australia và sẽ tuyên thệ nhậm chức vào ngày 23/5. Dự kiến nhà lãnh đạo mới của Australia cũng sẽ tham dự Hội nghị Thượng đỉnh Nhóm Bộ Tứ cùng các nhà lãnh đạo Mỹ, Ấn Độ, Nhật Bản diễn ra vào ngày 24/5 tại Tokyo. Mặc dù được đánh giá cao về khả năng kỹ trị, tuy nhiên, giới phân tích cho rằng nhà lãnh đạo mới của Australia sẽ phải đối mặt với nhiều thách thức, đặc biệt về đối nội và đối ngoại.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/05/24/vovlive_vandequocte_nhieukhokhanchodoinhalanhdaomoicuaaustralia.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 24 May 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
