@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 22 May 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 29 May 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 22 May 2022 19:00:00 +0700</pubDate>
+    <pubDate>Sun, 29 May 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Âm nhạc với cuộc sống</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Amnhacvoicuocsong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Tìm hiểu về mối duyên gắn bó Âm nhạc thiếu nhi với sự nghiệp sáng tác của nhạc sĩ Trần Nhật Bằng-Trưởng phòng Ca nhạc Thiếu nhi, Ban Âm nhạc VOV3, Đài TNVN</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[Kỷ niệm ngày Quốc tế Thiếu nhi, cùng gặp gỡ nhạc sĩ Trần Nhật Bằng với những chia sẻ về công việc, sự nghiệp sáng tác âm nhạc của anh và lắng nghe một số tác phẩm âm nhạc là món quà nhạc sĩ gửi tặng các em Thiếu nhi: “Sonatine cho violon, cello, piano”, “Bàn tay bé xinh” (phổ thơ Nguyễn Khắc Hào), “Thắp sáng những ngôi sao tương lai”…]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/05/30/vovlive_am_nhac_voi_cuoc_song_tran_nhat_bang.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 29 May 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>“Bài ca những anh hùng thầm lặng”: Tri ân lực lượng công an nhân dân trong công cuộc điều tra tội phạm phòng chống ma túy</title>
       <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
@@ -47,14 +55,6 @@
       <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/05/11/vovlive_am_nhac_voi_cuoc_song_dien_bien_trong_am_nhac.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 08 May 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Trách nhiệm của người nghệ sĩ đối với đất nước</title>
-      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[Những năm tháng kháng chiến chống Mỹ cứu nước, các nghệ sĩ bằng tâm huyết của mình đã thể hiện trách nhiệm với đất nước, đóng góp một phần sức lực nhỏ bé của mình vào chiến công to lớn thống nhất đất nước 30/4/1975, xứng đáng là những chiến sĩ trên mặt trận văn hóa như lời Chủ tịch Hồ Chí Minh đã dạy. Trong lĩnh vực âm nhạc, từ chiến dịch Hồ Chí Minh lịch sử tới ngày toàn thắng, các nghệ sĩ đã thể hiện tâm huyết về trách nhiệm của mình một cách xuất sắc nhất. Những tác phẩm âm nhạc vang lên kịp thời báo tin chiến thắng cũng như cổ vũ, động viên tinh thần người lính, đóng vai trò như một cánh quân xung trận theo bước chân đoàn quân tiến về giải phóng Sài Gòn. Trong chương trình, lắng nghe Nhà thơ, Nhạc sĩ Nguyễn Thụy Kha và nhạc sĩ Lê Tâm chia sẻ về chủ đề trách nhiệm của người nghệ sĩ với đất nước và thưởng thức các ca khúc “Đất nước trọn niềm vui” (Nhạc sĩ Hoàng Hà, Trình bày: NSND Trung Kiên), “Âm vang nhà máy” (Trình bày: NS Hữu Nội, NS Phương Quý và Tốp nữ Nhà Hát Đài TNVN); “Tiếng Việt” (Nhạc sĩ: Lê Tâm, Trình bày: Ca sĩ Phương Thúy)…]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/05/05/vovlive_am_nhac_voi_cuoc_song_trach_nhiem_cua_nguoi_nghe_si_voi_dat_nuoc.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 01 May 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
