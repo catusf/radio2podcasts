@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 02 Jun 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jun 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 02 Jun 2022 19:00:00 +0700</pubDate>
+    <pubDate>Fri, 03 Jun 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Nga tìm cách “gỡ thế khó” của lệnh trừng phạt</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Ngoại trưởng Nga Sergei Lavrov đã thăm Ả-rập Xê-út và có cuộc gặp với Ngoại trưởng 6 nước thuộc Hội đồng Hợp tác vùng Vịnh (GCC). Cuộc gặp diễn ra ngay trước khi Tổ chức các nước xuất khẩu dầu mỏ và các đối tác (OPEC+) nhóm họp tại Viên (Áo). Vì thế, nội dung được dư luận quốc tế rất quan tâm là quan điểm của Nga và các nước Hội đồng Hợp tác vùng Vịnh liên quan đến sản lượng và giá dầu mỏ thế giới. Nếu phía Nga tìm đến Hội đồng Hợp tác vùng Vịnh nhằm “gỡ thế khó” của các lệnh trừng phạt mà phương Tây đang áp đặt với Nga, thì ngược lại, các nước Hội đồng Hợp tác vùng Vịnh cũng mong muốn Nga thể hiện vai trò với Iran nhằm ngăn chặn nguy cơ mất an ninh ở khu vực liên quan đến chương trình hạt nhân của Iran. Vậy những lợi ích của các bên đã cùng được đặt lên bàn thảo luận trong cuộc gặp hôm qua như thế nào?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/06/02/vovlive_vandequocte_ngatimcachgothekhocualenhtrungphat.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 03 Jun 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Đan Mạch trưng cầu ý dân về tham gia chính sách quốc phòng Liên minh Châu Âu (EU)</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/05/31/vovlive_vandequocte_trungquocgiatanganhhuongokhuvucthaibinhduong.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 31 May 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Thổ Nhĩ Kỳ tiếp tục gây sức ép với phương Tây trong việc Thụy Điển, Phần Lan gia nhập NATO</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Ngay khi Thụy Điển và Phần Lan tuyên bố nộp đơn xin gia nhập Tổ chức Hiệp ước Bắc Đại Tây Dương (NATO), Thổ Nhĩ Kỳ đã lên tiếng phản đối và nêu lên những mối lo ngại an ninh với quốc gia. Giới chức NATO cho rằng các bên có thể thảo luận để tìm ra giải pháp, hướng tới mở cánh cửa NATO đối với hai quốc gia Bắc Âu. Tuy nhiên, việc thảo luận không mấy tiến triển khiến Thổ Nhĩ Kỳ tiếp tục bày tỏ quan điểm cứng rắn hơn trong vấn đề này. Trong diễn biến mới nhất, Thổ Nhĩ Kỳ tuyên bố Thụy Điển và Phần Lan phải có bước đi cụ thể giải quyết sự hiện diện của các tổ chức khủng bố tại hai quốc gia này, đồng thời dọa có thể rút khỏi NATO. Giới phân tích cho rằng, những tuyên bố của Thổ Nhĩ Kỳ không chỉ hướng tới Thụy Điển và Phần Lan mà còn nhằm gây sức ép với phương Tây, trong bối cảnh mối quan hệ giữa Thổ Nhĩ Kỳ và phương Tây gần đây có khá nhiều khúc mắc.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/05/27/vovlive_vandequocte_thonhikytieptucgaysucepvoiphuongtaytrongviecthuydienphanlan.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 28 May 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
