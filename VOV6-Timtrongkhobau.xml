@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 27 May 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jun 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 27 May 2022 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 02 Jun 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,16 @@
     <itunes:subtitle>Tìm trong kho báu</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Timtrongkhobau.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Di sản thi ca của Thiền phái Trúc Lâm đời Trần 27/5/2022</title>
+      <title>Sáng tác văn thơ thời vãn Trần
+ 2/6/2022</title>
+      <link>http://vov6.vov.vn/tim-trong-kho-bau/sang-tac-van-tho-thoi-van-tran-c54-34501.aspx</link>
+      <description><![CDATA[Trở lại với nội dung sáng tác văn thơ thời vãn Trần cũng như hoạt động của Bích Động thi xã, buổi “Tìm trong kho báu” hôm nay điểm qua di sản thơ văn của những tên tuổi tiêu biểu như nhà thơ, danh sỹ Nguyễn Ức, Nguyễn Trung Ngạn, vua Trần Minh Tông]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/sang-tac-van-tho-thoi-van-tran-c54-34501.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/v2_020606_18h30_tim_trong_kho_bau_26202215.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 02 Jun 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Di sản thi ca của Thiền phái Trúc Lâm đời Trần  27/5/2022</title>
       <link>http://vov6.vov.vn/tim-trong-kho-bau/di-san-thi-ca-cua-thien-phai-truc-lam-doi-tran-c54-34486.aspx</link>
       <description><![CDATA[Thời Lý – Trần ở nước ta được xem là giai đoạn hết sức hưng thịnh của Phật giáo. Đó cũng là thời kỳ ra đời dòng thiền Trúc Lâm Yên Tử với những tên tuổi lớn của văn học trung đại. Buổi “Tìm trong kho báu” hôm nay của Ban VHNT VOV6 tìm về với cội nguồn những trung tâm Phật giáo, nơi phát tích dòng thiền và những nhóm phái văn học đặc sắc thời Trần.]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/di-san-thi-ca-cua-thien-phai-truc-lam-doi-tran-c54-34486.aspx</guid>
@@ -38,14 +47,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/dac-sac-truong-tho-bich-dong-thi-xa-c54-34461.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/v2_192305_18h30_tim_trong_kho_bau_235202215.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 19 May 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Di sản thơ văn các hoàng đế triều Nguyễn  12/5/2022</title>
-      <link>http://vov6.vov.vn/tim-trong-kho-bau/di-san-tho-van-cac-hoang-de-trieu-nguyen-c54-34449.aspx</link>
-      <description><![CDATA[Buổi “Tìm trong kho báu” số trước đã cung cấp những nhận định khái quát về phong trào sáng tác và xướng họa trong cung đình nước ta thời trung đại. Chương trình hôm nay tiếp tục có những góc nhìn cận cảnh vào di sản thơ văn của các hoàng đế triều Nguyễn – Đồng thời nối dài ra phong trào sáng tác ở làng xã cùng sự ra đời, phát triển của các văn hội trong xã hội phong kiến.]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/di-san-tho-van-cac-hoang-de-trieu-nguyen-c54-34449.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/v2_121605_18h30_tim_trong_kho_bau_save_13520228.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 12 May 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
