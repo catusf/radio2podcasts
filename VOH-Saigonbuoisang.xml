@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 03 Jun 2022 04:56:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jun 2022 16:18:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 03 Jun 2022 04:56:00 +0700</pubDate>
+    <pubDate>Fri, 03 Jun 2022 16:18:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Gồng mình trong cơn bão giá - Sài Gòn buổi sáng 3/6/2022</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/gong-minh-trong-con-bao-gia-sai-gon-buoi-sang-3-6-2022-436875.html</link>
+      <description><![CDATA[09:18 - 03/06/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/gong-minh-trong-con-bao-gia-sai-gon-buoi-sang-3-6-2022-436875.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/06/03/FMSGBS06h00p030622-20220603062746.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 03 Jun 2022 16:18:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Các địa phương quyết liệt phòng chống dịch bệnh sốt xuất huyết - Sài Gòn buổi sáng 2/6/2022</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/cac-dia-phuong-quyet-liet-phong-chong-dich-benh-sot-xuat-huyet-sai-gon-buoi-sang-2-6-2022-436837.html</link>
       <description><![CDATA[21:56 - 02/06/2022]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/cac-dia-phuong-quyet-liet-phong-chong-dich-benh-sot-xuat-huyet-sai-gon-buoi-sang-2-6-2022-436837.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/06/02/FMSGBS06h00p020622-20220602062944-Copy.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 03 Jun 2022 04:56:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Giá gas lần thứ 2 hạ nhiệt, giá xăng dự báo tăng vượt ngưỡng - Sài Gòn buổi sáng 01/06/2022</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/gia-gas-lan-thu-2-ha-nhiet-gia-xang-du-bao-tang-vuot-nguong-sai-gon-buoi-sang-01-06-2022-436647.html</link>
-      <description><![CDATA[06:00 - 01/06/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/gia-gas-lan-thu-2-ha-nhiet-gia-xang-du-bao-tang-vuot-nguong-sai-gon-buoi-sang-01-06-2022-436647.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/06/01/FM999-SGBUOISANG06h00p010622.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jun 2022 13:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
