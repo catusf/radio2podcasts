@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 04 Jun 2022 18:50:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jun 2022 03:01:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 04 Jun 2022 18:50:00 +0700</pubDate>
+    <pubDate>Sun, 05 Jun 2022 03:01:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Tuần làm việc thứ 2 của Kỳ họp thứ 3 - Quốc hội khóa 15 - Thời sự 17g00 4/6/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tuan-lam-viec-thu-2-cua-ky-hop-thu-3-quoc-hoi-khoa-15-thoi-su-17g00-4-6-2022-437038.html</link>
+      <description><![CDATA[20:01 - 04/06/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tuan-lam-viec-thu-2-cua-ky-hop-thu-3-quoc-hoi-khoa-15-thoi-su-17g00-4-6-2022-437038.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/06/04/AMThoisu17h00p040622sss.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 05 Jun 2022 03:01:00 +0700</pubDate>
+    </item>
     <item>
       <title>Nữ tuyển thủ quốc gia Huỳnh Như: Luôn nỗ lực theo đuổi đam mê bóng đá – Thời sự 11g00 4/6/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/nu-tuyen-thu-quoc-gia-huynh-nhu-luon-no-luc-theo-duoi-dam-me-bong-da-thoi-su-11g00-4-6-2022-436995.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tu-cac-cong-trinh-van-hoa-mang-dam-net-dac-trung-thanh-pho-thoi-su-05g30-4-6-2022-436990.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/06/04/AMThoisu05h30p040622ss.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 04 Jun 2022 17:54:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Bộ Y tế gia hạn yêu cầu 13 tỉnh, thành nhận vaccine Covid-19 - Thời sự 17g00 3/6/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/bo-y-te-gia-han-yeu-cau-13-tinh-thanh-nhan-vaccine-covid-19-thoi-su-17g00-3-6-2022-436954.html</link>
-      <description><![CDATA[20:38 - 03/06/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/bo-y-te-gia-han-yeu-cau-13-tinh-thanh-nhan-vaccine-covid-19-thoi-su-17g00-3-6-2022-436954.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/06/03/AMThoisu17h00p030622-20220603174916.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 04 Jun 2022 03:38:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
