@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 31 May 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jun 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 31 May 2022 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 06 Jun 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Văn nghệ thiếu nhi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Vannghethieunhi.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Xây dựng tủ sách trong nhà trường  31/5/2022</title>
+      <title>Chuyên đề ôn tập ngữ văn 12 (Phần 1)  6/6/2022</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/chuyen-de-on-tap-ngu-van-12-phan-1-c44-34507.aspx</link>
+      <description><![CDATA[Mùa thi cuối cấp đã gõ cửa. Những ngày này, chương trình Văn nghệ thiếu nhi - Trang văn học nhà trường dành chuyên đề ôn tập ngữ văn 12 cho các bạn cuối cấp chuẩn bị bước vào kỳ thi tốt nghiệp THPT. Đồng hành với chương trình là Tiến sĩ văn học Đỗ Thanh Nga công tác tại Viện Văn học. Cô sẽ cùng chúng mình hệ thống lại các kiến thức cơ bản nhé! (Văn nghệ thiếu nhi 06/06/2022)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/chuyen-de-on-tap-ngu-van-12-phan-1-c44-34507.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2022_6/v2_0606_10h4518h15_van_nghe_thieu_nhi_1_66202211.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 06 Jun 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Xây dựng tủ sách trong nhà trường   31/5/2022</title>
       <link>http://vov6.vov.vn/van-nghe-thieu-nhi/xay-dung-tu-sach-trong-nha-truong-c44-34499.aspx</link>
       <description><![CDATA[Một năm học đã qua. Chúng mình vừa trải qua những bài kiểm tra các môn khá vất vả. Mong rằng năm học tới sẽ có nhiều hoạt động bổ ích hơn nữa. Trong chương trình hôm nay, cô giáo Hà Vinh Tâm sẽ chia sẻ với chúng mình về tủ sách “Sách và hành động” do cô và các bạn học sinh trường THPT Cửa Lò, Nghệ An xây dựng. (Văn nghệ thiếu nhi 30/05/2022)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/xay-dung-tu-sach-trong-nha-truong-c44-34499.aspx</guid>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-charlie-va-nha-may-socola-buoi-dau-tien-gia-dinh-charlie-c44-34498.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2022_5/v2_2905_10h4518h15_van_nghe_thieu_nhi_1_315202210.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 31 May 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đọc truyện "Ông già Khốt-ta-bít" - Buổi 59 - Những trang cuối cùng   29/5/2022</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-ong-gia-khot-ta-bit-buoi-59-nhung-trang-cuoi-cung-c44-34495.aspx</link>
-      <description><![CDATA[Ông già Khốt-ta-bít đang rất buồn, luôn giấu mình trong bể cá. Em trai ông sẽ không bao giờ trở về trái đất được nữa. Vôn-ca và Giê-ni-a rất hiểu tính cách của ông nên nghĩ ra  một kế hoạch để giúp ông vui vẻ trở lại cuộc sống bình thường... (Văn nghệ thiếu nhi 28/05/2022)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-ong-gia-khot-ta-bit-buoi-59-nhung-trang-cuoi-cung-c44-34495.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2022_5/v2_2805_10h4518h15_van_nghe_thieu_nhi_295202215.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 29 May 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
