@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 03 Jun 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jun 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 03 Jun 2022 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 07 Jun 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Liên minh Châu Phi tìm Nga để giải bài toán an ninh lương thực</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Người đứng đầu Liên minh Châu Phi, ông Macky Sall đã có chuyến thăm Nga và hội đàm với Tổng thống Nga Vladimir Putin tại thành phố Sochi. Nội dung chính được hai bên bàn thảo là vấn đề an ninh lương thực. Châu Phi đang phải đối mặt với một cuộc khủng hoảng lương thực nghiêm trọng chưa từng có, nhất là khi xung đột Nga – Ukraine làm gián đoạn nguồn cung phân bón, lúa mì, khiến giá lương thực leo thang. Trong bối cảnh này, Liên minh Châu Phi đang trông đợi gì từ phía Nga để giải quyết khủng hoảng lương thực? Liệu có giải pháp hữu hiệu cho vấn đề này khi chiến sự giữa Nga và Ukraine vẫn căng thẳng kéo dài?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/06/06/vovlive_vandequocte_lienminhchauautimngadegiaibaitoananninhluongthuc.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 07 Jun 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Nga tìm cách “gỡ thế khó” của lệnh trừng phạt</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/05/31/vovlive_vandequocte_nguycochiarebaotrumhoinghithuongdinhbatthuongeu.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 01 Jun 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Trung Quốc gia tăng ảnh hưởng ở khu vực Thái Bình Dương</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Ngày 30/05, Ngoại trưởng Trung Quốc Vương Nghị sẽ chủ trì cuộc họp cấp cao ngoại trưởng Trung Quốc và các quốc đảo Thái Bình Dương lần thứ hai tại Fiji. Đây là lần đầu tiên hội nghị này được tổ chức ở một quốc đảo. Dự kiến tại hội nghị, Ngoại trưởng Trung Quốc sẽ công bố một văn bản có tên gọi là “Tầm nhìn phát triển toàn diện”. Giới quan sát nhìn nhận đây là một nỗ lực mới mà Trung Quốc muốn gia tăng ảnh hưởng ở khu vực. Những động thái xích lại gần hơn với các quốc đảo ở Thái Bình Dương của Trung Quốc đã khiến Mỹ, Australia và Newzealand lo ngại khi khu vực này đang trở thành tâm điểm trong các hoạt động ngoại giao của Trung Quốc thời gian gần đây. Những động thái này của Trung Quốc tác động ra sao tới cuộc đua giành ảnh hưởng giữa Trung Quốc và Australia ở khu vực Thái Bình Dương. Liệu các nước Nam Thái Bình Dương có bị cuốn vào cuộc tranh ảnh hưởng này?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/05/31/vovlive_vandequocte_trungquocgiatanganhhuongokhuvucthaibinhduong.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 31 May 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
