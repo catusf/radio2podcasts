@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 30 May 2022 05:08:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jun 2022 23:16:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 30 May 2022 05:08:00 +0700</pubDate>
+    <pubDate>Sun, 05 Jun 2022 23:16:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Cửa sổ văn học trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Cuasovanhoc.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Chào đón mùa hè với những tác phẩm dành cho thiếu nhi - Cửa sổ văn học - 5/6/2022</title>
+      <link>https://radio.voh.com.vn/cua-so-van-hoc/chao-don-mua-he-voi-nhung-tac-pham-danh-cho-thieu-nhi-cua-so-van-hoc-5-6-2022-437085.html</link>
+      <description><![CDATA[16:16 - 05/06/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/chao-don-mua-he-voi-nhung-tac-pham-danh-cho-thieu-nhi-cua-so-van-hoc-5-6-2022-437085.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/06/05/FMCuasovanhoc07h00p050622-20220604181436.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 05 Jun 2022 23:16:00 +0700</pubDate>
+    </item>
     <item>
       <title>Cửa sổ văn học - 29/5/2022</title>
       <link>https://radio.voh.com.vn/cua-so-van-hoc/cua-so-van-hoc-29-5-2022-436351.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/cua-so-van-hoc-22-5-2022-435592.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/05/22/FMCuasovanhoc07h00p220522-20220521172735-2022052117273.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 22 May 2022 20:13:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Cửa sổ văn học - 15/5/2022</title>
-      <link>https://radio.voh.com.vn/cua-so-van-hoc/cua-so-van-hoc-15-5-2022-434912.html</link>
-      <description><![CDATA[13:11 - 15/05/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/cua-so-van-hoc-15-5-2022-434912.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/05/15/FMCuasovanhoc07h00p150522.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 15 May 2022 20:11:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
