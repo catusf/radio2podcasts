@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 07 Jun 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jun 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 07 Jun 2022 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 08 Jun 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Tổng thống Mỹ và những mục tiêu chiến lược tại Hội nghị thượng đỉnh Châu Mỹ</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Từ ngày 6 -10/6, Mỹ đăng cai tổ chức Hội nghị thượng đỉnh các nước Châu Mỹ lần thứ 9 tại Los Angeles. Sự kiện được mong chờ và chuẩn bị từ lâu đang kỳ vọng sẽ giúp Mỹ “sửa chữa” những rạn nứt bấy lâu và hâm nóng lại quan hệ giữa Washington với các quốc gia trong khu vực, từ đó tái khẳng định vị thế của Mỹ trước ảnh hưởng ngày càng tăng của Trung Quốc ở Mỹ Latinh. Kỳ vọng là vậy, tuy nhiên để hội nghị có thể thành công như mong muốn, Tổng thống Mỹ Joe Biden đang đứng trước không ít khó khăn để có thể tái gắn kết các nước láng giềng phía Nam. Đó là những thách thức gì? Đâu là triển vọng của hội nghị thượng đỉnh các nước Châu Mỹ lần này?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/06/07/vovlive_vandequocte_tongthongmyvanhungmuctieuchienluoctaihoinghithuongdinhchaumy.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 08 Jun 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Liên minh Châu Phi tìm Nga để giải bài toán an ninh lương thực</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/06/01/vovlive_vandequocte_danmachtrungcauydanvethamgiachinhsachquocphong.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 02 Jun 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Nguy cơ chia rẽ bao trùm Hội nghị thượng đỉnh bất thường Liên minh Châu Âu (EU)</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Sau rất nhiều mâu thuẫn, tranh cãi cho thấy nguy cơ rạn nứt ngày càng lớn, các nhà lãnh đạo Liên minh Châu Âu (EU) vừa đạt được thỏa thuận cấm vận dầu mỏ Nga trong gói trừng phạt mới. Theo đó, từ nay đến cuối năm, Châu Âu sẽ cắt giảm 2/3 nguồn dầu mỏ nhập từ Nga. Thỏa thuận đột phá này vừa đạt được trong khuôn khổ Hội nghị thượng đỉnh bất thường của khối này đang diễn ra trong 2 ngày 30/5 - 31/5. Liệu bước tiến này có thể mở ra các giải pháp nào để thu hẹp bất đồng, duy trì sự đoàn kết thống nhất của EU trước nhiều thách thức như hiện nay?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/05/31/vovlive_vandequocte_nguycochiarebaotrumhoinghithuongdinhbatthuongeu.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jun 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
