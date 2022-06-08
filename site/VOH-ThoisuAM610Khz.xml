@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 08 Jun 2022 18:14:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jun 2022 23:24:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 08 Jun 2022 18:14:00 +0700</pubDate>
+    <pubDate>Wed, 08 Jun 2022 23:24:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Khai mạc diễn đàn Kinh tế Việt Nam: Xây dựng nền kinh tế độc lập, tự chủ - Thời sự 11g00 5/6/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/khai-mac-dien-dan-kinh-te-viet-nam-xay-dung-nen-kinh-te-doc-lap-tu-chu-thoi-su-11g00-5-6-2022-437414.html</link>
+      <description><![CDATA[16:24 - 08/06/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/khai-mac-dien-dan-kinh-te-viet-nam-xay-dung-nen-kinh-te-doc-lap-tu-chu-thoi-su-11g00-5-6-2022-437414.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/06/08/AM610-THOISU30P11h00p050622.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 08 Jun 2022 23:24:00 +0700</pubDate>
+    </item>
     <item>
       <title>Quốc hội tiếp tục phiên chất vấn và trả lời chất vấn – Thời sự 11g00 8/6/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/quoc-hoi-tiep-tuc-phien-chat-van-va-tra-loi-chat-van-thoi-su-11g00-8-6-2022-437385.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/ngan-chan-hanh-vi-loi-dung-hien-mau-tinh-nguyen-de-truc-loi-thoi-su-17g00-7-6-2022-437320.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/06/07/AMThoisu17h00p070622-20220607171504.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 08 Jun 2022 00:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chăm sóc sức khoẻ tinh thần cho người dân trong giai đoạn phục hồi kinh tế - Thời sự 11g00 7/6/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/cham-soc-suc-khoe-tinh-than-cho-nguoi-dan-trong-giai-doan-phuc-hoi-kinh-te-thoi-su-11g00-7-6-2022-437279.html</link>
-      <description><![CDATA[11:00 - 07/06/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/cham-soc-suc-khoe-tinh-than-cho-nguoi-dan-trong-giai-doan-phuc-hoi-kinh-te-thoi-su-11g00-7-6-2022-437279.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/06/07/ts11g00-070622.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 07 Jun 2022 18:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
