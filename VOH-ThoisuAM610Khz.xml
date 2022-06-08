@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 08 Jun 2022 00:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jun 2022 18:14:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 08 Jun 2022 00:00:00 +0700</pubDate>
+    <pubDate>Wed, 08 Jun 2022 18:14:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Quốc hội tiếp tục phiên chất vấn và trả lời chất vấn – Thời sự 11g00 8/6/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/quoc-hoi-tiep-tuc-phien-chat-van-va-tra-loi-chat-van-thoi-su-11g00-8-6-2022-437385.html</link>
+      <description><![CDATA[11:14 - 08/06/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/quoc-hoi-tiep-tuc-phien-chat-van-va-tra-loi-chat-van-thoi-su-11g00-8-6-2022-437385.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/06/08/AMThoisu11h00p080622-20220608104208.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 08 Jun 2022 18:14:00 +0700</pubDate>
+    </item>
     <item>
       <title>Ngăn chặn hành vi lợi dụng hiến máu tình nguyện để trục lợi - Thời sự 17g00 7/6/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/ngan-chan-hanh-vi-loi-dung-hien-mau-tinh-nguyen-de-truc-loi-thoi-su-17g00-7-6-2022-437320.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/cham-soc-suc-khoe-tinh-than-cho-nguoi-dan-trong-giai-doan-phuc-hoi-kinh-te-thoi-su-11g00-7-6-2022-437279.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/06/07/ts11g00-070622.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 07 Jun 2022 18:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Sự cố y khoa - chia sẻ từ sự cầu thị và thấu hiểu (Bài 2) - Thời sự 05g30 7/6/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/su-co-y-khoa-chia-se-tu-su-cau-thi-va-thau-hieu-bai-2-thoi-su-05g30-7-6-2022-437251.html</link>
-      <description><![CDATA[05:30 - 07/06/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/su-co-y-khoa-chia-se-tu-su-cau-thi-va-thau-hieu-bai-2-thoi-su-05g30-7-6-2022-437251.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/06/07/ts05g30-070622.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 07 Jun 2022 12:30:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
