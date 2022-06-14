@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 02 Jun 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jun 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 02 Jun 2022 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 09 Jun 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,8 +24,17 @@
     <itunes:subtitle>Tìm trong kho báu</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Timtrongkhobau.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Hình ảnh Văn Huệ Vương – Trần Quang Triều trong thơ thành viên Bích Động thi xã
+ 9/6/2022</title>
+      <link>http://vov6.vov.vn/tim-trong-kho-bau/hinh-anh-van-hue-vuong-tran-quang-trieu-trong-tho-thanh-vien-bich-dong-thi-xa-c54-34514.aspx</link>
+      <description><![CDATA[Văn Huệ Vương – Trần Quang Triều là chủ soái, linh hồn của Bích Động thi xã. Trong các đàm đạo, xướng họa thơ văn của thi xã, ông vừa đóng vai trò là người chủ trì vừa thể hiện tài năng, khí chất hơn người. Bởi thế, trong nhiều tứ thơ các thành viên chủ chốt của Bích Động thi xã như Nguyễn Ức, Nguyễn Sưởng đều thấp thoáng hình ảnh vị chủ soái tài hoa cũng như bày tỏ niềm kính phục với tài năng, phẩm cách của ông]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/hinh-anh-van-hue-vuong-tran-quang-trieu-trong-tho-thanh-vien-bich-dong-thi-xa-c54-34514.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/v2_091306_18h30_tim_trong_kho_bau_96202215.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 09 Jun 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Sáng tác văn thơ thời vãn Trần
- 2/6/2022</title>
+  2/6/2022</title>
       <link>http://vov6.vov.vn/tim-trong-kho-bau/sang-tac-van-tho-thoi-van-tran-c54-34501.aspx</link>
       <description><![CDATA[Trở lại với nội dung sáng tác văn thơ thời vãn Trần cũng như hoạt động của Bích Động thi xã, buổi “Tìm trong kho báu” hôm nay điểm qua di sản thơ văn của những tên tuổi tiêu biểu như nhà thơ, danh sỹ Nguyễn Ức, Nguyễn Trung Ngạn, vua Trần Minh Tông]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/sang-tac-van-tho-thoi-van-tran-c54-34501.aspx</guid>
@@ -39,14 +48,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/di-san-thi-ca-cua-thien-phai-truc-lam-doi-tran-c54-34486.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2022_5/v2_263005_18h30_tim_trong_kho_bau_27520228.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 27 May 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đặc sắc trường thơ Bích Động thi xã  19/5/2022</title>
-      <link>http://vov6.vov.vn/tim-trong-kho-bau/dac-sac-truong-tho-bich-dong-thi-xa-c54-34461.aspx</link>
-      <description><![CDATA[Từ trước đến nay, nhiều nghiên cứu về văn học thời trung đại vẫn cho rằng Tao đàn nhị thập bát tú thời vua Lê Thánh Tông là hội thơ đầu tiên của nước ta. Trên thực tế, trước đó rất lâu, từ thời nhà Trần, đã có sự xuất hiện của một thi xã mang tên Bích Động do danh tướng Trần Quang Triều sáng lập nên. Buổi “Tìm trong kho báu” hôm nay của Ban VHNT (VOV6) có những giải mã về thi xã với các thành viên đều là những danh nho, danh tướng thời vãn Trần.]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/dac-sac-truong-tho-bich-dong-thi-xa-c54-34461.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/v2_192305_18h30_tim_trong_kho_bau_235202215.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 19 May 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 09 Jun 2022 13:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jun 2022 17:11:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 09 Jun 2022 13:00:00 +0700</pubDate>
+    <pubDate>Mon, 13 Jun 2022 17:11:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>TPHCM gấp rút xác nhận để hỗ trợ tiền trọ cho người lao động - Sài Gòn Buổi Sáng 09/06/2022</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/tphcm-gap-rut-xac-nhan-de-ho-tro-tien-tro-cho-nguoi-lao-dong-sai-gon-buoi-sang-09-06-2022-437486.html</link>
-      <description><![CDATA[06:00 - 09/06/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/tphcm-gap-rut-xac-nhan-de-ho-tro-tien-tro-cho-nguoi-lao-dong-sai-gon-buoi-sang-09-06-2022-437486.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/06/09/FMSGBS06h00p090622.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 09 Jun 2022 13:00:00 +0700</pubDate>
+      <title>Tháng hành động vì trẻ em 2022 - Sài Gòn buổi sáng 13/6/2022</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/thang-hanh-dong-vi-tre-em-2022-sai-gon-buoi-sang-13-6-2022-437913.html</link>
+      <description><![CDATA[10:11 - 13/06/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/thang-hanh-dong-vi-tre-em-2022-sai-gon-buoi-sang-13-6-2022-437913.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/06/13/FMSGBS06h00p130622-20220613070219.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 13 Jun 2022 17:11:00 +0700</pubDate>
     </item>
     <item>
-      <title>Nhu cầu xuất cảnh tăng cao - Sài Gòn buổi sáng 7/6/2022</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/nhu-cau-xuat-canh-tang-cao-sai-gon-buoi-sang-7-6-2022-437261.html</link>
-      <description><![CDATA[06:00 - 07/06/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/nhu-cau-xuat-canh-tang-cao-sai-gon-buoi-sang-7-6-2022-437261.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/06/07/FMSGBS06h00p070622.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 07 Jun 2022 13:00:00 +0700</pubDate>
+      <title>Dấu ấn cuộc thi Ảnh nghệ thuật quốc tế lần 11 tại Việt Nam - Sài Gòn buổi sáng 12/6/2022</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/dau-an-cuoc-thi-anh-nghe-thuat-quoc-te-lan-11-tai-viet-nam-sai-gon-buoi-sang-12-6-2022-437773.html</link>
+      <description><![CDATA[12:21 - 12/06/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/dau-an-cuoc-thi-anh-nghe-thuat-quoc-te-lan-11-tai-viet-nam-sai-gon-buoi-sang-12-6-2022-437773.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/06/12/FMSaigonbuoisang06h00p120622ss.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 12 Jun 2022 19:21:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
