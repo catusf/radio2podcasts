@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 06 Jun 2022 03:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jun 2022 03:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 06 Jun 2022 03:00:00 +0700</pubDate>
+    <pubDate>Mon, 13 Jun 2022 03:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sóng điện ảnh trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Songdienanh.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Hậu trường phim Em và Trịnh - Khung hình thứ 25 12/6/2022</title>
+      <link>https://radio.voh.com.vn/khung-hinh-thu-25/hau-truong-phim-em-va-trinh-khung-hinh-thu-25-12-6-2022-437847.html</link>
+      <description><![CDATA[20:00 - 12/06/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/khung-hinh-thu-25/hau-truong-phim-em-va-trinh-khung-hinh-thu-25-12-6-2022-437847.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/06/13/khunghinh-120622.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 13 Jun 2022 03:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Hậu trường phim Maika - Cô bé đến từ hành tinh khác (Kỳ 2) - Khung hình thứ 25 5/6/2022</title>
       <link>https://radio.voh.com.vn/khung-hinh-thu-25/hau-truong-phim-maika-co-be-den-tu-hanh-tinh-khac-ky-2-khung-hinh-thu-25-5-6-2022-437107.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/khung-hinh-thu-25/giao-luu-voi-cac-dien-vien-phim-ke-thu-ba-khung-hinh-thu-25-17-5-2022-434986.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/05/16/khunghinh-170522.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 17 May 2022 16:05:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Các cặp diễn viên Hàn kết hôn sau khi đóng phim chung (Kỳ 2) - Khung hình thứ 25 8/5/2022</title>
-      <link>https://radio.voh.com.vn/khung-hinh-thu-25/cac-cap-dien-vien-han-ket-hon-sau-khi-dong-phim-chung-ky-2-khung-hinh-thu-25-8-5-2022-434235.html</link>
-      <description><![CDATA[20:00 - 08/05/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/khung-hinh-thu-25/cac-cap-dien-vien-han-ket-hon-sau-khi-dong-phim-chung-ky-2-khung-hinh-thu-25-8-5-2022-434235.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/05/09/khunghinh-8-522.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 09 May 2022 03:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
