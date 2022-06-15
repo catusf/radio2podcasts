@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 11 Jun 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jun 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 11 Jun 2022 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 15 Jun 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Lạm phát Mỹ tăng cao kỷ lục - Bài toán khó cho chính quyền của Tổng thống Joe Biden</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Bộ Lao động Mỹ vừa công bố các dữ liệu mới cho thấy, lạm phát Mỹ cán mốc 8,6% trong tháng 5 vừa qua, cao nhất kể từ năm 1981 đến nay, trong bối cảnh giá lương thực và xăng dầu tăng chóng mặt và chưa có dấu hiệu hạ nhiệt. Theo giới chuyên gia, nhiều khả năng lạm phát tại Mỹ sẽ lên tới 9% vào tháng 6 này. Lạm phát tăng cao ảnh hưởng không nhỏ tới tăng trưởng của nền kinh tế trong bối cảnh Chính phủ Mỹ đang nỗ lực phục hồi sau đại dịch Covid-19. Tuy nhiên, tăng lãi suất quá nhiều sẽ khiến nước Mỹ đối mặt với nguy cơ rơi vào suy thoái và đó mới là thách thức lớn nhất đối với nước Mỹ. Vậy đâu là những nguy cơ, thách thức mà chính quyền của Tổng thống Mỹ Joe Biden phải đối mặt khi mức lạm phát không ngừng phi mã?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/06/14/vovlive_vandequocte_lamphatmytangcaokyluc.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 15 Jun 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Đối thoại Shangri La 2022: Quản lý cạnh tranh địa chính trị trong một khu vực đa cực</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/06/08/vovlive_vandequocte_vaitrodongnamatrongchienluoccuaaustralia.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 09 Jun 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Tổng thống Mỹ và những mục tiêu chiến lược tại Hội nghị thượng đỉnh Châu Mỹ</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Từ ngày 6 -10/6, Mỹ đăng cai tổ chức Hội nghị thượng đỉnh các nước Châu Mỹ lần thứ 9 tại Los Angeles. Sự kiện được mong chờ và chuẩn bị từ lâu đang kỳ vọng sẽ giúp Mỹ “sửa chữa” những rạn nứt bấy lâu và hâm nóng lại quan hệ giữa Washington với các quốc gia trong khu vực, từ đó tái khẳng định vị thế của Mỹ trước ảnh hưởng ngày càng tăng của Trung Quốc ở Mỹ Latinh. Kỳ vọng là vậy, tuy nhiên để hội nghị có thể thành công như mong muốn, Tổng thống Mỹ Joe Biden đang đứng trước không ít khó khăn để có thể tái gắn kết các nước láng giềng phía Nam. Đó là những thách thức gì? Đâu là triển vọng của hội nghị thượng đỉnh các nước Châu Mỹ lần này?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/06/07/vovlive_vandequocte_tongthongmyvanhungmuctieuchienluoctaihoinghithuongdinhchaumy.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 08 Jun 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
