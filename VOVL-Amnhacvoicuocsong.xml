@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 05 Jun 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jun 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 05 Jun 2022 19:00:00 +0700</pubDate>
+    <pubDate>Sun, 12 Jun 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,15 @@
     </itunes:owner>
     <itunes:subtitle>Âm nhạc với cuộc sống</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Amnhacvoicuocsong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>“Tự khúc Hà Nội”: Những hoài niệm và nỗi nhớ thương về Hà Nội như với người con gái đã xa của chàng trai Hà Nội xa quê</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[- Kỷ niệm ngày Báo chí Cách mạng Việt Nam (21/6/2022), thưởng thức món quà âm nhạc “Tự khúc Hà Nội” (Âm nhạc Lê Trung Tín, Lời thơ: Nguyễn Hoàng Yến, Trình bày: Uyên Di) và nghe những chia sẻ về mối lương duyên giữa thơ và nhạc của nhà báo, nhà thơ Nguyễn Hoàng Yến và nhạc sĩ Lê Trung Tín về tác phẩm này.
+- Kỷ niệm quốc khánh Liên Bang Nga (12/6/2022) cùng lắng nghe những chia sẻ của nữ ca sĩ Yên Hà về hoàn cảnh ra đời của album những ca khúc tiếng Nga nổi tiếng “Niềm hy vọng” và thưởng thức các ca khúc: Đàn sếu, Niềm hy vọng…]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/06/16/vovlive_am_nhac_voi_cuoc_song_tu_khuc_ha_noi.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 12 Jun 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>“Dấu chân phía trước”: Mỗi duyên thơ - nhạc giữa nhà thơ Hồ Thi Ca và nhạc sĩ Phạm Minh Tuấn</title>
       <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
@@ -48,14 +57,6 @@
       <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/05/23/vovlive_am_nhac_voi_cuoc_song_bai_ca_nhung_anh_hung_tham_lang.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 22 May 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Một số ca khúc tiêu biểu về hình tượng Chủ tịch Hồ Chí Minh trong lịch sử Âm nhạc Cách mạng Việt Nam</title>
-      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[Chủ tịch Hồ Chí Minh là mẫu hình, là biểu tượng lớn lao và thiêng liêng không chỉ trong đời sống của dân tộc Việt mà trong văn học nghệ thuật hình ảnh người cũng là niềm cảm hứng bất tận cho những người nghệ sĩ. Kỷ niệm 132 năm ngày sinh Chủ tịch Hồ Chí Minh (19/5/1890-19/5/2022), trong chương trình, cùng nghe lại một số ca khúc tiêu biểu về hình tượng của Chủ tịch Hồ Chí Minh trong lịch sử Âm nhạc Cách mạng Việt Nam: Biết ơn Cụ Hồ Chí Minh (Nhạc sĩ Lương Bách Thụ); Nhớ ơn Hồ Chí Minh (Nhạc sĩ Tô Vũ, Lời thơ: Tác giả Hồng Lực); Tiếng hát giữa rừng Pắc Bó (Nhạc sĩ Nguyễn Tài Tuệ); Đêm nghe hát đò đưa nhớ Bác (Nhạc sĩ An Thuyên); Lãnh tụ ca (Nhạc sĩ Lưu Hữu Phước);…]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/05/18/vovlive_am_nhac_voi_cuoc_song_hinh_tuong_ho_chi_minh_trong_am_nhac.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 15 May 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
