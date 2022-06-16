@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 14 Jun 2022 13:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jun 2022 14:58:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 14 Jun 2022 13:00:00 +0700</pubDate>
+    <pubDate>Thu, 16 Jun 2022 14:58:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Người có thu nhập thấp thêm lo lắng vì giá xăng tăng - Sài Gòn buổi sáng 14/6/2022</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/nguoi-co-thu-nhap-thap-them-lo-lang-vi-gia-xang-tang-sai-gon-buoi-sang-14-6-2022-437969.html</link>
-      <description><![CDATA[06:00 - 14/06/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/nguoi-co-thu-nhap-thap-them-lo-lang-vi-gia-xang-tang-sai-gon-buoi-sang-14-6-2022-437969.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/06/14/sgbs-140622.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 14 Jun 2022 13:00:00 +0700</pubDate>
+      <title>Sài Gòn buổi sáng - 16/6/2022</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-16-6-2022-438233.html</link>
+      <description><![CDATA[07:58 - 16/06/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-16-6-2022-438233.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/06/16/FMSGBS06h00p160622-20220616070034.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 16 Jun 2022 14:58:00 +0700</pubDate>
     </item>
     <item>
-      <title>Tháng hành động vì trẻ em 2022 - Sài Gòn buổi sáng 13/6/2022</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/thang-hanh-dong-vi-tre-em-2022-sai-gon-buoi-sang-13-6-2022-437913.html</link>
-      <description><![CDATA[10:11 - 13/06/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/thang-hanh-dong-vi-tre-em-2022-sai-gon-buoi-sang-13-6-2022-437913.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/06/13/FMSGBS06h00p130622-20220613070219.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 13 Jun 2022 17:11:00 +0700</pubDate>
+      <title>Thành công từ những lối rẽ - Sài Gòn buổi sáng 15/6/2022</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/thanh-cong-tu-nhung-loi-re-sai-gon-buoi-sang-15-6-2022-438076.html</link>
+      <description><![CDATA[07:33 - 15/06/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/thanh-cong-tu-nhung-loi-re-sai-gon-buoi-sang-15-6-2022-438076.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/06/15/FMSGBS06h00p150622-20220615070423.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 15 Jun 2022 14:33:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
