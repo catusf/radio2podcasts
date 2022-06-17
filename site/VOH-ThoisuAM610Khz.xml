@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 16 Jun 2022 21:44:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jun 2022 12:30:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 16 Jun 2022 21:44:00 +0700</pubDate>
+    <pubDate>Fri, 17 Jun 2022 12:30:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Tiến độ thực hiện dự án tuyến metro số 1 đạt khoảng 91% - Thời sự 5g30 17/06/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tien-do-thuc-hien-du-an-tuyen-metro-so-1-dat-khoang-91-thoi-su-5g30-17-06-2022-438339.html</link>
+      <description><![CDATA[05:30 - 17/06/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tien-do-thuc-hien-du-an-tuyen-metro-so-1-dat-khoang-91-thoi-su-5g30-17-06-2022-438339.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/06/17/AMThoisu05h30p170622cx-20220616233939.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 17 Jun 2022 12:30:00 +0700</pubDate>
+    </item>
     <item>
       <title>Ngày làm việc thứ 19, Quốc hội đã thông qua nhiều nội dung quan trọng – Thời sự 11g00 16/6/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/ngay-lam-viec-thu-19-quoc-hoi-da-thong-qua-nhieu-noi-dung-quan-trong-thoi-su-11g00-16-6-2022-438278.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/quyen-tiep-can-thong-tin-cua-bao-chi-thoi-su-5g30-16-6-2022-438232.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/06/16/AMThoisu05h30p160622-20220615224419.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 16 Jun 2022 14:55:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Ngày làm việc thứ 18 của Kỳ họp thứ 3 Quốc hội khóa 15 - Thời sự 17g00 ngày 15/6/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/ngay-lam-viec-thu-18-cua-ky-hop-thu-3-quoc-hoi-khoa-15-thoi-su-17g00-ngay-15-6-2022-438207.html</link>
-      <description><![CDATA[23:33 - 15/06/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/ngay-lam-viec-thu-18-cua-ky-hop-thu-3-quoc-hoi-khoa-15-thoi-su-17g00-ngay-15-6-2022-438207.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/06/15/AMThoisu17h00p150622-20220615171409.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jun 2022 06:33:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
