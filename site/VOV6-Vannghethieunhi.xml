@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 14 Jun 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jun 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 14 Jun 2022 19:00:00 +0700</pubDate>
+    <pubDate>Sat, 18 Jun 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Văn nghệ thiếu nhi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Vannghethieunhi.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>"Trang sách hồng nằm mơ màng ngủ" 14/6/2022</title>
+      <title>Vui hè với phim hoạt hình  18/6/2022</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/vui-he-voi-phim-hoat-hinh-c44-34533.aspx</link>
+      <description><![CDATA[Hè này, tại Hà Nội, Trung tâm Chiếu phim Quốc gia phối hợp cùng Hãng phim Hoạt hình Việt Nam tổ chức chiếu các bộ phim hoạt hình trong nước để phục vụ khán giả mọi lứa tuổi, đặc biệt là khán giả nhỏ chúng mình. Các suất chiếu đều được bán với giá 0 đồng, và các bạn nhỏ có thể thỏa thích chọn lựa bộ phim phù hợp... (Văn nghệ thiếu nhi 15/06/2022)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/vui-he-voi-phim-hoat-hinh-c44-34533.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2022_6/v2_1506_10h4518h15_van_nghe_thieu_nhi_186202212.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 18 Jun 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>"Trang sách hồng nằm mơ màng ngủ"  14/6/2022</title>
       <link>http://vov6.vov.vn/van-nghe-thieu-nhi/trang-sach-hong-nam-mo-mang-ngu-c44-34528.aspx</link>
       <description><![CDATA[“Trang sách hồng nằm mơ màng ngủ” là chủ đề buổi giao lưu nhân kỷ niệm 65 năm ngày thành lập Nhà xuất bản Kim Đồng. Trong suốt những năm qua Nhà xuất bản Kim Đồng đã bền bỉ, nỗ lực không ngừng để trở thành địa chỉ hàng đầu về sách với nội dung, đề tài phong phú, góp phần quan trọng vào việc đồng hành, định hướng văn hóa đọc đến với đông đảo bạn đọc nhỏ tuổi... (Văn nghệ thiếu nhi 09/06/2022)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/trang-sach-hong-nam-mo-mang-ngu-c44-34528.aspx</guid>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/mo-cua-la-thay-hoa-c44-34527.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2022_6/v2_0706_10h4518h15_van_nghe_thieu_nhi_2_146202216.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 14 Jun 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chuyên đề ôn tập Ngữ văn 12 (Phần 2)   13/6/2022</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/chuyen-de-on-tap-ngu-van-12-phan-2-c44-34525.aspx</link>
-      <description><![CDATA[Tiếp tục ôn tập môn Ngữ văn 12, chúng mình cùng gặp lại tiến sĩ Đỗ Thanh Nga để nghe cô trao đổi về đề nghị luận xã hội.         Điều quan trọng nhất cần lưu ý trong quá trình ôn tập phần kiến thức này, đó là chúng mình phải có kiến thức xã hội, nắm được những vấn đề cần quan tâm, biết phân tích, đánh giá và thể hiện quan điểm của mình để bài viết thuyết phục... (Văn nghệ thiếu nhi 13/06/2022)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/chuyen-de-on-tap-ngu-van-12-phan-2-c44-34525.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2022_6/v2_1306_10h4518h15_van_nghe_thieu_nhi_2_136202216.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 13 Jun 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
