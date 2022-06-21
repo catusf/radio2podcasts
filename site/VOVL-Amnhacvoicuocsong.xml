@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 12 Jun 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jun 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 12 Jun 2022 19:00:00 +0700</pubDate>
+    <pubDate>Sun, 19 Jun 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,15 @@
     </itunes:owner>
     <itunes:subtitle>Âm nhạc với cuộc sống</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Amnhacvoicuocsong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>“Ký sự Trường Sa”: Ca khúc mới sôi động và đầy ý nghĩa về Trường Sa của nữ ca sĩ Hà Myo</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[- Hà Myo tên thật là Nguyễn Thị Ngọc Hà, bước ra từ cuộc thi “Giọng hát hay Hà Nội 2020” với một dấu ấn mạnh mẽ bởi "cú đúp": Giải Nhì chung cuộc và Giải Bài hát hay nhất về Hà Nội với “Xẩm Hà Nội”. Ngày 12/6 vừa qua cô đã cho ra mắt MV “Ký sự Trường Sa”. MV là món quà góp thêm nguồn cảm hứng và động lực lớn cho các chiến sĩ đang canh gác ngoài hải đảo xa xôi. “Ký sự Trường Sa” là một ca khúc hoàn toàn mới nhưng Hà Myo vẫn vẹn nguyên mong muốn mang nhiều nhất âm nhạc dân gian đến với khán giả cả nước. Cùng thưởng thức MV “Ký sự Trường Sa” và lắng nghe những chia sẻ của nữ ca sĩ về MV mới ra mắt này… 
+- Enrico Caruso là một giọng ca Ý được xếp vào một trong những tenor vĩ đại nhất thế giới. Ông là người đã đem những bài hát O Sole mio, hay La Donna Mobile trở thành huyền thoại của dòng nhạc Opera ở thế kỷ 20… cùng tìm hiểu về sự nghiệp âm nhạc của ông.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/06/20/vovlive_am_nhac_voi_cuoc_song_ky_su_truong_sa.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 19 Jun 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>“Tự khúc Hà Nội”: Những hoài niệm và nỗi nhớ thương về Hà Nội như với người con gái đã xa của chàng trai Hà Nội xa quê</title>
       <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
@@ -48,15 +57,6 @@
       <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/05/30/vovlive_am_nhac_voi_cuoc_song_tran_nhat_bang.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 29 May 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>“Bài ca những anh hùng thầm lặng”: Tri ân lực lượng công an nhân dân trong công cuộc điều tra tội phạm phòng chống ma túy</title>
-      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[- Thưởng thức ca khúc “Bài ca những anh hùng thầm lặng” (Sáng tác và trình bày: Sao mai Hiền Anh) - ca khúc tái hiện những chiến công hiển hách của lực lượng công an nhân dân nói chung, các cán bộ chiến sĩ cục Cảnh sát C47 nói riêng trong công cuộc điều tra tội phạm phòng chống ma túy đồng thời bày tỏ lòng cảm phục nỗi xót xa đối với những mất mát đau thương của người chiến sĩ để hoàn thành nhiệm vụ bảo vệ cuộc sống bình yên cho hàng vạn, hàng triệu người của Sao mai Hiền Anh và lắng nghe những chia sẻ của tác giả ca khúc.
-- Thưởng thức bản hùng ca “Tổ quốc” (Âm nhạc: Nhạc sĩ Lê Quang, Lời thơ: Nhà báo Nguyễn Thế Kỷ, Trình bày: NSND Quốc Hưng) và lắng nghe những chia sẻ của nhạc sĩ Lê Quang về ca khúc.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/05/23/vovlive_am_nhac_voi_cuoc_song_bai_ca_nhung_anh_hung_tham_lang.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 22 May 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
