@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 22 Jun 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jun 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 22 Jun 2022 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 23 Jun 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Biến động lớn trên chính trường Israel và những hệ lụy</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Chính trường Israel lại đang dậy sóng khi Thủ tướng nước này Naftali Bennett mới đây tuyên bố, Chính phủ liên minh của ông sẽ giải tán Quốc hội vào tuần tới. Theo ông Bennett, đây là một quyết định đúng đắn vì lợi ích của người dân Israel, đồng thời giữ gìn hình ảnh tốt đẹp của một liên minh đa dạng các đảng phái lần đầu tiên tại nước này. Tuy nhiên, theo giới quan sát, thực tế quyết định này được đưa ra sau rất nhiều mâu thuẫn trong nội bộ liên minh cầm quyền và với các phe phái đối lập tại Israel, báo hiệu sự khủng hoảng toàn diện trên chính trường nước này. Điều gì đang xảy ra tại nước này và những tác động?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/06/23/vovlive_vandequocte_biendonglontrenchinhtruongisraelvanhungheluy.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 23 Jun 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Mỹ xem xét điều chỉnh chính sách thuế đối với hàng hóa Trung Quốc: Lựa chọn chính trị hay kinh tế?</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/06/21/vovlive_vandequocte_thachthucnaodoivoiconghoasec.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 18 Jun 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Ấn Độ - ASEAN: Hướng tới thiết lập quan hệ Đối tác chiến lược toàn diện</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Bắt đầu thiết lập quan hệ đối tác đối thoại theo lĩnh vực từ năm 1992, nâng cấp lên thành quan hệ đối thoại đầy đủ vào năm 1995 và đối tác chiến lược vào năm 2012, hiện nay, mối quan hệ ASEAN - Ấn Độ đã gây dựng được những nền tảng phát triển vững chắc. Với Ấn Độ, ASEAN là trung tâm trong chính sách “Hành động Hướng Đông” cũng như tầm nhìn về một khu vực Ấn Độ Dương - Thái Bình Dương rộng lớn hơn của New Delhi. Đến nay, hai bên đã thiết lập 30 cơ chế đối thoại hiệu quả từ Cấp cao cho đến cấp Bộ trưởng. Nhân kỷ niệm 30 năm quan hệ đối tác đối thoại ASEAN - Ấn Độ, 10 năm hai bên nâng cấp lên quan hệ đối tác chiến lược và năm Hữu nghị Ấn Độ - ASEAN 2022, Bộ Ngoại giao Ấn Độ chủ trì loạt sự kiện quan trọng như Hội nghị đặc biệt Bộ trưởng Ngoại giao ASEAN - Ấn Độ lần đầu tiên, Đối thoại New Delhi lần thứ 12 nhằm đẩy mạnh hợp tác, phối hợp lập trường giữa hai bên trong bối cảnh thế giới và khu vực nhiều biến động.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/06/16/vovlive_vandequocte_andoaseanhuongtoithietlapquanhedoitacchienluoctoandien.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 17 Jun 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
