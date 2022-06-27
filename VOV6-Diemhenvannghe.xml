@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 10 Jun 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jun 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 10 Jun 2022 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 27 Jun 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Điểm hẹn văn nghệ</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Diemhenvannghe.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>“Truyện Kiều tự kể”: Khi thế hệ trẻ “viết lại” tác phẩm kinh điển với tư duy mới 10/6/2022</title>
+      <title>"Vết dao ngược đêm trăng": Thông điệp nhân văn về cuộc sống 27/6/2022</title>
+      <link>http://vov6.vov.vn/diem-hen-van-nghe/vet-dao-nguoc-dem-trang-thong-diep-nhan-van-ve-cuoc-song-c158-34542.aspx</link>
+      <description><![CDATA[“Vết dao ngược đêm trăng” là cuốn tiểu thuyết thứ ba của nhà văn Dương Thanh Biểu. Với cuốn tiểu thuyết này, tác giả đã phản ánh cuộc đấu tranh phòng chống tội phạm diễn ra vô cùng phức tạp,  những góc khuất của ngành tư pháp mà người đọc chưa từng được tiếp cận. Nhà văn đã dũng cảm khi viết lên sự thật và thể hiện cái nhìn nhân văn trong quá trình truy tố, xét xử. BTV Vân Khánh có một vài cảm nhận về tác phẩm này qua bài “Vết dao ngược đêm trăng – Thông điệp nhân văn”.]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/vet-dao-nguoc-dem-trang-thong-diep-nhan-van-ve-cuoc-song-c158-34542.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2022_6/gts_vet_dao_nguoc_dem_trang_hc_276202211.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 27 Jun 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>“Truyện Kiều tự kể”: Khi thế hệ trẻ “viết lại” tác phẩm kinh điển với tư duy mới  10/6/2022</title>
       <link>http://vov6.vov.vn/diem-hen-van-nghe/truyen-kieu-tu-ke-khi-the-he-tre-viet-lai-tac-pham-kinh-dien-voi-tu-duy-moi-c158-34515.aspx</link>
       <description><![CDATA[Cho đến hôm nay, “Truyện Kiều” của đại thi hào Nguyễn Du đã ăn sâu vào đời sống văn hóa của người Việt. Chúng ta có bình Kiều, vịnh Kiều, bói Kiều, tập Kiều, đố Kiều… Theo thời gian, sức hút của tác phẩm này không hề giảm sút khi ngày càng khơi gợi nhiều cách tiếp cận. Cũng trên phông nền đó, chúng ta đón nhận nhiều tác phẩm sáng tạo và thể nghiệm, thể hiện một cách hiểu riêng về “Truyện Kiều”. Một trong số đó là art book “Truyện Kiều tự kể” của nhà văn Cao Nguyệt Nguyên và 12 họa sĩ minh họa. Sách do NXB Kim Đồng ấn hành.]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/truyen-kieu-tu-ke-khi-the-he-tre-viet-lai-tac-pham-kinh-dien-voi-tu-duy-moi-c158-34515.aspx</guid>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/chopin-bien-mat-c158-34488.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2022_5/gts_chopin_bien_mat_hc_275202210.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 27 May 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Bút ký "Anh hùng nơi làng quê"  23/5/2022</title>
-      <link>http://vov6.vov.vn/diem-hen-van-nghe/but-ky-anh-hung-noi-lang-que-c158-34471.aspx</link>
-      <description><![CDATA[Ở quê hương năm tấn Thái Bình có một người thương binh được coi là niềm tự hào của làng xóm, quê hương. Ông là lương y, Anh hùng Lao động Đào Viết Thoàn. Hơn 30 năm qua, bằng bài thuốc cổ truyền và phương pháp chữa trị độc đáo, đã có hàng vạn bệnh nhân bị bỏng ở mọi cấp độ được ông chữa khỏi hoàn toàn. Hơn một nửa trong số đó được ông miễn tiền thuốc, tiền công, tiền giường bệnh, điện nước… Lương y Đào Viết Thoàn được Đảng, Nhà nước tặng thưởng nhiều danh hiệu cao quý, được Chủ tịch nước tặng thưởng Huân chương Lao động hạng Nhì, hạng Ba. Còn người dân yêu mến gọi ông là “vua chữa bỏng” của đất Thái Bình:]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/but-ky-anh-hung-noi-lang-que-c158-34471.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2022_5/anh_hung_noi_lang_que_235202210.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 23 May 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
