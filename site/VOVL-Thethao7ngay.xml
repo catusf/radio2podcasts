@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 20 Jun 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jun 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 20 Jun 2022 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 27 Jun 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,16 @@
     </itunes:owner>
     <itunes:subtitle>Thể thao 7 ngày</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Thethao7ngay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Chương trình thể thao 7 ngày 25 tháng 6 năm 2022</title>
+      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
+      <description><![CDATA[- SEA Games 31 kết thúc với thắng lợi rực rỡ của thể thao Việt Nam. Nhiều buổi lễ tôn vinh khen thưởng với những vận động viên có thành tích xuất sắc được tổ chức suốt thời gian qua. Còn với các tuyển thủ, kết quả đạt được tại kỳ đại hội trên sân nhà chính là động lực giúp họ hướng tới những mục tiêu cao hơn trong tương lai.
+- Thông tin về giải bóng rổ chuyên nghiệp Việt Nam VBA 2022 với sự trở lại của thể thức sân nhà, sân khách. 
+- Giải bóng đá 7 người vô địch toàn quốc lần đầu tiên được tổ chức vòng loại ở 5 khu vực.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/06/27/vovlive_thethao7ngay_chuongtrinhthethao7ngay25062022.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 27 Jun 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Chương trình thể thao 7 ngày 18 tháng 6 năm 2022</title>
       <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
@@ -52,14 +62,6 @@
       <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/06/10/vovlive_thethao7ngay_chuongtrinhthethao7ngay462022.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 10 Jun 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chương trình thể thao 7 ngày 28 tháng 5 năm 2022</title>
-      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
-      <description><![CDATA[Nhìn lại kỳ SEA Games lịch sử của đoàn thể thao Việt Nam cùng nhà báo Doãn Hữu Bình - Trưởng Ban biên tập tạp chí thể thao - Tổng cục Thể dục Thể thao. Ngọn lửa SEA Games 31 đã tắt, nhưng dư âm về những cuộc tranh tài cùng những câu chuyện bên lề đầy xúc động vẫn lưu lại trong lòng người hâm mộ.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/06/02/vovlive_thethao7ngay_chuongtrinhthethao7ngay28052022.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 02 Jun 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
