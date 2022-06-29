@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 29 Jun 2022 18:21:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jun 2022 05:23:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 29 Jun 2022 18:21:00 +0700</pubDate>
+    <pubDate>Thu, 30 Jun 2022 05:23:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>TPHCM: Kinh tế đang phục hồi, tăng trưởng theo hình chữ V, ổn định - Thời sự 17g00 29/6/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-kinh-te-dang-phuc-hoi-tang-truong-theo-hinh-chu-v-on-dinh-thoi-su-17g00-29-6-2022-439796.html</link>
+      <description><![CDATA[22:23 - 29/06/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-kinh-te-dang-phuc-hoi-tang-truong-theo-hinh-chu-v-on-dinh-thoi-su-17g00-29-6-2022-439796.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/06/29/AMThoisu17h00p290622ss.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 30 Jun 2022 05:23:00 +0700</pubDate>
+    </item>
     <item>
       <title>Chợ truyền thống khuyến mại giữ chân khách thời “bão giá - Thời sự 11g00 29/6/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/cho-truyen-thong-khuyen-mai-giu-chan-khach-thoi-bao-gia-thoi-su-11g00-29-6-2022-439728.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/nuoc-rut-on-thi-tot-nghiep-trung-hoc-pho-thong-thoi-su-5g30-29-6-2022-439726.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/06/29/AMThoisu05h30p290622-20220628231351.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 29 Jun 2022 18:18:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Triển khai sử dụng hóa đơn điện tử trên các tuyến cao tốc - Thời sự 17g 28/6/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/trien-khai-su-dung-hoa-don-dien-tu-tren-cac-tuyen-cao-toc-thoi-su-17g-28-6-2022-439653.html</link>
-      <description><![CDATA[20:27 - 28/06/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/trien-khai-su-dung-hoa-don-dien-tu-tren-cac-tuyen-cao-toc-thoi-su-17g-28-6-2022-439653.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/06/28/AMThoisu17h00p280622-20220628165016.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 29 Jun 2022 03:27:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
