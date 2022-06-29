@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 21 Jun 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jun 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 21 Jun 2022 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 29 Jun 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,27 +24,27 @@
     <itunes:subtitle>Văn nghệ thiếu nhi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Vannghethieunhi.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Đọc truyện “Charlie và nhà máy socola" - Buổi thứ mười - Dập dềnh trên thuyền kẹo  21/6/2022</title>
+      <title>Giải thưởng thiếu nhi Dế Mèn mùa thứ ba  29/6/2022</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/giai-thuong-thieu-nhi-de-men-mua-thu-ba-c44-34547.aspx</link>
+      <description><![CDATA[Giải thưởng Thiếu nhi Dế Mèn mùa thứ 3 do báo Thể thao và Văn hóa tổ chức đã thu hút 89 tác phẩm, chùm tác phẩm dự thi với 60 bản thảo và 29 tác phẩm đã công bố hoặc xuất bản. Trong đó, có 9 chùm thơ, tập thơ hoặc series thơ nhiều tập; 19 phim hoặc series phim hoạt hình; còn lại là các tập truyện ngắn, truyện dài, tiểu thuyết... (Trang Văn học Nghệ thuật tuổi mới lớn 21/06/2022)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/giai-thuong-thieu-nhi-de-men-mua-thu-ba-c44-34547.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2022_6/v2_2106_10h4518h15_van_nghe_thieu_nhi_1_296202216.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 29 Jun 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Chuyên đề ôn tập Ngữ văn lớp 12 (Phần 3)   29/6/2022</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/chuyen-de-on-tap-ngu-van-lop-12-phan-3-c44-34546.aspx</link>
+      <description><![CDATA[Trong kì thi THPT Quốc gia môn Ngữ văn, Nghị luận Văn học là một nội dung quan trọng và chiếm điểm số cao nhất trong cấu trúc đề thi. Đây cũng là phần kiến thức được thầy cô ôn tập rất kỹ và bản thân chúng mình luôn chủ động để đạt được kết quả cao nhất trong khả năng của mình. (Văn nghệ thiếu nhi 20/06/2022)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/chuyen-de-on-tap-ngu-van-lop-12-phan-3-c44-34546.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2022_6/v2_2006_10h4518h15_van_nghe_thieu_nhi_1_296202215.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 29 Jun 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Đọc truyện “Charlie và nhà máy socola" - Buổi thứ mười - Dập dềnh trên thuyền kẹo   21/6/2022</title>
       <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-charlie-va-nha-may-socola-buoi-thu-muoi-dap-denh-tren-thuyen-keo-c44-34539.aspx</link>
       <description><![CDATA[Trong lúc mọi người đều rất lo lắng cho Augustus thì ông Wonka lại bình thản trấn an. Ông khẳng định cậu bé sẽ an toàn trong chiếc ống thủy tinh dẫn socola ấy. Ông sẽ cho người cứu cậu bé ra trước khi cậu đáp xuống nồi nấu kẹo. Trong lúc mẹ của Agustus đi theo người được cử đi cứu cậu bé thì mọi người cùng ông Wonka lên chiếc thuyền kẹo dập dềnh trên dòng sông socola (Văn nghệ thiếu nhi 19/06/2022)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-charlie-va-nha-may-socola-buoi-thu-muoi-dap-denh-tren-thuyen-keo-c44-34539.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2022_6/v2_1906_10h4518h15_van_nghe_thieu_nhi_216202222.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 21 Jun 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đọc truyện “Charlie và nhà máy sôcôla” - Buổi thứ chín -  Sự cố đầu tiên   21/6/2022</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-charlie-va-nha-may-socola-buoi-thu-chin-su-co-dau-tien-c44-34538.aspx</link>
-      <description><![CDATA[Trong khi các vị khách đang say sưa theo dõi ông Willy Wonka giới thiệu về nhà máy thì cậu bé Augustus Gloop rướn người xuống dòng sông sôcôla uống lấy uống để, mặc cho mẹ cậu can ngăn. Ông Wonka không hài lòng về hành động đó nhưng vẫn lịch sự yêu cầu cậu trở lại để đảm bảo an toàn sản xuất cũng như an toàn cho chính cậu. Tuy nhiên Augustus bỏ ngoài tai. Cậu uống một bụng kễnh sôcôla rồi rơi tũm xuống sông... (Văn nghệ thiếu nhi 18/06/2022)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-charlie-va-nha-may-socola-buoi-thu-chin-su-co-dau-tien-c44-34538.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2022_6/v2_1806_10h4518h15_van_nghe_thieu_nhi_216202222.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 21 Jun 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đọc truyện “Charlie và nhà máy Sôcôla” - Buổi thứ tám - Bước vào nhà máy Sôcôla   21/6/2022</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-charlie-va-nha-may-socola-buoi-thu-tam-buoc-vao-nha-may-socola-c44-34537.aspx</link>
-      <description><![CDATA[Cuối cùng, ông Willy Wonka cũng xuất hiện với sự thân thiện, tiếp đón chủ nhân của tấm vé vàng may mắn tới tham quan nhà máy Sôcôla của mình. Những vị khách vừa mới bước qua cánh cổng nhà máy đã không thôi trầm trồ về độ hoành tráng và cảnh quan thần tiên mà họ vốn chưa từng được gặp... (Văn nghệ thiếu nhi 17/06/2022)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-charlie-va-nha-may-socola-buoi-thu-tam-buoc-vao-nha-may-socola-c44-34537.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2022_6/v2_1706_10h4518h15_van_nghe_thieu_nhi_216202222.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 21 Jun 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
