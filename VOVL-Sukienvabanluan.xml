@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 28 Jun 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jun 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 28 Jun 2022 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 29 Jun 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Nhiều cán bộ phường ở TP.HCM nghỉ việc vì áp lực. Phải chăng do chỉ tiêu biên chế cào bằng?</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Một trong những thông tin đáng chú ý trong cuộc làm việc giữa Bộ trưởng Bộ Nội vụ với lãnh đạo thành phố Hồ Chí Minh  vừa qua, là thành phố đang dôi dư tới hơn 5.700 công chức, viên chức so với Trung ương giao. Thế nhưng một sự thật khác là nhiều đơn vị ở cơ sở, đặc biệt là các phường thuộc thành phố Thủ Đức lại đang thiếu nhân lực; một số cán bộ công chức viên chức phải xin nghỉ việc vì quá tải và áp lực công việc quá lớn. Vì sao lại có nghịch lý này?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/06/29/vovlive_sukienvabanluan_nhieu_can_bo_phuong_o_thanh_pho-ho-chi_minh_nghi_viec_vi_ap_luc.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 29 Jun 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Siết chặt hoạt động kinh doanh người thân quan chức - Trung Quốc mạnh tay chống tham nhũng</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/06/21/vovlive_sukienvabanluan_dieu_gi_khien_chau_a_lam_phat.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 21 Jun 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Định hình hành lang vận tải quốc tế Bắc - Nam</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Iran vừa vận chuyển chuyến hàng hóa đầu tiên từ Nga sang Ấn Độ qua hành lang vận tải quốc tế Bắc – Nam. Đây là tuyến đường dài 7.200 km, gồm mạng lưới vận tải đa phương thức từ đường sắt, đường bộ, đường biển, kết nối từ Moscow, Nga tới Mumbai, Ấn Độ qua biển Caspi. ... Cả Iran, Nga – hai quốc gia đầu tư chính đang kỳ vọng rất lớn vào tuyến vận tải mới này, thậm chí còn gọi đây là tuyến đường có thể thay thế kênh đào Suez trong vận tải hàng hóa quốc tế.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/06/20/vovlive_sukienvabanluan_dinh_hinh_hanh_lang_van_tai_quoc_te_bac-nam.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 20 Jun 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
