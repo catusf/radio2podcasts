@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 28 Jun 2022 17:51:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jun 2022 18:18:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 28 Jun 2022 17:51:00 +0700</pubDate>
+    <pubDate>Wed, 29 Jun 2022 18:18:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Bảo vệ dữ liệu cá nhân tạo dựng niềm tin của người dân - Sài Gòn buổi sáng 29/6/2022</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/bao-ve-du-lieu-ca-nhan-tao-dung-niem-tin-cua-nguoi-dan-sai-gon-buoi-sang-29-6-2022-439725.html</link>
+      <description><![CDATA[11:18 - 29/06/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/bao-ve-du-lieu-ca-nhan-tao-dung-niem-tin-cua-nguoi-dan-sai-gon-buoi-sang-29-6-2022-439725.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/06/29/FMSGBS06h00p290622-20220629070155.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 29 Jun 2022 18:18:00 +0700</pubDate>
+    </item>
+    <item>
       <title>“Gia đình là nơi tôi thuộc về" - Sài Gòn buổi sáng 28/6/2022</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/gia-dinh-la-noi-toi-thuoc-ve-sai-gon-buoi-sang-28-6-2022-439577.html</link>
       <description><![CDATA[10:51 - 28/06/2022]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/gia-dinh-la-noi-toi-thuoc-ve-sai-gon-buoi-sang-28-6-2022-439577.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/06/28/FMSGBS06h00p280622-20220628070237.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 28 Jun 2022 17:51:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>“Trường Sa - Nhà giàn qua ống kính nhiếp ảnh" - Sài Gòn buổi sáng 26/6/2022</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/truong-sa-nha-gian-qua-ong-kinh-nhiep-anh-sai-gon-buoi-sang-26-6-2022-439397.html</link>
-      <description><![CDATA[19:39 - 26/06/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/truong-sa-nha-gian-qua-ong-kinh-nhiep-anh-sai-gon-buoi-sang-26-6-2022-439397.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/06/26/FM999-SGBUOISANG06h00p260622-Copy.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 27 Jun 2022 02:39:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
