@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 29 Jun 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jun 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 29 Jun 2022 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 30 Jun 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Sáng kiến của G7 cạnh tranh thế nào với “Vành đai, con đường”?</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Trong khuôn khổ Hội nghị thượng đỉnh các nước công nghiệp phát triển (gọi tắt là G7) diễn ra mới đây, các nhà lãnh đạo G7 đã công bố sáng kiến “Đối tác về cơ sở hạ tầng toàn cầu” trị giá 600 tỉ USD trong 5 năm tới, nhằm giúp các nước đang phát triển xây dựng cơ sở hạ tầng chống lại biến đổi khí hậu. Dù không nhắc trực tiếp tới Trung Quốc, nhưng dư luận đều nhận định rằng sáng kiến mới của G7 nhằm tạo đối trọng với sáng kiến “Vành đai, con đường” của quốc gia này. Cần nhắc lại rằng, tại Hội nghị thượng đỉnh năm ngoái, G7 cũng từng đưa ra sáng kiến “Xây dựng lại thế giới tốt đẹp hơn" (B3W). Vậy sáng kiến “Đối tác về cơ sở hạ tầng toàn cầu” có gì mới hơn và liệu có thể đối trọng với “Vành đai, Con đường”?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/06/30/vovlive_sukienvabanluan_sang_kien_cua_g7_canh_tranh_vanh_dai_con_duong.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 30 Jun 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Nhiều cán bộ phường ở TP.HCM nghỉ việc vì áp lực. Phải chăng do chỉ tiêu biên chế cào bằng?</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/06/23/vovlive_sukienvabanluan_thai_lan_kiem_soat_da_tang_gia_ca-226.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 23 Jun 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Điều gì khiến Châu Á chống chọi với lạm phát tốt hơn?</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Ảnh hưởng của đại dịch Covid-19, gián đoạn chuỗi cung ứng, tình trạng thiếu nhân công, và cuộc xung đột Nga-Ukraine đã đẩy giá năng lượng và hàng hoá cơ bản tăng cao, khiến lạm phát không ngừng leo thang trong những tháng gần đây. Tuy nhiên, các nước châu Á dường như đang chống chọi tốt hơn với lạm phát. Bằng chứng là tỉ lệ lạm phát ở 2 nền kinh tế lớn của khu vực là Trung Quốc và Nhật Bản vẫn ở mức thấp so với Mỹ hay châu Âu. Các nền kinh tế này vẫn duy trì chính sách lãi suất thấp, thậm chí có thể thấp hơn nữa.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/06/21/vovlive_sukienvabanluan_dieu_gi_khien_chau_a_lam_phat.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 21 Jun 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
