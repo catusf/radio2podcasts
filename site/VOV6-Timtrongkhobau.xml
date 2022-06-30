@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 09 Jun 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jun 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 09 Jun 2022 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 30 Jun 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,8 +24,17 @@
     <itunes:subtitle>Tìm trong kho báu</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Timtrongkhobau.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Danh nhân văn hóa thế giới Nguyễn Đình Chiểu: Một nhân cách văn hóa của thời đại
+ 30/6/2022</title>
+      <link>http://vov6.vov.vn/tim-trong-kho-bau/danh-nhan-van-hoa-the-gioi-nguyen-dinh-chieu-mot-nhan-cach-van-hoa-cua-thoi-dai-c54-34549.aspx</link>
+      <description><![CDATA[Thời gian vừa qua, chương trình “Tìm trong kho báu” của Ban VHNT (VOV6) đã dành thời lượng đáng kể để đi sâu vào di sản thơ văn của nhà thơ mù yêu nước Nguyễn Đình Chiểu – Người được đánh giá là bậc tôn sư của đất phương Nam. Cụ Đồ Chiểu không chỉ là nhà thơ mà còn là nhà giáo, thầy thuốc, nhà văn hóa tầm vóc của dân tộc ta. Tháng 11 năm ngoái, Tổ chức Giáo dục – Khoa học và Văn hóa Liên hợp quốc (UNESCO) đã chính thức đưa Nguyễn Đình Chiểu vào danh sách Danh nhân văn hóa thế giới và quyết định cùng nước ta tổ chức lễ kỷ niệm 200 năm ngày sinh của cụ Đồ Chiểu (01.7.1822 – 01.7.2022). Chương trình hôm nay một lần nữa góp tiếng nói tôn vinh giá trị truyền đời của tác phẩm cũng như tư tưởng, nhân cách của Nguyễn Đình Chiểu.]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/danh-nhan-van-hoa-the-gioi-nguyen-dinh-chieu-mot-nhan-cach-van-hoa-cua-thoi-dai-c54-34549.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/v2_30060407_18h30_tim_trong_kho_bau_306202214.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 30 Jun 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Hình ảnh Văn Huệ Vương – Trần Quang Triều trong thơ thành viên Bích Động thi xã
- 9/6/2022</title>
+  9/6/2022</title>
       <link>http://vov6.vov.vn/tim-trong-kho-bau/hinh-anh-van-hue-vuong-tran-quang-trieu-trong-tho-thanh-vien-bich-dong-thi-xa-c54-34514.aspx</link>
       <description><![CDATA[Văn Huệ Vương – Trần Quang Triều là chủ soái, linh hồn của Bích Động thi xã. Trong các đàm đạo, xướng họa thơ văn của thi xã, ông vừa đóng vai trò là người chủ trì vừa thể hiện tài năng, khí chất hơn người. Bởi thế, trong nhiều tứ thơ các thành viên chủ chốt của Bích Động thi xã như Nguyễn Ức, Nguyễn Sưởng đều thấp thoáng hình ảnh vị chủ soái tài hoa cũng như bày tỏ niềm kính phục với tài năng, phẩm cách của ông]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/hinh-anh-van-hue-vuong-tran-quang-trieu-trong-tho-thanh-vien-bich-dong-thi-xa-c54-34514.aspx</guid>
@@ -40,14 +49,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/sang-tac-van-tho-thoi-van-tran-c54-34501.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/v2_020606_18h30_tim_trong_kho_bau_26202215.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 02 Jun 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Di sản thi ca của Thiền phái Trúc Lâm đời Trần  27/5/2022</title>
-      <link>http://vov6.vov.vn/tim-trong-kho-bau/di-san-thi-ca-cua-thien-phai-truc-lam-doi-tran-c54-34486.aspx</link>
-      <description><![CDATA[Thời Lý – Trần ở nước ta được xem là giai đoạn hết sức hưng thịnh của Phật giáo. Đó cũng là thời kỳ ra đời dòng thiền Trúc Lâm Yên Tử với những tên tuổi lớn của văn học trung đại. Buổi “Tìm trong kho báu” hôm nay của Ban VHNT VOV6 tìm về với cội nguồn những trung tâm Phật giáo, nơi phát tích dòng thiền và những nhóm phái văn học đặc sắc thời Trần.]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/di-san-thi-ca-cua-thien-phai-truc-lam-doi-tran-c54-34486.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2022_5/v2_263005_18h30_tim_trong_kho_bau_27520228.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 27 May 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
