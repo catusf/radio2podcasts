@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 29 Jun 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 01 Jul 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 29 Jun 2022 19:00:00 +0700</pubDate>
+    <pubDate>Fri, 01 Jul 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,22 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Thổ Nhĩ Kỳ ủng hộ Phần Lan, Thụy Điển gia nhập NATO: Bước ngoặt cho cục diện an ninh Châu Âu?</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Sau nhiều tuần căng thẳng và bế tắc, 3 nước gồm Thổ Nhĩ Kỳ, Phần Lan và Thụy Điển vừa đạt được thỏa thuận quan trọng. Thổ Nhĩ Kỳ đã đồng ý “bật đèn xanh” để hai nước còn lại gia nhập Tổ chức hiệp ước Bắc Đại Tây Dương (NATO). Bước tiến này đã giúp giới chức NATO yên tâm để bước vào đợt hội nghị thượng đỉnh vốn tập trung vào việc hóa giải những chia rẽ và mâu thuẫn nội bộ, củng cố một liên minh quân sự mạnh mẽ và thống nhất. Vì sao sau một thời gian quyết liệt phản đối, Ankara lại chịu “gật đầu” với Phần Lan, Thụy Điển? Chặng đường tiếp theo của hai quốc gia Châu Âu để có thể trở thành thành viên của NATO liệu đã rộng mở? Sau thỏa thuận mới nhất này, cục diện an ninh Châu Âu sẽ biến chuyển theo hướng nào?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/06/30/vovlive_vandequocte_thonhikyunghophanlanthuydiengianhapnato.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 01 Jul 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Mỹ - Nhật - Hàn bắt tay vì mục tiêu chung</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Ngày 29/06, tại Madrid (Tây Ban Nha) diễn ra hội nghị thượng đỉnh 3 bên Mỹ -Nhật Bản - Hàn Quốc. Đây là cuộc gặp đầu tiên sau hơn 4 năm giữa các lãnh đạo Mỹ - Nhật Bản - Hàn Quốc kể từ cuộc gặp gần nhất được tổ chức hồi tháng 9 năm 2017. Diễn ra trong bối cảnh Triều Tiên liên tục tiến hành các vụ phóng thử tên lửa, trong khi các cuộc đàm phán về phi hạt nhân hóa trên bán đảo Triều Tiên vẫn bế tắc, dự kiến, tại hội nghị lần này, các nhà lãnh đạo sẽ tái khẳng định quan hệ hợp tác trong việc đối phó với Triều Tiên và tăng cường hợp tác nhằm hiện thực hóa khu vực Ấn Độ Dương - Thái Bình Dương tự do và rộng mở. Hội nghị thượng đỉnh Mỹ - Nhật - Hàn lần này sẽ đưa ra biện pháp gì để đối phó với Triều Tiên? Quan hệ đồng minh Mỹ, Nhật, Hàn sẽ có thêm những bước tiến nào?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/06/30/vovlive_vandequocte_mynhathanbattayvimuctieuchung.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 30 Jun 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Hội nghị thượng đỉnh NATO: Thay đổi chiến lược quốc phòng trong cuộc đại tu lớn nhất kể từ Chiến tranh Lạnh</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -38,22 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/06/29/vovlive_vandequocte_hoinghithuongdinhg7.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 28 Jun 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Nga định hướng dòng chảy thương mại sang Trung Quốc, Ấn Độ</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Hội nghị thượng đỉnh lần thứ 14 nhóm các nền kinh tế mới nổi BRICS gồm Braxin, Nga, Ấn Độ, Trung Quốc và Nam Phi diễn ra trong hai ngày 23 - 24/6 theo hình thức trực tuyến, dưới sự chủ trì của Trung Quốc. Với chủ đề “Nâng tầm mối quan hệ đối tác BRICS - Mở ra kỷ nguyên mới cho phát triển toàn cầu”, các nhà lãnh đạo của các nước thành viên tập trung thảo luận tình hình phát triển hiện nay và triển vọng hợp tác trên các lĩnh vực chính trị, kinh tế, văn hóa, nhân đạo cũng như các vấn đề cấp bách của khu vực và quốc tế. Trong ngày đầu tiên của Hội nghị, Tổng thống Nga Vladimia Putin có bài phát biểu quan trọng. Đây là diễn đàn quốc tế đầu tiên Tổng thống Nga Putin tham dự kể từ khi Nga tiến hành chiến dịch quân sự đặc biệt ở Ukraine. Nga sẽ đưa ra những đề xuất gì và đâu là nguyên nhân khiến Nga định hướng dòng chảy thương mại sang Trung Quốc và Ấn Độ?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/06/29/vovlive_vandequocte_ngadinhhuongdongchaythuongmaisangtrungquocando.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 25 Jun 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Liên minh Châu Âu đồng thuận cấp quy chế ứng cử viên cho Ukraine</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Trước thềm Hội nghị thượng đỉnh Liên minh Châu Âu (EU) sẽ khai mạc vào 23/6, các nước thành viên EU đã đạt được đồng thuận về việc cấp quy chế ứng cử viên cho Ukraine. Với sự đồng thuận này, dự kiến quy chế ứng cử viên EU sẽ được chính thức trao cho Ukraine sau khi 27 nước thành viên tiến hành bỏ phiếu tại Hội nghị thượng đỉnh lần này. Sau 4 tháng Nga triển khai chiến dịch quân sự đặc biệt tại Ukraine, hậu quả đã quá rõ ràng không chỉ với Nga, Ukraine và với cả thế giới với tình trạng đứt gẫy nguồn cung ứng, lạm phát tăng vọt. Các bên liên quan đều nhận thấy đã đến lúc phải tìm kiếm các giải pháp ngoại giao, trong đó có những vấn đề cốt lõi liên quan đến quan hệ của Ukraine với phương Tây như việc Ukraine xin gia nhập NATO, Ukraine xin gia nhập EU. Vậy việc EU đồng ý cấp quy chế ứng cử viên cho Ukraine có ý nghĩa thế nào trong quá trình tìm kiếm giải pháp ngoại giao này?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/06/29/vovlive_vandequocte_lienminhchauaudongthuancapquycheungcuvienchoukraine.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 24 Jun 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
