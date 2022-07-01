@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 01 Jul 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 02 Jul 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 01 Jul 2022 19:00:00 +0700</pubDate>
+    <pubDate>Sat, 02 Jul 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>NATO thay đổi thế nào với chiến lược mới?</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Tại Hội nghị thượng đỉnh của liên minh quân sự Hiệp ước Bắc Đại Tây dương (NATO) vừa diễn ra trong 2 ngày tại thủ đô Madrid của Tây Ban Nha, NATO đã công bố khái niệm chiến lược mới nhằm định hướng chính sách của NATO trong những năm tới. Ngoài ra, NATO quyết định tăng lực lượng ở trạng thái sẵn sàng cao lên mức hơn 300.000 quân, đồng thời nâng cấp mạnh mẽ hệ thống phòng thủ của khối về phía Đông. Việc NATO đưa ra chiến lược mới xuất phát từ những thay đổi lớn trong cấu trúc an ninh khu vực và thế giới thời gian gần đây đòi hỏi NATO phải có những thay đổi tương ứng cả về định hướng chiến lược và tư duy hành động, thể hiện rõ qua việc kết nạp các thành viên mới và tạo lập mối liên kết với các quốc gia ở Châu Á – Thái Bình Dương như New Zealands, Nhật Bản, Hàn Quốc.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/07/01/vovlive_vandequocte_natothaydoithenaovoichienluocmoi.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 02 Jul 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Thổ Nhĩ Kỳ ủng hộ Phần Lan, Thụy Điển gia nhập NATO: Bước ngoặt cho cục diện an ninh Châu Âu?</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/06/29/vovlive_vandequocte_hoinghithuongdinhnato.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 29 Jun 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Hội nghị thượng đỉnh G7 tìm cách gia tăng các đòn trừng phạt Nga</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Hội nghị thượng đỉnh Nhóm các nước công nghiệp phát triển hàng đầu thế giới (gọi tắt là G7) diễn ra tại Đức đang là tâm điểm của dư luận quốc tế. Trong bối cảnh cuộc xung đột Nga - Ukraine vẫn tiếp tục leo thang, Hội nghị này được xem là dịp để các nước G7 thảo luận về các bước đi nhằm gia tăng các đòn trừng phạt đối với Nga. Vậy cụ thể những tính toán của nhóm G7 là gì? Các kế hoạch trừng phạt mở rộng của G7 đối với Nga sẽ tác động ra sao?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/06/29/vovlive_vandequocte_hoinghithuongdinhg7.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 28 Jun 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
