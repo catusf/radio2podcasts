@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 30 Jun 2022 18:26:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 02 Jul 2022 14:10:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 30 Jun 2022 18:26:00 +0700</pubDate>
+    <pubDate>Sat, 02 Jul 2022 14:10:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Diễn tiến dịch bệnh sốt xuất huyết đáng báo động - Sài Gòn buổi sáng 30/6/2022</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/dien-tien-dich-benh-sot-xuat-huyet-dang-bao-dong-sai-gon-buoi-sang-30-6-2022-439864.html</link>
-      <description><![CDATA[11:26 - 30/06/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/dien-tien-dich-benh-sot-xuat-huyet-dang-bao-dong-sai-gon-buoi-sang-30-6-2022-439864.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/06/30/FM999-SGBUOISANG06h00p300622-Copy.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 30 Jun 2022 18:26:00 +0700</pubDate>
+      <title>Vòng mạ non giải Bông lúa vàng - Sài Gòn buổi sáng - 2/7/2022</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/vong-ma-non-giai-bong-lua-vang-sai-gon-buoi-sang-2-7-2022-440113.html</link>
+      <description><![CDATA[07:10 - 02/07/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/vong-ma-non-giai-bong-lua-vang-sai-gon-buoi-sang-2-7-2022-440113.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/07/02/SGBS-Tap-chi-cuoi-tuan-02072022-20220701232317.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 02 Jul 2022 14:10:00 +0700</pubDate>
     </item>
     <item>
-      <title>Thân thương 2 tiếng "gia đình" - Sài Gòn buổi sáng 27/6/2022</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/than-thuong-2-tieng-gia-dinh-sai-gon-buoi-sang-27-6-2022-439854.html</link>
-      <description><![CDATA[10:44 - 27/06/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/than-thuong-2-tieng-gia-dinh-sai-gon-buoi-sang-27-6-2022-439854.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/06/30/sgbs-27-6-Copy.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 27 Jun 2022 17:44:00 +0700</pubDate>
+      <title>"Làm thế nào để hạn chế tham nhũng trong cán bộ, công chức, viên chức" - Sài Gòn buổi sáng 1/7/2022</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/lam-the-nao-de-han-che-tham-nhung-trong-can-bo-cong-chuc-vien-chuc-sai-gon-buoi-sang-1-7-2022-440085.html</link>
+      <description><![CDATA[23:56 - 01/07/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/lam-the-nao-de-han-che-tham-nhung-trong-can-bo-cong-chuc-vien-chuc-sai-gon-buoi-sang-1-7-2022-440085.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/07/01/FMSGBS06h00p010722-20220701070121.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 02 Jul 2022 06:56:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
