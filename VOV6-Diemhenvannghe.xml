@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 30 Jun 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 03 Jul 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 30 Jun 2022 19:00:00 +0700</pubDate>
+    <pubDate>Sun, 03 Jul 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Điểm hẹn văn nghệ</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Diemhenvannghe.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Đi tìm màu chia ly trong trang văn của Bernhard Schilink 30/6/2022</title>
+      <title>Văn học trẻ Hà Nội có gì mới? 3/7/2022</title>
+      <link>http://vov6.vov.vn/diem-hen-van-nghe/van-hoc-tre-ha-noi-co-gi-moi-c158-34563.aspx</link>
+      <description><![CDATA[Tọa đàm chuyên đề "Văn học trẻ Hà Nội có gì mới" do Hội Nhà văn Hà Nội tổ chức. Các tham luận, ý kiến đề cập nhiều vấn đề đáng quan tâm của văn học trẻ hiện nay. (ĐIểm hẹn văn nghệ)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/van-hoc-tre-ha-noi-co-gi-moi-c158-34563.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2022_7/v2_2506_18h30_diem_hen_van_nghe_37202223.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 03 Jul 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Đi tìm màu chia ly trong trang văn của Bernhard Schilink  30/6/2022</title>
       <link>http://vov6.vov.vn/diem-hen-van-nghe/di-tim-mau-chia-ly-trong-trang-van-cua-bernhard-schilink-c158-34554.aspx</link>
       <description><![CDATA[Tên tuổi của nhà văn người Đức Bernhard Schilink đã không còn xa lạ với độc giả Việt, nhất là sau thành công của tiểu thuyết “Người đọc”. Gần đây, Công ty Văn hóa & truyền thông Nhã Nam đã tiếp tục giới thiệu tác phẩm mới của ông – tập truyện ngắn “9 màu chia ly”. Sách do dịch giả Lê Quang chuyển ngữ. Được viết ra ở nửa muộn của tuổi bảy mươi, Bernhard Schilink đem đến cho độc giả câu chuyện gì? Dĩ vãng không thể chôn giấu? Tình yêu dang dở thời tuổi trẻ? Hay những suy niệm về tuổi già? Chúng ta cùng bước vào thế giới của “9 màu chia ly” qua bài viết của BTV chương trình.]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/di-tim-mau-chia-ly-trong-trang-van-cua-bernhard-schilink-c158-34554.aspx</guid>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/vet-dao-nguoc-dem-trang-thong-diep-nhan-van-ve-cuoc-song-c158-34542.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2022_6/gts_vet_dao_nguoc_dem_trang_hc_276202211.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 27 Jun 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>“Truyện Kiều tự kể”: Khi thế hệ trẻ “viết lại” tác phẩm kinh điển với tư duy mới  10/6/2022</title>
-      <link>http://vov6.vov.vn/diem-hen-van-nghe/truyen-kieu-tu-ke-khi-the-he-tre-viet-lai-tac-pham-kinh-dien-voi-tu-duy-moi-c158-34515.aspx</link>
-      <description><![CDATA[Cho đến hôm nay, “Truyện Kiều” của đại thi hào Nguyễn Du đã ăn sâu vào đời sống văn hóa của người Việt. Chúng ta có bình Kiều, vịnh Kiều, bói Kiều, tập Kiều, đố Kiều… Theo thời gian, sức hút của tác phẩm này không hề giảm sút khi ngày càng khơi gợi nhiều cách tiếp cận. Cũng trên phông nền đó, chúng ta đón nhận nhiều tác phẩm sáng tạo và thể nghiệm, thể hiện một cách hiểu riêng về “Truyện Kiều”. Một trong số đó là art book “Truyện Kiều tự kể” của nhà văn Cao Nguyệt Nguyên và 12 họa sĩ minh họa. Sách do NXB Kim Đồng ấn hành.]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/truyen-kieu-tu-ke-khi-the-he-tre-viet-lai-tac-pham-kinh-dien-voi-tu-duy-moi-c158-34515.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2022_6/gts_truyen_kieu_tu_ke_hc_106202213.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 10 Jun 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
