@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 27 Jun 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 04 Jul 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 27 Jun 2022 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 04 Jul 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,15 @@
     </itunes:owner>
     <itunes:subtitle>Thể thao 7 ngày</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Thethao7ngay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Chương trình thể thao 7 ngày 2 tháng 7 năm 2022</title>
+      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
+      <description><![CDATA[- Sau một thời gian dài chờ đợi, bến đỗ mới của tiền vệ Nguyễn Quang Hải sau khi chia tay Hà Nội FC đã được xác định. Theo đó, ngôi sao mang áo số 19 đã chính thức khoác áo Pau FC ở Ligue 2 kể từ mùa giải 2022 - 2023. Sau những vinh quang tại Việt Nam, một hành trình mới sắp mở ra với Quang Hải. Liệu tiền vệ quê Hà Nội có thể tránh khỏi những thất bại như những người đi trước như Công Phượng, Xuân Trường, Tuấn Anh hay Văn Hậu?
+- Phong trào tập luyện thể thao qua bài viết: Xe đạp không chỉ là thể thao]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/07/04/vovlive_thethao7ngay_chuongtrinhthethao7ngay02072022.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 04 Jul 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Chương trình thể thao 7 ngày 25 tháng 6 năm 2022</title>
       <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
@@ -52,16 +61,6 @@
       <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/06/17/vovlive_thethao7ngay_chuongtrinhthethao7ngay11062022.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 17 Jun 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chương trình thể thao 7 ngày 4 tháng 6 năm 2022</title>
-      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
-      <description><![CDATA[- Phát biểu và bình luận của các huấn luyện viên, bình luận viên về các trận đấu của đội U23 Việt Nam tại vòng chung kết U23 Châu Á và việc thử nghiệm chiến thuật, nhân sự mới ở đội tuyển Việt Nam. 
-- Những dữ liệu và dữ kiện về quãng thời gian 9 năm đầy vinh quang và cũng không ít thăng trầm cùng siêu sao bóng đá một thời Gareth Bale. 
-- AC Milan - đương kim Seria sau 11 năm chờ đợi chuyển đổi quyền sở hữu và định hướng phát triển của câu lạc bộ trong tương lai.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/06/10/vovlive_thethao7ngay_chuongtrinhthethao7ngay462022.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 10 Jun 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
