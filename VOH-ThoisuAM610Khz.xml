@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 05 Jul 2022 17:36:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 06 Jul 2022 01:39:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 05 Jul 2022 17:36:00 +0700</pubDate>
+    <pubDate>Wed, 06 Jul 2022 01:39:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,28 +24,28 @@
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>“Nhìn thẳng những tồn tại, hạn chế để khắc phục, đưa TPHCM phát triển mạnh mẽ” –Thời sự 17g 5/7/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/nhin-thang-nhung-ton-tai-han-che-de-khac-phuc-dua-tphcm-phat-trien-manh-me-thoi-su-17g-5-7-2022-440510.html</link>
+      <description><![CDATA[18:39 - 05/07/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/nhin-thang-nhung-ton-tai-han-che-de-khac-phuc-dua-tphcm-phat-trien-manh-me-thoi-su-17g-5-7-2022-440510.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/07/05/AM610-THOISU45P17h00p050722-Copy.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 06 Jul 2022 01:39:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Covid -19 có nguy cơ bùng phát trở lại khi miễn dịch cộng đồng suy giảm - Thời sự 11g00g 5/7/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/covid-19-co-nguy-co-bung-phat-tro-lai-khi-mien-dich-cong-dong-suy-giam-thoi-su-11g00g-5-7-2022-440509.html</link>
+      <description><![CDATA[18:39 - 05/07/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/covid-19-co-nguy-co-bung-phat-tro-lai-khi-mien-dich-cong-dong-suy-giam-thoi-su-11g00g-5-7-2022-440509.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/07/05/AM610-THOISU30P11h00p050722-Copy.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 06 Jul 2022 01:39:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Công đoàn TP - Tạo sức bật cho người lao động vượt khó vươn lên - Thời sự 5g30 5/7/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/cong-doan-tp-tao-suc-bat-cho-nguoi-lao-dong-vuot-kho-vuon-len-thoi-su-5g30-5-7-2022-440450.html</link>
       <description><![CDATA[10:36 - 05/07/2022]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/cong-doan-tp-tao-suc-bat-cho-nguoi-lao-dong-vuot-kho-vuon-len-thoi-su-5g30-5-7-2022-440450.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/07/05/AM610-THOISU30P05h30p050722-Copy.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 05 Jul 2022 17:36:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Người bệnh rung nhĩ có nguy cơ đột quỵ tăng cao - Thời sự 17g 4/7/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/nguoi-benh-rung-nhi-co-nguy-co-dot-quy-tang-cao-thoi-su-17g-4-7-2022-440411.html</link>
-      <description><![CDATA[23:12 - 04/07/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/nguoi-benh-rung-nhi-co-nguy-co-dot-quy-tang-cao-thoi-su-17g-4-7-2022-440411.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/07/04/AMThoisu17h00p040722-44p52s-20220704164449.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 05 Jul 2022 06:12:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>"Khởi nghiệp văn chương” từ giảng đường - Thời sự 11g 4/7/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/khoi-nghiep-van-chuong-tu-giang-duong-thoi-su-11g-4-7-2022-440410.html</link>
-      <description><![CDATA[23:12 - 04/07/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/khoi-nghiep-van-chuong-tu-giang-duong-thoi-su-11g-4-7-2022-440410.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/07/04/AMThoisu11h00p040722-29p12s-20220704103950.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 05 Jul 2022 06:12:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
