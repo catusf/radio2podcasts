@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 05 Jul 2022 06:12:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 05 Jul 2022 17:36:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 05 Jul 2022 06:12:00 +0700</pubDate>
+    <pubDate>Tue, 05 Jul 2022 17:36:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Kinh tế phục hồi tích cực, tăng trưởng GDP cả năm sẽ vượt mục tiêu - Sài Gòn buổi sáng 5/7/2022</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/kinh-te-phuc-hoi-tich-cuc-tang-truong-gdp-ca-nam-se-vuot-muc-tieu-sai-gon-buoi-sang-5-7-2022-440451.html</link>
+      <description><![CDATA[10:36 - 05/07/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/kinh-te-phuc-hoi-tich-cuc-tang-truong-gdp-ca-nam-se-vuot-muc-tieu-sai-gon-buoi-sang-5-7-2022-440451.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/07/05/FM999-SGBUOISANG06h00p050722-Copy.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 05 Jul 2022 17:36:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Tầm quan trọng của việc tiêm mũi nhắc lại vắc-xin phòng COVID-19 - Sài Gòn buổi sáng 4/7/2022</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/tam-quan-trong-cua-viec-tiem-mui-nhac-lai-vac-xin-phong-covid-19-sai-gon-buoi-sang-4-7-2022-440412.html</link>
       <description><![CDATA[23:12 - 04/07/2022]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/tam-quan-trong-cua-viec-tiem-mui-nhac-lai-vac-xin-phong-covid-19-sai-gon-buoi-sang-4-7-2022-440412.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/07/04/FMSGBS06h00p040722-20220704070236.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 05 Jul 2022 06:12:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Nhìn lại phim Việt 6 tháng đầu năm 2022 - Sài Gòn buổi sáng 03/07/2022</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/nhin-lai-phim-viet-6-thang-dau-nam-2022-sai-gon-buoi-sang-03-07-2022-440240.html</link>
-      <description><![CDATA[06:00 - 03/07/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/nhin-lai-phim-viet-6-thang-dau-nam-2022-sai-gon-buoi-sang-03-07-2022-440240.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/07/03/FM999-SGBUOISANG06h00p030722.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 03 Jul 2022 13:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
