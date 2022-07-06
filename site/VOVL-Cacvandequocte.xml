@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 02 Jul 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 06 Jul 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 02 Jul 2022 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 06 Jul 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,22 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Hợp tác thương mại sau gần thập kỷ đóng băng giữa Ấn Độ và Liên minh Châu Âu nhằm giảm sự phụ thuộc của Trung Quốc</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Sau gần một thập kỷ gián đoạn, mới đây tại New Delhi, Ấn Độ và Liên minh Châu Âu (EU) đã kết thúc vòng đàm phán đầu tiên về các thỏa thuận thương mại và đầu tư song phương, chỉ dẫn địa lý... Dự kiến, vòng đàm phán thứ hai sẽ được tổ chức vào tháng 9 tới đây tại Bruxelles, Bỉ. EU hiện là đối tác thương mại lớn thứ hai của Ấn Độ sau Mỹ, nhưng các cuộc đàm phán giữa EU và Ấn Độ đã đổ vỡ từ năm 2013 vì nhiều lý do. Vì thế, thông qua việc nối lại tiến trình đàm phán thương mại sau cả quãng thời gian đóng băng, EU - Ấn Độ kỳ vọng sẽ củng cố quan hệ kinh tế và thiết lập thỏa thuận thương mại toàn diện chung vào cuối năm 2023; đồng thời hướng tới giảm sự phụ thuộc vào Trung Quốc.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/07/05/vovlive_vandequocte_hoptacthuongmaiandoeu.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 06 Jul 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Trung Quốc tăng sức ảnh hưởng ở khu vực Đông Nam Á</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Bộ trưởng Ngoại giao Trung Quốc Vương Nghị đang có chuyến công du 5 quốc gia Đông Nam Á nhằm thúc đẩy hợp tác khu vực trong bối cảnh cạnh tranh chiến lược giữa Mỹ và Trung Quốc ngày càng gay gắt. Theo kế hoạch, trong chuyến thăm Đông Nam Á lần này, ông Vương Nghị tham dự cuộc họp của các ngoại trưởng về cơ chế Hợp tác Mêkông - Lan Thương và hội nghị ngoại trưởng 20 nền kinh tế hàng đầu (G20). Chuyến công du Đông Nam Á của Bộ trưởng Ngoại giao Trung Quốc Vương Nghị diễn ra vào thời điểm quan trọng khi thế giới đối mặt nhiều bất ổn và biến động. Chuyến thăm hướng tới mục tiêu chiến lược gì và tác động ra sao tới an ninh khu vực?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/07/05/vovlive_vandequocte_trungquoctangsucanhhuongokhuvucdongnama.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 05 Jul 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>NATO thay đổi thế nào với chiến lược mới?</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -38,22 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/06/30/vovlive_vandequocte_thonhikyunghophanlanthuydiengianhapnato.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 01 Jul 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Mỹ - Nhật - Hàn bắt tay vì mục tiêu chung</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Ngày 29/06, tại Madrid (Tây Ban Nha) diễn ra hội nghị thượng đỉnh 3 bên Mỹ -Nhật Bản - Hàn Quốc. Đây là cuộc gặp đầu tiên sau hơn 4 năm giữa các lãnh đạo Mỹ - Nhật Bản - Hàn Quốc kể từ cuộc gặp gần nhất được tổ chức hồi tháng 9 năm 2017. Diễn ra trong bối cảnh Triều Tiên liên tục tiến hành các vụ phóng thử tên lửa, trong khi các cuộc đàm phán về phi hạt nhân hóa trên bán đảo Triều Tiên vẫn bế tắc, dự kiến, tại hội nghị lần này, các nhà lãnh đạo sẽ tái khẳng định quan hệ hợp tác trong việc đối phó với Triều Tiên và tăng cường hợp tác nhằm hiện thực hóa khu vực Ấn Độ Dương - Thái Bình Dương tự do và rộng mở. Hội nghị thượng đỉnh Mỹ - Nhật - Hàn lần này sẽ đưa ra biện pháp gì để đối phó với Triều Tiên? Quan hệ đồng minh Mỹ, Nhật, Hàn sẽ có thêm những bước tiến nào?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/06/30/vovlive_vandequocte_mynhathanbattayvimuctieuchung.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 30 Jun 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Hội nghị thượng đỉnh NATO: Thay đổi chiến lược quốc phòng trong cuộc đại tu lớn nhất kể từ Chiến tranh Lạnh</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Ngay sau Hội nghị thượng đỉnh của nhóm 7 nền công nghiệp phát triển hàng đầu thế giới (G7), ngày 28/6, Hội nghị thượng đỉnh của liên minh quân sự Hiệp ước Bắc Đại Tây dương (NATO) cũng diễn ra tại thủ đô Madrid (Tây Ban Nha). Hội nghị NATO năm nay được đánh giá là sự kiện quan trọng, đánh dấu “cuộc đại tu lớn nhất” kể từ Chiến tranh Lạnh, trong đó các nước NATO sẽ đưa ra một bản chiến lược quốc phòng mới.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/06/29/vovlive_vandequocte_hoinghithuongdinhnato.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 29 Jun 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
