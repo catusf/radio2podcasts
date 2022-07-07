@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 19 Jun 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 03 Jul 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 19 Jun 2022 19:00:00 +0700</pubDate>
+    <pubDate>Sun, 03 Jul 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,24 @@
     </itunes:owner>
     <itunes:subtitle>Âm nhạc với cuộc sống</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Amnhacvoicuocsong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>“Những vì sao đen”: Câu chuyện cảm xúc về hình ảnh người lính thương binh giữa cuộc sống đời thường</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[- Thưởng thức ca khúc “Em yêu anh – người lính quê hương” - Ca khúc mới sáng tác của Nhạc sĩ Đỗ Hoàng Linh (Trình bày: Ca sĩ Mai Thúy).
+- Hướng tới kỷ niệm ngày Thương binh Liệt sỹ (27/7/2022), cùng thưởng thức tác phẩm “Những vì sao đen” (Tác giả: Ngô Tự Lập, Trình bày: Nhóm Belcanto) và lắng nghe những chia sẻ của tác giả Ngô Tự Lập về tác phẩm âm nhạc này.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/07/05/vovlive_am_nhac_voi_cuoc-song_nhung_vi_sao_den_ngo_tu_lap.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 03 Jul 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>“Gia đình là mái ấm”: Ca khúc gửi gắm thông điệp ý nghĩa về gia đình của nhạc sĩ Trần Thanh Tùng</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[- Nhạc sĩ Trần Thanh Tùng là tác giả của các ca khúc như: “Tình khúc Nguyệt Hồ”, “Đừng ví em là biển”, “Nơi em về làm dâu”, “Tình rừng”... Ông đã nhận được nhiều giải thưởng âm nhạc của Hội Nhạc sĩ Việt Nam, Bộ Văn hóa - Thông tin, Bộ Quốc phòng và giải của các Hội Văn học - Nghệ thuật địa phương như Hải Dương, Hà Tây...Nhân ngày Gia đình Việt Nam 28/6, cùng thưởng thức ca khúc “Gia đình là mái ấm” của nhạc sĩ Trần Thanh Tùng- Ca khúc đoạt giải nhì trong cuộc vận động sáng tác ca khúc toàn quốc viết về Gia đình do Đài TNVN; Đài THVN, Hội Nhạc sĩ Việt Nam, Báo Gia đình và Xã hội tổ chức năm 2007 và lắng nghe những chia sẻ của ông về gia đình và về ca khúc này… 
+- Thưởng thức tác phẩm “Con gái” (nhạc sĩ Trần Tiến)]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/06/29/vovlive_am_nhac_voi_cuoc_song_gia_dinh_la_mai_am.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 26 Jun 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>“Ký sự Trường Sa”: Ca khúc mới sôi động và đầy ý nghĩa về Trường Sa của nữ ca sĩ Hà Myo</title>
       <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
@@ -40,23 +58,6 @@
       <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/06/16/vovlive_am_nhac_voi_cuoc_song_tu_khuc_ha_noi.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 12 Jun 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>“Dấu chân phía trước”: Mỗi duyên thơ - nhạc giữa nhà thơ Hồ Thi Ca và nhạc sĩ Phạm Minh Tuấn</title>
-      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[- Đã 41 năm trôi qua, thi phẩm và bài hát cùng tên “Dấu chân phía trước” đi vào lòng công chúng, trở thành một trong những tác phẩm viết về Bác Hồ hay nhất. Kỷ niệm 111 năm Bác Hồ ra đi tìm đường cứu nước (05/6/1911-05/6/2022). Cùng tìm hiểu về mối duyên thơ - nhạc giữa nhà thơ Hồ Thi Ca và nhạc sĩ Phạm Minh Tuấn cùng “Dấu chân phía trước”.
-- Những chia sẻ của nhạc sĩ Nguyễn Bá Hùng về món quà gửi tặng những người lính Trường Sa đầy ý nghĩa, ca khúc “Lời gửi Trường Sa” (Sáng tác: Nguyễn Bá Hùng, Trình bày: Nguyễn Phi Hùng)]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/06/10/vovlive_am_nhac_voi_cuoc_song_dau_chan_phia_truoc.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 05 Jun 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Tìm hiểu về mối duyên gắn bó Âm nhạc thiếu nhi với sự nghiệp sáng tác của nhạc sĩ Trần Nhật Bằng-Trưởng phòng Ca nhạc Thiếu nhi, Ban Âm nhạc VOV3, Đài TNVN</title>
-      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[Kỷ niệm ngày Quốc tế Thiếu nhi, cùng gặp gỡ nhạc sĩ Trần Nhật Bằng với những chia sẻ về công việc, sự nghiệp sáng tác âm nhạc của anh và lắng nghe một số tác phẩm âm nhạc là món quà nhạc sĩ gửi tặng các em Thiếu nhi: “Sonatine cho violon, cello, piano”, “Bàn tay bé xinh” (phổ thơ Nguyễn Khắc Hào), “Thắp sáng những ngôi sao tương lai”…]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/05/30/vovlive_am_nhac_voi_cuoc_song_tran_nhat_bang.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 29 May 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
