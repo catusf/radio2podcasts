@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 07 Jul 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 08 Jul 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 07 Jul 2022 19:00:00 +0700</pubDate>
+    <pubDate>Fri, 08 Jul 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Những tâm điểm tại Hội nghị Ngoại trưởng G20</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Ngày 7/7, Hội nghị Ngoại trưởng Nhóm các nền kinh tế phát triển và mới nổi hàng đầu thế giới (G20) khai mạc tại Bali, Indonesia. Diễn ra trong hai ngày 7/7 - 8/7, Hội nghị dự kiến sẽ thảo luận hàng loạt vấn đề “nóng” đang thu hút sự quan tâm của dư luận quốc tế như cuộc khủng hoảng tại Ukraine, cạnh tranh chiến lược giữa các cường quốc, triển vọng không mấy sáng sủa của nền kinh tế thế giới, hệ quả của đứt gãy chuỗi cung ứng toàn cầu…. Bên cạnh phiên họp toàn thể, Hội nghị Ngoại trưởng G20 còn nhiều cuộc gặp đáng chú ý bên lề, trong đó được quan tâm nhất là cuộc gặp giữa Ngoại trưởng Mỹ Antoni Blinken và Ngoại trưởng Trung Quốc Vương Nghị. Từng chứng kiến những cuộc đấu khẩu gay gắt trong nhiều hội nghị quốc tế gần đây xuất phát từ những bất đồng khó tìm tiếng nói chung giữa hai bên, dư luận nhận định rằng cuộc gặp giữa Ngoại trưởng hai nước lần này sẽ vẫn diễn ra trong bầu không khí căng thẳng.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/07/07/vovlive_vandequocte_nhungtamdiemtaihoinghingoaitruongg20.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 08 Jul 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Thông điệp của Hàn Quốc khi tăng cường mối quan hệ hợp tác với NATO</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/07/05/vovlive_vandequocte_trungquoctangsucanhhuongokhuvucdongnama.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 05 Jul 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>NATO thay đổi thế nào với chiến lược mới?</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Tại Hội nghị thượng đỉnh của liên minh quân sự Hiệp ước Bắc Đại Tây dương (NATO) vừa diễn ra trong 2 ngày tại thủ đô Madrid của Tây Ban Nha, NATO đã công bố khái niệm chiến lược mới nhằm định hướng chính sách của NATO trong những năm tới. Ngoài ra, NATO quyết định tăng lực lượng ở trạng thái sẵn sàng cao lên mức hơn 300.000 quân, đồng thời nâng cấp mạnh mẽ hệ thống phòng thủ của khối về phía Đông. Việc NATO đưa ra chiến lược mới xuất phát từ những thay đổi lớn trong cấu trúc an ninh khu vực và thế giới thời gian gần đây đòi hỏi NATO phải có những thay đổi tương ứng cả về định hướng chiến lược và tư duy hành động, thể hiện rõ qua việc kết nạp các thành viên mới và tạo lập mối liên kết với các quốc gia ở Châu Á – Thái Bình Dương như New Zealands, Nhật Bản, Hàn Quốc.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/07/01/vovlive_vandequocte_natothaydoithenaovoichienluocmoi.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 02 Jul 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
