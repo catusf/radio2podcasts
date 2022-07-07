@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 06 Jul 2022 16:25:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 07 Jul 2022 13:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 06 Jul 2022 16:25:00 +0700</pubDate>
+    <pubDate>Thu, 07 Jul 2022 13:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Dịch bệnh trẻ em đang có chiều hướng gia tăng - Sài Gòn Buổi Sáng 07/07/2022</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/dich-benh-tre-em-dang-co-chieu-huong-gia-tang-sai-gon-buoi-sang-07-07-2022-440671.html</link>
+      <description><![CDATA[06:00 - 07/07/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/dich-benh-tre-em-dang-co-chieu-huong-gia-tang-sai-gon-buoi-sang-07-07-2022-440671.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/07/07/FM999-SGBUOISANG06h00p070722.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 07 Jul 2022 13:00:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Sau 1/8/2022, chưa dán thẻ ETC sẽ không được phép đi trên cao tốc - Sài Gòn buổi sáng 6/7/2022</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sau-1-8-2022-chua-dan-the-etc-se-khong-duoc-phep-di-tren-cao-toc-sai-gon-buoi-sang-6-7-2022-440556.html</link>
       <description><![CDATA[09:25 - 06/07/2022]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sau-1-8-2022-chua-dan-the-etc-se-khong-duoc-phep-di-tren-cao-toc-sai-gon-buoi-sang-6-7-2022-440556.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/07/06/FMSGBS06h00p060722-20220706070420.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 06 Jul 2022 16:25:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Kinh tế phục hồi tích cực, tăng trưởng GDP cả năm sẽ vượt mục tiêu - Sài Gòn buổi sáng 5/7/2022</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/kinh-te-phuc-hoi-tich-cuc-tang-truong-gdp-ca-nam-se-vuot-muc-tieu-sai-gon-buoi-sang-5-7-2022-440451.html</link>
-      <description><![CDATA[10:36 - 05/07/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/kinh-te-phuc-hoi-tich-cuc-tang-truong-gdp-ca-nam-se-vuot-muc-tieu-sai-gon-buoi-sang-5-7-2022-440451.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/07/05/FM999-SGBUOISANG06h00p050722-Copy.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 05 Jul 2022 17:36:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
