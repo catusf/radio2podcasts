@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 07 Jul 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 08 Jul 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 07 Jul 2022 19:00:00 +0700</pubDate>
+    <pubDate>Fri, 08 Jul 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Khơi thông giải ngân gói hỗ trợ tiền thuê nhà cho người lao động nhìn từ kinh nghiệm của tỉnh Cà Mau</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Quyết định 08 của Chính phủ về việc thực hiện chính sách hỗ trợ tiền thuê nhà cho người lao động ban hành hồi cuối tháng 3 và có hiệu lực thi hành cùng thời điểm được người lao động cả nước mong đợi sau những tháng ngày khó khăn do đại dịch COVID19. Thế nhưng, việc triển khai chính sách thiết thực này đến nay vẫn rất chậm trễ. Sau hơn 3 tháng, mới chỉ giải ngân được 1% so với mục tiêu đề ra là 6.600 tỉ đồng. Trong khi nhiều tỉnh thành còn đang rà soát để làm hồ sơ thì tại tỉnh Cà Mau đã có hàng ngàn người lao động được thụ hưởng. Đâu là những giải pháp giúp địa phương này thực hiện nhanh chóng chính sách? Cần làm gì để khơi thông gói hỗ trợ tiền thuê nhà cho người lao động ở những địa phương chậm trễ, tiến tới hoàn thành giải ngân trước hạn chót 15/8 năm nay?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/07/08/vovlive_sukienvabanluan_khoi_thong_giai_ngan_goi_goi_ho_tro_tien_thue_nha.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 08 Jul 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Tranh cãi việc chính phủ Thái Lan hợp pháp hóa cần sa</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/07/05/vovlive_sukienvabanluan_phuong_tay_ap_gia_tran_voi_dau_mo_cua_nga_de_hay_kho.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 05 Jul 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Giải pháp nào cho vấn đề thiếu nhân lực khi ngành du lịch đang vào giai đoạn phục hồi mạnh mẽ?</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Sau 2 năm ứng phó và đã vượt qua đại dịch Covid - 19, giờ đây ngành du lịch nước ta đang quay trở lại, với những dấu hiệu phục hồi mạnh mẽ. Những con số biết nói đã được thống kê như: khách du lịch nội địa đạt khoảng 48,6 triệu lượt qua 5 tháng đầu năm, với tổng thu tổng ước đạt 211.000 tỉ đồng; khách quốc tế đến Việt Nam gấp 4,5 lần so với cùng kỳ năm ngoái. Sang đến tháng 6, tháng bắt đầu mùa du lịch, hình ảnh đông nghẹt du khách ở hầu khắp các địa phương có danh lam thắng cảnh đang khiến cả ngành kinh tế phấn khởi. Thế nhưng, ngay trong niềm hân hoan ấy, những người làm quản lý du lịch đang thường trực một nỗi lo lắng lớn, khi ngành đang thiếu hụt nghiêm trọng nguồn nhân lực phục vụ cho du lịch, và điều này có thể kéo lùi đà phục hồi và phát triển du lịch của Việt Nam.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/07/05/vovlive_sukienvabanluan_giai_phap_nao_cho_van_de_thieu_hut_nguon_nhan_luc.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 30 Jun 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
