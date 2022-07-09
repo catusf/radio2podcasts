@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 08 Jul 2022 15:20:35 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 09 Jul 2022 15:20:30 +0200</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 08 Jul 2022 15:20:35 +0200</pubDate>
+    <pubDate>Sat, 09 Jul 2022 15:20:30 +0200</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>60'</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/RFI-Chuongtrinh60.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>09-07-2022 Chương trình 60'</title>
+      <link>https://www.rfi.fr/vi/t%E1%BB%95ng-h%E1%BB%A3p/20220709-ch%C6%B0%C6%A1ng-tr%C3%ACnh-60-ph%C3%BAt</link>
+      <description><![CDATA[Chương trình ngày 09-07-2022 ]]></description>
+      <guid isPermaLink="false">https://www.rfi.fr/vi/t%E1%BB%95ng-h%E1%BB%A3p/20220709-ch%C6%B0%C6%A1ng-tr%C3%ACnh-60-ph%C3%BAt</guid>
+      <enclosure url="https://aod-rfi.akamaized.net/rfi/vietnamien/audio/modules/actu/202207/VN_60MN_2022_07_09.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 09 Jul 2022 15:20:30 +0200</pubDate>
+    </item>
     <item>
       <title>08-07-2022 Chương trình 60'</title>
       <link>https://www.rfi.fr/vi/t%E1%BB%95ng-h%E1%BB%A3p/20220708-ch%C6%B0%C6%A1ng-tr%C3%ACnh-60-ph%C3%BAt</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://www.rfi.fr/vi/t%E1%BB%95ng-h%E1%BB%A3p/20220705-ch%C6%B0%C6%A1ng-tr%C3%ACnh-60-ph%C3%BAt</guid>
       <enclosure url="https://aod-rfi.akamaized.net/rfi/vietnamien/audio/modules/actu/202207/VN_60MN_2022_07_05.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 05 Jul 2022 15:20:42 +0200</pubDate>
-    </item>
-    <item>
-      <title>04-07-2022 Chương trình 60'</title>
-      <link>https://www.rfi.fr/vi/t%E1%BB%95ng-h%E1%BB%A3p/20220704-ch%C6%B0%C6%A1ng-tr%C3%ACnh-60-ph%C3%BAt</link>
-      <description><![CDATA[Chương trình ngày 04-07-2022 ]]></description>
-      <guid isPermaLink="false">https://www.rfi.fr/vi/t%E1%BB%95ng-h%E1%BB%A3p/20220704-ch%C6%B0%C6%A1ng-tr%C3%ACnh-60-ph%C3%BAt</guid>
-      <enclosure url="https://aod-rfi.akamaized.net/rfi/vietnamien/audio/modules/actu/202207/VN_60MN_2022_07_04.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 04 Jul 2022 15:22:09 +0200</pubDate>
     </item>
   </channel>
 </rss>
