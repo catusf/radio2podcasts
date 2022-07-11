@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 08 Jul 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 09 Jul 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 08 Jul 2022 19:00:00 +0700</pubDate>
+    <pubDate>Sat, 09 Jul 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Bầu cử Thượng viện Nhật Bản - phép thử đối với Liên minh cầm quyền</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Ngày 10/7, tại Nhật Bản sẽ diễn ra cuộc bầu cử Thượng viện. Sự kiện trọng đại này được coi là phép thử lớn với uy tín của Thủ tướng Kishida Fumio sau hơn nửa năm lên nắm quyền. Tham gia chạy đua vào Thượng viện năm nay có 545 ứng cử viên, nhiều nhất từ trước tới nay. Kết quả thăm dò dư luận mới nhất do hãng tin Kyodo thực hiện cho thấy Liên minh cầm quyền giữa Đảng Dân chủ Tự do (LDP) của Thủ tướng Kishida Fumio và Đảng Công minh có thể giành hơn 50% trong tổng số 125 ghế sẽ được bầu lại trong cuộc bầu cử Thượng viện Nhật Bản. Cuộc thăm dò cũng cho thấy, số đảng phái ủng hộ việc sửa đổi hiến pháp, giành được đa số 2/3 sau cuộc bầu cử này là rất lớn. Đây là điều kiện tiên quyết để đưa ra đề xuất cải cách Hiến pháp. Vậy cuộc bầu cử Thượng viện Nhật Bản diễn ra cuối tuần này sẽ tác động ra sao tới chính trường Nhật Bản?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/07/11/vovlive_vandequocte_baucuthuongviennhatban.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 09 Jul 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Những tâm điểm tại Hội nghị Ngoại trưởng G20</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/07/05/vovlive_vandequocte_hoptacthuongmaiandoeu.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 06 Jul 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Trung Quốc tăng sức ảnh hưởng ở khu vực Đông Nam Á</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Bộ trưởng Ngoại giao Trung Quốc Vương Nghị đang có chuyến công du 5 quốc gia Đông Nam Á nhằm thúc đẩy hợp tác khu vực trong bối cảnh cạnh tranh chiến lược giữa Mỹ và Trung Quốc ngày càng gay gắt. Theo kế hoạch, trong chuyến thăm Đông Nam Á lần này, ông Vương Nghị tham dự cuộc họp của các ngoại trưởng về cơ chế Hợp tác Mêkông - Lan Thương và hội nghị ngoại trưởng 20 nền kinh tế hàng đầu (G20). Chuyến công du Đông Nam Á của Bộ trưởng Ngoại giao Trung Quốc Vương Nghị diễn ra vào thời điểm quan trọng khi thế giới đối mặt nhiều bất ổn và biến động. Chuyến thăm hướng tới mục tiêu chiến lược gì và tác động ra sao tới an ninh khu vực?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/07/05/vovlive_vandequocte_trungquoctangsucanhhuongokhuvucdongnama.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 05 Jul 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
