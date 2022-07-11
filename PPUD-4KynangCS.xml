@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 01 Jul 2020 07:14:11 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2020 07:14:17 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 01 Jul 2020 07:14:11 +0700</pubDate>
+    <pubDate>Wed, 01 Jul 2020 07:14:17 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,524 +24,68 @@
     <itunes:subtitle>Trang 4</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/PPUD-4KynangCS.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>▶ 1/65 Bí Quyết Thành Công Dành Cho Bạn Trẻ - Jack Canfield - Lời Giới Thiệu</title>
-      <link>https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</link>
-      <description><![CDATA[Bí Quyết Thành Công Dành Cho Bạn Trẻ Tác giả: Jack Canfield Bí quyết thành công dành cho bạn trẻ chính là kim chỉ nam cho các bạn thanh thiếu niên,...]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</guid>
-      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/BiQuyetThanhCongDanhChoBanTre/Sach-Noi-Audio-Book-Bi-Quyet-Thanh-Cong-Danh-Cho-Ban-Tre-01-Loigioithieu-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <title>▶ 1/8 Bí Quyết Kinh Doanh Của Người Do Thái - Chương 1: Tuân Thủ Giao Ước - Chương 2 : Giữ Quan Hệ Làm Ăn</title>
+      <link>https://phatphapungdung.com/sach-noi/bi-quyet-kinh-doanh-cua-nguoi-do-thai-63323.html</link>
+      <description><![CDATA[Bí Quyết Kinh Doanh Của Người Do Thái Có lẽ bạn đã từng nghe nói: khi một ông chủ ngân hàng lớn người Do Thái "ho hắng" một tiếng, toàn...]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-quyet-kinh-doanh-cua-nguoi-do-thai-63323.html</guid>
+      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/BiQuyetKinhDoanhCuaNguoiDoThai/Sach-Noi-Audio-Book-Bi-Quyet-Kinh-Doanh-Cua-Nguoi-Do-Thai-01-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 01 Jul 2020 07:00:00 +0700</pubDate>
     </item>
     <item>
-      <title>2/65 Bí Quyết Thành Công Dành Cho Bạn Trẻ - Jack Canfield - Yếu Tố Bạn</title>
-      <link>https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</link>
-      <description><![CDATA[Bí Quyết Thành Công Dành Cho Bạn Trẻ Tác giả: Jack Canfield Bí quyết thành công dành cho bạn trẻ chính là kim chỉ nam cho các bạn thanh thiếu niên,...]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</guid>
-      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/BiQuyetThanhCongDanhChoBanTre/Sach-Noi-Audio-Book-Bi-Quyet-Thanh-Cong-Danh-Cho-Ban-Tre-02-Yeutoban-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <title>2/8 Bí Quyết Kinh Doanh Của Người Do Thái - Chương 3: Trí Tuệ Trong Kinh Doanh Còn Đáng Giá Hơn Vàng</title>
+      <link>https://phatphapungdung.com/sach-noi/bi-quyet-kinh-doanh-cua-nguoi-do-thai-63323.html</link>
+      <description><![CDATA[Bí Quyết Kinh Doanh Của Người Do Thái Có lẽ bạn đã từng nghe nói: khi một ông chủ ngân hàng lớn người Do Thái "ho hắng" một tiếng, toàn...]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-quyet-kinh-doanh-cua-nguoi-do-thai-63323.html</guid>
+      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/BiQuyetKinhDoanhCuaNguoiDoThai/Sach-Noi-Audio-Book-Bi-Quyet-Kinh-Doanh-Cua-Nguoi-Do-Thai-03-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 01 Jul 2020 07:00:01 +0700</pubDate>
     </item>
     <item>
-      <title>3/65 Bí Quyết Thành Công Dành Cho Bạn Trẻ - Jack Canfield - Kent Là Ai</title>
-      <link>https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</link>
-      <description><![CDATA[Bí Quyết Thành Công Dành Cho Bạn Trẻ Tác giả: Jack Canfield Bí quyết thành công dành cho bạn trẻ chính là kim chỉ nam cho các bạn thanh thiếu niên,...]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</guid>
-      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/BiQuyetThanhCongDanhChoBanTre/Sach-Noi-Audio-Book-Bi-Quyet-Thanh-Cong-Danh-Cho-Ban-Tre-03-Kentlaai-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <title>3/8 Bí Quyết Kinh Doanh Của Người Do Thái - Chương 3: Tiếp Theo</title>
+      <link>https://phatphapungdung.com/sach-noi/bi-quyet-kinh-doanh-cua-nguoi-do-thai-63323.html</link>
+      <description><![CDATA[Bí Quyết Kinh Doanh Của Người Do Thái Có lẽ bạn đã từng nghe nói: khi một ông chủ ngân hàng lớn người Do Thái "ho hắng" một tiếng, toàn...]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-quyet-kinh-doanh-cua-nguoi-do-thai-63323.html</guid>
+      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/BiQuyetKinhDoanhCuaNguoiDoThai/Sach-Noi-Audio-Book-Bi-Quyet-Kinh-Doanh-Cua-Nguoi-Do-Thai-04-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 01 Jul 2020 07:00:02 +0700</pubDate>
     </item>
     <item>
-      <title>4/65 Bí Quyết Thành Công Dành Cho Bạn Trẻ - Jack Canfield - Jack Là Ai</title>
-      <link>https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</link>
-      <description><![CDATA[Bí Quyết Thành Công Dành Cho Bạn Trẻ Tác giả: Jack Canfield Bí quyết thành công dành cho bạn trẻ chính là kim chỉ nam cho các bạn thanh thiếu niên,...]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</guid>
-      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/BiQuyetThanhCongDanhChoBanTre/Sach-Noi-Audio-Book-Bi-Quyet-Thanh-Cong-Danh-Cho-Ban-Tre-04-Jacklaai-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <title>4/8 Bí Quyết Kinh Doanh Của Người Do Thái - Chương 4: Trí Tuệ Kinh Doanh Siêu Việt Của Thương Nhân Do Thái</title>
+      <link>https://phatphapungdung.com/sach-noi/bi-quyet-kinh-doanh-cua-nguoi-do-thai-63323.html</link>
+      <description><![CDATA[Bí Quyết Kinh Doanh Của Người Do Thái Có lẽ bạn đã từng nghe nói: khi một ông chủ ngân hàng lớn người Do Thái "ho hắng" một tiếng, toàn...]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-quyet-kinh-doanh-cua-nguoi-do-thai-63323.html</guid>
+      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/BiQuyetKinhDoanhCuaNguoiDoThai/Sach-Noi-Audio-Book-Bi-Quyet-Kinh-Doanh-Cua-Nguoi-Do-Thai-05-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 01 Jul 2020 07:00:03 +0700</pubDate>
     </item>
     <item>
-      <title>5/65 Bí Quyết Thành Công Dành Cho Bạn Trẻ - Jack Canfield - Nguyên Tắc 1</title>
-      <link>https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</link>
-      <description><![CDATA[Bí Quyết Thành Công Dành Cho Bạn Trẻ Tác giả: Jack Canfield Bí quyết thành công dành cho bạn trẻ chính là kim chỉ nam cho các bạn thanh thiếu niên,...]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</guid>
-      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/BiQuyetThanhCongDanhChoBanTre/Sach-Noi-Audio-Book-Bi-Quyet-Thanh-Cong-Danh-Cho-Ban-Tre-05-Nguyentac-1-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <title>5/8 Bí Quyết Kinh Doanh Của Người Do Thái - Chương 4: Tiếp Theo</title>
+      <link>https://phatphapungdung.com/sach-noi/bi-quyet-kinh-doanh-cua-nguoi-do-thai-63323.html</link>
+      <description><![CDATA[Bí Quyết Kinh Doanh Của Người Do Thái Có lẽ bạn đã từng nghe nói: khi một ông chủ ngân hàng lớn người Do Thái "ho hắng" một tiếng, toàn...]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-quyet-kinh-doanh-cua-nguoi-do-thai-63323.html</guid>
+      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/BiQuyetKinhDoanhCuaNguoiDoThai/Sach-Noi-Audio-Book-Bi-Quyet-Kinh-Doanh-Cua-Nguoi-Do-Thai-06-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 01 Jul 2020 07:00:04 +0700</pubDate>
     </item>
     <item>
-      <title>6/65 Bí Quyết Thành Công Dành Cho Bạn Trẻ - Jack Canfield - Toàn Diện</title>
-      <link>https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</link>
-      <description><![CDATA[Bí Quyết Thành Công Dành Cho Bạn Trẻ Tác giả: Jack Canfield Bí quyết thành công dành cho bạn trẻ chính là kim chỉ nam cho các bạn thanh thiếu niên,...]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</guid>
-      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/BiQuyetThanhCongDanhChoBanTre/Sach-Noi-Audio-Book-Bi-Quyet-Thanh-Cong-Danh-Cho-Ban-Tre-06-Toandien-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <title>6/8 Bí Quyết Kinh Doanh Của Người Do Thái - Chương 5: Đầu Cơ Và Cho Vay - Cuộc Chơi Của Người Do Thái</title>
+      <link>https://phatphapungdung.com/sach-noi/bi-quyet-kinh-doanh-cua-nguoi-do-thai-63323.html</link>
+      <description><![CDATA[Bí Quyết Kinh Doanh Của Người Do Thái Có lẽ bạn đã từng nghe nói: khi một ông chủ ngân hàng lớn người Do Thái "ho hắng" một tiếng, toàn...]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-quyet-kinh-doanh-cua-nguoi-do-thai-63323.html</guid>
+      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/BiQuyetKinhDoanhCuaNguoiDoThai/Sach-Noi-Audio-Book-Bi-Quyet-Kinh-Doanh-Cua-Nguoi-Do-Thai-07-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 01 Jul 2020 07:00:05 +0700</pubDate>
     </item>
     <item>
-      <title>7/65 Bí Quyết Thành Công Dành Cho Bạn Trẻ - Jack Canfield - Trò Đổ Lỗi</title>
-      <link>https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</link>
-      <description><![CDATA[Bí Quyết Thành Công Dành Cho Bạn Trẻ Tác giả: Jack Canfield Bí quyết thành công dành cho bạn trẻ chính là kim chỉ nam cho các bạn thanh thiếu niên,...]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</guid>
-      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/BiQuyetThanhCongDanhChoBanTre/Sach-Noi-Audio-Book-Bi-Quyet-Thanh-Cong-Danh-Cho-Ban-Tre-07-Trodoloi-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <title>7/8 Bí Quyết Kinh Doanh Của Người Do Thái - Chương 6: Vận Dụng Trí Tuệ Quyết Thắng Trên Bàn Đàm Phán</title>
+      <link>https://phatphapungdung.com/sach-noi/bi-quyet-kinh-doanh-cua-nguoi-do-thai-63323.html</link>
+      <description><![CDATA[Bí Quyết Kinh Doanh Của Người Do Thái Có lẽ bạn đã từng nghe nói: khi một ông chủ ngân hàng lớn người Do Thái "ho hắng" một tiếng, toàn...]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-quyet-kinh-doanh-cua-nguoi-do-thai-63323.html</guid>
+      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/BiQuyetKinhDoanhCuaNguoiDoThai/Sach-Noi-Audio-Book-Bi-Quyet-Kinh-Doanh-Cua-Nguoi-Do-Thai-08-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 01 Jul 2020 07:00:06 +0700</pubDate>
     </item>
     <item>
-      <title>8/65 Bí Quyết Thành Công Dành Cho Bạn Trẻ - Jack Canfield - Phản Ứng Bằng Hành Động</title>
-      <link>https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</link>
-      <description><![CDATA[Bí Quyết Thành Công Dành Cho Bạn Trẻ Tác giả: Jack Canfield Bí quyết thành công dành cho bạn trẻ chính là kim chỉ nam cho các bạn thanh thiếu niên,...]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</guid>
-      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/BiQuyetThanhCongDanhChoBanTre/Sach-Noi-Audio-Book-Bi-Quyet-Thanh-Cong-Danh-Cho-Ban-Tre-08-Phanungbanghanhdong-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <title>8/8 Bí Quyết Kinh Doanh Của Người Do Thái - Chương 7: Luôn Vững Niềm Tin - Trong Nghịch Cảnh Vẫn Làm Giàu</title>
+      <link>https://phatphapungdung.com/sach-noi/bi-quyet-kinh-doanh-cua-nguoi-do-thai-63323.html</link>
+      <description><![CDATA[Bí Quyết Kinh Doanh Của Người Do Thái Có lẽ bạn đã từng nghe nói: khi một ông chủ ngân hàng lớn người Do Thái "ho hắng" một tiếng, toàn...]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-quyet-kinh-doanh-cua-nguoi-do-thai-63323.html</guid>
+      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/BiQuyetKinhDoanhCuaNguoiDoThai/Sach-Noi-Audio-Book-Bi-Quyet-Kinh-Doanh-Cua-Nguoi-Do-Thai-09-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 01 Jul 2020 07:00:07 +0700</pubDate>
-    </item>
-    <item>
-      <title>9/65 Bí Quyết Thành Công Dành Cho Bạn Trẻ - Jack Canfield - Đơn Giản Chưa Chắc Dễ</title>
-      <link>https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</link>
-      <description><![CDATA[Bí Quyết Thành Công Dành Cho Bạn Trẻ Tác giả: Jack Canfield Bí quyết thành công dành cho bạn trẻ chính là kim chỉ nam cho các bạn thanh thiếu niên,...]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</guid>
-      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/BiQuyetThanhCongDanhChoBanTre/Sach-Noi-Audio-Book-Bi-Quyet-Thanh-Cong-Danh-Cho-Ban-Tre-09-Dongianchuachacde-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:00:08 +0700</pubDate>
-    </item>
-    <item>
-      <title>10/65 Bí Quyết Thành Công Dành Cho Bạn Trẻ - Jack Canfield - Nguyên Tắc 2</title>
-      <link>https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</link>
-      <description><![CDATA[Bí Quyết Thành Công Dành Cho Bạn Trẻ Tác giả: Jack Canfield Bí quyết thành công dành cho bạn trẻ chính là kim chỉ nam cho các bạn thanh thiếu niên,...]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</guid>
-      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/BiQuyetThanhCongDanhChoBanTre/Sach-Noi-Audio-Book-Bi-Quyet-Thanh-Cong-Danh-Cho-Ban-Tre-10-Nguyentac-2-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:00:09 +0700</pubDate>
-    </item>
-    <item>
-      <title>11/65 Bí Quyết Thành Công Dành Cho Bạn Trẻ - Jack Canfield - Tìm Đội Ngũ Ủng Hộ</title>
-      <link>https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</link>
-      <description><![CDATA[Bí Quyết Thành Công Dành Cho Bạn Trẻ Tác giả: Jack Canfield Bí quyết thành công dành cho bạn trẻ chính là kim chỉ nam cho các bạn thanh thiếu niên,...]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</guid>
-      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/BiQuyetThanhCongDanhChoBanTre/Sach-Noi-Audio-Book-Bi-Quyet-Thanh-Cong-Danh-Cho-Ban-Tre-11-Timdoinguungho-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:00:10 +0700</pubDate>
-    </item>
-    <item>
-      <title>12/65 Bí Quyết Thành Công Dành Cho Bạn Trẻ - Jack Canfield - Những Người Khác</title>
-      <link>https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</link>
-      <description><![CDATA[Bí Quyết Thành Công Dành Cho Bạn Trẻ Tác giả: Jack Canfield Bí quyết thành công dành cho bạn trẻ chính là kim chỉ nam cho các bạn thanh thiếu niên,...]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</guid>
-      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/BiQuyetThanhCongDanhChoBanTre/Sach-Noi-Audio-Book-Bi-Quyet-Thanh-Cong-Danh-Cho-Ban-Tre-12-Nhungnguoikhac-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:00:11 +0700</pubDate>
-    </item>
-    <item>
-      <title>13/65 Bí Quyết Thành Công Dành Cho Bạn Trẻ - Jack Canfield - Nguyên Tắc 3</title>
-      <link>https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</link>
-      <description><![CDATA[Bí Quyết Thành Công Dành Cho Bạn Trẻ Tác giả: Jack Canfield Bí quyết thành công dành cho bạn trẻ chính là kim chỉ nam cho các bạn thanh thiếu niên,...]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</guid>
-      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/BiQuyetThanhCongDanhChoBanTre/Sach-Noi-Audio-Book-Bi-Quyet-Thanh-Cong-Danh-Cho-Ban-Tre-13-Nguyentac-3-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:00:12 +0700</pubDate>
-    </item>
-    <item>
-      <title>14/65 Bí Quyết Thành Công Dành Cho Bạn Trẻ - Jack Canfield - Đừng Sống Bằng Giấc Mơ</title>
-      <link>https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</link>
-      <description><![CDATA[Bí Quyết Thành Công Dành Cho Bạn Trẻ Tác giả: Jack Canfield Bí quyết thành công dành cho bạn trẻ chính là kim chỉ nam cho các bạn thanh thiếu niên,...]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</guid>
-      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/BiQuyetThanhCongDanhChoBanTre/Sach-Noi-Audio-Book-Bi-Quyet-Thanh-Cong-Danh-Cho-Ban-Tre-14-Dungsongbanggiacmo-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:00:13 +0700</pubDate>
-    </item>
-    <item>
-      <title>15/65 Bí Quyết Thành Công Dành Cho Bạn Trẻ - Jack Canfield - Đừng Có Thái Độ</title>
-      <link>https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</link>
-      <description><![CDATA[Bí Quyết Thành Công Dành Cho Bạn Trẻ Tác giả: Jack Canfield Bí quyết thành công dành cho bạn trẻ chính là kim chỉ nam cho các bạn thanh thiếu niên,...]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</guid>
-      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/BiQuyetThanhCongDanhChoBanTre/Sach-Noi-Audio-Book-Bi-Quyet-Thanh-Cong-Danh-Cho-Ban-Tre-15-Dungcothaido-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:00:14 +0700</pubDate>
-    </item>
-    <item>
-      <title>16/65 Bí Quyết Thành Công Dành Cho Bạn Trẻ - Jack Canfield - Thu Hút Những Gì Bạn Muốn</title>
-      <link>https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</link>
-      <description><![CDATA[Bí Quyết Thành Công Dành Cho Bạn Trẻ Tác giả: Jack Canfield Bí quyết thành công dành cho bạn trẻ chính là kim chỉ nam cho các bạn thanh thiếu niên,...]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</guid>
-      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/BiQuyetThanhCongDanhChoBanTre/Sach-Noi-Audio-Book-Bi-Quyet-Thanh-Cong-Danh-Cho-Ban-Tre-16-Thuhutnhunggibanmuon-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:00:15 +0700</pubDate>
-    </item>
-    <item>
-      <title>17/65 Bí Quyết Thành Công Dành Cho Bạn Trẻ - Jack Canfield - Đừng Chỉ Nghĩ</title>
-      <link>https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</link>
-      <description><![CDATA[Bí Quyết Thành Công Dành Cho Bạn Trẻ Tác giả: Jack Canfield Bí quyết thành công dành cho bạn trẻ chính là kim chỉ nam cho các bạn thanh thiếu niên,...]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</guid>
-      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/BiQuyetThanhCongDanhChoBanTre/Sach-Noi-Audio-Book-Bi-Quyet-Thanh-Cong-Danh-Cho-Ban-Tre-17-Dungchinghi-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:00:16 +0700</pubDate>
-    </item>
-    <item>
-      <title>18/65 Bí Quyết Thành Công Dành Cho Bạn Trẻ - Jack Canfield - Nguyên Tắc 4</title>
-      <link>https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</link>
-      <description><![CDATA[Bí Quyết Thành Công Dành Cho Bạn Trẻ Tác giả: Jack Canfield Bí quyết thành công dành cho bạn trẻ chính là kim chỉ nam cho các bạn thanh thiếu niên,...]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</guid>
-      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/BiQuyetThanhCongDanhChoBanTre/Sach-Noi-Audio-Book-Bi-Quyet-Thanh-Cong-Danh-Cho-Ban-Tre-18-Nguyentac-4-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:00:17 +0700</pubDate>
-    </item>
-    <item>
-      <title>19/65 Bí Quyết Thành Công Dành Cho Bạn Trẻ - Jack Canfield - Để Cuộc Đời Chúng Ta Diễn Ra Tốt Hơn</title>
-      <link>https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</link>
-      <description><![CDATA[Bí Quyết Thành Công Dành Cho Bạn Trẻ Tác giả: Jack Canfield Bí quyết thành công dành cho bạn trẻ chính là kim chỉ nam cho các bạn thanh thiếu niên,...]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</guid>
-      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/BiQuyetThanhCongDanhChoBanTre/Sach-Noi-Audio-Book-Bi-Quyet-Thanh-Cong-Danh-Cho-Ban-Tre-19-Decuocdoichungta-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:00:18 +0700</pubDate>
-    </item>
-    <item>
-      <title>20/65 Bí Quyết Thành Công Dành Cho Bạn Trẻ - Jack Canfield - Mục Đích Của Bạn Là Gì</title>
-      <link>https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</link>
-      <description><![CDATA[Bí Quyết Thành Công Dành Cho Bạn Trẻ Tác giả: Jack Canfield Bí quyết thành công dành cho bạn trẻ chính là kim chỉ nam cho các bạn thanh thiếu niên,...]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</guid>
-      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/BiQuyetThanhCongDanhChoBanTre/Sach-Noi-Audio-Book-Bi-Quyet-Thanh-Cong-Danh-Cho-Ban-Tre-20-Mucdichcuabanlagi-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:00:19 +0700</pubDate>
-    </item>
-    <item>
-      <title>21/65 Bí Quyết Thành Công Dành Cho Bạn Trẻ - Jack Canfield - Nguyên Tắc 5</title>
-      <link>https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</link>
-      <description><![CDATA[Bí Quyết Thành Công Dành Cho Bạn Trẻ Tác giả: Jack Canfield Bí quyết thành công dành cho bạn trẻ chính là kim chỉ nam cho các bạn thanh thiếu niên,...]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</guid>
-      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/BiQuyetThanhCongDanhChoBanTre/Sach-Noi-Audio-Book-Bi-Quyet-Thanh-Cong-Danh-Cho-Ban-Tre-21-Nguyentac-5-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:00:20 +0700</pubDate>
-    </item>
-    <item>
-      <title>22/65 Bí Quyết Thành Công Dành Cho Bạn Trẻ - Jack Canfield - Dù Có Thể Đang Lẫn Trốn Đâu Đó, Điều Tốt Nhất Vẫn Đang Tồn Tại</title>
-      <link>https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</link>
-      <description><![CDATA[Bí Quyết Thành Công Dành Cho Bạn Trẻ Tác giả: Jack Canfield Bí quyết thành công dành cho bạn trẻ chính là kim chỉ nam cho các bạn thanh thiếu niên,...]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</guid>
-      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/BiQuyetThanhCongDanhChoBanTre/Sach-Noi-Audio-Book-Bi-Quyet-Thanh-Cong-Danh-Cho-Ban-Tre-22-Ducothe-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:00:21 +0700</pubDate>
-    </item>
-    <item>
-      <title>23/65 Bí Quyết Thành Công Dành Cho Bạn Trẻ - Jack Canfield - Nguyên Tắc 6</title>
-      <link>https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</link>
-      <description><![CDATA[Bí Quyết Thành Công Dành Cho Bạn Trẻ Tác giả: Jack Canfield Bí quyết thành công dành cho bạn trẻ chính là kim chỉ nam cho các bạn thanh thiếu niên,...]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</guid>
-      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/BiQuyetThanhCongDanhChoBanTre/Sach-Noi-Audio-Book-Bi-Quyet-Thanh-Cong-Danh-Cho-Ban-Tre-23-Nguyentac-6-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:00:22 +0700</pubDate>
-    </item>
-    <item>
-      <title>24/65 Bí Quyết Thành Công Dành Cho Bạn Trẻ - Jack Canfield - Ba Mối Đe Dọa</title>
-      <link>https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</link>
-      <description><![CDATA[Bí Quyết Thành Công Dành Cho Bạn Trẻ Tác giả: Jack Canfield Bí quyết thành công dành cho bạn trẻ chính là kim chỉ nam cho các bạn thanh thiếu niên,...]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</guid>
-      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/BiQuyetThanhCongDanhChoBanTre/Sach-Noi-Audio-Book-Bi-Quyet-Thanh-Cong-Danh-Cho-Ban-Tre-24-Bamoidedoa-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:00:23 +0700</pubDate>
-    </item>
-    <item>
-      <title>25/65 Bí Quyết Thành Công Dành Cho Bạn Trẻ - Jack Canfield - Ý Nghĩa Đằng Sau Mục Tiêu</title>
-      <link>https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</link>
-      <description><![CDATA[Bí Quyết Thành Công Dành Cho Bạn Trẻ Tác giả: Jack Canfield Bí quyết thành công dành cho bạn trẻ chính là kim chỉ nam cho các bạn thanh thiếu niên,...]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</guid>
-      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/BiQuyetThanhCongDanhChoBanTre/Sach-Noi-Audio-Book-Bi-Quyet-Thanh-Cong-Danh-Cho-Ban-Tre-25-Ynghiadangsau-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:00:24 +0700</pubDate>
-    </item>
-    <item>
-      <title>26/65 Bí Quyết Thành Công Dành Cho Bạn Trẻ - Jack Canfield - Nguyên Tắc 7</title>
-      <link>https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</link>
-      <description><![CDATA[Bí Quyết Thành Công Dành Cho Bạn Trẻ Tác giả: Jack Canfield Bí quyết thành công dành cho bạn trẻ chính là kim chỉ nam cho các bạn thanh thiếu niên,...]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</guid>
-      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/BiQuyetThanhCongDanhChoBanTre/Sach-Noi-Audio-Book-Bi-Quyet-Thanh-Cong-Danh-Cho-Ban-Tre-26-Nguyentac-7-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:00:25 +0700</pubDate>
-    </item>
-    <item>
-      <title>27/65 Bí Quyết Thành Công Dành Cho Bạn Trẻ - Jack Canfield - Vòng Tròn Lẫn Quẩn</title>
-      <link>https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</link>
-      <description><![CDATA[Bí Quyết Thành Công Dành Cho Bạn Trẻ Tác giả: Jack Canfield Bí quyết thành công dành cho bạn trẻ chính là kim chỉ nam cho các bạn thanh thiếu niên,...]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</guid>
-      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/BiQuyetThanhCongDanhChoBanTre/Sach-Noi-Audio-Book-Bi-Quyet-Thanh-Cong-Danh-Cho-Ban-Tre-27-Vongtronlanquan-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:00:26 +0700</pubDate>
-    </item>
-    <item>
-      <title>28/65 Bí Quyết Thành Công Dành Cho Bạn Trẻ - Jack Canfield - Nguyên Tắc 8</title>
-      <link>https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</link>
-      <description><![CDATA[Bí Quyết Thành Công Dành Cho Bạn Trẻ Tác giả: Jack Canfield Bí quyết thành công dành cho bạn trẻ chính là kim chỉ nam cho các bạn thanh thiếu niên,...]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</guid>
-      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/BiQuyetThanhCongDanhChoBanTre/Sach-Noi-Audio-Book-Bi-Quyet-Thanh-Cong-Danh-Cho-Ban-Tre-28-Nguyentac-8-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:00:27 +0700</pubDate>
-    </item>
-    <item>
-      <title>29/65 Bí Quyết Thành Công Dành Cho Bạn Trẻ - Jack Canfield - Hình Dung Ra Sự Hoàn Hảo</title>
-      <link>https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</link>
-      <description><![CDATA[Bí Quyết Thành Công Dành Cho Bạn Trẻ Tác giả: Jack Canfield Bí quyết thành công dành cho bạn trẻ chính là kim chỉ nam cho các bạn thanh thiếu niên,...]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</guid>
-      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/BiQuyetThanhCongDanhChoBanTre/Sach-Noi-Audio-Book-Bi-Quyet-Thanh-Cong-Danh-Cho-Ban-Tre-29-Hinhdungrasuhoanhao-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:00:28 +0700</pubDate>
-    </item>
-    <item>
-      <title>30/65 Bí Quyết Thành Công Dành Cho Bạn Trẻ - Jack Canfield - Thực Tập Việc Hình Dung</title>
-      <link>https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</link>
-      <description><![CDATA[Bí Quyết Thành Công Dành Cho Bạn Trẻ Tác giả: Jack Canfield Bí quyết thành công dành cho bạn trẻ chính là kim chỉ nam cho các bạn thanh thiếu niên,...]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</guid>
-      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/BiQuyetThanhCongDanhChoBanTre/Sach-Noi-Audio-Book-Bi-Quyet-Thanh-Cong-Danh-Cho-Ban-Tre-30-Thuctaphinhdung-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:00:29 +0700</pubDate>
-    </item>
-    <item>
-      <title>31/65 Bí Quyết Thành Công Dành Cho Bạn Trẻ - Jack Canfield - Nguyên Tắc 9</title>
-      <link>https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</link>
-      <description><![CDATA[Bí Quyết Thành Công Dành Cho Bạn Trẻ Tác giả: Jack Canfield Bí quyết thành công dành cho bạn trẻ chính là kim chỉ nam cho các bạn thanh thiếu niên,...]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</guid>
-      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/BiQuyetThanhCongDanhChoBanTre/Sach-Noi-Audio-Book-Bi-Quyet-Thanh-Cong-Danh-Cho-Ban-Tre-31-Nguyentac-9-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:00:30 +0700</pubDate>
-    </item>
-    <item>
-      <title>32/65 Bí Quyết Thành Công Dành Cho Bạn Trẻ - Jack Canfield - Hãy Trở Thành Người Mà Bạn Muốn Trong Tương Lai</title>
-      <link>https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</link>
-      <description><![CDATA[Bí Quyết Thành Công Dành Cho Bạn Trẻ Tác giả: Jack Canfield Bí quyết thành công dành cho bạn trẻ chính là kim chỉ nam cho các bạn thanh thiếu niên,...]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</guid>
-      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/BiQuyetThanhCongDanhChoBanTre/Sach-Noi-Audio-Book-Bi-Quyet-Thanh-Cong-Danh-Cho-Ban-Tre-32-Haytrothanh-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:00:31 +0700</pubDate>
-    </item>
-    <item>
-      <title>33/65 Bí Quyết Thành Công Dành Cho Bạn Trẻ - Jack Canfield - Nguyên Tắc 10</title>
-      <link>https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</link>
-      <description><![CDATA[Bí Quyết Thành Công Dành Cho Bạn Trẻ Tác giả: Jack Canfield Bí quyết thành công dành cho bạn trẻ chính là kim chỉ nam cho các bạn thanh thiếu niên,...]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</guid>
-      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/BiQuyetThanhCongDanhChoBanTre/Sach-Noi-Audio-Book-Bi-Quyet-Thanh-Cong-Danh-Cho-Ban-Tre-33-Nguyentac-10-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:00:32 +0700</pubDate>
-    </item>
-    <item>
-      <title>34/65 Bí Quyết Thành Công Dành Cho Bạn Trẻ - Jack Canfield - Cứ Thử Đi</title>
-      <link>https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</link>
-      <description><![CDATA[Bí Quyết Thành Công Dành Cho Bạn Trẻ Tác giả: Jack Canfield Bí quyết thành công dành cho bạn trẻ chính là kim chỉ nam cho các bạn thanh thiếu niên,...]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</guid>
-      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/BiQuyetThanhCongDanhChoBanTre/Sach-Noi-Audio-Book-Bi-Quyet-Thanh-Cong-Danh-Cho-Ban-Tre-34-Cuthudi-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:00:33 +0700</pubDate>
-    </item>
-    <item>
-      <title>35/65 Bí Quyết Thành Công Dành Cho Bạn Trẻ - Jack Canfield - Nguyên Tắc 11</title>
-      <link>https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</link>
-      <description><![CDATA[Bí Quyết Thành Công Dành Cho Bạn Trẻ Tác giả: Jack Canfield Bí quyết thành công dành cho bạn trẻ chính là kim chỉ nam cho các bạn thanh thiếu niên,...]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</guid>
-      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/BiQuyetThanhCongDanhChoBanTre/Sach-Noi-Audio-Book-Bi-Quyet-Thanh-Cong-Danh-Cho-Ban-Tre-35-Nguyentac-11-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:00:34 +0700</pubDate>
-    </item>
-    <item>
-      <title>36/65 Bí Quyết Thành Công Dành Cho Bạn Trẻ - Jack Canfield - Nhận Diện Nỗi Sợ</title>
-      <link>https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</link>
-      <description><![CDATA[Bí Quyết Thành Công Dành Cho Bạn Trẻ Tác giả: Jack Canfield Bí quyết thành công dành cho bạn trẻ chính là kim chỉ nam cho các bạn thanh thiếu niên,...]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</guid>
-      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/BiQuyetThanhCongDanhChoBanTre/Sach-Noi-Audio-Book-Bi-Quyet-Thanh-Cong-Danh-Cho-Ban-Tre-36-Nhandiennoiso-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:00:35 +0700</pubDate>
-    </item>
-    <item>
-      <title>37/65 Bí Quyết Thành Công Dành Cho Bạn Trẻ - Jack Canfield - Giảm Thiểu Rủi Ro</title>
-      <link>https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</link>
-      <description><![CDATA[Bí Quyết Thành Công Dành Cho Bạn Trẻ Tác giả: Jack Canfield Bí quyết thành công dành cho bạn trẻ chính là kim chỉ nam cho các bạn thanh thiếu niên,...]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</guid>
-      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/BiQuyetThanhCongDanhChoBanTre/Sach-Noi-Audio-Book-Bi-Quyet-Thanh-Cong-Danh-Cho-Ban-Tre-37-Giamthieuruiro-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:00:36 +0700</pubDate>
-    </item>
-    <item>
-      <title>38/65 Bí Quyết Thành Công Dành Cho Bạn Trẻ - Jack Canfield - Nguyên Tắc 12</title>
-      <link>https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</link>
-      <description><![CDATA[Bí Quyết Thành Công Dành Cho Bạn Trẻ Tác giả: Jack Canfield Bí quyết thành công dành cho bạn trẻ chính là kim chỉ nam cho các bạn thanh thiếu niên,...]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</guid>
-      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/BiQuyetThanhCongDanhChoBanTre/Sach-Noi-Audio-Book-Bi-Quyet-Thanh-Cong-Danh-Cho-Ban-Tre-38-Nguyentac-12-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:00:37 +0700</pubDate>
-    </item>
-    <item>
-      <title>39/65 Bí Quyết Thành Công Dành Cho Bạn Trẻ - Jack Canfield - Một Yêu Cầu Cơ Bản</title>
-      <link>https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</link>
-      <description><![CDATA[Bí Quyết Thành Công Dành Cho Bạn Trẻ Tác giả: Jack Canfield Bí quyết thành công dành cho bạn trẻ chính là kim chỉ nam cho các bạn thanh thiếu niên,...]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</guid>
-      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/BiQuyetThanhCongDanhChoBanTre/Sach-Noi-Audio-Book-Bi-Quyet-Thanh-Cong-Danh-Cho-Ban-Tre-39-Motyeucaucoban-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:00:38 +0700</pubDate>
-    </item>
-    <item>
-      <title>40/65 Bí Quyết Thành Công Dành Cho Bạn Trẻ - Jack Canfield - Biến Cảm Hứng Thành Hành Động</title>
-      <link>https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</link>
-      <description><![CDATA[Bí Quyết Thành Công Dành Cho Bạn Trẻ Tác giả: Jack Canfield Bí quyết thành công dành cho bạn trẻ chính là kim chỉ nam cho các bạn thanh thiếu niên,...]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</guid>
-      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/BiQuyetThanhCongDanhChoBanTre/Sach-Noi-Audio-Book-Bi-Quyet-Thanh-Cong-Danh-Cho-Ban-Tre-40-Biencamhungthanhhanhdong-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:00:39 +0700</pubDate>
-    </item>
-    <item>
-      <title>41/65 Bí Quyết Thành Công Dành Cho Bạn Trẻ - Jack Canfield - Nguyên Tắc 13</title>
-      <link>https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</link>
-      <description><![CDATA[Bí Quyết Thành Công Dành Cho Bạn Trẻ Tác giả: Jack Canfield Bí quyết thành công dành cho bạn trẻ chính là kim chỉ nam cho các bạn thanh thiếu niên,...]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</guid>
-      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/BiQuyetThanhCongDanhChoBanTre/Sach-Noi-Audio-Book-Bi-Quyet-Thanh-Cong-Danh-Cho-Ban-Tre-41-Nguyentac-13-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:00:40 +0700</pubDate>
-    </item>
-    <item>
-      <title>42/65 Bí Quyết Thành Công Dành Cho Bạn Trẻ - Jack Canfield - Làm Sao Để Hỏi Xin Những Điều Mình Muốn</title>
-      <link>https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</link>
-      <description><![CDATA[Bí Quyết Thành Công Dành Cho Bạn Trẻ Tác giả: Jack Canfield Bí quyết thành công dành cho bạn trẻ chính là kim chỉ nam cho các bạn thanh thiếu niên,...]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</guid>
-      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/BiQuyetThanhCongDanhChoBanTre/Sach-Noi-Audio-Book-Bi-Quyet-Thanh-Cong-Danh-Cho-Ban-Tre-42-Lamsaodehoi-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:00:41 +0700</pubDate>
-    </item>
-    <item>
-      <title>43/65 Bí Quyết Thành Công Dành Cho Bạn Trẻ - Jack Canfield - Một Vài Con Số Bất Ngờ</title>
-      <link>https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</link>
-      <description><![CDATA[Bí Quyết Thành Công Dành Cho Bạn Trẻ Tác giả: Jack Canfield Bí quyết thành công dành cho bạn trẻ chính là kim chỉ nam cho các bạn thanh thiếu niên,...]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</guid>
-      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/BiQuyetThanhCongDanhChoBanTre/Sach-Noi-Audio-Book-Bi-Quyet-Thanh-Cong-Danh-Cho-Ban-Tre-43-Motvaiconso-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:00:42 +0700</pubDate>
-    </item>
-    <item>
-      <title>44/65 Bí Quyết Thành Công Dành Cho Bạn Trẻ - Jack Canfield - Nguyên Tắc 14</title>
-      <link>https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</link>
-      <description><![CDATA[Bí Quyết Thành Công Dành Cho Bạn Trẻ Tác giả: Jack Canfield Bí quyết thành công dành cho bạn trẻ chính là kim chỉ nam cho các bạn thanh thiếu niên,...]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</guid>
-      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/BiQuyetThanhCongDanhChoBanTre/Sach-Noi-Audio-Book-Bi-Quyet-Thanh-Cong-Danh-Cho-Ban-Tre-44-Nguyentac-14-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:00:43 +0700</pubDate>
-    </item>
-    <item>
-      <title>45/65 Bí Quyết Thành Công Dành Cho Bạn Trẻ - Jack Canfield - swswswsw</title>
-      <link>https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</link>
-      <description><![CDATA[Bí Quyết Thành Công Dành Cho Bạn Trẻ Tác giả: Jack Canfield Bí quyết thành công dành cho bạn trẻ chính là kim chỉ nam cho các bạn thanh thiếu niên,...]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</guid>
-      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/BiQuyetThanhCongDanhChoBanTre/Sach-Noi-Audio-Book-Bi-Quyet-Thanh-Cong-Danh-Cho-Ban-Tre-45-Swswswsw-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:00:44 +0700</pubDate>
-    </item>
-    <item>
-      <title>46/65 Bí Quyết Thành Công Dành Cho Bạn Trẻ - Jack Canfield - Không Ngừng Cố Gắng</title>
-      <link>https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</link>
-      <description><![CDATA[Bí Quyết Thành Công Dành Cho Bạn Trẻ Tác giả: Jack Canfield Bí quyết thành công dành cho bạn trẻ chính là kim chỉ nam cho các bạn thanh thiếu niên,...]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</guid>
-      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/BiQuyetThanhCongDanhChoBanTre/Sach-Noi-Audio-Book-Bi-Quyet-Thanh-Cong-Danh-Cho-Ban-Tre-46-Kongungcogang-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:00:45 +0700</pubDate>
-    </item>
-    <item>
-      <title>47/65 Bí Quyết Thành Công Dành Cho Bạn Trẻ - Jack Canfield - Nguyên Tắc 15</title>
-      <link>https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</link>
-      <description><![CDATA[Bí Quyết Thành Công Dành Cho Bạn Trẻ Tác giả: Jack Canfield Bí quyết thành công dành cho bạn trẻ chính là kim chỉ nam cho các bạn thanh thiếu niên,...]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</guid>
-      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/BiQuyetThanhCongDanhChoBanTre/Sach-Noi-Audio-Book-Bi-Quyet-Thanh-Cong-Danh-Cho-Ban-Tre-47-Nguyentac-15-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:00:46 +0700</pubDate>
-    </item>
-    <item>
-      <title>48/65 Bí Quyết Thành Công Dành Cho Bạn Trẻ - Jack Canfield - Phản Ứng Sai</title>
-      <link>https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</link>
-      <description><![CDATA[Bí Quyết Thành Công Dành Cho Bạn Trẻ Tác giả: Jack Canfield Bí quyết thành công dành cho bạn trẻ chính là kim chỉ nam cho các bạn thanh thiếu niên,...]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</guid>
-      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/BiQuyetThanhCongDanhChoBanTre/Sach-Noi-Audio-Book-Bi-Quyet-Thanh-Cong-Danh-Cho-Ban-Tre-48-Phanungsai-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:00:47 +0700</pubDate>
-    </item>
-    <item>
-      <title>49/65 Bí Quyết Thành Công Dành Cho Bạn Trẻ - Jack Canfield - Câu Hỏi Giải Trí</title>
-      <link>https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</link>
-      <description><![CDATA[Bí Quyết Thành Công Dành Cho Bạn Trẻ Tác giả: Jack Canfield Bí quyết thành công dành cho bạn trẻ chính là kim chỉ nam cho các bạn thanh thiếu niên,...]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</guid>
-      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/BiQuyetThanhCongDanhChoBanTre/Sach-Noi-Audio-Book-Bi-Quyet-Thanh-Cong-Danh-Cho-Ban-Tre-49-Cauhoigiatri-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:00:48 +0700</pubDate>
-    </item>
-    <item>
-      <title>50/65 Bí Quyết Thành Công Dành Cho Bạn Trẻ - Jack Canfield - Hãy Lắng Nghe</title>
-      <link>https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</link>
-      <description><![CDATA[Bí Quyết Thành Công Dành Cho Bạn Trẻ Tác giả: Jack Canfield Bí quyết thành công dành cho bạn trẻ chính là kim chỉ nam cho các bạn thanh thiếu niên,...]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</guid>
-      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/BiQuyetThanhCongDanhChoBanTre/Sach-Noi-Audio-Book-Bi-Quyet-Thanh-Cong-Danh-Cho-Ban-Tre-50-Haylangnghe-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:00:49 +0700</pubDate>
-    </item>
-    <item>
-      <title>51/65 Bí Quyết Thành Công Dành Cho Bạn Trẻ - Jack Canfield - Nguyên Tắc 16</title>
-      <link>https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</link>
-      <description><![CDATA[Bí Quyết Thành Công Dành Cho Bạn Trẻ Tác giả: Jack Canfield Bí quyết thành công dành cho bạn trẻ chính là kim chỉ nam cho các bạn thanh thiếu niên,...]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</guid>
-      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/BiQuyetThanhCongDanhChoBanTre/Sach-Noi-Audio-Book-Bi-Quyet-Thanh-Cong-Danh-Cho-Ban-Tre-51-Nguyentac-16-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:00:50 +0700</pubDate>
-    </item>
-    <item>
-      <title>52/65 Bí Quyết Thành Công Dành Cho Bạn Trẻ - Jack Canfield - Rời Khỏi Nhóm Đáng Thương</title>
-      <link>https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</link>
-      <description><![CDATA[Bí Quyết Thành Công Dành Cho Bạn Trẻ Tác giả: Jack Canfield Bí quyết thành công dành cho bạn trẻ chính là kim chỉ nam cho các bạn thanh thiếu niên,...]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</guid>
-      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/BiQuyetThanhCongDanhChoBanTre/Sach-Noi-Audio-Book-Bi-Quyet-Thanh-Cong-Danh-Cho-Ban-Tre-52-Roikhoinhomdangthuong-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:00:51 +0700</pubDate>
-    </item>
-    <item>
-      <title>53/65 Bí Quyết Thành Công Dành Cho Bạn Trẻ - Jack Canfield - Hãy Tránh Xa Lũ Ma Cà Rồng</title>
-      <link>https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</link>
-      <description><![CDATA[Bí Quyết Thành Công Dành Cho Bạn Trẻ Tác giả: Jack Canfield Bí quyết thành công dành cho bạn trẻ chính là kim chỉ nam cho các bạn thanh thiếu niên,...]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</guid>
-      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/BiQuyetThanhCongDanhChoBanTre/Sach-Noi-Audio-Book-Bi-Quyet-Thanh-Cong-Danh-Cho-Ban-Tre-53-Haytranhxa-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:00:52 +0700</pubDate>
-    </item>
-    <item>
-      <title>54/65 Bí Quyết Thành Công Dành Cho Bạn Trẻ - Jack Canfield - Nguyên Tắc 17</title>
-      <link>https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</link>
-      <description><![CDATA[Bí Quyết Thành Công Dành Cho Bạn Trẻ Tác giả: Jack Canfield Bí quyết thành công dành cho bạn trẻ chính là kim chỉ nam cho các bạn thanh thiếu niên,...]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</guid>
-      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/BiQuyetThanhCongDanhChoBanTre/Sach-Noi-Audio-Book-Bi-Quyet-Thanh-Cong-Danh-Cho-Ban-Tre-54-Nguyentac-17-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:00:53 +0700</pubDate>
-    </item>
-    <item>
-      <title>55/65 Bí Quyết Thành Công Dành Cho Bạn Trẻ - Jack Canfield - Hãy Trưng Nó Ra</title>
-      <link>https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</link>
-      <description><![CDATA[Bí Quyết Thành Công Dành Cho Bạn Trẻ Tác giả: Jack Canfield Bí quyết thành công dành cho bạn trẻ chính là kim chỉ nam cho các bạn thanh thiếu niên,...]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</guid>
-      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/BiQuyetThanhCongDanhChoBanTre/Sach-Noi-Audio-Book-Bi-Quyet-Thanh-Cong-Danh-Cho-Ban-Tre-55-Haytrungnora-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:00:54 +0700</pubDate>
-    </item>
-    <item>
-      <title>56/65 Bí Quyết Thành Công Dành Cho Bạn Trẻ - Jack Canfield - Nguyên Tắc 18</title>
-      <link>https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</link>
-      <description><![CDATA[Bí Quyết Thành Công Dành Cho Bạn Trẻ Tác giả: Jack Canfield Bí quyết thành công dành cho bạn trẻ chính là kim chỉ nam cho các bạn thanh thiếu niên,...]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</guid>
-      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/BiQuyetThanhCongDanhChoBanTre/Sach-Noi-Audio-Book-Bi-Quyet-Thanh-Cong-Danh-Cho-Ban-Tre-56-Nguyentac-18-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:00:55 +0700</pubDate>
-    </item>
-    <item>
-      <title>57/65 Bí Quyết Thành Công Dành Cho Bạn Trẻ - Jack Canfield - Đừng Vội Ăn Kẹo Ngọt</title>
-      <link>https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</link>
-      <description><![CDATA[Bí Quyết Thành Công Dành Cho Bạn Trẻ Tác giả: Jack Canfield Bí quyết thành công dành cho bạn trẻ chính là kim chỉ nam cho các bạn thanh thiếu niên,...]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</guid>
-      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/BiQuyetThanhCongDanhChoBanTre/Sach-Noi-Audio-Book-Bi-Quyet-Thanh-Cong-Danh-Cho-Ban-Tre-57-Dungvoiankeongot-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:00:56 +0700</pubDate>
-    </item>
-    <item>
-      <title>58/65 Bí Quyết Thành Công Dành Cho Bạn Trẻ - Jack Canfield - Nguyên Tắc 90 Trên 10</title>
-      <link>https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</link>
-      <description><![CDATA[Bí Quyết Thành Công Dành Cho Bạn Trẻ Tác giả: Jack Canfield Bí quyết thành công dành cho bạn trẻ chính là kim chỉ nam cho các bạn thanh thiếu niên,...]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</guid>
-      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/BiQuyetThanhCongDanhChoBanTre/Sach-Noi-Audio-Book-Bi-Quyet-Thanh-Cong-Danh-Cho-Ban-Tre-58-Nguyentac-90tren-10-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:00:57 +0700</pubDate>
-    </item>
-    <item>
-      <title>59/65 Bí Quyết Thành Công Dành Cho Bạn Trẻ - Jack Canfield - Nguyên Tắc 19</title>
-      <link>https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</link>
-      <description><![CDATA[Bí Quyết Thành Công Dành Cho Bạn Trẻ Tác giả: Jack Canfield Bí quyết thành công dành cho bạn trẻ chính là kim chỉ nam cho các bạn thanh thiếu niên,...]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</guid>
-      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/BiQuyetThanhCongDanhChoBanTre/Sach-Noi-Audio-Book-Bi-Quyet-Thanh-Cong-Danh-Cho-Ban-Tre-59-Nguyentac-19-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:00:58 +0700</pubDate>
-    </item>
-    <item>
-      <title>60/65 Bí Quyết Thành Công Dành Cho Bạn Trẻ - Jack Canfield - Đi Xa Thêm Một Chút</title>
-      <link>https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</link>
-      <description><![CDATA[Bí Quyết Thành Công Dành Cho Bạn Trẻ Tác giả: Jack Canfield Bí quyết thành công dành cho bạn trẻ chính là kim chỉ nam cho các bạn thanh thiếu niên,...]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</guid>
-      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/BiQuyetThanhCongDanhChoBanTre/Sach-Noi-Audio-Book-Bi-Quyet-Thanh-Cong-Danh-Cho-Ban-Tre-60-Dixathemmotchut-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:00:59 +0700</pubDate>
-    </item>
-    <item>
-      <title>61/65 Bí Quyết Thành Công Dành Cho Bạn Trẻ - Jack Canfield - Câu Chuyện Của Jonny</title>
-      <link>https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</link>
-      <description><![CDATA[Bí Quyết Thành Công Dành Cho Bạn Trẻ Tác giả: Jack Canfield Bí quyết thành công dành cho bạn trẻ chính là kim chỉ nam cho các bạn thanh thiếu niên,...]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</guid>
-      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/BiQuyetThanhCongDanhChoBanTre/Sach-Noi-Audio-Book-Bi-Quyet-Thanh-Cong-Danh-Cho-Ban-Tre-61-Cauchuyencua-Jonny-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:01:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>62/65 Bí Quyết Thành Công Dành Cho Bạn Trẻ - Jack Canfield - Quy Tắc Không Ngoại Lệ</title>
-      <link>https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</link>
-      <description><![CDATA[Bí Quyết Thành Công Dành Cho Bạn Trẻ Tác giả: Jack Canfield Bí quyết thành công dành cho bạn trẻ chính là kim chỉ nam cho các bạn thanh thiếu niên,...]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</guid>
-      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/BiQuyetThanhCongDanhChoBanTre/Sach-Noi-Audio-Book-Bi-Quyet-Thanh-Cong-Danh-Cho-Ban-Tre-62-Quytackongoaile-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:01:01 +0700</pubDate>
-    </item>
-    <item>
-      <title>63/65 Bí Quyết Thành Công Dành Cho Bạn Trẻ - Jack Canfield - Nguyên Tắc 20</title>
-      <link>https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</link>
-      <description><![CDATA[Bí Quyết Thành Công Dành Cho Bạn Trẻ Tác giả: Jack Canfield Bí quyết thành công dành cho bạn trẻ chính là kim chỉ nam cho các bạn thanh thiếu niên,...]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</guid>
-      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/BiQuyetThanhCongDanhChoBanTre/Sach-Noi-Audio-Book-Bi-Quyet-Thanh-Cong-Danh-Cho-Ban-Tre-63-Nguyentacthu-20-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:01:02 +0700</pubDate>
-    </item>
-    <item>
-      <title>64/65 Bí Quyết Thành Công Dành Cho Bạn Trẻ - Jack Canfield - Phần Thưởng Chỉ Được Trao Cho Người Biết Hành Động</title>
-      <link>https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</link>
-      <description><![CDATA[Bí Quyết Thành Công Dành Cho Bạn Trẻ Tác giả: Jack Canfield Bí quyết thành công dành cho bạn trẻ chính là kim chỉ nam cho các bạn thanh thiếu niên,...]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</guid>
-      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/BiQuyetThanhCongDanhChoBanTre/Sach-Noi-Audio-Book-Bi-Quyet-Thanh-Cong-Danh-Cho-Ban-Tre-64-Phanthuongchiduoctrao-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:01:03 +0700</pubDate>
-    </item>
-    <item>
-      <title>65/65 Bí Quyết Thành Công Dành Cho Bạn Trẻ - Jack Canfield - Phần Kết Luận</title>
-      <link>https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</link>
-      <description><![CDATA[Bí Quyết Thành Công Dành Cho Bạn Trẻ Tác giả: Jack Canfield Bí quyết thành công dành cho bạn trẻ chính là kim chỉ nam cho các bạn thanh thiếu niên,...]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-quyet-thanh-cong-danh-cho-ban-tre-63330.html</guid>
-      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/BiQuyetThanhCongDanhChoBanTre/Sach-Noi-Audio-Book-Bi-Quyet-Thanh-Cong-Danh-Cho-Ban-Tre-65-Phanketluan-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:01:04 +0700</pubDate>
     </item>
     <item>
       <title>▶ 1/13 Cỗ Máy Bán Hàng Tối Ưu - Chet Holmes - Lời Giới Thiệu - Phần 1: Bí Quyết Quản Lý Thời Gian Của Tỷ Phú</title>
@@ -1640,12 +1184,140 @@
       <pubDate>Wed, 01 Jul 2020 07:10:10 +0700</pubDate>
     </item>
     <item>
+      <title>▶ 1/16 Tôi Tài Giỏi Bạn Cũng Thế - Adam Khoo - Lời Giới Thiệu</title>
+      <link>https://phatphapungdung.com/sach-noi/toi-tai-gioi-ban-cung-the-63700.html</link>
+      <description><![CDATA[Tôi Tài Giỏi Bạn Cũng Thế Tác giả: Adam Khoo Tôi tài giỏi, bạn cũng thế! tổng hợp những kỹ năng và phương pháp đã mang tới thành công vượt bậc...]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/toi-tai-gioi-ban-cung-the-63700.html</guid>
+      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/ToiTaiGioiBanCungThe/Sach-Noi-Audio-Book-Toi-Tai-Gioi-Ban-Cung-The-1-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 01 Jul 2020 07:11:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>2/16 Tôi Tài Giỏi Bạn Cũng Thế - Adam Khoo - Lời Mở Đầu</title>
+      <link>https://phatphapungdung.com/sach-noi/toi-tai-gioi-ban-cung-the-63700.html</link>
+      <description><![CDATA[Tôi Tài Giỏi Bạn Cũng Thế Tác giả: Adam Khoo Tôi tài giỏi, bạn cũng thế! tổng hợp những kỹ năng và phương pháp đã mang tới thành công vượt bậc...]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/toi-tai-gioi-ban-cung-the-63700.html</guid>
+      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/ToiTaiGioiBanCungThe/Sach-Noi-Audio-Book-Toi-Tai-Gioi-Ban-Cung-The-2-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 01 Jul 2020 07:11:01 +0700</pubDate>
+    </item>
+    <item>
+      <title>3/16 Tôi Tài Giỏi Bạn Cũng Thế - Adam Khoo - Giới Thiệu Về Tác Giả</title>
+      <link>https://phatphapungdung.com/sach-noi/toi-tai-gioi-ban-cung-the-63700.html</link>
+      <description><![CDATA[Tôi Tài Giỏi Bạn Cũng Thế Tác giả: Adam Khoo Tôi tài giỏi, bạn cũng thế! tổng hợp những kỹ năng và phương pháp đã mang tới thành công vượt bậc...]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/toi-tai-gioi-ban-cung-the-63700.html</guid>
+      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/ToiTaiGioiBanCungThe/Sach-Noi-Audio-Book-Toi-Tai-Gioi-Ban-Cung-The-3-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 01 Jul 2020 07:11:02 +0700</pubDate>
+    </item>
+    <item>
+      <title>4/16 Tôi Tài Giỏi Bạn Cũng Thế - Adam Khoo - Phương Pháp Khác Nhau Mang Lại Kết Quả Khác Nhau</title>
+      <link>https://phatphapungdung.com/sach-noi/toi-tai-gioi-ban-cung-the-63700.html</link>
+      <description><![CDATA[Tôi Tài Giỏi Bạn Cũng Thế Tác giả: Adam Khoo Tôi tài giỏi, bạn cũng thế! tổng hợp những kỹ năng và phương pháp đã mang tới thành công vượt bậc...]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/toi-tai-gioi-ban-cung-the-63700.html</guid>
+      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/ToiTaiGioiBanCungThe/Sach-Noi-Audio-Book-Toi-Tai-Gioi-Ban-Cung-The-4-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 01 Jul 2020 07:11:03 +0700</pubDate>
+    </item>
+    <item>
+      <title>5/16 Tôi Tài Giỏi Bạn Cũng Thế - Adam Khoo - Bạn Thật Sự Có Muốn Thành Công Không ?</title>
+      <link>https://phatphapungdung.com/sach-noi/toi-tai-gioi-ban-cung-the-63700.html</link>
+      <description><![CDATA[Tôi Tài Giỏi Bạn Cũng Thế Tác giả: Adam Khoo Tôi tài giỏi, bạn cũng thế! tổng hợp những kỹ năng và phương pháp đã mang tới thành công vượt bậc...]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/toi-tai-gioi-ban-cung-the-63700.html</guid>
+      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/ToiTaiGioiBanCungThe/Sach-Noi-Audio-Book-Toi-Tai-Gioi-Ban-Cung-The-5-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 01 Jul 2020 07:11:04 +0700</pubDate>
+    </item>
+    <item>
+      <title>6/16 Tôi Tài Giỏi Bạn Cũng Thế - Adam Khoo - Tôi Tin Tôi Có Thể Bay Cao</title>
+      <link>https://phatphapungdung.com/sach-noi/toi-tai-gioi-ban-cung-the-63700.html</link>
+      <description><![CDATA[Tôi Tài Giỏi Bạn Cũng Thế Tác giả: Adam Khoo Tôi tài giỏi, bạn cũng thế! tổng hợp những kỹ năng và phương pháp đã mang tới thành công vượt bậc...]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/toi-tai-gioi-ban-cung-the-63700.html</guid>
+      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/ToiTaiGioiBanCungThe/Sach-Noi-Audio-Book-Toi-Tai-Gioi-Ban-Cung-The-6-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 01 Jul 2020 07:11:05 +0700</pubDate>
+    </item>
+    <item>
+      <title>7/16 Tôi Tài Giỏi Bạn Cũng Thế - Adam Khoo - Những Phương Pháp Học Siêu Đẳng</title>
+      <link>https://phatphapungdung.com/sach-noi/toi-tai-gioi-ban-cung-the-63700.html</link>
+      <description><![CDATA[Tôi Tài Giỏi Bạn Cũng Thế Tác giả: Adam Khoo Tôi tài giỏi, bạn cũng thế! tổng hợp những kỹ năng và phương pháp đã mang tới thành công vượt bậc...]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/toi-tai-gioi-ban-cung-the-63700.html</guid>
+      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/ToiTaiGioiBanCungThe/Sach-Noi-Audio-Book-Toi-Tai-Gioi-Ban-Cung-The-7-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 01 Jul 2020 07:11:06 +0700</pubDate>
+    </item>
+    <item>
+      <title>8/16 Tôi Tài Giỏi Bạn Cũng Thế - Adam Khoo - Sơ Đồ Tư Duy</title>
+      <link>https://phatphapungdung.com/sach-noi/toi-tai-gioi-ban-cung-the-63700.html</link>
+      <description><![CDATA[Tôi Tài Giỏi Bạn Cũng Thế Tác giả: Adam Khoo Tôi tài giỏi, bạn cũng thế! tổng hợp những kỹ năng và phương pháp đã mang tới thành công vượt bậc...]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/toi-tai-gioi-ban-cung-the-63700.html</guid>
+      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/ToiTaiGioiBanCungThe/Sach-Noi-Audio-Book-Toi-Tai-Gioi-Ban-Cung-The-8-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 01 Jul 2020 07:11:07 +0700</pubDate>
+    </item>
+    <item>
+      <title>9/16 Tôi Tài Giỏi Bạn Cũng Thế - Adam Khoo - Trí Nhờ Siêu Đẳng Dành Cho Từ</title>
+      <link>https://phatphapungdung.com/sach-noi/toi-tai-gioi-ban-cung-the-63700.html</link>
+      <description><![CDATA[Tôi Tài Giỏi Bạn Cũng Thế Tác giả: Adam Khoo Tôi tài giỏi, bạn cũng thế! tổng hợp những kỹ năng và phương pháp đã mang tới thành công vượt bậc...]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/toi-tai-gioi-ban-cung-the-63700.html</guid>
+      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/ToiTaiGioiBanCungThe/Sach-Noi-Audio-Book-Toi-Tai-Gioi-Ban-Cung-The-9-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 01 Jul 2020 07:11:08 +0700</pubDate>
+    </item>
+    <item>
+      <title>10/16 Tôi Tài Giỏi Bạn Cũng Thế - Adam Khoo - Trí Nhớ Siêu Đẳng Dành Cho Số</title>
+      <link>https://phatphapungdung.com/sach-noi/toi-tai-gioi-ban-cung-the-63700.html</link>
+      <description><![CDATA[Tôi Tài Giỏi Bạn Cũng Thế Tác giả: Adam Khoo Tôi tài giỏi, bạn cũng thế! tổng hợp những kỹ năng và phương pháp đã mang tới thành công vượt bậc...]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/toi-tai-gioi-ban-cung-the-63700.html</guid>
+      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/ToiTaiGioiBanCungThe/Sach-Noi-Audio-Book-Toi-Tai-Gioi-Ban-Cung-The-10-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 01 Jul 2020 07:11:09 +0700</pubDate>
+    </item>
+    <item>
+      <title>11/16 Tôi Tài Giỏi Bạn Cũng Thế - Adam Khoo - Mô Hình Trí Nhớ</title>
+      <link>https://phatphapungdung.com/sach-noi/toi-tai-gioi-ban-cung-the-63700.html</link>
+      <description><![CDATA[Tôi Tài Giỏi Bạn Cũng Thế Tác giả: Adam Khoo Tôi tài giỏi, bạn cũng thế! tổng hợp những kỹ năng và phương pháp đã mang tới thành công vượt bậc...]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/toi-tai-gioi-ban-cung-the-63700.html</guid>
+      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/ToiTaiGioiBanCungThe/Sach-Noi-Audio-Book-Toi-Tai-Gioi-Ban-Cung-The-11-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 01 Jul 2020 07:11:10 +0700</pubDate>
+    </item>
+    <item>
+      <title>12/16 Tôi Tài Giỏi Bạn Cũng Thế - Adam Khoo - Nghệ Thuật Ứng Dụng Lý Thuyết Vào Thực Hành</title>
+      <link>https://phatphapungdung.com/sach-noi/toi-tai-gioi-ban-cung-the-63700.html</link>
+      <description><![CDATA[Tôi Tài Giỏi Bạn Cũng Thế Tác giả: Adam Khoo Tôi tài giỏi, bạn cũng thế! tổng hợp những kỹ năng và phương pháp đã mang tới thành công vượt bậc...]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/toi-tai-gioi-ban-cung-the-63700.html</guid>
+      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/ToiTaiGioiBanCungThe/Sach-Noi-Audio-Book-Toi-Tai-Gioi-Ban-Cung-The-12-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 01 Jul 2020 07:11:11 +0700</pubDate>
+    </item>
+    <item>
+      <title>13/16 Tôi Tài Giỏi Bạn Cũng Thế - Adam Khoo - Động Lực Cá Nhân Của Bạn</title>
+      <link>https://phatphapungdung.com/sach-noi/toi-tai-gioi-ban-cung-the-63700.html</link>
+      <description><![CDATA[Tôi Tài Giỏi Bạn Cũng Thế Tác giả: Adam Khoo Tôi tài giỏi, bạn cũng thế! tổng hợp những kỹ năng và phương pháp đã mang tới thành công vượt bậc...]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/toi-tai-gioi-ban-cung-the-63700.html</guid>
+      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/ToiTaiGioiBanCungThe/Sach-Noi-Audio-Book-Toi-Tai-Gioi-Ban-Cung-The-13-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 01 Jul 2020 07:11:12 +0700</pubDate>
+    </item>
+    <item>
+      <title>14/16 Tôi Tài Giỏi Bạn Cũng Thế - Adam Khoo - Động Lực Mạnh Mẽ Vượt Qua Sự Lười Biếng</title>
+      <link>https://phatphapungdung.com/sach-noi/toi-tai-gioi-ban-cung-the-63700.html</link>
+      <description><![CDATA[Tôi Tài Giỏi Bạn Cũng Thế Tác giả: Adam Khoo Tôi tài giỏi, bạn cũng thế! tổng hợp những kỹ năng và phương pháp đã mang tới thành công vượt bậc...]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/toi-tai-gioi-ban-cung-the-63700.html</guid>
+      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/ToiTaiGioiBanCungThe/Sach-Noi-Audio-Book-Toi-Tai-Gioi-Ban-Cung-The-14-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 01 Jul 2020 07:11:13 +0700</pubDate>
+    </item>
+    <item>
+      <title>15/16 Tôi Tài Giỏi Bạn Cũng Thế - Adam Khoo - Công Thức Để Đạt Điểm Tuyệt Đối</title>
+      <link>https://phatphapungdung.com/sach-noi/toi-tai-gioi-ban-cung-the-63700.html</link>
+      <description><![CDATA[Tôi Tài Giỏi Bạn Cũng Thế Tác giả: Adam Khoo Tôi tài giỏi, bạn cũng thế! tổng hợp những kỹ năng và phương pháp đã mang tới thành công vượt bậc...]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/toi-tai-gioi-ban-cung-the-63700.html</guid>
+      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/ToiTaiGioiBanCungThe/Sach-Noi-Audio-Book-Toi-Tai-Gioi-Ban-Cung-The-15-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 01 Jul 2020 07:11:14 +0700</pubDate>
+    </item>
+    <item>
+      <title>16/16 Tôi Tài Giỏi Bạn Cũng Thế - Adam Khoo - Điều Khiển Suy Nghĩ Thông Qua Hình Ảnh Trong Tâm Trí</title>
+      <link>https://phatphapungdung.com/sach-noi/toi-tai-gioi-ban-cung-the-63700.html</link>
+      <description><![CDATA[Tôi Tài Giỏi Bạn Cũng Thế Tác giả: Adam Khoo Tôi tài giỏi, bạn cũng thế! tổng hợp những kỹ năng và phương pháp đã mang tới thành công vượt bậc...]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/toi-tai-gioi-ban-cung-the-63700.html</guid>
+      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/ToiTaiGioiBanCungThe/Sach-Noi-Audio-Book-Toi-Tai-Gioi-Ban-Cung-The-16-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 01 Jul 2020 07:11:15 +0700</pubDate>
+    </item>
+    <item>
       <title>▶ 1/12 Thành Công Không Còn Là Bí Mật - Noah St. John - Chương 01: Có Điều Gì Đó Không Ổn</title>
       <link>https://phatphapungdung.com/sach-noi/thanh-cong-khong-con-la-bi-mat-63682.html</link>
       <description><![CDATA[Thành Công Không Còn Là Bí Mật Tác giả: Noah St. John "Thành công không còn là bí mật" của Noah St. John sẽ giải quyết vấn đề sẽ giúp bạn...]]></description>
       <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/thanh-cong-khong-con-la-bi-mat-63682.html</guid>
       <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/ThanhCongKhongConLaBiMat/thanh-cong-khong-con-la-bi-mat-1.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:11:00 +0700</pubDate>
+      <pubDate>Wed, 01 Jul 2020 07:12:00 +0700</pubDate>
     </item>
     <item>
       <title>2/12 Thành Công Không Còn Là Bí Mật - Noah St. John - Chương 02: Một Gia Đình Nhỏ</title>
@@ -1653,7 +1325,7 @@
       <description><![CDATA[Thành Công Không Còn Là Bí Mật Tác giả: Noah St. John "Thành công không còn là bí mật" của Noah St. John sẽ giải quyết vấn đề sẽ giúp bạn...]]></description>
       <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/thanh-cong-khong-con-la-bi-mat-63682.html</guid>
       <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/ThanhCongKhongConLaBiMat/thanh-cong-khong-con-la-bi-mat-2.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:11:01 +0700</pubDate>
+      <pubDate>Wed, 01 Jul 2020 07:12:01 +0700</pubDate>
     </item>
     <item>
       <title>3/12 Thành Công Không Còn Là Bí Mật - Noah St. John - Chương 03: Mật Mã Thành Công Được Tiết Lộ</title>
@@ -1661,7 +1333,7 @@
       <description><![CDATA[Thành Công Không Còn Là Bí Mật Tác giả: Noah St. John "Thành công không còn là bí mật" của Noah St. John sẽ giải quyết vấn đề sẽ giúp bạn...]]></description>
       <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/thanh-cong-khong-con-la-bi-mat-63682.html</guid>
       <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/ThanhCongKhongConLaBiMat/thanh-cong-khong-con-la-bi-mat-3.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:11:02 +0700</pubDate>
+      <pubDate>Wed, 01 Jul 2020 07:12:02 +0700</pubDate>
     </item>
     <item>
       <title>4/12 Thành Công Không Còn Là Bí Mật - Noah St. John - Chương 04: Bước 1 Câu Hỏi Trao Quyền</title>
@@ -1669,7 +1341,7 @@
       <description><![CDATA[Thành Công Không Còn Là Bí Mật Tác giả: Noah St. John "Thành công không còn là bí mật" của Noah St. John sẽ giải quyết vấn đề sẽ giúp bạn...]]></description>
       <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/thanh-cong-khong-con-la-bi-mat-63682.html</guid>
       <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/ThanhCongKhongConLaBiMat/thanh-cong-khong-con-la-bi-mat-4.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:11:03 +0700</pubDate>
+      <pubDate>Wed, 01 Jul 2020 07:12:03 +0700</pubDate>
     </item>
     <item>
       <title>5/12 Thành Công Không Còn Là Bí Mật - Noah St. John - Chương 05: Bước 2 Gương Yêu Thương Và Neo Chuẩn Mực</title>
@@ -1677,7 +1349,7 @@
       <description><![CDATA[Thành Công Không Còn Là Bí Mật Tác giả: Noah St. John "Thành công không còn là bí mật" của Noah St. John sẽ giải quyết vấn đề sẽ giúp bạn...]]></description>
       <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/thanh-cong-khong-con-la-bi-mat-63682.html</guid>
       <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/ThanhCongKhongConLaBiMat/thanh-cong-khong-con-la-bi-mat-5.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:11:04 +0700</pubDate>
+      <pubDate>Wed, 01 Jul 2020 07:12:04 +0700</pubDate>
     </item>
     <item>
       <title>6/12 Thành Công Không Còn Là Bí Mật - Noah St. John - Chương 06: Bước 3 Hệ Thống Hỗ Trợ (Phần 1)</title>
@@ -1685,7 +1357,7 @@
       <description><![CDATA[Thành Công Không Còn Là Bí Mật Tác giả: Noah St. John "Thành công không còn là bí mật" của Noah St. John sẽ giải quyết vấn đề sẽ giúp bạn...]]></description>
       <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/thanh-cong-khong-con-la-bi-mat-63682.html</guid>
       <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/ThanhCongKhongConLaBiMat/thanh-cong-khong-con-la-bi-mat-6.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:11:05 +0700</pubDate>
+      <pubDate>Wed, 01 Jul 2020 07:12:05 +0700</pubDate>
     </item>
     <item>
       <title>7/12 Thành Công Không Còn Là Bí Mật - Noah St. John - Chương 06: Bước 3 Hệ Thống Hỗ Trợ (Phần 2)</title>
@@ -1693,7 +1365,7 @@
       <description><![CDATA[Thành Công Không Còn Là Bí Mật Tác giả: Noah St. John "Thành công không còn là bí mật" của Noah St. John sẽ giải quyết vấn đề sẽ giúp bạn...]]></description>
       <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/thanh-cong-khong-con-la-bi-mat-63682.html</guid>
       <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/ThanhCongKhongConLaBiMat/thanh-cong-khong-con-la-bi-mat-7.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:11:06 +0700</pubDate>
+      <pubDate>Wed, 01 Jul 2020 07:12:06 +0700</pubDate>
     </item>
     <item>
       <title>8/12 Thành Công Không Còn Là Bí Mật - Noah St. John - Chương 07: Bước 4 Vùng Không Mục Tiêu Và Phẫu Thuật Thay Thế Mục Tiêu</title>
@@ -1701,7 +1373,7 @@
       <description><![CDATA[Thành Công Không Còn Là Bí Mật Tác giả: Noah St. John "Thành công không còn là bí mật" của Noah St. John sẽ giải quyết vấn đề sẽ giúp bạn...]]></description>
       <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/thanh-cong-khong-con-la-bi-mat-63682.html</guid>
       <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/ThanhCongKhongConLaBiMat/thanh-cong-khong-con-la-bi-mat-8.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:11:07 +0700</pubDate>
+      <pubDate>Wed, 01 Jul 2020 07:12:07 +0700</pubDate>
     </item>
     <item>
       <title>9/12 Thành Công Không Còn Là Bí Mật - Noah St. John - Chương 08: Bước 5 Bạn Đang Cố Gắng Bảo Vệ Trừng Phạt Hay Làm Hài Lòng Ai</title>
@@ -1709,7 +1381,7 @@
       <description><![CDATA[Thành Công Không Còn Là Bí Mật Tác giả: Noah St. John "Thành công không còn là bí mật" của Noah St. John sẽ giải quyết vấn đề sẽ giúp bạn...]]></description>
       <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/thanh-cong-khong-con-la-bi-mat-63682.html</guid>
       <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/ThanhCongKhongConLaBiMat/thanh-cong-khong-con-la-bi-mat-9.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:11:08 +0700</pubDate>
+      <pubDate>Wed, 01 Jul 2020 07:12:08 +0700</pubDate>
     </item>
     <item>
       <title>10/12 Thành Công Không Còn Là Bí Mật - Noah St. John - Chương 09: Bước 6 Đi Tìm Câu Trả Lời Không Của Bạn</title>
@@ -1717,7 +1389,7 @@
       <description><![CDATA[Thành Công Không Còn Là Bí Mật Tác giả: Noah St. John "Thành công không còn là bí mật" của Noah St. John sẽ giải quyết vấn đề sẽ giúp bạn...]]></description>
       <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/thanh-cong-khong-con-la-bi-mat-63682.html</guid>
       <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/ThanhCongKhongConLaBiMat/thanh-cong-khong-con-la-bi-mat-10.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:11:09 +0700</pubDate>
+      <pubDate>Wed, 01 Jul 2020 07:12:09 +0700</pubDate>
     </item>
     <item>
       <title>11/12 Thành Công Không Còn Là Bí Mật - Noah St. John - Chương 10: Bước 7 Đi Tìm Nguyên Nhân Của Bạn</title>
@@ -1725,7 +1397,7 @@
       <description><![CDATA[Thành Công Không Còn Là Bí Mật Tác giả: Noah St. John "Thành công không còn là bí mật" của Noah St. John sẽ giải quyết vấn đề sẽ giúp bạn...]]></description>
       <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/thanh-cong-khong-con-la-bi-mat-63682.html</guid>
       <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/ThanhCongKhongConLaBiMat/thanh-cong-khong-con-la-bi-mat-11.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:11:10 +0700</pubDate>
+      <pubDate>Wed, 01 Jul 2020 07:12:10 +0700</pubDate>
     </item>
     <item>
       <title>12/12 Thành Công Không Còn Là Bí Mật - Noah St. John - Chương 11: (Hết) Tiếp Theo Là Gì</title>
@@ -1733,7 +1405,7 @@
       <description><![CDATA[Thành Công Không Còn Là Bí Mật Tác giả: Noah St. John "Thành công không còn là bí mật" của Noah St. John sẽ giải quyết vấn đề sẽ giúp bạn...]]></description>
       <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/thanh-cong-khong-con-la-bi-mat-63682.html</guid>
       <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/ThanhCongKhongConLaBiMat/thanh-cong-khong-con-la-bi-mat-12.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:11:11 +0700</pubDate>
+      <pubDate>Wed, 01 Jul 2020 07:12:11 +0700</pubDate>
     </item>
     <item>
       <title>▶ 1/6 Thay Thái Độ Đổi Cuộc Đời - Jeff Keller - Lời Nói Đầu</title>
@@ -1741,7 +1413,7 @@
       <description><![CDATA[Thay Thái Độ Đổi Cuộc Đời Tác giả: Jeff Keller Nhà Xuất Bản Tổng Hợp Tp.HCM ấn hành Giọng đọc: Quang Điền Đây là câu chuyện có thật của một con người trong...]]></description>
       <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/thay-thai-do-doi-cuoc-doi-63684.html</guid>
       <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/ThayThaiDoDoiCuocDoi/Sach-Noi-Audio-Book-Thay-Thai-Do-Doi-Cuoc-Doi-1-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:12:00 +0700</pubDate>
+      <pubDate>Wed, 01 Jul 2020 07:13:00 +0700</pubDate>
     </item>
     <item>
       <title>2/6 Thay Thái Độ Đổi Cuộc Đời - Jeff Keller - Mối Liên Hệ Giữa Thái Độ Sống Và Thành Công</title>
@@ -1749,7 +1421,7 @@
       <description><![CDATA[Thay Thái Độ Đổi Cuộc Đời Tác giả: Jeff Keller Nhà Xuất Bản Tổng Hợp Tp.HCM ấn hành Giọng đọc: Quang Điền Đây là câu chuyện có thật của một con người trong...]]></description>
       <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/thay-thai-do-doi-cuoc-doi-63684.html</guid>
       <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/ThayThaiDoDoiCuocDoi/Sach-Noi-Audio-Book-Thay-Thai-Do-Doi-Cuoc-Doi-2-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:12:01 +0700</pubDate>
+      <pubDate>Wed, 01 Jul 2020 07:13:01 +0700</pubDate>
     </item>
     <item>
       <title>3/6 Thay Thái Độ Đổi Cuộc Đời - Jeff Keller - Mối Liên Quan Giữa Thành Công Và Suy Nghĩ Tự Động Viên Mình</title>
@@ -1757,7 +1429,7 @@
       <description><![CDATA[Thay Thái Độ Đổi Cuộc Đời Tác giả: Jeff Keller Nhà Xuất Bản Tổng Hợp Tp.HCM ấn hành Giọng đọc: Quang Điền Đây là câu chuyện có thật của một con người trong...]]></description>
       <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/thay-thai-do-doi-cuoc-doi-63684.html</guid>
       <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/ThayThaiDoDoiCuocDoi/Sach-Noi-Audio-Book-Thay-Thai-Do-Doi-Cuoc-Doi-3-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:12:02 +0700</pubDate>
+      <pubDate>Wed, 01 Jul 2020 07:13:02 +0700</pubDate>
     </item>
     <item>
       <title>4/6 Thay Thái Độ Đổi Cuộc Đời - Jeff Keller - Quyết Tâm Phải Đi Đôi Với Kiên Trì</title>
@@ -1765,7 +1437,7 @@
       <description><![CDATA[Thay Thái Độ Đổi Cuộc Đời Tác giả: Jeff Keller Nhà Xuất Bản Tổng Hợp Tp.HCM ấn hành Giọng đọc: Quang Điền Đây là câu chuyện có thật của một con người trong...]]></description>
       <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/thay-thai-do-doi-cuoc-doi-63684.html</guid>
       <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/ThayThaiDoDoiCuocDoi/Sach-Noi-Audio-Book-Thay-Thai-Do-Doi-Cuoc-Doi-4-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:12:03 +0700</pubDate>
+      <pubDate>Wed, 01 Jul 2020 07:13:03 +0700</pubDate>
     </item>
     <item>
       <title>5/6 Thay Thái Độ Đổi Cuộc Đời - Jeff Keller - Sử Dụng Ngôn Từ Khi Nói Về Tài Chính</title>
@@ -1773,7 +1445,7 @@
       <description><![CDATA[Thay Thái Độ Đổi Cuộc Đời Tác giả: Jeff Keller Nhà Xuất Bản Tổng Hợp Tp.HCM ấn hành Giọng đọc: Quang Điền Đây là câu chuyện có thật của một con người trong...]]></description>
       <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/thay-thai-do-doi-cuoc-doi-63684.html</guid>
       <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/ThayThaiDoDoiCuocDoi/Sach-Noi-Audio-Book-Thay-Thai-Do-Doi-Cuoc-Doi-5-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:12:04 +0700</pubDate>
+      <pubDate>Wed, 01 Jul 2020 07:13:04 +0700</pubDate>
     </item>
     <item>
       <title>6/6 Thay Thái Độ Đổi Cuộc Đời - Jeff Keller - Biết Giới Hạn Quan Hệ Bạn Hữu</title>
@@ -1781,7 +1453,7 @@
       <description><![CDATA[Thay Thái Độ Đổi Cuộc Đời Tác giả: Jeff Keller Nhà Xuất Bản Tổng Hợp Tp.HCM ấn hành Giọng đọc: Quang Điền Đây là câu chuyện có thật của một con người trong...]]></description>
       <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/thay-thai-do-doi-cuoc-doi-63684.html</guid>
       <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/ThayThaiDoDoiCuocDoi/Sach-Noi-Audio-Book-Thay-Thai-Do-Doi-Cuoc-Doi-6-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:12:05 +0700</pubDate>
+      <pubDate>Wed, 01 Jul 2020 07:13:05 +0700</pubDate>
     </item>
     <item>
       <title>▶ 1/18 Thịnh Vượng Tài Chính Tuổi 30 - Dịch giả Lê Thị Hồng Lan - Tập 1 - Thịnh Vượng Tài Chính Tuổi 30 Phần 1</title>
@@ -1789,7 +1461,7 @@
       <description><![CDATA[Thịnh Vượng Tài Chính Tuổi 30 Tác giả: Dịch giả Lê Thị Hồng Lan Đây không phải là cuốn sách dạy làm giàu hay liệt kê cách quản lý tài chính...]]></description>
       <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/thinh-vuong-tai-chinh-tuoi-30-63688.html</guid>
       <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/ThinhVuongTaiChinhTuoi30/Sach-Noi-Audio-Book-Thinh-Vuong-Tai-Chinh-Tuoi-30-Phan-1-01-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:13:00 +0700</pubDate>
+      <pubDate>Wed, 01 Jul 2020 07:14:00 +0700</pubDate>
     </item>
     <item>
       <title>2/18 Thịnh Vượng Tài Chính Tuổi 30 - Dịch giả Lê Thị Hồng Lan - Tập 1 - Thịnh Vượng Tài Chính Tuổi 30 Phần 2</title>
@@ -1797,7 +1469,7 @@
       <description><![CDATA[Thịnh Vượng Tài Chính Tuổi 30 Tác giả: Dịch giả Lê Thị Hồng Lan Đây không phải là cuốn sách dạy làm giàu hay liệt kê cách quản lý tài chính...]]></description>
       <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/thinh-vuong-tai-chinh-tuoi-30-63688.html</guid>
       <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/ThinhVuongTaiChinhTuoi30/Sach-Noi-Audio-Book-Thinh-Vuong-Tai-Chinh-Tuoi-30-Phan-1-02-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:13:01 +0700</pubDate>
+      <pubDate>Wed, 01 Jul 2020 07:14:01 +0700</pubDate>
     </item>
     <item>
       <title>3/18 Thịnh Vượng Tài Chính Tuổi 30 - Dịch giả Lê Thị Hồng Lan - Tập 1 - Thịnh Vượng Tài Chính Tuổi 30 Phần 3</title>
@@ -1805,7 +1477,7 @@
       <description><![CDATA[Thịnh Vượng Tài Chính Tuổi 30 Tác giả: Dịch giả Lê Thị Hồng Lan Đây không phải là cuốn sách dạy làm giàu hay liệt kê cách quản lý tài chính...]]></description>
       <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/thinh-vuong-tai-chinh-tuoi-30-63688.html</guid>
       <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/ThinhVuongTaiChinhTuoi30/Sach-Noi-Audio-Book-Thinh-Vuong-Tai-Chinh-Tuoi-30-Phan-1-03-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:13:02 +0700</pubDate>
+      <pubDate>Wed, 01 Jul 2020 07:14:02 +0700</pubDate>
     </item>
     <item>
       <title>4/18 Thịnh Vượng Tài Chính Tuổi 30 - Dịch giả Lê Thị Hồng Lan - Tập 1 - Thịnh Vượng Tài Chính Tuổi 30 Phần 4</title>
@@ -1813,7 +1485,7 @@
       <description><![CDATA[Thịnh Vượng Tài Chính Tuổi 30 Tác giả: Dịch giả Lê Thị Hồng Lan Đây không phải là cuốn sách dạy làm giàu hay liệt kê cách quản lý tài chính...]]></description>
       <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/thinh-vuong-tai-chinh-tuoi-30-63688.html</guid>
       <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/ThinhVuongTaiChinhTuoi30/Sach-Noi-Audio-Book-Thinh-Vuong-Tai-Chinh-Tuoi-30-Phan-1-04-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:13:03 +0700</pubDate>
+      <pubDate>Wed, 01 Jul 2020 07:14:03 +0700</pubDate>
     </item>
     <item>
       <title>5/18 Thịnh Vượng Tài Chính Tuổi 30 - Dịch giả Lê Thị Hồng Lan - Tập 1 - Thịnh Vượng Tài Chính Tuổi 30 Phần 5</title>
@@ -1821,7 +1493,7 @@
       <description><![CDATA[Thịnh Vượng Tài Chính Tuổi 30 Tác giả: Dịch giả Lê Thị Hồng Lan Đây không phải là cuốn sách dạy làm giàu hay liệt kê cách quản lý tài chính...]]></description>
       <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/thinh-vuong-tai-chinh-tuoi-30-63688.html</guid>
       <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/ThinhVuongTaiChinhTuoi30/Sach-Noi-Audio-Book-Thinh-Vuong-Tai-Chinh-Tuoi-30-Phan-1-05-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:13:04 +0700</pubDate>
+      <pubDate>Wed, 01 Jul 2020 07:14:04 +0700</pubDate>
     </item>
     <item>
       <title>6/18 Thịnh Vượng Tài Chính Tuổi 30 - Dịch giả Lê Thị Hồng Lan - Tập 1 - Thịnh Vượng Tài Chính Tuổi 30 Phần 6</title>
@@ -1829,7 +1501,7 @@
       <description><![CDATA[Thịnh Vượng Tài Chính Tuổi 30 Tác giả: Dịch giả Lê Thị Hồng Lan Đây không phải là cuốn sách dạy làm giàu hay liệt kê cách quản lý tài chính...]]></description>
       <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/thinh-vuong-tai-chinh-tuoi-30-63688.html</guid>
       <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/ThinhVuongTaiChinhTuoi30/Sach-Noi-Audio-Book-Thinh-Vuong-Tai-Chinh-Tuoi-30-Phan-1-06-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:13:05 +0700</pubDate>
+      <pubDate>Wed, 01 Jul 2020 07:14:05 +0700</pubDate>
     </item>
     <item>
       <title>7/18 Thịnh Vượng Tài Chính Tuổi 30 - Dịch giả Lê Thị Hồng Lan - Tập 1 - Thịnh Vượng Tài Chính Tuổi 30 Phần 7</title>
@@ -1837,7 +1509,7 @@
       <description><![CDATA[Thịnh Vượng Tài Chính Tuổi 30 Tác giả: Dịch giả Lê Thị Hồng Lan Đây không phải là cuốn sách dạy làm giàu hay liệt kê cách quản lý tài chính...]]></description>
       <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/thinh-vuong-tai-chinh-tuoi-30-63688.html</guid>
       <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/ThinhVuongTaiChinhTuoi30/Sach-Noi-Audio-Book-Thinh-Vuong-Tai-Chinh-Tuoi-30-Phan-1-07-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:13:06 +0700</pubDate>
+      <pubDate>Wed, 01 Jul 2020 07:14:06 +0700</pubDate>
     </item>
     <item>
       <title>8/18 Thịnh Vượng Tài Chính Tuổi 30 - Dịch giả Lê Thị Hồng Lan - Tập 1 - Thịnh Vượng Tài Chính Tuổi 30 Phần 8</title>
@@ -1845,7 +1517,7 @@
       <description><![CDATA[Thịnh Vượng Tài Chính Tuổi 30 Tác giả: Dịch giả Lê Thị Hồng Lan Đây không phải là cuốn sách dạy làm giàu hay liệt kê cách quản lý tài chính...]]></description>
       <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/thinh-vuong-tai-chinh-tuoi-30-63688.html</guid>
       <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/ThinhVuongTaiChinhTuoi30/Sach-Noi-Audio-Book-Thinh-Vuong-Tai-Chinh-Tuoi-30-Phan-1-08-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:13:07 +0700</pubDate>
+      <pubDate>Wed, 01 Jul 2020 07:14:07 +0700</pubDate>
     </item>
     <item>
       <title>9/18 Thịnh Vượng Tài Chính Tuổi 30 - Dịch giả Lê Thị Hồng Lan - Tập 2 - Lời Giới Thiệu</title>
@@ -1853,7 +1525,7 @@
       <description><![CDATA[Thịnh Vượng Tài Chính Tuổi 30 Tác giả: Dịch giả Lê Thị Hồng Lan Đây không phải là cuốn sách dạy làm giàu hay liệt kê cách quản lý tài chính...]]></description>
       <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/thinh-vuong-tai-chinh-tuoi-30-63688.html</guid>
       <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/ThinhVuongTaiChinhTuoi30/Sach-Noi-Audio-Book-Thinh-Vuong-Tai-Chinh-Tuoi-30-Phan-2-01-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:13:08 +0700</pubDate>
+      <pubDate>Wed, 01 Jul 2020 07:14:08 +0700</pubDate>
     </item>
     <item>
       <title>10/18 Thịnh Vượng Tài Chính Tuổi 30 - Dịch giả Lê Thị Hồng Lan - Tập 2 - Chương 1: Khoảng Cách Giữa Mơ Ước Và Hiện Thưc</title>
@@ -1861,7 +1533,7 @@
       <description><![CDATA[Thịnh Vượng Tài Chính Tuổi 30 Tác giả: Dịch giả Lê Thị Hồng Lan Đây không phải là cuốn sách dạy làm giàu hay liệt kê cách quản lý tài chính...]]></description>
       <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/thinh-vuong-tai-chinh-tuoi-30-63688.html</guid>
       <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/ThinhVuongTaiChinhTuoi30/Sach-Noi-Audio-Book-Thinh-Vuong-Tai-Chinh-Tuoi-30-Phan-2-02-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:13:09 +0700</pubDate>
+      <pubDate>Wed, 01 Jul 2020 07:14:09 +0700</pubDate>
     </item>
     <item>
       <title>11/18 Thịnh Vượng Tài Chính Tuổi 30 - Dịch giả Lê Thị Hồng Lan - Tập 2 - Chương 2: Thỉnh Giáo Tương Lai Quản Lý Tài Chính</title>
@@ -1869,7 +1541,7 @@
       <description><![CDATA[Thịnh Vượng Tài Chính Tuổi 30 Tác giả: Dịch giả Lê Thị Hồng Lan Đây không phải là cuốn sách dạy làm giàu hay liệt kê cách quản lý tài chính...]]></description>
       <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/thinh-vuong-tai-chinh-tuoi-30-63688.html</guid>
       <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/ThinhVuongTaiChinhTuoi30/Sach-Noi-Audio-Book-Thinh-Vuong-Tai-Chinh-Tuoi-30-Phan-2-03-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:13:10 +0700</pubDate>
+      <pubDate>Wed, 01 Jul 2020 07:14:10 +0700</pubDate>
     </item>
     <item>
       <title>12/18 Thịnh Vượng Tài Chính Tuổi 30 - Dịch giả Lê Thị Hồng Lan - Tập 2 - Chương 2: Thỉnh Giáo Tương Lai Quản Lý Tài Chính Tiếp Theo</title>
@@ -1877,7 +1549,7 @@
       <description><![CDATA[Thịnh Vượng Tài Chính Tuổi 30 Tác giả: Dịch giả Lê Thị Hồng Lan Đây không phải là cuốn sách dạy làm giàu hay liệt kê cách quản lý tài chính...]]></description>
       <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/thinh-vuong-tai-chinh-tuoi-30-63688.html</guid>
       <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/ThinhVuongTaiChinhTuoi30/Sach-Noi-Audio-Book-Thinh-Vuong-Tai-Chinh-Tuoi-30-Phan-2-04-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:13:11 +0700</pubDate>
+      <pubDate>Wed, 01 Jul 2020 07:14:11 +0700</pubDate>
     </item>
     <item>
       <title>13/18 Thịnh Vượng Tài Chính Tuổi 30 - Dịch giả Lê Thị Hồng Lan - Tập 2 - Chương 3: Chuyên Gia Dạy Bạn Cách Nhận Thức Rõ Hiện Thực</title>
@@ -1885,7 +1557,7 @@
       <description><![CDATA[Thịnh Vượng Tài Chính Tuổi 30 Tác giả: Dịch giả Lê Thị Hồng Lan Đây không phải là cuốn sách dạy làm giàu hay liệt kê cách quản lý tài chính...]]></description>
       <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/thinh-vuong-tai-chinh-tuoi-30-63688.html</guid>
       <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/ThinhVuongTaiChinhTuoi30/Sach-Noi-Audio-Book-Thinh-Vuong-Tai-Chinh-Tuoi-30-Phan-2-05-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:13:12 +0700</pubDate>
+      <pubDate>Wed, 01 Jul 2020 07:14:12 +0700</pubDate>
     </item>
     <item>
       <title>14/18 Thịnh Vượng Tài Chính Tuổi 30 - Dịch giả Lê Thị Hồng Lan - Tập 2 - Chương 3: Chuyên Gia Dạy Bạn Cách Nhận Thức Rõ Hiện Thực Tiếp Theo</title>
@@ -1893,7 +1565,7 @@
       <description><![CDATA[Thịnh Vượng Tài Chính Tuổi 30 Tác giả: Dịch giả Lê Thị Hồng Lan Đây không phải là cuốn sách dạy làm giàu hay liệt kê cách quản lý tài chính...]]></description>
       <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/thinh-vuong-tai-chinh-tuoi-30-63688.html</guid>
       <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/ThinhVuongTaiChinhTuoi30/Sach-Noi-Audio-Book-Thinh-Vuong-Tai-Chinh-Tuoi-30-Phan-2-06-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:13:13 +0700</pubDate>
+      <pubDate>Wed, 01 Jul 2020 07:14:13 +0700</pubDate>
     </item>
     <item>
       <title>15/18 Thịnh Vượng Tài Chính Tuổi 30 - Dịch giả Lê Thị Hồng Lan - Tập 2 - Chương 4: Kẻ Thù Lớn Nhất Của Cuộc Sống Dư Giả</title>
@@ -1901,7 +1573,7 @@
       <description><![CDATA[Thịnh Vượng Tài Chính Tuổi 30 Tác giả: Dịch giả Lê Thị Hồng Lan Đây không phải là cuốn sách dạy làm giàu hay liệt kê cách quản lý tài chính...]]></description>
       <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/thinh-vuong-tai-chinh-tuoi-30-63688.html</guid>
       <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/ThinhVuongTaiChinhTuoi30/Sach-Noi-Audio-Book-Thinh-Vuong-Tai-Chinh-Tuoi-30-Phan-2-07-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:13:14 +0700</pubDate>
+      <pubDate>Wed, 01 Jul 2020 07:14:14 +0700</pubDate>
     </item>
     <item>
       <title>16/18 Thịnh Vượng Tài Chính Tuổi 30 - Dịch giả Lê Thị Hồng Lan - Tập 2 - Chương 4: Kẻ Thù Lớn Nhất Của Cuộc Sống Dư Giả Tiếp Theo</title>
@@ -1909,7 +1581,7 @@
       <description><![CDATA[Thịnh Vượng Tài Chính Tuổi 30 Tác giả: Dịch giả Lê Thị Hồng Lan Đây không phải là cuốn sách dạy làm giàu hay liệt kê cách quản lý tài chính...]]></description>
       <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/thinh-vuong-tai-chinh-tuoi-30-63688.html</guid>
       <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/ThinhVuongTaiChinhTuoi30/Sach-Noi-Audio-Book-Thinh-Vuong-Tai-Chinh-Tuoi-30-Phan-2-08-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:13:15 +0700</pubDate>
+      <pubDate>Wed, 01 Jul 2020 07:14:15 +0700</pubDate>
     </item>
     <item>
       <title>17/18 Thịnh Vượng Tài Chính Tuổi 30 - Dịch giả Lê Thị Hồng Lan - Tập 2 - Chương 5: Chiến Lược Đầu Tư Đem Lợi Nhuận Cấp Số Nhân</title>
@@ -1917,7 +1589,7 @@
       <description><![CDATA[Thịnh Vượng Tài Chính Tuổi 30 Tác giả: Dịch giả Lê Thị Hồng Lan Đây không phải là cuốn sách dạy làm giàu hay liệt kê cách quản lý tài chính...]]></description>
       <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/thinh-vuong-tai-chinh-tuoi-30-63688.html</guid>
       <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/ThinhVuongTaiChinhTuoi30/Sach-Noi-Audio-Book-Thinh-Vuong-Tai-Chinh-Tuoi-30-Phan-2-09-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:13:16 +0700</pubDate>
+      <pubDate>Wed, 01 Jul 2020 07:14:16 +0700</pubDate>
     </item>
     <item>
       <title>18/18 Thịnh Vượng Tài Chính Tuổi 30 - Dịch giả Lê Thị Hồng Lan - Tập 2 - Chương 5: Chiến Lược Đầu Tư Đem Lợi Nhuận Cấp Số Nhân Tiếp Theo</title>
@@ -1925,103 +1597,7 @@
       <description><![CDATA[Thịnh Vượng Tài Chính Tuổi 30 Tác giả: Dịch giả Lê Thị Hồng Lan Đây không phải là cuốn sách dạy làm giàu hay liệt kê cách quản lý tài chính...]]></description>
       <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/thinh-vuong-tai-chinh-tuoi-30-63688.html</guid>
       <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/ThinhVuongTaiChinhTuoi30/Sach-Noi-Audio-Book-Thinh-Vuong-Tai-Chinh-Tuoi-30-Phan-2-10-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:13:17 +0700</pubDate>
-    </item>
-    <item>
-      <title>▶ 1/12 Thuật Đấu Trí Châu Á - Chin Ning Chu - Lời Giới Thiệu</title>
-      <link>https://phatphapungdung.com/sach-noi/thuat-dau-tri-chau-a-63691.html</link>
-      <description><![CDATA[Thuật Đấu Trí Châu Á Tác giả: Chin Ning Chu “Giới doanh nhân phương Tây thường gặp bất lợi lớn vì không hiểu chiến thuật hay triết lý phương Đông. Sách...]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/thuat-dau-tri-chau-a-63691.html</guid>
-      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/ThuatDauTriChauA/Sach-Noi-Audio-Book-Thuat-Dau-Tri-Chau-A-01-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:14:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>2/12 Thuật Đấu Trí Châu Á - Chin Ning Chu - Phần 1A: Cuộc Đấu Trí</title>
-      <link>https://phatphapungdung.com/sach-noi/thuat-dau-tri-chau-a-63691.html</link>
-      <description><![CDATA[Thuật Đấu Trí Châu Á Tác giả: Chin Ning Chu “Giới doanh nhân phương Tây thường gặp bất lợi lớn vì không hiểu chiến thuật hay triết lý phương Đông. Sách...]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/thuat-dau-tri-chau-a-63691.html</guid>
-      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/ThuatDauTriChauA/Sach-Noi-Audio-Book-Thuat-Dau-Tri-Chau-A-02-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:14:01 +0700</pubDate>
-    </item>
-    <item>
-      <title>3/12 Thuật Đấu Trí Châu Á - Chin Ning Chu - Phần 1B: Cuộc Đấu Trí</title>
-      <link>https://phatphapungdung.com/sach-noi/thuat-dau-tri-chau-a-63691.html</link>
-      <description><![CDATA[Thuật Đấu Trí Châu Á Tác giả: Chin Ning Chu “Giới doanh nhân phương Tây thường gặp bất lợi lớn vì không hiểu chiến thuật hay triết lý phương Đông. Sách...]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/thuat-dau-tri-chau-a-63691.html</guid>
-      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/ThuatDauTriChauA/Sach-Noi-Audio-Book-Thuat-Dau-Tri-Chau-A-03-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:14:02 +0700</pubDate>
-    </item>
-    <item>
-      <title>4/12 Thuật Đấu Trí Châu Á - Chin Ning Chu - Phần 1C: Cuộc Đấu Trí</title>
-      <link>https://phatphapungdung.com/sach-noi/thuat-dau-tri-chau-a-63691.html</link>
-      <description><![CDATA[Thuật Đấu Trí Châu Á Tác giả: Chin Ning Chu “Giới doanh nhân phương Tây thường gặp bất lợi lớn vì không hiểu chiến thuật hay triết lý phương Đông. Sách...]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/thuat-dau-tri-chau-a-63691.html</guid>
-      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/ThuatDauTriChauA/Sach-Noi-Audio-Book-Thuat-Dau-Tri-Chau-A-04-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:14:03 +0700</pubDate>
-    </item>
-    <item>
-      <title>5/12 Thuật Đấu Trí Châu Á - Chin Ning Chu - Phần 2A: Người Kiến</title>
-      <link>https://phatphapungdung.com/sach-noi/thuat-dau-tri-chau-a-63691.html</link>
-      <description><![CDATA[Thuật Đấu Trí Châu Á Tác giả: Chin Ning Chu “Giới doanh nhân phương Tây thường gặp bất lợi lớn vì không hiểu chiến thuật hay triết lý phương Đông. Sách...]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/thuat-dau-tri-chau-a-63691.html</guid>
-      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/ThuatDauTriChauA/Sach-Noi-Audio-Book-Thuat-Dau-Tri-Chau-A-05-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:14:04 +0700</pubDate>
-    </item>
-    <item>
-      <title>6/12 Thuật Đấu Trí Châu Á - Chin Ning Chu - Phần 2B: Người Kiến</title>
-      <link>https://phatphapungdung.com/sach-noi/thuat-dau-tri-chau-a-63691.html</link>
-      <description><![CDATA[Thuật Đấu Trí Châu Á Tác giả: Chin Ning Chu “Giới doanh nhân phương Tây thường gặp bất lợi lớn vì không hiểu chiến thuật hay triết lý phương Đông. Sách...]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/thuat-dau-tri-chau-a-63691.html</guid>
-      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/ThuatDauTriChauA/Sach-Noi-Audio-Book-Thuat-Dau-Tri-Chau-A-06-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:14:05 +0700</pubDate>
-    </item>
-    <item>
-      <title>7/12 Thuật Đấu Trí Châu Á - Chin Ning Chu - Phần 2C: Người Kiến</title>
-      <link>https://phatphapungdung.com/sach-noi/thuat-dau-tri-chau-a-63691.html</link>
-      <description><![CDATA[Thuật Đấu Trí Châu Á Tác giả: Chin Ning Chu “Giới doanh nhân phương Tây thường gặp bất lợi lớn vì không hiểu chiến thuật hay triết lý phương Đông. Sách...]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/thuat-dau-tri-chau-a-63691.html</guid>
-      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/ThuatDauTriChauA/Sach-Noi-Audio-Book-Thuat-Dau-Tri-Chau-A-07-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:14:06 +0700</pubDate>
-    </item>
-    <item>
-      <title>8/12 Thuật Đấu Trí Châu Á - Chin Ning Chu - Phần 3A: Nữ Chúa</title>
-      <link>https://phatphapungdung.com/sach-noi/thuat-dau-tri-chau-a-63691.html</link>
-      <description><![CDATA[Thuật Đấu Trí Châu Á Tác giả: Chin Ning Chu “Giới doanh nhân phương Tây thường gặp bất lợi lớn vì không hiểu chiến thuật hay triết lý phương Đông. Sách...]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/thuat-dau-tri-chau-a-63691.html</guid>
-      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/ThuatDauTriChauA/Sach-Noi-Audio-Book-Thuat-Dau-Tri-Chau-A-08-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:14:07 +0700</pubDate>
-    </item>
-    <item>
-      <title>9/12 Thuật Đấu Trí Châu Á - Chin Ning Chu - Phần 3B: Nữ Chúa</title>
-      <link>https://phatphapungdung.com/sach-noi/thuat-dau-tri-chau-a-63691.html</link>
-      <description><![CDATA[Thuật Đấu Trí Châu Á Tác giả: Chin Ning Chu “Giới doanh nhân phương Tây thường gặp bất lợi lớn vì không hiểu chiến thuật hay triết lý phương Đông. Sách...]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/thuat-dau-tri-chau-a-63691.html</guid>
-      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/ThuatDauTriChauA/Sach-Noi-Audio-Book-Thuat-Dau-Tri-Chau-A-09-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:14:08 +0700</pubDate>
-    </item>
-    <item>
-      <title>10/12 Thuật Đấu Trí Châu Á - Chin Ning Chu - Phần 3C: Nữ Chúa</title>
-      <link>https://phatphapungdung.com/sach-noi/thuat-dau-tri-chau-a-63691.html</link>
-      <description><![CDATA[Thuật Đấu Trí Châu Á Tác giả: Chin Ning Chu “Giới doanh nhân phương Tây thường gặp bất lợi lớn vì không hiểu chiến thuật hay triết lý phương Đông. Sách...]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/thuat-dau-tri-chau-a-63691.html</guid>
-      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/ThuatDauTriChauA/Sach-Noi-Audio-Book-Thuat-Dau-Tri-Chau-A-10-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:14:09 +0700</pubDate>
-    </item>
-    <item>
-      <title>11/12 Thuật Đấu Trí Châu Á - Chin Ning Chu - Phần 4: Những Kẻ Sống Sót</title>
-      <link>https://phatphapungdung.com/sach-noi/thuat-dau-tri-chau-a-63691.html</link>
-      <description><![CDATA[Thuật Đấu Trí Châu Á Tác giả: Chin Ning Chu “Giới doanh nhân phương Tây thường gặp bất lợi lớn vì không hiểu chiến thuật hay triết lý phương Đông. Sách...]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/thuat-dau-tri-chau-a-63691.html</guid>
-      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/ThuatDauTriChauA/Sach-Noi-Audio-Book-Thuat-Dau-Tri-Chau-A-11-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:14:10 +0700</pubDate>
-    </item>
-    <item>
-      <title>12/12 Thuật Đấu Trí Châu Á - Chin Ning Chu - Phần 5: Trò Chơi Kết Thúc</title>
-      <link>https://phatphapungdung.com/sach-noi/thuat-dau-tri-chau-a-63691.html</link>
-      <description><![CDATA[Thuật Đấu Trí Châu Á Tác giả: Chin Ning Chu “Giới doanh nhân phương Tây thường gặp bất lợi lớn vì không hiểu chiến thuật hay triết lý phương Đông. Sách...]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/thuat-dau-tri-chau-a-63691.html</guid>
-      <enclosure url="https://s1.animeweb.xyz/media/bookspeak/KyNangCuocSong/ThuatDauTriChauA/Sach-Noi-Audio-Book-Thuat-Dau-Tri-Chau-A-12-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Jul 2020 07:14:11 +0700</pubDate>
+      <pubDate>Wed, 01 Jul 2020 07:14:17 +0700</pubDate>
     </item>
   </channel>
 </rss>
