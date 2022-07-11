@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 11 Jul 2022 04:02:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 11 Jul 2022 23:09:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 11 Jul 2022 04:02:00 +0700</pubDate>
+    <pubDate>Mon, 11 Jul 2022 23:09:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Khai mạc phiên họp thứ 13 Ủy ban Thường vụ Quốc hội – Thời sự 11g00 11/7/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/khai-mac-phien-hop-thu-13-uy-ban-thuong-vu-quoc-hoi-thoi-su-11g00-11-7-2022-441145.html</link>
+      <description><![CDATA[16:09 - 11/07/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/khai-mac-phien-hop-thu-13-uy-ban-thuong-vu-quoc-hoi-thoi-su-11g00-11-7-2022-441145.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/07/11/AMThoisu11h00p110722-20220711103644.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 11 Jul 2022 23:09:00 +0700</pubDate>
+    </item>
     <item>
       <title>Thủ tướng Phạm Minh Chính tiếp xúc cử tri thành phố Cần Thơ - Thời sự 17g00 10/7/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/thu-tuong-pham-minh-chinh-tiep-xuc-cu-tri-thanh-pho-can-tho-thoi-su-17g00-10-7-2022-441046.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/lam-tot-vai-tro-dau-tau-cua-tphcm-doi-voi-nen-kinh-te-ca-nuoc-thoi-su-11g00-10-7-2022-441021.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/07/10/AMThoisu11h00p100722-20220710103238.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 10 Jul 2022 18:11:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Thủ tướng chỉ đạo giải quyết tình trạng quá tải sân bay Tân Sơn Nhất – Thời sự 5g30 10/7/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/thu-tuong-chi-dao-giai-quyet-tinh-trang-qua-tai-san-bay-tan-son-nhat-thoi-su-5g30-10-7-2022-440995.html</link>
-      <description><![CDATA[06:14 - 10/07/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/thu-tuong-chi-dao-giai-quyet-tinh-trang-qua-tai-san-bay-tan-son-nhat-thoi-su-5g30-10-7-2022-440995.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/07/10/AMThoisu05h30p100722-20220709233032.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 10 Jul 2022 13:14:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
