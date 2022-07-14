@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 12 Jul 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 14 Jul 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 12 Jul 2022 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 14 Jul 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Văn nghệ thiếu nhi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Vannghethieunhi.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Đọc truyện "Cà Nóng chu du Trường Sa” - Buổi thứ hai - Một chút hoang mang  12/7/2022</title>
+      <title>Đề thi ngữ văn vào 10 qua góc nhìn người trong cuộc 14/7/2022</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/de-thi-ngu-van-vao-10-qua-goc-nhin-nguoi-trong-cuoc-c44-34592.aspx</link>
+      <description><![CDATA[Vậy là kỳ thi tuyển sinh vào lớp 10 đã diễn ra trong cả nước. Dù kết quả của mỗi bạn khác nhau, niềm vui nỗi buồn khác nhau thì chúng ta cũng đã cố gắng hết sức. Với riêng đề thi ngữ văn, nhiều thầy cô và các bạn học sinh tâm đắc nội dung  nghị luận xã hội, tiêu biểu như đề thi ở Hà Nội và thành phố Hồ Chí Minh... (Văn nghệ thiếu nhi 11/07/2022)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/de-thi-ngu-van-vao-10-qua-goc-nhin-nguoi-trong-cuoc-c44-34592.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2022_7/v2_1107_10h4518h15_van_nghe_thieu_nhi_1_147202213.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 14 Jul 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Đọc truyện "Cà Nóng chu du Trường Sa” - Buổi thứ hai - Một chút hoang mang   12/7/2022</title>
       <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-ca-nong-chu-du-truong-sa-buoi-thu-hai-mot-chut-hoang-mang-c44-34587.aspx</link>
       <description><![CDATA[Sau những phút vui mừng xúc động thì giờ đây Cà Nóng lại rơi vào trạng thái hoang mang, lo lắng, bởi đây là chuyến hải trình kéo dài 9 ngày, phần lớn lênh đênh ngoài khơi xa sóng to gió lớn. Với sức khỏe như hiện nay thì không biết bạn Cà Nóng có vượt qua được thử thách này không? (Văn nghệ thiếu nhi 10/07/2022)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-ca-nong-chu-du-truong-sa-buoi-thu-hai-mot-chut-hoang-mang-c44-34587.aspx</guid>
@@ -37,14 +45,6 @@
       <description><![CDATA[Cà Nóng là tên một chiếc máy ảnh - nhân vật chính trong cuốn truyện “Cà Nóng chu du Trường Sa” của tác giả Bùi Tiểu Quyên. Nếu như trước đây Cà Nóng được cùng cô chủ hết lên rừng rồi lại xuống biển, chụp biết bao bức ảnh đẹp và độc đáo, thì bây giờ cậu ấy đang chuẩn bị thực hiện chuyến đi dài ngày đến với quần đảo Trường Sa, nơi đầu sóng ngọn gió của Tổ quốc... (Văn nghệ thiếu nhi 09/07/2022)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-ca-nong-chu-du-truong-sa-buoi-dau-tien-niem-vui-bat-ngo-c44-34586.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2022_7/v2_0907_10h4518h15_van_nghe_thieu_nhi_1_127202216.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 12 Jul 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Truyền kỳ mạn lục - Những hạt vàng lấp lánh   12/7/2022</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/truyen-ky-man-luc-nhung-hat-vang-lap-lanh-c44-34585.aspx</link>
-      <description><![CDATA[Với mong muốn làm mới một số tác phẩm văn học vượt thời gian, vừa qua Nhà xuất bản Kim Đồng đã cho ra mắt cuốn "Truyền kỳ mạn lục" với diện mạo hoàn toàn mới thể hiện bằng hình thức tranh - truyện. Cuốn sách tranh dày dặn, với sắc vàng- xanh chủ đạo. Độc giả trẻ có cơ hội lạc bước vào không gian nghệ thuật huyền tích của nhiều câu chuyện xa xưa… (Trang Văn học nghệ thuật tuổi mới lớn 05/07/2022)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/truyen-ky-man-luc-nhung-hat-vang-lap-lanh-c44-34585.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2022_7/v2_0507_10h4518h15_van_nghe_thieu_nhi_1_127202216.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 12 Jul 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
