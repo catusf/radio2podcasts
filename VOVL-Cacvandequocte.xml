@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 13 Jul 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 15 Jul 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 13 Jul 2022 19:00:00 +0700</pubDate>
+    <pubDate>Fri, 15 Jul 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,22 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Tỷ giá Euro – USD giảm sâu: Bức tranh ảm đạm với kinh tế Châu Âu thời gian tới</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Tỷ giá giữa đồng Euro so với USD liên tục giảm trong những ngày gần đây và hiện 1 USD Mỹ gần đổi ngang được 1 Euro – điều chưa từng xảy ra trong 20 năm trở lại đây. Tính chung từ đầu năm đến nay, giá trị của đồng Euro đã giảm tới 12% so với đồng đô-la Mỹ. Việc này phản ánh những khó khăn của nền kinh tế Châu Âu với nỗi lo về suy thoái, lạm phát cao và bất ổn về nguồn cung năng lượng, nhất là khi Nga dừng bơm khí đốt qua đường ống Dòng chảy phương Bắc 1 với lý do bảo trì kỹ thuật hàng năm. Giới phân tích nhận định, khoảng thời gian vài tuần tới sẽ rất khó khăn với Châu Âu.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/07/15/vovlive_vandequocte_tygiaeurousdgiamsau.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 15 Jul 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Chuyến thăm của Tổng thống Mỹ Joe Biden tới Israel và Arab saudi</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Sau các chuyến công du Châu Âu và Châu Á với nhiều chương trình nghị sự ưu tiên, bắt đầu từ ngày 13/7, Tổng thống Mỹ Joe Biden có chuyến thăm 4 ngày đến Trung Đông với điểm dừng chân tại 2 quốc gia đồng minh quan trọng là Israel và Arab saudi. Mặc dù Mỹ đang trong một quá trình kéo dài nhiều năm để giảm bớt sự can dự của mình vào Trung Đông, tuy nhiên bối cảnh khu vực và quốc tế có nhiều thay đổi khiến Washington phải sắp xếp lại các mối quan hệ hoặc tái cân bằng lợi ích với các quốc gia đồng minh ở Trung Đông. Vậy Washington kỳ vọng sẽ đạt được điều gì vào một “Trung Đông mới”? Quan điểm của các nước trong khu vực về sự hiện diện của Mỹ ở đây ra sao?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/07/15/vovlive_vandequocte_chuyenthamcuatongthongmyjoebiden.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 14 Jul 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Mỹ tăng cường liên minh trong việc thúc đẩy chiến lược Ấn Độ Dương - Thái Bình Dương</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -38,22 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/07/13/vovlive_vandequocte_batonchinhtritaisrilanka.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 12 Jul 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Bầu cử Thượng viện Nhật Bản - phép thử đối với Liên minh cầm quyền</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Ngày 10/7, tại Nhật Bản sẽ diễn ra cuộc bầu cử Thượng viện. Sự kiện trọng đại này được coi là phép thử lớn với uy tín của Thủ tướng Kishida Fumio sau hơn nửa năm lên nắm quyền. Tham gia chạy đua vào Thượng viện năm nay có 545 ứng cử viên, nhiều nhất từ trước tới nay. Kết quả thăm dò dư luận mới nhất do hãng tin Kyodo thực hiện cho thấy Liên minh cầm quyền giữa Đảng Dân chủ Tự do (LDP) của Thủ tướng Kishida Fumio và Đảng Công minh có thể giành hơn 50% trong tổng số 125 ghế sẽ được bầu lại trong cuộc bầu cử Thượng viện Nhật Bản. Cuộc thăm dò cũng cho thấy, số đảng phái ủng hộ việc sửa đổi hiến pháp, giành được đa số 2/3 sau cuộc bầu cử này là rất lớn. Đây là điều kiện tiên quyết để đưa ra đề xuất cải cách Hiến pháp. Vậy cuộc bầu cử Thượng viện Nhật Bản diễn ra cuối tuần này sẽ tác động ra sao tới chính trường Nhật Bản?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/07/11/vovlive_vandequocte_baucuthuongviennhatban.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 09 Jul 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Những tâm điểm tại Hội nghị Ngoại trưởng G20</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Ngày 7/7, Hội nghị Ngoại trưởng Nhóm các nền kinh tế phát triển và mới nổi hàng đầu thế giới (G20) khai mạc tại Bali, Indonesia. Diễn ra trong hai ngày 7/7 - 8/7, Hội nghị dự kiến sẽ thảo luận hàng loạt vấn đề “nóng” đang thu hút sự quan tâm của dư luận quốc tế như cuộc khủng hoảng tại Ukraine, cạnh tranh chiến lược giữa các cường quốc, triển vọng không mấy sáng sủa của nền kinh tế thế giới, hệ quả của đứt gãy chuỗi cung ứng toàn cầu…. Bên cạnh phiên họp toàn thể, Hội nghị Ngoại trưởng G20 còn nhiều cuộc gặp đáng chú ý bên lề, trong đó được quan tâm nhất là cuộc gặp giữa Ngoại trưởng Mỹ Antoni Blinken và Ngoại trưởng Trung Quốc Vương Nghị. Từng chứng kiến những cuộc đấu khẩu gay gắt trong nhiều hội nghị quốc tế gần đây xuất phát từ những bất đồng khó tìm tiếng nói chung giữa hai bên, dư luận nhận định rằng cuộc gặp giữa Ngoại trưởng hai nước lần này sẽ vẫn diễn ra trong bầu không khí căng thẳng.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/07/07/vovlive_vandequocte_nhungtamdiemtaihoinghingoaitruongg20.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 08 Jul 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
