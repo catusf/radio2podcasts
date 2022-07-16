@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 15 Jul 2022 13:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 16 Jul 2022 17:28:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 15 Jul 2022 13:00:00 +0700</pubDate>
+    <pubDate>Sat, 16 Jul 2022 17:28:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Hội sách Thiếu nhi TPHCM lần III - Rộn ràng ngày trở lại - Sài Gòn buổi sáng 16/7/2022</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/hoi-sach-thieu-nhi-tphcm-lan-iii-ron-rang-ngay-tro-lai-sai-gon-buoi-sang-16-7-2022-441669.html</link>
+      <description><![CDATA[10:28 - 16/07/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/hoi-sach-thieu-nhi-tphcm-lan-iii-ron-rang-ngay-tro-lai-sai-gon-buoi-sang-16-7-2022-441669.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/07/16/FMsaigonbuoisang06h00p160722ss.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 16 Jul 2022 17:28:00 +0700</pubDate>
+    </item>
+    <item>
       <title>TPHCM đã có máy 'siêu âm' cây xanh - Sài Gòn buổi sáng 15/7/2022</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/tphcm-da-co-may-sieu-am-cay-xanh-sai-gon-buoi-sang-15-7-2022-441551.html</link>
       <description><![CDATA[06:00 - 15/07/2022]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/tphcm-da-co-may-sieu-am-cay-xanh-sai-gon-buoi-sang-15-7-2022-441551.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/07/15/sgbs-150722.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 15 Jul 2022 13:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Tổ chức họp giao ban công tác phòng chống dịch sốt xuất huyết - Sài Gòn buổi sáng 14/7/2022</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/to-chuc-hop-giao-ban-cong-tac-phong-chong-dich-sot-xuat-huyet-sai-gon-buoi-sang-14-7-2022-441455.html</link>
-      <description><![CDATA[09:06 - 14/07/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/to-chuc-hop-giao-ban-cong-tac-phong-chong-dich-sot-xuat-huyet-sai-gon-buoi-sang-14-7-2022-441455.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/07/14/FMSaigonbuoisang06h00p140722-20220714070703.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 14 Jul 2022 16:06:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
