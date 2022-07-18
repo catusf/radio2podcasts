@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 10 Jul 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 17 Jul 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 10 Jul 2022 19:00:00 +0700</pubDate>
+    <pubDate>Sun, 17 Jul 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,15 @@
     </itunes:owner>
     <itunes:subtitle>Âm nhạc với cuộc sống</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Amnhacvoicuocsong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>“Vì bình yên cuộc sống”: Khúc tráng ca về người chiến sĩ cảnh sát nhân dân Việt Nam</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[- Kỷ niệm 60 năm ngày Chủ tịch Hồ Chí Minh ký Lệnh số 34/LCT công bố Pháp lệnh quy định nhiệm vụ, quyền hạn của Cảnh sát nhân dân và Pháp lệnh quy định chế độ cấp bậc hàm của sỹ quan, hạ sỹ quan Cảnh sát nhân dân (20/7/1962 - 20/7/2022), cũng là Ngày truyền thống của lực lượng Cảnh sát nhân dân nói riêng, lực lượng công an nói chung, cùng gặp gỡ nhạc sĩ Dương Cầm và ca khúc “Vì bình yên cuộc sống”. 
+- Hướng tởi kỷ niệm 75 năm ngày Thương binh liệt sĩ (27/7/1947-27/7/2022), thưởng thức và tìm hiểu về hoàn cảnh ra đời của ca khúc “Vết chân tròn trên cát” (nhạc sĩ Trần Tiến).]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/07/18/vovlive_am_nhac_voi_cuoc_song_vi_binh_yen_cuoc_song.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 17 Jul 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>“Hoàng hôn trên Ngã ba Đồng Lộc” - Ca khúc gửi gắm thông điệp ý nghĩa dành cho các bạn trẻ</title>
       <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
@@ -50,15 +59,6 @@
       <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/06/29/vovlive_am_nhac_voi_cuoc_song_gia_dinh_la_mai_am.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 26 Jun 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>“Ký sự Trường Sa”: Ca khúc mới sôi động và đầy ý nghĩa về Trường Sa của nữ ca sĩ Hà Myo</title>
-      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[- Hà Myo tên thật là Nguyễn Thị Ngọc Hà, bước ra từ cuộc thi “Giọng hát hay Hà Nội 2020” với một dấu ấn mạnh mẽ bởi "cú đúp": Giải Nhì chung cuộc và Giải Bài hát hay nhất về Hà Nội với “Xẩm Hà Nội”. Ngày 12/6 vừa qua cô đã cho ra mắt MV “Ký sự Trường Sa”. MV là món quà góp thêm nguồn cảm hứng và động lực lớn cho các chiến sĩ đang canh gác ngoài hải đảo xa xôi. “Ký sự Trường Sa” là một ca khúc hoàn toàn mới nhưng Hà Myo vẫn vẹn nguyên mong muốn mang nhiều nhất âm nhạc dân gian đến với khán giả cả nước. Cùng thưởng thức MV “Ký sự Trường Sa” và lắng nghe những chia sẻ của nữ ca sĩ về MV mới ra mắt này… 
-- Enrico Caruso là một giọng ca Ý được xếp vào một trong những tenor vĩ đại nhất thế giới. Ông là người đã đem những bài hát O Sole mio, hay La Donna Mobile trở thành huyền thoại của dòng nhạc Opera ở thế kỷ 20… cùng tìm hiểu về sự nghiệp âm nhạc của ông.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/06/20/vovlive_am_nhac_voi_cuoc_song_ky_su_truong_sa.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 19 Jun 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
