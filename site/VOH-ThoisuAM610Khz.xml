@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 20 Jul 2022 18:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 21 Jul 2022 00:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 20 Jul 2022 18:00:00 +0700</pubDate>
+    <pubDate>Thu, 21 Jul 2022 00:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Đẩy mạnh triển khai tiêm vắc xin Covid-19 và các biện pháp phòng dịch - Thời sự 17g00 20/07/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/day-manh-trien-khai-tiem-vac-xin-covid-19-va-cac-bien-phap-phong-dich-thoi-su-17g00-20-07-2022-442194.html</link>
+      <description><![CDATA[17:00 - 20/07/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/day-manh-trien-khai-tiem-vac-xin-covid-19-va-cac-bien-phap-phong-dich-thoi-su-17g00-20-07-2022-442194.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/07/20/AMThoisu17h00p200722-20220720164617.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 21 Jul 2022 00:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Thu hồi gần 50.000 tỷ đồng trong các vụ án tham nhũng, kinh tế - Thời sự 5g30 20/07/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/thu-hoi-gan-50-000-ty-dong-trong-cac-vu-an-tham-nhung-kinh-te-thoi-su-5g30-20-07-2022-442118.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/lam-phat-viet-nam-dang-trong-tam-kiem-soat-thoi-su-11g00-20-07-2022-442115.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/07/20/AMThoisu11h00p200722-20220720103312.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 20 Jul 2022 18:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chủ tịch nước đề nghị Ngân hàng Thế giới hỗ trợ Việt Nam phát triển hạ tầng – Thời sự 17g00 19/7/202</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/chu-tich-nuoc-de-nghi-ngan-hang-the-gioi-ho-tro-viet-nam-phat-trien-ha-tang-thoi-su-17g00-19-7-202-442031.html</link>
-      <description><![CDATA[17:22 - 19/07/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/chu-tich-nuoc-de-nghi-ngan-hang-the-gioi-ho-tro-viet-nam-phat-trien-ha-tang-thoi-su-17g00-19-7-202-442031.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/07/19/AMThoisu17h00p190722-20220719164005.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 20 Jul 2022 00:22:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
