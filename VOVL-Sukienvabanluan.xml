@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 18 Jul 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 20 Jul 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 18 Jul 2022 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 20 Jul 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Campuchia đẩy mạnh hỗ trợ doanh nghiệp du lịch</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Sau hai năm “đóng băng” bởi dịch Covid-19, ngành du lịch của ASEAN đang từng bước phục hồi trở lại, trong đó Campuchia là quốc gia đầu tiên của khu vực mở cửa biên giới đón du khách quốc tế, tiếp theo là Thái Lan, Malaysia, Philippines, Việt Nam, Indonesia và Lào. Cùng với việc duy trì một số biện pháp kiểm soát dịch bệnh, chính phủ Campuchia đang thực hiện nhiều sáng kiến nhằm thúc đẩy sự phục hồi của ngành du lịch, mới đây nhất là gia hạn miễn thuế với doanh nghiệp du lịch tại các thành phố trọng điểm. Vậy với sự hỗ trợ của chính phủ, du lịch Campuchia đang phục hồi như thế nào?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/07/20/vovlive_sukienvabanluan_campuchia_day_manh_ho_tro_doanh_nghiep_du_lich.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 20 Jul 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Indonesia cảnh báo nguy cơ khủng bố núp bóng từ thiện và những giải pháp</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/07/08/vovlive_sukienvabanluan_khoi_thong_giai_ngan_goi_goi_ho_tro_tien_thue_nha.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 08 Jul 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Tranh cãi việc chính phủ Thái Lan hợp pháp hóa cần sa</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Như vậy đã được gần 1 tháng kể từ khi chính phủ Thái Lan chính thức quyết định loại bỏ cây cần sa và cây cầu gai khỏi danh sách các chất ma túy bị cấm vào ngày 9/6. Đáng nói chỉ sau 1 tuần có hiệu lực, nước này đã buộc phải điều chỉnh một số điều khoản để có thể quản lý và kiểm soát thị trường cần sa. Không chỉ trong nước, giới chức nhiều quốc gia cũng đã đồng loạt đưa ra cảnh báo về việc Thái Lan hợp pháp hóa cần sa.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/07/07/vovlive_sukienvabanluan_tranh_cai_viec_chinh_phu_thai_lan_hop-phap_hoa_cay-can_sa.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 07 Jul 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
