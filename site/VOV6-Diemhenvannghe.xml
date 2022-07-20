@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 14 Jul 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 20 Jul 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 14 Jul 2022 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 20 Jul 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,16 @@
     <itunes:subtitle>Điểm hẹn văn nghệ</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Diemhenvannghe.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Tiểu thuyết Lý Đào Lang Vương góp phần phục dựng nhân vật lịch sử 14/7/2022</title>
+      <title>“Bữa tối” không cô đơn 
+ 20/7/2022</title>
+      <link>http://vov6.vov.vn/diem-hen-van-nghe/bua-toi-khong-co-don-c158-34607.aspx</link>
+      <description><![CDATA[Tác giả Chu Thùy Anh được độc giả biết đến với nhiều truyện ngắn hay, hấp dẫn, phù hợp với giới trẻ. Truyện của chị với nội dung vừa như mơ như thực, lối viết dung dị, nhẹ nhàng nhưng cũng chứa đầy triết lý. “Ăn tối” là một truyện ngắn hay của cây bút trẻ Chu Thùy Anh. Đây không phải là bữa tối cơ học thường thấy mà đó là bữa tối của những mới lạ, của chiêm nghiệm và cả những nỗi cô đơn nữa.]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/bua-toi-khong-co-don-c158-34607.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/v2_1607_18h30_diem_hen_van_nghe_207202216.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 20 Jul 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Tiểu thuyết Lý Đào Lang Vương góp phần phục dựng nhân vật lịch sử  14/7/2022</title>
       <link>http://vov6.vov.vn/diem-hen-van-nghe/tieu-thuyet-ly-dao-lang-vuong-gop-phan-phuc-dung-nhan-vat-lich-su-c158-34593.aspx</link>
       <description><![CDATA[Đề tài lịch sử chưa bao giờ là một địa hạt dễ dàng. Tuy nhiên, trên mảnh đất thách thức ấy, cũng không thiếu những cây bút có sức lao động miệt mài và đáng nể. Một trong số đó là nhà văn Phùng Văn Khai. Chỉ trong khoảng hai năm, nhà văn quân đội đã trình làng tới ba tiểu thuyết lịch sử với dung lượng dày dặn. Đó là “Nam Đế Vạn Xuân”, “Triệu Vương phục quốc”, và “Lý Đào Lang Vương”. Chúng ta đã có dịp gặp gỡ nhà văn Phùng Văn Khai khi anh ra mắt tiểu thuyết “Nam Đế Vạn Xuân” và “Triệu Vương phục quốc”. Với tiểu thuyết “Lý Đào Lang Vương”, cuốn sách có phần ít được chú ý hơn khi “chào đời” vào đúng dịp giãn cách. Tuy nhiên, mỗi một tác phẩm đều có câu chuyện của riêng mình. Vậy câu chuyện phía sau tiểu thuyết “Lý Đào Lang Vương” là gì? Nhà văn Phùng Văn Khai đã có cuộc trò chuyện với phóng viên chương trình. Mời quý vị và các bạn cùng nghe:]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/tieu-thuyet-ly-dao-lang-vuong-gop-phan-phuc-dung-nhan-vat-lich-su-c158-34593.aspx</guid>
@@ -38,14 +47,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/huong-tra-thom-dinh-phia-oac-c158-34568.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/huong_tra_7720229.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 06 Jul 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Văn học trẻ Hà Nội có gì mới?  3/7/2022</title>
-      <link>http://vov6.vov.vn/diem-hen-van-nghe/van-hoc-tre-ha-noi-co-gi-moi-c158-34563.aspx</link>
-      <description><![CDATA[Tọa đàm chuyên đề "Văn học trẻ Hà Nội có gì mới" do Hội Nhà văn Hà Nội tổ chức. Các tham luận, ý kiến đề cập nhiều vấn đề đáng quan tâm của văn học trẻ hiện nay. (ĐIểm hẹn văn nghệ)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/van-hoc-tre-ha-noi-co-gi-moi-c158-34563.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2022_7/v2_2506_18h30_diem_hen_van_nghe_37202223.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 03 Jul 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
