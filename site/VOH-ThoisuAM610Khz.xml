@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 20 Jul 2022 00:22:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 20 Jul 2022 18:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 20 Jul 2022 00:22:00 +0700</pubDate>
+    <pubDate>Wed, 20 Jul 2022 18:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,28 +24,28 @@
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Thu hồi gần 50.000 tỷ đồng trong các vụ án tham nhũng, kinh tế - Thời sự 5g30 20/07/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/thu-hoi-gan-50-000-ty-dong-trong-cac-vu-an-tham-nhung-kinh-te-thoi-su-5g30-20-07-2022-442118.html</link>
+      <description><![CDATA[05:30 - 20/07/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/thu-hoi-gan-50-000-ty-dong-trong-cac-vu-an-tham-nhung-kinh-te-thoi-su-5g30-20-07-2022-442118.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/07/20/AM610-THOISU30P05h30p200722.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 20 Jul 2022 12:30:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Lạm phát Việt Nam đang trong tầm kiểm soát - Thời sự 11g00 20/07/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/lam-phat-viet-nam-dang-trong-tam-kiem-soat-thoi-su-11g00-20-07-2022-442115.html</link>
+      <description><![CDATA[11:00 - 20/07/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/lam-phat-viet-nam-dang-trong-tam-kiem-soat-thoi-su-11g00-20-07-2022-442115.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/07/20/AMThoisu11h00p200722-20220720103312.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 20 Jul 2022 18:00:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Chủ tịch nước đề nghị Ngân hàng Thế giới hỗ trợ Việt Nam phát triển hạ tầng – Thời sự 17g00 19/7/202</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/chu-tich-nuoc-de-nghi-ngan-hang-the-gioi-ho-tro-viet-nam-phat-trien-ha-tang-thoi-su-17g00-19-7-202-442031.html</link>
       <description><![CDATA[17:22 - 19/07/2022]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/chu-tich-nuoc-de-nghi-ngan-hang-the-gioi-ho-tro-viet-nam-phat-trien-ha-tang-thoi-su-17g00-19-7-202-442031.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/07/19/AMThoisu17h00p190722-20220719164005.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 20 Jul 2022 00:22:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Thủ tướng Chính phủ tiếp Tổng Giám đốc Điều hành Ngân hàng Thế giới – Thời sự 11g00 19/7/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/thu-tuong-chinh-phu-tiep-tong-giam-doc-dieu-hanh-ngan-hang-the-gioi-thoi-su-11g00-19-7-2022-442008.html</link>
-      <description><![CDATA[15:01 - 19/07/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/thu-tuong-chinh-phu-tiep-tong-giam-doc-dieu-hanh-ngan-hang-the-gioi-thoi-su-11g00-19-7-2022-442008.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/07/19/AMThoisu11h00p190722-20220719102403.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 19 Jul 2022 22:01:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Kỷ niệm 60 năm Ngày thiết lập quan hệ ngoại giao Việt Nam-Lào – Thời sự 5g30 19/7/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/ky-niem-60-nam-ngay-thiet-lap-quan-he-ngoai-giao-viet-nam-lao-thoi-su-5g30-19-7-2022-441970.html</link>
-      <description><![CDATA[06:35 - 19/07/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/ky-niem-60-nam-ngay-thiet-lap-quan-he-ngoai-giao-viet-nam-lao-thoi-su-5g30-19-7-2022-441970.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/07/19/AMThoisu05h30p190722-20220718234617.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 19 Jul 2022 13:35:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

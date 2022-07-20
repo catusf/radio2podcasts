@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 19 Jul 2022 16:08:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 20 Jul 2022 13:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 19 Jul 2022 16:08:00 +0700</pubDate>
+    <pubDate>Wed, 20 Jul 2022 13:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>TP.HCM là điểm đến ưa thích nhất của du lịch hè 2022 - Sài Gòn buổi sáng 20/07/2022</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/tp-hcm-la-diem-den-ua-thich-nhat-cua-du-lich-he-2022-sai-gon-buoi-sang-20-07-2022-442116.html</link>
+      <description><![CDATA[06:00 - 20/07/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/tp-hcm-la-diem-den-ua-thich-nhat-cua-du-lich-he-2022-sai-gon-buoi-sang-20-07-2022-442116.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/07/20/FM999-SGBUOISANG06h00p200722.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 20 Jul 2022 13:00:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Công bố điểm thi tốt nghiệp THPT lúc 0 giờ ngày 24/7 - Sài Gòn buổi sáng - 19/7/2022</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/cong-bo-diem-thi-tot-nghiep-thpt-luc-0-gio-ngay-24-7-sai-gon-buoi-sang-19-7-2022-441978.html</link>
       <description><![CDATA[09:08 - 19/07/2022]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/cong-bo-diem-thi-tot-nghiep-thpt-luc-0-gio-ngay-24-7-sai-gon-buoi-sang-19-7-2022-441978.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/07/19/FMSGBS06h00p190722-20220719070046.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 19 Jul 2022 16:08:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Hội hỗ trợ gia đình liệt sĩ TP.HCM với nhiều hoạt động ý nghĩa - Sài Gòn buổi sáng 18/7</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/hoi-ho-tro-gia-dinh-liet-si-tp-hcm-voi-nhieu-hoat-dong-y-nghia-sai-gon-buoi-sang-18-7-441954.html</link>
-      <description><![CDATA[04:50 - 19/07/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/hoi-ho-tro-gia-dinh-liet-si-tp-hcm-voi-nhieu-hoat-dong-y-nghia-sai-gon-buoi-sang-18-7-441954.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/07/19/FMSGBS06h00p180722-20220718070212.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 19 Jul 2022 11:50:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
