@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 14 Jul 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 21 Jul 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 14 Jul 2022 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 21 Jul 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Tìm trong kho báu</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Timtrongkhobau.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Ý thức phản tỉnh – Một nét đẹp nhân văn trong thơ thời Trần 14/7/2022</title>
+      <title>Sái Thuận: Một phu chữ lừng danh 21/7/2022</title>
+      <link>http://vov6.vov.vn/tim-trong-kho-bau/sai-thuan-mot-phu-chu-lung-danh-c54-34609.aspx</link>
+      <description><![CDATA[Từ trước tới nay, trong hầu hết tư liệu cổ và quan niệm của các nhà nghiên cứu văn học trung đại đều cho rằng người đứng đầu Tao đàn nhị thập bát tú thời Hồng Đức là vua Lê Thánh Tông, hai vị phó nguyên súy được cho là hai danh thần Thân Nhân Trung và Đỗ Nhuận. Thế nhưng, lật giở lại, trong sách “Kiến văn tiểu lục”, một tác phẩm được nhà bác học Lê Quý Đôn soạn xong vào năm Cảnh Hưng thứ 38 (năm 1777) có ghi lại rằng: “Sái Thuận lúc đầu là Tao đàn sái phu sau được bổ sung làm Phó nguyên suý”. “Kiến văn tiểu lục” được xem là một tác phẩm có giá trị về văn học, địa lý, lịch sử và hình thái ý thức người Việt xưa qua các thời Lý, Trần, Lê. Căn cứ vào tính xác đáng của tác phẩm này, có thể thấy có một nhân vật tên là Sái Thuận từng giữ chức Phó nguyên súy hội Tao đàn dưới thời vua Lê Thánh Tông]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/sai-thuan-mot-phu-chu-lung-danh-c54-34609.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/v2_212507_18h30_tim_trong_kho_bau_217202214.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 21 Jul 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Ý thức phản tỉnh – Một nét đẹp nhân văn trong thơ thời Trần  14/7/2022</title>
       <link>http://vov6.vov.vn/tim-trong-kho-bau/y-thuc-phan-tinh-mot-net-dep-nhan-van-trong-tho-thoi-tran-c54-34594.aspx</link>
       <description><![CDATA[Nhiều vị hoàng đế, nho tướng cũng như võ tướng thời thịnh Trần đã để lại những áng thơ có giá trị cao về mặt nội dung, nghệ thuật, nêu cao được cảm hứng yêu nước, cảm hứng tự hào dân tộc. Ở một khía cạnh khác, cho dù đang ở ngôi cao chín bệ hay khi chọn ẩn dật chốn sơn lâm, họ đều thể hiện con người nghệ sĩ với những trăn trở về nỗi niềm nhân sinh]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/y-thuc-phan-tinh-mot-net-dep-nhan-van-trong-tho-thoi-tran-c54-34594.aspx</guid>
@@ -38,15 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/am-huong-chu-dao-cua-tho-ca-thoi-thinh-tran-c54-34570.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/v2_071107_18h30_tim_trong_kho_bau_moi_87202210.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 07 Jul 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Danh nhân văn hóa thế giới Nguyễn Đình Chiểu: Một nhân cách văn hóa của thời đại
-  30/6/2022</title>
-      <link>http://vov6.vov.vn/tim-trong-kho-bau/danh-nhan-van-hoa-the-gioi-nguyen-dinh-chieu-mot-nhan-cach-van-hoa-cua-thoi-dai-c54-34549.aspx</link>
-      <description><![CDATA[Thời gian vừa qua, chương trình “Tìm trong kho báu” của Ban VHNT (VOV6) đã dành thời lượng đáng kể để đi sâu vào di sản thơ văn của nhà thơ mù yêu nước Nguyễn Đình Chiểu – Người được đánh giá là bậc tôn sư của đất phương Nam. Cụ Đồ Chiểu không chỉ là nhà thơ mà còn là nhà giáo, thầy thuốc, nhà văn hóa tầm vóc của dân tộc ta. Tháng 11 năm ngoái, Tổ chức Giáo dục – Khoa học và Văn hóa Liên hợp quốc (UNESCO) đã chính thức đưa Nguyễn Đình Chiểu vào danh sách Danh nhân văn hóa thế giới và quyết định cùng nước ta tổ chức lễ kỷ niệm 200 năm ngày sinh của cụ Đồ Chiểu (01.7.1822 – 01.7.2022). Chương trình hôm nay một lần nữa góp tiếng nói tôn vinh giá trị truyền đời của tác phẩm cũng như tư tưởng, nhân cách của Nguyễn Đình Chiểu.]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/danh-nhan-van-hoa-the-gioi-nguyen-dinh-chieu-mot-nhan-cach-van-hoa-cua-thoi-dai-c54-34549.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/v2_30060407_18h30_tim_trong_kho_bau_306202214.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 30 Jun 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
