@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 22 Jul 2022 00:58:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 22 Jul 2022 14:43:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 22 Jul 2022 00:58:00 +0700</pubDate>
+    <pubDate>Fri, 22 Jul 2022 14:43:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Khuyến khích chuyển đổi từ CCCD có mã vạch sang CCCD có gắn chip - Thời sự 5g30 22/7/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/khuyen-khich-chuyen-doi-tu-cccd-co-ma-vach-sang-cccd-co-gan-chip-thoi-su-5g30-22-7-2022-442356.html</link>
+      <description><![CDATA[07:43 - 22/07/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/khuyen-khich-chuyen-doi-tu-cccd-co-ma-vach-sang-cccd-co-gan-chip-thoi-su-5g30-22-7-2022-442356.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/07/22/AMThoisu05h30p220722-20220721234206.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 22 Jul 2022 14:43:00 +0700</pubDate>
+    </item>
     <item>
       <title>Hội nghị toàn quốc nghiên cứu học tập, quán triệt hội nghị TW 5  khóa XIII - Thời sự 17g00 21/7/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/hoi-nghi-toan-quoc-nghien-cuu-hoc-tap-quan-triet-hoi-nghi-tw-5-khoa-xiii-thoi-su-17g00-21-7-2022-442303.html</link>
@@ -37,14 +45,6 @@
       <description><![CDATA[17:58 - 21/07/2022]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/ve-viet-nam-dau-tu-de-hun-duc-tinh-yeu-coi-nguon-cho-lop-tre-xa-que-thoi-su-11g00-21-7-2022-442302.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/07/21/AM610-THOISU30P11h00p210722-Copy.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 22 Jul 2022 00:58:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Sức sống từ I-Star - Thời sự 5g30 21/7/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/suc-song-tu-i-star-thoi-su-5g30-21-7-2022-442299.html</link>
-      <description><![CDATA[17:58 - 21/07/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/suc-song-tu-i-star-thoi-su-5g30-21-7-2022-442299.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/07/21/AM610-THOISU30P05h30p210722-Copy.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 22 Jul 2022 00:58:00 +0700</pubDate>
     </item>
   </channel>
