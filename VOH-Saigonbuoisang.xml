@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 23 Jul 2022 17:57:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 23 Jul 2022 10:57:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 23 Jul 2022 17:57:00 +0700</pubDate>
+    <pubDate>Sat, 23 Jul 2022 10:57:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -29,7 +29,7 @@
       <description><![CDATA[10:57 - 23/07/2022]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/thoi-quen-xem-video-ngan-cua-gioi-tre-thuc-te-va-han-che-sai-gon-buoi-sang-23-7-2022-442494.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/07/23/SGBS-230722.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 23 Jul 2022 17:57:00 +0700</pubDate>
+      <pubDate>Sat, 23 Jul 2022 10:57:00 +0700</pubDate>
     </item>
     <item>
       <title>Xăng giảm giá nhưng giá cả thị trường chưa có dấu hiệu hạ nhiệt - Sài Gòn buổi sáng 22/7/2022</title>
@@ -37,7 +37,31 @@
       <description><![CDATA[07:49 - 22/07/2022]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/xang-giam-gia-nhung-gia-ca-thi-truong-chua-co-dau-hieu-ha-nhiet-sai-gon-buoi-sang-22-7-2022-442357.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/07/22/FMSGBS06h00p220722-20220722070114.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 22 Jul 2022 14:49:00 +0700</pubDate>
+      <pubDate>Fri, 22 Jul 2022 07:49:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Dịch sốt xuất huyết được dự báo sẽ bùng phát mạnh - Sài Gòn buổi sáng 21/7/2022</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/dich-sot-xuat-huyet-duoc-du-bao-se-bung-phat-manh-sai-gon-buoi-sang-21-7-2022-442304.html</link>
+      <description><![CDATA[18:30 - 21/07/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/dich-sot-xuat-huyet-duoc-du-bao-se-bung-phat-manh-sai-gon-buoi-sang-21-7-2022-442304.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/07/21/FM999-SGBUOISANG06h00p210722-Copy.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 21 Jul 2022 18:30:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>TP.HCM là điểm đến ưa thích nhất của du lịch hè 2022 - Sài Gòn buổi sáng 20/07/2022</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/tp-hcm-la-diem-den-ua-thich-nhat-cua-du-lich-he-2022-sai-gon-buoi-sang-20-07-2022-442116.html</link>
+      <description><![CDATA[06:00 - 20/07/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/tp-hcm-la-diem-den-ua-thich-nhat-cua-du-lich-he-2022-sai-gon-buoi-sang-20-07-2022-442116.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/07/20/FM999-SGBUOISANG06h00p200722.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 20 Jul 2022 06:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Công bố điểm thi tốt nghiệp THPT lúc 0 giờ ngày 24/7 - Sài Gòn buổi sáng - 19/7/2022</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/cong-bo-diem-thi-tot-nghiep-thpt-luc-0-gio-ngay-24-7-sai-gon-buoi-sang-19-7-2022-441978.html</link>
+      <description><![CDATA[09:08 - 19/07/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/cong-bo-diem-thi-tot-nghiep-thpt-luc-0-gio-ngay-24-7-sai-gon-buoi-sang-19-7-2022-441978.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/07/19/FMSGBS06h00p190722-20220719070046.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 19 Jul 2022 09:08:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
