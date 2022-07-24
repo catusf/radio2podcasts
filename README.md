@@ -48,3 +48,4 @@ Do vậy cần đặt các biến hệ thống trên máy phát triển và/ho�
 
 [![Gitter](https://badges.gitter.im/radio2podcasts/community.svg)](https://gitter.im/radio2podcasts/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
+[![pages-build-deployment](https://github.com/catusf/radio2podcasts/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/catusf/radio2podcasts/actions/workflows/pages/pages-build-deployment)
