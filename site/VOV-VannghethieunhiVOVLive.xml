@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 11 Jul 2022 07:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 15 Jul 2022 07:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 11 Jul 2022 07:00:00 +0700</pubDate>
+    <pubDate>Fri, 15 Jul 2022 07:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,23 @@
     <itunes:subtitle>VNTN</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV-VannghethieunhiVOVLive.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>▶ 1/16 Charlie và nhà máy sôcôla - Buổi 1: Gia đình Charlie</title>
+      <title>▶ 1/2 Cà Nóng chu du Trường Sa - Buổi 1: Niềm vui bất ngờ</title>
+      <link>https://vovlive.vn/ca-nong-chu-du-truong-sa-p14069.html</link>
+      <description><![CDATA[Vào vai một chiếc máy ảnh của cô chủ nhà báo đi Trường Sa, nhà văn - nhà báo Bùi Tiểu Quyên xây dựng một câu chuyện về hành trình đến với biển đảo dành cho bạn đọc thiếu nhi khá độc đáo. Các em sẽ cảm nhận được phần nào cái háo hức của một nhân vật lần đầu nghe tin mình sẽ được đến các đảo trong quần đảo Trường Sa, làm quen với nề nếp sinh hoạt trên tàu, với gió to sóng dữ, cách chia nhóm và đặt tên theo tên đảo để gọi nhau Sinh Tồn ơi, Đá Lát ơi, Sơn Ca ơi, Tiên Nữ ơi... đầy cảm xúc.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/ca-nong-chu-du-truong-sa-p14069.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/07/15/vovlive_vannghethieunhi_canongchudutruongsa_buoi1.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 15 Jul 2022 07:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>2/2 Cà Nóng chu du Trường Sa - Buổi 2: Một chút hoang mang</title>
+      <link>https://vovlive.vn/ca-nong-chu-du-truong-sa-p14069.html</link>
+      <description><![CDATA[Vào vai một chiếc máy ảnh của cô chủ nhà báo đi Trường Sa, nhà văn - nhà báo Bùi Tiểu Quyên xây dựng một câu chuyện về hành trình đến với biển đảo dành cho bạn đọc thiếu nhi khá độc đáo. Các em sẽ cảm nhận được phần nào cái háo hức của một nhân vật lần đầu nghe tin mình sẽ được đến các đảo trong quần đảo Trường Sa, làm quen với nề nếp sinh hoạt trên tàu, với gió to sóng dữ, cách chia nhóm và đặt tên theo tên đảo để gọi nhau Sinh Tồn ơi, Đá Lát ơi, Sơn Ca ơi, Tiên Nữ ơi... đầy cảm xúc.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/ca-nong-chu-du-truong-sa-p14069.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/07/15/vovlive_vannghethieunhi_canongchudutruongsa_buoi2.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 15 Jul 2022 07:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>▶ 1/17 Charlie và nhà máy sôcôla - Buổi 1: Gia đình Charlie</title>
       <link>https://vovlive.vn/charlie-va-nha-may-socola-p13204.html</link>
       <description><![CDATA[Charlie và nhà máy sôcôla (tiếng Anh: Charlie and the Chocolate Factory) là tiểu thuyết văn học thiếu nhi xuất bản năm 1964 của nhà văn Roald Dahl người Anh. Truyện kể về cuộc phiêu lưu của cậu bé Charlie Bucket trong nhà máy sô-cô-la của ông chủ nhà máy lập dị Willy Wonka.]]></description>
       <guid isPermaLink="false">https://vovlive.vn/charlie-va-nha-may-socola-p13204.html</guid>
@@ -32,7 +48,7 @@
       <pubDate>Wed, 01 Jun 2022 07:00:00 +0700</pubDate>
     </item>
     <item>
-      <title>2/16 Charlie và nhà máy sôcôla - Buổi 2: Niềm vui sinh nhật</title>
+      <title>2/17 Charlie và nhà máy sôcôla - Buổi 2: Niềm vui sinh nhật</title>
       <link>https://vovlive.vn/charlie-va-nha-may-socola-p13204.html</link>
       <description><![CDATA[Charlie và nhà máy sôcôla (tiếng Anh: Charlie and the Chocolate Factory) là tiểu thuyết văn học thiếu nhi xuất bản năm 1964 của nhà văn Roald Dahl người Anh. Truyện kể về cuộc phiêu lưu của cậu bé Charlie Bucket trong nhà máy sô-cô-la của ông chủ nhà máy lập dị Willy Wonka.]]></description>
       <guid isPermaLink="false">https://vovlive.vn/charlie-va-nha-may-socola-p13204.html</guid>
@@ -40,7 +56,7 @@
       <pubDate>Mon, 13 Jun 2022 07:00:00 +0700</pubDate>
     </item>
     <item>
-      <title>3/16 Charlie và nhà máy sôcôla - Buổi 3: Nhà máy bí ẩn</title>
+      <title>3/17 Charlie và nhà máy sôcôla - Buổi 3: Nhà máy bí ẩn</title>
       <link>https://vovlive.vn/charlie-va-nha-may-socola-p13204.html</link>
       <description><![CDATA[Charlie và nhà máy sôcôla (tiếng Anh: Charlie and the Chocolate Factory) là tiểu thuyết văn học thiếu nhi xuất bản năm 1964 của nhà văn Roald Dahl người Anh. Truyện kể về cuộc phiêu lưu của cậu bé Charlie Bucket trong nhà máy sô-cô-la của ông chủ nhà máy lập dị Willy Wonka.]]></description>
       <guid isPermaLink="false">https://vovlive.vn/charlie-va-nha-may-socola-p13204.html</guid>
@@ -48,7 +64,7 @@
       <pubDate>Mon, 13 Jun 2022 07:00:00 +0700</pubDate>
     </item>
     <item>
-      <title>4/16 Charlie và nhà máy sôcôla - Buổi 4: Đi tìm chiếc vé vàng may mắn</title>
+      <title>4/17 Charlie và nhà máy sôcôla - Buổi 4: Đi tìm chiếc vé vàng may mắn</title>
       <link>https://vovlive.vn/charlie-va-nha-may-socola-p13204.html</link>
       <description><![CDATA[Charlie và nhà máy sôcôla (tiếng Anh: Charlie and the Chocolate Factory) là tiểu thuyết văn học thiếu nhi xuất bản năm 1964 của nhà văn Roald Dahl người Anh. Truyện kể về cuộc phiêu lưu của cậu bé Charlie Bucket trong nhà máy sô-cô-la của ông chủ nhà máy lập dị Willy Wonka.]]></description>
       <guid isPermaLink="false">https://vovlive.vn/charlie-va-nha-may-socola-p13204.html</guid>
@@ -56,7 +72,7 @@
       <pubDate>Mon, 13 Jun 2022 07:00:00 +0700</pubDate>
     </item>
     <item>
-      <title>5/16 Charlie và nhà máy sôcôla - Buổi 5: Chiếc vé vàng cuối cùng ở đâu</title>
+      <title>5/17 Charlie và nhà máy sôcôla - Buổi 5: Chiếc vé vàng cuối cùng ở đâu</title>
       <link>https://vovlive.vn/charlie-va-nha-may-socola-p13204.html</link>
       <description><![CDATA[Charlie và nhà máy sôcôla (tiếng Anh: Charlie and the Chocolate Factory) là tiểu thuyết văn học thiếu nhi xuất bản năm 1964 của nhà văn Roald Dahl người Anh. Truyện kể về cuộc phiêu lưu của cậu bé Charlie Bucket trong nhà máy sô-cô-la của ông chủ nhà máy lập dị Willy Wonka.]]></description>
       <guid isPermaLink="false">https://vovlive.vn/charlie-va-nha-may-socola-p13204.html</guid>
@@ -64,7 +80,7 @@
       <pubDate>Mon, 13 Jun 2022 07:00:00 +0700</pubDate>
     </item>
     <item>
-      <title>6/16 Charlie và nhà máy sôcôla - Buổi 6: Giữa giá rét</title>
+      <title>6/17 Charlie và nhà máy sôcôla - Buổi 6: Giữa giá rét</title>
       <link>https://vovlive.vn/charlie-va-nha-may-socola-p13204.html</link>
       <description><![CDATA[Charlie và nhà máy sôcôla (tiếng Anh: Charlie and the Chocolate Factory) là tiểu thuyết văn học thiếu nhi xuất bản năm 1964 của nhà văn Roald Dahl người Anh. Truyện kể về cuộc phiêu lưu của cậu bé Charlie Bucket trong nhà máy sô-cô-la của ông chủ nhà máy lập dị Willy Wonka.]]></description>
       <guid isPermaLink="false">https://vovlive.vn/charlie-va-nha-may-socola-p13204.html</guid>
@@ -72,7 +88,7 @@
       <pubDate>Mon, 13 Jun 2022 07:00:00 +0700</pubDate>
     </item>
     <item>
-      <title>7/16 Charlie và nhà máy sôcôla - Buổi 7: Hạnh phúc bất ngờ</title>
+      <title>7/17 Charlie và nhà máy sôcôla - Buổi 7: Hạnh phúc bất ngờ</title>
       <link>https://vovlive.vn/charlie-va-nha-may-socola-p13204.html</link>
       <description><![CDATA[Charlie và nhà máy sôcôla (tiếng Anh: Charlie and the Chocolate Factory) là tiểu thuyết văn học thiếu nhi xuất bản năm 1964 của nhà văn Roald Dahl người Anh. Truyện kể về cuộc phiêu lưu của cậu bé Charlie Bucket trong nhà máy sô-cô-la của ông chủ nhà máy lập dị Willy Wonka.]]></description>
       <guid isPermaLink="false">https://vovlive.vn/charlie-va-nha-may-socola-p13204.html</guid>
@@ -80,7 +96,7 @@
       <pubDate>Mon, 13 Jun 2022 07:00:00 +0700</pubDate>
     </item>
     <item>
-      <title>8/16 Charlie và nhà máy sôcôla - Buổi 8: Bước vào nhà máy sôcôla</title>
+      <title>8/17 Charlie và nhà máy sôcôla - Buổi 8: Bước vào nhà máy sôcôla</title>
       <link>https://vovlive.vn/charlie-va-nha-may-socola-p13204.html</link>
       <description><![CDATA[Charlie và nhà máy sôcôla (tiếng Anh: Charlie and the Chocolate Factory) là tiểu thuyết văn học thiếu nhi xuất bản năm 1964 của nhà văn Roald Dahl người Anh. Truyện kể về cuộc phiêu lưu của cậu bé Charlie Bucket trong nhà máy sô-cô-la của ông chủ nhà máy lập dị Willy Wonka.]]></description>
       <guid isPermaLink="false">https://vovlive.vn/charlie-va-nha-may-socola-p13204.html</guid>
@@ -88,7 +104,7 @@
       <pubDate>Thu, 23 Jun 2022 07:00:00 +0700</pubDate>
     </item>
     <item>
-      <title>9/16 Charlie và nhà máy sôcôla - Buổi 9: Sự cố đầu tiên</title>
+      <title>9/17 Charlie và nhà máy sôcôla - Buổi 9: Sự cố đầu tiên</title>
       <link>https://vovlive.vn/charlie-va-nha-may-socola-p13204.html</link>
       <description><![CDATA[Charlie và nhà máy sôcôla (tiếng Anh: Charlie and the Chocolate Factory) là tiểu thuyết văn học thiếu nhi xuất bản năm 1964 của nhà văn Roald Dahl người Anh. Truyện kể về cuộc phiêu lưu của cậu bé Charlie Bucket trong nhà máy sô-cô-la của ông chủ nhà máy lập dị Willy Wonka.]]></description>
       <guid isPermaLink="false">https://vovlive.vn/charlie-va-nha-may-socola-p13204.html</guid>
@@ -96,7 +112,7 @@
       <pubDate>Thu, 23 Jun 2022 07:00:00 +0700</pubDate>
     </item>
     <item>
-      <title>10/16 Charlie và nhà máy sôcôla - Buổi 10: Dập dềnh trên thuyền kẹo</title>
+      <title>10/17 Charlie và nhà máy sôcôla - Buổi 10: Dập dềnh trên thuyền kẹo</title>
       <link>https://vovlive.vn/charlie-va-nha-may-socola-p13204.html</link>
       <description><![CDATA[Charlie và nhà máy sôcôla (tiếng Anh: Charlie and the Chocolate Factory) là tiểu thuyết văn học thiếu nhi xuất bản năm 1964 của nhà văn Roald Dahl người Anh. Truyện kể về cuộc phiêu lưu của cậu bé Charlie Bucket trong nhà máy sô-cô-la của ông chủ nhà máy lập dị Willy Wonka.]]></description>
       <guid isPermaLink="false">https://vovlive.vn/charlie-va-nha-may-socola-p13204.html</guid>
@@ -104,7 +120,7 @@
       <pubDate>Thu, 23 Jun 2022 07:00:00 +0700</pubDate>
     </item>
     <item>
-      <title>11/16 Charlie và nhà máy sôcôla - Buổi 11: Bước vào thế giới kẹo</title>
+      <title>11/17 Charlie và nhà máy sôcôla - Buổi 11: Bước vào thế giới kẹo</title>
       <link>https://vovlive.vn/charlie-va-nha-may-socola-p13204.html</link>
       <description><![CDATA[Charlie và nhà máy sôcôla (tiếng Anh: Charlie and the Chocolate Factory) là tiểu thuyết văn học thiếu nhi xuất bản năm 1964 của nhà văn Roald Dahl người Anh. Truyện kể về cuộc phiêu lưu của cậu bé Charlie Bucket trong nhà máy sô-cô-la của ông chủ nhà máy lập dị Willy Wonka.]]></description>
       <guid isPermaLink="false">https://vovlive.vn/charlie-va-nha-may-socola-p13204.html</guid>
@@ -112,7 +128,7 @@
       <pubDate>Thu, 30 Jun 2022 07:00:00 +0700</pubDate>
     </item>
     <item>
-      <title>12/16 Charlie và nhà máy sôcôla - Buổi 12: Kẹo biến hình</title>
+      <title>12/17 Charlie và nhà máy sôcôla - Buổi 12: Kẹo biến hình</title>
       <link>https://vovlive.vn/charlie-va-nha-may-socola-p13204.html</link>
       <description><![CDATA[Charlie và nhà máy sôcôla (tiếng Anh: Charlie and the Chocolate Factory) là tiểu thuyết văn học thiếu nhi xuất bản năm 1964 của nhà văn Roald Dahl người Anh. Truyện kể về cuộc phiêu lưu của cậu bé Charlie Bucket trong nhà máy sô-cô-la của ông chủ nhà máy lập dị Willy Wonka.]]></description>
       <guid isPermaLink="false">https://vovlive.vn/charlie-va-nha-may-socola-p13204.html</guid>
@@ -120,7 +136,7 @@
       <pubDate>Thu, 30 Jun 2022 07:00:00 +0700</pubDate>
     </item>
     <item>
-      <title>13/16 Charlie và nhà máy sôcôla - Buổi 13: Bí ẩn phòng kẹo vuông</title>
+      <title>13/17 Charlie và nhà máy sôcôla - Buổi 13: Bí ẩn phòng kẹo vuông</title>
       <link>https://vovlive.vn/charlie-va-nha-may-socola-p13204.html</link>
       <description><![CDATA[Charlie và nhà máy sôcôla (tiếng Anh: Charlie and the Chocolate Factory) là tiểu thuyết văn học thiếu nhi xuất bản năm 1964 của nhà văn Roald Dahl người Anh. Truyện kể về cuộc phiêu lưu của cậu bé Charlie Bucket trong nhà máy sô-cô-la của ông chủ nhà máy lập dị Willy Wonka.]]></description>
       <guid isPermaLink="false">https://vovlive.vn/charlie-va-nha-may-socola-p13204.html</guid>
@@ -128,7 +144,7 @@
       <pubDate>Thu, 30 Jun 2022 07:00:00 +0700</pubDate>
     </item>
     <item>
-      <title>14/16 Charlie và nhà máy sôcôla - Buổi 14: Thang máy tên lửa</title>
+      <title>14/17 Charlie và nhà máy sôcôla - Buổi 14: Thang máy tên lửa</title>
       <link>https://vovlive.vn/charlie-va-nha-may-socola-p13204.html</link>
       <description><![CDATA[Charlie và nhà máy sôcôla (tiếng Anh: Charlie and the Chocolate Factory) là tiểu thuyết văn học thiếu nhi xuất bản năm 1964 của nhà văn Roald Dahl người Anh. Truyện kể về cuộc phiêu lưu của cậu bé Charlie Bucket trong nhà máy sô-cô-la của ông chủ nhà máy lập dị Willy Wonka.]]></description>
       <guid isPermaLink="false">https://vovlive.vn/charlie-va-nha-may-socola-p13204.html</guid>
@@ -136,7 +152,7 @@
       <pubDate>Mon, 11 Jul 2022 07:00:00 +0700</pubDate>
     </item>
     <item>
-      <title>15/16 Charlie và nhà máy sôcôla - Buổi 15: Những người Umpa Umpa</title>
+      <title>15/17 Charlie và nhà máy sôcôla - Buổi 15: Những người Umpa Umpa</title>
       <link>https://vovlive.vn/charlie-va-nha-may-socola-p13204.html</link>
       <description><![CDATA[Charlie và nhà máy sôcôla (tiếng Anh: Charlie and the Chocolate Factory) là tiểu thuyết văn học thiếu nhi xuất bản năm 1964 của nhà văn Roald Dahl người Anh. Truyện kể về cuộc phiêu lưu của cậu bé Charlie Bucket trong nhà máy sô-cô-la của ông chủ nhà máy lập dị Willy Wonka.]]></description>
       <guid isPermaLink="false">https://vovlive.vn/charlie-va-nha-may-socola-p13204.html</guid>
@@ -144,12 +160,20 @@
       <pubDate>Mon, 11 Jul 2022 07:00:00 +0700</pubDate>
     </item>
     <item>
-      <title>16/16 Charlie và nhà máy sôcôla - Buổi 16: Mike tí hon</title>
+      <title>16/17 Charlie và nhà máy sôcôla - Buổi 16: Mike tí hon</title>
       <link>https://vovlive.vn/charlie-va-nha-may-socola-p13204.html</link>
       <description><![CDATA[Charlie và nhà máy sôcôla (tiếng Anh: Charlie and the Chocolate Factory) là tiểu thuyết văn học thiếu nhi xuất bản năm 1964 của nhà văn Roald Dahl người Anh. Truyện kể về cuộc phiêu lưu của cậu bé Charlie Bucket trong nhà máy sô-cô-la của ông chủ nhà máy lập dị Willy Wonka.]]></description>
       <guid isPermaLink="false">https://vovlive.vn/charlie-va-nha-may-socola-p13204.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/07/11/vovlive.vn_vannghethieunhi_charlievanhamaysocola_phan16.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 11 Jul 2022 07:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>17/17 Charlie và nhà máy sôcôla - Buổi cuối: Phần thưởng tuyệt vời</title>
+      <link>https://vovlive.vn/charlie-va-nha-may-socola-p13204.html</link>
+      <description><![CDATA[Charlie và nhà máy sôcôla (tiếng Anh: Charlie and the Chocolate Factory) là tiểu thuyết văn học thiếu nhi xuất bản năm 1964 của nhà văn Roald Dahl người Anh. Truyện kể về cuộc phiêu lưu của cậu bé Charlie Bucket trong nhà máy sô-cô-la của ông chủ nhà máy lập dị Willy Wonka.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/charlie-va-nha-may-socola-p13204.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/07/15/vovlive.vn_vannghethieunhi_charlievanhamaysocola_phan17.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 15 Jul 2022 07:00:00 +0700</pubDate>
     </item>
     <item>
       <title>▶ 1/61 Ông già Khốt - Ta - Bít - Buổi 1: Buổi sáng trong lành</title>
@@ -3576,270 +3600,6 @@ Truyện được chuyển thể thành các bộ phim điện ảnh, phim truy
       <guid isPermaLink="false">https://vovlive.vn/bac-si-ai-bo-lit-p172.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2020/09/09/vovlive_bacsiaibolit_phan15.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 09 Sep 2020 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>▶ 1/33 Chú bé đeo ba lô màu đỏ (buổi 1): Bị nước cuốn đi</title>
-      <link>https://vovlive.vn/chu-be-deo-ba-lo-mau-do-p51.html</link>
-      <description><![CDATA[Nhân vật chính trong cuốn sách là cậu bé Hưng, một cậu bé tuổi lên mười ở một thị trấn nhỏ nằm khuất nẻo vùng trung du phía Bắc những năm 90 của thế kỉ trước. Từ nhỏ, Hưng sống với bố và chưa bao giờ được biết mặt mẹ. Nỗi tò mò về mẹ cứ lớn dần trong Hưng khi bị bạn bè tra hỏi riết ráo, thôi thúc Hưng bước vào hành trình tìm kiếm mẹ qua manh mối duy nhất mà cha cậu hé lộ. Mang theo hành trang là chiếc ba lô màu đỏ trên lưng, với biệt danh “chú bé đeo ba lô màu đỏ” do người bạn gái thân thiết cùng lớp thường gọi, Hưng lên đường hằng mong tìm được người mẹ yêu dấu, tìm về gốc gác nguồn cội của mình... mà không thể tưởng tượng được rằng, hành trình mà cậu sắp trải qua sẽ gặp bao sóng gió. Trong hành trình ấy, Hưng đã đi qua nhiều vùng miền, gặp nhiều người khác nhau trong xã hội, cả người tốt lẫn kẻ xấu. Những biến cố, những sự kiện không may xảy ra liên tiếp giúp Hưng trưởng thành hơn, mạnh mẽ hơn, “không được sợ” – như lời cô Đào – một ân nhân đã cưu mang và yêu thương Hưng luôn nhắn nhủ với cậu...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/chu-be-deo-ba-lo-mau-do-p51.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2020/08/14/chubedeobalomaudo.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 14 Aug 2020 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>2/33 Chú bé đeo ba lô màu đỏ (buổi 2): Tỉnh dậy ở một nơi xa lạ</title>
-      <link>https://vovlive.vn/chu-be-deo-ba-lo-mau-do-p51.html</link>
-      <description><![CDATA[Nhân vật chính trong cuốn sách là cậu bé Hưng, một cậu bé tuổi lên mười ở một thị trấn nhỏ nằm khuất nẻo vùng trung du phía Bắc những năm 90 của thế kỉ trước. Từ nhỏ, Hưng sống với bố và chưa bao giờ được biết mặt mẹ. Nỗi tò mò về mẹ cứ lớn dần trong Hưng khi bị bạn bè tra hỏi riết ráo, thôi thúc Hưng bước vào hành trình tìm kiếm mẹ qua manh mối duy nhất mà cha cậu hé lộ. Mang theo hành trang là chiếc ba lô màu đỏ trên lưng, với biệt danh “chú bé đeo ba lô màu đỏ” do người bạn gái thân thiết cùng lớp thường gọi, Hưng lên đường hằng mong tìm được người mẹ yêu dấu, tìm về gốc gác nguồn cội của mình... mà không thể tưởng tượng được rằng, hành trình mà cậu sắp trải qua sẽ gặp bao sóng gió. Trong hành trình ấy, Hưng đã đi qua nhiều vùng miền, gặp nhiều người khác nhau trong xã hội, cả người tốt lẫn kẻ xấu. Những biến cố, những sự kiện không may xảy ra liên tiếp giúp Hưng trưởng thành hơn, mạnh mẽ hơn, “không được sợ” – như lời cô Đào – một ân nhân đã cưu mang và yêu thương Hưng luôn nhắn nhủ với cậu...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/chu-be-deo-ba-lo-mau-do-p51.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2020/08/14/chubedeobalomaudo2.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 14 Aug 2020 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>3/33 Chú bé đeo la bô màu đỏ (buổi 3): Đôi bạn thân</title>
-      <link>https://vovlive.vn/chu-be-deo-ba-lo-mau-do-p51.html</link>
-      <description><![CDATA[Nhân vật chính trong cuốn sách là cậu bé Hưng, một cậu bé tuổi lên mười ở một thị trấn nhỏ nằm khuất nẻo vùng trung du phía Bắc những năm 90 của thế kỉ trước. Từ nhỏ, Hưng sống với bố và chưa bao giờ được biết mặt mẹ. Nỗi tò mò về mẹ cứ lớn dần trong Hưng khi bị bạn bè tra hỏi riết ráo, thôi thúc Hưng bước vào hành trình tìm kiếm mẹ qua manh mối duy nhất mà cha cậu hé lộ. Mang theo hành trang là chiếc ba lô màu đỏ trên lưng, với biệt danh “chú bé đeo ba lô màu đỏ” do người bạn gái thân thiết cùng lớp thường gọi, Hưng lên đường hằng mong tìm được người mẹ yêu dấu, tìm về gốc gác nguồn cội của mình... mà không thể tưởng tượng được rằng, hành trình mà cậu sắp trải qua sẽ gặp bao sóng gió. Trong hành trình ấy, Hưng đã đi qua nhiều vùng miền, gặp nhiều người khác nhau trong xã hội, cả người tốt lẫn kẻ xấu. Những biến cố, những sự kiện không may xảy ra liên tiếp giúp Hưng trưởng thành hơn, mạnh mẽ hơn, “không được sợ” – như lời cô Đào – một ân nhân đã cưu mang và yêu thương Hưng luôn nhắn nhủ với cậu...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/chu-be-deo-ba-lo-mau-do-p51.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2020/08/14/chubedeobalomaudo3.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 14 Aug 2020 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>4/33 Chú bé đeo ba lô màu đỏ (buổi 4): Một quyết định quan trọng</title>
-      <link>https://vovlive.vn/chu-be-deo-ba-lo-mau-do-p51.html</link>
-      <description><![CDATA[Nhân vật chính trong cuốn sách là cậu bé Hưng, một cậu bé tuổi lên mười ở một thị trấn nhỏ nằm khuất nẻo vùng trung du phía Bắc những năm 90 của thế kỉ trước. Từ nhỏ, Hưng sống với bố và chưa bao giờ được biết mặt mẹ. Nỗi tò mò về mẹ cứ lớn dần trong Hưng khi bị bạn bè tra hỏi riết ráo, thôi thúc Hưng bước vào hành trình tìm kiếm mẹ qua manh mối duy nhất mà cha cậu hé lộ. Mang theo hành trang là chiếc ba lô màu đỏ trên lưng, với biệt danh “chú bé đeo ba lô màu đỏ” do người bạn gái thân thiết cùng lớp thường gọi, Hưng lên đường hằng mong tìm được người mẹ yêu dấu, tìm về gốc gác nguồn cội của mình... mà không thể tưởng tượng được rằng, hành trình mà cậu sắp trải qua sẽ gặp bao sóng gió. Trong hành trình ấy, Hưng đã đi qua nhiều vùng miền, gặp nhiều người khác nhau trong xã hội, cả người tốt lẫn kẻ xấu. Những biến cố, những sự kiện không may xảy ra liên tiếp giúp Hưng trưởng thành hơn, mạnh mẽ hơn, “không được sợ” – như lời cô Đào – một ân nhân đã cưu mang và yêu thương Hưng luôn nhắn nhủ với cậu...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/chu-be-deo-ba-lo-mau-do-p51.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2020/08/14/chubedeobalomaudo4.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 14 Aug 2020 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>5/33 Chú bé đeo ba lô màu đỏ (buổi 5): Đồi Sơn Nhân</title>
-      <link>https://vovlive.vn/chu-be-deo-ba-lo-mau-do-p51.html</link>
-      <description><![CDATA[Nhân vật chính trong cuốn sách là cậu bé Hưng, một cậu bé tuổi lên mười ở một thị trấn nhỏ nằm khuất nẻo vùng trung du phía Bắc những năm 90 của thế kỉ trước. Từ nhỏ, Hưng sống với bố và chưa bao giờ được biết mặt mẹ. Nỗi tò mò về mẹ cứ lớn dần trong Hưng khi bị bạn bè tra hỏi riết ráo, thôi thúc Hưng bước vào hành trình tìm kiếm mẹ qua manh mối duy nhất mà cha cậu hé lộ. Mang theo hành trang là chiếc ba lô màu đỏ trên lưng, với biệt danh “chú bé đeo ba lô màu đỏ” do người bạn gái thân thiết cùng lớp thường gọi, Hưng lên đường hằng mong tìm được người mẹ yêu dấu, tìm về gốc gác nguồn cội của mình... mà không thể tưởng tượng được rằng, hành trình mà cậu sắp trải qua sẽ gặp bao sóng gió. Trong hành trình ấy, Hưng đã đi qua nhiều vùng miền, gặp nhiều người khác nhau trong xã hội, cả người tốt lẫn kẻ xấu. Những biến cố, những sự kiện không may xảy ra liên tiếp giúp Hưng trưởng thành hơn, mạnh mẽ hơn, “không được sợ” – như lời cô Đào – một ân nhân đã cưu mang và yêu thương Hưng luôn nhắn nhủ với cậu...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/chu-be-deo-ba-lo-mau-do-p51.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2020/08/14/chubedeobalomaudo5.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 14 Aug 2020 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>6/33 Chú bé đeo ba lô màu đỏ (buổi 6): Chuyến thám hiểm đầu tiên</title>
-      <link>https://vovlive.vn/chu-be-deo-ba-lo-mau-do-p51.html</link>
-      <description><![CDATA[Nhân vật chính trong cuốn sách là cậu bé Hưng, một cậu bé tuổi lên mười ở một thị trấn nhỏ nằm khuất nẻo vùng trung du phía Bắc những năm 90 của thế kỉ trước. Từ nhỏ, Hưng sống với bố và chưa bao giờ được biết mặt mẹ. Nỗi tò mò về mẹ cứ lớn dần trong Hưng khi bị bạn bè tra hỏi riết ráo, thôi thúc Hưng bước vào hành trình tìm kiếm mẹ qua manh mối duy nhất mà cha cậu hé lộ. Mang theo hành trang là chiếc ba lô màu đỏ trên lưng, với biệt danh “chú bé đeo ba lô màu đỏ” do người bạn gái thân thiết cùng lớp thường gọi, Hưng lên đường hằng mong tìm được người mẹ yêu dấu, tìm về gốc gác nguồn cội của mình... mà không thể tưởng tượng được rằng, hành trình mà cậu sắp trải qua sẽ gặp bao sóng gió. Trong hành trình ấy, Hưng đã đi qua nhiều vùng miền, gặp nhiều người khác nhau trong xã hội, cả người tốt lẫn kẻ xấu. Những biến cố, những sự kiện không may xảy ra liên tiếp giúp Hưng trưởng thành hơn, mạnh mẽ hơn, “không được sợ” – như lời cô Đào – một ân nhân đã cưu mang và yêu thương Hưng luôn nhắn nhủ với cậu...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/chu-be-deo-ba-lo-mau-do-p51.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2020/08/14/chubedeobalomaudo6.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 14 Aug 2020 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>7/33 Chú bé đeo ba lô màu đỏ (buổi 7): Đi tìm Người Rừng</title>
-      <link>https://vovlive.vn/chu-be-deo-ba-lo-mau-do-p51.html</link>
-      <description><![CDATA[Nhân vật chính trong cuốn sách là cậu bé Hưng, một cậu bé tuổi lên mười ở một thị trấn nhỏ nằm khuất nẻo vùng trung du phía Bắc những năm 90 của thế kỉ trước. Từ nhỏ, Hưng sống với bố và chưa bao giờ được biết mặt mẹ. Nỗi tò mò về mẹ cứ lớn dần trong Hưng khi bị bạn bè tra hỏi riết ráo, thôi thúc Hưng bước vào hành trình tìm kiếm mẹ qua manh mối duy nhất mà cha cậu hé lộ. Mang theo hành trang là chiếc ba lô màu đỏ trên lưng, với biệt danh “chú bé đeo ba lô màu đỏ” do người bạn gái thân thiết cùng lớp thường gọi, Hưng lên đường hằng mong tìm được người mẹ yêu dấu, tìm về gốc gác nguồn cội của mình... mà không thể tưởng tượng được rằng, hành trình mà cậu sắp trải qua sẽ gặp bao sóng gió. Trong hành trình ấy, Hưng đã đi qua nhiều vùng miền, gặp nhiều người khác nhau trong xã hội, cả người tốt lẫn kẻ xấu. Những biến cố, những sự kiện không may xảy ra liên tiếp giúp Hưng trưởng thành hơn, mạnh mẽ hơn, “không được sợ” – như lời cô Đào – một ân nhân đã cưu mang và yêu thương Hưng luôn nhắn nhủ với cậu...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/chu-be-deo-ba-lo-mau-do-p51.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2020/08/14/chubedeobalomaudo7.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 14 Aug 2020 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>8/33 Chú bé đeo ba lô màu đỏ (buổi 8): Đối diện với Người Rừng</title>
-      <link>https://vovlive.vn/chu-be-deo-ba-lo-mau-do-p51.html</link>
-      <description><![CDATA[Nhân vật chính trong cuốn sách là cậu bé Hưng, một cậu bé tuổi lên mười ở một thị trấn nhỏ nằm khuất nẻo vùng trung du phía Bắc những năm 90 của thế kỉ trước. Từ nhỏ, Hưng sống với bố và chưa bao giờ được biết mặt mẹ. Nỗi tò mò về mẹ cứ lớn dần trong Hưng khi bị bạn bè tra hỏi riết ráo, thôi thúc Hưng bước vào hành trình tìm kiếm mẹ qua manh mối duy nhất mà cha cậu hé lộ. Mang theo hành trang là chiếc ba lô màu đỏ trên lưng, với biệt danh “chú bé đeo ba lô màu đỏ” do người bạn gái thân thiết cùng lớp thường gọi, Hưng lên đường hằng mong tìm được người mẹ yêu dấu, tìm về gốc gác nguồn cội của mình... mà không thể tưởng tượng được rằng, hành trình mà cậu sắp trải qua sẽ gặp bao sóng gió. Trong hành trình ấy, Hưng đã đi qua nhiều vùng miền, gặp nhiều người khác nhau trong xã hội, cả người tốt lẫn kẻ xấu. Những biến cố, những sự kiện không may xảy ra liên tiếp giúp Hưng trưởng thành hơn, mạnh mẽ hơn, “không được sợ” – như lời cô Đào – một ân nhân đã cưu mang và yêu thương Hưng luôn nhắn nhủ với cậu...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/chu-be-deo-ba-lo-mau-do-p51.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2020/08/14/chubedeobalomaudo8.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 14 Aug 2020 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>9/33 Chú bé đeo ba lô màu đỏ (buổi 9): Khu nhà của chuyên gia</title>
-      <link>https://vovlive.vn/chu-be-deo-ba-lo-mau-do-p51.html</link>
-      <description><![CDATA[Nhân vật chính trong cuốn sách là cậu bé Hưng, một cậu bé tuổi lên mười ở một thị trấn nhỏ nằm khuất nẻo vùng trung du phía Bắc những năm 90 của thế kỉ trước. Từ nhỏ, Hưng sống với bố và chưa bao giờ được biết mặt mẹ. Nỗi tò mò về mẹ cứ lớn dần trong Hưng khi bị bạn bè tra hỏi riết ráo, thôi thúc Hưng bước vào hành trình tìm kiếm mẹ qua manh mối duy nhất mà cha cậu hé lộ. Mang theo hành trang là chiếc ba lô màu đỏ trên lưng, với biệt danh “chú bé đeo ba lô màu đỏ” do người bạn gái thân thiết cùng lớp thường gọi, Hưng lên đường hằng mong tìm được người mẹ yêu dấu, tìm về gốc gác nguồn cội của mình... mà không thể tưởng tượng được rằng, hành trình mà cậu sắp trải qua sẽ gặp bao sóng gió. Trong hành trình ấy, Hưng đã đi qua nhiều vùng miền, gặp nhiều người khác nhau trong xã hội, cả người tốt lẫn kẻ xấu. Những biến cố, những sự kiện không may xảy ra liên tiếp giúp Hưng trưởng thành hơn, mạnh mẽ hơn, “không được sợ” – như lời cô Đào – một ân nhân đã cưu mang và yêu thương Hưng luôn nhắn nhủ với cậu...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/chu-be-deo-ba-lo-mau-do-p51.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2020/08/14/chubedeobalomaudo9.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 14 Aug 2020 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>10/33 Ché bé đeo ba lô màu đỏ (buổi 10): Chiếc bánh mì thơm ngon</title>
-      <link>https://vovlive.vn/chu-be-deo-ba-lo-mau-do-p51.html</link>
-      <description><![CDATA[Nhân vật chính trong cuốn sách là cậu bé Hưng, một cậu bé tuổi lên mười ở một thị trấn nhỏ nằm khuất nẻo vùng trung du phía Bắc những năm 90 của thế kỉ trước. Từ nhỏ, Hưng sống với bố và chưa bao giờ được biết mặt mẹ. Nỗi tò mò về mẹ cứ lớn dần trong Hưng khi bị bạn bè tra hỏi riết ráo, thôi thúc Hưng bước vào hành trình tìm kiếm mẹ qua manh mối duy nhất mà cha cậu hé lộ. Mang theo hành trang là chiếc ba lô màu đỏ trên lưng, với biệt danh “chú bé đeo ba lô màu đỏ” do người bạn gái thân thiết cùng lớp thường gọi, Hưng lên đường hằng mong tìm được người mẹ yêu dấu, tìm về gốc gác nguồn cội của mình... mà không thể tưởng tượng được rằng, hành trình mà cậu sắp trải qua sẽ gặp bao sóng gió. Trong hành trình ấy, Hưng đã đi qua nhiều vùng miền, gặp nhiều người khác nhau trong xã hội, cả người tốt lẫn kẻ xấu. Những biến cố, những sự kiện không may xảy ra liên tiếp giúp Hưng trưởng thành hơn, mạnh mẽ hơn, “không được sợ” – như lời cô Đào – một ân nhân đã cưu mang và yêu thương Hưng luôn nhắn nhủ với cậu...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/chu-be-deo-ba-lo-mau-do-p51.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2020/08/15/chubedeobalomaudo10.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 15 Aug 2020 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>11/33 Ché bé đeo ba lô màu đỏ (buổi 11): Hưng nhớ mẹ</title>
-      <link>https://vovlive.vn/chu-be-deo-ba-lo-mau-do-p51.html</link>
-      <description><![CDATA[Nhân vật chính trong cuốn sách là cậu bé Hưng, một cậu bé tuổi lên mười ở một thị trấn nhỏ nằm khuất nẻo vùng trung du phía Bắc những năm 90 của thế kỉ trước. Từ nhỏ, Hưng sống với bố và chưa bao giờ được biết mặt mẹ. Nỗi tò mò về mẹ cứ lớn dần trong Hưng khi bị bạn bè tra hỏi riết ráo, thôi thúc Hưng bước vào hành trình tìm kiếm mẹ qua manh mối duy nhất mà cha cậu hé lộ. Mang theo hành trang là chiếc ba lô màu đỏ trên lưng, với biệt danh “chú bé đeo ba lô màu đỏ” do người bạn gái thân thiết cùng lớp thường gọi, Hưng lên đường hằng mong tìm được người mẹ yêu dấu, tìm về gốc gác nguồn cội của mình... mà không thể tưởng tượng được rằng, hành trình mà cậu sắp trải qua sẽ gặp bao sóng gió. Trong hành trình ấy, Hưng đã đi qua nhiều vùng miền, gặp nhiều người khác nhau trong xã hội, cả người tốt lẫn kẻ xấu. Những biến cố, những sự kiện không may xảy ra liên tiếp giúp Hưng trưởng thành hơn, mạnh mẽ hơn, “không được sợ” – như lời cô Đào – một ân nhân đã cưu mang và yêu thương Hưng luôn nhắn nhủ với cậu...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/chu-be-deo-ba-lo-mau-do-p51.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2020/08/15/chubedeobalomaudo11.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 15 Aug 2020 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>12/33 Chú bé đeo ba lô màu đỏ (buổi 12): Người cha của Hưng</title>
-      <link>https://vovlive.vn/chu-be-deo-ba-lo-mau-do-p51.html</link>
-      <description><![CDATA[Nhân vật chính trong cuốn sách là cậu bé Hưng, một cậu bé tuổi lên mười ở một thị trấn nhỏ nằm khuất nẻo vùng trung du phía Bắc những năm 90 của thế kỉ trước. Từ nhỏ, Hưng sống với bố và chưa bao giờ được biết mặt mẹ. Nỗi tò mò về mẹ cứ lớn dần trong Hưng khi bị bạn bè tra hỏi riết ráo, thôi thúc Hưng bước vào hành trình tìm kiếm mẹ qua manh mối duy nhất mà cha cậu hé lộ. Mang theo hành trang là chiếc ba lô màu đỏ trên lưng, với biệt danh “chú bé đeo ba lô màu đỏ” do người bạn gái thân thiết cùng lớp thường gọi, Hưng lên đường hằng mong tìm được người mẹ yêu dấu, tìm về gốc gác nguồn cội của mình... mà không thể tưởng tượng được rằng, hành trình mà cậu sắp trải qua sẽ gặp bao sóng gió. Trong hành trình ấy, Hưng đã đi qua nhiều vùng miền, gặp nhiều người khác nhau trong xã hội, cả người tốt lẫn kẻ xấu. Những biến cố, những sự kiện không may xảy ra liên tiếp giúp Hưng trưởng thành hơn, mạnh mẽ hơn, “không được sợ” – như lời cô Đào – một ân nhân đã cưu mang và yêu thương Hưng luôn nhắn nhủ với cậu...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/chu-be-deo-ba-lo-mau-do-p51.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2020/08/15/chubedeobalomaudo12.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 15 Aug 2020 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>13/33 Chú bé đeo ba lô màu đỏ (buổi 13): Chiếc đồng hồ quả quýt</title>
-      <link>https://vovlive.vn/chu-be-deo-ba-lo-mau-do-p51.html</link>
-      <description><![CDATA[Nhân vật chính trong cuốn sách là cậu bé Hưng, một cậu bé tuổi lên mười ở một thị trấn nhỏ nằm khuất nẻo vùng trung du phía Bắc những năm 90 của thế kỉ trước. Từ nhỏ, Hưng sống với bố và chưa bao giờ được biết mặt mẹ. Nỗi tò mò về mẹ cứ lớn dần trong Hưng khi bị bạn bè tra hỏi riết ráo, thôi thúc Hưng bước vào hành trình tìm kiếm mẹ qua manh mối duy nhất mà cha cậu hé lộ. Mang theo hành trang là chiếc ba lô màu đỏ trên lưng, với biệt danh “chú bé đeo ba lô màu đỏ” do người bạn gái thân thiết cùng lớp thường gọi, Hưng lên đường hằng mong tìm được người mẹ yêu dấu, tìm về gốc gác nguồn cội của mình... mà không thể tưởng tượng được rằng, hành trình mà cậu sắp trải qua sẽ gặp bao sóng gió. Trong hành trình ấy, Hưng đã đi qua nhiều vùng miền, gặp nhiều người khác nhau trong xã hội, cả người tốt lẫn kẻ xấu. Những biến cố, những sự kiện không may xảy ra liên tiếp giúp Hưng trưởng thành hơn, mạnh mẽ hơn, “không được sợ” – như lời cô Đào – một ân nhân đã cưu mang và yêu thương Hưng luôn nhắn nhủ với cậu...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/chu-be-deo-ba-lo-mau-do-p51.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2020/08/15/chubedeobalomaudo13.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 15 Aug 2020 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>14/33 Chú bé đeo ba lô màu đỏ (buổi 14): Đám cháy</title>
-      <link>https://vovlive.vn/chu-be-deo-ba-lo-mau-do-p51.html</link>
-      <description><![CDATA[Nhân vật chính trong cuốn sách là cậu bé Hưng, một cậu bé tuổi lên mười ở một thị trấn nhỏ nằm khuất nẻo vùng trung du phía Bắc những năm 90 của thế kỉ trước. Từ nhỏ, Hưng sống với bố và chưa bao giờ được biết mặt mẹ. Nỗi tò mò về mẹ cứ lớn dần trong Hưng khi bị bạn bè tra hỏi riết ráo, thôi thúc Hưng bước vào hành trình tìm kiếm mẹ qua manh mối duy nhất mà cha cậu hé lộ. Mang theo hành trang là chiếc ba lô màu đỏ trên lưng, với biệt danh “chú bé đeo ba lô màu đỏ” do người bạn gái thân thiết cùng lớp thường gọi, Hưng lên đường hằng mong tìm được người mẹ yêu dấu, tìm về gốc gác nguồn cội của mình... mà không thể tưởng tượng được rằng, hành trình mà cậu sắp trải qua sẽ gặp bao sóng gió. Trong hành trình ấy, Hưng đã đi qua nhiều vùng miền, gặp nhiều người khác nhau trong xã hội, cả người tốt lẫn kẻ xấu. Những biến cố, những sự kiện không may xảy ra liên tiếp giúp Hưng trưởng thành hơn, mạnh mẽ hơn, “không được sợ” – như lời cô Đào – một ân nhân đã cưu mang và yêu thương Hưng luôn nhắn nhủ với cậu...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/chu-be-deo-ba-lo-mau-do-p51.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2020/08/15/chubedeobalomaudo14.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 15 Aug 2020 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>15/33 Chú bé đeo ba lô màu đỏ (buổi 15): Tìm cha</title>
-      <link>https://vovlive.vn/chu-be-deo-ba-lo-mau-do-p51.html</link>
-      <description><![CDATA[Nhân vật chính trong cuốn sách là cậu bé Hưng, một cậu bé tuổi lên mười ở một thị trấn nhỏ nằm khuất nẻo vùng trung du phía Bắc những năm 90 của thế kỉ trước. Từ nhỏ, Hưng sống với bố và chưa bao giờ được biết mặt mẹ. Nỗi tò mò về mẹ cứ lớn dần trong Hưng khi bị bạn bè tra hỏi riết ráo, thôi thúc Hưng bước vào hành trình tìm kiếm mẹ qua manh mối duy nhất mà cha cậu hé lộ. Mang theo hành trang là chiếc ba lô màu đỏ trên lưng, với biệt danh “chú bé đeo ba lô màu đỏ” do người bạn gái thân thiết cùng lớp thường gọi, Hưng lên đường hằng mong tìm được người mẹ yêu dấu, tìm về gốc gác nguồn cội của mình... mà không thể tưởng tượng được rằng, hành trình mà cậu sắp trải qua sẽ gặp bao sóng gió. Trong hành trình ấy, Hưng đã đi qua nhiều vùng miền, gặp nhiều người khác nhau trong xã hội, cả người tốt lẫn kẻ xấu. Những biến cố, những sự kiện không may xảy ra liên tiếp giúp Hưng trưởng thành hơn, mạnh mẽ hơn, “không được sợ” – như lời cô Đào – một ân nhân đã cưu mang và yêu thương Hưng luôn nhắn nhủ với cậu...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/chu-be-deo-ba-lo-mau-do-p51.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2020/08/15/chubedeobalomaudo15.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 15 Aug 2020 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>16/33 Chú bé đeo ba lô màu đỏ (buổi 16): Giữa những người lạ</title>
-      <link>https://vovlive.vn/chu-be-deo-ba-lo-mau-do-p51.html</link>
-      <description><![CDATA[Nhân vật chính trong cuốn sách là cậu bé Hưng, một cậu bé tuổi lên mười ở một thị trấn nhỏ nằm khuất nẻo vùng trung du phía Bắc những năm 90 của thế kỉ trước. Từ nhỏ, Hưng sống với bố và chưa bao giờ được biết mặt mẹ. Nỗi tò mò về mẹ cứ lớn dần trong Hưng khi bị bạn bè tra hỏi riết ráo, thôi thúc Hưng bước vào hành trình tìm kiếm mẹ qua manh mối duy nhất mà cha cậu hé lộ. Mang theo hành trang là chiếc ba lô màu đỏ trên lưng, với biệt danh “chú bé đeo ba lô màu đỏ” do người bạn gái thân thiết cùng lớp thường gọi, Hưng lên đường hằng mong tìm được người mẹ yêu dấu, tìm về gốc gác nguồn cội của mình... mà không thể tưởng tượng được rằng, hành trình mà cậu sắp trải qua sẽ gặp bao sóng gió. Trong hành trình ấy, Hưng đã đi qua nhiều vùng miền, gặp nhiều người khác nhau trong xã hội, cả người tốt lẫn kẻ xấu. Những biến cố, những sự kiện không may xảy ra liên tiếp giúp Hưng trưởng thành hơn, mạnh mẽ hơn, “không được sợ” – như lời cô Đào – một ân nhân đã cưu mang và yêu thương Hưng luôn nhắn nhủ với cậu...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/chu-be-deo-ba-lo-mau-do-p51.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2020/08/15/chubedeobalomaudo16.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 15 Aug 2020 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>17/33 Chú bé đeo ba lô màu đỏ (buổi 17): Hy vọng mong manh</title>
-      <link>https://vovlive.vn/chu-be-deo-ba-lo-mau-do-p51.html</link>
-      <description><![CDATA[Nhân vật chính trong cuốn sách là cậu bé Hưng, một cậu bé tuổi lên mười ở một thị trấn nhỏ nằm khuất nẻo vùng trung du phía Bắc những năm 90 của thế kỉ trước. Từ nhỏ, Hưng sống với bố và chưa bao giờ được biết mặt mẹ. Nỗi tò mò về mẹ cứ lớn dần trong Hưng khi bị bạn bè tra hỏi riết ráo, thôi thúc Hưng bước vào hành trình tìm kiếm mẹ qua manh mối duy nhất mà cha cậu hé lộ. Mang theo hành trang là chiếc ba lô màu đỏ trên lưng, với biệt danh “chú bé đeo ba lô màu đỏ” do người bạn gái thân thiết cùng lớp thường gọi, Hưng lên đường hằng mong tìm được người mẹ yêu dấu, tìm về gốc gác nguồn cội của mình... mà không thể tưởng tượng được rằng, hành trình mà cậu sắp trải qua sẽ gặp bao sóng gió. Trong hành trình ấy, Hưng đã đi qua nhiều vùng miền, gặp nhiều người khác nhau trong xã hội, cả người tốt lẫn kẻ xấu. Những biến cố, những sự kiện không may xảy ra liên tiếp giúp Hưng trưởng thành hơn, mạnh mẽ hơn, “không được sợ” – như lời cô Đào – một ân nhân đã cưu mang và yêu thương Hưng luôn nhắn nhủ với cậu...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/chu-be-deo-ba-lo-mau-do-p51.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2020/08/15/chubedeobalomaudo17.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 15 Aug 2020 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>18/33 Chú bé đeo ba lô màu đỏ (buổi 18):  Những người lạ mặt</title>
-      <link>https://vovlive.vn/chu-be-deo-ba-lo-mau-do-p51.html</link>
-      <description><![CDATA[Nhân vật chính trong cuốn sách là cậu bé Hưng, một cậu bé tuổi lên mười ở một thị trấn nhỏ nằm khuất nẻo vùng trung du phía Bắc những năm 90 của thế kỉ trước. Từ nhỏ, Hưng sống với bố và chưa bao giờ được biết mặt mẹ. Nỗi tò mò về mẹ cứ lớn dần trong Hưng khi bị bạn bè tra hỏi riết ráo, thôi thúc Hưng bước vào hành trình tìm kiếm mẹ qua manh mối duy nhất mà cha cậu hé lộ. Mang theo hành trang là chiếc ba lô màu đỏ trên lưng, với biệt danh “chú bé đeo ba lô màu đỏ” do người bạn gái thân thiết cùng lớp thường gọi, Hưng lên đường hằng mong tìm được người mẹ yêu dấu, tìm về gốc gác nguồn cội của mình... mà không thể tưởng tượng được rằng, hành trình mà cậu sắp trải qua sẽ gặp bao sóng gió. Trong hành trình ấy, Hưng đã đi qua nhiều vùng miền, gặp nhiều người khác nhau trong xã hội, cả người tốt lẫn kẻ xấu. Những biến cố, những sự kiện không may xảy ra liên tiếp giúp Hưng trưởng thành hơn, mạnh mẽ hơn, “không được sợ” – như lời cô Đào – một ân nhân đã cưu mang và yêu thương Hưng luôn nhắn nhủ với cậu...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/chu-be-deo-ba-lo-mau-do-p51.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2020/08/15/chubedeobalomaudo18.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 15 Aug 2020 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>19/33 Chú bé đeo ba lô màu đỏ (buổi 19): Về nơi ở mới</title>
-      <link>https://vovlive.vn/chu-be-deo-ba-lo-mau-do-p51.html</link>
-      <description><![CDATA[Nhân vật chính trong cuốn sách là cậu bé Hưng, một cậu bé tuổi lên mười ở một thị trấn nhỏ nằm khuất nẻo vùng trung du phía Bắc những năm 90 của thế kỉ trước. Từ nhỏ, Hưng sống với bố và chưa bao giờ được biết mặt mẹ. Nỗi tò mò về mẹ cứ lớn dần trong Hưng khi bị bạn bè tra hỏi riết ráo, thôi thúc Hưng bước vào hành trình tìm kiếm mẹ qua manh mối duy nhất mà cha cậu hé lộ. Mang theo hành trang là chiếc ba lô màu đỏ trên lưng, với biệt danh “chú bé đeo ba lô màu đỏ” do người bạn gái thân thiết cùng lớp thường gọi, Hưng lên đường hằng mong tìm được người mẹ yêu dấu, tìm về gốc gác nguồn cội của mình... mà không thể tưởng tượng được rằng, hành trình mà cậu sắp trải qua sẽ gặp bao sóng gió. Trong hành trình ấy, Hưng đã đi qua nhiều vùng miền, gặp nhiều người khác nhau trong xã hội, cả người tốt lẫn kẻ xấu. Những biến cố, những sự kiện không may xảy ra liên tiếp giúp Hưng trưởng thành hơn, mạnh mẽ hơn, “không được sợ” – như lời cô Đào – một ân nhân đã cưu mang và yêu thương Hưng luôn nhắn nhủ với cậu...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/chu-be-deo-ba-lo-mau-do-p51.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2020/09/14/vovlive-sach-noi-van-nghe-thieu-nhi-chu-be-deo-ba-lo-mau-do-19.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 14 Sep 2020 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>20/33 Chú bé đeo ba lô màu đỏ (buổi 20): Hưng làm thợ rửa xe</title>
-      <link>https://vovlive.vn/chu-be-deo-ba-lo-mau-do-p51.html</link>
-      <description><![CDATA[Nhân vật chính trong cuốn sách là cậu bé Hưng, một cậu bé tuổi lên mười ở một thị trấn nhỏ nằm khuất nẻo vùng trung du phía Bắc những năm 90 của thế kỉ trước. Từ nhỏ, Hưng sống với bố và chưa bao giờ được biết mặt mẹ. Nỗi tò mò về mẹ cứ lớn dần trong Hưng khi bị bạn bè tra hỏi riết ráo, thôi thúc Hưng bước vào hành trình tìm kiếm mẹ qua manh mối duy nhất mà cha cậu hé lộ. Mang theo hành trang là chiếc ba lô màu đỏ trên lưng, với biệt danh “chú bé đeo ba lô màu đỏ” do người bạn gái thân thiết cùng lớp thường gọi, Hưng lên đường hằng mong tìm được người mẹ yêu dấu, tìm về gốc gác nguồn cội của mình... mà không thể tưởng tượng được rằng, hành trình mà cậu sắp trải qua sẽ gặp bao sóng gió. Trong hành trình ấy, Hưng đã đi qua nhiều vùng miền, gặp nhiều người khác nhau trong xã hội, cả người tốt lẫn kẻ xấu. Những biến cố, những sự kiện không may xảy ra liên tiếp giúp Hưng trưởng thành hơn, mạnh mẽ hơn, “không được sợ” – như lời cô Đào – một ân nhân đã cưu mang và yêu thương Hưng luôn nhắn nhủ với cậu...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/chu-be-deo-ba-lo-mau-do-p51.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2020/09/14/vovlive-sach-noi-van-nghe-thieu-nhi-chu-be-deo-ba-lo-mau-do-20.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 14 Sep 2020 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>21/33 Chú bé đeo ba lô màu đỏ (buổi 22): Bỏ trốn</title>
-      <link>https://vovlive.vn/chu-be-deo-ba-lo-mau-do-p51.html</link>
-      <description><![CDATA[Nhân vật chính trong cuốn sách là cậu bé Hưng, một cậu bé tuổi lên mười ở một thị trấn nhỏ nằm khuất nẻo vùng trung du phía Bắc những năm 90 của thế kỉ trước. Từ nhỏ, Hưng sống với bố và chưa bao giờ được biết mặt mẹ. Nỗi tò mò về mẹ cứ lớn dần trong Hưng khi bị bạn bè tra hỏi riết ráo, thôi thúc Hưng bước vào hành trình tìm kiếm mẹ qua manh mối duy nhất mà cha cậu hé lộ. Mang theo hành trang là chiếc ba lô màu đỏ trên lưng, với biệt danh “chú bé đeo ba lô màu đỏ” do người bạn gái thân thiết cùng lớp thường gọi, Hưng lên đường hằng mong tìm được người mẹ yêu dấu, tìm về gốc gác nguồn cội của mình... mà không thể tưởng tượng được rằng, hành trình mà cậu sắp trải qua sẽ gặp bao sóng gió. Trong hành trình ấy, Hưng đã đi qua nhiều vùng miền, gặp nhiều người khác nhau trong xã hội, cả người tốt lẫn kẻ xấu. Những biến cố, những sự kiện không may xảy ra liên tiếp giúp Hưng trưởng thành hơn, mạnh mẽ hơn, “không được sợ” – như lời cô Đào – một ân nhân đã cưu mang và yêu thương Hưng luôn nhắn nhủ với cậu...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/chu-be-deo-ba-lo-mau-do-p51.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2020/09/14/vovlive-sach-noi-van-nghe-thieu-nhi-chu-be-deo-ba-lo-mau-do-22.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 14 Sep 2020 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>22/33 Chú bé đeo ba lô màu đỏ (buổi 23): Day dứt quê nội</title>
-      <link>https://vovlive.vn/chu-be-deo-ba-lo-mau-do-p51.html</link>
-      <description><![CDATA[Nhân vật chính trong cuốn sách là cậu bé Hưng, một cậu bé tuổi lên mười ở một thị trấn nhỏ nằm khuất nẻo vùng trung du phía Bắc những năm 90 của thế kỉ trước. Từ nhỏ, Hưng sống với bố và chưa bao giờ được biết mặt mẹ. Nỗi tò mò về mẹ cứ lớn dần trong Hưng khi bị bạn bè tra hỏi riết ráo, thôi thúc Hưng bước vào hành trình tìm kiếm mẹ qua manh mối duy nhất mà cha cậu hé lộ. Mang theo hành trang là chiếc ba lô màu đỏ trên lưng, với biệt danh “chú bé đeo ba lô màu đỏ” do người bạn gái thân thiết cùng lớp thường gọi, Hưng lên đường hằng mong tìm được người mẹ yêu dấu, tìm về gốc gác nguồn cội của mình... mà không thể tưởng tượng được rằng, hành trình mà cậu sắp trải qua sẽ gặp bao sóng gió. Trong hành trình ấy, Hưng đã đi qua nhiều vùng miền, gặp nhiều người khác nhau trong xã hội, cả người tốt lẫn kẻ xấu. Những biến cố, những sự kiện không may xảy ra liên tiếp giúp Hưng trưởng thành hơn, mạnh mẽ hơn, “không được sợ” – như lời cô Đào – một ân nhân đã cưu mang và yêu thương Hưng luôn nhắn nhủ với cậu...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/chu-be-deo-ba-lo-mau-do-p51.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2020/09/14/vovlive-sach-noi-van-nghe-thieu-nhi-chu-be-deo-ba-lo-mau-do-23.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 14 Sep 2020 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>23/33 Chú bé đeo ba lô màu đỏ (buổi 24): Câu chuyện dọc đường</title>
-      <link>https://vovlive.vn/chu-be-deo-ba-lo-mau-do-p51.html</link>
-      <description><![CDATA[Nhân vật chính trong cuốn sách là cậu bé Hưng, một cậu bé tuổi lên mười ở một thị trấn nhỏ nằm khuất nẻo vùng trung du phía Bắc những năm 90 của thế kỉ trước. Từ nhỏ, Hưng sống với bố và chưa bao giờ được biết mặt mẹ. Nỗi tò mò về mẹ cứ lớn dần trong Hưng khi bị bạn bè tra hỏi riết ráo, thôi thúc Hưng bước vào hành trình tìm kiếm mẹ qua manh mối duy nhất mà cha cậu hé lộ. Mang theo hành trang là chiếc ba lô màu đỏ trên lưng, với biệt danh “chú bé đeo ba lô màu đỏ” do người bạn gái thân thiết cùng lớp thường gọi, Hưng lên đường hằng mong tìm được người mẹ yêu dấu, tìm về gốc gác nguồn cội của mình... mà không thể tưởng tượng được rằng, hành trình mà cậu sắp trải qua sẽ gặp bao sóng gió. Trong hành trình ấy, Hưng đã đi qua nhiều vùng miền, gặp nhiều người khác nhau trong xã hội, cả người tốt lẫn kẻ xấu. Những biến cố, những sự kiện không may xảy ra liên tiếp giúp Hưng trưởng thành hơn, mạnh mẽ hơn, “không được sợ” – như lời cô Đào – một ân nhân đã cưu mang và yêu thương Hưng luôn nhắn nhủ với cậu...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/chu-be-deo-ba-lo-mau-do-p51.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2020/09/14/vovlive-sach-noi-van-nghe-thieu-nhi-chu-be-deo-ba-lo-mau-do-24.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 14 Sep 2020 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>24/33 Chú bé đeo ba lô màu đỏ (buổi 25): Tai nạn trên đèo</title>
-      <link>https://vovlive.vn/chu-be-deo-ba-lo-mau-do-p51.html</link>
-      <description><![CDATA[Nhân vật chính trong cuốn sách là cậu bé Hưng, một cậu bé tuổi lên mười ở một thị trấn nhỏ nằm khuất nẻo vùng trung du phía Bắc những năm 90 của thế kỉ trước. Từ nhỏ, Hưng sống với bố và chưa bao giờ được biết mặt mẹ. Nỗi tò mò về mẹ cứ lớn dần trong Hưng khi bị bạn bè tra hỏi riết ráo, thôi thúc Hưng bước vào hành trình tìm kiếm mẹ qua manh mối duy nhất mà cha cậu hé lộ. Mang theo hành trang là chiếc ba lô màu đỏ trên lưng, với biệt danh “chú bé đeo ba lô màu đỏ” do người bạn gái thân thiết cùng lớp thường gọi, Hưng lên đường hằng mong tìm được người mẹ yêu dấu, tìm về gốc gác nguồn cội của mình... mà không thể tưởng tượng được rằng, hành trình mà cậu sắp trải qua sẽ gặp bao sóng gió. Trong hành trình ấy, Hưng đã đi qua nhiều vùng miền, gặp nhiều người khác nhau trong xã hội, cả người tốt lẫn kẻ xấu. Những biến cố, những sự kiện không may xảy ra liên tiếp giúp Hưng trưởng thành hơn, mạnh mẽ hơn, “không được sợ” – như lời cô Đào – một ân nhân đã cưu mang và yêu thương Hưng luôn nhắn nhủ với cậu...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/chu-be-deo-ba-lo-mau-do-p51.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2020/09/14/vovlive-sach-noi-van-nghe-thieu-nhi-chu-be-deo-ba-lo-mau-do-25.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 14 Sep 2020 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>25/33 Chú bé đeo ba lô màu đỏ (buổi 26): Bát cháo cá nóng hổi</title>
-      <link>https://vovlive.vn/chu-be-deo-ba-lo-mau-do-p51.html</link>
-      <description><![CDATA[Nhân vật chính trong cuốn sách là cậu bé Hưng, một cậu bé tuổi lên mười ở một thị trấn nhỏ nằm khuất nẻo vùng trung du phía Bắc những năm 90 của thế kỉ trước. Từ nhỏ, Hưng sống với bố và chưa bao giờ được biết mặt mẹ. Nỗi tò mò về mẹ cứ lớn dần trong Hưng khi bị bạn bè tra hỏi riết ráo, thôi thúc Hưng bước vào hành trình tìm kiếm mẹ qua manh mối duy nhất mà cha cậu hé lộ. Mang theo hành trang là chiếc ba lô màu đỏ trên lưng, với biệt danh “chú bé đeo ba lô màu đỏ” do người bạn gái thân thiết cùng lớp thường gọi, Hưng lên đường hằng mong tìm được người mẹ yêu dấu, tìm về gốc gác nguồn cội của mình... mà không thể tưởng tượng được rằng, hành trình mà cậu sắp trải qua sẽ gặp bao sóng gió. Trong hành trình ấy, Hưng đã đi qua nhiều vùng miền, gặp nhiều người khác nhau trong xã hội, cả người tốt lẫn kẻ xấu. Những biến cố, những sự kiện không may xảy ra liên tiếp giúp Hưng trưởng thành hơn, mạnh mẽ hơn, “không được sợ” – như lời cô Đào – một ân nhân đã cưu mang và yêu thương Hưng luôn nhắn nhủ với cậu...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/chu-be-deo-ba-lo-mau-do-p51.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2020/09/14/vovlive-sach-noi-van-nghe-thieu-nhi-chu-be-deo-ba-lo-mau-do-26.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 14 Sep 2020 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>26/33 Chú bé đeo ba lô màu đỏ (buổi 27): Lần đầu ra đảo</title>
-      <link>https://vovlive.vn/chu-be-deo-ba-lo-mau-do-p51.html</link>
-      <description><![CDATA[Nhân vật chính trong cuốn sách là cậu bé Hưng, một cậu bé tuổi lên mười ở một thị trấn nhỏ nằm khuất nẻo vùng trung du phía Bắc những năm 90 của thế kỉ trước. Từ nhỏ, Hưng sống với bố và chưa bao giờ được biết mặt mẹ. Nỗi tò mò về mẹ cứ lớn dần trong Hưng khi bị bạn bè tra hỏi riết ráo, thôi thúc Hưng bước vào hành trình tìm kiếm mẹ qua manh mối duy nhất mà cha cậu hé lộ. Mang theo hành trang là chiếc ba lô màu đỏ trên lưng, với biệt danh “chú bé đeo ba lô màu đỏ” do người bạn gái thân thiết cùng lớp thường gọi, Hưng lên đường hằng mong tìm được người mẹ yêu dấu, tìm về gốc gác nguồn cội của mình... mà không thể tưởng tượng được rằng, hành trình mà cậu sắp trải qua sẽ gặp bao sóng gió. Trong hành trình ấy, Hưng đã đi qua nhiều vùng miền, gặp nhiều người khác nhau trong xã hội, cả người tốt lẫn kẻ xấu. Những biến cố, những sự kiện không may xảy ra liên tiếp giúp Hưng trưởng thành hơn, mạnh mẽ hơn, “không được sợ” – như lời cô Đào – một ân nhân đã cưu mang và yêu thương Hưng luôn nhắn nhủ với cậu...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/chu-be-deo-ba-lo-mau-do-p51.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2020/09/14/vovlive-sach-noi-van-nghe-thieu-nhi-chu-be-deo-ba-lo-mau-do-27.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 14 Sep 2020 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>27/33 Chú bé đeo ba lô màu đỏ (buổi 28): Lễ mở biển</title>
-      <link>https://vovlive.vn/chu-be-deo-ba-lo-mau-do-p51.html</link>
-      <description><![CDATA[Nhân vật chính trong cuốn sách là cậu bé Hưng, một cậu bé tuổi lên mười ở một thị trấn nhỏ nằm khuất nẻo vùng trung du phía Bắc những năm 90 của thế kỉ trước. Từ nhỏ, Hưng sống với bố và chưa bao giờ được biết mặt mẹ. Nỗi tò mò về mẹ cứ lớn dần trong Hưng khi bị bạn bè tra hỏi riết ráo, thôi thúc Hưng bước vào hành trình tìm kiếm mẹ qua manh mối duy nhất mà cha cậu hé lộ. Mang theo hành trang là chiếc ba lô màu đỏ trên lưng, với biệt danh “chú bé đeo ba lô màu đỏ” do người bạn gái thân thiết cùng lớp thường gọi, Hưng lên đường hằng mong tìm được người mẹ yêu dấu, tìm về gốc gác nguồn cội của mình... mà không thể tưởng tượng được rằng, hành trình mà cậu sắp trải qua sẽ gặp bao sóng gió. Trong hành trình ấy, Hưng đã đi qua nhiều vùng miền, gặp nhiều người khác nhau trong xã hội, cả người tốt lẫn kẻ xấu. Những biến cố, những sự kiện không may xảy ra liên tiếp giúp Hưng trưởng thành hơn, mạnh mẽ hơn, “không được sợ” – như lời cô Đào – một ân nhân đã cưu mang và yêu thương Hưng luôn nhắn nhủ với cậu...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/chu-be-deo-ba-lo-mau-do-p51.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2020/09/14/vovlive-sach-noi-van-nghe-thieu-nhi-chu-be-deo-ba-lo-mau-do-28.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 14 Sep 2020 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>28/33 Chú bé đeo ba lô màu đỏ (buổi 29): Người phụ nữ lạ mặt</title>
-      <link>https://vovlive.vn/chu-be-deo-ba-lo-mau-do-p51.html</link>
-      <description><![CDATA[Nhân vật chính trong cuốn sách là cậu bé Hưng, một cậu bé tuổi lên mười ở một thị trấn nhỏ nằm khuất nẻo vùng trung du phía Bắc những năm 90 của thế kỉ trước. Từ nhỏ, Hưng sống với bố và chưa bao giờ được biết mặt mẹ. Nỗi tò mò về mẹ cứ lớn dần trong Hưng khi bị bạn bè tra hỏi riết ráo, thôi thúc Hưng bước vào hành trình tìm kiếm mẹ qua manh mối duy nhất mà cha cậu hé lộ. Mang theo hành trang là chiếc ba lô màu đỏ trên lưng, với biệt danh “chú bé đeo ba lô màu đỏ” do người bạn gái thân thiết cùng lớp thường gọi, Hưng lên đường hằng mong tìm được người mẹ yêu dấu, tìm về gốc gác nguồn cội của mình... mà không thể tưởng tượng được rằng, hành trình mà cậu sắp trải qua sẽ gặp bao sóng gió. Trong hành trình ấy, Hưng đã đi qua nhiều vùng miền, gặp nhiều người khác nhau trong xã hội, cả người tốt lẫn kẻ xấu. Những biến cố, những sự kiện không may xảy ra liên tiếp giúp Hưng trưởng thành hơn, mạnh mẽ hơn, “không được sợ” – như lời cô Đào – một ân nhân đã cưu mang và yêu thương Hưng luôn nhắn nhủ với cậu...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/chu-be-deo-ba-lo-mau-do-p51.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2020/09/14/vovlive-sach-noi-van-nghe-thieu-nhi-chu-be-deo-ba-lo-mau-do-29.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 14 Sep 2020 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>29/33 Chú bé đeo ba lô màu đỏ (buổi 30): Bị bán</title>
-      <link>https://vovlive.vn/chu-be-deo-ba-lo-mau-do-p51.html</link>
-      <description><![CDATA[Nhân vật chính trong cuốn sách là cậu bé Hưng, một cậu bé tuổi lên mười ở một thị trấn nhỏ nằm khuất nẻo vùng trung du phía Bắc những năm 90 của thế kỉ trước. Từ nhỏ, Hưng sống với bố và chưa bao giờ được biết mặt mẹ. Nỗi tò mò về mẹ cứ lớn dần trong Hưng khi bị bạn bè tra hỏi riết ráo, thôi thúc Hưng bước vào hành trình tìm kiếm mẹ qua manh mối duy nhất mà cha cậu hé lộ. Mang theo hành trang là chiếc ba lô màu đỏ trên lưng, với biệt danh “chú bé đeo ba lô màu đỏ” do người bạn gái thân thiết cùng lớp thường gọi, Hưng lên đường hằng mong tìm được người mẹ yêu dấu, tìm về gốc gác nguồn cội của mình... mà không thể tưởng tượng được rằng, hành trình mà cậu sắp trải qua sẽ gặp bao sóng gió. Trong hành trình ấy, Hưng đã đi qua nhiều vùng miền, gặp nhiều người khác nhau trong xã hội, cả người tốt lẫn kẻ xấu. Những biến cố, những sự kiện không may xảy ra liên tiếp giúp Hưng trưởng thành hơn, mạnh mẽ hơn, “không được sợ” – như lời cô Đào – một ân nhân đã cưu mang và yêu thương Hưng luôn nhắn nhủ với cậu...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/chu-be-deo-ba-lo-mau-do-p51.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2020/09/14/vovlive-sach-noi-van-nghe-thieu-nhi-chu-be-deo-ba-lo-mau-do-30.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 14 Sep 2020 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>30/33 Chú bé đeo ba lô màu đỏ (buổi 31): Phục vụ ở quán Karaoke</title>
-      <link>https://vovlive.vn/chu-be-deo-ba-lo-mau-do-p51.html</link>
-      <description><![CDATA[Nhân vật chính trong cuốn sách là cậu bé Hưng, một cậu bé tuổi lên mười ở một thị trấn nhỏ nằm khuất nẻo vùng trung du phía Bắc những năm 90 của thế kỉ trước. Từ nhỏ, Hưng sống với bố và chưa bao giờ được biết mặt mẹ. Nỗi tò mò về mẹ cứ lớn dần trong Hưng khi bị bạn bè tra hỏi riết ráo, thôi thúc Hưng bước vào hành trình tìm kiếm mẹ qua manh mối duy nhất mà cha cậu hé lộ. Mang theo hành trang là chiếc ba lô màu đỏ trên lưng, với biệt danh “chú bé đeo ba lô màu đỏ” do người bạn gái thân thiết cùng lớp thường gọi, Hưng lên đường hằng mong tìm được người mẹ yêu dấu, tìm về gốc gác nguồn cội của mình... mà không thể tưởng tượng được rằng, hành trình mà cậu sắp trải qua sẽ gặp bao sóng gió. Trong hành trình ấy, Hưng đã đi qua nhiều vùng miền, gặp nhiều người khác nhau trong xã hội, cả người tốt lẫn kẻ xấu. Những biến cố, những sự kiện không may xảy ra liên tiếp giúp Hưng trưởng thành hơn, mạnh mẽ hơn, “không được sợ” – như lời cô Đào – một ân nhân đã cưu mang và yêu thương Hưng luôn nhắn nhủ với cậu...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/chu-be-deo-ba-lo-mau-do-p51.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2020/09/14/vovlive-sach-noi-van-nghe-thieu-nhi-chu-be-deo-ba-lo-mau-do-31.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 14 Sep 2020 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>31/33 Chú bé đeo ba lô màu đỏ (buổi 32): Gặp đội tuần tra</title>
-      <link>https://vovlive.vn/chu-be-deo-ba-lo-mau-do-p51.html</link>
-      <description><![CDATA[Nhân vật chính trong cuốn sách là cậu bé Hưng, một cậu bé tuổi lên mười ở một thị trấn nhỏ nằm khuất nẻo vùng trung du phía Bắc những năm 90 của thế kỉ trước. Từ nhỏ, Hưng sống với bố và chưa bao giờ được biết mặt mẹ. Nỗi tò mò về mẹ cứ lớn dần trong Hưng khi bị bạn bè tra hỏi riết ráo, thôi thúc Hưng bước vào hành trình tìm kiếm mẹ qua manh mối duy nhất mà cha cậu hé lộ. Mang theo hành trang là chiếc ba lô màu đỏ trên lưng, với biệt danh “chú bé đeo ba lô màu đỏ” do người bạn gái thân thiết cùng lớp thường gọi, Hưng lên đường hằng mong tìm được người mẹ yêu dấu, tìm về gốc gác nguồn cội của mình... mà không thể tưởng tượng được rằng, hành trình mà cậu sắp trải qua sẽ gặp bao sóng gió. Trong hành trình ấy, Hưng đã đi qua nhiều vùng miền, gặp nhiều người khác nhau trong xã hội, cả người tốt lẫn kẻ xấu. Những biến cố, những sự kiện không may xảy ra liên tiếp giúp Hưng trưởng thành hơn, mạnh mẽ hơn, “không được sợ” – như lời cô Đào – một ân nhân đã cưu mang và yêu thương Hưng luôn nhắn nhủ với cậu...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/chu-be-deo-ba-lo-mau-do-p51.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2020/09/14/vovlive-sach-noi-van-nghe-thieu-nhi-chu-be-deo-ba-lo-mau-do-32.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 14 Sep 2020 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>32/33 Chú bé đeo ba lô màu đỏ (buổi 33): Ngỡ như gặp mẹ</title>
-      <link>https://vovlive.vn/chu-be-deo-ba-lo-mau-do-p51.html</link>
-      <description><![CDATA[Nhân vật chính trong cuốn sách là cậu bé Hưng, một cậu bé tuổi lên mười ở một thị trấn nhỏ nằm khuất nẻo vùng trung du phía Bắc những năm 90 của thế kỉ trước. Từ nhỏ, Hưng sống với bố và chưa bao giờ được biết mặt mẹ. Nỗi tò mò về mẹ cứ lớn dần trong Hưng khi bị bạn bè tra hỏi riết ráo, thôi thúc Hưng bước vào hành trình tìm kiếm mẹ qua manh mối duy nhất mà cha cậu hé lộ. Mang theo hành trang là chiếc ba lô màu đỏ trên lưng, với biệt danh “chú bé đeo ba lô màu đỏ” do người bạn gái thân thiết cùng lớp thường gọi, Hưng lên đường hằng mong tìm được người mẹ yêu dấu, tìm về gốc gác nguồn cội của mình... mà không thể tưởng tượng được rằng, hành trình mà cậu sắp trải qua sẽ gặp bao sóng gió. Trong hành trình ấy, Hưng đã đi qua nhiều vùng miền, gặp nhiều người khác nhau trong xã hội, cả người tốt lẫn kẻ xấu. Những biến cố, những sự kiện không may xảy ra liên tiếp giúp Hưng trưởng thành hơn, mạnh mẽ hơn, “không được sợ” – như lời cô Đào – một ân nhân đã cưu mang và yêu thương Hưng luôn nhắn nhủ với cậu...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/chu-be-deo-ba-lo-mau-do-p51.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2020/09/14/vovlive-sach-noi-van-nghe-thieu-nhi-chu-be-deo-ba-lo-mau-do-33.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 14 Sep 2020 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>33/33 Chú bé đeo ba lô màu đỏ (buổi cuối): Trở lại quê nhà</title>
-      <link>https://vovlive.vn/chu-be-deo-ba-lo-mau-do-p51.html</link>
-      <description><![CDATA[Nhân vật chính trong cuốn sách là cậu bé Hưng, một cậu bé tuổi lên mười ở một thị trấn nhỏ nằm khuất nẻo vùng trung du phía Bắc những năm 90 của thế kỉ trước. Từ nhỏ, Hưng sống với bố và chưa bao giờ được biết mặt mẹ. Nỗi tò mò về mẹ cứ lớn dần trong Hưng khi bị bạn bè tra hỏi riết ráo, thôi thúc Hưng bước vào hành trình tìm kiếm mẹ qua manh mối duy nhất mà cha cậu hé lộ. Mang theo hành trang là chiếc ba lô màu đỏ trên lưng, với biệt danh “chú bé đeo ba lô màu đỏ” do người bạn gái thân thiết cùng lớp thường gọi, Hưng lên đường hằng mong tìm được người mẹ yêu dấu, tìm về gốc gác nguồn cội của mình... mà không thể tưởng tượng được rằng, hành trình mà cậu sắp trải qua sẽ gặp bao sóng gió. Trong hành trình ấy, Hưng đã đi qua nhiều vùng miền, gặp nhiều người khác nhau trong xã hội, cả người tốt lẫn kẻ xấu. Những biến cố, những sự kiện không may xảy ra liên tiếp giúp Hưng trưởng thành hơn, mạnh mẽ hơn, “không được sợ” – như lời cô Đào – một ân nhân đã cưu mang và yêu thương Hưng luôn nhắn nhủ với cậu...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/chu-be-deo-ba-lo-mau-do-p51.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2020/09/14/vovlive-sach-noi-van-nghe-thieu-nhi-chu-be-deo-ba-lo-mau-do-cuoi.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 14 Sep 2020 07:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
