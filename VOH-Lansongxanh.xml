@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 15 Jul 2022 13:51:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 22 Jul 2022 17:16:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 15 Jul 2022 13:51:00 +0700</pubDate>
+    <pubDate>Fri, 22 Jul 2022 17:16:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,12 +24,20 @@
     <itunes:subtitle>Làn sóng xanh trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Lansongxanh.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Làn Sóng Xanh (tuần 3 tháng 7) - 22/7/2022</title>
+      <link>https://radio.voh.com.vn/lan-song-xanh/lan-song-xanh-tuan-3-thang-7-22-7-2022-442365.html</link>
+      <description><![CDATA[10:16 - 22/07/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/lan-song-xanh/lan-song-xanh-tuan-3-thang-7-22-7-2022-442365.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/07/22/LSX-220722-20220721210621.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 22 Jul 2022 17:16:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Làn Sóng Xanh (tuần 2 tháng 7) - 15/7/2022</title>
       <link>https://radio.voh.com.vn/lan-song-xanh/lan-song-xanh-tuan-2-thang-7-15-7-2022-441592.html</link>
       <description><![CDATA[13:51 - 15/07/2022]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/lan-song-xanh/lan-song-xanh-tuan-2-thang-7-15-7-2022-441592.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/07/15/LSX-150722-QC-20220715072616.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 15 Jul 2022 13:51:00 +0700</pubDate>
+      <pubDate>Fri, 15 Jul 2022 20:51:00 +0700</pubDate>
     </item>
     <item>
       <title>CHỜ HÌNH - Làn Sóng Xanh (tuần 1 tháng 7) - 8/7/2022</title>
@@ -37,7 +45,7 @@
       <description><![CDATA[13:57 - 08/07/2022]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/lan-song-xanh/cho-hinh-lan-song-xanh-tuan-1-thang-7-8-7-2022-440791.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/07/08/LSX-080722-QC-20220707215417.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 08 Jul 2022 13:57:00 +0700</pubDate>
+      <pubDate>Fri, 08 Jul 2022 20:57:00 +0700</pubDate>
     </item>
     <item>
       <title>Làn Sóng Xanh - 1/7/2022</title>
@@ -45,7 +53,7 @@
       <description><![CDATA[14:08 - 01/07/2022]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/lan-song-xanh/lan-song-xanh-1-7-2022-440014.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/07/01/LSX-010722-20220701101550.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 01 Jul 2022 14:08:00 +0700</pubDate>
+      <pubDate>Fri, 01 Jul 2022 21:08:00 +0700</pubDate>
     </item>
     <item>
       <title>Làn Sóng Xanh - 24/6/2022</title>
@@ -53,15 +61,7 @@
       <description><![CDATA[13:11 - 24/06/2022]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/lan-song-xanh/lan-song-xanh-24-6-2022-439092.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/06/24/LSX-240622-20220624011329.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 24 Jun 2022 13:11:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Làn Sóng Xanh - 17/6/2022</title>
-      <link>https://radio.voh.com.vn/lan-song-xanh/lan-song-xanh-17-6-2022-438338.html</link>
-      <description><![CDATA[14:30 - 17/06/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/lan-song-xanh/lan-song-xanh-17-6-2022-438338.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/06/17/LSX-170622-20220616172340.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 17 Jun 2022 14:30:00 +0700</pubDate>
+      <pubDate>Fri, 24 Jun 2022 20:11:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
