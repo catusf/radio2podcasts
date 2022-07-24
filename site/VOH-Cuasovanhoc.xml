@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 17 Jul 2022 22:17:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 25 Jul 2022 02:30:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 17 Jul 2022 22:17:00 +0700</pubDate>
+    <pubDate>Mon, 25 Jul 2022 02:30:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Cửa sổ văn học trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Cuasovanhoc.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Sơ kết cuộc vận động viết bút ký đề tài "Đền ơn đáp nghĩa" - Cửa sổ văn học - 24/7/2022</title>
+      <link>https://radio.voh.com.vn/cua-so-van-hoc/so-ket-cuoc-van-dong-viet-but-ky-de-tai-den-on-dap-nghia-cua-so-van-hoc-24-7-2022-442525.html</link>
+      <description><![CDATA[19:30 - 24/07/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/so-ket-cuoc-van-dong-viet-but-ky-de-tai-den-on-dap-nghia-cua-so-van-hoc-24-7-2022-442525.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/07/23/FMCuasovanhoc07h00p240722-20220723184103.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 25 Jul 2022 02:30:00 +0700</pubDate>
+    </item>
     <item>
       <title>Về phía bình minh-Niềm tin trong sáng của tuổi thơ - Cửa sổ văn học - 17/7/2022</title>
       <link>https://radio.voh.com.vn/cua-so-van-hoc/ve-phia-binh-minh-niem-tin-trong-sang-cua-tuoi-tho-cua-so-van-hoc-17-7-2022-441804.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/nha-van-nha-bao-pham-thi-ngoc-lien-cua-so-van-hoc-10-7-2022-440960.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/07/09/FMCuasovanhoc07h00p100722-20220706183859.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 10 Jul 2022 22:39:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>PGS.TS - NV Nguyễn Tấn Phát ra mắt tiểu thuyết "Tìm lại tình đời" - Cửa sổ văn học - 3/7/2022</title>
-      <link>https://radio.voh.com.vn/cua-so-van-hoc/pgs-ts-nv-nguyen-tan-phat-ra-mat-tieu-thuyet-tim-lai-tinh-doi-cua-so-van-hoc-3-7-2022-440187.html</link>
-      <description><![CDATA[19:54 - 03/07/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/pgs-ts-nv-nguyen-tan-phat-ra-mat-tieu-thuyet-tim-lai-tinh-doi-cua-so-van-hoc-3-7-2022-440187.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/07/02/FMCuasovanhoc07h00p030722-20220702164051.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 04 Jul 2022 02:54:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
