@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 21 Jul 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 26 Jul 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 21 Jul 2022 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 26 Jul 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,22 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>“Liên minh chip 4”: Mỹ quyết đấu với Trung Quốc về công nghệ bán dẫn</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Ngành sản xuất linh kiện bán dẫn được đánh giá là một trong những ngành công nghiệp quan trọng nhất thế giới, với doanh thu 500 tỷ USD. Chính bởi vị trí quan trọng của chất bán dẫn mà chính phủ nhiều nước từ Mỹ đến Trung Quốc, từ châu Âu đến Nhật Bản, đều dành ưu tiên chính sách cho lĩnh vực này nhằm xây dựng năng lực tự chủ của quốc gia, đồng thời cuộc cạnh tranh trong ngành sản xuất linh kiện, chất bán dẫn cũng ngày càng quyết liệt. Chính quyền của Tổng thống Mỹ Joe Biden mới  đây đưa ra ý tưởng về một liên minh các nhà sản xuất chip bán dẫn gồm Mỹ, Hàn Quốc, Nhật Bản và vùng lãnh thổ Đài Loan (Trung Quốc) – được biết đến với tên gọi “Liên minh chip 4”. Cơ chế này được xem là nhằm chống lại ảnh hưởng ngày càng tăng của Trung Quốc trong chuỗi cung ứng toàn cầu. Vậy đề xuất này đang được triển khai ra sao?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/07/26/vovlive_sukienvabanluan_lien_minh_chip_4.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 26 Jul 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Đằng sau thỏa thuận dầu khí 40 tỷ USD của hai “cường quốc khí đốt” Nga, Iran</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Trong bối cảnh dầu mỏ, khí đốt trở thành một vũ khí trong cuộc đối đầu giữa Nga và Phương tây thì bất cứ thỏa thuận hợp tác hay các đòn trừng phạt nào nhằm vào lĩnh vực này cũng tác động vào thị trường năng lượng thế giới. Trong một diễn biến đáng chú ý, Nga vừa ký kết một thỏa thuận hợp tác dầu khí với Iran có trị giá đến 40 tỷ USD, nhằm giúp cho quốc gia Hồi giáo có trữ lượng khí đốt lớn thứ 2 thế giới gia tăng sản xuất và xuất khẩu mặt hàng này. Trong bối cảnh cả Nga và Iran đều chịu các lệnh trừng phạt khắc nghiệt từ Phương tây, thỏa thuận không chỉ mang ý nghĩa đơn thuần về kinh tế và việc hai cường quốc khí  đốt bắt tay nhau cũng có thể sắp xếp lại dòng chảy nguồn năng lượng này trong tương lai.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/07/26/vovlive_sukienvabanluan_dang_sau_thoa_thuan_dau_khi_40-ti.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 26 Jul 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Du lịch MICE: Tiềm năng và chiến lược phát triển</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -38,22 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/07/20/vovlive_sukienvabanluan_campuchia_day_manh_ho_tro_doanh_nghiep_du_lich.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 20 Jul 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Indonesia cảnh báo nguy cơ khủng bố núp bóng từ thiện và những giải pháp</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Nhiều năm qua, lợi dụng bản tính hào phóng của người dân Indonesia, các nhóm khủng bố bằng nhiều hình thức khác nhau đang thu hút và kêu gọi quyên góp, tài trợ núp bóng từ thiện. Vô tình, những khoản tiền ủng hộ vốn định dành cho người nghèo, cho các đối tượng khó khăn đã “chảy vào” những trại huấn luyện thánh chiến hay những cuộc tấn công khủng bố. Đáng nói, thực tế này chưa thể ngăn chặn mà còn đang ngày càng lan rộng tại quốc đảo này. Vì sao lại như vậy, đâu là những hệ lụy và liệu chính quyền Indonesia có giải pháp nào cho vấn đề này khi mà “bóng ma” khủng bố vẫn luôn rình rập chỉ chờ cơ hội để trỗi dậy.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/07/18/vovlive_sukienvabanluan_indonesian_canh_bao_khung_bo.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 18 Jul 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Châu Âu ứng phó thế nào với đợt bùng phát Covid-19 mới?</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[“Châu Âu báo động Covid-19 ở mức độ cao trong mùa hè này” – đó là cảnh báo của các chuyên gia y tế khi chủng BA.5 của biến thể Omicron đang lan rộng khắp châu Âu, đưa số ca mắc bệnh mỗi ngày tại châu lục từ 150.000 ca hồi cuối tháng 5 lên mức 500.000 ca, trong đó một số quốc gia như Pháp, Italia ghi nhận số ca mắc tăng đột biến. Đợt bùng phát Covid-19 mới ở châu Âu có mức độ nguy hiểm ra sao, các nước châu Âu sẽ ứng phó như thế nào, các biện pháp kiểm soát dịch bệnh sẽ được áp dụng ở mức độ như thế nào so với các đợt dịch trước đây và dự kiến sẽ tác động tới đời sống kinh tế - xã hội như thế nào khi các nước đã và đang đẩy mạnh mở cửa trở lại?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/07/11/vovlive_sukienvabanluan_chau_au_ung_pho_the_nao_voi_dot_dich_covid_19_moi.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 11 Jul 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
