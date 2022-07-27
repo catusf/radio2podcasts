@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 17 Jul 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 24 Jul 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 17 Jul 2022 19:00:00 +0700</pubDate>
+    <pubDate>Sun, 24 Jul 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,15 @@
     </itunes:owner>
     <itunes:subtitle>Âm nhạc với cuộc sống</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Amnhacvoicuocsong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>“Tiếng vọng”: Huyền thoại bằng âm nhạc ngợi ca những người anh hùng đã ra đi cứu nước góp phần vào sự nghiệp giải phóng dân tộc</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[- Kỷ niệm 75 năm ngày Thương binh liệt sĩ (27/7/1947-27/7/2022), 54 năm ngày hy sinh của 10 cô gái thanh niên xung phong Ngã ba Đồng Lộc, cùng lắng nghe tác phẩm âm nhạc “Đất thiêng Đồng Lộc” (âm nhạc-nhạc sĩ Trần Nhật Dương-nguyên Phụ trách Ban Âm nhạc-VOV3 Đài TNVN, Ủy viên thường vụ, Trưởng ban Kiểm tra Hội Nhạc sĩ Việt Nam; lời thơ-nhà báo Trần Nhật Minh - Trưởng ban Ban Văn học Nghệ thuật - VOV6 Đài TNVN) và nghe những chia sẻ của nhà báo Trần Nhật Minh về tác phẩm này...
+- Thưởng thức tác phẩm “Tiếng vọng” (nhạc sĩ Cát Vận) và lắng nghe những chia sẻ của nhạc sĩ về ý tưởng hình thành ca khúc này.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/07/25/vovlive_am_nhac_voi_cuoc_song_tieng_vong.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 24 Jul 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>“Vì bình yên cuộc sống”: Khúc tráng ca về người chiến sĩ cảnh sát nhân dân Việt Nam</title>
       <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
@@ -50,15 +59,6 @@
       <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/07/05/vovlive_am_nhac_voi_cuoc-song_nhung_vi_sao_den_ngo_tu_lap.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 03 Jul 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>“Gia đình là mái ấm”: Ca khúc gửi gắm thông điệp ý nghĩa về gia đình của nhạc sĩ Trần Thanh Tùng</title>
-      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[- Nhạc sĩ Trần Thanh Tùng là tác giả của các ca khúc như: “Tình khúc Nguyệt Hồ”, “Đừng ví em là biển”, “Nơi em về làm dâu”, “Tình rừng”... Ông đã nhận được nhiều giải thưởng âm nhạc của Hội Nhạc sĩ Việt Nam, Bộ Văn hóa - Thông tin, Bộ Quốc phòng và giải của các Hội Văn học - Nghệ thuật địa phương như Hải Dương, Hà Tây...Nhân ngày Gia đình Việt Nam 28/6, cùng thưởng thức ca khúc “Gia đình là mái ấm” của nhạc sĩ Trần Thanh Tùng- Ca khúc đoạt giải nhì trong cuộc vận động sáng tác ca khúc toàn quốc viết về Gia đình do Đài TNVN; Đài THVN, Hội Nhạc sĩ Việt Nam, Báo Gia đình và Xã hội tổ chức năm 2007 và lắng nghe những chia sẻ của ông về gia đình và về ca khúc này… 
-- Thưởng thức tác phẩm “Con gái” (nhạc sĩ Trần Tiến)]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/06/29/vovlive_am_nhac_voi_cuoc_song_gia_dinh_la_mai_am.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 26 Jun 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
