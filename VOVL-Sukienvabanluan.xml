@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 26 Jul 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 28 Jul 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 26 Jul 2022 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 28 Jul 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Giải mã tốc độ lây lan nhanh của bệnh đậu mùa khỉ và những giải pháp?</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Với hơn 16 nghìn ca nhiễm ở hơn 75 quốc gia và vùng lãnh thổ chỉ từ tháng 5 đến nay, Tổ chức Y tế thế giới (WHO) đã phải ban bố tình trạng khẩn cấp y tế toàn cầu đối với bệnh đậu mùa khỉ. Đây là mức cảnh báo cao nhất,  mà nếu không sớm có biện pháp kiểm soát có thể bùng phát thành đại dịch như Covid -19. Câu hỏi đặt ra là vì sao một căn bệnh được đánh giá là khá hiếm, vốn chủ yếu xuất hiện ở châu Phi nay lại lây lan nhanh chóng tại nhiều nước với những diễn biến bất thường. Vậy đâu là cách mà đậu mùa khỉ đang len lỏi tấn công toàn thế giới; các nước đã và đang chuẩn bị ứng phó ra sao?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/07/28/vovlive_sukienvabanluan_giai_ma_toc_do_lay_lan_nhanh_benh_dau_mua.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 28 Jul 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>“Liên minh chip 4”: Mỹ quyết đấu với Trung Quốc về công nghệ bán dẫn</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/07/21/vovlive_sukienvabinhluan_du-_lich_-mice_tiem_nang_va_chien_luoc_phat_trien.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 21 Jul 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Campuchia đẩy mạnh hỗ trợ doanh nghiệp du lịch</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Sau hai năm “đóng băng” bởi dịch Covid-19, ngành du lịch của ASEAN đang từng bước phục hồi trở lại, trong đó Campuchia là quốc gia đầu tiên của khu vực mở cửa biên giới đón du khách quốc tế, tiếp theo là Thái Lan, Malaysia, Philippines, Việt Nam, Indonesia và Lào. Cùng với việc duy trì một số biện pháp kiểm soát dịch bệnh, chính phủ Campuchia đang thực hiện nhiều sáng kiến nhằm thúc đẩy sự phục hồi của ngành du lịch, mới đây nhất là gia hạn miễn thuế với doanh nghiệp du lịch tại các thành phố trọng điểm. Vậy với sự hỗ trợ của chính phủ, du lịch Campuchia đang phục hồi như thế nào?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/07/20/vovlive_sukienvabanluan_campuchia_day_manh_ho_tro_doanh_nghiep_du_lich.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 20 Jul 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
