@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 27 Jul 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 30 Jul 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 27 Jul 2022 19:00:00 +0700</pubDate>
+    <pubDate>Sat, 30 Jul 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,22 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Mục đích chuyến thăm ba nước Trung Á của Ngoại trưởng Trung Quốc Vương Nghị</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Ngoại trưởng Trung Quốc, ông Vương Nghị đang có chuyến thăm ba nước Trung Á và tham dự hội nghị Ngoại trưởng Tổ chức hợp tác Thượng Hải (SCO). Đây được cho là cơ hội để Trung Quốc đẩy mạnh vai trò, sự hiện diện của Bắc Kinh tại khu vực có vai trò quan trọng này đồng thời thể hiện quan điểm của Trung Quốc trong Tổ chức hợp tác Thượng Hải. Trong bối cảnh, xung đột Ukraine đặt ra nhiều thách thức đối với chuỗi cung ứng, kết nối và hậu cần Á - Âu, Hội nghị ngoại trưởng SCO cũng như sự hiện diện của Trung Quốc tác động đến bức tranh an ninh và kinh tế của khu vực.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/07/29/vovlive_vandequocte_mucdichchuyenthambanuoctrunga.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 30 Jul 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Nga rút khỏi trạm Vũ trụ Quốc tế: Thêm bước lùi trong quan hệ Nga - Mỹ</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Trong tuyên bố mới đây, Tổng Giám đốc Cơ quan Hàng không vũ trụ Nga Yury Borisov cho biết, Nga quyết định sẽ rút khỏi Trạm vũ trụ quốc tế (ISS) sau năm 2024. Đây là thời điểm thích hợp để Nga tiến hành kế hoạch xây dựng trạm quỹ đạo của riêng mình, một trong những ưu tiên của nước này trong chương trình không gian vũ trụ. Trong bối cảnh căng thẳng giữa Nga và các nước phương Tây tiếp tục gia tăng liên quan đến cuộc xung đột tại Ukraine cùng nhiều lệnh trừng phạt nhằm vào Matxcova, tuyên bố này được cho là một bước lùi khiến quan hệ Nga - Mỹ càng lún sâu vào căng thẳng và khủng hoảng.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/07/29/vovlive_vandequocte_ngarutkhoitramvutruquocte.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 29 Jul 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Tổng thống Indonesia thăm Đông Bắc Á tăng cường hình ảnh và vị thế trong khu vực</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -38,22 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/07/27/vovlive_vandequocte_eucoxuongthangkhidieuchinhtrungphatdaumovoinga.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 26 Jul 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Cuộc chạy đua vị trí lãnh đạo Đảng Bảo thủ Anh</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Sau 5 vòng bỏ phiếu liên tiếp, các nghị sỹ Đảng Bảo thủ tại Anh đã lựa chọn được 2 ứng viên cuối cùng cho vị trí lãnh đạo đảng cầm quyền, vị trí đồng thời đảm nhiệm cương vị Thủ tướng thay cho ông Boris Johnson. Theo đó, Cựu Bộ trưởng Tài chính Rishi Sunak và Ngoại trưởng Liz Truss sẽ tiếp tục ganh đua trong vòng bỏ phiếu cuối cùng đầy cam go khi toàn bộ khoảng 170.000 đảng viên của Đảng Bảo thủ sẽ cùng tham gia bỏ phiếu từ cuối tháng 8 đến hết ngày 2/9 tới. Theo giới quan sát, tỷ lệ ủng hộ không quá cách biệt giữa hai ứng viên cuối cùng đang báo hiệu một cuộc đua nước rút gay cấn, khó đoán định. Với những thế mạnh và cả những điểm yếu của cả hai ứng viên, dự báo cán cân cuộc đua song mã tại Anh sẽ ra sao?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/07/22/vovlive_vandequocte_cuocchayduavitrilanhdaodangbaothuanh.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 23 Jul 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Thách thức mà Tổng thống mới của Sri Lanka phải đối mặt</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Một tuần sau khi đất nước Sri Lanka rơi vào bất ổn khi ông Rajapaksa rời khỏi đất nước và thông báo từ chức Tổng thống, Quốc hội nước này đã bầu chọn ra Tổng thống mới là ông Ranil Wickremesinghe. Tân tổng thống sẽ lãnh đạo đất nước cho đến hết nhiệm kỳ của ông Rajapaksa vào cuối năm 2024. Tân tổng thống cũng có quyền bổ nhiệm thủ tướng mới với sự chấp thuận của Quốc hội. Là đất nước nhiệt đới chưa từng thiếu lương thực nhưng Sri Lanka hiện đã lâm vào cảnh vỡ nợ. Kinh tế suy thoái dẫn đến bất ổn chính trị kéo dài nhiều năm đã thách thức khả năng chịu đựng của người dân. Chính vì thế, người dân Sri Lanka kỳ vọng Tân Tổng thống Ranil Wickremesinghe sẽ có thể đưa quốc đảo thoát khỏi cuộc khủng hoảng kinh tế và chính trị tồi tệ nhất kể từ khi giành độc lập năm 1948. Vậy, những thách thức nào đang chờ đợi Tân Tổng thống Sri Lanka trong bối cảnh đất nước này đang bước vào cuộc khủng hoảng kép?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/07/22/vovlive_vandequocte_thachthucmatongthongmoicuasrilankaphaidoimat.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 22 Jul 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
