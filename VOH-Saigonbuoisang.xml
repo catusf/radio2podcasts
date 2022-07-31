@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 30 Jul 2022 14:18:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 31 Jul 2022 15:55:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 30 Jul 2022 14:18:00 +0700</pubDate>
+    <pubDate>Sun, 31 Jul 2022 15:55:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Giai điệu và thông điệp “Chỉ là hơi mệt chút thôi” - Sài Gòn buổi sáng 31/7/2022</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/giai-dieu-va-thong-diep-chi-la-hoi-met-chut-thoi-sai-gon-buoi-sang-31-7-2022-443370.html</link>
+      <description><![CDATA[08:55 - 31/07/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/giai-dieu-va-thong-diep-chi-la-hoi-met-chut-thoi-sai-gon-buoi-sang-31-7-2022-443370.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/07/31/FMSaigonbuoisang06h00p310722-20220730200007.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 31 Jul 2022 15:55:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Vui hè cùng tranh gạo, lá dừa - Sài Gòn buổi sáng 30/7/2022</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/vui-he-cung-tranh-gao-la-dua-sai-gon-buoi-sang-30-7-2022-443260.html</link>
       <description><![CDATA[07:18 - 30/07/2022]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/vui-he-cung-tranh-gao-la-dua-sai-gon-buoi-sang-30-7-2022-443260.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/07/30/FMsaigonbuoisang06h00p300722-20220730001404.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 30 Jul 2022 14:18:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Cảm nhận các tác giả có tác phẩm vào chung khảo LHPT năm 2022 - Sài Gòn buổi sáng 29/7/2022</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/cam-nhan-cac-tac-gia-co-tac-pham-vao-chung-khao-lhpt-nam-2022-sai-gon-buoi-sang-29-7-2022-443117.html</link>
-      <description><![CDATA[07:18 - 29/07/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/cam-nhan-cac-tac-gia-co-tac-pham-vao-chung-khao-lhpt-nam-2022-sai-gon-buoi-sang-29-7-2022-443117.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/07/29/FM999-SGBUOISANG06h00p290722-Copy.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 29 Jul 2022 14:18:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
