@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 15 Jul 2022 07:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 19 Jul 2022 07:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 15 Jul 2022 07:00:00 +0700</pubDate>
+    <pubDate>Tue, 19 Jul 2022 07:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,7 @@
     <itunes:subtitle>VNTN</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV-VannghethieunhiVOVLive.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>▶ 1/2 Cà Nóng chu du Trường Sa - Buổi 1: Niềm vui bất ngờ</title>
+      <title>▶ 1/5 Cà Nóng chu du Trường Sa - Buổi 1: Niềm vui bất ngờ</title>
       <link>https://vovlive.vn/ca-nong-chu-du-truong-sa-p14069.html</link>
       <description><![CDATA[Vào vai một chiếc máy ảnh của cô chủ nhà báo đi Trường Sa, nhà văn - nhà báo Bùi Tiểu Quyên xây dựng một câu chuyện về hành trình đến với biển đảo dành cho bạn đọc thiếu nhi khá độc đáo. Các em sẽ cảm nhận được phần nào cái háo hức của một nhân vật lần đầu nghe tin mình sẽ được đến các đảo trong quần đảo Trường Sa, làm quen với nề nếp sinh hoạt trên tàu, với gió to sóng dữ, cách chia nhóm và đặt tên theo tên đảo để gọi nhau Sinh Tồn ơi, Đá Lát ơi, Sơn Ca ơi, Tiên Nữ ơi... đầy cảm xúc.]]></description>
       <guid isPermaLink="false">https://vovlive.vn/ca-nong-chu-du-truong-sa-p14069.html</guid>
@@ -32,12 +32,36 @@
       <pubDate>Fri, 15 Jul 2022 07:00:00 +0700</pubDate>
     </item>
     <item>
-      <title>2/2 Cà Nóng chu du Trường Sa - Buổi 2: Một chút hoang mang</title>
+      <title>2/5 Cà Nóng chu du Trường Sa - Buổi 2: Một chút hoang mang</title>
       <link>https://vovlive.vn/ca-nong-chu-du-truong-sa-p14069.html</link>
       <description><![CDATA[Vào vai một chiếc máy ảnh của cô chủ nhà báo đi Trường Sa, nhà văn - nhà báo Bùi Tiểu Quyên xây dựng một câu chuyện về hành trình đến với biển đảo dành cho bạn đọc thiếu nhi khá độc đáo. Các em sẽ cảm nhận được phần nào cái háo hức của một nhân vật lần đầu nghe tin mình sẽ được đến các đảo trong quần đảo Trường Sa, làm quen với nề nếp sinh hoạt trên tàu, với gió to sóng dữ, cách chia nhóm và đặt tên theo tên đảo để gọi nhau Sinh Tồn ơi, Đá Lát ơi, Sơn Ca ơi, Tiên Nữ ơi... đầy cảm xúc.]]></description>
       <guid isPermaLink="false">https://vovlive.vn/ca-nong-chu-du-truong-sa-p14069.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/07/15/vovlive_vannghethieunhi_canongchudutruongsa_buoi2.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 15 Jul 2022 07:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>3/5 Cà Nóng chu du Trường Sa - Buổi 3: Trên con tàu KN 290</title>
+      <link>https://vovlive.vn/ca-nong-chu-du-truong-sa-p14069.html</link>
+      <description><![CDATA[Vào vai một chiếc máy ảnh của cô chủ nhà báo đi Trường Sa, nhà văn - nhà báo Bùi Tiểu Quyên xây dựng một câu chuyện về hành trình đến với biển đảo dành cho bạn đọc thiếu nhi khá độc đáo. Các em sẽ cảm nhận được phần nào cái háo hức của một nhân vật lần đầu nghe tin mình sẽ được đến các đảo trong quần đảo Trường Sa, làm quen với nề nếp sinh hoạt trên tàu, với gió to sóng dữ, cách chia nhóm và đặt tên theo tên đảo để gọi nhau Sinh Tồn ơi, Đá Lát ơi, Sơn Ca ơi, Tiên Nữ ơi... đầy cảm xúc.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/ca-nong-chu-du-truong-sa-p14069.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/07/19/vovlive_vannghethieunhi_canongchudutruongsa_buoi3.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 19 Jul 2022 07:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>4/5 Cà Nóng chu du Trường Sa - Buổi 4: Bộ ba may mắn</title>
+      <link>https://vovlive.vn/ca-nong-chu-du-truong-sa-p14069.html</link>
+      <description><![CDATA[Vào vai một chiếc máy ảnh của cô chủ nhà báo đi Trường Sa, nhà văn - nhà báo Bùi Tiểu Quyên xây dựng một câu chuyện về hành trình đến với biển đảo dành cho bạn đọc thiếu nhi khá độc đáo. Các em sẽ cảm nhận được phần nào cái háo hức của một nhân vật lần đầu nghe tin mình sẽ được đến các đảo trong quần đảo Trường Sa, làm quen với nề nếp sinh hoạt trên tàu, với gió to sóng dữ, cách chia nhóm và đặt tên theo tên đảo để gọi nhau Sinh Tồn ơi, Đá Lát ơi, Sơn Ca ơi, Tiên Nữ ơi... đầy cảm xúc.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/ca-nong-chu-du-truong-sa-p14069.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/07/19/vovlive_vannghethieunhi_canongchudutruongsa_buoi4.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 19 Jul 2022 07:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>5/5 Cà Nóng chu du Trường Sa - Buổi 5: Một nghìn hạc giấy</title>
+      <link>https://vovlive.vn/ca-nong-chu-du-truong-sa-p14069.html</link>
+      <description><![CDATA[Vào vai một chiếc máy ảnh của cô chủ nhà báo đi Trường Sa, nhà văn - nhà báo Bùi Tiểu Quyên xây dựng một câu chuyện về hành trình đến với biển đảo dành cho bạn đọc thiếu nhi khá độc đáo. Các em sẽ cảm nhận được phần nào cái háo hức của một nhân vật lần đầu nghe tin mình sẽ được đến các đảo trong quần đảo Trường Sa, làm quen với nề nếp sinh hoạt trên tàu, với gió to sóng dữ, cách chia nhóm và đặt tên theo tên đảo để gọi nhau Sinh Tồn ơi, Đá Lát ơi, Sơn Ca ơi, Tiên Nữ ơi... đầy cảm xúc.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/ca-nong-chu-du-truong-sa-p14069.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/07/19/vovlive_vannghethieunhi_canongchudutruongsa_buoi5.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 19 Jul 2022 07:00:00 +0700</pubDate>
     </item>
     <item>
       <title>▶ 1/17 Charlie và nhà máy sôcôla - Buổi 1: Gia đình Charlie</title>
