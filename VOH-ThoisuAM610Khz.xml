@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 31 Jul 2022 19:37:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 01 Aug 2022 06:02:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 31 Jul 2022 19:37:00 +0700</pubDate>
+    <pubDate>Mon, 01 Aug 2022 06:02:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Giá xăng có thể trở về mức 24.000 đồng/lít sau 3 lần giảm liên tiếp - Thời sự 17g00 31/7/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/gia-xang-co-the-tro-ve-muc-24-000-dong-lit-sau-3-lan-giam-lien-tiep-thoi-su-17g00-31-7-2022-443419.html</link>
+      <description><![CDATA[23:02 - 31/07/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/gia-xang-co-the-tro-ve-muc-24-000-dong-lit-sau-3-lan-giam-lien-tiep-thoi-su-17g00-31-7-2022-443419.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/07/31/AM610-THOISU45P17h00p310722.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 01 Aug 2022 06:02:00 +0700</pubDate>
+    </item>
     <item>
       <title>Đặc trưng của từng quận huyện sẽ tạo ra sản phẩm du lịch hấp dẫn - Thời sự 11g 31/7/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/dac-trung-cua-tung-quan-huyen-se-tao-ra-san-pham-du-lich-hap-dan-thoi-su-11g-31-7-2022-443388.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/nang-cao-vai-tro-hoat-dong-cong-chung-tren-dia-ban-tphcm-thoi-su-17g-30-7-2022-443374.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/07/31/AMThoisu17h00p300722-20220730164437.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 31 Jul 2022 16:13:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Sốt xuất huyết: Dịch bệnh rất nguy hiểm, không thể lơ là – Thời sự 5g30 31/7/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/sot-xuat-huyet-dich-benh-rat-nguy-hiem-khong-the-lo-la-thoi-su-5g30-31-7-2022-443371.html</link>
-      <description><![CDATA[08:57 - 31/07/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/sot-xuat-huyet-dich-benh-rat-nguy-hiem-khong-the-lo-la-thoi-su-5g30-31-7-2022-443371.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/07/31/AMThoisu05h30p310722-30p9s-20220730231838.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 31 Jul 2022 15:57:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
