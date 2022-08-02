@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 01 Aug 2022 18:13:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 02 Aug 2022 13:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 01 Aug 2022 18:13:00 +0700</pubDate>
+    <pubDate>Tue, 02 Aug 2022 13:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Sài Gòn buổi sáng 2/8/2022</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-2-8-2022-443543.html</link>
+      <description><![CDATA[06:00 - 02/08/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-2-8-2022-443543.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/08/02/FMSGBS06h00p020822-20220802070356.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 02 Aug 2022 13:00:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Liên hoan Phát thanh toàn quốc 2022 đến giờ G! - Sài Gòn buổi sáng 1/8/2022</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/lien-hoan-phat-thanh-toan-quoc-2022-den-gio-g-sai-gon-buoi-sang-1-8-2022-443465.html</link>
       <description><![CDATA[11:13 - 01/08/2022]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/lien-hoan-phat-thanh-toan-quoc-2022-den-gio-g-sai-gon-buoi-sang-1-8-2022-443465.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/08/01/FMSGBS06h00p010822-20220801070257.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 01 Aug 2022 18:13:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Giai điệu và thông điệp “Chỉ là hơi mệt chút thôi” - Sài Gòn buổi sáng 31/7/2022</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/giai-dieu-va-thong-diep-chi-la-hoi-met-chut-thoi-sai-gon-buoi-sang-31-7-2022-443370.html</link>
-      <description><![CDATA[08:55 - 31/07/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/giai-dieu-va-thong-diep-chi-la-hoi-met-chut-thoi-sai-gon-buoi-sang-31-7-2022-443370.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/07/31/FMSaigonbuoisang06h00p310722-20220730200007.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 31 Jul 2022 15:55:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
