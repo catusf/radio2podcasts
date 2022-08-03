@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 03 Aug 2022 01:15:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 03 Aug 2022 14:09:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 03 Aug 2022 01:15:00 +0700</pubDate>
+    <pubDate>Wed, 03 Aug 2022 14:09:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Chỉ số giá tiêu dùng (CPI) tháng 7 của TPHCM tăng 0,4% - Thời sự 5g30 3/8/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/chi-so-gia-tieu-dung-cpi-thang-7-cua-tphcm-tang-0-4-thoi-su-5g30-3-8-2022-443644.html</link>
+      <description><![CDATA[07:09 - 03/08/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/chi-so-gia-tieu-dung-cpi-thang-7-cua-tphcm-tang-0-4-thoi-su-5g30-3-8-2022-443644.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/08/03/AMThoisu05h30p030822-20220802232308.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 03 Aug 2022 14:09:00 +0700</pubDate>
+    </item>
     <item>
       <title>Để phát hiện, nhân rộng điển hình tiên tiến - Thời sự 17g00 2/8/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/de-phat-hien-nhan-rong-dien-hinh-tien-tien-thoi-su-17g00-2-8-2022-443606.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-tang-toc-chuyen-doi-so-thoi-su-11g-2-8-2022-443605.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/08/02/AMThoisu11h00p020822-20220802103505.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 03 Aug 2022 01:14:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Thời sự 05g30 - 2/8/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/thoi-su-05g30-2-8-2022-443578.html</link>
-      <description><![CDATA[05:30 - 02/08/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/thoi-su-05g30-2-8-2022-443578.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/08/02/AMThoisu05h30p020822-20220801234244.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 02 Aug 2022 12:30:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
