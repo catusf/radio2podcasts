@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 04 Aug 2022 01:34:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 04 Aug 2022 18:15:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 04 Aug 2022 01:34:00 +0700</pubDate>
+    <pubDate>Thu, 04 Aug 2022 18:15:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,28 +24,28 @@
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Thách thức của phát thanh truyền hình trong giai đoạn chuyển đổi số - Thời sự 11g00 4/8/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/thach-thuc-cua-phat-thanh-truyen-hinh-trong-giai-doan-chuyen-doi-so-thoi-su-11g00-4-8-2022-443787.html</link>
+      <description><![CDATA[11:15 - 04/08/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/thach-thuc-cua-phat-thanh-truyen-hinh-trong-giai-doan-chuyen-doi-so-thoi-su-11g00-4-8-2022-443787.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/08/04/AMThoisu11h00p040822-20220804104001.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 04 Aug 2022 18:15:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Thủ tướng chủ trì phiên họp Chính phủ thường kỳ tháng 7/2022 – Thời sự 5g30 4/8/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/thu-tuong-chu-tri-phien-hop-chinh-phu-thuong-ky-thang-7-2022-thoi-su-5g30-4-8-2022-443763.html</link>
+      <description><![CDATA[06:33 - 04/08/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/thu-tuong-chu-tri-phien-hop-chinh-phu-thuong-ky-thang-7-2022-thoi-su-5g30-4-8-2022-443763.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/08/04/AMThoisu05h30p040822-20220803232953-1.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 04 Aug 2022 13:33:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Du lịch TPHCM sẽ tăng cường quảng bá thông qua Liên hoan Phát thanh toàn quốc - Thời sự 17g 3/8/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/du-lich-tphcm-se-tang-cuong-quang-ba-thong-qua-lien-hoan-phat-thanh-toan-quoc-thoi-su-17g-3-8-2022-443725.html</link>
       <description><![CDATA[18:34 - 03/08/2022]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/du-lich-tphcm-se-tang-cuong-quang-ba-thong-qua-lien-hoan-phat-thanh-toan-quoc-thoi-su-17g-3-8-2022-443725.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/08/03/AMThoisu17h00p030822-20220803164315.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 04 Aug 2022 01:34:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>TPHCM tập trung vào quản trị dữ liệu, chính quyền số và kinh tế số - Thời sự 11g 3/8/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-tap-trung-vao-quan-tri-du-lieu-chinh-quyen-so-va-kinh-te-so-thoi-su-11g-3-8-2022-443666.html</link>
-      <description><![CDATA[11:50 - 03/08/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-tap-trung-vao-quan-tri-du-lieu-chinh-quyen-so-va-kinh-te-so-thoi-su-11g-3-8-2022-443666.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/08/03/AMThoisu11h00p030822-20220803103547.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 03 Aug 2022 18:50:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chỉ số giá tiêu dùng (CPI) tháng 7 của TPHCM tăng 0,4% - Thời sự 5g30 3/8/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/chi-so-gia-tieu-dung-cpi-thang-7-cua-tphcm-tang-0-4-thoi-su-5g30-3-8-2022-443644.html</link>
-      <description><![CDATA[07:09 - 03/08/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/chi-so-gia-tieu-dung-cpi-thang-7-cua-tphcm-tang-0-4-thoi-su-5g30-3-8-2022-443644.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/08/03/AMThoisu05h30p030822-20220802232308.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 03 Aug 2022 14:09:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
