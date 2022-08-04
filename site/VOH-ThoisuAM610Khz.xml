@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 04 Aug 2022 18:15:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 04 Aug 2022 23:38:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 04 Aug 2022 18:15:00 +0700</pubDate>
+    <pubDate>Thu, 04 Aug 2022 23:38:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Cần xây dựng Không gian văn hóa Hồ Chí Minh tại địa đạo Phú Thọ Hòa – Thời sự 17g00 4/8/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/can-xay-dung-khong-gian-van-hoa-ho-chi-minh-tai-dia-dao-phu-tho-hoa-thoi-su-17g00-4-8-2022-443825.html</link>
+      <description><![CDATA[16:38 - 04/08/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/can-xay-dung-khong-gian-van-hoa-ho-chi-minh-tai-dia-dao-phu-tho-hoa-thoi-su-17g00-4-8-2022-443825.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/08/04/AMThoisu17h00p040822-20220804164643.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 04 Aug 2022 23:38:00 +0700</pubDate>
+    </item>
     <item>
       <title>Thách thức của phát thanh truyền hình trong giai đoạn chuyển đổi số - Thời sự 11g00 4/8/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/thach-thuc-cua-phat-thanh-truyen-hinh-trong-giai-doan-chuyen-doi-so-thoi-su-11g00-4-8-2022-443787.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/thu-tuong-chu-tri-phien-hop-chinh-phu-thuong-ky-thang-7-2022-thoi-su-5g30-4-8-2022-443763.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/08/04/AMThoisu05h30p040822-20220803232953-1.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 04 Aug 2022 13:33:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Du lịch TPHCM sẽ tăng cường quảng bá thông qua Liên hoan Phát thanh toàn quốc - Thời sự 17g 3/8/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/du-lich-tphcm-se-tang-cuong-quang-ba-thong-qua-lien-hoan-phat-thanh-toan-quoc-thoi-su-17g-3-8-2022-443725.html</link>
-      <description><![CDATA[18:34 - 03/08/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/du-lich-tphcm-se-tang-cuong-quang-ba-thong-qua-lien-hoan-phat-thanh-toan-quoc-thoi-su-17g-3-8-2022-443725.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/08/03/AMThoisu17h00p030822-20220803164315.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 04 Aug 2022 01:34:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

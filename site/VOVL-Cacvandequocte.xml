@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 03 Aug 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 04 Aug 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 03 Aug 2022 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 04 Aug 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Chủ tịch Hạ viện Mỹ thăm Châu Á: Gia tăng căng thẳng Mỹ - Trung?</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Theo thông báo mới nhất của Văn phòng Chủ tịch Hạ viện Mỹ, trong khuôn khổ chuyến thăm Châu Á, tối muộn ngày 2/8, Chủ tịch Hạ viện Mỹ Nancy Pelosi cùng đoàn các nghị sỹ Mỹ đã đặt chân tới Đài Loan (Trung Quốc), trở thành quan chức cao cấp nhất của Mỹ thăm vùng lãnh thổ này trong vòng 25 năm qua. Thông tin này đã dấy lên một làn sóng các quan điểm trái chiều, tất nhiên cả những phản ứng chỉ trích kịch liệt từ phía Trung Quốc. Bởi thế, chưa rõ kết quả cụ thể ra sao, chuyến thăm Châu Á của bà Nancy Pelosi đang đẩy quan hệ Mỹ - Trung lên một nấc thang căng thẳng mới.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/08/04/vovlive_vandequocte_chutichhavienmythamchaua.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 04 Aug 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Học thuyết Hải quân mới của Nga: Những điểm đáng chú ý</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/07/29/vovlive_vandequocte_mucdichchuyenthambanuoctrunga.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 30 Jul 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Nga rút khỏi trạm Vũ trụ Quốc tế: Thêm bước lùi trong quan hệ Nga - Mỹ</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Trong tuyên bố mới đây, Tổng Giám đốc Cơ quan Hàng không vũ trụ Nga Yury Borisov cho biết, Nga quyết định sẽ rút khỏi Trạm vũ trụ quốc tế (ISS) sau năm 2024. Đây là thời điểm thích hợp để Nga tiến hành kế hoạch xây dựng trạm quỹ đạo của riêng mình, một trong những ưu tiên của nước này trong chương trình không gian vũ trụ. Trong bối cảnh căng thẳng giữa Nga và các nước phương Tây tiếp tục gia tăng liên quan đến cuộc xung đột tại Ukraine cùng nhiều lệnh trừng phạt nhằm vào Matxcova, tuyên bố này được cho là một bước lùi khiến quan hệ Nga - Mỹ càng lún sâu vào căng thẳng và khủng hoảng.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/07/29/vovlive_vandequocte_ngarutkhoitramvutruquocte.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 29 Jul 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

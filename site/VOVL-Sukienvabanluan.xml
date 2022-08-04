@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 01 Aug 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 04 Aug 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 01 Aug 2022 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 04 Aug 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,22 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Tỷ lệ nông dân giảm mạnh: Cách Indonesia thu hút người trẻ làm nông nghiệp</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Nhiều quốc gia Châu Á đang đứng trước nguy cơ thiếu lao động nghiêm trọng trong lĩnh vực nông nghiệp vì nhiều lý do khác nhau, như già hóa dân số, tốc độ đô thị hóa nhanh chóng hay những tác động của thiên tai, dịch bệnh khiến cho nhiều người dời bỏ khu vực nông thôn. Tại Indonesia, một phóng sự của báo Jakarta Post dẫn số liệu cho thấy, vào năm 1976, có khoảng 65,8% tổng dân số nước này làm nông nghiệp. Đến năm 2019, tỷ lệ này giảm mạnh xuống còn 28%. Nếu tiếp tục giảm với tốc độ này, Indonesia sẽ không còn người làm nông nghiệp vào năm 2063. Vì sao có sự sụt giảm nghiêm trọng như vậy? Liệu sự bùng nổ của công nghệ có giúp định hình lại nền nông nghiệp của Indonesia? Cách "quốc gia vạn đảo" thu hút người trẻ làm nông nghiệp có gì đáng chú ý?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/08/04/vovlive_sukienvabanluan_ti_le_nong_dan_giam_manh.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 04 Aug 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Cấm hay thí điểm thuốc lá điện tử?</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Trung tâm Chống độc, Bệnh viện Bạch Mai vừa tiếp nhận nữ bệnh nhân 20 tuổi ở Hà Nội, trong tình trạng hôn mê sâu, suy tim, tổn thương não lan tỏa tất cả các vị trí, tổn thương gan… Nguyên nhân được xác định do bệnh nhân ngộ độc một chất ma túy thế hệ mới có trong thuốc lá điện tử. Vụ việc vừa nêu một lần nữa cảnh báo chúng ta về tác hại khôn lường của loại sản phẩm này. Nó càng trở nên đáng quan tâm trong bối cảnh Bộ Y tế đã nhiều lần gửi công văn đề nghị Thủ tướng Chính phủ cấm hoàn toàn đối với thuốc lá điện tử trong khi Bộ Công thương lại đề nghị thí điểm có thời hạn. Cấm hay thí điểm thuốc lá điện tử?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/08/04/vovlive_sukienvabanluan_cam_hay_thi_diem_thuoc_la_dien_tu.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 04 Aug 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Châu Âu loay hoay tìm cách tiết kiệm năng lượng</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -38,22 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/08/01/vovlive_sukienvabanluan_phu_song_toan_quoc_5g.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 01 Aug 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Bệnh viện vệ tinh - giải "bài toán" quá tải ở tuyến trên</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Thông tin bệnh viện Hữu nghị Việt Đức quá tải, khiến người bệnh phải chờ đợi lâu khi đi làm các thủ tục khám chữa bệnh ở đây đang nhận được sự quan tâm của dư luận. Theo lãnh đạo bệnh viện này, số lượng bệnh nhân tới khám tăng tới 2 đến 3 lần so với những năm trước đó. Nếu như trong 6 tháng cùng kỳ năm ngoái, Bệnh viện Việt Đức tiếp nhận hơn 51.000 lượt người tới khám chữa bệnh, thì riêng trong 6 tháng đầu năm nay đã có 140.000 bệnh nhân tới khám..... Vì sao ngành y tế triển khai Đề án Bệnh viện vệ tinh để giảm tải cho tuyến cuối được thực hiện hơn chục năm nay nhưng các tuyến trên vẫn luôn trong tình trạng quá tải? Đâu là những vấn đề đặt ra để phát huy hiệu quả hơn nữa các bệnh viện này, thực sự góp phần giảm tải cho tuyến cuối?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/07/29/vovlive_sukienvabanluan_benh_vien_ve_tinh.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 29 Jul 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Giải mã tốc độ lây lan nhanh của bệnh đậu mùa khỉ và những giải pháp?</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Với hơn 16 nghìn ca nhiễm ở hơn 75 quốc gia và vùng lãnh thổ chỉ từ tháng 5 đến nay, Tổ chức Y tế thế giới (WHO) đã phải ban bố tình trạng khẩn cấp y tế toàn cầu đối với bệnh đậu mùa khỉ. Đây là mức cảnh báo cao nhất,  mà nếu không sớm có biện pháp kiểm soát có thể bùng phát thành đại dịch như Covid -19. Câu hỏi đặt ra là vì sao một căn bệnh được đánh giá là khá hiếm, vốn chủ yếu xuất hiện ở châu Phi nay lại lây lan nhanh chóng tại nhiều nước với những diễn biến bất thường. Vậy đâu là cách mà đậu mùa khỉ đang len lỏi tấn công toàn thế giới; các nước đã và đang chuẩn bị ứng phó ra sao?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/07/28/vovlive_sukienvabanluan_giai_ma_toc_do_lay_lan_nhanh_benh_dau_mua.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 28 Jul 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
