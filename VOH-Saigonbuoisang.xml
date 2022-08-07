@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 06 Aug 2022 12:28:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 07 Aug 2022 15:16:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 06 Aug 2022 12:28:00 +0700</pubDate>
+    <pubDate>Sun, 07 Aug 2022 15:16:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Tuyển sinh 2022: Cẩn trọng và cân nhắc khi đăng ký xét tuyển - Sài Gòn buổi sáng 05/08/2022</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/tuyen-sinh-2022-can-trong-va-can-nhac-khi-dang-ky-xet-tuyen-sai-gon-buoi-sang-05-08-2022-443984.html</link>
-      <description><![CDATA[05:28 - 06/08/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/tuyen-sinh-2022-can-trong-va-can-nhac-khi-dang-ky-xet-tuyen-sai-gon-buoi-sang-05-08-2022-443984.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/08/06/FM999-SGBUOISANG06h00p050822.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 06 Aug 2022 12:28:00 +0700</pubDate>
+      <title>Sôi nổi các hoạt động tại LHPT toàn quốc 2022 - Sài Gòn buổi sáng 3/8/2022</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/soi-noi-cac-hoat-dong-tai-lhpt-toan-quoc-2022-sai-gon-buoi-sang-3-8-2022-444082.html</link>
+      <description><![CDATA[09:19 - 03/08/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/soi-noi-cac-hoat-dong-tai-lhpt-toan-quoc-2022-sai-gon-buoi-sang-3-8-2022-444082.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/08/06/FMSGBS06h00p030822-20220803070310.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 03 Aug 2022 16:19:00 +0700</pubDate>
     </item>
     <item>
-      <title>Các nội dung thi tại Liên hoan phát thanh 2022 - Sài Gòn buổi sáng 4/8/2022</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/cac-noi-dung-thi-tai-lien-hoan-phat-thanh-2022-sai-gon-buoi-sang-4-8-2022-443772.html</link>
-      <description><![CDATA[08:02 - 04/08/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/cac-noi-dung-thi-tai-lien-hoan-phat-thanh-2022-sai-gon-buoi-sang-4-8-2022-443772.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/08/04/FMSGBS06h00p040822-20220804070156.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 04 Aug 2022 15:02:00 +0700</pubDate>
+      <title>Hội thảo bùng nổ xu hướng giải trí số (phần 2) - Sài Gòn buổi sáng 7/8/2022</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/hoi-thao-bung-no-xu-huong-giai-tri-so-phan-2-sai-gon-buoi-sang-7-8-2022-444081.html</link>
+      <description><![CDATA[08:16 - 07/08/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/hoi-thao-bung-no-xu-huong-giai-tri-so-phan-2-sai-gon-buoi-sang-7-8-2022-444081.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/08/06/SGBS-070822-final-20220806221209.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 07 Aug 2022 15:16:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
