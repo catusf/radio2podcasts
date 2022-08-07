@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 04 Aug 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 05 Aug 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 04 Aug 2022 19:00:00 +0700</pubDate>
+    <pubDate>Fri, 05 Aug 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Quyết định của OPEC+ tác động ra sao đến giá dầu thế giới?</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Trong bối cảnh thị trường dầu mỏ quốc tế từ đầu năm đến nay luôn duy trì mức giá tăng khiến nhiều nền kinh tế phụ thuộc vào năng lượng gặp khó khăn, những quyết định từ các nước xuất khẩu dầu mỏ có ý nghĩa rất quan trọng. Cuộc họp hôm qua (ngày 3/8) của Tổ chức Các nước Xuất khẩu Dầu mỏ và các đồng minh (được biết đến là OPEC+) đã dấy lên rất nhiều kỳ vọng vào một sự điều chỉnh giá dầu trong thời gian tới. Dù mỗi tháng một lần OPEC+ đều có cuộc họp để đánh giá và điều chỉnh hoạt động sản xuất và xuất khẩu, tuy nhiên phiên họp lần này được cho là quan trọng trong bối cảnh Mỹ liên tục kêu gọi các quốc gia OPEC tăng sản lượng dầu nhằm đối phó với sự thiếu hụt nguồn cung. Những tác động của cuộc họp này đến thị trường dầu thế giới trong thời gian tới sẽ ra sao?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/08/04/vovlive_vandequocte_quyetdinhcuaopectacdongrasaoengiadauthegioi.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 05 Aug 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Chủ tịch Hạ viện Mỹ thăm Châu Á: Gia tăng căng thẳng Mỹ - Trung?</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/08/02/vovlive_vandequocte_nolucthucdayvaitrocuaaseantrongcanhtranhdiachinhtrimoi.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 02 Aug 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Mục đích chuyến thăm ba nước Trung Á của Ngoại trưởng Trung Quốc Vương Nghị</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Ngoại trưởng Trung Quốc, ông Vương Nghị đang có chuyến thăm ba nước Trung Á và tham dự hội nghị Ngoại trưởng Tổ chức hợp tác Thượng Hải (SCO). Đây được cho là cơ hội để Trung Quốc đẩy mạnh vai trò, sự hiện diện của Bắc Kinh tại khu vực có vai trò quan trọng này đồng thời thể hiện quan điểm của Trung Quốc trong Tổ chức hợp tác Thượng Hải. Trong bối cảnh, xung đột Ukraine đặt ra nhiều thách thức đối với chuỗi cung ứng, kết nối và hậu cần Á - Âu, Hội nghị ngoại trưởng SCO cũng như sự hiện diện của Trung Quốc tác động đến bức tranh an ninh và kinh tế của khu vực.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/07/29/vovlive_vandequocte_mucdichchuyenthambanuoctrunga.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 30 Jul 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
