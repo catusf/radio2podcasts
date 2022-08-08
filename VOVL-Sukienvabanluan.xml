@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 04 Aug 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 08 Aug 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 04 Aug 2022 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 08 Aug 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Cái chết của trùm khủng bố Ayman al-Zawahiri báo hiệu tương lai nào cho Al Qaeda?</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Sau thời gian dài truy lùng, chính phủ Mỹ mới đây xác nhận đã tiêu diệt tên Ayman al-Zawahiri, một trong những kẻ chủ mưu vụ tấn công khủng bố kinh hoàng ngày 11/9/2001 và là thủ lĩnh kế thừa trùm khủng bố Osama Bin Laden. Sự kiện được đánh giá có ý nghĩa quan trọng trong cuộc chiến chống khủng bố mà nước Mỹ đang theo đuổi. Tuy nhiên, theo giới quan sát, chắc chắn Al Qaeda sẽ lại sớm có một thủ lĩnh mới và thậm chí sẽ dấy lên một làn sóng khủng bố nhằm trả đũa động thái của Mỹ. Tình thế còn phức tạp hơn khi chính quyền Taliban tại Afghanistan hiện nay bị cáo buộc đang biến nước này trở thành căn cứ của khủng bố. Vậy tương lai nào cho Al Qaeda nói riêng, chủ nghĩa khủng bố nói chung và cuộc chiến chống lại “bóng ma chết chóc” này?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/08/08/vovlive_sukienvabanluan_cai_chet_cua_khung_bo.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 08 Aug 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Tỷ lệ nông dân giảm mạnh: Cách Indonesia thu hút người trẻ làm nông nghiệp</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -45,14 +53,6 @@
       <description><![CDATA[Những ngày gần đây, các quốc gia châu Âu liên tiếp đưa ra các quy định mới về tiết kiệm năng lượng nhằm đối mặt với tình trạng thiếu khí đốt khi mùa đông ngày càng đến gần. Cắt giảm mức tiêu thụ 15% - yêu cầu này đã được các quốc gia châu Âu đồng thuận, ngoại trừ một số nước như Tây Ban Nha, Bồ Đào Nha. Dù vậy, chưa bao giờ châu Âu lại đối mặt với một tương lai khó đoán định như hiện nay, khi khả năng châu Âu có vượt qua được mùa đông lạnh giá hay không lại không phụ thuộc vào các quyết sách, mà lại phụ thuộc vào thời tiết.]]></description>
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/08/01/vovlive_sukienvabanluan_chau_au_loay_hoay_tim_cach_tiet_kiem_nang_luong.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 01 Aug 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Phủ sóng toàn quốc 5G - Singapore "về đích sớm"</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Singapore mới đây thông báo phạm vi phủ sóng 5G đã đạt 95%, trở thành quốc gia đầu tiên trên thế giới phủ sóng hoàn toàn bằng mạng 5G độc lập, hoàn thành kế hoạch sớm 3 năm so với mục tiêu ban đầu đề ra năm 2025. Việc phủ sóng 5G toàn quốc tạo điều kiện để Singapore thúc đẩy chuyển đổi số trong mọi lĩnh vực...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/08/01/vovlive_sukienvabanluan_phu_song_toan_quoc_5g.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 01 Aug 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
