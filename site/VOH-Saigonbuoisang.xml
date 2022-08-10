@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 08 Aug 2022 17:03:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 10 Aug 2022 13:15:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 08 Aug 2022 17:03:00 +0700</pubDate>
+    <pubDate>Wed, 10 Aug 2022 13:15:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Dự thảo Luật Đất đai sửa đổi đang lấy ý kiến người dân - Sài Gòn buổi sáng 9/8/2022</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/du-thao-luat-dat-dai-sua-doi-dang-lay-y-kien-nguoi-dan-sai-gon-buoi-sang-9-8-2022-444403.html</link>
+      <description><![CDATA[06:15 - 10/08/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/du-thao-luat-dat-dai-sua-doi-dang-lay-y-kien-nguoi-dan-sai-gon-buoi-sang-9-8-2022-444403.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/08/10/FMSGBS06h00p090822-20220809070116.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 10 Aug 2022 13:15:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Câu chuyện khởi nghiệp của trí thức trẻ - Sài Gòn buổi sáng 8/8/2022</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/cau-chuyen-khoi-nghiep-cua-tri-thuc-tre-sai-gon-buoi-sang-8-8-2022-444211.html</link>
       <description><![CDATA[10:03 - 08/08/2022]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/cau-chuyen-khoi-nghiep-cua-tri-thuc-tre-sai-gon-buoi-sang-8-8-2022-444211.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/08/08/FMSGBS06h00p080822-20220808070826.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 08 Aug 2022 17:03:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Sôi nổi các hoạt động tại LHPT toàn quốc 2022 - Sài Gòn buổi sáng 3/8/2022</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/soi-noi-cac-hoat-dong-tai-lhpt-toan-quoc-2022-sai-gon-buoi-sang-3-8-2022-444082.html</link>
-      <description><![CDATA[09:19 - 03/08/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/soi-noi-cac-hoat-dong-tai-lhpt-toan-quoc-2022-sai-gon-buoi-sang-3-8-2022-444082.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/08/06/FMSGBS06h00p030822-20220803070310.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 03 Aug 2022 16:19:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
