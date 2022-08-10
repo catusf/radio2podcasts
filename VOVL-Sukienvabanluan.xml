@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 09 Aug 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 10 Aug 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 09 Aug 2022 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 10 Aug 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Làm gì để giữ chân y bác sĩ trong hệ thống bệnh viện công nhìn từ tỉnh Bình Dương</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Một thực trạng rất đáng lo ngại hiện nay, đó là số lượng nhân viên y tế nghỉ việc đang tăng cao. “Làn sóng” này ngày càng gia tăng sau thời gian dài ngành y tế căng mình trong cuộc chiến chống đại dịch Covid - 19. Thực trạng này rất đáng lo ngại vì đã tạo nên những “khoảng trống”, “đứt gãy” quá trình vận hành tại các cơ sở y tế công lập. Sớm thay đổi tư duy trong quản lý, vận hành hệ thống y tế, tạo cơ chế để tăng thu nhập cho nhân viên y tế để các y bác sĩ gắn bó với các cơ sở y tế công lập.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/08/10/vovlive_sukienvabanluan_lam_gi_de_giu_chan_y_bac_si.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 10 Aug 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Triển vọng trở thành thành viên khu vực Schengen của Rumani</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -45,14 +53,6 @@
       <description><![CDATA[Nhiều quốc gia Châu Á đang đứng trước nguy cơ thiếu lao động nghiêm trọng trong lĩnh vực nông nghiệp vì nhiều lý do khác nhau, như già hóa dân số, tốc độ đô thị hóa nhanh chóng hay những tác động của thiên tai, dịch bệnh khiến cho nhiều người dời bỏ khu vực nông thôn. Tại Indonesia, một phóng sự của báo Jakarta Post dẫn số liệu cho thấy, vào năm 1976, có khoảng 65,8% tổng dân số nước này làm nông nghiệp. Đến năm 2019, tỷ lệ này giảm mạnh xuống còn 28%. Nếu tiếp tục giảm với tốc độ này, Indonesia sẽ không còn người làm nông nghiệp vào năm 2063. Vì sao có sự sụt giảm nghiêm trọng như vậy? Liệu sự bùng nổ của công nghệ có giúp định hình lại nền nông nghiệp của Indonesia? Cách "quốc gia vạn đảo" thu hút người trẻ làm nông nghiệp có gì đáng chú ý?]]></description>
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/08/04/vovlive_sukienvabanluan_ti_le_nong_dan_giam_manh.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 04 Aug 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Cấm hay thí điểm thuốc lá điện tử?</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Trung tâm Chống độc, Bệnh viện Bạch Mai vừa tiếp nhận nữ bệnh nhân 20 tuổi ở Hà Nội, trong tình trạng hôn mê sâu, suy tim, tổn thương não lan tỏa tất cả các vị trí, tổn thương gan… Nguyên nhân được xác định do bệnh nhân ngộ độc một chất ma túy thế hệ mới có trong thuốc lá điện tử. Vụ việc vừa nêu một lần nữa cảnh báo chúng ta về tác hại khôn lường của loại sản phẩm này. Nó càng trở nên đáng quan tâm trong bối cảnh Bộ Y tế đã nhiều lần gửi công văn đề nghị Thủ tướng Chính phủ cấm hoàn toàn đối với thuốc lá điện tử trong khi Bộ Công thương lại đề nghị thí điểm có thời hạn. Cấm hay thí điểm thuốc lá điện tử?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/08/04/vovlive_sukienvabanluan_cam_hay_thi_diem_thuoc_la_dien_tu.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 04 Aug 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
