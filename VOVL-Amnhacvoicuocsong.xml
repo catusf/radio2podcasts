@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 31 Jul 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 07 Aug 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 31 Jul 2022 19:00:00 +0700</pubDate>
+    <pubDate>Sun, 07 Aug 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,15 @@
     </itunes:owner>
     <itunes:subtitle>Âm nhạc với cuộc sống</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Amnhacvoicuocsong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>“Vinh quang thầm lặng”: Khúc ca bi tráng về người công an nhân dân</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[- Tưởng nhớ tới ba chiến sĩ cảnh sát phòng cháy chữa cháy đã hy sinh anh dũng, cũng như những chiến sĩ công an đã ngã xuống cho cuộc sống bình yên, cùng lắng nghe “Vinh quang thầm lặng” - bài hát như một nén tâm nhang của nhạc sĩ Nguyễn Bá Hùng và nghe những chia sẻ của nhạc sĩ về bài hát.
+ - Cùng cảm nhận, sẻ chia tình cảm với những nạn nhân chất độc da cam dioxin Việt Nam qua ca khúc “Nỗi đau người ở lại” (nhạc sĩ Đoàn Nguyên Hiếu, thơ Đoàn Hoài Trung)…]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/08/08/vovlive_am_nhac_voi_cuoc_song_vinh_quang_tham_lang.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 07 Aug 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Những ca khúc nhắc nhớ về Sự kiện Vịnh Bắc Bộ</title>
       <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
@@ -48,16 +57,6 @@
       <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/07/18/vovlive_am_nhac_voi_cuoc_song_vi_binh_yen_cuoc_song.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 17 Jul 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>“Hoàng hôn trên Ngã ba Đồng Lộc” - Ca khúc gửi gắm thông điệp ý nghĩa dành cho các bạn trẻ</title>
-      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[Kỷ niệm 72 năm ngày truyền thống lực lượng TNXP (15/7/1950-15/7/2022), và 54 năm ngày hy sinh của 10 cô gái Ngã ba Đồng Lộc (24/7/1968-24/7/2022)
-- Thưởng thức ca khúc “Hoàng hôn trên Ngã ba Đồng Lộc” (sáng tác: Trần Minh Đức, phổ thơ: Tấn Dương) và cùng lắng nghe những chia sẻ của tác giả Trần Minh Đức về cảm xúc sáng tác ca khúc này.
-- Thưởng thức ca khúc “Cô gái Sài Gòn đi tải đạn” (nhạc sĩ Lư Nhất Vũ) và lắng nghe những chia sẻ của nhạc sĩ Lư Nhất Vũ về ca khúc…]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/07/11/vovlive_am_nhac_voi_cuoc_song_honag_hon_tren_nga_ba_dong_loc.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 10 Jul 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
