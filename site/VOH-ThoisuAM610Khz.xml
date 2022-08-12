@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 12 Aug 2022 18:11:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 13 Aug 2022 00:41:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 12 Aug 2022 18:11:00 +0700</pubDate>
+    <pubDate>Sat, 13 Aug 2022 00:41:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Xăng dầu tiếp tục “hạ nhiệt”: Người dân, doanh nghiệp phấn khởi – Thời sự 17g00 12/8/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/xang-dau-tiep-tuc-ha-nhiet-nguoi-dan-doanh-nghiep-phan-khoi-thoi-su-17g00-12-8-2022-444691.html</link>
+      <description><![CDATA[17:41 - 12/08/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/xang-dau-tiep-tuc-ha-nhiet-nguoi-dan-doanh-nghiep-phan-khoi-thoi-su-17g00-12-8-2022-444691.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/08/12/AMThoisu17h00p120822-20220812164311.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 13 Aug 2022 00:41:00 +0700</pubDate>
+    </item>
     <item>
       <title>Hội nghị Thủ tướng Chính phủ với doanh nghiệp năm 2022 - Thời sự 17g00 11/8/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/hoi-nghi-thu-tuong-chinh-phu-voi-doanh-nghiep-nam-2022-thoi-su-17g00-11-8-2022-444655.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-so-ket-cong-tac-cai-cach-hanh-chinh-6-thang-dau-nam-2022-thoi-su-11g00-12-8-2022-444636.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/08/12/AMThoisu11h00p120822-20220812103724.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 12 Aug 2022 18:11:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Nguy cơ “dịch chồng dịch” bùng phát ở nhiều quốc gia - Thời sự 5g30 12/8/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/nguy-co-dich-chong-dich-bung-phat-o-nhieu-quoc-gia-thoi-su-5g30-12-8-2022-444609.html</link>
-      <description><![CDATA[06:26 - 12/08/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/nguy-co-dich-chong-dich-bung-phat-o-nhieu-quoc-gia-thoi-su-5g30-12-8-2022-444609.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/08/12/AMThoisu05h30p120822-20220811235030.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 12 Aug 2022 13:26:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
