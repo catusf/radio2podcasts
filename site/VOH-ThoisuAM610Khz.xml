@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 13 Aug 2022 18:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 14 Aug 2022 00:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 13 Aug 2022 18:00:00 +0700</pubDate>
+    <pubDate>Sun, 14 Aug 2022 00:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Dùng tiền ngân sách mua SGK cho học sinh mượn sử dụng trong năm học mới - Thời sự 17g00 13/08/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/dung-tien-ngan-sach-mua-sgk-cho-hoc-sinh-muon-su-dung-trong-nam-hoc-moi-thoi-su-17g00-13-08-2022-444792.html</link>
+      <description><![CDATA[17:00 - 13/08/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/dung-tien-ngan-sach-mua-sgk-cho-hoc-sinh-muon-su-dung-trong-nam-hoc-moi-thoi-su-17g00-13-08-2022-444792.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/08/13/AM610-THOISU45P17h00p130822.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 14 Aug 2022 00:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>80% người bệnh loãng xương vẫn chưa được chẩn đoán và điều trị - Thời sự 11g00 13/8/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/80-nguoi-benh-loang-xuong-van-chua-duoc-chan-doan-va-dieu-tri-thoi-su-11g00-13-8-2022-444764.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-thanh-lap-ban-chi-dao-phong-chong-tham-nhung-tieu-cuc-thoi-su-05g30-13-8-2022-444754.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/08/13/AM610-THOISU30P05h30p130822.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 13 Aug 2022 12:30:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Xăng dầu tiếp tục “hạ nhiệt”: Người dân, doanh nghiệp phấn khởi – Thời sự 17g00 12/8/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/xang-dau-tiep-tuc-ha-nhiet-nguoi-dan-doanh-nghiep-phan-khoi-thoi-su-17g00-12-8-2022-444691.html</link>
-      <description><![CDATA[17:41 - 12/08/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/xang-dau-tiep-tuc-ha-nhiet-nguoi-dan-doanh-nghiep-phan-khoi-thoi-su-17g00-12-8-2022-444691.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/08/12/AMThoisu17h00p120822-20220812164311.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 13 Aug 2022 00:41:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
