@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 11 Aug 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 15 Aug 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 11 Aug 2022 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 15 Aug 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,16 @@
     </itunes:owner>
     <itunes:subtitle>Thể thao 7 ngày</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Thethao7ngay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Chương trình thể thao 7 ngày 13 tháng 8 năm 2022</title>
+      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
+      <description><![CDATA[- Mùa giải mới tại Tây Ban Nha: Barcelona vẫn trong cảnh hỗn loạn, Real Madrid có tiếp tục trên đỉnh? Tại Bundesliga, Bayern Munich có phải là Paris Saint Germain phiên bản Đức? Những điểm nhấn bóng đá Châu Âu trong tuần đầu tháng 8. 
+- Bước ngoặt về thái độ thi đấu của Neymar tại câu lạc bộ Paris Saint -Germain.
+- Những thông tin liên quan đến giải ngoại hạng Anh chấp nhận 1 phút tiếp nước, thay 5 người một trận...]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/08/15/vovlive_thethao7ngay_chuongtrinhthethao7ngay1482022.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 15 Aug 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Chương trình thể thao 7 ngày 7 tháng 8 năm 2022</title>
       <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
@@ -51,16 +61,6 @@
       <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/08/02/vovlive_thethao7ngay_chuongtrinhthethao7ngay17072022.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 02 Aug 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chương trình thể thao 7 ngày 10 tháng 7 năm 2022</title>
-      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
-      <description><![CDATA[- Từ lãnh đạo VFF đến ngôi sao hàng đầu của đội tuyển quốc gia, cũng như giới chuyên môn, tất cả đều đặc biệt đề cao bóng đá trẻ, đồng thời nhìn nhận lạc quan về những cánh cửa đang rộng mở với các cầu thủ trẻ. Hiệu ứng của U23 trên đấu trường quốc tế đang mang đến luồng gió mới trên sân chơi quốc nội. Các huấn luyện viên sẽ nhìn nhận ra sao về cơ hội ra sân của các cầu thủ trẻ tại V-league? Vì sao việc thành lập đội U23 tranh tài ở V-league không khả thi và giải pháp thay thế là gì?
-- Gặp gỡ Nguyễn Trần Tự Do để cảm nhận về đam mê thể thao chạy trong huyết quản cũng như định hướng theo đuổi nghệ thuật và kinh doanh đầy phá cách của một võ sĩ.
-- Thông tin thú vị về Aerobic, môn thể thao gần gũi và là lựa chọn dễ dàng cho thiếu nhi trong mùa hè...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/07/11/vovlive_thethao7ngay_chuongtrinhthethao7ngay10072022.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 11 Jul 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
