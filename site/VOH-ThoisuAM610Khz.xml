@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 16 Aug 2022 19:08:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 17 Aug 2022 02:53:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 16 Aug 2022 19:08:00 +0700</pubDate>
+    <pubDate>Wed, 17 Aug 2022 02:53:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Hội thảo lý luận, thực tiễn bảo vệ Tổ quốc trong tình hình mới - Thời sự 17g00 16/8/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/hoi-thao-ly-luan-thuc-tien-bao-ve-to-quoc-trong-tinh-hinh-moi-thoi-su-17g00-16-8-2022-445103.html</link>
+      <description><![CDATA[19:53 - 16/08/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/hoi-thao-ly-luan-thuc-tien-bao-ve-to-quoc-trong-tinh-hinh-moi-thoi-su-17g00-16-8-2022-445103.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/08/16/AMThoisu17h00p160822-20220816164028.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 17 Aug 2022 02:53:00 +0700</pubDate>
+    </item>
     <item>
       <title>Cổng dịch vụ công TP sẽ cung cấp 100% dịch vụ công trực tuyến toàn phần - Thời sự 11g 16/8/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/cong-dich-vu-cong-tp-se-cung-cap-100-dich-vu-cong-truc-tuyen-toan-phan-thoi-su-11g-16-8-2022-445043.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/ky-3-xay-dung-he-sinh-thai-trong-dao-tao-nhan-luc-so-thoi-su-5g30-16-8-2022-445019.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/08/16/AMThoisu05h30p16082022-20220816034249.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 16 Aug 2022 13:40:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Hàng không bắt đầu mở bán vé máy bay Tết - Thời sự 17g00 15/8/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/hang-khong-bat-dau-mo-ban-ve-may-bay-tet-thoi-su-17g00-15-8-2022-444998.html</link>
-      <description><![CDATA[00:01 - 16/08/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/hang-khong-bat-dau-mo-ban-ve-may-bay-tet-thoi-su-17g00-15-8-2022-444998.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/08/16/AMThoisu17h00p150822-20220815163141-Copy.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 16 Aug 2022 07:01:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
