@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 15 Aug 2022 13:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 16 Aug 2022 15:27:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 15 Aug 2022 13:00:00 +0700</pubDate>
+    <pubDate>Tue, 16 Aug 2022 15:27:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Cơn mưa lớn và kéo dài chiều 15/8 khiến TPHCM bị ngập nặng - Sài Gòn buổi sáng 16/8/2022</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/con-mua-lon-va-keo-dai-chieu-15-8-khien-tphcm-bi-ngap-nang-sai-gon-buoi-sang-16-8-2022-445028.html</link>
+      <description><![CDATA[08:27 - 16/08/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/con-mua-lon-va-keo-dai-chieu-15-8-khien-tphcm-bi-ngap-nang-sai-gon-buoi-sang-16-8-2022-445028.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/08/16/FMSGBS06h00p160822-20220816070217.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 16 Aug 2022 15:27:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Sẽ thế nào đây nếu không may cánh cửa ĐH khép lại? - Sài Gòn buổi sáng 15/8/2022</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/se-the-nao-day-neu-khong-may-canh-cua-dh-khep-lai-sai-gon-buoi-sang-15-8-2022-444999.html</link>
       <description><![CDATA[06:00 - 15/08/2022]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/se-the-nao-day-neu-khong-may-canh-cua-dh-khep-lai-sai-gon-buoi-sang-15-8-2022-444999.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/08/16/FM999-SGBUOISANG06h00p150822-Copy.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 15 Aug 2022 13:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>“Lan tỏa văn hóa đọc từ những đại sứ ở học đường” - Sài Gòn buổi sáng 14/8/2022</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/lan-toa-van-hoa-doc-tu-nhung-dai-su-o-hoc-duong-sai-gon-buoi-sang-14-8-2022-444874.html</link>
-      <description><![CDATA[18:08 - 14/08/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/lan-toa-van-hoa-doc-tu-nhung-dai-su-o-hoc-duong-sai-gon-buoi-sang-14-8-2022-444874.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/08/14/FMsaigonbuoisang06h00p140822-20220814003652.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 15 Aug 2022 01:08:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
