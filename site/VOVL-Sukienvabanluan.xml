@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 15 Aug 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 16 Aug 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 15 Aug 2022 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 16 Aug 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Kinh nghiệm các nước trong việc kiểm soát và quản lý mạng xã hội</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Với sự phát triển nhanh chóng của công nghệ, mạng xã hội xuyên quốc gia như Facebook, Twitter, Youtube… đã tạo ra những cơ hội, khả năng tiếp xúc, giao lưu văn hóa, hiểu biết lẫn nhau giữa các dân tộc trên thế giới. Nhưng chưa bao giờ môi trường ảo lại có nhiều tác động tiêu cực như hiện nay. Tình trạng phát tán tin giả, tin sai sự thật, các nội dung phản cảm, thiếu tính giáo dục, kích động bạo lực trên Internet, mạng xã hội đang diễn biến rất phức tạp. Nhận thức rõ những nguy cơ mà mạng xã hội gây ra đối với an ninh quốc gia, nhiều nước trên thế giới đã triển khai các biện pháp nhằm kiểm soát tốt hơn những thông tin được phép đăng tải trên mạng xã hội và hạn chế tối đa sự lan tràn, phát tán những thông tin giả mạo và độc hại.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/08/16/vovlive_sukienvabanluan_kinh_nghiem_cac_nuoc_trong_viec_kiem_soat_va_quan_ly_mang_xa_hoi.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 16 Aug 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Lào nỗ lực kiểm soát lạm phát</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/08/09/vovlive_sukienvabanluan_trien_vong_tro_thanh_thanh_vien_khu_vuc_schengen_-rumani.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 09 Aug 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Cái chết của trùm khủng bố Ayman al-Zawahiri báo hiệu tương lai nào cho Al Qaeda?</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Sau thời gian dài truy lùng, chính phủ Mỹ mới đây xác nhận đã tiêu diệt tên Ayman al-Zawahiri, một trong những kẻ chủ mưu vụ tấn công khủng bố kinh hoàng ngày 11/9/2001 và là thủ lĩnh kế thừa trùm khủng bố Osama Bin Laden. Sự kiện được đánh giá có ý nghĩa quan trọng trong cuộc chiến chống khủng bố mà nước Mỹ đang theo đuổi. Tuy nhiên, theo giới quan sát, chắc chắn Al Qaeda sẽ lại sớm có một thủ lĩnh mới và thậm chí sẽ dấy lên một làn sóng khủng bố nhằm trả đũa động thái của Mỹ. Tình thế còn phức tạp hơn khi chính quyền Taliban tại Afghanistan hiện nay bị cáo buộc đang biến nước này trở thành căn cứ của khủng bố. Vậy tương lai nào cho Al Qaeda nói riêng, chủ nghĩa khủng bố nói chung và cuộc chiến chống lại “bóng ma chết chóc” này?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/08/08/vovlive_sukienvabanluan_cai_chet_cua_khung_bo.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 08 Aug 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
