@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 07 Aug 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 14 Aug 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 07 Aug 2022 19:00:00 +0700</pubDate>
+    <pubDate>Sun, 14 Aug 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,15 @@
     </itunes:owner>
     <itunes:subtitle>Âm nhạc với cuộc sống</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Amnhacvoicuocsong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ca sĩ Hiền Anh ra mắt album Thiền ca “Duyên 4 - Mẹ là Phật từ bi” tri ân những bà mẹ Việt Nam anh hùng</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[- Nhân dịp mùa Vu lan 2022, ca sĩ Hiền Anh Sao Mai 2007 dòng thính phòng ra mắt Album “Duyên 4 – Phật là mẹ từ bi” gồm những ca khúc: Lời ru cho con, Mẹ yêu con, Thiền ca Làng Mai "Đã về đã tới – Sống vui", Mẹ là Phật từ bi. Trong chương trình, trò chuyện cùng nữ ca sĩ Hiền Anh để tìm hiều về album ý nghĩa này.
+- Thưởng thức ca khúc “Cờ đỏ sao vàng” (tác giả: Nguyễn Anh Trí - nguyên Viện trưởng Viện Huyết học truyền máu TW) và lắng nghe những chia sẻ của tác giả Nguyễn Anh Trí về hoàn cảnh ra đời của ca khúc…]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/08/15/vovlive_am_nhac_voi_cuoc_song_hien_anh_album_4.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 14 Aug 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>“Vinh quang thầm lặng”: Khúc ca bi tráng về người công an nhân dân</title>
       <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
@@ -48,15 +57,6 @@
       <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/07/25/vovlive_am_nhac_voi_cuoc_song_tieng_vong.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 24 Jul 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>“Vì bình yên cuộc sống”: Khúc tráng ca về người chiến sĩ cảnh sát nhân dân Việt Nam</title>
-      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[- Kỷ niệm 60 năm ngày Chủ tịch Hồ Chí Minh ký Lệnh số 34/LCT công bố Pháp lệnh quy định nhiệm vụ, quyền hạn của Cảnh sát nhân dân và Pháp lệnh quy định chế độ cấp bậc hàm của sỹ quan, hạ sỹ quan Cảnh sát nhân dân (20/7/1962 - 20/7/2022), cũng là Ngày truyền thống của lực lượng Cảnh sát nhân dân nói riêng, lực lượng công an nói chung, cùng gặp gỡ nhạc sĩ Dương Cầm và ca khúc “Vì bình yên cuộc sống”. 
-- Hướng tởi kỷ niệm 75 năm ngày Thương binh liệt sĩ (27/7/1947-27/7/2022), thưởng thức và tìm hiểu về hoàn cảnh ra đời của ca khúc “Vết chân tròn trên cát” (nhạc sĩ Trần Tiến).]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/07/18/vovlive_am_nhac_voi_cuoc_song_vi_binh_yen_cuoc_song.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 17 Jul 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
