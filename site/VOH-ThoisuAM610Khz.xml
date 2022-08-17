@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 17 Aug 2022 23:23:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 18 Aug 2022 03:48:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 17 Aug 2022 23:23:00 +0700</pubDate>
+    <pubDate>Thu, 18 Aug 2022 03:48:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>TPHCM quyết tâm thực hiện công tác phòng chống tham nhũng, tiêu cực - Thời sự 17g00 17/8/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-quyet-tam-thuc-hien-cong-tac-phong-chong-tham-nhung-tieu-cuc-thoi-su-17g00-17-8-2022-445231.html</link>
+      <description><![CDATA[20:48 - 17/08/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-quyet-tam-thuc-hien-cong-tac-phong-chong-tham-nhung-tieu-cuc-thoi-su-17g00-17-8-2022-445231.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/08/17/AMThoisu17h00p170822-20220817164014.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 18 Aug 2022 03:48:00 +0700</pubDate>
+    </item>
     <item>
       <title>Hội nghị lần thứ 16 Ban Chấp hành Đảng bộ TPHCM khóa XI - Thời sự 11g00 17/8/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/hoi-nghi-lan-thu-16-ban-chap-hanh-dang-bo-tphcm-khoa-xi-thoi-su-11g00-17-8-2022-445208.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/ky-4-chuyen-doi-so-co-hoi-song-con-cho-doanh-nghiep-thoi-su-5g30-17-8-2022-445139.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/08/17/AMThoisu05h30p17082022-20220816231532.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 17 Aug 2022 14:37:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Hội thảo lý luận, thực tiễn bảo vệ Tổ quốc trong tình hình mới - Thời sự 17g00 16/8/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/hoi-thao-ly-luan-thuc-tien-bao-ve-to-quoc-trong-tinh-hinh-moi-thoi-su-17g00-16-8-2022-445103.html</link>
-      <description><![CDATA[19:53 - 16/08/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/hoi-thao-ly-luan-thuc-tien-bao-ve-to-quoc-trong-tinh-hinh-moi-thoi-su-17g00-16-8-2022-445103.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/08/16/AMThoisu17h00p160822-20220816164028.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 17 Aug 2022 02:53:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
