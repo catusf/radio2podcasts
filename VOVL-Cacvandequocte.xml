@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 17 Aug 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 19 Aug 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 17 Aug 2022 19:00:00 +0700</pubDate>
+    <pubDate>Fri, 19 Aug 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,22 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Dấu ấn 100 ngày cầm quyền của Tổng thống Hàn Quốc</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Ngày 17/8, Tổng thống Hàn Quốc Yoon Suk-yeol đã tổ chức họp báo nhân 100 ngày cầm quyền đầu tiên để điểm lại những kết quả đạt được cũng như thông báo về các kế hoạch mới của quốc gia trong thời gian tới. Ông Yoon Suk-yeol nhậm chức Tổng thống trong bối cảnh tình hình trong nước và quốc tế có nhiều diễn biến phức tạp. Trong nước, những áp lực kinh tế ngày càng gia tăng do ảnh hưởng của bất ổn kinh tế toàn cầu, đỏi hỏi Chính phủ phải có nhiều chính sách hiệu quả để phục hồi kinh tế, phát triển sản xuất, thúc đẩy các ngành kinh tế chiến lược trong tương lai. Trong khi đó, việc xử lý các mối quan hệ đối ngoại cũng có nhiều thách thức khi Hàn Quốc là một mắt xích quan trọng trong các trục quan hệ chiến lược ở khu vực Châu Á – Thái Bình Dương, nhất là khi cạnh tranh nước lớn ngày càng gay gắt. Dư luận nhìn nhận thế nào về sự thể hiện của Tổng thống Yoon Suk-yeol trong 100 ngày đầu cầm quyền?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/08/18/vovlive_vandequocte_dauan100ngaycamquyencuatongthonghanquoc.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 19 Aug 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Nút thắt trong đàm phán hạt nhân Iran liệu có được tháo gỡ?</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Sau một tuần Liên minh Châu Âu (EU) đưa ra bản dự thảo cuối cùng để cứu vớt thỏa thuận hạt nhân Iran năm 2015, còn gọi là Kế hoạch Hành động toàn diện chung (JCPOA), phía Mỹ và Iran đã nêu quan điểm về bản dự thảo này. Trước đó, trung gian EU đã đưa văn bản cuối cùng được cho là phù hợp với cả Mỹ và Iran sau 16 tháng đàm phán gián tiếp. Mặc dù phía Mỹ không đưa ra tuyên bố công khai về bản dự thảo thỏa thuận hạt nhân Iran do EU đưa ra, nhưng theo người phát ngôn Bộ Ngoại giao Mỹ, nước này sẵn sàng ký kết bản dự thảo này. Tuy nhiên, phía Mỹ sẽ chưa nới lỏng thực thi các biện pháp trừng phạt chống lại Iran. Trong khi đó, người phát ngôn Bộ Ngoại giao Iran nhận định có cơ hội để khôi phục thỏa thuận hạt nhân 2015 với các cường quốc thế giới, nếu lằn ranh đỏ của Tehran được tôn trọng. Vậy, với bản dự thảo cuối cùng mà EU đưa ra, liệu nút thắt trong đàm phán hạt nhân Iran có được tháo gỡ?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/08/17/vovlive_vandequocte_nutthattrongdamphanhatnhaniranlieucoduocthaogo.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 18 Aug 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Vì sao các nước Trung và Đông Âu quay lưng với khuôn khổ hợp tác của Trung Quốc?</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -38,22 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/08/17/vovlive_vandequocte_motnamtalibannamquyenkiemsoat.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 16 Aug 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chỉ số CPI tháng 7 dừng tăng – chỉ dấu hạ nhiệt lạm phát Mỹ?</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Trong sự hồi hộp chờ đợi của thị trường tài chính toàn cầu, Bộ Lao động Mỹ vừa công bố chỉ số giá tiêu dùng (CPI) trong tháng 7 không tăng so với tháng 6, thấp hơn dự báo trước đó với mức tăng khoảng 0,2%. Chỉ số giá CPI tại Mỹ được đặc biệt quan tâm như vậy bởi đây là dấu hiệu phản ánh hiệu quả của những biện pháp mạnh tay mà Cục Dự trữ Liên bang Mỹ thực hiện trong nhiều tháng để kiểm soát mức lạm phát cao kỷ lục. Với việc chỉ số CPI tháng 7 chững lại, điều dư luận quan tâm là liệu mức lạm phát tại Mỹ đã đạt đỉnh và Cục Dự trữ Liên bang Mỹ trong cuộc họp chính sách tháng tới sẽ quyết định việc tăng lãi suất ra sao.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/08/15/vovlive_vandequocte_chisocpithang7dungtang.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 13 Aug 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Hàn Quốc nỗ lực cải thiện quan hệ với Trung Quốc</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Ngoại trưởng Hàn Quốc Park Jin vừa có chuyến thăm 3 ngày tới Trung Quốc. Diễn ra trong bối cảnh quan ngại gia tăng về khả năng Triều Tiên thử hạt nhân, chuyến thăm tập trung vào các vấn đề đáng quan tâm hiện nay như chuỗi cung ứng, vấn đề Triều Tiên và an ninh khu vực. Ông Park Jin là quan chức cấp cao đầu tiên trong chính quyền của Tổng thống Yoon Suk-yeol thăm Trung Quốc. Chuyến thăm này diễn ra chỉ 2 tuần trước khi 2 nước kỷ niệm 30 năm thiết lập quan hệ ngoại giao vào ngày 24/8 tới.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/08/15/vovlive_vandequocte_hanquocnoluccaithienquanhevoitrungquoc.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 12 Aug 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
