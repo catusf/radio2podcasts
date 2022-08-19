@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 17 Aug 2022 15:57:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 18 Aug 2022 21:33:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 17 Aug 2022 15:57:00 +0700</pubDate>
+    <pubDate>Thu, 18 Aug 2022 21:33:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Làm sao để dẹp bỏ vấn nạn tin nhắn, cuộc gọi rác? - Sài Gòn Buổi Sáng 18/08/2022</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/lam-sao-de-dep-bo-van-nan-tin-nhan-cuoc-goi-rac-sai-gon-buoi-sang-18-08-2022-445309.html</link>
+      <description><![CDATA[14:33 - 18/08/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/lam-sao-de-dep-bo-van-nan-tin-nhan-cuoc-goi-rac-sai-gon-buoi-sang-18-08-2022-445309.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/08/18/FMSGBS06h00p180822-20220818070209.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 18 Aug 2022 21:33:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Kỳ 1: Tin nhắn, cuộc gọi rác lại ‘làm phiền’ người dân - Sài Gòn Buổi Sáng 17/8/2022</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/ky-1-tin-nhan-cuoc-goi-rac-lai-lam-phien-nguoi-dan-sai-gon-buoi-sang-17-8-2022-445148.html</link>
       <description><![CDATA[08:57 - 17/08/2022]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/ky-1-tin-nhan-cuoc-goi-rac-lai-lam-phien-nguoi-dan-sai-gon-buoi-sang-17-8-2022-445148.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/08/17/FMSGBS06h00p170822-20220817070153.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 17 Aug 2022 15:57:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Cơn mưa lớn và kéo dài chiều 15/8 khiến TPHCM bị ngập nặng - Sài Gòn buổi sáng 16/8/2022</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/con-mua-lon-va-keo-dai-chieu-15-8-khien-tphcm-bi-ngap-nang-sai-gon-buoi-sang-16-8-2022-445028.html</link>
-      <description><![CDATA[08:27 - 16/08/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/con-mua-lon-va-keo-dai-chieu-15-8-khien-tphcm-bi-ngap-nang-sai-gon-buoi-sang-16-8-2022-445028.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/08/16/FMSGBS06h00p160822-20220816070217.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 16 Aug 2022 15:27:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
