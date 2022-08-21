@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 20 Aug 2022 13:39:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 21 Aug 2022 13:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 20 Aug 2022 13:39:00 +0700</pubDate>
+    <pubDate>Sun, 21 Aug 2022 13:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Tạp chí cuối tuần - Sài Gòn buổi sáng 21/8/2022</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/tap-chi-cuoi-tuan-sai-gon-buoi-sang-21-8-2022-445598.html</link>
+      <description><![CDATA[06:00 - 21/08/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/tap-chi-cuoi-tuan-sai-gon-buoi-sang-21-8-2022-445598.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/08/21/sgbs-210822.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 21 Aug 2022 13:00:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Ranh giới mong manh trong thông điệp ở các sản phẩm nghệ thuật - Sài Gòn buổi sáng 20/8/2022</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/ranh-gioi-mong-manh-trong-thong-diep-o-cac-san-pham-nghe-thuat-sai-gon-buoi-sang-20-8-2022-445486.html</link>
       <description><![CDATA[06:39 - 20/08/2022]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/ranh-gioi-mong-manh-trong-thong-diep-o-cac-san-pham-nghe-thuat-sai-gon-buoi-sang-20-8-2022-445486.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/08/20/SGBS-200822-20220819223241.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 20 Aug 2022 13:39:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Hào khí Cách mạng Tháng Tám - Thời sự 11g00 19/8/2022</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/hao-khi-cach-mang-thang-tam-thoi-su-11g00-19-8-2022-445464.html</link>
-      <description><![CDATA[04:23 - 20/08/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/hao-khi-cach-mang-thang-tam-thoi-su-11g00-19-8-2022-445464.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/08/20/AMThoisu11h00p190822-20220819103816.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 20 Aug 2022 11:23:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

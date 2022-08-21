@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 14 Aug 2022 17:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 21 Aug 2022 17:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 14 Aug 2022 17:00:00 +0700</pubDate>
+    <pubDate>Sun, 21 Aug 2022 17:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Quà tặng âm nhạc trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Quatangamnhac.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Kỷ niệm mùa hè - Quà tặng âm nhạc 21/8/2022</title>
+      <link>https://radio.voh.com.vn/qua-tang-am-nhac/ky-niem-mua-he-qua-tang-am-nhac-21-8-2022-445601.html</link>
+      <description><![CDATA[10:00 - 21/08/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/ky-niem-mua-he-qua-tang-am-nhac-21-8-2022-445601.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/08/21/qtan-210822.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 21 Aug 2022 17:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Công cha nghĩa mẹ - Quà tặng âm nhạc 14/8/2022</title>
       <link>https://radio.voh.com.vn/qua-tang-am-nhac/cong-cha-nghia-me-qua-tang-am-nhac-14-8-2022-444833.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/nguoi-anh-chua-quen-qua-tang-am-nhac-24-7-2022-442595.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/07/24/qtan-240722.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 24 Jul 2022 17:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Người anh chưa quên - Quà tặng âm nhạc 17/7/2022</title>
-      <link>https://radio.voh.com.vn/qua-tang-am-nhac/nguoi-anh-chua-quen-qua-tang-am-nhac-17-7-2022-441759.html</link>
-      <description><![CDATA[10:00 - 17/07/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/nguoi-anh-chua-quen-qua-tang-am-nhac-17-7-2022-441759.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/07/17/qtan-170722.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 17 Jul 2022 17:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
