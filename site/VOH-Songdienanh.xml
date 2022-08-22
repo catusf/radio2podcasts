@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 15 Aug 2022 03:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 22 Aug 2022 03:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 15 Aug 2022 03:00:00 +0700</pubDate>
+    <pubDate>Mon, 22 Aug 2022 03:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sóng điện ảnh trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Songdienanh.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Khi Hollywood remake châu Á (Kỳ 2) - Khung hình thứ 25 21/8/2022</title>
+      <link>https://radio.voh.com.vn/khung-hinh-thu-25/khi-hollywood-remake-chau-a-ky-2-khung-hinh-thu-25-21-8-2022-445717.html</link>
+      <description><![CDATA[20:00 - 21/08/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/khung-hinh-thu-25/khi-hollywood-remake-chau-a-ky-2-khung-hinh-thu-25-21-8-2022-445717.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/08/22/kh-210822.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 22 Aug 2022 03:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Khi Hollywood remake châu Á (Kỳ 1) - Khung hình thứ 25 14/8/2022</title>
       <link>https://radio.voh.com.vn/khung-hinh-thu-25/khi-hollywood-remake-chau-a-ky-1-khung-hinh-thu-25-14-8-2022-444896.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/khung-hinh-thu-25/dien-vien-lam-chi-dinh-khung-hinh-thu-25-24-7-2022-442603.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/07/24/khunghinh-240722.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 25 Jul 2022 03:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Các cặp diễn viên Hàn kết hôn sau khi đóng phim chung (Kỳ cuối) - Khung hình thứ 25 17/7/2022</title>
-      <link>https://radio.voh.com.vn/khung-hinh-thu-25/cac-cap-dien-vien-han-ket-hon-sau-khi-dong-phim-chung-ky-cuoi-khung-hinh-thu-25-17-7-2022-441797.html</link>
-      <description><![CDATA[20:00 - 17/07/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/khung-hinh-thu-25/cac-cap-dien-vien-han-ket-hon-sau-khi-dong-phim-chung-ky-cuoi-khung-hinh-thu-25-17-7-2022-441797.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/07/17/khunghinh-170722.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 18 Jul 2022 03:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
