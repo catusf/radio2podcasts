@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 22 Aug 2022 17:59:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 23 Aug 2022 03:52:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 22 Aug 2022 17:59:00 +0700</pubDate>
+    <pubDate>Tue, 23 Aug 2022 03:52:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>TPHCM đề xuất tăng thêm biên chế mỗi xã phường - Thời sự 17g00 22/08/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-de-xuat-tang-them-bien-che-moi-xa-phuong-thoi-su-17g00-22-08-2022-445754.html</link>
+      <description><![CDATA[20:52 - 22/08/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-de-xuat-tang-them-bien-che-moi-xa-phuong-thoi-su-17g00-22-08-2022-445754.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/08/22/AM610-THOISU45P17h00p220822.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 23 Aug 2022 03:52:00 +0700</pubDate>
+    </item>
     <item>
       <title>TPHCM họp về phương án chiếu sáng cầu Thủ Thiêm 2 - Thời sự 11g00 22/08/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-hop-ve-phuong-an-chieu-sang-cau-thu-thiem-2-thoi-su-11g00-22-08-2022-445689.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/toa-dam-trien-khai-chuong-trinh-lop-10-nhung-dieu-can-luu-y-ky-2-thoi-su-5g30-22-08-2022-445686.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/08/22/AMThoisu05h30p22082022-20220821230804.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 22 Aug 2022 17:55:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>100 cặp đôi thanh niên công nhân sẽ làm lễ cưới tập thể vào ngày 2/9/2022 – Thời sự 17g00 21/8/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/100-cap-doi-thanh-nien-cong-nhan-se-lam-le-cuoi-tap-the-vao-ngay-2-9-2022-thoi-su-17g00-21-8-2022-445647.html</link>
-      <description><![CDATA[00:16 - 22/08/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/100-cap-doi-thanh-nien-cong-nhan-se-lam-le-cuoi-tap-the-vao-ngay-2-9-2022-thoi-su-17g00-21-8-2022-445647.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/08/22/AM610-THOISU45P17h00p210822.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 22 Aug 2022 07:16:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
