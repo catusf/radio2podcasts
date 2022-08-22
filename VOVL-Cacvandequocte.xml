@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 20 Aug 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 23 Aug 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 20 Aug 2022 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 23 Aug 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Đổi hạt nhân lấy viện trợ: Kịch bản xa vời?</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Bán đảo Triều Tiên những ngày qua tiếp tục tăng nhiệt với loạt diễn biến mới, từ vụ phóng thử 2 tên lửa hành trình của Triều Tiên ngay sau sự kiện đánh dấu 100 ngày đầu cầm quyền của Tổng thống Hàn Quốc Yoon Suk-yeol nhằm đáp trả cuộc tập trận chung thường niên Mỹ - Hàn; cho đến “gáo nước lạnh” mà Bình Nhưỡng dành cho đề nghị “đổi hạt nhân lấy viện trợ” của chính quyền Seoul. Dù người đứng đầu Chính phủ Hàn Quốc khẳng định, đây là kế hoạch táo bạo nhằm mục đích tái thiết nền kinh tế Triều Tiên trong trường hợp Bình Nhưỡng có các bước đi thực chất hướng tới phi hạt nhân hóa, nhưng phía Triều Tiên đã chỉ trích và thẳng thừng từ chối các cuộc đối thoại trực tiếp với Hàn Quốc khiến cho triển vọng cải thiện quan hệ liên Triều càng trở nên xa vời.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/08/22/vovlive_vandequocte_doihatnhanlayvientro.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 23 Aug 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Israel – Thổ Nhĩ Kỳ bình thường hóa quan hệ: Thông điệp hợp tác thay vì đối đầu</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/08/17/vovlive_vandequocte_nutthattrongdamphanhatnhaniranlieucoduocthaogo.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 18 Aug 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Vì sao các nước Trung và Đông Âu quay lưng với khuôn khổ hợp tác của Trung Quốc?</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Trong một động thái được cho là “đòn giáng mạnh” vào các nỗ lực ngoại giao của Trung Quốc tại Châu Âu, mới đây, hai nước Estonia và Latvia đã quyết định rút khỏi khuôn khổ hợp tác giữa Trung Quốc và các nước Trung - Đông Âu, vốn được gọi là cơ chế “16+1”. Như vậy cùng với Latvia, đến thời điểm này đã có 3 quốc gia rút khỏi khung hợp tác mà Bắc Kinh đặt rất nhiều kỳ vọng. Trong bối cảnh địa chính trị đang có nhiều diễn biến phức tạp như cuộc xung đột Ukraine, căng thẳng Mỹ - Trung liên quan vấn đề Đài Loan, liệu động thái ngoại giao mới nhất của các nước Châu Âu sẽ ảnh hưởng ra sao đến tham vọng kết nối với Châu Âu của Bắc Kinh?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/08/17/vovlive_vandequocte_visaocacnuoctrungvadongauquaylungvoikhuonkhohoptaccuatrungquoc.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 17 Aug 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
