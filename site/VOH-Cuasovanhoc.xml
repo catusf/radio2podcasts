@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 14 Aug 2022 21:09:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 22 Aug 2022 04:55:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 14 Aug 2022 21:09:00 +0700</pubDate>
+    <pubDate>Mon, 22 Aug 2022 04:55:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Cửa sổ văn học trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Cuasovanhoc.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Phỏng vấn tác giả Tống Phước Bảo - Cửa sổ văn học 21/8/2022</title>
+      <link>https://radio.voh.com.vn/cua-so-van-hoc/phong-van-tac-gia-tong-phuoc-bao-cua-so-van-hoc-21-8-2022-445570.html</link>
+      <description><![CDATA[21:55 - 21/08/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/phong-van-tac-gia-tong-phuoc-bao-cua-so-van-hoc-21-8-2022-445570.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/08/20/FMCuasovanhoc07h00p210822-20220820165731.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 22 Aug 2022 04:55:00 +0700</pubDate>
+    </item>
     <item>
       <title>Tác giả Mã Thiện đồng ra mắt truyện ký Người Tịnh Khê thời bom đạn - Cửa sổ văn học - 14/8/2022</title>
       <link>https://radio.voh.com.vn/cua-so-van-hoc/tac-gia-ma-thien-dong-ra-mat-truyen-ky-nguoi-tinh-khe-thoi-bom-dan-cua-so-van-hoc-14-8-2022-444855.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/du-dua-trong-the-gioi-tuoi-tho-cung-nguyen-hoang-dieu-thuy-cua-so-van-hoc-7-8-2022-444078.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/08/06/FMCuasovanhoc07h00p070822-20220806172646.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 08 Aug 2022 02:08:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Sơ kết cuộc vận động viết bút ký đề tài "Đền ơn đáp nghĩa" - Cửa sổ văn học - 24/7/2022</title>
-      <link>https://radio.voh.com.vn/cua-so-van-hoc/so-ket-cuoc-van-dong-viet-but-ky-de-tai-den-on-dap-nghia-cua-so-van-hoc-24-7-2022-442525.html</link>
-      <description><![CDATA[19:30 - 24/07/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/so-ket-cuoc-van-dong-viet-but-ky-de-tai-den-on-dap-nghia-cua-so-van-hoc-24-7-2022-442525.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/07/23/FMCuasovanhoc07h00p240722-20220723184103.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 25 Jul 2022 02:30:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
