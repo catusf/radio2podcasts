@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 23 Aug 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 24 Aug 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 23 Aug 2022 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 24 Aug 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Kỳ vọng gì ở chương trình "Thị thực vàng" của Thái Lan?</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Thái Lan đang chuẩn bị cho một chương trình thị thực mới có giá trị lên tới 10 năm nhằm thu hút thêm nhiều chuyên gia nước ngoài tới Thái Lan làm việc – còn gọi là chương trình “thị thực vàng”. Nhóm đối tượng mà Chính phủ Thái Lan hướng tới là những người nước ngoài giàu có, chủ yếu là những người làm việc trong lĩnh vực công nghệ và kỹ thuật số với kỳ vọng kế hoạch này sẽ mang lại khoảng 20 tỷ euro cho nền kinh tế đất nước trong thập kỷ tới. Dù vậy, việc thu hút những người làm việc trong lĩnh vực công nghệ và kỹ thuật số hiện cũng là vấn đề đang được nhiều quốc gia khác quan tâm. Vậy Thái Lan có thế mạnh gì để có thể đặt kỳ vọng lớn như vậy vào chương trình “thị thực Vàng”.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/08/24/vovlive_sukienvabanluan_ki_vong_gi_o_chuong_trinh_thuc_thi_vang.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 24 Aug 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Khủng hoảng lương thực nghiêm trọng tại Afganistan</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/08/18/vovlive_sukienvabanluan_kinh_nghiem_cac_nuoc_cai_tao_giong_chuyen_doi.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 18 Aug 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Gói hỗ trợ tiền thuê nhà cho người lao động - Quyết tâm giải ngân trong tháng 8/2022</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Từ ngày 01/4, gói 6 nghìn 600 tỷ đồng hỗ trợ tiền thuê nhà trọ cho công nhân từ ngân sách Nhà nước bắt đầu được triển khai. Dự kiến, sẽ có khoảng 3 triệu 400 nghìn người sẽ được thụ hưởng chính sách này. Thế nhưng, đến thời điểm này số lao động nhận được hỗ trợ là rất ít. Nguyên nhân vì sao và giải pháp nào để đẩy nhanh tiến độ giải ngân gói hỗ trợ tiền thuê nhà cho người lao động?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/08/16/vovlive_sukienvabanluan_goi_ho_tro_tien_thue_nha_cho_nguoi_lao_dong.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 17 Aug 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
