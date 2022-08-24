@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 21 Aug 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 24 Aug 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 21 Aug 2022 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 24 Aug 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Văn nghệ thiếu nhi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Vannghethieunhi.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Nhạc sỹ Giáng Sol và kỉ niệm với cây đàn piano 21/8/2022</title>
+      <title>Đọc truyện "Mùa đông huyền bí" - Buổi thứ nhất -  Ngôi nhà có mái vòm  24/8/2022</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-mua-dong-huyen-bi-buoi-thu-nhat-ngoi-nha-co-mai-vom-c44-34682.aspx</link>
+      <description><![CDATA[Bộ truyện “Gia đình Mumi” gồm 9 cuốn với các tên gọi khác nhau như: Gia đình Mumi ở biển, Mùa đông huyền bí, Chiếc mũ của phù thủy, Ngày hạ chí nguy hiểm, Tháng Mười một ở thung lũng Mumi…  Từ một nhân vật tưởng tượng, Mumi đã mang tính cách cùng suy nghĩ của nhiều bạn nhỏ thông minh, hiếu động, có nhiều điểm khác biệt đáng yêu. Chúng ta cùng theo dõi buổi đầu tiên của "Mùa đông huyền bí" nhé! (Văn nghệ thiếu nhi 14/08/2022)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-mua-dong-huyen-bi-buoi-thu-nhat-ngoi-nha-co-mai-vom-c44-34682.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2022_8/v2_1408_10h4518h15_van_nghe_thieu_nhi_da_sua_248202221.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 24 Aug 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Nhạc sỹ Giáng Sol và kỉ niệm với cây đàn piano  21/8/2022</title>
       <link>http://vov6.vov.vn/van-nghe-thieu-nhi/nhac-sy-giang-sol-va-ki-niem-voi-cay-dan-piano-c44-34675.aspx</link>
       <description><![CDATA[Nhạc sĩ Giáng Sol là tác giả của nhiều ca khúc nổi tiếng như: Giấc mơ trưa, Hà Nội 12 mùa hoa, Thu cạn, Cỏ và mưa… Thành công với dòng nhạc nhẹ và nhạc dân gian đương đại là thế những các bạn có biết rằng cô bé Giáng Sol ngày nào lại chẳng hề yêu thích cây đàn piano... (Văn nghệ thiếu nhi 17/08/2022)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/nhac-sy-giang-sol-va-ki-niem-voi-cay-dan-piano-c44-34675.aspx</guid>
@@ -37,14 +45,6 @@
       <description><![CDATA[Câu lạc bộ Trường Ca Kịch Viện tập hợp những người trẻ tuổi đời từ 17 đến 22 yêu thích văn hóa truyền thống, mong muốn đưa nghệ thuật biểu diễn đến gần hơn với khán giả trẻ ở trong nước và nước ngoài thông qua ứng dựng trên các nền tảng số. Hoạt động gần đây nhất của câu lạc bộ chính là triển lãm “Bắc nhịp tang bồng” với những hình ảnh độc đáo, ấn tượng... (Trang Văn học Nghệ thuật tuổi mới lớn 09/08/2022)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/trien-lam-bac-nhip-tang-bong-ton-vinh-nghe-thuat-truyen-thong-c44-34674.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2022_8/v2_0908_10h4518h15_van_nghe_thieu_nhi_1_218202221.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 21 Aug 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Tủ sách "Đời người" -  Những giá trị thuộc về tuổi trẻ   21/8/2022</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/tu-sach-doi-nguoi-nhung-gia-tri-thuoc-ve-tuoi-tre-c44-34673.aspx</link>
-      <description><![CDATA[Tủ sách “Đời người” do Công ty sách Omega Plus thực hiện, với các tập truyện như  Ngụ ngôn Aesop, Thơ ngụ ngôn La Fontaine, Truyện cổ dân gian Nga, Truyện cổ nước Nam...  độc giả trẻ được đắm mình vào các câu chuyện tưởng như đã xa xôi nhưng cũng là những tình huống đã và đang ra diễn hằng ngày quanh chúng ta... (Trang Văn học Nghệ thuật tuổi mới lớn 02/08/2022)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/tu-sach-doi-nguoi-nhung-gia-tri-thuoc-ve-tuoi-tre-c44-34673.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2022_8/v2_0208_10h4518h15_van_nghe_thieu_nhi_218202221.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 21 Aug 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
