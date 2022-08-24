@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 19 Aug 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 23 Aug 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 19 Aug 2022 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 23 Aug 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Khủng hoảng lương thực nghiêm trọng tại Afganistan</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[43% dân số Afganistan chỉ có một bữa ăn mỗi ngày, hơn 50% dân số phải sống phụ thuộc vào viện trợ nhân đạo, 90% số người được khảo sát cho biết mối quan tâm hàng đầu hiện nay là lương thực, hơn 70% số hộ gia đình không thể lo đủ các nhu cầu cơ bản - những con số này phản ánh rõ nét tình trạng nghèo đói, suy dinh dưỡng đang ngày càng nghiêm trọng tại quốc gia Nam Á này. Cuộc khủng hoảng lương thực trên phạm vi toàn cầu đang đặt ra thách thức cho nhiều quốc gia trên thế, nhất là các quốc gia thu nhập thấp và kém phát triển. Nhưng tại sao tình hình tại Afganistan lại nghiêm trọng hơn như vậy?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/08/23/vovlive_sukienvabanluan_khung_hoang_luong_thuc_nghiem_trong_o_-afganistan.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 23 Aug 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Khủng hoảng thiếu giáo viên đáp ứng chương trình giáo dục phổ thông mới</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/08/16/vovlive_sukienvabanluan_goi_ho_tro_tien_thue_nha_cho_nguoi_lao_dong.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 17 Aug 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Kinh nghiệm các nước trong việc kiểm soát và quản lý mạng xã hội</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Với sự phát triển nhanh chóng của công nghệ, mạng xã hội xuyên quốc gia như Facebook, Twitter, Youtube… đã tạo ra những cơ hội, khả năng tiếp xúc, giao lưu văn hóa, hiểu biết lẫn nhau giữa các dân tộc trên thế giới. Nhưng chưa bao giờ môi trường ảo lại có nhiều tác động tiêu cực như hiện nay. Tình trạng phát tán tin giả, tin sai sự thật, các nội dung phản cảm, thiếu tính giáo dục, kích động bạo lực trên Internet, mạng xã hội đang diễn biến rất phức tạp. Nhận thức rõ những nguy cơ mà mạng xã hội gây ra đối với an ninh quốc gia, nhiều nước trên thế giới đã triển khai các biện pháp nhằm kiểm soát tốt hơn những thông tin được phép đăng tải trên mạng xã hội và hạn chế tối đa sự lan tràn, phát tán những thông tin giả mạo và độc hại.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/08/16/vovlive_sukienvabanluan_kinh_nghiem_cac_nuoc_trong_viec_kiem_soat_va_quan_ly_mang_xa_hoi.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 16 Aug 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
