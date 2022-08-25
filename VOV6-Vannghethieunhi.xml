@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 24 Aug 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 25 Aug 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 24 Aug 2022 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 25 Aug 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,27 +24,27 @@
     <itunes:subtitle>Văn nghệ thiếu nhi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Vannghethieunhi.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Đọc truyện "Mùa đông huyền bí" - Buổi thứ tư - Đi về phía biển  24/8/2022</title>
+      <title>Lê Doãn Thái Bình - Chàng sinh viên gen Z theo đuổi nghệ thuật truyền thống  25/8/2022</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/le-doan-thai-binh-chang-sinh-vien-gen-z-theo-duoi-nghe-thuat-truyen-thong-c44-34691.aspx</link>
+      <description><![CDATA[Ngoài đam mê kịch nói, thì Lê Doãn Thái Bình còn dành toàn bộ tâm huyết và thời gian để tiếp cận với nghệ thuật hát chèo, hát xẩm và chầu văn. Thái Bình là thành viên tích cực của Dự án Chèo 48h. Bật mí là anh ấy có thể vào các vai nữ rất ngọt đấy nhé! (Trang Văn học nghệ thuật tuổi mới lớn 23/08/2022)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/le-doan-thai-binh-chang-sinh-vien-gen-z-theo-duoi-nghe-thuat-truyen-thong-c44-34691.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2022_8/v2_2308_10h4518h15_van_nghe_thieu_nhi_258202221.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 25 Aug 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Môn ngữ văn vừa chơi... vừa học  25/8/2022</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/mon-ngu-van-vua-choi-vua-hoc-c44-34690.aspx</link>
+      <description><![CDATA[Tham quan những di tích, thắng cảnh, thuyết minh bằng lời nói, viết lại bài văn thuyết minh theo cảm nhận riêng và có thể trình bày trước lớp về những điểm du lịch hoặc di tích lịch sử... Đó là những cách học khá thú vị, bổ ích và hiệu quả. Tiết học ngoại khóa như thế sẽ giúp chúng mình có thêm nhiều tri thức đời sống, học đi với hành nhuần nhuyễn hiệu quả. (Văn nghệ thiếu nhi 22/08/2022)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/mon-ngu-van-vua-choi-vua-hoc-c44-34690.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2022_8/v2_2208_10h4518h15_van_nghe_thieu_nhi_moi_258202220.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 25 Aug 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Đọc truyện "Mùa đông huyền bí" - Buổi thứ tư - Đi về phía biển   24/8/2022</title>
       <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-mua-dong-huyen-bi-buoi-thu-tu-di-ve-phia-bien-c44-34687.aspx</link>
       <description><![CDATA[Tutikki cùng Mumi đi về phía biển. Khi vào căn phòng nhỏ để thay đồ bơi thì Mumi chợt nhận ra đó chính là căn phòng gần biển của nhà Mumi vào mỗi dịp hè. Thế nhưng Tutikki nói rằng cậu ấy không quan tâm căn phòng này là của ai vào mùa hè , còn mùa đông, nơi đây chính là căn nhà của cậu ấy... (Văn nghệ thiếu nhi 21/08/2022)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-mua-dong-huyen-bi-buoi-thu-tu-di-ve-phia-bien-c44-34687.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2022_8/v2_2108_10h4518h15_van_nghe_thieu_nhi_248202221.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 24 Aug 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đọc truyện "Mùa đông huyền bí" - Buổi thứ ba - Hành phương nam   24/8/2022</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-mua-dong-huyen-bi-buoi-thu-ba-hanh-phuong-nam-c44-34686.aspx</link>
-      <description><![CDATA[Mumi lại tỉnh ngủ mất rồi. Chẳng lẽ lại ngồi một góc để chờ mùa đông dài đằng đẵng trôi qua hay sao? Mumi nảy ra một suy nghĩ táo bạo, đó là cậu sẽ chu du một chuyến về phương nam để tìm cậu bạn Muikunen... (Văn nghệ thiếu nhi 20/08/2022)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-mua-dong-huyen-bi-buoi-thu-ba-hanh-phuong-nam-c44-34686.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/v2_2008_10h4518h15_van_nghe_thieu_nhi_248202221.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 24 Aug 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đọc truyện "Mùa đông huyền bí" - Buổi thứ hai - Mumi thức giấc  24/8/2022</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-mua-dong-huyen-bi-buoi-thu-hai-mumi-thuc-giac-c44-34685.aspx</link>
-      <description><![CDATA[Trong lúc cả nhà Mumi đang say ngủ thì cậu bạn Mumi bỗng thức giấc và không thể ngủ lại được nữa. Mumi thấy mọi thứ xám xịt, tĩnh lặng đến đáng sợ. Mumi cố gắng đánh thức mẹ dậy nhưng vô ích... (Văn nghệ thiếu nhi 19/08/2022)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-mua-dong-huyen-bi-buoi-thu-hai-mumi-thuc-giac-c44-34685.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2022_8/v2_1908_10h4518h15_van_nghe_thieu_nhi_248202221.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 24 Aug 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
