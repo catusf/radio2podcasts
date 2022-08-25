@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 24 Aug 2022 13:28:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 25 Aug 2022 03:19:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 24 Aug 2022 13:28:00 +0700</pubDate>
+    <pubDate>Thu, 25 Aug 2022 03:19:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Du lịch đường sông TPHCM: điểm nhấn tạo nên sự khác biệt (Bài 1) - Thời sự 17g00 24/8/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/du-lich-duong-song-tphcm-diem-nhan-tao-nen-su-khac-biet-bai-1-thoi-su-17g00-24-8-2022-445968.html</link>
+      <description><![CDATA[20:19 - 24/08/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/du-lich-duong-song-tphcm-diem-nhan-tao-nen-su-khac-biet-bai-1-thoi-su-17g00-24-8-2022-445968.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/08/24/AMThoisu17h00p240822-20220824164647.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 25 Aug 2022 03:19:00 +0700</pubDate>
+    </item>
     <item>
       <title>Cần thiết ban hành dự án Luật Phòng thủ dân sự - Thời sự 5g30 24/8/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/can-thiet-ban-hanh-du-an-luat-phong-thu-dan-su-thoi-su-5g30-24-8-2022-445897.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/lang-nghe-lam-long-den-o-tphcm-dang-dan-mai-mot-thoi-su-17g00-23-8-2022-445883.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/08/24/AMThoisu17h00p230822-20220823164429.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 24 Aug 2022 00:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Bộ Giáo dục và Đào tạo mở lại hệ thống đăng ký xét tuyển - Thời sự 11g00 23/8/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/bo-giao-duc-va-dao-tao-mo-lai-he-thong-dang-ky-xet-tuyen-thoi-su-11g00-23-8-2022-445806.html</link>
-      <description><![CDATA[10:56 - 23/08/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/bo-giao-duc-va-dao-tao-mo-lai-he-thong-dang-ky-xet-tuyen-thoi-su-11g00-23-8-2022-445806.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/08/23/AMThoisu11h00p23082022-20220823103414-Copy.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 23 Aug 2022 17:56:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

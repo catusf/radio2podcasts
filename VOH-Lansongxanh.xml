@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 12 Aug 2022 20:48:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 19 Aug 2022 22:32:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 12 Aug 2022 20:48:00 +0700</pubDate>
+    <pubDate>Fri, 19 Aug 2022 22:32:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Làn sóng xanh trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Lansongxanh.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Làn Sóng Xanh (tuần 3 tháng 8) - 19/8/2022</title>
+      <link>https://radio.voh.com.vn/lan-song-xanh/lan-song-xanh-tuan-3-thang-8-19-8-2022-445388.html</link>
+      <description><![CDATA[15:32 - 19/08/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/lan-song-xanh/lan-song-xanh-tuan-3-thang-8-19-8-2022-445388.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/08/19/LSX-190822-QC-20220819091522.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 19 Aug 2022 22:32:00 +0700</pubDate>
+    </item>
     <item>
       <title>Làn Sóng Xanh (tuần 2 tháng 8) - 12/8/2022</title>
       <link>https://radio.voh.com.vn/lan-song-xanh/lan-song-xanh-tuan-2-thang-8-12-8-2022-444628.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/lan-song-xanh/lan-song-xanh-tuan-3-thang-7-22-7-2022-442365.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/07/22/LSX-220722-20220721210621.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 22 Jul 2022 17:16:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Làn Sóng Xanh (tuần 2 tháng 7) - 15/7/2022</title>
-      <link>https://radio.voh.com.vn/lan-song-xanh/lan-song-xanh-tuan-2-thang-7-15-7-2022-441592.html</link>
-      <description><![CDATA[13:51 - 15/07/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/lan-song-xanh/lan-song-xanh-tuan-2-thang-7-15-7-2022-441592.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/07/15/LSX-150722-QC-20220715072616.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 15 Jul 2022 20:51:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
