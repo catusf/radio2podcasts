@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 24 Aug 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 25 Aug 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 24 Aug 2022 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 25 Aug 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Điểm hẹn văn nghệ</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Diemhenvannghe.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Một ngày của A Biu 24/8/2022</title>
+      <title>"Chuồng cọp trên cao" - Câu chuyện làng quê thời hiện đại 25/8/2022</title>
+      <link>http://vov6.vov.vn/diem-hen-van-nghe/chuong-cop-tren-cao-cau-chuyen-lang-que-thoi-hien-dai-c158-34689.aspx</link>
+      <description><![CDATA[Tên tuổi của cô giáo xứ Đông – tác giả Nguyễn Thu Hằng đã trở nên quen thuộc với nhiều bạn đọc, nhất là với các thính giả yêu thích các chương trình Văn nghệ thiếu nhi của Ban Văn học Nghệ thuật (VOV6). Năm nay, chị lại tiếp tục ghi dấu ấn khi giành Giải Ba trong Cuộc thi Văn học tuổi 20 lần thứ 7 với tập truyện “Chuồng cọp trên cao” (do NXB Trẻ ấn hành). Là tác giả 7x duy nhất có mặt trong số 12 tác phẩm lọt vào vòng chung khảo của cuộc thi này, “Chuồng cọp trên cao” có gì khác biệt? Chúng ta cùng giải mã sức hút của tập truyện này qua một vài cảm nhận của BTV Nguyễn Hà.]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/chuong-cop-tren-cao-cau-chuyen-lang-que-thoi-hien-dai-c158-34689.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2022_8/gts_chuong_cop_tren_cao_hc_258202210.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 25 Aug 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Một ngày của A Biu  24/8/2022</title>
       <link>http://vov6.vov.vn/diem-hen-van-nghe/mot-ngay-cua-a-biu-c158-34679.aspx</link>
       <description><![CDATA[Đến làng Plei Klếch, xã Ngọc Bay, thành phố Kon Tum, tỉnh Kon Tum, hỏi nghệ nhân ưu tú A Biu ai cũng biết. Ông không chỉ giỏi đánh cồng chiêng, chỉnh chiêng, thuộc và kể rất nhiều bài sử thi, truyện cổ dân gian Ba Na… mà còn hát rất hay và chơi được nhiều loại nhạc cụ như ghita, organ, đàn tranh, đàn bầu. Nghệ nhân ưu tú A Biu có một tình yêu đặc biệt với văn hóa truyền thống của dân tộc Ba Na và mong muốn cháy bỏng bảo tồn, phát huy văn hóa dân tộc mình ngay trong cuộc sống đời thường. Để lan tỏa tình yêu ấy đến với mọi người, nghệ nhân A Biu đã xây dựng mô hình du lịch cộng đồng để du khách trong và ngoài nước có cơ hội trải nghiệm văn hóa Ba Na. Bút ký “Một ngày của A Biu” của nhà văn Phan Mai Hương phác họa đôi nét chân dung nghệ nhân ưu tú đa tài A Biu. Mời các bạn cùng nghe:]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/mot-ngay-cua-a-biu-c158-34679.aspx</guid>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/day-la-lac-thu-goc-nhin-khac-ve-phong-trao-me-too-c158-34671.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2022_8/gts_day_la_lac_thu_hc_188202214.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 18 Aug 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Trở lại Trường Sa  17/8/2022</title>
-      <link>http://vov6.vov.vn/diem-hen-van-nghe/tro-lai-truong-sa-c158-34664.aspx</link>
-      <description><![CDATA[Là nhà thơ mặc áo lính nên Nguyễn Hữu Quý có nhiều dịp ra Trường Sa. Lần nào ra với biển đảo, với những người lính cũng để lại trong anh những kỷ niệm khó quên, những cảm xúc mạnh mẽ, là chất liệu để nhà thơ viết nên những vần thơ, những bút ký tràn đầy xúc động. Mới đây, nhà thơ Nguyễn Hữu Quý lại ra với Trường Sa, như một cơ duyên để rồi từ đó bút ký “Trở lại Trường Sa” ra đời. Trường Sa nay đã thay đổi nhiều, từ cảnh quan môi trường đến các công trình và cuộc sống của bộ đội, nhân dân trên các đảo. Nhưng có một điều vẫn giữ vẹn nguyên không hề suy suyển, đó là tinh thần bảo vệ chủ quyền biển đảo của các chiến sỹ hải quân nhân dân Việt Nam. Tinh thần ấy thể hiện ở sự quyết tâm vượt qua khó khăn, sự hăng say luyện tập trên thao trường, sự cảnh giác sẵn sàng chiến đấu, sẵn sàng hy sinh và ở những công việc cụ thể như cứu giúp ngư dân, trồng cây, chăm sóc rau xanh, kè đá, tôn tạo đảo…]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/tro-lai-truong-sa-c158-34664.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2022_8/tro_lai_truong_sa_178202215.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 17 Aug 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
