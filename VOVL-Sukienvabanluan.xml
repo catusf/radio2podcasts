@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 24 Aug 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 25 Aug 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 24 Aug 2022 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 25 Aug 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Địa phương đầu tiên cấm xe xăng: Trung Quốc hiện thực hóa giấc mơ xe điện như thế nào?</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Theo sau các nước như Anh, Pháp, Trung Quốc đang tăng tốc trong tiến trình chuyển đổi sang xe điện. Tỉnh Hải Nam, miền Nam Trung Quốc đã trở thành địa phương đầu tiên ở nước này cấm xe chạy bằng xăng vào năm 2030, theo “Phương án thực hiện đạt đỉnh các-bon” vừa được chính quyền tỉnh này công bố ngày 22/8.... Tuy nhiên, quá trình này đòi hỏi sự chuyển đổi sâu rộng đối với ngành công nghiệp ô tô ở Trung Quốc. Bên cạnh đó, mục tiêu cấm xe xăng trong tương lai gần cũng nhiều chông gai ngay cả ở các thị trường đã phát triển. Trung Quốc đang hiện thực hóa mục tiêu này ra sao?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/08/25/vovlive_sukienvabanluan_dia_phuong_dau_tien_cam_xe_xang.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 25 Aug 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Kỳ vọng gì ở chương trình "Thị thực vàng" của Thái Lan?</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/08/19/vovlive_sukienvabanluan_khung-_hoang_thieu_giao_vien.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 19 Aug 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Kinh nghiệm các nước cải tạo giống, chuyển đổi cây trồng đảm bảo an ninh lương thực</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Trong bối cảnh nguồn cung lương thực toàn cầu đang khủng hoảng do lệnh cấm xuất khẩu ngũ cốc của các nước, cộng thêm tình trạng biến đổi khí hậu ngày càng nghiêm trọng, các nước đang thúc đẩy các chiến lược chuyển đổi để thích ứng; tích cực tìm tòi, phát triển các giống cây trồng mới cho phù hợp. Kinh nghiệm của các nước có gì đáng chú ý?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/08/18/vovlive_sukienvabanluan_kinh_nghiem_cac_nuoc_cai_tao_giong_chuyen_doi.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 18 Aug 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
