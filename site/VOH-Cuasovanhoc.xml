@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 22 Aug 2022 04:55:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 28 Aug 2022 17:02:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 22 Aug 2022 04:55:00 +0700</pubDate>
+    <pubDate>Sun, 28 Aug 2022 17:02:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Cửa sổ văn học trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Cuasovanhoc.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ấm áp buổi toạ đàm “Nhà văn - phẩm chất và tài năng” - Cửa sổ văn học - 28/8/2022</title>
+      <link>https://radio.voh.com.vn/cua-so-van-hoc/am-ap-buoi-toa-dam-nha-van-pham-chat-va-tai-nang-cua-so-van-hoc-28-8-2022-446401.html</link>
+      <description><![CDATA[10:02 - 28/08/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/am-ap-buoi-toa-dam-nha-van-pham-chat-va-tai-nang-cua-so-van-hoc-28-8-2022-446401.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/08/28/FMCuasovanhoc07h00p280822-20220827184430.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 28 Aug 2022 17:02:00 +0700</pubDate>
+    </item>
     <item>
       <title>Phỏng vấn tác giả Tống Phước Bảo - Cửa sổ văn học 21/8/2022</title>
       <link>https://radio.voh.com.vn/cua-so-van-hoc/phong-van-tac-gia-tong-phuoc-bao-cua-so-van-hoc-21-8-2022-445570.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/tac-gia-ma-thien-dong-ra-mat-truyen-ky-nguoi-tinh-khe-thoi-bom-dan-cua-so-van-hoc-14-8-2022-444855.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/08/14/FMCuasovanhoc07h00p140822-20220813183411.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 14 Aug 2022 21:09:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đu đưa trong thế giới tuổi thơ cùng Nguyễn Hoàng Diệu Thuỷ - Cửa sổ văn học - 7/8/2022</title>
-      <link>https://radio.voh.com.vn/cua-so-van-hoc/du-dua-trong-the-gioi-tuoi-tho-cung-nguyen-hoang-dieu-thuy-cua-so-van-hoc-7-8-2022-444078.html</link>
-      <description><![CDATA[19:08 - 07/08/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/du-dua-trong-the-gioi-tuoi-tho-cung-nguyen-hoang-dieu-thuy-cua-so-van-hoc-7-8-2022-444078.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/08/06/FMCuasovanhoc07h00p070822-20220806172646.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 08 Aug 2022 02:08:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
