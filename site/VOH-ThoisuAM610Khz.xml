@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 29 Aug 2022 18:39:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 30 Aug 2022 00:09:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 29 Aug 2022 18:39:00 +0700</pubDate>
+    <pubDate>Tue, 30 Aug 2022 00:09:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Đại hội đại biểu toàn quốc Hội Chữ thập đỏ Việt Nam lần thứ XI - Thời sự 17g00 29/8/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/dai-hoi-dai-bieu-toan-quoc-hoi-chu-thap-do-viet-nam-lan-thu-xi-thoi-su-17g00-29-8-2022-446566.html</link>
+      <description><![CDATA[17:09 - 29/08/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/dai-hoi-dai-bieu-toan-quoc-hoi-chu-thap-do-viet-nam-lan-thu-xi-thoi-su-17g00-29-8-2022-446566.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/08/29/AMThoisu17h00p290822-20220829164528.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 30 Aug 2022 00:09:00 +0700</pubDate>
+    </item>
     <item>
       <title>Không nhầm lẫn sốt xuất huyết với các bệnh khác - Thời sự 11g00 29/8/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/khong-nham-lan-sot-xuat-huyet-voi-cac-benh-khac-thoi-su-11g00-29-8-2022-446513.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/phat-trien-hop-tac-xa-co-co-che-nhung-con-nhieu-bat-cap-p3-thoi-su-5g30-29-8-2022-446475.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/08/29/AMThoisu05h30p29082022-20220828233637.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 29 Aug 2022 12:59:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Tạo xung lực cho khu Nam TPHCM – Thời sự 11g00 28/8/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tao-xung-luc-cho-khu-nam-tphcm-thoi-su-11g00-28-8-2022-446412.html</link>
-      <description><![CDATA[11:34 - 28/08/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tao-xung-luc-cho-khu-nam-tphcm-thoi-su-11g00-28-8-2022-446412.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/08/28/AMThoisu11h00p28082022-20220828104253.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 28 Aug 2022 18:34:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
