@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 21 Aug 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 28 Aug 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 21 Aug 2022 19:00:00 +0700</pubDate>
+    <pubDate>Sun, 28 Aug 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,15 @@
     </itunes:owner>
     <itunes:subtitle>Âm nhạc với cuộc sống</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Amnhacvoicuocsong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>“Việt Nam ơi ta bước tiếp”: Niềm tự hào về truyền thống lịch sử của dân tộc</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[- Kỷ niệm 77 năm Cách mạng Tháng Tám thành công và Quốc Khánh 2/9, thưởng thức ca khúc “Việt Nam ơi ta bước tiếp” (Sáng tác: Nhạc sĩ Kiên Ninh) và cùng nghe những chia sẻ của nhạc sĩ Kiên Ninh về bài hát cũng như thông điệp mà nhạc sỹ gửi gắm qua tác phẩm.
+- Kỷ niệm 111 năm ngày sinh Đại Tướng Võ Nguyên Giáp (25/8/1911-25/8/2022), thưởng thức ca khúc “Anh Văn của đồng đội” (Sáng tác: Nhạc sĩ Đào Hữu Thi) và lắng nghe những chia sẻ của nhạc sĩ về hoàn cảnh ra đời của ca khúc…]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/08/29/vovlive_am_nhac_voi_cuoc_song_viet_nam_oi_ta_buoc_tiep.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 28 Aug 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Điểm lại không gian âm nhạc Cách mạng tháng Tám cách đây 77 năm qua một số ca khúc tiêu biểu</title>
       <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
@@ -48,14 +57,6 @@
       <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/08/08/vovlive_am_nhac_voi_cuoc_song_vinh_quang_tham_lang.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 07 Aug 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Những ca khúc nhắc nhớ về Sự kiện Vịnh Bắc Bộ</title>
-      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[Cách đây 58 năm (năm 1964), với động cơ phát động chiến tranh chống phá miền Bắc, Đế quốc Mỹ đã tạo ra cái gọi là Sự kiện Vịnh Bắc Bộ mở màn cuộc chiến tranh phá hoại 9 năm bằng không quân và hải quân quy mô lớn đối với miền Bắc Việt Nam. Những ngày tháng sục sôi đó, các văn nghệ sĩ đã ra trận bằng các sáng tác của mình: Không cho chúng nó thoát (Nhạc sĩ Hoàng Vân), Gửi anh chiến sĩ thông tin trên đảo (Nhạc sĩ Hồ Bắc), Nhanh tay lưới chắc tay súng (NSƯT Trần Thụ), Bám biển quê hương (Nhạc sĩ Phạm Tuyên), Bay lên không quân hải quân (Nhạc sĩ Trần Ngọc Lâm),…Những ca khúc ra đời như là lời tuyên ngôn trước kẻ thù xâm lược không chỉ là lời khẳng định của các văn nghệ sỹ, đó còn là lời khẳng định của toàn dân Việt Nam trước bất cứ kẻ thù nào xâm lược nước ta…]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/08/01/vovlive_am_nhac_voi_cuoc_song_su_kien_vinh_bac_bo.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 31 Jul 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
