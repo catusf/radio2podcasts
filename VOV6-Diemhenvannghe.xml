@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 29 Aug 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 31 Aug 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 29 Aug 2022 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 31 Aug 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Điểm hẹn văn nghệ</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Diemhenvannghe.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Tùy bút "Đi dưới bóng cây" 29/8/2022</title>
+      <title>Sự bất trắc của đời sống đô thị trong "Ở trọ phố phường" 31/8/2022</title>
+      <link>http://vov6.vov.vn/diem-hen-van-nghe/su-bat-trac-cua-doi-song-do-thi-trong-o-tro-pho-phuong-c158-34703.aspx</link>
+      <description><![CDATA[Trong 10 năm qua, tác giả Anh Thư, biên tập viên Ban Văn học Nghệ thuật (VOV6), Đài Tiếng nói Việt Nam, đã xuất bản 4 tác phẩm: “Thư không gửi cho ba”, “Café và quán vắng”, “Giấc mơ trung thu”, và mới nhất là tập truyện ngắn “Ở trọ phố phường” (do NXB Văn học ấn hành). Hai mươi truyện ngắn là những lát cắt đời sống, phô bày những trạng thái bấp bênh và bất an của những thân phận từ nông thông đến sinh sống và làm việc tại thành phố. Để hiểu thêm về tác phẩm này, BTV chương trình đã có cuộc trò chuyện với nhà văn Thiên Sơn, người đã luôn dành sự quan tâm tới các sáng tác của tác giả Anh Thư.]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/su-bat-trac-cua-doi-song-do-thi-trong-o-tro-pho-phuong-c158-34703.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2022_8/gts_o_tro_pho_phuong_hc_318202210.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 31 Aug 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Tùy bút "Đi dưới bóng cây"  29/8/2022</title>
       <link>http://vov6.vov.vn/diem-hen-van-nghe/tuy-but-di-duoi-bong-cay-c158-34701.aspx</link>
       <description><![CDATA[Thường ngày mồng 1, ngày rằm hằng tháng và dịp lễ tết chúng ta thường đi lễ chùa để cầu an. Vậy nhưng, ngoài những ngày này, người dân ở làng làng Phú La, xã Đô Lương, tỉnh Thái Bình còn lên chùa vào dịp Ngày lễ Độc lập hay một số dịp trọng thể trong năm để thắp hương tưởng niệm các thế hệ tiền nhân, các anh hùng liệt sỹ là người làng đã hy sinh vì đất nước. Đặc biệt dịp 27/7, người dân làng Phú La dù ở xa hay gần cũng đều về làng lên chùa để làm lễ dâng hương, thắp nến tri ân các anh hùng liệt sỹ đã ngã xuống trong các cuộc kháng chiến bảo vệ Tổ quốc. Tùy bút “Đi dưới bóng cây” của nhà thơ Nguyễn Thành Phong gợi nhiều suy tư, ngẫm ngợi về đạo và đời, về lẽ sống và sự cống hiến. Đi dưới bóng cây chùa làng trong những ngày lễ trọng của đất nước, để thấm thía hơn về đạo nghĩa và công tích của nhiều đời người đi trước, để tỏ hơn việc tu thân rèn chí, để mong ước mình lập được một chút công tích nhỏ nhoi nào đó cho khỏi thẹn với tiền nhân]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/tuy-but-di-duoi-bong-cay-c158-34701.aspx</guid>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/chuong-cop-tren-cao-cau-chuyen-lang-que-thoi-hien-dai-c158-34689.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2022_8/gts_chuong_cop_tren_cao_hc_258202210.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 25 Aug 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Một ngày của A Biu  24/8/2022</title>
-      <link>http://vov6.vov.vn/diem-hen-van-nghe/mot-ngay-cua-a-biu-c158-34679.aspx</link>
-      <description><![CDATA[Đến làng Plei Klếch, xã Ngọc Bay, thành phố Kon Tum, tỉnh Kon Tum, hỏi nghệ nhân ưu tú A Biu ai cũng biết. Ông không chỉ giỏi đánh cồng chiêng, chỉnh chiêng, thuộc và kể rất nhiều bài sử thi, truyện cổ dân gian Ba Na… mà còn hát rất hay và chơi được nhiều loại nhạc cụ như ghita, organ, đàn tranh, đàn bầu. Nghệ nhân ưu tú A Biu có một tình yêu đặc biệt với văn hóa truyền thống của dân tộc Ba Na và mong muốn cháy bỏng bảo tồn, phát huy văn hóa dân tộc mình ngay trong cuộc sống đời thường. Để lan tỏa tình yêu ấy đến với mọi người, nghệ nhân A Biu đã xây dựng mô hình du lịch cộng đồng để du khách trong và ngoài nước có cơ hội trải nghiệm văn hóa Ba Na. Bút ký “Một ngày của A Biu” của nhà văn Phan Mai Hương phác họa đôi nét chân dung nghệ nhân ưu tú đa tài A Biu. Mời các bạn cùng nghe:]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/mot-ngay-cua-a-biu-c158-34679.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2022_8/mot_ngay_cua_a_biu_248202213.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 24 Aug 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
