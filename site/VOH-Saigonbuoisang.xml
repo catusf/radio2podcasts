@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 30 Aug 2022 21:30:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 31 Aug 2022 13:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 30 Aug 2022 21:30:00 +0700</pubDate>
+    <pubDate>Wed, 31 Aug 2022 13:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Ấm lòng những hoạt động tiếp sức cho học sinh trở lại trường - Sài Gòn buổi sáng 31/8/2022</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/am-long-nhung-hoat-dong-tiep-suc-cho-hoc-sinh-tro-lai-truong-sai-gon-buoi-sang-31-8-2022-446821.html</link>
+      <description><![CDATA[06:00 - 31/08/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/am-long-nhung-hoat-dong-tiep-suc-cho-hoc-sinh-tro-lai-truong-sai-gon-buoi-sang-31-8-2022-446821.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/08/31/FMSGBS06h00p310822-20220831070256.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 31 Aug 2022 13:00:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Đảm bảo nguồn cung xăng dầu, quyết định tới bình ổn thị trường - Sài Gòn buổi sáng 30/08/2022</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/dam-bao-nguon-cung-xang-dau-quyet-dinh-toi-binh-on-thi-truong-sai-gon-buoi-sang-30-08-2022-446667.html</link>
       <description><![CDATA[14:30 - 30/08/2022]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/dam-bao-nguon-cung-xang-dau-quyet-dinh-toi-binh-on-thi-truong-sai-gon-buoi-sang-30-08-2022-446667.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/08/30/FM999-SGBUOISANG06h00p3008221.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 30 Aug 2022 21:30:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Kỷ niệm ngày Quốc khánh, nghe câu chuyện Yêu nước - Sài Gòn buổi sáng 29/8/2022</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/ky-niem-ngay-quoc-khanh-nghe-cau-chuyen-yeu-nuoc-sai-gon-buoi-sang-29-8-2022-446490.html</link>
-      <description><![CDATA[08:52 - 29/08/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/ky-niem-ngay-quoc-khanh-nghe-cau-chuyen-yeu-nuoc-sai-gon-buoi-sang-29-8-2022-446490.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/08/29/FMSGBS06h00p290822-20220829080418.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 29 Aug 2022 15:52:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
