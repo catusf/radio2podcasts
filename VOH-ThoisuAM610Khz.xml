@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 31 Aug 2022 03:07:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 01 Sep 2022 01:01:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 31 Aug 2022 03:07:00 +0700</pubDate>
+    <pubDate>Thu, 01 Sep 2022 01:01:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,28 +24,28 @@
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Tăng cường phương tiện, tăng chuyến phục vụ hành khách lễ Quốc khánh - Thời sự 11g00 31/8/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tang-cuong-phuong-tien-tang-chuyen-phuc-vu-hanh-khach-le-quoc-khanh-thoi-su-11g00-31-8-2022-446823.html</link>
+      <description><![CDATA[18:01 - 31/08/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tang-cuong-phuong-tien-tang-chuyen-phuc-vu-hanh-khach-le-quoc-khanh-thoi-su-11g00-31-8-2022-446823.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/08/31/AMThoisu11h00p310822-20220831102921.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 01 Sep 2022 01:01:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>TPHCM tăng trưởng nhanh, phục hồi tốt nhiều mặt - Thời sự 5g30 31/8/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-tang-truong-nhanh-phuc-hoi-tot-nhieu-mat-thoi-su-5g30-31-8-2022-446822.html</link>
+      <description><![CDATA[05:30 - 31/08/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-tang-truong-nhanh-phuc-hoi-tot-nhieu-mat-thoi-su-5g30-31-8-2022-446822.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/08/31/AMThoisu05h30p31082022-20220830231828.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 31 Aug 2022 12:30:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Sốt xuất huyết tăng gấp gần 6 lần so với cùng kỳ - Thời sự 17g00 30/08/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/sot-xuat-huyet-tang-gap-gan-6-lan-so-voi-cung-ky-thoi-su-17g00-30-08-2022-446716.html</link>
       <description><![CDATA[20:07 - 30/08/2022]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/sot-xuat-huyet-tang-gap-gan-6-lan-so-voi-cung-ky-thoi-su-17g00-30-08-2022-446716.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/08/30/AMThoisu17h00p300822-20220830164919.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 31 Aug 2022 03:07:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Cấm xe khách vào trung tâm thành phố - Nên hay không? - Thời sự 11g00 30/08/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/cam-xe-khach-vao-trung-tam-thanh-pho-nen-hay-khong-thoi-su-11g00-30-08-2022-446679.html</link>
-      <description><![CDATA[15:29 - 30/08/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/cam-xe-khach-vao-trung-tam-thanh-pho-nen-hay-khong-thoi-su-11g00-30-08-2022-446679.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/08/30/AM610-THOISU30P11h00p300822.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 30 Aug 2022 22:29:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Triển khai Trang thông tin đất đai thành phố Thủ Đức - Thời sự 5g30 30/08/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/trien-khai-trang-thong-tin-dat-dai-thanh-pho-thu-duc-thoi-su-5g30-30-08-2022-446666.html</link>
-      <description><![CDATA[06:00 - 30/08/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/trien-khai-trang-thong-tin-dat-dai-thanh-pho-thu-duc-thoi-su-5g30-30-08-2022-446666.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/08/30/AMThoisu05h30p30082022A-20220829234146.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 30 Aug 2022 13:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
