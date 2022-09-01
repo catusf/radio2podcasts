@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 01 Sep 2022 01:10:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 01 Sep 2022 14:25:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 01 Sep 2022 01:10:00 +0700</pubDate>
+    <pubDate>Thu, 01 Sep 2022 14:25:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Du lịch nội đô TPHCM: Nhiều điều mới lạ trong kỳ nghỉ lễ 2/9 - Thời sự 5g30 1/9/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/du-lich-noi-do-tphcm-nhieu-dieu-moi-la-trong-ky-nghi-le-2-9-thoi-su-5g30-1-9-2022-446884.html</link>
+      <description><![CDATA[07:25 - 01/09/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/du-lich-noi-do-tphcm-nhieu-dieu-moi-la-trong-ky-nghi-le-2-9-thoi-su-5g30-1-9-2022-446884.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/09/01/AMThoisu05h30p01092022-20220831233719.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 01 Sep 2022 14:25:00 +0700</pubDate>
+    </item>
     <item>
       <title>35% số ca bệnh Covid-19 nặng và tử vong do chưa tiêm vắc xin - Thời sự 17g00 31/8/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/35-so-ca-benh-covid-19-nang-va-tu-vong-do-chua-tiem-vac-xin-thoi-su-17g00-31-8-2022-446828.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tang-cuong-phuong-tien-tang-chuyen-phuc-vu-hanh-khach-le-quoc-khanh-thoi-su-11g00-31-8-2022-446823.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/08/31/AMThoisu11h00p310822-20220831102921.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 01 Sep 2022 01:01:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>TPHCM tăng trưởng nhanh, phục hồi tốt nhiều mặt - Thời sự 5g30 31/8/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-tang-truong-nhanh-phuc-hoi-tot-nhieu-mat-thoi-su-5g30-31-8-2022-446822.html</link>
-      <description><![CDATA[05:30 - 31/08/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-tang-truong-nhanh-phuc-hoi-tot-nhieu-mat-thoi-su-5g30-31-8-2022-446822.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/08/31/AMThoisu05h30p31082022-20220830231828.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 31 Aug 2022 12:30:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
