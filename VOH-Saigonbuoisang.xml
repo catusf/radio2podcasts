@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 01 Sep 2022 14:50:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 02 Sep 2022 19:40:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 01 Sep 2022 14:50:00 +0700</pubDate>
+    <pubDate>Fri, 02 Sep 2022 19:40:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Kỉ niệm 77 năm ngày Quốc Khánh 2/9 - Sài Gòn buổi sáng 2/9/2022</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/ki-niem-77-nam-ngay-quoc-khanh-2-9-sai-gon-buoi-sang-2-9-2022-446983.html</link>
+      <description><![CDATA[12:40 - 02/09/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/ki-niem-77-nam-ngay-quoc-khanh-2-9-sai-gon-buoi-sang-2-9-2022-446983.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/09/02/SGBS-020922-20220901225334.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 02 Sep 2022 19:40:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Sài Gòn buổi sáng 1/9/2022</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-1-9-2022-446888.html</link>
       <description><![CDATA[07:50 - 01/09/2022]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-1-9-2022-446888.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/09/01/sgbs-010922-20220901004055.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 01 Sep 2022 14:50:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Ấm lòng những hoạt động tiếp sức cho học sinh trở lại trường - Sài Gòn buổi sáng 31/8/2022</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/am-long-nhung-hoat-dong-tiep-suc-cho-hoc-sinh-tro-lai-truong-sai-gon-buoi-sang-31-8-2022-446821.html</link>
-      <description><![CDATA[06:00 - 31/08/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/am-long-nhung-hoat-dong-tiep-suc-cho-hoc-sinh-tro-lai-truong-sai-gon-buoi-sang-31-8-2022-446821.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/08/31/FMSGBS06h00p310822-20220831070256.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 31 Aug 2022 13:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
