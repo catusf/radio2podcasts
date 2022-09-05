@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 29 Aug 2022 03:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 05 Sep 2022 03:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 29 Aug 2022 03:00:00 +0700</pubDate>
+    <pubDate>Mon, 05 Sep 2022 03:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sóng điện ảnh trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Songdienanh.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Khi Hollywood remake phim châu Á (Kỳ cuối) - Khung hình thứ 25 4/9/2022</title>
+      <link>https://radio.voh.com.vn/khung-hinh-thu-25/khi-hollywood-remake-phim-chau-a-ky-cuoi-khung-hinh-thu-25-4-9-2022-447146.html</link>
+      <description><![CDATA[20:00 - 04/09/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/khung-hinh-thu-25/khi-hollywood-remake-phim-chau-a-ky-cuoi-khung-hinh-thu-25-4-9-2022-447146.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/09/04/khunghinh-040922.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 05 Sep 2022 03:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Khi Hollywood remake châu Á (Kỳ 3) - Khung hình thứ 25 28/8/2022</title>
       <link>https://radio.voh.com.vn/khung-hinh-thu-25/khi-hollywood-remake-chau-a-ky-3-khung-hinh-thu-25-28-8-2022-446445.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/khung-hinh-thu-25/hau-truong-phim-dan-choi-khong-so-con-roi-ky-2-khung-hinh-thu-25-7-8-2022-444158.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/08/07/KHUNGHINH-070822.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 08 Aug 2022 03:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Hậu trường phim Dân chơi không sợ con rơi (Kỳ 1) - Khung hình thứ 25 31/7/2022</title>
-      <link>https://radio.voh.com.vn/khung-hinh-thu-25/hau-truong-phim-dan-choi-khong-so-con-roi-ky-1-khung-hinh-thu-25-31-7-2022-443472.html</link>
-      <description><![CDATA[20:00 - 31/07/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/khung-hinh-thu-25/hau-truong-phim-dan-choi-khong-so-con-roi-ky-1-khung-hinh-thu-25-31-7-2022-443472.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/08/01/jgunghinh-310722.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 01 Aug 2022 03:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
