@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 04 Sep 2022 16:39:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 05 Sep 2022 14:23:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 04 Sep 2022 16:39:00 +0700</pubDate>
+    <pubDate>Mon, 05 Sep 2022 14:23:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Cảm xúc ngày khai giảng - Sài Gòn buổi sáng 5/9/2022</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/cam-xuc-ngay-khai-giang-sai-gon-buoi-sang-5-9-2022-447182.html</link>
+      <description><![CDATA[07:23 - 05/09/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/cam-xuc-ngay-khai-giang-sai-gon-buoi-sang-5-9-2022-447182.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/09/05/FMSGBS06h00p050922-20220905070158.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 05 Sep 2022 14:23:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Cuộc thi: "Tài năng diễn viên sân khấu cải lương Trần Hữu Trang 2022" - Sài Gòn buổi sáng 4/9/2022</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/cuoc-thi-tai-nang-dien-vien-san-khau-cai-luong-tran-huu-trang-2022-sai-gon-buoi-sang-4-9-2022-447124.html</link>
       <description><![CDATA[09:39 - 04/09/2022]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/cuoc-thi-tai-nang-dien-vien-san-khau-cai-luong-tran-huu-trang-2022-sai-gon-buoi-sang-4-9-2022-447124.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/09/04/SGBSTCCT-04092022-hoan-chinh-20220903173521.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 04 Sep 2022 16:39:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Nhiều hoạt động hưởng ứng Ngày Âm nhạc Việt Nam năm 2022 - Sài Gòn buổi sáng 3/9/2022</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/nhieu-hoat-dong-huong-ung-ngay-am-nhac-viet-nam-nam-2022-sai-gon-buoi-sang-3-9-2022-447029.html</link>
-      <description><![CDATA[06:00 - 03/09/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/nhieu-hoat-dong-huong-ung-ngay-am-nhac-viet-nam-nam-2022-sai-gon-buoi-sang-3-9-2022-447029.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/09/03/sgbs-030922.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 03 Sep 2022 13:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
