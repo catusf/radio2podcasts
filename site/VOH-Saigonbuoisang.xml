@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 06 Sep 2022 21:26:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 07 Sep 2022 17:46:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 06 Sep 2022 21:26:00 +0700</pubDate>
+    <pubDate>Wed, 07 Sep 2022 17:46:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Việt Nam được dự báo là 1 trong những nước tăng trưởng cao nhất khu vực - Sài Gòn buổi sáng 07/09/20</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/viet-nam-duoc-du-bao-la-1-trong-nhung-nuoc-tang-truong-cao-nhat-khu-vuc-sai-gon-buoi-sang-07-09-20-447463.html</link>
+      <description><![CDATA[10:46 - 07/09/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/viet-nam-duoc-du-bao-la-1-trong-nhung-nuoc-tang-truong-cao-nhat-khu-vuc-sai-gon-buoi-sang-07-09-20-447463.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/09/07/FM999-SGBUOISANG06h00p070922.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 07 Sep 2022 17:46:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Cần giải “cơn khát” vốn cho Doanh nghiệp du lịch - Sài Gòn buổi sáng 6/9/2022</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/can-giai-con-khat-von-cho-doanh-nghiep-du-lich-sai-gon-buoi-sang-6-9-2022-447370.html</link>
       <description><![CDATA[14:26 - 06/09/2022]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/can-giai-con-khat-von-cho-doanh-nghiep-du-lich-sai-gon-buoi-sang-6-9-2022-447370.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/09/06/FMSGBS06h00p060922-20220906140117.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 06 Sep 2022 21:26:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Cảm xúc ngày khai giảng - Sài Gòn buổi sáng 5/9/2022</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/cam-xuc-ngay-khai-giang-sai-gon-buoi-sang-5-9-2022-447182.html</link>
-      <description><![CDATA[07:23 - 05/09/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/cam-xuc-ngay-khai-giang-sai-gon-buoi-sang-5-9-2022-447182.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/09/05/FMSGBS06h00p050922-20220905070158.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 05 Sep 2022 14:23:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
