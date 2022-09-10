@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 04 Sep 2022 00:04:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 09 Sep 2022 21:44:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 04 Sep 2022 00:04:00 +0700</pubDate>
+    <pubDate>Fri, 09 Sep 2022 21:44:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Làn sóng xanh trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Lansongxanh.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Làn Sóng Xanh (tuần 1 tháng 9) - 9/9/2022</title>
+      <link>https://radio.voh.com.vn/lan-song-xanh/lan-song-xanh-tuan-1-thang-9-9-9-2022-447689.html</link>
+      <description><![CDATA[14:44 - 09/09/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/lan-song-xanh/lan-song-xanh-tuan-1-thang-9-9-9-2022-447689.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/09/09/LSX-090922-QC-20220908203942.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 09 Sep 2022 21:44:00 +0700</pubDate>
+    </item>
     <item>
       <title>Làn Sóng Xanh (tuần 5 tháng 8) - 2/9/2022</title>
       <link>https://radio.voh.com.vn/lan-song-xanh/lan-song-xanh-tuan-5-thang-8-2-9-2022-447062.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/lan-song-xanh/lan-song-xanh-tuan-2-thang-8-12-8-2022-444628.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/08/12/LSX-120822-QC-20220811203837.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 12 Aug 2022 20:48:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Làn Sóng Xanh (tuần 1 tháng 8) - 5/8/2022</title>
-      <link>https://radio.voh.com.vn/lan-song-xanh/lan-song-xanh-tuan-1-thang-8-5-8-2022-443897.html</link>
-      <description><![CDATA[13:43 - 05/08/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/lan-song-xanh/lan-song-xanh-tuan-1-thang-8-5-8-2022-443897.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/08/05/LSX-050822-QC-20220805090057.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 05 Aug 2022 20:43:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
