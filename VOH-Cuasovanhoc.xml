@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 05 Sep 2022 04:03:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 11 Sep 2022 22:44:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 05 Sep 2022 04:03:00 +0700</pubDate>
+    <pubDate>Sun, 11 Sep 2022 22:44:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Cửa sổ văn học trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Cuasovanhoc.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Nhà văn Kim Quyên và hành trình văn chương - Cửa sổ văn học 11/9/2022</title>
+      <link>https://radio.voh.com.vn/cua-so-van-hoc/nha-van-kim-quyen-va-hanh-trinh-van-chuong-cua-so-van-hoc-11-9-2022-447924.html</link>
+      <description><![CDATA[15:44 - 11/09/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/nha-van-kim-quyen-va-hanh-trinh-van-chuong-cua-so-van-hoc-11-9-2022-447924.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/09/11/FMCuasovanhoc07h00p110922-20220910182116.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 11 Sep 2022 22:44:00 +0700</pubDate>
+    </item>
     <item>
       <title>Buổi giao lưu giới thiệu tập tản văn Mùi hương - Cửa sổ văn học 4/9/2022</title>
       <link>https://radio.voh.com.vn/cua-so-van-hoc/buoi-giao-luu-gioi-thieu-tap-tan-van-mui-huong-cua-so-van-hoc-4-9-2022-447154.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/am-ap-buoi-toa-dam-nha-van-pham-chat-va-tai-nang-cua-so-van-hoc-28-8-2022-446401.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/08/28/FMCuasovanhoc07h00p280822-20220827184430.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 28 Aug 2022 17:02:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Phỏng vấn tác giả Tống Phước Bảo - Cửa sổ văn học 21/8/2022</title>
-      <link>https://radio.voh.com.vn/cua-so-van-hoc/phong-van-tac-gia-tong-phuoc-bao-cua-so-van-hoc-21-8-2022-445570.html</link>
-      <description><![CDATA[21:55 - 21/08/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/phong-van-tac-gia-tong-phuoc-bao-cua-so-van-hoc-21-8-2022-445570.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/08/20/FMCuasovanhoc07h00p210822-20220820165731.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 22 Aug 2022 04:55:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
