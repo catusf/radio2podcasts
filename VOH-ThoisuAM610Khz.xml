@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 11 Sep 2022 03:17:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 11 Sep 2022 12:30:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 11 Sep 2022 03:17:00 +0700</pubDate>
+    <pubDate>Sun, 11 Sep 2022 12:30:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>BHXH tự nguyện trao tay: Thêm sáng tương lai người lao động - Thời sự 05g30 11/9/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/bhxh-tu-nguyen-trao-tay-them-sang-tuong-lai-nguoi-lao-dong-thoi-su-05g30-11-9-2022-447892.html</link>
+      <description><![CDATA[05:30 - 11/09/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/bhxh-tu-nguyen-trao-tay-them-sang-tuong-lai-nguoi-lao-dong-thoi-su-05g30-11-9-2022-447892.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/09/11/ts05g30-110922.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 11 Sep 2022 12:30:00 +0700</pubDate>
+    </item>
     <item>
       <title>Hơn 1.000 trẻ em ở xóm trọ công nhân được vui Trung thu - Thời sự 17g00 10/9/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/hon-1-000-tre-em-o-xom-tro-cong-nhan-duoc-vui-trung-thu-thoi-su-17g00-10-9-2022-447857.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/doanh-nghiep-van-tai-tang-gia-bat-hop-ly-se-bi-xu-ly-nghiem-thoi-su-11g00-10-9-2022-447838.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/09/10/AMThoisu11h00p10092022-20220910104446.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 10 Sep 2022 21:37:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Trung thu ấm áp của trẻ em mồ côi, cơ nhỡ – Thời sự 5g30 10/9/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/trung-thu-am-ap-cua-tre-em-mo-coi-co-nho-thoi-su-5g30-10-9-2022-447812.html</link>
-      <description><![CDATA[08:48 - 10/09/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/trung-thu-am-ap-cua-tre-em-mo-coi-co-nho-thoi-su-5g30-10-9-2022-447812.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/09/10/AMThoisu05h30p10092022-20220909230358.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 10 Sep 2022 15:48:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
