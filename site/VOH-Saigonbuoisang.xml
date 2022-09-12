@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 10 Sep 2022 16:11:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 12 Sep 2022 13:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 10 Sep 2022 16:11:00 +0700</pubDate>
+    <pubDate>Mon, 12 Sep 2022 13:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Thực trạng của hoạt động nghệ thuật múa tại TPHCM hiện nay ra sao? - Sài Gòn buổi sáng 10/9/2022</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/thuc-trang-cua-hoat-dong-nghe-thuat-mua-tai-tphcm-hien-nay-ra-sao-sai-gon-buoi-sang-10-9-2022-447813.html</link>
-      <description><![CDATA[09:11 - 10/09/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/thuc-trang-cua-hoat-dong-nghe-thuat-mua-tai-tphcm-hien-nay-ra-sao-sai-gon-buoi-sang-10-9-2022-447813.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/09/10/SGBS-Tap-chi-cuoi-tuan-100920222-20220909211533.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 10 Sep 2022 16:11:00 +0700</pubDate>
+      <title>Năm 2022: TPHCM đặt mục tiêu đón hơn 2 triệu lượt khách quốc tế - Sài Gòn buổi sáng 12/9/2022</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/nam-2022-tphcm-dat-muc-tieu-don-hon-2-trieu-luot-khach-quoc-te-sai-gon-buoi-sang-12-9-2022-448006.html</link>
+      <description><![CDATA[06:00 - 12/09/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/nam-2022-tphcm-dat-muc-tieu-don-hon-2-trieu-luot-khach-quoc-te-sai-gon-buoi-sang-12-9-2022-448006.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/09/12/sgbs-120922.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 12 Sep 2022 13:00:00 +0700</pubDate>
     </item>
     <item>
-      <title>Help 114 - Hiệu quả từ chuyển đổi số - Sài Gòn buổi sáng 9/9/2022</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/help-114-hieu-qua-tu-chuyen-doi-so-sai-gon-buoi-sang-9-9-2022-447732.html</link>
-      <description><![CDATA[10:17 - 09/09/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/help-114-hieu-qua-tu-chuyen-doi-so-sai-gon-buoi-sang-9-9-2022-447732.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/09/09/FMSGBS06h00p090922-20220909103019.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 09 Sep 2022 17:17:00 +0700</pubDate>
+      <title>Sài Gòn buổi sáng - 11/9/2022</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-11-9-2022-447893.html</link>
+      <description><![CDATA[06:00 - 11/09/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/sai-gon-buoi-sang-11-9-2022-447893.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/09/11/sgbs-re-110922.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 11 Sep 2022 13:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
