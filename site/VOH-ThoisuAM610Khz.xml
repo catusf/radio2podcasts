@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 12 Sep 2022 18:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 13 Sep 2022 00:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 12 Sep 2022 18:00:00 +0700</pubDate>
+    <pubDate>Tue, 13 Sep 2022 00:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Chạy thử toàn tuyến metro số 1 vào cuối năm 2022 - Thời sự 17g00 12/9/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/chay-thu-toan-tuyen-metro-so-1-vao-cuoi-nam-2022-thoi-su-17g00-12-9-2022-448080.html</link>
+      <description><![CDATA[17:00 - 12/09/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/chay-thu-toan-tuyen-metro-so-1-vao-cuoi-nam-2022-thoi-su-17g00-12-9-2022-448080.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/09/12/ts17g00-120922.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 13 Sep 2022 00:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Sẽ xây dựng ít nhất 1 triệu căn nhà ở xã hội giai đoạn 2021-2030 - Thời sự 11g00 12/9/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/se-xay-dung-it-nhat-1-trieu-can-nha-o-xa-hoi-giai-doan-2021-2030-thoi-su-11g00-12-9-2022-448034.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-xay-dung-diem-den-hap-dan-trong-mat-du-khach-quoc-te-thoi-su-05g30-12-9-2022-447973.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/09/12/ts05g30-120922.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 12 Sep 2022 12:30:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Phiên họp thứ 15 Ủy ban Thường vụ Quốc hội sẽ khai mạc ngày 12/9 - Thời sự 17g00 11/9/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/phien-hop-thu-15-uy-ban-thuong-vu-quoc-hoi-se-khai-mac-ngay-12-9-thoi-su-17g00-11-9-2022-447951.html</link>
-      <description><![CDATA[22:31 - 11/09/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/phien-hop-thu-15-uy-ban-thuong-vu-quoc-hoi-se-khai-mac-ngay-12-9-thoi-su-17g00-11-9-2022-447951.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/09/11/AMThoisu17h00p110922-20220911164955.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 12 Sep 2022 05:31:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
