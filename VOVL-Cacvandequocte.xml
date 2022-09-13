@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 07 Sep 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 13 Sep 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 07 Sep 2022 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 13 Sep 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,22 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Khởi động đàm phán Khuôn khổ kinh tế Ấn Độ Dương - Thái Bình Dương vì sự thịnh vượng (IPEF)</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Bộ trưởng 14 nước tham gia đàm phán Khuôn khổ kinh tế Ấn Độ Dương - Thái Bình Dương vì sự thịnh vượng (IPEF) vừa nhất trí khởi động các cuộc đàm phán chính thức về một trật tự kinh tế dựa trên các quy tắc trong khu vực tăng trưởng năng động. Gần 4 tháng sau khi Tổng thống Mỹ Joe Biden công bố trong chuyến thăm Nhật Bản, tuyên bố chung mà các bộ trưởng đưa ra tại hội nghị đầu tiên của IPEF cho thấy sự đồng thuận và cam kết của các bên tham gia đàm phán, hướng tới việc sớm ký kết thoả thuận này. Vậy, với những nỗ lực của các bên tham gia IPEF, sáng kiến mới này của Mỹ liệu có sẽ sớm hiện thực hoá và đâu là những thách thức trong quá trình đàm phán?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/09/12/vovlive_vandequocte_khoidongdamphankhungkhokinhteandoduongthaibinhduong.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 13 Sep 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Tân Thủ tướng Anh sẽ vượt qua "cơn bão” bằng cách nào?</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Ngay sau khi nhậm chức ngày 6/9, tân Thủ tướng Anh Liz Truss đã công bố nội các và các ưu tiên chính sách. Đây là sự khởi đầu cho việc chính phủ mới của Anh giải quyết những thách thức được nhận định là chưa từng có kể từ sau chiến tranh Thế giới thứ hai. Ngoài một loạt vấn đề khó khăn như lạm phát cao kỷ lục trong nhiều thập kỷ hay giá năng lượng tăng phi mã, dự kiến sẽ tăng 80% vào tháng tới, nước Anh cũng đang đối mặt với nhiều vấn đề đối ngoại phức tạp như mối quan hệ rạn nứt với EU hay sự can dự trong chiến sự tại Ukraine. Những định hướng chính sách ngay trong những ngày đầu thành lập chính phủ sẽ hé mở cách tân Thủ tướng Anh vượt qua thách thức.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/09/12/vovlive_vandequocte_tanthutuonganh.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 09 Sep 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Diễn đàn Kinh tế phương Đông – cơ hội để Nga “gỡ thế khó"</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -38,22 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/09/08/vovlive_vandequocte_aisetrothanhthutuongmoicuanuocanh.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 06 Sep 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Tầm vóc mới của quan hệ Nga – Iran</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Sau cuộc gặp với Ngoại trưởng Iran Hossein Amir - Abdollahian tại thủ đô Moskva, Ngoại trưởng Nga Sergei Lavrov cho biết hai nước đang hoàn tất một văn kiện toàn diện về hợp tác song phương – thỏa thuận mà ông Lavrov nhận định là “thể hiện chiều hướng phát triển đạt đến tầm cao mới về chất, mang tính tầm vóc của quan hệ hai nước”. Trước khi đạt được thỏa thuận này, Nga và Iran vẫn được đánh giá là những đồng minh thân thiết, luôn sát cánh trong nhiều điểm nóng của thế giới, nổi bật nhất là trong cuộc khủng hoảng tại Syria. Nga và Iran có liên hệ mật thiết trong nhiều lĩnh vực an ninh, kinh tế, nhất là hợp tác năng lượng trong bối cảnh thị trường dầu thế giới có nhiều biến động thời gian gần đây.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/09/08/vovlive_vandequocte_tamvocmoicuaquanhengairan.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 03 Sep 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Sự chia rẽ của Châu Âu liên quan đến hạn chế thị thực với công dân Nga</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Trong cuộc họp 2 ngày vừa diễn ra, Ngoại trưởng các nước Liên minh Châu Âu (EU) liên tục tranh cãi và chia rẽ về việc hạn chế, thậm chí cấm thị thực hoàn toàn đối với công dân Nga. Trong khi một số nước trong đó có Cộng hòa Séc hiện đang giữ vai trò Chủ tịch luân phiên Liên minh Châu Âu đã bày tỏ ủng hộ thì nhiều nước khác như Đức, Pháp, Áo, Hungary... đã lên tiếng phản đối các đề xuất này, cho rằng sẽ gây ra những tác dụng ngược. Trước thực tế này, lựa chọn của giới chức Châu Âu là gì để vừa thể hiện được thái độ cứng rắn với Nga nhưng cũng không khiến khu vực này phải chịu nhiều thiệt hại như các chuyên gia cảnh báo.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/09/08/vovlive_vandequocte_suchiarecuachauau.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 02 Sep 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
