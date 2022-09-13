@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 13 Sep 2022 18:45:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 14 Sep 2022 02:59:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 13 Sep 2022 18:45:00 +0700</pubDate>
+    <pubDate>Wed, 14 Sep 2022 02:59:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Số mắc sốt xuất huyết cả nước tăng 4 lần so với cùng kỳ - Thời sự 17g00 13/9/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/so-mac-sot-xuat-huyet-ca-nuoc-tang-4-lan-so-voi-cung-ky-thoi-su-17g00-13-9-2022-448180.html</link>
+      <description><![CDATA[19:59 - 13/09/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/so-mac-sot-xuat-huyet-ca-nuoc-tang-4-lan-so-voi-cung-ky-thoi-su-17g00-13-9-2022-448180.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/09/13/AMThoisu17h00p130922-20220913163645.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 14 Sep 2022 02:59:00 +0700</pubDate>
+    </item>
     <item>
       <title>Quy định thêm trách nhiệm của nhà sản xuất đối với môi trường Việt Nam - Thời sự 11g00 13/9/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/quy-dinh-them-trach-nhiem-cua-nha-san-xuat-doi-voi-moi-truong-viet-nam-thoi-su-11g00-13-9-2022-448135.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/bo-sung-thong-tin-noi-sinh-vao-ho-chieu-mau-moi-tu-15-9-thoi-su-5g30-13-9-2022-448106.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/09/13/AMThoisu05h30p13092022-20220913001605.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 13 Sep 2022 12:58:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chạy thử toàn tuyến metro số 1 vào cuối năm 2022 - Thời sự 17g00 12/9/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/chay-thu-toan-tuyen-metro-so-1-vao-cuoi-nam-2022-thoi-su-17g00-12-9-2022-448080.html</link>
-      <description><![CDATA[17:00 - 12/09/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/chay-thu-toan-tuyen-metro-so-1-vao-cuoi-nam-2022-thoi-su-17g00-12-9-2022-448080.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/09/12/ts17g00-120922.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 13 Sep 2022 00:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
