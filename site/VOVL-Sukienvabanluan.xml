@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 12 Sep 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 14 Sep 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 12 Sep 2022 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 14 Sep 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Thành tích đáng tự hào của nền kinh tế Ấn Độ</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Theo số liệu Quỹ Tiền tệ Quốc tế (IMF) công bố mới đây, Ấn Độ đã vượt Anh để trở thành nền kinh tế lớn thứ 5 thế giới, xếp sau Mỹ, Trung Quốc, Nhật Bản và Đức. Các chuyên gia trước đây từng dự báo rằng nền kinh tế Ấn Độ sớm muộn sẽ vượt qua quy mô của nền kinh tế Anh, nhưng việc Ấn Độ đạt được thành tích này trong năm nay được đánh giá là “thành tích kỳ diệu”. Với sức mạnh nội tại của nền kinh tế, Ấn Độ còn đang rất lạc quan với mục tiêu vượt qua cả Đức và Nhật Bản để sớm trở thành nền kinh tế lớn thứ 3 thế giới.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/09/14/vovlive_sukienvabanluan_thanh_tich_dang_tu_hao_cua_an_do.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 14 Sep 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Australia nỗ lực giải quyết tình trạng thiếu lao động trầm trọng</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/08/31/vovlive_sukienvabanluan_xu_ly_cac_cong_trinh_xay_dung_trai_phep.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 31 Aug 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Kinh nghiệm các nước phát triển đường sắt cao tốc</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Trải qua gần 6 thập kỷ phát triển, đường sắt cao tốc trên thế giới đã trải qua một chặng đường khá dài. Từ năm 1964, khi các đoàn tàu Nhật Bản chạy băng băng trên tuyến đường sắt cao tốc đầu tiên Tokaido Shinkansen nối Tokyo và Osaka, cho đến nay đã có khoảng 20 quốc gia sở hữu đường sắt cao tốc chuyên dụng. Chững lại trong giai đoạn đại dịch Covid-19, hiện nhiều nước đang trong lộ trình nối lại đầu tư và phát triển các tuyến đường sắt cao tốc mới. Kinh nghiệm các nước trong lĩnh vực này ra sao?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/08/29/vovlive_sukienvabanluan_kinh_nghiem_cac_nuoc_phat_trien_tau.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 29 Aug 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
