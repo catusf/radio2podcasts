@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 13 Sep 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 14 Sep 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 13 Sep 2022 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 14 Sep 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Cánh cửa đàm phán phi hạt nhân hóa đang hẹp dần?</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Trong bối cảnh diễn biến tình hình quốc tế có nhiều biến động, các cuộc đàm phán hạt nhân trên bán đảo Triều Tiên lại trở thành tâm điểm chú ý của dư luận quốc tế khi Triều Tiên mới đây đã thông qua luật “cho phép tấn công hạt nhân phủ đầu”, thay thế luật năm 2013. Nhà lãnh đạo Triều Tiên Kim Jong Un khẳng định, luật mới thiết lập vị thế của Triều Tiên là một quốc gia sở hữu vũ khí hạt nhân và điều này không thể đảo ngược. Việc Triều Tiên thông qua luật mới về năng lực hạt nhân được cho là thông điệp gửi đến Mỹ và Hàn Quốc, trong lúc các cuộc đàm phán đình trệ và các cuộc tập trận Mỹ - Hàn diễn ra rầm rộ. Cánh cửa đàm phán của các bên về phi hạt nhân hoá vì thế đang hẹp dần.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/09/14/vovlive_vandequocte_canhcuadamphanphihatnhanhoadanghepdan.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 14 Sep 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Khởi động đàm phán Khuôn khổ kinh tế Ấn Độ Dương - Thái Bình Dương vì sự thịnh vượng (IPEF)</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/09/08/vovlive_vandequocte_diendankinhtephuongdong.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 07 Sep 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Ai sẽ trở thành Thủ tướng mới của nước Anh?</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Ngày 5/9, tân Thủ tướng Anh sẽ chính thức lộ diện thay thế cựu Thủ tướng Boris Jonhson đã từ nhiệm hồi tháng 7. Dự kiến vào nửa đêm nay (theo giờ địa phương), Đảng Bảo thủ cầm quyền sẽ công bố kết quả phiếu bầu lãnh đạo đảng đối với 2 ứng cử viên là Ngoại trưởng Liz Truss và cựu Bộ trưởng Tài chính Rushi Sunak. Ở thời điểm này, ai sẽ là gương mặt nhiều lợi thế có thể được bầu chọn tại nước Anh? Đâu là những thách thức chờ đón tân Thủ tướng Anh trong bối cảnh nước này đang phải đối mặt với một giai đoạn rất khó khăn ở thời kỳ hiện tại?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/09/08/vovlive_vandequocte_aisetrothanhthutuongmoicuanuocanh.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 06 Sep 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
