@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 04 Sep 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 11 Sep 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 04 Sep 2022 19:00:00 +0700</pubDate>
+    <pubDate>Sun, 11 Sep 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Âm nhạc với cuộc sống</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Amnhacvoicuocsong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Trở lại không gian của những ngày tháng Cách mạng sục sôi qua các sáng tác âm nhạc</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[Phong trào Xô Viết - Nghệ Tĩnh là một sự kiện lịch sử trọng đại trong lịch sử Cách mạng Việt Nam dưới sự lãnh đạo của Đảng. Kỷ niệm 92 năm ngày Xô viết Nghệ Tĩnh (12/9/1930 -12/9/2020), gặp gỡ nhạc sĩ Dân Huyền và nghe những chia sẻ về tình cảm ông dành cho quê hương mình cũng như những ca khúc ông viết về phong trào Xô Viết Nghệ Tĩnh và thưởng thức một số tác phẩm âm nhạc: Chiều Hưng Nguyên (Sáng tác: Nhạc sĩ Văn An), Trên quê hương Xô Viết Nghệ Tĩnh (Sáng tác: Nhạc sĩ Dân Huyền), Thành phố đỏ, thành phố xanh (Sáng tác: Nhạc sĩ Dân Huyền), Màu xanh Hưng Nguyên (Sáng tác: Nhạc sĩ Nguyễn An).]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/09/12/vovlive_am_nhac_voi_cuoc_song_92_nam_xo_viet_nghe_tinh.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 11 Sep 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Nghệ sĩ violin Nguyễn Thị Vân Hạnh và con đường âm nhạc</title>
       <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
@@ -48,15 +56,6 @@
       <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/08/22/vovlive_am_nhac_voi_cuoc_song_am_nhac_cach_mang_thang_8.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 21 Aug 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Ca sĩ Hiền Anh ra mắt album Thiền ca “Duyên 4 - Mẹ là Phật từ bi” tri ân những bà mẹ Việt Nam anh hùng</title>
-      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[- Nhân dịp mùa Vu lan 2022, ca sĩ Hiền Anh Sao Mai 2007 dòng thính phòng ra mắt Album “Duyên 4 – Phật là mẹ từ bi” gồm những ca khúc: Lời ru cho con, Mẹ yêu con, Thiền ca Làng Mai "Đã về đã tới – Sống vui", Mẹ là Phật từ bi. Trong chương trình, trò chuyện cùng nữ ca sĩ Hiền Anh để tìm hiều về album ý nghĩa này.
-- Thưởng thức ca khúc “Cờ đỏ sao vàng” (tác giả: Nguyễn Anh Trí - nguyên Viện trưởng Viện Huyết học truyền máu TW) và lắng nghe những chia sẻ của tác giả Nguyễn Anh Trí về hoàn cảnh ra đời của ca khúc…]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/08/15/vovlive_am_nhac_voi_cuoc_song_hien_anh_album_4.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 14 Aug 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
