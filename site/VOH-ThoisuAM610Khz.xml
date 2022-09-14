@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 14 Sep 2022 18:59:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 15 Sep 2022 00:46:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 14 Sep 2022 18:59:00 +0700</pubDate>
+    <pubDate>Thu, 15 Sep 2022 00:46:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>UBTV Quốc hội: Giám sát việc thực hành tiết kiệm, chống lãng phí – Thời sự 17g00 14/9/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/ubtv-quoc-hoi-giam-sat-viec-thuc-hanh-tiet-kiem-chong-lang-phi-thoi-su-17g00-14-9-2022-448282.html</link>
+      <description><![CDATA[17:46 - 14/09/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/ubtv-quoc-hoi-giam-sat-viec-thuc-hanh-tiet-kiem-chong-lang-phi-thoi-su-17g00-14-9-2022-448282.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/09/14/AMThoisu17h00p140922-20220914164137.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 15 Sep 2022 00:46:00 +0700</pubDate>
+    </item>
     <item>
       <title>Hội nghị thẩm định quy hoạch tổng thể quốc gia – Thời sự 11g00 14/9/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/hoi-nghi-tham-dinh-quy-hoach-tong-the-quoc-gia-thoi-su-11g00-14-9-2022-448243.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tong-bi-thu-nguyen-phu-trong-tiep-chu-tich-quoc-hoi-vuong-quoc-campuchia-thoi-su-5g30-14-9-2022-448197.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/09/14/AMThoisu05h30p14092022-20220913231944.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 14 Sep 2022 12:54:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Số mắc sốt xuất huyết cả nước tăng 4 lần so với cùng kỳ - Thời sự 17g00 13/9/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/so-mac-sot-xuat-huyet-ca-nuoc-tang-4-lan-so-voi-cung-ky-thoi-su-17g00-13-9-2022-448180.html</link>
-      <description><![CDATA[19:59 - 13/09/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/so-mac-sot-xuat-huyet-ca-nuoc-tang-4-lan-so-voi-cung-ky-thoi-su-17g00-13-9-2022-448180.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/09/13/AMThoisu17h00p130922-20220913163645.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 14 Sep 2022 02:59:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
