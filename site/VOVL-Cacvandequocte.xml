@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 14 Sep 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 16 Sep 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 14 Sep 2022 19:00:00 +0700</pubDate>
+    <pubDate>Fri, 16 Sep 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,22 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Hội nghị thượng đỉnh SCO – cân bằng lợi ích trong thế giới đầy biến động</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Hội nghị thượng đỉnh của Tổ chức Hợp tác Thượng Hải (SCO) sẽ khai mạc tại thành phố Samarkand - Uzbekistan. Được tổ chức trực tiếp lần đầu tiên sau 3 năm bị ảnh hưởng bởi dịch Covid-19, Hội nghị thượng đỉnh SCO năm nay sẽ bàn thảo nhiều vấn đề quan trọng, ảnh hưởng đến đường hướng phát triển của tổ chức trong bối cảnh tình hình địa chính trị khu vực và thế giới đang có rất nhiều biến động, nhất là sau cuộc khủng hoảng tại Ukraine. Sự kiện tại Samarkand thu hút sự quan tâm của dư luận quốc tế bởi sự xuất hiện của 15 nguyên thủ quốc gia và 10 người đứng đầu các tổ chức quốc tế hợp tác với SCO, đáng chú ý là nguyên thủ các cường quốc trong khu vực như Nga, Trung Quốc, Ấn Độ… Tuy nhiên, khi tình hình khu vực có nhiều biến động, các thành viên của SCO cũng sẽ có những tính toán chiến lược, lợi ích khác nhau. Vì vậy, hội nghị lần này cũng chính là phép thử về vai trò của Chủ tịch Uzbekistan trong việc tạo sự tin tưởng của các bên, từ đó thúc đẩy hợp tác vì lợi ích chung trong không gian của SCO.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/09/15/vovlive_vandequocte_hoinghithuongdinhsco.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 16 Sep 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Chủ tịch Trung Quốc thăm Trung Á thúc đẩy lợi ích chiến lược</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Chủ tịch Trung Quốc Tập Cận Bình đang có chuyến công du nước ngoài đầu tiên đến các quốc gia thuộc khu vực Trung Á gồm có Kazakhstan và Uzbekistan kể từ khi đại dịch Covid-19 bùng phát cách đây hơn 2 năm. Nhà lãnh đạo Trung Quốc cũng sẽ tham dự Hội nghị thượng đỉnh các nhà lãnh đạo Tổ chức Hợp tác Thượng Hải (SCO) tại Uzbekistan và có cuộc gặp quan trọng với Tổng thống Nga Putin tại đây. Diễn ra trong bối cảnh cuộc cạnh tranh Trung - Mỹ vẫn đang tiếp tục tăng nhiệt trên mọi lĩnh vực, đồng thời ngay trước thềm Đại hội Đảng lần thứ 20 của Trung Quốc, chuyến công du các nước Trung Á của ông Tập Cận Bình đang gửi đi rất nhiều thông điệp.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/09/15/vovlive_vandequocte_chutichtrungquocthamtrungathucdayloiichchienluoc.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 15 Sep 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Cánh cửa đàm phán phi hạt nhân hóa đang hẹp dần?</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -38,22 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/09/12/vovlive_vandequocte_khoidongdamphankhungkhokinhteandoduongthaibinhduong.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 13 Sep 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Tân Thủ tướng Anh sẽ vượt qua "cơn bão” bằng cách nào?</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Ngay sau khi nhậm chức ngày 6/9, tân Thủ tướng Anh Liz Truss đã công bố nội các và các ưu tiên chính sách. Đây là sự khởi đầu cho việc chính phủ mới của Anh giải quyết những thách thức được nhận định là chưa từng có kể từ sau chiến tranh Thế giới thứ hai. Ngoài một loạt vấn đề khó khăn như lạm phát cao kỷ lục trong nhiều thập kỷ hay giá năng lượng tăng phi mã, dự kiến sẽ tăng 80% vào tháng tới, nước Anh cũng đang đối mặt với nhiều vấn đề đối ngoại phức tạp như mối quan hệ rạn nứt với EU hay sự can dự trong chiến sự tại Ukraine. Những định hướng chính sách ngay trong những ngày đầu thành lập chính phủ sẽ hé mở cách tân Thủ tướng Anh vượt qua thách thức.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/09/12/vovlive_vandequocte_tanthutuonganh.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 09 Sep 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Diễn đàn Kinh tế phương Đông – cơ hội để Nga “gỡ thế khó"</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Diễn đàn Kinh tế Phương Đông lần thứ 7 đang diễn ra tại thành phố Vladivostok, miền Viễn Đông Nga với sự tham gia của đại diện hơn 60 quốc gia và khu vực. Là diễn đàn kinh tế lớn thứ hai của Nga sau Diễn đàn Kinh tế Quốc tế Saint Peterburg, Diễn đàn Kinh tế Phương Đông nhằm mục đích tăng cường hợp tác trong khu vực Châu Á – Thái Bình Dương, thu hút các nhà đầu tư trong nước và quốc tế đến vùng Viễn Đông, khu vực được đánh giá là còn rất nhiều tiềm năng của Nga.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/09/08/vovlive_vandequocte_diendankinhtephuongdong.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 07 Sep 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
