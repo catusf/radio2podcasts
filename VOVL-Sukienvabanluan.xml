@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 15 Sep 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 16 Sep 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 15 Sep 2022 19:00:00 +0700</pubDate>
+    <pubDate>Fri, 16 Sep 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Minh bạch trong sản xuất - yêu cầu sống còn trong hoạt động xuất khẩu sản phẩm sầu riêng và nông sản chính ngạch</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Sau nhiều nỗ lực của các cơ quan chức năng, con đường chính ngạch cho xuất khẩu sầu riêng Việt Nam đã được khai thông. Dự kiến ngày 17/9 tới, lô sầu riêng đầu tiên xuất khẩu theo diện chính ngạch sẽ rời thị trường Đắc Lắc - vùng trồng sầu riêng lớn nhất cả nước để thâm nhập thị trường nước ngoài. Đây là tin mừng vì khoảng cách giữa sản xuất và thị trường được rút ngắn, nhưng cũng là thử thách bởi những đòi hỏi về tính minh bạch từ canh tác, thu hái, vệ sinh kiểm dịch đến dán nhãn sản phẩm. Nghĩa là Việt Nam phải sẵn sàng một quy trình quản lý chất lượng sầu riêng, để đảm bảo rằng chất lượng đồng đều trong tất cả các lô hàng xuất khẩu.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/09/16/vovlive_sukienvabanluan_minh_bach_trong_san_xuat.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 16 Sep 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Du lịch y tế châu Á bùng nổ – cú huých cho đà phục hồi sau đại dịch</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/09/14/vovlive_sukienvabanluan_thanh_tich_dang_tu_hao_cua_an_do.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 14 Sep 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Australia nỗ lực giải quyết tình trạng thiếu lao động trầm trọng</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Tình trạng thiếu lao động đang phổ biến ở nhiều quốc gia và khu vực trên thế giới, trong bối cảnh toàn cầu đang nỗ lực phục hồi kinh tế - xã hội trong giai đoạn hậu đại dịch COVID-19. Với Australia, trước những cảnh báo về một cuộc khủng hoảng nhân lực nghiêm trọng chính quyền nước này phải gấp rút triển khai các giải pháp để giải quyết tình trạng này.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/09/12/vovlive_sukienvabanluan_australia-_no_luc_giai_quyet_tinh_trang_thieu_lao_dong_tram_trong.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 12 Sep 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
