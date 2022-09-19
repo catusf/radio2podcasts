@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 17 Sep 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 20 Sep 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 17 Sep 2022 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 20 Sep 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Lệnh ngừng bắn mong manh giữa Armenia và Azerbaijan sau khi bùng phát căng thẳng tại khu vực biên giới</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Những ngày vừa qua, tình hình căng thẳng giữa Armenia và Azerbaijan gia tăng nghiêm trọng, khiến cộng đồng quốc tế hết sức lo ngại. Các cuộc xung đột tại khu vực biên giới giữa hai nước này trong 2 ngày 12/9 - 13/09 làm 170 người thiệt mạng và nhiều người bị thương. Đến ngày 14/09, Armenia và Azerbaijan đã ký một lệnh ngừng bắn, tuy nhiên, sức nóng xung đột vẫn đang chực bùng lên bất kỳ lúc nào. Vậy nguồn cơn nào khiến bạo lực bùng phát trở lại tại biên giới Armenia và Azerbaijan?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/09/19/vovlive_vandequocte_lenhngungbanmongmanhgiuaarmeniavaazerbaijan(1).mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Sep 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Nga - Trung bắt tay, đối trọng với phương Tây</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/09/15/vovlive_vandequocte_chutichtrungquocthamtrungathucdayloiichchienluoc.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 15 Sep 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Cánh cửa đàm phán phi hạt nhân hóa đang hẹp dần?</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Trong bối cảnh diễn biến tình hình quốc tế có nhiều biến động, các cuộc đàm phán hạt nhân trên bán đảo Triều Tiên lại trở thành tâm điểm chú ý của dư luận quốc tế khi Triều Tiên mới đây đã thông qua luật “cho phép tấn công hạt nhân phủ đầu”, thay thế luật năm 2013. Nhà lãnh đạo Triều Tiên Kim Jong Un khẳng định, luật mới thiết lập vị thế của Triều Tiên là một quốc gia sở hữu vũ khí hạt nhân và điều này không thể đảo ngược. Việc Triều Tiên thông qua luật mới về năng lực hạt nhân được cho là thông điệp gửi đến Mỹ và Hàn Quốc, trong lúc các cuộc đàm phán đình trệ và các cuộc tập trận Mỹ - Hàn diễn ra rầm rộ. Cánh cửa đàm phán của các bên về phi hạt nhân hoá vì thế đang hẹp dần.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/09/14/vovlive_vandequocte_canhcuadamphanphihatnhanhoadanghepdan.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 14 Sep 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
