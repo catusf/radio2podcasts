@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 18 Sep 2022 06:55:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 19 Sep 2022 05:23:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 18 Sep 2022 06:55:00 +0700</pubDate>
+    <pubDate>Mon, 19 Sep 2022 05:23:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Làm gì để nâng chất các triển lãm ảnh tại TPHCM? - Sài Gòn buổi sáng 18/9/2022</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/lam-gi-de-nang-chat-cac-trien-lam-anh-tai-tphcm-sai-gon-buoi-sang-18-9-2022-448777.html</link>
+      <description><![CDATA[22:23 - 18/09/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/lam-gi-de-nang-chat-cac-trien-lam-anh-tai-tphcm-sai-gon-buoi-sang-18-9-2022-448777.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/09/18/FMSaigonbuoisang06h00p180922-20220917205726.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 19 Sep 2022 05:23:00 +0700</pubDate>
+    </item>
+    <item>
       <title>“Thưởng thức nghệ thuật hàn lâm: rung cảm bằng con tim, thăng hoa bằng lí trí - SGBS 17/9/2022</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/thuong-thuc-nghe-thuat-han-lam-rung-cam-bang-con-tim-thang-hoa-bang-li-tri-sgbs-17-9-2022-448654.html</link>
       <description><![CDATA[23:55 - 17/09/2022]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/thuong-thuc-nghe-thuat-han-lam-rung-cam-bang-con-tim-thang-hoa-bang-li-tri-sgbs-17-9-2022-448654.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/09/17/FMsaigonbuoisang06h00p170922-hoan-chinh-20220917042708.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 18 Sep 2022 06:55:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Mô hình “Cấp cứu trầm cảm” đạt hiệu quả tích cực - Sài Gòn buổi sáng 16/9/2022</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/mo-hinh-cap-cuu-tram-cam-dat-hieu-qua-tich-cuc-sai-gon-buoi-sang-16-9-2022-448509.html</link>
-      <description><![CDATA[15:16 - 16/09/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/mo-hinh-cap-cuu-tram-cam-dat-hieu-qua-tich-cuc-sai-gon-buoi-sang-16-9-2022-448509.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/09/16/FMSGBS06h00p160922-20220916070227-Copy.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 16 Sep 2022 22:16:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
