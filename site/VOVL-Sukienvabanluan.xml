@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 19 Sep 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 20 Sep 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 19 Sep 2022 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 20 Sep 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Triển vọng trở thành trung tâm hậu cần quan trọng tại khu vực ASEAN của Thái Lan</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Mới đây, tại cuộc họp Nhóm công tác trong lĩnh vực giao thông vận tải thuộc các nền kinh tế thành viên Diễn đàn hợp tác kinh tế châu Á - Thái Bình Dương (APEC) diễn ra tại thủ đô Bangkok, Bộ trưởng Giao thông Thái Lan Saksayam tuyên bố, Thái Lan đang hướng tới mục tiêu trở thành trung tâm hậu cần quan trọng, bao phủ các lĩnh vực vận tải đường bộ, đường không và đường biển tại khu vực Đông Nam Á. Cụ thể tham vọng này của Thái Lan như thế nào và để thực hiện chiến lược lớn này, Thái Lan đã và đang chuẩn bị những gì và nỗ lực ra sao?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/09/20/vovlive_sukienvabanluan_trien_vong_tro_thanh_trung_tam_hau_can_quan_trong_tai_khu_vuc_asean_thai_lan.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Sep 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Chấm dứt đại dịch COVID-19: Cơ hội trong tầm tay!</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/09/15/vovlive_sukienvabinhluan_du-_lich_y_te_chau_a_bung_no.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 15 Sep 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Nước Anh bước vào triều đại Charles III</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Thời khắc Nữ hoàng Elizabeth 2 qua đời cũng là lúc Thái tử Charles 3 trở thành nhà vua mới của nước Anh. Trên cương vị người đứng đầu chế độ quân chủ Anh, ông đã chọn lấy tên là Vua Charles 3. Sau lễ tấn phong do Hội đồng Đăng cơ tổ chức vào cuối tuần qua tại điện St. James, London, nước Anh đã chính thức bước sang triều đại mới với rất nhiều thay đổi rõ rệt. Giờ đây, các thành viên Hoàng gia sẽ quy tụ quanh tân vương Charles 3, mang theo những trọng trách và nghĩa vụ mới, đi kèm những thách thức mà họ chưa từng đối mặt.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/09/14/vovlive_sukienvabanluan_nuoc_anh.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 14 Sep 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
