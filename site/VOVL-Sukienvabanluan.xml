@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 20 Sep 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 21 Sep 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 20 Sep 2022 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 21 Sep 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,15 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Giải pháp nào ngăn chặn lao động bỏ trốn khi đi xuất khẩu</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[55 lao động tại Quảng Bình đã bị phía Hàn Quốc từ chối cấp thị thực đợt 2 trong chương trình tuyển dụng lao động thời vụ. Nguyên nhân do trước đó hàng chục lao động đợt 01 được phía Hàn Quốc tuyển dụng đầu năm nay đã bỏ trốn, không làm theo thỏa thuận hợp đồng lao động. Đây không phải là địa phương duy nhất xảy ra tình trạng này, khi trước đó tại nhiều địa phương như Hải Dương, Thanh Hóa, Nghệ An, Hà Tĩnh... cũng có rất nhiều lao động làm việc đã bỏ chốn.
+Tình trạng lao động bỏ trốn ở Hàn Quốc đang gây khó khăn cho việc duy trì chương trình xuất khẩu lao động sang Hàn Quốc của tỉnh Quảng Bình cũng như các địa phương khác.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/09/21/vovlive_sukienvabanluan_giai_phap_nao_cho_lao_dong_khoi_bo_chon.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 21 Sep 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Triển vọng trở thành trung tâm hậu cần quan trọng tại khu vực ASEAN của Thái Lan</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +55,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/09/16/vovlive_sukienvabanluan_minh_bach_trong_san_xuat.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 16 Sep 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Du lịch y tế châu Á bùng nổ – cú huých cho đà phục hồi sau đại dịch</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Sức khỏe và du lịch là hai trong số các tiêu chuẩn đánh giá mức sống của người dân một quốc gia. Đây cũng là hai khía cạnh ngày càng trở nên quan trọng đối với cuộc sống của mỗi người. Vì thế, những năm gần đây, mô hình “du lịch y tế” đã ra đời và trở thành một ngành dịch vụ đầy tiềm năng. Các yếu tố giúp du lịch y tế trở nên phát triển mạnh mẽ là đi lại quốc tế trở nên dễ dàng và tốn ít chi phí hơn cũng như sự cải thiện trong công nghệ lẫn tiêu chuẩn chăm sóc y tế ở nhiều nước đang phát triển. Tại Châu Á, du lịch y tế đang mở rộng nhanh chóng và ngày càng được chú trọng sau khi dịch Covid-19 dần được kiểm soát. Một số nước như Thái Lan, Hàn Quốc, Ấn Độ, Malaysia đang là điểm đến du lịch y tế của lượng lớn du khách Mỹ và các nước Châu Âu.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/09/15/vovlive_sukienvabinhluan_du-_lich_y_te_chau_a_bung_no.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 15 Sep 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

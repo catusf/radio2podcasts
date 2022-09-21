@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 25 Aug 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 20 Sep 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 25 Aug 2022 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 20 Sep 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,6 +24,33 @@
     <itunes:subtitle>Thể thao 7 ngày</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Thethao7ngay.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Chương trình thể thao 7 ngày 17 tháng 9 năm 2022</title>
+      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
+      <description><![CDATA[- Cùng nhìn lại lượt trận thứ 2 vòng bảng UEFA Champions League đầy những bất ngờ, cũng những ngôi sao mới của làng túc cầu thế giới. 
+- Ghi nhận sự phát triển mạnh mẽ của phong trào chạy đường dài. 
+- Tầm quan trọng của việc khởi động trước khi tham gia các cuộc chạy đường dài...]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/09/20/vovlive_thethao7ngay_chuongtrinhthethao7ngay1792022.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Sep 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Chương trình thể thao 7 ngày 3 tháng 9 năm 2022</title>
+      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
+      <description><![CDATA[Với người hâm mộ bóng đá nước ta, sự kiện thu hút nhiều sự quan tâm nhất trong tuần qua chính là lễ bốc thăm chia bảng giải bóng đá vô địch Đông Nam Á AFF cup 2022. Đương kim vô địch Thái Lan nằm ở bảng A cùng các đội tuyển Indonesia, Philippines, Campuchia và đội thắng trong trận vòng loại giữa Timor-Leste và Bruney. Trong khi đó tại bảng B, đội tuyển Việt Nam cạnh tranh suất đi tiếp cùng các đội tuyển Malaysia, Singapore, Mialma và Lào. Truyền thông khu vực các ngôi sao bóng đá Việt Nam cũng như giới chuyên môn đánh giá ra sao về kết quả ra sao về kết quả bốc thăm. HLV Park Hang Seo sẽ có trong tay lực lượng như thế nào cho chiến dịch lấy lại ngôi vương Đông Nam Á?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/09/16/vovlive_thethao7ngay_chuongtrinhthethao7ngay03092022.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 16 Sep 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Chương trình thể thao 7 ngày 27 tháng 8 năm 2022</title>
+      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
+      <description><![CDATA[- Giải bóng đá vô địch quốc gia V-League 2022 đã đi được nửa chặng đường với thành tích hết sức cách biệt giữa những đại diện bóng đá phía Bắc và phía Nam. 
+- Thể thao và cuộc sống là bài viết về Roller, môn thể thao đặc biệt khi các vận động viên tham gia tranh tài khi mới 4 - 5  tuổi.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/09/16/vovlive_thethao7ngay_chuongtrinhthethao7ngay2792022.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 16 Sep 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Chương trình thể thao 7 ngày 20 tháng 8 năm 2022</title>
       <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
       <description><![CDATA[Cùng huấn luyện viên Mai Đức Chung nhìn lại thất bại của đội tuyển nữ Việt Nam tại AFF Cup nữ 2022 vừa qua. Và những bài học được rút ra để bóng đá nữ phát triển hơn trong tương lai. 
@@ -31,35 +58,6 @@ Giới thiệu về câu lạc bộ tập hiphop của các cụ U80 tại Hà N
       <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/08/25/vovlive_theothao7ngay_chuongtrinhthethao7ngay2082022.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 25 Aug 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chương trình thể thao 7 ngày 13 tháng 8 năm 2022</title>
-      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
-      <description><![CDATA[- Mùa giải mới tại Tây Ban Nha: Barcelona vẫn trong cảnh hỗn loạn, Real Madrid có tiếp tục trên đỉnh? Tại Bundesliga, Bayern Munich có phải là Paris Saint Germain phiên bản Đức? Những điểm nhấn bóng đá Châu Âu trong tuần đầu tháng 8. 
-- Bước ngoặt về thái độ thi đấu của Neymar tại câu lạc bộ Paris Saint -Germain.
-- Những thông tin liên quan đến giải ngoại hạng Anh chấp nhận 1 phút tiếp nước, thay 5 người một trận...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/08/15/vovlive_thethao7ngay_chuongtrinhthethao7ngay1482022.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 15 Aug 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chương trình thể thao 7 ngày 7 tháng 8 năm 2022</title>
-      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
-      <description><![CDATA[- Gặp gỡ Hoàng Phong - Thúy Vi cặp vận động viên vừa liên tiếp đạt huy chương vàng SEA Games và vô địch thế giới để cảm nhận về chia sẻ: Nếu được chọn lại, vẫn dành cả thanh xuân để đi theo con đường thể thao.
-- Cung cấp thông tin thú vị về học bơi dành cho trẻ sơ sinh và trẻ mẫu giáo...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/08/11/vovlive_thethao7ngay_chuongtrinhthethao7ngay82022.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 11 Aug 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chương trình thể thao 7 ngày 31 tháng 07 năm 2022</title>
-      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
-      <description><![CDATA[- Sau 5 năm chờ đợi kể từ lần tổ chức gần nhất, các vận động viên thể thao người khuyết tật mới lại được tranh tài tại đấu trường đỉnh cao của Đông Nam Á khi Asean Paragame 11 khai mạc ngày 30/7 tại Indonesia. 
-- Hội nghị triển khai chương trình sức khỏe học đường 2022-2025 do Bộ giáo dục và đào tạo tổ chức tại tỉnh Bình Định. 
-- Giới thiệu lễ hội du lịch Goft Đà Nẵng 2022.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/08/02/vovlive_thethao7ngay_chuongtrinhthethao7ngay31072022.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 02 Aug 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
