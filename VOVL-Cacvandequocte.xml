@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 20 Sep 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 22 Sep 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 20 Sep 2022 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 22 Sep 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,22 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Thế khó của Hungary trong mối quan hệ với Liên minh Châu Âu và Nga</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Căng thẳng giữa Hungary và giới chức Liên minh Châu Âu (EU) thời gian qua đã trở nên trầm trọng hơn, do Thủ tướng nước này chỉ trích chính sách của EU đối với cuộc xung đột tại Ukraine. Hungary là một trong những đồng minh Châu Âu cuối cùng của Nga, luôn thúc đẩy những nỗ lực cản trở các lệnh trừng phạt của khối này nhằm vào Moscow. Hơn một thập kỷ qua, EU chưa thể thay đổi được lập trường này. Tuy nhiên, trong một động thái thể hiện sự mất kiên nhẫn với Hungary, giới chức EU đã cứng rắn gây sức ép bằng một quy trình tài chính đặc biệt, đề xuất ngừng khoản trợ cấp 7,5 tỷ Euro cho Hungary do lo ngại không sử dụng đúng mục đích và yêu cầu nước này cải tổ tư pháp. Trước tình thế khó khăn hiện nay, Hungary đã buộc phải cam kết chống gian lận và tham nhũng để có thể tiếp tục nhận được tiền từ EU. Thế nhưng, liệu tình thế này có khiến Hungary phải điều chỉnh quan hệ với Nga và cả EU?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/09/21/vovlive_vandequocte_thekhocuahungarutrongmoiquanhevoieuvanga.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 22 Sep 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Chính sách đối ngoại của Hàn Quốc qua chuyến công du Anh, Mỹ và Canada của Tổng thống nước này</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Tổng thống Hàn Quốc Yoon Suk Yeol đang công du nước ngoài kéo dài 01 tuần, tới ba nước Anh, Mỹ và Canada. Theo kế hoạch, ngày 20/09, tại phiên họp của Hội đồng bảo an Liên hợp quốc diễn ra tại Mỹ, Tổng thống Hàn Quốc Yoon Suk Yeol sẽ có bài phát biểu đề cập tầm nhìn của Hàn Quốc về việc tăng cường đoàn kết giữa các nước dân chủ và nhấn mạnh cam kết của nước này trong việc hợp tác với các đồng minh để xây dựng hòa bình trên bán đảo Triều Tiên và cùng ứng phó với các mối đe dọa hạt nhân của Triều Tiên. Chuyến công du nước ngoài lần này của Tổng thống Hàn Quốc Yoon Suk Yeol có điểm gì đáng chú ý và quan hệ giữa Hàn Quốc với các đồng minh Mỹ và Nhật Bản sẽ được gắn kết ra sao trong việc đảm bảo hòa bình và ổn định trên bán đảo Triều Tiên?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/09/21/vovlive_vandequocte_chinhsachdoingoaicuahanquoc.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 21 Sep 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Lệnh ngừng bắn mong manh giữa Armenia và Azerbaijan sau khi bùng phát căng thẳng tại khu vực biên giới</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -38,22 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/09/16/vovlive_vandequocte_ngatrungbattaydoitrongvoiphuongtay.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 17 Sep 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Hội nghị thượng đỉnh SCO – cân bằng lợi ích trong thế giới đầy biến động</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Hội nghị thượng đỉnh của Tổ chức Hợp tác Thượng Hải (SCO) sẽ khai mạc tại thành phố Samarkand - Uzbekistan. Được tổ chức trực tiếp lần đầu tiên sau 3 năm bị ảnh hưởng bởi dịch Covid-19, Hội nghị thượng đỉnh SCO năm nay sẽ bàn thảo nhiều vấn đề quan trọng, ảnh hưởng đến đường hướng phát triển của tổ chức trong bối cảnh tình hình địa chính trị khu vực và thế giới đang có rất nhiều biến động, nhất là sau cuộc khủng hoảng tại Ukraine. Sự kiện tại Samarkand thu hút sự quan tâm của dư luận quốc tế bởi sự xuất hiện của 15 nguyên thủ quốc gia và 10 người đứng đầu các tổ chức quốc tế hợp tác với SCO, đáng chú ý là nguyên thủ các cường quốc trong khu vực như Nga, Trung Quốc, Ấn Độ… Tuy nhiên, khi tình hình khu vực có nhiều biến động, các thành viên của SCO cũng sẽ có những tính toán chiến lược, lợi ích khác nhau. Vì vậy, hội nghị lần này cũng chính là phép thử về vai trò của Chủ tịch Uzbekistan trong việc tạo sự tin tưởng của các bên, từ đó thúc đẩy hợp tác vì lợi ích chung trong không gian của SCO.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/09/15/vovlive_vandequocte_hoinghithuongdinhsco.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 16 Sep 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chủ tịch Trung Quốc thăm Trung Á thúc đẩy lợi ích chiến lược</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Chủ tịch Trung Quốc Tập Cận Bình đang có chuyến công du nước ngoài đầu tiên đến các quốc gia thuộc khu vực Trung Á gồm có Kazakhstan và Uzbekistan kể từ khi đại dịch Covid-19 bùng phát cách đây hơn 2 năm. Nhà lãnh đạo Trung Quốc cũng sẽ tham dự Hội nghị thượng đỉnh các nhà lãnh đạo Tổ chức Hợp tác Thượng Hải (SCO) tại Uzbekistan và có cuộc gặp quan trọng với Tổng thống Nga Putin tại đây. Diễn ra trong bối cảnh cuộc cạnh tranh Trung - Mỹ vẫn đang tiếp tục tăng nhiệt trên mọi lĩnh vực, đồng thời ngay trước thềm Đại hội Đảng lần thứ 20 của Trung Quốc, chuyến công du các nước Trung Á của ông Tập Cận Bình đang gửi đi rất nhiều thông điệp.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/09/15/vovlive_vandequocte_chutichtrungquocthamtrungathucdayloiichchienluoc.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 15 Sep 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
