@@ -43,14 +43,14 @@ def get_articles_from_html(soup, url, no_items, podcast_title, item_titles=None)
         file_list.append(file_name)
 
     file_list.sort()
-    
+
     articles = []
 
     for num, file_name in enumerate(file_list):
 
         media = 'https://archive.org' + file_name
 
-        title = file_name[:-4]
+        title = file_name[file_name.rfind('/')+1:-4]
 
         description = ''
 
