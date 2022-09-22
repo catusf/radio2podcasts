@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 22 Sep 2022 06:37:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 22 Sep 2022 22:05:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 22 Sep 2022 06:37:00 +0700</pubDate>
+    <pubDate>Thu, 22 Sep 2022 22:05:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,27 +24,27 @@
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Thủ tướng chủ trì phiên họp Chính phủ chuyên đề xây dựng pháp luật tháng 9 – Thời sự 11g00 22/9/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/thu-tuong-chu-tri-phien-hop-chinh-phu-chuyen-de-xay-dung-phap-luat-thang-9-thoi-su-11g00-22-9-2022-449162.html</link>
+      <description><![CDATA[15:05 - 22/09/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/thu-tuong-chu-tri-phien-hop-chinh-phu-chuyen-de-xay-dung-phap-luat-thang-9-thoi-su-11g00-22-9-2022-449162.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/09/22/AMThoisu11h00p220922-20220922103752.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 22 Sep 2022 22:05:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Đề nghị tiếp tục làm rõ nội hàm xã hội hóa y tế - Thời sự 5g30 22/9/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/de-nghi-tiep-tuc-lam-ro-noi-ham-xa-hoi-hoa-y-te-thoi-su-5g30-22-9-2022-449091.html</link>
+      <description><![CDATA[05:48 - 22/09/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/de-nghi-tiep-tuc-lam-ro-noi-ham-xa-hoi-hoa-y-te-thoi-su-5g30-22-9-2022-449091.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/09/22/AMThoisu05h30p22092022-20220921233751.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 22 Sep 2022 12:48:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Nâng cao chất lượng hoạt động thể dục thể thao trong nhân dân - Thời sự 11g 21/9/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/nang-cao-chat-luong-hoat-dong-the-duc-the-thao-trong-nhan-dan-thoi-su-11g-21-9-2022-449083.html</link>
       <description><![CDATA[23:37 - 21/09/2022]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/nang-cao-chat-luong-hoat-dong-the-duc-the-thao-trong-nhan-dan-thoi-su-11g-21-9-2022-449083.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/09/21/AMThoisu11h00p210922-20220921103622.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 22 Sep 2022 06:37:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Thí điểm hỗ trợ, khuyến khích doanh nghiệp tuân thủ pháp luật hải quan - Sài Gòn buổi sáng 21/9/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/thi-diem-ho-tro-khuyen-khich-doanh-nghiep-tuan-thu-phap-luat-hai-quan-sai-gon-buoi-sang-21-9-2022-449082.html</link>
-      <description><![CDATA[23:37 - 21/09/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/thi-diem-ho-tro-khuyen-khich-doanh-nghiep-tuan-thu-phap-luat-hai-quan-sai-gon-buoi-sang-21-9-2022-449082.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/09/21/FMSGBS06h00p210922-20220921070258.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 22 Sep 2022 06:37:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Quận 1 quảng bá hình ảnh về các di tích lịch sử, văn hóa, bảo tàng - Thời sự 5g30 21/9/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/quan-1-quang-ba-hinh-anh-ve-cac-di-tich-lich-su-van-hoa-bao-tang-thoi-su-5g30-21-9-2022-449081.html</link>
-      <description><![CDATA[23:37 - 21/09/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/quan-1-quang-ba-hinh-anh-ve-cac-di-tich-lich-su-van-hoa-bao-tang-thoi-su-5g30-21-9-2022-449081.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/09/21/AMThoisu05h30p21092022-20220920230340.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 22 Sep 2022 06:37:00 +0700</pubDate>
     </item>
   </channel>
