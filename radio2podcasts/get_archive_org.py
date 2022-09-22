@@ -2,7 +2,7 @@
 """
 
 import collections
-import datetime
+from datetime import datetime, timedelta
 import json
 import pytz
 
@@ -44,6 +44,10 @@ def get_articles_from_html(soup, url, no_items, podcast_title, item_titles=None)
 
     articles = []
 
+    vt_tz = pytz.timezone('Asia/Ho_Chi_Minh')
+    year, month, day = 2021, 12, 31
+    pub_date = datetime(year, month, day, 12, 0).astimezone(vt_tz)
+
     for num, i in enumerate(file_list):
 
         media = 'https://archive.org' + i[0]
@@ -52,10 +56,7 @@ def get_articles_from_html(soup, url, no_items, podcast_title, item_titles=None)
 
         description = ''
 
-        vt_tz = pytz.timezone('Asia/Ho_Chi_Minh')
-        year, month, day = 2021, 12, 22
-
-        pub_date = datetime.datetime(year, month, day, 12, 0).astimezone(vt_tz)
+        pub_date = pub_date - timedelta(days=1)
 
         articles.append(
             feed_article(
