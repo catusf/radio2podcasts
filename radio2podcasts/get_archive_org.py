@@ -26,7 +26,6 @@ def get_articles_from_html(soup, url, no_items, podcast_title, item_titles=None)
     feed_article = collections.namedtuple(
         'feed_article', {
             'link', 'title', 'description', 'pub_date', 'media', 'type'})
-    temp_list = list()
 
     # debug = False
 
@@ -39,18 +38,19 @@ def get_articles_from_html(soup, url, no_items, podcast_title, item_titles=None)
             break
 
         file_name = i['sources'][0]['file']
+        title = i['orig'].replace('.mp3', '')
 
-        file_list.append(file_name)
+        file_list.append((file_name, title))
 
-    file_list.sort()
+    file_list.sort(key = lambda x: x[1])
 
     articles = []
 
-    for num, file_name in enumerate(file_list):
+    for num, i in enumerate(file_list):
 
-        media = 'https://archive.org' + file_name
+        media = 'https://archive.org' + i[0]
 
-        title = file_name[file_name.rfind('/')+1:-4]
+        title = i[1]
 
         description = ''
 
