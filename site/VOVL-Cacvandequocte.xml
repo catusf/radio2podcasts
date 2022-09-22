@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 22 Sep 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 23 Sep 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 22 Sep 2022 19:00:00 +0700</pubDate>
+    <pubDate>Fri, 23 Sep 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Cuộc gặp khó khăn giữa lãnh đạo Anh và Mỹ</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Thủ tướng Anh Liz Truss đang có chuyến công du nước ngoài đầu tiên kể từ khi nhậm chức. Tại New York (Mỹ), bên cạnh tham dự cuộc họp của Đại hội đồng Liên hợp quốc, bà Liz Truss còn có nhiều cuộc gặp song phương bên lề với các nhà lãnh đạo khác nhưng đáng chú ý nhất là cuộc gặp của bà Liz Truss với Tổng thống Mỹ Joe Biden. Cuộc gặp của bà Liz Truss thu hút sự quan tâm của dư luận quốc tế bởi kể từ khi Anh rời khỏi Liên minh Châu Âu, việc xây dựng mối quan hệ đồng minh chặt chẽ với Mỹ luôn là ưu tiên của các đời Thủ tướng Anh, nhất là về thương mại. Tuy nhiên, hiện hai bên vẫn còn nhiều bất đồng trong lĩnh vực này khiến cho việc đàm phán hiệp định thương mại tự do song phương bị đình trệ.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/09/22/vovlive_vandequocte_cuocgapkhokhangiualanhdaoanhvamy.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 23 Sep 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Thế khó của Hungary trong mối quan hệ với Liên minh Châu Âu và Nga</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/09/19/vovlive_vandequocte_lenhngungbanmongmanhgiuaarmeniavaazerbaijan(1).mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 20 Sep 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Nga - Trung bắt tay, đối trọng với phương Tây</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Chủ tịch Trung Quốc Tập Cận Bình và Tổng thống Nga Putin vừa có cuộc gặp trực tiếp đầu tiên kể từ khi Nga mở chiến dịch quân sự ở Ukraine cuối tháng 2 năm nay. Điện Kremlin khẳng định cuộc gặp này “có ý nghĩa đặc biệt” trong tình hình địa - chính trị hiện nay. Cuộc gặp giữa hai nhà lãnh đạo Nga và Trung Quốc diễn ra bên lề hội nghị thượng đỉnh của Tổ chức Hợp tác Thượng Hải (SCO) tại Ubezkistan. Chuyến công du tới Trung Á trong tuần này cũng là lần đầu tiên ông Tập Cận Bình rời Trung Quốc sau hơn hai năm dịch bệnh Covid-19. Cuộc gặp giữa hai nhà lãnh đạo tạo cơ hội cho nhà lãnh đạo Trung Quốc nhấn mạnh tầm ảnh hưởng, trong khi Tổng thống Putin có thể chứng minh mối quan tâm của Nga với khu vực Châu Á. Trong bối cảnh cả Nga và Trung Quốc đều đang có căng thẳng với phương Tây, việc hai nước bắt tay làm thế đối trọng với phương Tây sẽ tác động ra sao tới tình hình địa chính trị thế giới?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/09/16/vovlive_vandequocte_ngatrungbattaydoitrongvoiphuongtay.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 17 Sep 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
