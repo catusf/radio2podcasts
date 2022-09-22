@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 21 Sep 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 22 Sep 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 21 Sep 2022 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 22 Sep 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Chuyến bay lịch sử của Nga và Mỹ lên ISS</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Sự chú ý của dư luận quốc tế đang đổ dồn về sân bay vũ trụ Baikonur của Nga ở Kazakhstan để chứng kiến chuyến bay đưa các phi hành gia lên Trạm Vũ trụ Quốc tế (ISS). Kể từ khi trạm ISS được đưa lên không gian hồi năm 1998, việc đưa các phi hành gia lên làm việc, nghiên cứu tại ISS là nhiệm vụ thường xuyên. Nhưng đây là lần đầu tiên các phi hành gia của Nga và Mỹ được đưa lên ISS trong cùng một chuyến bay. Trong bối cảnh quan hệ ngoại giao giữa Nga và Mỹ đang xấu đi nhanh chóng, chuyến bay này được đánh giá là lịch sử khi chứng minh những giá trị của khoa học, giá trị của tri thức có thể vượt qua những rào cản về chính trị như thế nào?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/09/22/vovlive_sukienvabanluan_lich_su_chuyen_bay_giua_nga_va_my.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 22 Sep 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Giải pháp nào ngăn chặn lao động bỏ trốn khi đi xuất khẩu</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -47,14 +55,6 @@ Tình trạng lao động bỏ trốn ở Hàn Quốc đang gây khó khăn cho 
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/09/19/vovlive_sukienvabinhluan_cham_dut_dai_dich_covid_19.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 19 Sep 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Minh bạch trong sản xuất - yêu cầu sống còn trong hoạt động xuất khẩu sản phẩm sầu riêng và nông sản chính ngạch</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Sau nhiều nỗ lực của các cơ quan chức năng, con đường chính ngạch cho xuất khẩu sầu riêng Việt Nam đã được khai thông. Dự kiến ngày 17/9 tới, lô sầu riêng đầu tiên xuất khẩu theo diện chính ngạch sẽ rời thị trường Đắc Lắc - vùng trồng sầu riêng lớn nhất cả nước để thâm nhập thị trường nước ngoài. Đây là tin mừng vì khoảng cách giữa sản xuất và thị trường được rút ngắn, nhưng cũng là thử thách bởi những đòi hỏi về tính minh bạch từ canh tác, thu hái, vệ sinh kiểm dịch đến dán nhãn sản phẩm. Nghĩa là Việt Nam phải sẵn sàng một quy trình quản lý chất lượng sầu riêng, để đảm bảo rằng chất lượng đồng đều trong tất cả các lô hàng xuất khẩu.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/09/16/vovlive_sukienvabanluan_minh_bach_trong_san_xuat.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 16 Sep 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
