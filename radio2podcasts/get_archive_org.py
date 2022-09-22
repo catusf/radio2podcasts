@@ -30,15 +30,27 @@ def get_articles_from_html(soup, url, no_items, podcast_title, item_titles=None)
 
     # debug = False
 
+    file_list = []
+
     items = json.loads(soup.select('input')[0]['value'])
     for num, i in enumerate(items):
 
         if num > no_items:
             break
 
-        media = 'https://archive.org' + i['sources'][0]['file']
+        file_name = i['sources'][0]['file']
 
-        title = podcast_title + " P" + str(num + 1)
+        file_list.append(file_name)
+
+    file_list.sort()
+    
+    articles = []
+
+    for num, file_name in enumerate(file_list):
+
+        media = 'https://archive.org' + file_name
+
+        title = file_name[:-4]
 
         description = ''
 
@@ -47,7 +59,7 @@ def get_articles_from_html(soup, url, no_items, podcast_title, item_titles=None)
 
         pub_date = datetime.datetime(year, month, day, 12, 0).astimezone(vt_tz)
 
-        temp_list.append(
+        articles.append(
             feed_article(
                 link=url,
                 title=title,
@@ -57,53 +69,53 @@ def get_articles_from_html(soup, url, no_items, podcast_title, item_titles=None)
                 type='audio/mpeg')
             )
 
-    if len(temp_list) < 2: # Just one item, returns it
-        return temp_list
+    # if len(temp_list) < 2: # Just one item, returns it
+    #     return temp_list
 
-    # Find the first difference if file name
-    parsed1 = urlparse(temp_list[0].media) # First item
-    parsed2 = urlparse(temp_list[1].media) # Second item
+    # # Find the first difference if file name
+    # parsed1 = urlparse(temp_list[0].media) # First item
+    # parsed2 = urlparse(temp_list[1].media) # Second item
 
-    filebase1 = os.path.splitext(os.path.basename(parsed1.path))[0]
-    filebase2 = os.path.splitext(os.path.basename(parsed2.path))[0]
+    # filebase1 = os.path.splitext(os.path.basename(parsed1.path))[0]
+    # filebase2 = os.path.splitext(os.path.basename(parsed2.path))[0]
 
-    poss = diff_positions(filebase1, filebase2)
+    # poss = diff_positions(filebase1, filebase2)
 
-    if len(poss) < 1:
-        pos = min(len(filebase1), len(filebase2)) - 1
-    else:
-        pos = poss[0]
+    # if len(poss) < 1:
+    #     pos = min(len(filebase1), len(filebase2)) - 1
+    # else:
+    #     pos = poss[0]
 
-    sorted_list = list()
+    # sorted_list = list()
 
-    for i in temp_list:
-        parsed = urlparse(i.media)
-        filebase = os.path.splitext(os.path.basename(parsed.path))[0]
-        num = filebase[pos:] # Extract the number part of the filename
+    # for i in temp_list:
+    #     parsed = urlparse(i.media)
+    #     filebase = os.path.splitext(os.path.basename(parsed.path))[0]
+    #     num = filebase[pos:] # Extract the number part of the filename
 
-        if num.isnumeric():
-            sorted_list.append((i, num.zfill(2))) # Add one padding zero if this is a number and less than 10
-        else:
-            sorted_list.append((i, num))
+    #     if num.isnumeric():
+    #         sorted_list.append((i, num.zfill(2))) # Add one padding zero if this is a number and less than 10
+    #     else:
+    #         sorted_list.append((i, num))
 
-    sorted_list.sort(key=lambda x: x[1])
+    # sorted_list.sort(key=lambda x: x[1])
 
-    articles = list()
+    # articles = list()
 
-    count = 1
-    for i, num in sorted_list:
-        articles.append(
-            feed_article(
-                link=i.link,
-                title=i.title,
-                description=i.description,
-                pub_date=i.pub_date + datetime.timedelta(minutes=count),
-                media=i.media,
-                type=i.type)
-        )
-        count = count + 1
+    # count = 1
+    # for i, num in sorted_list:
+    #     articles.append(
+    #         feed_article(
+    #             link=i.link,
+    #             title=i.title,
+    #             description=i.description,
+    #             pub_date=i.pub_date + datetime.timedelta(minutes=count),
+    #             media=i.media,
+    #             type=i.type)
+    #     )
+    #     count = count + 1
 
-    for i in articles:
-        print(i.pub_date, i.media)
+    # for i in articles:
+    #     print(i.pub_date, i.media)
 
     return articles
