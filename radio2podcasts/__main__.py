@@ -11,6 +11,9 @@ import argparse
 
 from jinja2 import Environment, FileSystemLoader
 
+import datetime
+import pytz
+
 from podcasts_utils import output_rss, rss_from_webpage, number_in_cirle, send_mail_on_error
 
 from create_cover_image import create_image
@@ -130,8 +133,12 @@ def main():
 
         website = PODCASTS['websites'][sitename]
 
+        vt_tz = pytz.timezone('Asia/Ho_Chi_Minh')
+        now = datetime.datetime.now().astimezone(vt_tz).isoformat()
+
         render_site = {'name': sitename,
-                       'url': website['home'], 'podcasts': []}
+                       'url': website['home'], 
+                       'podcasts': []}
 
         for program in website['programs']:
             title = program['title']
@@ -187,7 +194,7 @@ def main():
 
         render_sites.append(render_site)
 
-    output = template.render(sites=render_sites)
+    output = template.render(sites=render_sites, date=now)
 
     with open(index_file_path, 'w', encoding='utf-8') as file:
         file.write(output)
