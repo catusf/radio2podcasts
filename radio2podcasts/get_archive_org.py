@@ -36,7 +36,7 @@ def get_articles_from_html(soup, url, no_items, podcast_title, item_titles=None)
             break
 
         file_name = i['sources'][0]['file']
-        title = i['orig'].replace('.mp3', '')
+        title = i['orig'].replace('.mp3', '').replace('-', ' ')
 
         file_list.append((file_name, title))
 
