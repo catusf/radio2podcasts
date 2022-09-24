@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 23 Sep 2022 19:08:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 24 Sep 2022 13:20:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 23 Sep 2022 19:08:00 +0700</pubDate>
+    <pubDate>Sat, 24 Sep 2022 13:20:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Chuyển đổi số - Giải pháp kết nối, quảng bá sản phẩm in TPHCM - Sài Gòn buổi sáng 24/9/2022</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/chuyen-doi-so-giai-phap-ket-noi-quang-ba-san-pham-in-tphcm-sai-gon-buoi-sang-24-9-2022-449335.html</link>
+      <description><![CDATA[06:20 - 24/09/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/chuyen-doi-so-giai-phap-ket-noi-quang-ba-san-pham-in-tphcm-sai-gon-buoi-sang-24-9-2022-449335.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/09/24/SGBS-Tap-chi-cuoi-tuan-24092022-20220923214750.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 24 Sep 2022 13:20:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Kinh tế Việt Nam tăng trưởng 7,5% trong năm 2022 – Sài Gòn buổi sáng 23/9/2022</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/kinh-te-viet-nam-tang-truong-7-5-trong-nam-2022-sai-gon-buoi-sang-23-9-2022-449257.html</link>
       <description><![CDATA[12:08 - 23/09/2022]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/kinh-te-viet-nam-tang-truong-7-5-trong-nam-2022-sai-gon-buoi-sang-23-9-2022-449257.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/09/23/FMSGBS06h00p230922-20220923070133.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 23 Sep 2022 19:08:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Tọa đàm Góp ý Dự thảo Luật Đất đai (sửa đổi) - Sài Gòn buổi sáng 22/9/2022</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/toa-dam-gop-y-du-thao-luat-dat-dai-sua-doi-sai-gon-buoi-sang-22-9-2022-449109.html</link>
-      <description><![CDATA[07:38 - 22/09/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/toa-dam-gop-y-du-thao-luat-dat-dai-sua-doi-sai-gon-buoi-sang-22-9-2022-449109.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/09/22/FMSGBS06h00p220922-20220922065308.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 22 Sep 2022 14:38:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
