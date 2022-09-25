@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 19 Sep 2022 03:21:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 25 Sep 2022 15:55:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 19 Sep 2022 03:21:00 +0700</pubDate>
+    <pubDate>Sun, 25 Sep 2022 15:55:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Cửa sổ văn học trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Cuasovanhoc.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Hãy "sống như trái dứa" - Cửa sổ văn học 25/9/2022</title>
+      <link>https://radio.voh.com.vn/cua-so-van-hoc/hay-song-nhu-trai-dua-cua-so-van-hoc-25-9-2022-449429.html</link>
+      <description><![CDATA[08:55 - 25/09/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/hay-song-nhu-trai-dua-cua-so-van-hoc-25-9-2022-449429.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/09/25/FMCuasovanhoc07h00p250922-20220924183848.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 25 Sep 2022 15:55:00 +0700</pubDate>
+    </item>
     <item>
       <title>Sơ kết cuộc thi truyện ngắn hay 2022 - Cửa sổ văn học 18/9/2022</title>
       <link>https://radio.voh.com.vn/cua-so-van-hoc/so-ket-cuoc-thi-truyen-ngan-hay-2022-cua-so-van-hoc-18-9-2022-448766.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/nha-van-kim-quyen-va-hanh-trinh-van-chuong-cua-so-van-hoc-11-9-2022-447924.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/09/11/FMCuasovanhoc07h00p110922-20220910182116.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 11 Sep 2022 22:44:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Buổi giao lưu giới thiệu tập tản văn Mùi hương - Cửa sổ văn học 4/9/2022</title>
-      <link>https://radio.voh.com.vn/cua-so-van-hoc/buoi-giao-luu-gioi-thieu-tap-tan-van-mui-huong-cua-so-van-hoc-4-9-2022-447154.html</link>
-      <description><![CDATA[21:03 - 04/09/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/buoi-giao-luu-gioi-thieu-tap-tan-van-mui-huong-cua-so-van-hoc-4-9-2022-447154.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/09/04/FMCuasovanhoc07h00p040922-20220903172019.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 05 Sep 2022 04:03:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
