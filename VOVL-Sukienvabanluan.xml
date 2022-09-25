@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 22 Sep 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 23 Sep 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 22 Sep 2022 19:00:00 +0700</pubDate>
+    <pubDate>Fri, 23 Sep 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Vì sao Nhật Bản chưa thay thế máy fax, đĩa mềm?</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Nhật Bản được biết đến là quốc gia phát triển hàng đầu về công nghệ và tự động hóa, từ sản xuất xe ô tô cho đến công nghệ trí tuệ nhân tạo hiện đại nhất. Thế nhưng, điều kỳ lạ là những công nghệ cũ hơn như máy fax, đĩa mềm...vẫn tồn tại trong đời sống và nền hành chính công của “đất nước mặt trời mọc”. Thậm chí, năm 2018, Bộ trưởng An ninh mạng Yoshitaka Sakurada từng gây sốc khi thừa nhận ông chưa bao giờ sử dụng máy tính. Năm 2019, nước này cũng mới đóng cửa dịch vụ tin nhắn bằng máy nhắn tin.....Lý do nào khiến người Nhật vẫn “lưu luyến” những công nghệ cũ?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/09/23/vovlive_sukienvabanluan_vi_sao_nhat_ban_chua_thay_the_may-fax_dia_mem.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 23 Sep 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Chuyến bay lịch sử của Nga và Mỹ lên ISS</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -47,14 +55,6 @@ Tình trạng lao động bỏ trốn ở Hàn Quốc đang gây khó khăn cho 
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/09/20/vovlive_sukienvabanluan_trien_vong_tro_thanh_trung_tam_hau_can_quan_trong_tai_khu_vuc_asean_thai_lan.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 20 Sep 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chấm dứt đại dịch COVID-19: Cơ hội trong tầm tay!</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Trong tuyên bố mới nhất, Tổng Giám đốc Tổ chức Y tế thế giới (WHO) Tedros Ghebreyesus nhận định, thế giới đang ở thời điểm thuận lợi nhất để chấm dứt đại dịch COVID-19. Dù cho rằng sẽ vẫn còn những làn sóng lây nhiễm trong tương lai nhưng giới chức y tế khẳng định, thế giới đã có trong tay những công cụ hiệu quả như vaccine và thuốc chữa để ngăn biến chứng nặng. Nhiều nước cũng đang đẩy nhanh kế hoạch coi COVID-19 là bệnh đặc hữu. Liệu triển vọng chấm dứt đại dịch COVID-19 có sớm thành hiện thực như tuyên bố của người đứng đầu WHO?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/09/19/vovlive_sukienvabinhluan_cham_dut_dai_dich_covid_19.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 19 Sep 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
