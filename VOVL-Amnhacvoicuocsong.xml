@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 18 Sep 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 25 Sep 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 18 Sep 2022 19:00:00 +0700</pubDate>
+    <pubDate>Sun, 25 Sep 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Âm nhạc với cuộc sống</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Amnhacvoicuocsong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Trở về căn cứ địa Bắc Sơn trong những sáng tác âm nhạc</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[Kỷ niệm 82 năm khởi nghĩa Bắc Sơn (27/9/1940-27/9/2022), thưởng thức các ca khúc: “Hương hồi xứ Lạng” (Nhạc sĩ Ngô Quốc Tính), “Bắc Sơn” (Nhạc sĩ Văn Cao) và lắng nghe những chia sẻ của Họa sĩ Văn Thao (con trai cố nhạc sĩ Văn Cao) kỷ niệm với người cha của mình về ca khúc Bắc Sơn, “Về Bắc Sơn quê em” (Nhạc sĩ Nguyễn Văn Tân)…]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/09/26/vovlive_am_nhac_voi_cuoc_song_bac_son.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 25 Sep 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Gala Giai điệu Sơn ca 2022: Sân chơi lành mạnh, bổ ích cho các em thiếu nhi</title>
       <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
@@ -48,15 +56,6 @@
       <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/09/06/vovlive_am_nhac_voi_cuoc_song_nguyen_thi_van_hanh.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 04 Sep 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>“Việt Nam ơi ta bước tiếp”: Niềm tự hào về truyền thống lịch sử của dân tộc</title>
-      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[- Kỷ niệm 77 năm Cách mạng Tháng Tám thành công và Quốc Khánh 2/9, thưởng thức ca khúc “Việt Nam ơi ta bước tiếp” (Sáng tác: Nhạc sĩ Kiên Ninh) và cùng nghe những chia sẻ của nhạc sĩ Kiên Ninh về bài hát cũng như thông điệp mà nhạc sỹ gửi gắm qua tác phẩm.
-- Kỷ niệm 111 năm ngày sinh Đại Tướng Võ Nguyên Giáp (25/8/1911-25/8/2022), thưởng thức ca khúc “Anh Văn của đồng đội” (Sáng tác: Nhạc sĩ Đào Hữu Thi) và lắng nghe những chia sẻ của nhạc sĩ về hoàn cảnh ra đời của ca khúc…]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/08/29/vovlive_am_nhac_voi_cuoc_song_viet_nam_oi_ta_buoc_tiep.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 28 Aug 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
