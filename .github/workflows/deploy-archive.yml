@@ -48,6 +48,9 @@ jobs:
             git commit -m "Update website"
             git fetch
             git push origin --force
+            git checkout gh-pages
+            git rebase master
+            git push origin --force
         fi
 
     - name: Deploy site to GitHub Pages 🚀
