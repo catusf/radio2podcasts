@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 28 Sep 2022 13:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 29 Sep 2022 15:38:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 28 Sep 2022 13:00:00 +0700</pubDate>
+    <pubDate>Thu, 29 Sep 2022 15:38:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Đánh giá tình hình công tác ứng phó bão số 4 – Sài Gòn buổi sáng 29/9/2022</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/danh-gia-tinh-hinh-cong-tac-ung-pho-bao-so-4-sai-gon-buoi-sang-29-9-2022-449918.html</link>
+      <description><![CDATA[08:38 - 29/09/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/danh-gia-tinh-hinh-cong-tac-ung-pho-bao-so-4-sai-gon-buoi-sang-29-9-2022-449918.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/09/29/FMSGBS06h00p290922-20220929070132.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 29 Sep 2022 15:38:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Cơn bão số 4 đổ bộ vào miền Trung - Sài Gòn buổi sáng 28/9/2022</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/con-bao-so-4-do-bo-vao-mien-trung-sai-gon-buoi-sang-28-9-2022-449834.html</link>
       <description><![CDATA[06:00 - 28/09/2022]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/con-bao-so-4-do-bo-vao-mien-trung-sai-gon-buoi-sang-28-9-2022-449834.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/09/28/sgbs-280922.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 28 Sep 2022 13:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Bão Noru - cơn bão mạnh nhất trong 20 năm trở lại đây - Sài Gòn buổi sáng 27/9/2022</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/bao-noru-con-bao-manh-nhat-trong-20-nam-tro-lai-day-sai-gon-buoi-sang-27-9-2022-449771.html</link>
-      <description><![CDATA[23:44 - 27/09/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/bao-noru-con-bao-manh-nhat-trong-20-nam-tro-lai-day-sai-gon-buoi-sang-27-9-2022-449771.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/09/27/FMSGBS06h00p270922-20220927070213.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 28 Sep 2022 06:44:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
