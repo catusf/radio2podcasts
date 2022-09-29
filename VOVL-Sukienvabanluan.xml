@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 27 Sep 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 29 Sep 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 27 Sep 2022 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 29 Sep 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Sôi động cuộc đua thu hút lao động lành nghề tại châu Á-Thái Bình Dương</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Trong bối cảnh khu vực châu Á -Thái Bình Dương đang phải đối mặt với tình cảnh thiếu hụt lao động trầm trọng, tỷ lệ sinh sụt giảm và tốc độ già hóa ngày càng nhanh chóng, cuộc cạnh tranh nhằm thu hút nhân tài, những lao động có tay nghề cao đang nóng lên hàng ngày, hàng giờ. Các nước như Australia, Malaysia, Singapore, Thái Lan, hay vùng lãnh thổ Đài Loan - Trung quốc đều đang thúc đẩy các chính sách hấp dẫn để tìm kiếm được nguồn nhân sự chất lượng cao phục vụ cho quá trình phục hồi - phát triển sau đại dịch Covid -19.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/09/29/vovlive_su_kienvabanluan_soi_dong_cuoc_dua_thu_hut_lao_dong.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 29 Sep 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Xây dựng đề án sản xuất bền vững 01 triệu héc ta chuyên canh lúa chất lượng cao vùng đồng bằng sông Cửu Long, cần chính sách đủ mạnh để lôi kéo doanh nghiệp tham gia</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,15 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/09/22/vovlive_sukienvabanluan_lich_su_chuyen_bay_giua_nga_va_my.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 22 Sep 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Giải pháp nào ngăn chặn lao động bỏ trốn khi đi xuất khẩu</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[55 lao động tại Quảng Bình đã bị phía Hàn Quốc từ chối cấp thị thực đợt 2 trong chương trình tuyển dụng lao động thời vụ. Nguyên nhân do trước đó hàng chục lao động đợt 01 được phía Hàn Quốc tuyển dụng đầu năm nay đã bỏ trốn, không làm theo thỏa thuận hợp đồng lao động. Đây không phải là địa phương duy nhất xảy ra tình trạng này, khi trước đó tại nhiều địa phương như Hải Dương, Thanh Hóa, Nghệ An, Hà Tĩnh... cũng có rất nhiều lao động làm việc đã bỏ chốn.
-Tình trạng lao động bỏ trốn ở Hàn Quốc đang gây khó khăn cho việc duy trì chương trình xuất khẩu lao động sang Hàn Quốc của tỉnh Quảng Bình cũng như các địa phương khác.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/09/21/vovlive_sukienvabanluan_giai_phap_nao_cho_lao_dong_khoi_bo_chon.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 21 Sep 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
