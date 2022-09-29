@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 29 Sep 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 30 Sep 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 29 Sep 2022 19:00:00 +0700</pubDate>
+    <pubDate>Fri, 30 Sep 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ba Lan, Đan Mạch, Na Uy khánh thành đường ống dẫn khí đốt Baltic Pipe công suất vận chuyển 10 tỷ m3/năm</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Ba Lan, Đan Mạch và Na Uy vừa khánh thành đường ống dẫn khí đốt Baltic Pipe để vận chuyển khí đốt từ Na Uy qua Đan Mạch, qua biển Baltic đến Ba Lan. Với công suất lên tới 10 tỷ mét khối/năm, đường ống này là trọng tâm trong chiến lược của Ba Lan nhằm đa dạng hóa nguồn cung khí đốt. Theo kế hoạch ban đầu, đường ống này sẽ được khánh thành vào tháng 1/2023. Tuy nhiên, những diễn biến phức tạp của tình hình địa chính trị khu vực đã thúc đẩy các bên đẩy nhanh tiến độ triển khai dự án và đưa đường ống Baltic Pipe vào khai thác sớm hơn dự kiến.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/09/29/vovlive_vandequocte_balandanmachnauy.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 30 Sep 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Mỹ thúc đẩy hợp tác với các đảo quốc Thái Bình Dương</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/09/27/vovlive_vandequocte_baucuitalia.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 27 Sep 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Các toan tính trong chuyến công du vùng Vịnh nhiều mục đích của Thủ tướng Đức Olaf Scholz diễn ra cuối tuần này</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Cuối tuần này, Thủ tướng Đức Olaf Scholz sẽ thực hiện chuyến công du 2 ngày tới vùng Vịnh. Theo kế hoạch, Thủ tướng Đức Olaf Scholz sẽ gặp các nhà lãnh đạo của Ả-rập Xê-út, Các tiểu vương quốc Ả-rập thống nhất và Cata. Mặc dù Chính phủ Đức nêu rõ mục tiêu hàng đầu của chuyến công du là tập trung vào việc thúc đẩy đầu tư tại nước này nhưng giới phân tích nhận định đây cũng là động thái thể hiện quyết tâm của chính quyền Berlin trong việc "giải bài toán khó" về năng lượng khi mà chỉ còn ít tháng nữa, cả Châu Âu sẽ bước vào mùa đông lạnh giá. Dư luận kỳ vọng gì vào chuyến công du vùng Vịnh lần này của Thủ tướng Đức? Chính quyền của Thủ tướng Olaf Scholz toan tính điều gì khi mở rộng hợp tác với vùng Vịnh trong bối cảnh hiện nay?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/09/23/vovlive_vandequocte_cactoantinhtrongchuyencongduvungvinh.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 24 Sep 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 20 Sep 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 28 Sep 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 20 Sep 2022 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 28 Sep 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,16 @@
     </itunes:owner>
     <itunes:subtitle>Thể thao 7 ngày</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Thethao7ngay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Chương trình thể thao 7 ngày 24 tháng 9 năm 2022</title>
+      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
+      <description><![CDATA[- Giải Golf Việt Nam mở rộng 2022 vừa kết thúc cùng giải đấu chuyên nghiệp trước đó. Ghi nhận những thành thích xuất sắc của các vận động viên trẻ, làm sao để các bạn trẻ có được sự phát triển trong tương lai, nâng tầm thành tích golf Việt Nam trên đấu trường quốc tế. 
+- Giải vô địch bóng rổ Hà Nội, giải đấu đầu tiên được tổ chức tại nhà thi đấu Thanh Trì.
+- Lotteria sân chơi thể thao hấp dẫn cho các cầu thủ nhí toàn quốc...]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/09/28/vovlive_thethao7ngay_chuongtrinhthethao7ngay24092022.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 28 Sep 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Chương trình thể thao 7 ngày 17 tháng 9 năm 2022</title>
       <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
@@ -49,15 +59,6 @@
       <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/09/16/vovlive_thethao7ngay_chuongtrinhthethao7ngay2792022.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 16 Sep 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chương trình thể thao 7 ngày 20 tháng 8 năm 2022</title>
-      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
-      <description><![CDATA[Cùng huấn luyện viên Mai Đức Chung nhìn lại thất bại của đội tuyển nữ Việt Nam tại AFF Cup nữ 2022 vừa qua. Và những bài học được rút ra để bóng đá nữ phát triển hơn trong tương lai. 
-Giới thiệu về câu lạc bộ tập hiphop của các cụ U80 tại Hà Nội.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/08/25/vovlive_theothao7ngay_chuongtrinhthethao7ngay2082022.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 25 Aug 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
