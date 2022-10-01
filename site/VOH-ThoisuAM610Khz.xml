@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 30 Sep 2022 03:52:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 30 Sep 2022 23:45:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 30 Sep 2022 03:52:00 +0700</pubDate>
+    <pubDate>Fri, 30 Sep 2022 23:45:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Nông dân chuyển hướng sản xuất hữu cơ – Thời sự 11g00 30/9/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/nong-dan-chuyen-huong-san-xuat-huu-co-thoi-su-11g00-30-9-2022-450181.html</link>
+      <description><![CDATA[16:45 - 30/09/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/nong-dan-chuyen-huong-san-xuat-huu-co-thoi-su-11g00-30-9-2022-450181.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/09/30/AMThoisu11h00p300922-20220930103448.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 30 Sep 2022 23:45:00 +0700</pubDate>
+    </item>
     <item>
       <title>Đoàn công tác TPHCM thăm chiến sĩ và nhân dân trên đảo Hòn Đốc, Kiên Giang - Thời sự 17g00 29/9/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/doan-cong-tac-tphcm-tham-chien-si-va-nhan-dan-tren-dao-hon-doc-kien-giang-thoi-su-17g00-29-9-2022-450035.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/hoi-nghi-lan-thu-17-ban-chap-hanh-dang-bo-tphcm-khoa-xi-thoi-su-11g00-29-9-2022-450034.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/09/29/AMThoisu11h00p290922-20220929102706.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 30 Sep 2022 03:45:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Tiếp tục tháo gỡ khó khăn để ngành du lịch phục hồi và phát triển – Thời sự 5g30 29/9/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tiep-tuc-thao-go-kho-khan-de-nganh-du-lich-phuc-hoi-va-phat-trien-thoi-su-5g30-29-9-2022-449916.html</link>
-      <description><![CDATA[08:26 - 29/09/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tiep-tuc-thao-go-kho-khan-de-nganh-du-lich-phuc-hoi-va-phat-trien-thoi-su-5g30-29-9-2022-449916.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/09/29/AMThoisu05h30p29092022-20220928230142.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 29 Sep 2022 15:26:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
