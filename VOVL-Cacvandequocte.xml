@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 30 Sep 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 04 Oct 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 30 Sep 2022 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 04 Oct 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Động thái leo thang căng thẳng trên bán đảo Triều Tiên những ngày qua</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Khu vực bán đảo Triều Tiên đang chứng kiến sự gia tăng căng thẳng nghiêm trọng khi các bên liên quan có những động thái đáp trả cứng rắn. Trong khi Mỹ, Nhật Bản và Hàn Quốc tổ chức các cuộc tập trận chung chống tàu ngầm thì phía Triều Tiên liên tiếp tiến hành hàng loạt vụ thử vũ khí với 4 vụ phóng thử tên lửa trong một tuần qua. Triển vọng các cuộc đàm phán phi hạt nhân hóa bán đảo Triều Tiên vốn dĩ khó đoán định, nay lại càng đối mặt nhiều chông gai khi các bên thử thách giới hạn của nhau. Trong bối cảnh cuộc xung đột Nga - Ukraine chưa có dấu hiệu sớm kết thúc, dư luận lo ngại sự gia tăng căng thẳng trên bán đảo Triều Tiên có thể tác động bất lợi đến cục diện hòa bình và sự ổn định chiến lược trên phạm vi toàn cầu.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/10/03/vovlive_vandequocte_dongthaileothangcangthangtrenbandaotrieutiennhungngayqua.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 04 Oct 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Hội nghị thượng đỉnh lần đầu tiên với Mỹ: Các quốc đảo Thái Bình Dương tìm cách cân bằng nước lớn</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/09/28/vovlive_vandequocte_mythucdayhoptacvoicacdaoquocthaibinhduong.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 29 Sep 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Hội đồng Bảo an Liên Hợp quốc đang đứng trước yêu cầu cải tổ</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Vấn đề cải tổ Hội đồng bảo an Liên Hợp quốc thường được nêu ra mỗi khi thế giới đối mặt với một cuộc khủng hoảng nào đó. Lần này cũng không phải ngoại lệ khi cuộc khủng hoảng Ukraine được cho là cuộc xung đột làm thay đổi cục diện thế giới mạnh mẽ nhất kể từ sau chiến tranh Lạnh. Trong bối cảnh cuộc xung đột Nga - Ukraine tiếp tục có nhiều diễn biến mới phức tạp, liệu “cú hích Ukraine” có thể thúc đẩy tiến trình cải tổ Liên Hợp quốc vốn “giậm chân tại chỗ” gần 2 thập kỷ qua hay không?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/09/27/vovlive_vandequocte_hoidongbaoanlienhopquoc.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 28 Sep 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
