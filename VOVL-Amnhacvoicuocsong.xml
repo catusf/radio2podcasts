@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 25 Sep 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 02 Oct 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 25 Sep 2022 19:00:00 +0700</pubDate>
+    <pubDate>Sun, 02 Oct 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Âm nhạc với cuộc sống</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Amnhacvoicuocsong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Thơ Tố Hữu trong lời ca của các nhạc sỹ</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[Tố Hữu là một nhà thơ lớn của dân tộc, một nhà thơ tiêu biểu của dòng thơ Cách mạng Việt Nam. Cuộc đời và sự nghiệp cách mạng, sự nghiệp thi ca của ông hòa quyện vào nhau trong từng bước đi của lịch sử và thời đại. Kỷ niệm 102 năm ngày sinh của nhà thơ Tố Hữu (4/10/1920-4/10-2022) thưởng thức một số ca khúc được phổ từ lời thơ của ông: “Em đã thắng” (Nhạc sĩ Văn Ký dựa trên bài thơ “Người con gái Việt Nam” của nhà thơ Tố Hữu), “Người con gái Việt Nam” (NSƯT Hoàng Tùng sáng tác dựa trên bài thơ “Người con gái Việt Nam” của nhà thơ Tố Hữu), “Tổ quốc tôi chưa đẹp thế bao giờ” (Nhạc sĩ Nguyễn Văn Thương phổ từ bài thơ “Vui thế hôm nay” của nhà thơ Tố Hữu) và lắng nghe những chia sẻ của NSƯT Hoàng Tùng để tìm hiểu về ca khúc “Người con gái Việt Nam”…]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/10/03/vovlive_am_nhac_voi_cuoc_song_to_huu.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 02 Oct 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Trở về căn cứ địa Bắc Sơn trong những sáng tác âm nhạc</title>
       <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
@@ -47,15 +55,6 @@
       <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/09/12/vovlive_am_nhac_voi_cuoc_song_92_nam_xo_viet_nghe_tinh.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 11 Sep 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Nghệ sĩ violin Nguyễn Thị Vân Hạnh và con đường âm nhạc</title>
-      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[- Kỷ niệm 77 năm ngày thành lập Đài Tiếng nói Việt Nam (7/9/1945-7/9/2022), cùng lắng nghe những chia sẻ về con đường âm nhạc của nghệ sĩ violin Nguyễn Thị Vân Hạnh, Nhà hát Đài TNVN.
-- Thưởng thức ca khúc “Lắng tiếng quê hương” (Sáng tác: Nhạc sĩ Dân Huyền).]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/09/06/vovlive_am_nhac_voi_cuoc_song_nguyen_thi_van_hanh.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 04 Sep 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
