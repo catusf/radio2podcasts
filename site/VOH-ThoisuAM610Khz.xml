@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 03 Oct 2022 13:52:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 03 Oct 2022 18:26:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 03 Oct 2022 13:52:00 +0700</pubDate>
+    <pubDate>Mon, 03 Oct 2022 18:26:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Kỳ 1: Điều kiện cần giúp ngành công nghiệp không khói phát triển bền vững - Thời sự 11g00 3/10/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/ky-1-dieu-kien-can-giup-nganh-cong-nghiep-khong-khoi-phat-trien-ben-vung-thoi-su-11g00-3-10-2022-450438.html</link>
+      <description><![CDATA[11:26 - 03/10/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/ky-1-dieu-kien-can-giup-nganh-cong-nghiep-khong-khoi-phat-trien-ben-vung-thoi-su-11g00-3-10-2022-450438.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/10/03/AMThoisu11h00p031022-20221003104005.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 03 Oct 2022 18:26:00 +0700</pubDate>
+    </item>
     <item>
       <title>Kinh tế TPHCM tăng trưởng mạnh trong thời gian thực hiện Nghị quyết 54 - Thời sự 5g30 3/10/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/kinh-te-tphcm-tang-truong-manh-trong-thoi-gian-thuc-hien-nghi-quyet-54-thoi-su-5g30-3-10-2022-450418.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/viet-nam-dong-vai-tro-la-be-phong-cho-chau-a-thoi-su-17g00-2-10-2022-450402.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/10/02/AM610-THOISU45P17h00p021022.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 03 Oct 2022 05:52:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Không gian văn hóa Hồ Chí Minh-nơi học sinh, giáo viên rèn luyện bản thân mình-Thời sự 11g 2/10/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/khong-gian-van-hoa-ho-chi-minh-noi-hoc-sinh-giao-vien-ren-luyen-ban-than-minh-thoi-su-11g-2-10-2022-450372.html</link>
-      <description><![CDATA[15:01 - 02/10/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/khong-gian-van-hoa-ho-chi-minh-noi-hoc-sinh-giao-vien-ren-luyen-ban-than-minh-thoi-su-11g-2-10-2022-450372.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/10/02/AM610-THOISU30P11h00p021022.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 02 Oct 2022 22:01:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
