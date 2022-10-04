@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 04 Oct 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 05 Oct 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 04 Oct 2022 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 05 Oct 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Cánh cửa nào cho Ukraine gia nhập NATO</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Ukraine đã chính thức nộp đơn gia nhập tổ chức Hiệp ước Bắc Đại Tây Dương (NATO), ngay sau khi Nga tuyên bố sáp nhập 4 khu vực miền Đông Ukraine vào Nga. Lá đơn của Ukraine có thể coi là sự phản ứng mạnh mẽ, kiên quyết với Matxcova, đồng thời đánh dấu một bước tiến quan trọng của Ukraine trong nỗ lực “Tây tiến”. Gia nhập NATO vốn là nguyện vọng của Ukraine và được ghi trong Hiến pháp nước này kể từ năm 2019. Tuy nhiên, nỗ lực đó từ lâu đã trở thành nguồn gốc của mọi căng thẳng với Nga - quốc gia vốn coi sự mở rộng về phía đông của NATO là một trong những mối đe dọa an ninh lớn nhất. Liệu Ukraine quyết định xin gia nhập NATO có đúng thời điểm? Quyết định này tác động ra sao đến diễn biến mối quan hệ Nga - Ukraine?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/10/04/vovlive_vandequocte_canhcuanaochoukraine.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 05 Oct 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Động thái leo thang căng thẳng trên bán đảo Triều Tiên những ngày qua</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/09/29/vovlive_vandequocte_balandanmachnauy.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 30 Sep 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Mỹ thúc đẩy hợp tác với các đảo quốc Thái Bình Dương</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Hội nghị thượng đỉnh lần đầu tiên giữa Mỹ và các đảo quốc Thái Bình Dương khai mạc ngày 28/9, tại thủ đô Washington, Mỹ. Thông báo của Nhà Trắng nhấn mạnh, Hội nghị thượng đỉnh là minh chứng cho mối quan hệ đối tác bền vững và sâu sắc giữa Mỹ và các đảo quốc Thái Bình Dương cũng như mục tiêu của Mỹ về một khu vực Ấn Độ Dương - Thái Bình Dương tự do và rộng mở. Hội nghị này được xem là nỗ lực mới nhất của Mỹ nhằm tăng cường quan hệ với khu vực giữa lúc tầm ảnh hưởng của Trung Quốc không ngừng gia tăng. Trước đó, tại Hội nghị thượng đỉnh các đảo quốc Thái Bình Dương diễn ra tháng 7 vừa qua, Phó Tổng thống Mỹ Kamala Haris đã công bố khoản ngân sách mới trị giá 600 triệu USD nhằm hỗ trợ khu vực này cùng kế hoạch mở các đại sứ quán Mỹ tại Tonga và Kiribati. Những động thái này của chính quyền Tổng thống Mỹ cho thấy rõ sự tăng cường can dự của Mỹ với các đảo quốc Thái Bình Dương.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/09/28/vovlive_vandequocte_mythucdayhoptacvoicacdaoquocthaibinhduong.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 29 Sep 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
