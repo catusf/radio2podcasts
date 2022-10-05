@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 28 Sep 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 04 Oct 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 28 Sep 2022 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 04 Oct 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,16 @@
     </itunes:owner>
     <itunes:subtitle>Thể thao 7 ngày</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Thethao7ngay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Chương trình thể thao 7 ngày 01 tháng 10 năm 2022</title>
+      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
+      <description><![CDATA[- Tạo ra cơn mưa bàn thắng vào lưới hai đội khách mời Singapore và Ấn Độ. Đội tuyển Việt Nam đã vô địch giải giao hữu Hưng Thịnh 2022 vô cùng thuyết phục. Không chỉ nhận 30.000 đô la Mỹ, tích lũy thêm điểm số để tăng một bậc lên hạng 96 FIFA. Việc hoàn thành mục tiêu tại đợt FIFA Day tháng 9 còn nằm ở khía cạnh tri ân khán giả phía Nam, đồng thời gửi đi thông điệp kép đầy mạnh mẽ: huấn luyện viên Park Hang Seo không hề bảo thủ và các cầu thủ cả cũ lẫn mới đều phải cạnh tranh sòng phẳng. Giới chuyên môn, các cầu thủ và ông Park đánh giá ra sao về hai trận giao hữu vừa qua cũng như chiến dịch lớn vào cuối năm?
+- Cảm nhận sâu sắc hơn về phương châm NO PAIN NO GAIN, không đau đớn, không đạt được mục tiêu. Bên cạnh tầm quan trọng của điểm tựa gia đình qua câu chuyện của lực sĩ thể hình vô địch Châu Á Bùi Thị Thoa. 
+- Cung cấp thông tin về lễ tuyệt vời của việc vận động thể thao trong việc hòa nhập cộng đồng đối với trẻ khiếm thị, khiếm thính chậm phát triển.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/10/04/vovlive_thethao7ngay_chuongtrinhthethao7ngay1102022.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 04 Oct 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Chương trình thể thao 7 ngày 24 tháng 9 năm 2022</title>
       <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
@@ -49,15 +59,6 @@
       <description><![CDATA[Với người hâm mộ bóng đá nước ta, sự kiện thu hút nhiều sự quan tâm nhất trong tuần qua chính là lễ bốc thăm chia bảng giải bóng đá vô địch Đông Nam Á AFF cup 2022. Đương kim vô địch Thái Lan nằm ở bảng A cùng các đội tuyển Indonesia, Philippines, Campuchia và đội thắng trong trận vòng loại giữa Timor-Leste và Bruney. Trong khi đó tại bảng B, đội tuyển Việt Nam cạnh tranh suất đi tiếp cùng các đội tuyển Malaysia, Singapore, Mialma và Lào. Truyền thông khu vực các ngôi sao bóng đá Việt Nam cũng như giới chuyên môn đánh giá ra sao về kết quả ra sao về kết quả bốc thăm. HLV Park Hang Seo sẽ có trong tay lực lượng như thế nào cho chiến dịch lấy lại ngôi vương Đông Nam Á?]]></description>
       <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/09/16/vovlive_thethao7ngay_chuongtrinhthethao7ngay03092022.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 16 Sep 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chương trình thể thao 7 ngày 27 tháng 8 năm 2022</title>
-      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
-      <description><![CDATA[- Giải bóng đá vô địch quốc gia V-League 2022 đã đi được nửa chặng đường với thành tích hết sức cách biệt giữa những đại diện bóng đá phía Bắc và phía Nam. 
-- Thể thao và cuộc sống là bài viết về Roller, môn thể thao đặc biệt khi các vận động viên tham gia tranh tài khi mới 4 - 5  tuổi.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/09/16/vovlive_thethao7ngay_chuongtrinhthethao7ngay2792022.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 16 Sep 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
