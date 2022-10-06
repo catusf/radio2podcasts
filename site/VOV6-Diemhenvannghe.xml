@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 29 Sep 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 06 Oct 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 29 Sep 2022 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 06 Oct 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Điểm hẹn văn nghệ</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Diemhenvannghe.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>“Sóng độc”: Khắc họa nghề báo bằng tiểu thuyết 29/9/2022</title>
+      <title>"Mắt nào xanh nhất": Lặn sâu vào chủ nghĩa màu da 6/10/2022</title>
+      <link>http://vov6.vov.vn/diem-hen-van-nghe/mat-nao-xanh-nhat-lan-sau-vao-chu-nghia-mau-da-c158-34768.aspx</link>
+      <description><![CDATA[Nữ nhà văn Toni Morrison là người Mỹ gốc Phi đã giành giải Nobel Văn học năm 1993. Tất cả tác phẩm của bà đều xoay quanh hành trình của người da đen trên đất Mỹ, phơi bày những trang lịch sử tối tăm của một chủng tộc đã bị đối xử tồi tệ. Cho tới nay, trong số 11 cuốn tiểu thuyết của nữ nhà văn, “Mắt nào xanh nhất” vẫn là một trong những tác phẩm có sức ảnh hưởng mạnh mẽ và khó quên nhất về vấn đề phân biệt chủng tộc trong lòng nước Mỹ. Đây cũng là một trong hai cuốn sách mở màn cho Tủ sách giới của Công ty Cổ phần sách và truyền thông San Hô. Để hiểu thêm về cuốn tiểu thuyết này, mời quý vị và các bạn cùng nghe bài của tác giả Ngô Thuận Phát, nhan đề “Mắt nào xanh nhất – Lặn sâu vào chủ nghĩa màu da”.]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/mat-nao-xanh-nhat-lan-sau-vao-chu-nghia-mau-da-c158-34768.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2022_10/gts_mat_nao_xanh_nhat_hc_610202210.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 06 Oct 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>“Sóng độc”: Khắc họa nghề báo bằng tiểu thuyết  29/9/2022</title>
       <link>http://vov6.vov.vn/diem-hen-van-nghe/song-doc-khac-hoa-nghe-bao-bang-tieu-thuyet-c158-34754.aspx</link>
       <description><![CDATA[Nghề báo và nghề văn có nhiều giao điểm. Chẳng thế, chúng ta có những nhà báo viết văn và ngược lại, số lượng các nhà văn viết báo cũng rất phong phú. Tuy nhiên, có một điều lạ lùng là tiểu thuyết viết về nghề báo ở nước ta lại không nhiều, thậm chí rất hiếm. Gần đây, sự ra đời của tiểu thuyết “Sóng độc” – tác phẩm mới nhất của nhà văn Trần Gia Thái dường như mới khiến địa hạt này bớt phần trống trải.]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/song-doc-khac-hoa-nghe-bao-bang-tieu-thuyet-c158-34754.aspx</guid>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/khong-ai-song-giong-ai-trong-cuoc-doi-nay-cau-chuyen-cua-mot-tu-nhan-c158-34742.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2022_9/gts_khong_ai_song_giong_ai_229202211.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 22 Sep 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Một góc nhìn khác về cuộc chiến   9/9/2022</title>
-      <link>http://vov6.vov.vn/diem-hen-van-nghe/mot-goc-nhin-khac-ve-cuoc-chien-c158-34713.aspx</link>
-      <description><![CDATA[Nhà thơ, nhạc sĩ Nguyễn Thụy Kha vừa ra mắt tiểu thuyết “Hương” (do Nhà xuất bản Chính trị Quốc gia Sự thật ấn hành). Thông qua nhật ký và hồi ký của những người lính ở cả hai bên chiến tuyến, tác giả đã giúp người đọc hiểu hơn về sự khốc liệt của chiến tranh, về tình yêu của những người lính cũng như lòng vị tha của con người Việt Nam. Cuốn sách là một câu chuyện tình, nhưng đồng thời cũng như một nén hương tưởng niệm những người chiến sĩ thầm lặng đã hi sinh vì Tổ quốc. Sau đây, chúng ta cùng bước vào thế giới của tiểu thuyết “Hương” qua bài viết của BTV Đỗ Anh Vũ có nhan đề “Một góc nhìn khác về cuộc chiến”.]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/mot-goc-nhin-khac-ve-cuoc-chien-c158-34713.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2022_9/gts_tieu_thuyet_huong_hc_9920227.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 09 Sep 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
