@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 04 Oct 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 06 Oct 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 04 Oct 2022 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 06 Oct 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Đọc truyện đêm khuya</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Doctrdemkhuya.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Mối quan hệ giữa con người và thiên nhiên trong hai truyện ngắn “Người làm súng ở Lủng Căm” và “Con trâu nhà họ Cầm” 4/10/2022</title>
+      <title>“Mãi là người lính”: Tự hào người lính Cụ Hồ 6/10/2022</title>
+      <link>http://vov6.vov.vn/doc-truyen-dem-khuya/mai-la-nguoi-linh-tu-hao-nguoi-linh-cu-ho-c11-34771.aspx</link>
+      <description><![CDATA[Nhà văn Dương Thanh Biểu sinh ra và lớn lên trên quê hương xứ Nghệ, mảnh đất giàu truyền thống cách mạng và hiếu học. Đang học cấp 3 ở quê nhà, theo tiếng gọi của Đảng, Dương Thanh Biểu gác bút nghiên, lên đường nhập ngũ. Khi đất nước hòa bình, ông theo học ngành tư pháp và trở thành người lãnh đạo cấp cao trong ngành kiểm sát. Sự nghiệp văn chương đến với ông như một sự hội ngộ giữa niềm đam mê với đầy ắp tư liệu, viết về những vấn đề nhức nhối mà xã hội đang quan tâm. Những năm gần đây, nhà văn viết nhiều về ký ức người lính, những năm tháng mà ông đã từng tham gia chiến đấu ở mặt trận phía Nam.]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/doc-truyen-dem-khuya/mai-la-nguoi-linh-tu-hao-nguoi-linh-cu-ho-c11-34771.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/v2_0610_22h30_doc_truyen_dem_khuya_71020228.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 06 Oct 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Mối quan hệ giữa con người và thiên nhiên trong hai truyện ngắn “Người làm súng ở Lủng Căm” và “Con trâu nhà họ Cầm”  4/10/2022</title>
       <link>http://vov6.vov.vn/doc-truyen-dem-khuya/moi-quan-he-giua-con-nguoi-va-thien-nhien-trong-hai-truyen-ngan-nguoi-lam-sung-c11-34765.aspx</link>
       <description><![CDATA[“Người làm súng ở Lủng Căm” của tác giả Triệu Hoàng Giang xoay quanh nhân vật chính là ông Tài Minh. Là một người thợ làm súng có tài, lẽ thường ông Tài Minh phải mong khách tới tìm mua thật đông, mong mình bán được thật nhiều súng. Tuy nhiên, ông dường như lại chẳng thiết tha với điều đó… Chính điều lạ lùng ấy, cùng với giọng kể mộc mạc đã khiến truyện “Người làm súng ở Lủng Căm” khá cuốn hút. Thông điệp bảo vệ rừng và lẽ sống giản dị: rừng “cho nhà mình được bằng nao thì dùng như thế, đừng lấy nhiều quá” cũng được truyền tải một cách chân thật, không lên gân. Tương tự, với truyện “Con trâu nhà họ Cầm” của tác giả Nông Văn Kim cũng ghi điểm ở sự giản dị. Nhân vật trung tâm của truyện là con Xoăn, một con trâu có kết cục bi thảm trước những toan tính của con người. Tác giả đã tạo ra sự tương phản giữa một bên là một con vật hiền lành và một bên là một đám người tham lam, độc ác với đủ những thủ đoạn hèn mọn. Truyện không quá xuất sắc về kĩ thuật viết nhưng cũng đủ sức để đưa ra một lời cảnh tỉnh về lòng tham – điều sẽ khiến con người hủy hoại tất cả và hủy hoại chính mình.]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/doc-truyen-dem-khuya/moi-quan-he-giua-con-nguoi-va-thien-nhien-trong-hai-truyen-ngan-nguoi-lam-sung-c11-34765.aspx</guid>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/doc-truyen-dem-khuya/la-thu-nham-dia-chi-tinh-yeu-con-mai-c11-34758.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2022_9/la_thu_nham_dia_chi_30920229.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 30 Sep 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>“Đêm miền rừng chỉ nghe tiếng gió”: Ươm đời sự sống tươi xanh  21/9/2022</title>
-      <link>http://vov6.vov.vn/doc-truyen-dem-khuya/dem-mien-rung-chi-nghe-tieng-gio-uom-doi-su-song-tuoi-xanh-c11-34741.aspx</link>
-      <description><![CDATA[“Đêm miền rừng chỉ nghe tiếng gió” của nhà văn Hồ Ngọc Quang bắt đầu từ tình huống nhân vật tôi – một người thầy bị hỏng xe dọc đường, xe máy bị xịt lốp ở cánh rừng không một bóng người. Thật may mắn khi anh gặp lại Thùy – cô học trò cũ trường sư phạm năm xưa, cô mời anh ở lại nghỉ ngơi qua đêm, giúp thầy sửa xe. Câu chuyện của họ ấm dần lên khi nhắc đến những học trò cùng lớp với Thùy, cuộc sống mưu sinh hiện tại của họ khá vất vả, khó nhọc. Nghe cô học trò kể về bạn bè, anh không khỏi băn khoăn, day dứt. Bao nhiêu năm mới gặp lại, bấy nhiêu kỷ niệm thân thương ùa về, biết hoàn cảnh của từng em học trò năm xưa, anh cảm thấy xót xa, buồn bã. Nhưng trong câu nói lạc quan của cô học trò, rằng chúng em phải cố gắng không được nản, không được gục ngã, phải gắng từng ngày để vươn lên. Bản thân Thùy đã tự nguyện lên vùng núi này dạy học, đưa mẹ già lên sinh sống, một mái nhà đơn sơ nhưng sạch sẽ, ngăn nắp ở bìa rừng, chồng Thùy là công nhân trồng rừng, miệt mài với công việc. Họ lặng lẽ dâng hiến những điều nhỏ bé nhất để xây dựng cuộc sống ngày thêm khấm khá hơn, tươi sáng hơn. Câu nói của người mẹ “Bây giờ mình trồng thì con cháu sau này mới có rừng. Còn bây giờ có cây nào chặt bán cây đó để ăn thì mươi năm nữa đời con cũng không có rừng chứ đừng nói đời cháu” khiến nhân vật tôi và cả chúng ta phải ngẫm ngợi. Người mẹ già đã khuyên bảo con rể những điều thật sâu sắc, hãy vì ngày sau, hãy bảo vệ rừng. Những việc làm thầm lặng của họ khiến chúng ta ấm lòng. Nơi cánh rừng hoang sơ ấy, những con người bình dị đang gắng từng ngày vươn lên, gieo con chữ, gieo từng mầm xanh, ươm cho đời sự sống tươi xanh và đầy hy vọng. Tình huống hỏng xe nơi bìa rừng đối với người thầy ấy lại là điều trong rủi gặp may, anh được gặp lại cô học trò năm xưa, được chứng kiến cuộc sống của họ nơi xa xôi này, nhưng cũng chính họ đã tiếp thêm cho anh niềm tin yêu vào cuộc sống, không thể gục ngã, không thể lùi bước mà hãy gắng vươn lên, âm thầm nhưng mạnh mẽ. Tình người ấm áp, sâu nặng, nghĩa tình của mẹ con cô học trò đối với thầy giáo cũ khiến chúng ta được tiếp thêm niềm tin, niềm vui vào cuộc đời, rằng đằng sau những vất vả, bộn bề lo toan cuộc sống, họ vẫn sống thật trọn vẹn, nghĩa tình thủy chung, đầy lạc quan, yêu đời. Câu chuyện khép lại trong tình cảm thầy trò quyến luyến khi chia tay, điều đọng lại dư ba là tình người ấm mãi, cứ tỏa lan như cánh rừng kia, xanh đến nao lòng…(Lời bình của BTV Vân Khánh)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/doc-truyen-dem-khuya/dem-mien-rung-chi-nghe-tieng-gio-uom-doi-su-song-tuoi-xanh-c11-34741.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/v2_2209_22h30_doc_truyen_dem_khuya_269202210.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 21 Sep 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
