@@ -24,6 +24,14 @@
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Vượt kế hoạch đưa người lao động đi làm việc ở nước ngoài - Thời sự 17g00 6/10/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/vuot-ke-hoach-dua-nguoi-lao-dong-di-lam-viec-o-nuoc-ngoai-thoi-su-17g00-6-10-2022-450990.html</link>
+      <description><![CDATA[17:00 - 06/10/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/vuot-ke-hoach-dua-nguoi-lao-dong-di-lam-viec-o-nuoc-ngoai-thoi-su-17g00-6-10-2022-450990.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/10/06/AMThoisu17h00p061022-20221006164837.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 07 Oct 2022 00:00:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Một lòng với bệnh nhân - Thời sự 11g 6/10/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/mot-long-voi-benh-nhan-thoi-su-11g-6-10-2022-450983.html</link>
       <description><![CDATA[20:45 - 06/10/2022]]></description>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/so-ca-mac-sot-xuat-huyet-tang-hon-7-lan-voi-cung-ky-nam-2021-thoi-su-17g00-5-10-2022-450881.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/10/06/AM610-THOISU45P17h00p051022.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 06 Oct 2022 18:27:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Dệt may Việt Nam dự báo xuất khẩu đạt 44 tỷ đô la Mỹ - Thời sự 11 giờ 5/10/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/det-may-viet-nam-du-bao-xuat-khau-dat-44-ty-do-la-my-thoi-su-11-gio-5-10-2022-450800.html</link>
-      <description><![CDATA[17:18 - 05/10/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/det-may-viet-nam-du-bao-xuat-khau-dat-44-ty-do-la-my-thoi-su-11-gio-5-10-2022-450800.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/10/05/AMThoisu11h00p051022-20221005102939.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 06 Oct 2022 00:18:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
