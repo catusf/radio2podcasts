@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 09 Oct 2022 01:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 09 Oct 2022 13:24:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 09 Oct 2022 01:00:00 +0700</pubDate>
+    <pubDate>Sun, 09 Oct 2022 13:24:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Nhà văn Tiểu Quyên chia sẻ gì với VOH về giải C Giải thưởng sách QG 2022? Sài Gòn buổi sáng 9/10</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/nha-van-tieu-quyen-chia-se-gi-voi-voh-ve-giai-c-giai-thuong-sach-qg-2022-sai-gon-buoi-sang-9-10-451332.html</link>
+      <description><![CDATA[06:24 - 09/10/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/nha-van-tieu-quyen-chia-se-gi-voi-voh-ve-giai-c-giai-thuong-sach-qg-2022-sai-gon-buoi-sang-9-10-451332.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/10/09/Saigonbuoisang-091022-final-20221008223746.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 09 Oct 2022 13:24:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Đưa lịch sử vào âm nhạc thiếu nhi - Sài Gòn buổi sáng 8/10/2022</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/dua-lich-su-vao-am-nhac-thieu-nhi-sai-gon-buoi-sang-8-10-2022-451272.html</link>
       <description><![CDATA[18:00 - 08/10/2022]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/dua-lich-su-vao-am-nhac-thieu-nhi-sai-gon-buoi-sang-8-10-2022-451272.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/10/08/SGBSTCCT-08102022-Hoan-chinh-20221007221405.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 09 Oct 2022 01:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Giữa dòng lũ là nước mắt - Sài Gòn buổi sáng 07/10/2022</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/giua-dong-lu-la-nuoc-mat-sai-gon-buoi-sang-07-10-2022-451108.html</link>
-      <description><![CDATA[17:18 - 07/10/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/giua-dong-lu-la-nuoc-mat-sai-gon-buoi-sang-07-10-2022-451108.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/10/07/FMSGBS06h00p071022-20221007070141.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 08 Oct 2022 00:18:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
