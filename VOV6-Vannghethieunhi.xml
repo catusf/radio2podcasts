@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 07 Oct 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 10 Oct 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 07 Oct 2022 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 10 Oct 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Văn nghệ thiếu nhi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Vannghethieunhi.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>"Rồi tôi sẽ lớn" - Vở nhạc kịch dành cho ai đang lớn  7/10/2022</title>
+      <title>Thế giới nhiệm màu của các họa sĩ minh họa sách thiếu nhi Séc 10/10/2022</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/the-gioi-nhiem-mau-cua-cac-hoa-si-minh-hoa-sach-thieu-nhi-sec-c44-34781.aspx</link>
+      <description><![CDATA[Không chỉ trưng bày hàng chục tác phẩm minh họa sách thiếu nhi đầy màu sắc, triển lãm “Thế giới nhiệm màu của các họa sĩ minh họa sách thiếu nhi Séc” còn tạo sự thu hút với các bạn nhỏ khi mang đến nhiều góc nhìn mới lạ, độc đáo về thế giới tuổi thơ diệu kỳ qua các hoạt động giao lưu, đọc sách, vẽ tranh, sáng tạo thủ công... (Văn nghệ thiếu nhi 05/10/2022)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/the-gioi-nhiem-mau-cua-cac-hoa-si-minh-hoa-sach-thieu-nhi-sec-c44-34781.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2022_10/v2_0510_10h4518h15_van_nghe_thieu_nhi_1010202210.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 10 Oct 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>"Rồi tôi sẽ lớn" - Vở nhạc kịch dành cho ai đang lớn   7/10/2022</title>
       <link>http://vov6.vov.vn/van-nghe-thieu-nhi/roi-toi-se-lon-vo-nhac-kich-danh-cho-ai-dang-lon-c44-34779.aspx</link>
       <description><![CDATA[Vở nhạc kịch "Rồi tôi sẽ lớn" xoay quanh câu chuyện của ba người bạn đang ở độ tuổi mới lớn trong ba gia đình có hoàn cảnh khác nhau. Mỗi bạn đều có tâm sự, mong muốn riêng nhưng lại không được cha mẹ ủng hộ để từng bước gỡ rối, dẫn đến những va chạm, mâu thuẫn xảy ra hằng ngày trong gia đình. Song song với cốt truyện đó là các bản nhạc, bài hát, điệu nhảy trẻ trung hiện đại, sắc màu... (Trang Văn học nghệ thuật tuổi mới lớn 04/10/2022)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/roi-toi-se-lon-vo-nhac-kich-danh-cho-ai-dang-lon-c44-34779.aspx</guid>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/trong-khu-vuon-mua-thu-c44-34778.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2022_10/v2_0310_10h4518h15_van_nghe_thieu_nhi_710202214.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 07 Oct 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đọc truyện "Những cuộc phiêu lưu li kì của Mumi bố" - Buổi thứ bảy - Hạ thủy   3/10/2022</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-nhung-cuoc-phieu-luu-li-ki-cua-mumi-bo-buoi-thu-bay-ha-thuy-c44-34764.aspx</link>
-      <description><![CDATA[Con thuyền "Tiếng rì rầm của biển" đã sửa chữa xong và sẵn sàng xuống nước. Thế nhưng trên đường hạ thủy thì chiếc thuyền bị mắc cạn. Việc này khiến tất cả bối rồi và có phẩn chán nản. Mumi bố thấy đoàn thủy thủ thật không đáng tin cậy chút nào... (Văn nghệ thiếu nhi 02/10/2022)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-nhung-cuoc-phieu-luu-li-ki-cua-mumi-bo-buoi-thu-bay-ha-thuy-c44-34764.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2022_10/v2_0210_10h4518h15_van_nghe_thieu_nhi_310202219.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 03 Oct 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
