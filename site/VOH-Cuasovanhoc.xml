@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 03 Oct 2022 03:11:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 09 Oct 2022 21:34:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 03 Oct 2022 03:11:00 +0700</pubDate>
+    <pubDate>Sun, 09 Oct 2022 21:34:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Cửa sổ văn học trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Cuasovanhoc.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ra mắt tập thơ "Chín nhánh da vàng" - Trần Đức Tín - Cửa sổ văn học 9/10/2022</title>
+      <link>https://radio.voh.com.vn/cua-so-van-hoc/ra-mat-tap-tho-chin-nhanh-da-vang-tran-duc-tin-cua-so-van-hoc-9-10-2022-451255.html</link>
+      <description><![CDATA[14:34 - 09/10/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/ra-mat-tap-tho-chin-nhanh-da-vang-tran-duc-tin-cua-so-van-hoc-9-10-2022-451255.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/10/08/FMCuasovanhoc07h00p091022-20221008074335.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 09 Oct 2022 21:34:00 +0700</pubDate>
+    </item>
     <item>
       <title>Tiễn biệt nhà văn – nhà giáo ưu tú Nguyễn Ngọc Ký - Cửa sổ văn học 2/10/2022</title>
       <link>https://radio.voh.com.vn/cua-so-van-hoc/tien-biet-nha-van-nha-giao-uu-tu-nguyen-ngoc-ky-cua-so-van-hoc-2-10-2022-450297.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/hay-song-nhu-trai-dua-cua-so-van-hoc-25-9-2022-449429.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/09/25/FMCuasovanhoc07h00p250922-20220924183848.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 25 Sep 2022 15:55:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Sơ kết cuộc thi truyện ngắn hay 2022 - Cửa sổ văn học 18/9/2022</title>
-      <link>https://radio.voh.com.vn/cua-so-van-hoc/so-ket-cuoc-thi-truyen-ngan-hay-2022-cua-so-van-hoc-18-9-2022-448766.html</link>
-      <description><![CDATA[20:21 - 18/09/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/so-ket-cuoc-thi-truyen-ngan-hay-2022-cua-so-van-hoc-18-9-2022-448766.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/09/18/FMCuasovanhoc07h00p180922-20220917183750.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 19 Sep 2022 03:21:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
