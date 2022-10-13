@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 12 Oct 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 14 Oct 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 12 Oct 2022 19:00:00 +0700</pubDate>
+    <pubDate>Fri, 14 Oct 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,23 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Vai trò trung gian hòa giải giữa Nga - Ukraine của Thổ Nhĩ Kỳ</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Trong tuyên bố mới nhất, chính quyền Thổ Nhĩ Kỳ khẳng định sẽ tiếp tục phát huy vai trò trung gian hòa giải trong xung đột Nga - Ukraine tại cuộc gặp với Tổng thống Nga Putin, dự kiến diễn ra ngày 13/10 tại A-xta-na, Kazakhstan. Tổng thống Tayyip Erdogan là nhà lãnh đạo duy nhất hiện nay có thể đưa ông Putin và Tổng thống Ukraine Zelensky ngồi vào bàn đàm phán. Không phải đến bây giờ, Thổ Nhĩ Kỳ mới thúc đẩy vai trò trung gian hòa giải giữa Nga và Ukraine. Thực tế, Ankara cùng Liên hợp quốc đã kết nối thành công giúp Nga và Ukraine đạt thỏa thuận xuất khẩu ngũ cốc từ Ukraine qua biển Đen, góp phần giải quyết mối đe dọa an ninh lương thực toàn cầu. Với mối quan hệ tốt và cách tiếp cận khéo léo, liệu Thổ Nhĩ Kỳ có thể tiếp tục phát huy vai trò trung gian hòa giải, hướng tới “mục tiêu lớn hòa bình” khi tình hình thực địa vẫn chưa hạ nhiệt?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/10/13/vovlive_vandequocte_vaitrotrunggianhoagiaigiuangaukrainecuathonhiky.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 14 Oct 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Biên giới Ukraine – Belarus leo thang căng thẳng, chiến sự ở Ukraine ngày càng phức tạp</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Khu vực biên giới Ukraine - Belarus những ngày qua chứng kiến nhiều hoạt động quân sự làm gia tăng căng thẳng. Phía Belarus cáo buộc Ukraine lên kế hoạch thực hiện các cuộc tấn công trên lãnh thổ của nước này khi hầu hết các cây cầu biên giới đã bị phá huỷ, các tuyến đường sắt và đường ô tô bị cài mìn hoàn toàn.
+Mặc dù Đại sứ Ukraine tại Belarus đã bị triệu tập đến Bộ Ngoại giao Belarus nhận công hàm phản đối chính thức, nhưng phía Ukraine cho biết, họ kiên quyết bác bỏ cáo buộc, đồng thời cho rằng, đây có thể là một phần trong kế hoạch của Nga nhằm khiêu khích và đổ lỗi cho Ukraine. Vậy đâu là nguyên nhân khiến khu vực biên giới giữa Ukraine và Belarus lại gia tăng căng thẳng như vậy? Những diễn biến này tác động ra sao tới xung đột Nga - Ukraine đang ngày càng phức tạp?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/10/13/vovlive_vandequocte_biengioiukrainebelarus.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 13 Oct 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Mỹ - Taliban bất đồng về chống khủng bố</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -38,22 +55,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/10/12/vovlive_vandequocte_hosaungancachtudontrungphatmoicuaphuongtaynhamvaoiran.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 11 Oct 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Solomon nỗ lực hàn gắn quan hệ với Australia</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Trong bối cảnh quan hệ với Australia đang căng thẳng kể từ sau khi ký thỏa thuận an ninh với Trung Quốc, Thủ tướng Quần đảo Solomon Manasseh Sogavare vừa có cuộc hội đàm với Thủ tướng Australia Anthony Albanese. Cuộc gặp này nằm trong chuyến thăm đầy bất ngờ của Thủ tướng Manasseh tới Australia. Sau những động thái làm gia tăng căng thẳng trong quan hệ với Australia thời gian gần đây của chính quyền Solomon liên quan đến thoả thuận an ninh giữa Solomon với Trung Quốc, cũng như việc chính quyền  Solomon công khai chỉ trích Australia can thiệp vào công việc nội bộ, lòng tin giữa hai nước đã bị sụt giảm nghiêm trọng. Việc hai nhà lãnh đạo gặp nhau trong bối cảnh như vậy đang gửi đi tín hiệu lạc quan về khả năng quan hệ giữa hai nước có thể sẽ được cải thiện trong thời gian tới.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/10/07/vovlive_vandequocte_solomonnoluchanganquanhevoiaustralia.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 08 Oct 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Định hình khuôn khổ hợp tác mới ở Châu Âu</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Ngày 6/10, Hội nghị thượng đỉnh lần đầu tiên của Cộng đồng Chính trị Châu Âu sẽ diễn ra tại Praha, Cộng hòa Séc. Cộng đồng Chính trị Châu Âu được thành lập từ ý tưởng của Tổng thống Pháp Emmanuel Macron hồi tháng 5 với 27 quốc gia thành viên Liên minh Châu Âu (EU) và 17 quốc gia láng giềng, trong đó có những cái tên đang “xếp hàng” để được gia nhập EU như Bắc Macedonia, Moldova… Cộng đồng Chính trị Châu Âu được kỳ vọng sẽ tạo nền tảng cho đối thoại và hợp tác chính trị về các vấn đề chiến lược, về lợi ích chung của Châu Âu, nơi EU có thể thể hiện vai trò và trách nhiệm lớn hơn trong khu vực lân cận. Tuy nhiên, vẫn còn nhiều dấu hỏi về sự hình thành của Cộng đồng Chính trị Châu Âu: cơ chế hoạt động của khuôn khổ hợp tác này sẽ như thế này, liệu Cộng đồng Chính trị Châu Âu có ảnh hưởng đến tiến trình gia nhập EU của các quốc gia láng giềng.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/10/07/vovlive_vandequocte_dinhinhkhuonkhohoptacmoiochauau.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 07 Oct 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 02 Oct 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 09 Oct 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 02 Oct 2022 19:00:00 +0700</pubDate>
+    <pubDate>Sun, 09 Oct 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Âm nhạc với cuộc sống</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Amnhacvoicuocsong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Hà Nội trong dòng chảy âm nhạc Việt</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[Hà Nội, Thủ đô nghìn năm văn hiến luôn là cảm hứng sáng tác vô tận cho các văn nghệ sĩ. Đặc biệt, những năm tháng chiến tranh, trước và sau ngày Giải phóng Thủ đô 10/10/1954, đã để lại dấu ấn trong hàng trăm tác phẩm nghệ thuật ở mọi thể loại, trong đó có âm nhạc. Nhiều tác phẩm đã trở thành bất hủ, thậm chí thành biểu tượng của Hà Nội. Hàng trăm ca khúc các tác giả đã bằng tình yêu, cảm xúc của mình đã viết nên những giai điệu lay động lòng người tạo nên một dòng chảy riêng rẽ kỷ lục về một thành phố có nhiều ca khúc nhất trong lịch sử Cách mạng Việt Nam. Dòng chảy âm nhạc đó thể hiện đầy đủ những cung bậc thăng trầm của Hà Nội hay nét đẹp quá khứ oai hùng của quân dân  thủ đô. Kỷ niệm 68 năm Giải phóng Thủ đô (10/10/1954 – 10/10/2022), cùng hòa mình với những giai điệu đẹp : Tiến về Hà Nội (Nhạc sĩ Văn Cao), Cửa ô nhịp phố (Nhạc sĩ Trương Ngọc Ninh), Truyền thuyết Hồ Gươm ( Nhạc sĩ Hoàng Phúc Thắng)…]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/10/10/vovlive_am_nhac_voi_cuoc_song_ha_noi_trong_dong_chay_am_nhac_viet.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 09 Oct 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Thơ Tố Hữu trong lời ca của các nhạc sỹ</title>
       <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
@@ -47,14 +55,6 @@
       <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/09/19/vovlive_am_nhac_voi_cuoc_song_gala_son_ca_2022.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 18 Sep 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Trở lại không gian của những ngày tháng Cách mạng sục sôi qua các sáng tác âm nhạc</title>
-      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[Phong trào Xô Viết - Nghệ Tĩnh là một sự kiện lịch sử trọng đại trong lịch sử Cách mạng Việt Nam dưới sự lãnh đạo của Đảng. Kỷ niệm 92 năm ngày Xô viết Nghệ Tĩnh (12/9/1930 -12/9/2020), gặp gỡ nhạc sĩ Dân Huyền và nghe những chia sẻ về tình cảm ông dành cho quê hương mình cũng như những ca khúc ông viết về phong trào Xô Viết Nghệ Tĩnh và thưởng thức một số tác phẩm âm nhạc: Chiều Hưng Nguyên (Sáng tác: Nhạc sĩ Văn An), Trên quê hương Xô Viết Nghệ Tĩnh (Sáng tác: Nhạc sĩ Dân Huyền), Thành phố đỏ, thành phố xanh (Sáng tác: Nhạc sĩ Dân Huyền), Màu xanh Hưng Nguyên (Sáng tác: Nhạc sĩ Nguyễn An).]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/09/12/vovlive_am_nhac_voi_cuoc_song_92_nam_xo_viet_nghe_tinh.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 11 Sep 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
