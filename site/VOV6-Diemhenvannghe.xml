@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 06 Oct 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 13 Oct 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 06 Oct 2022 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 13 Oct 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Điểm hẹn văn nghệ</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Diemhenvannghe.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>"Mắt nào xanh nhất": Lặn sâu vào chủ nghĩa màu da 6/10/2022</title>
+      <title>Mở ra cánh cửa tiếp cận văn học Hàn Quốc 13/10/2022</title>
+      <link>http://vov6.vov.vn/diem-hen-van-nghe/mo-ra-canh-cua-tiep-can-van-hoc-han-quoc-c158-34790.aspx</link>
+      <description><![CDATA[Tạp chí “Viết và Đọc” của NXB Hội Nhà văn sắp bước sang tuổi thứ 5. Từ mùa thu năm 2018 cho tới nay, “Viết và Đọc” đã luôn là một ấn phẩm chất về nội dung và đẹp về hình thức. Không chỉ giới hạn trong văn học Việt, tạp chí còn giới thiệu nhiều tác giả, tác phẩm nước ngoài. Gần đây, với sự hỗ trợ của Trung tâm Văn hóa Hàn Quốc, “Viết và Đọc” tiếp tục gây chú ý khi cho ra mắt ấn phẩm chuyên đề văn học Hàn Quốc nhân dịp kỷ niệm 30 năm thiết lập quan hệ ngoại giao giữa hai nước. Sau đây, chúng ta cùng tìm hiểu ấn phẩm này qua bài của BTV Nguyễn Hà có nhan đề “Mở ra cánh cửa tiếp cận văn học Hàn Quốc”.]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/mo-ra-canh-cua-tiep-can-van-hoc-han-quoc-c158-34790.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2022_10/chuyen_de_vh_han_quoc_hc_1310202210.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 13 Oct 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>"Mắt nào xanh nhất": Lặn sâu vào chủ nghĩa màu da  6/10/2022</title>
       <link>http://vov6.vov.vn/diem-hen-van-nghe/mat-nao-xanh-nhat-lan-sau-vao-chu-nghia-mau-da-c158-34768.aspx</link>
       <description><![CDATA[Nữ nhà văn Toni Morrison là người Mỹ gốc Phi đã giành giải Nobel Văn học năm 1993. Tất cả tác phẩm của bà đều xoay quanh hành trình của người da đen trên đất Mỹ, phơi bày những trang lịch sử tối tăm của một chủng tộc đã bị đối xử tồi tệ. Cho tới nay, trong số 11 cuốn tiểu thuyết của nữ nhà văn, “Mắt nào xanh nhất” vẫn là một trong những tác phẩm có sức ảnh hưởng mạnh mẽ và khó quên nhất về vấn đề phân biệt chủng tộc trong lòng nước Mỹ. Đây cũng là một trong hai cuốn sách mở màn cho Tủ sách giới của Công ty Cổ phần sách và truyền thông San Hô. Để hiểu thêm về cuốn tiểu thuyết này, mời quý vị và các bạn cùng nghe bài của tác giả Ngô Thuận Phát, nhan đề “Mắt nào xanh nhất – Lặn sâu vào chủ nghĩa màu da”.]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/mat-nao-xanh-nhat-lan-sau-vao-chu-nghia-mau-da-c158-34768.aspx</guid>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/song-doc-khac-hoa-nghe-bao-bang-tieu-thuyet-c158-34754.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2022_9/gts_song_doc_hc_299202211.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 29 Sep 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>"Không ai sống giống ai trong cuộc đời này" - Câu chuyện của một tù nhân  22/9/2022</title>
-      <link>http://vov6.vov.vn/diem-hen-van-nghe/khong-ai-song-giong-ai-trong-cuoc-doi-nay-cau-chuyen-cua-mot-tu-nhan-c158-34742.aspx</link>
-      <description><![CDATA[Là giải thưởng văn học danh giá với tuổi đời 120 năm, giải Goncourt của Pháp được trao thường niên cho tác phẩm văn xuôi xuất sắc nhất trong năm. Ở nước ta, đã có nhiều tác phẩm Công-cua được xuất bản như “Dưới bóng những cô gái đương hoa” (Marcel Proust), “Rễ trời” (Romain Gary), “Người tình” (Marguerite Duras)… Gần đây, Công ty Văn hóa và Truyền thông Nhã Nam tiếp tục giới thiệu tới độc giả Việt một tác phẩm đạt giải Công-cua năm 2019 – tiểu thuyết “Không ai sống giống ai trong cuộc đời này” của nhà văn Jean-Paul Dubois do dịch giả Nguyễn Thị Tươi chuyển ngữ. Sau đây, chúng ta cùng bước vào thế giới của “niềm tuyệt vọng rất đỗi dịu dàng” đó qua một vài cảm nhận của phóng viên chương trình.]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/khong-ai-song-giong-ai-trong-cuoc-doi-nay-cau-chuyen-cua-mot-tu-nhan-c158-34742.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2022_9/gts_khong_ai_song_giong_ai_229202211.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 22 Sep 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
