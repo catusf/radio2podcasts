@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 07 Oct 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 12 Oct 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 07 Oct 2022 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 12 Oct 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Lạm phát kỷ lục, các nghiệp đoàn châu Âu kêu gọi hành động khẩn cấp</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[“Nếu không có đối thoại giữa các hiệp hội, tổ chức và các nghiệp đoàn, châu Âu sẽ rơi vào hỗn loạn và thúc đẩy sự trỗi dậy của chủ nghĩa cực hữu” – đây là cảnh báo của Chủ tịch Liên minh công đoàn châu Âu trong bối cảnh các nghiệp đoàn châu Âu đã tổ chức biểu tình, yêu cầu Liên minh châu Âu phải có hành động khẩn cấp để giải quyết cuộc khủng hoảng chi phí sinh hoạt ngày càng nghiêm trọng tại châu lục. Cho đến thời điểm này, vẫn còn rất nhiều bất đồng giữa các bên liên quan - chính phủ, người sử dụng lao động và chính người lao động trong việc ứng phó với mức lạm phát kỷ lục trong nhiều thập kỷ.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/10/12/vovlive_sukienvabanluan_lam_phat_ky_luc.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 12 Oct 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Trung Quốc đẩy mạnh chống tham nhũng</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/10/03/vovlive_sukienvabanluan_nnong_cuoc_dua_kiem_che_lam_phat_toan_cau.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 03 Oct 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Hội An bảo vệ các di tích, di sản trong mùa mưa bão</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Ảnh hưởng của cơn bão số 4, mưa lớn đã khiến một số tuyến đường Thành phố Hội an chìm trong biển nước. Đô thị cổ Hội An đang đối mặt với thách thức: Nhiều di sản bị ảnh hưởng nghiêm trọng, thậm chí bị phá huỷ khi mưa lũ diễn biến nghiêm trọng. Làm gì để bảo vệ đô thị cổ trước thách thức thảm họa của thời tiết, thiên tai?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/09/30/vovlive_sukienvabanluan_hoi_an_bao_ve_cac-di_tich_di_san_trong_mua_mua_bao.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 30 Sep 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
