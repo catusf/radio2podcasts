@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 14 Oct 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 15 Oct 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 14 Oct 2022 19:00:00 +0700</pubDate>
+    <pubDate>Sat, 15 Oct 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Nga, Trung Quốc được xác định như thế nào trong Chiến lược an ninh quốc gia của Mỹ?</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Mỹ mới công bố Chiến lược an ninh quốc gia mới, tài liệu được cho là cung cấp cái nhìn sâu sắc nhất về thế giới quan của chính quyền Tổng thống Joe Biden cho đến nay. Bản chiến lược 48 trang này xác định một loạt thách thức mà nước Mỹ phải đối mặt cũng như hướng giải quyết các thách thức đó. Thông thường chiến lược an ninh quốc gia Mỹ là sự kết hợp của sự định hướng, báo hiệu ý định cho các đồng minh và đối thủ về chính sách của Mỹ. Một trong những nội dung nổi bật của Chiến lược an ninh vừa công bố nêu rõ rằng, Mỹ sẽ cạnh tranh hiệu quả với Trung Quốc, đối thủ duy nhất có ý định và khả năng tái định hình trật tự quốc tế, đồng thời kiềm chế Nga.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/10/14/vovlive_vandequocte_ngatrungquocduocxacdinhnhuthenaotrongchienluocanninhquocgiaucuamy.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 15 Oct 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Vai trò trung gian hòa giải giữa Nga - Ukraine của Thổ Nhĩ Kỳ</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -47,14 +55,6 @@ Mặc dù Đại sứ Ukraine tại Belarus đã bị triệu tập đến Bộ 
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/10/12/vovlive_vandequocte_mytalibanbatdongvechongkhungbo.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 12 Oct 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Hố sâu ngăn cách từ đòn trừng phạt mới của phương Tây nhằm vào Iran</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Những ngày vừa qua, Mỹ, Canada và Liên minh Châu Âu liên tục có các động thái tăng cường trừng phạt nhằm vào Iran, nhằm phản ứng việc Iran trấn áp biểu tình, sau cái chết “gây tranh cãi” của một cô gái Iran 22 tuổi bị cảnh sát đạo Hồi giam giữ vì lý do trang phục không đúng chuẩn mực. Các động thái này sẽ khiến mối quan hệ giữa Iran và phương Tây bị đẩy căng tới mức nào và ảnh hưởng ra sao tới việc khôi phục thỏa thuận hạt nhân Iran ký năm 2015?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/10/12/vovlive_vandequocte_hosaungancachtudontrungphatmoicuaphuongtaynhamvaoiran.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 11 Oct 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
