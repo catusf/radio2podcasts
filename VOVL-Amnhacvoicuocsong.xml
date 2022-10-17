@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 09 Oct 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 16 Oct 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 09 Oct 2022 19:00:00 +0700</pubDate>
+    <pubDate>Sun, 16 Oct 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,15 @@
     </itunes:owner>
     <itunes:subtitle>Âm nhạc với cuộc sống</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Amnhacvoicuocsong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>“Ngắm mẹ”: Món quà ý nghĩa dành tặng các Bà, các Mẹ</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[- Thưởng thức ca khúc “Thanh niên quân đội khát vọng cống hiến” (Tác giả: Thượng úy Trần Thanh Tùng) - sáng tác dành riêng cho Đại hội đại biểu Đoàn Thanh niên Cộng sản Hồ Chí Minh Quân đội lần thứ X (2022 - 2027) và trò chuyện cùng Thượng úy Trần Thanh Tùng để tìm hiểu về ca khúc…
+- Hướng tới chào mừng ngày Phụ nữ Việt Nam (20/10/2022) Thưởng thức ca khúc “Ngắm mẹ” (Âm nhạc: Nhạc sĩ Trần Nhật Dương, Lời: Nhà báo Trần Nhật Minh) và lắng nghe những chia sẻ của Nhà báo Trần Nhật Minh, nhạc sĩ Trần Nhật Dương về ca khúc này…]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/10/17/vovlive_am_nhac_voi_cuoc_song_ngam_me.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 16 Oct 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Hà Nội trong dòng chảy âm nhạc Việt</title>
       <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
@@ -46,15 +55,6 @@
       <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/09/26/vovlive_am_nhac_voi_cuoc_song_bac_son.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 25 Sep 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Gala Giai điệu Sơn ca 2022: Sân chơi lành mạnh, bổ ích cho các em thiếu nhi</title>
-      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[- Sau hai năm tạm hoãn do Đại dịch Covid 19, Giai điệu Sơn ca quay trở lại với đêm Gala tại Nhà hát Đài TNVN, Trung tâm Phát thanh Quốc gia 58 Quán Sứ, Hà Nội. Cùng gặp gỡ nhạc sĩ Trần Nhật Bằng – Trưởng phòng Ca nhạc Thiếu nhi Đài TNVN – Thành viên Ban tổ chức Gala Giai điệu Sơn ca 2022 để tìm hiểu về hoạt động âm nhạc thiếu nhi đầy ý nghĩa này. 
-- Kỷ niệm 77 năm ngày Nam Bộ kháng chiến (23/9/1945-23/9/2022), thưởng thức ca khúc “Nam Bộ kháng chiến” (Tác giả: Tạ Thanh Sơn) và tìm hiểu hoàn cảnh ra đời cũng như lắng nghe những chia sẻ của nhạc sĩ Cát Vận về giá trị lịch sử và giá trị nghệ thuật của ca khúc này.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/09/19/vovlive_am_nhac_voi_cuoc_song_gala_son_ca_2022.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 18 Sep 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

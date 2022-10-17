@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 14 Oct 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 17 Oct 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 14 Oct 2022 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 17 Oct 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>World Cup 2022 – cú huých “hồi sinh” du lịch khu vực Trung Đông?</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Mặc dù còn khoảng 1 tháng nữa mới diễn ra World Cup 2022 song những người yêu thích thể thao đã đổ dồn sự chú ý tới Qatar - quốc gia chủ nhà tổ chức sự kiện này. Đây là lần đầu tiên một quốc gia Trung Đông tổ chức World Cup và Qatar cũng là quốc gia chủ nhà có diện tích nhỏ nhất. Vì thế, giải đấu bóng đá hấp dẫn nhất hành tinh này còn là cơ hội cho các quốc gia trong khu vực thu hút lượng du khách khổng lồ từ khắp nơi trên thế giới đổ về cũng như quảng bá hình ảnh du lịch khu vực Trung Đông... Đây có thực sự là “cú huých” hồi sinh ngành du lịch cho khu vực Trung Đông sau thời gian ảm đảm vì Covid-19?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/10/17/vovlive_sukienvabinhluan_world-cup-2022-.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 17 Oct 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Trung Quốc trong nỗ lực đạt mục tiêu “phát triển chất lượng cao”</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/10/07/vovlive_sukienvabanluan_trung_quoc_day_manh_chong_tham_nhung.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 07 Oct 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Cứu cả thế giới khỏi nạn đói: Ấn Độ "lực bất tòng tâm"?</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Sau khi Ấn Độ ban hành lệnh cấm xuất khẩu ngũ cốc hồi tháng 5 năm nay và tiếp tục ban hành lệnh cấm xuất khẩu gạo từ đầu tháng 9, nhiều quốc gia đã lên tiếng bày tỏ lo ngại về việc hành động của Ấn Độ có thể đẩy thế giới vào một giai đoạn khủng hoảng lương thực mới. Nhiều người cũng nhắc lại lời cam kết của Tổng thống Ấn Độ Narendra Modi khi cuộc xung đột Nga – Ukraine mới nổ ra, rằng Ấn Độ với năng lực sản xuất của mình sẽ bù đắp lượng thiếu hụt lương thực trên thị trường thế giới. Vậy vì sao chỉ sau một thời gian ngắn, Ấn Độ đã phải “buông tay” trong thực hiện lời hứa của mình. Liệu đó là một tính toán chiến lược hay đơn giản là Ấn Độ rơi vào thế khó không thể xoay xở?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/10/03/vovlive_sukienvabanluan_cuu_ca_the_gioi_khoi_nan_doi.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 04 Oct 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
