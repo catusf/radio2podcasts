@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 18 Oct 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 20 Oct 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 18 Oct 2022 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 20 Oct 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Phương Tây cứng rắn với Iran - Tương lai nào cho thỏa thuận hạt nhân Iran?</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Liên minh Châu Âu (EU) vừa áp đặt lệnh trừng phạt mới với 11 cá nhân và 4 thực thể Iran. Đáng chú ý trong số những thực thể thuộc diện trừng phạt có Lực lượng Vệ binh Cách mạng Hồi giáo Iran và đơn vị an ninh mạng. Trước đó, Mỹ, Anh và Canada cũng đã áp đặt trừng phạt với các cá nhân và thực thể tại Iran. Trong khi đó, phía Iran cho rằng, đây là hành động “thiếu tính xây dựng và phi lý” của EU và nước này sẽ có phản ứng “ngay lập tức” đối với những quyết định và hành động của EU. Vậy những động thái cứng rắn của phương Tây đối với Iran thời gian qua, có ảnh hưởng ra sao tới cục diện đàm phán về việc khôi phục thỏa thuận Iran mà dư luận đang mong chờ?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/10/19/vovlive_vandequocte_phuongtaycungranvoiirantuonglainaochothoathuanhatnhaniran.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 20 Oct 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Những đề xuất chiến lược mới tại Đại hội đại biểu Đảng Cộng sản Trung Quốc lần thứ 20</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,15 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/10/13/vovlive_vandequocte_vaitrotrunggianhoagiaigiuangaukrainecuathonhiky.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 14 Oct 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Biên giới Ukraine – Belarus leo thang căng thẳng, chiến sự ở Ukraine ngày càng phức tạp</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Khu vực biên giới Ukraine - Belarus những ngày qua chứng kiến nhiều hoạt động quân sự làm gia tăng căng thẳng. Phía Belarus cáo buộc Ukraine lên kế hoạch thực hiện các cuộc tấn công trên lãnh thổ của nước này khi hầu hết các cây cầu biên giới đã bị phá huỷ, các tuyến đường sắt và đường ô tô bị cài mìn hoàn toàn.
-Mặc dù Đại sứ Ukraine tại Belarus đã bị triệu tập đến Bộ Ngoại giao Belarus nhận công hàm phản đối chính thức, nhưng phía Ukraine cho biết, họ kiên quyết bác bỏ cáo buộc, đồng thời cho rằng, đây có thể là một phần trong kế hoạch của Nga nhằm khiêu khích và đổ lỗi cho Ukraine. Vậy đâu là nguyên nhân khiến khu vực biên giới giữa Ukraine và Belarus lại gia tăng căng thẳng như vậy? Những diễn biến này tác động ra sao tới xung đột Nga - Ukraine đang ngày càng phức tạp?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/10/13/vovlive_vandequocte_biengioiukrainebelarus.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 13 Oct 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
