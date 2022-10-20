@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 17 Oct 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 20 Oct 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 17 Oct 2022 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 20 Oct 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Những vấn đề đặt ra trong thực hiện Nghị quyết 23 của Bộ Chính trị tại vùng Tây Nguyên</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Ngày 6/10 vừa qua, Bộ Chính trị khoá 8 đã chính thức ban hành Nghị quyết số 23 về phương hướng phát triển kinh tế - xã hội, bảo đảm quốc phòng, an ninh ở Vùng Tây Nguyên đến năm 2030, tầm nhìn đến năm 2045. Nghị quyết đề ra mục tiêu đến năm 2030 tầm nhìn đến năm 2045, Tây Nguyên trở thành vùng phát triển bền vững, có nền kinh tế xanh, tuần hoàn, một số tỉnh trong vùng thuộc nhóm phát triển khá của cả nước.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/10/20/vovlive_sukienvabanluan_nhung_van_de_dat_ra_trong_thuc_hien_nghi_quyet_23.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 20 Oct 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>World Cup 2022 – cú huých “hồi sinh” du lịch khu vực Trung Đông?</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/10/12/vovlive_sukienvabanluan_lam_phat_ky_luc.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 12 Oct 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Trung Quốc đẩy mạnh chống tham nhũng</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Tính từ đầu năm đến nay, Trung Quốc đã có tổng cộng gần 30 quan chức cấp cao phải đối mặt với các biện pháp kỷ luật - một con số cao kỷ lục so với những năm gần đây. Việc gia tăng các hoạt động phòng, chống tham nhũng cho thấy quyết tâm chính trị mạnh mẽ của Đảng Cộng sản Trung Quốc trong việc trấn áp tham nhũng và xây dựng một môi trường chính trị trong sạch. Việc mạnh tay loại bỏ các quan chức tham nhũng trước thềm Đại hội đại biểu toàn quốc lần thứ 20 của Đảng cũng chuyển tài thông điệp của Trung Quốc về sự nghiêm ngặt trong lựa chọn nhân sự, để những người được đề bạt vào các vị trí quan trọng phải là những cán bộ thực sự xuất sắc.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/10/07/vovlive_sukienvabanluan_trung_quoc_day_manh_chong_tham_nhung.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 07 Oct 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
