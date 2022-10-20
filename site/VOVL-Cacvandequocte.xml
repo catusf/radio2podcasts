@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 20 Oct 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 21 Oct 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 20 Oct 2022 19:00:00 +0700</pubDate>
+    <pubDate>Fri, 21 Oct 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ngỏ ý muốn gia nhập nhóm các nền kinh tế mới nổi BRICS, Saudi Arabia muốn gửi thông điệp gì đến Mỹ</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Vừa trở về sau chuyến thăm Saudi Arabia, Tổng thống Nam Phi Cyril Ramaphosa cho biết, Saudi Arabia bày tỏ sự quan tâm đến việc gia nhập Nhóm các nền kinh tế mới nổi (gọi tắt là BRICS) gồm 5 nước: Brazil, Nga, Ấn Độ, Trung Quốc và Nam Phi. Đây được cho là nằm trong lộ trình mở rộng liên minh kinh tế vốn thành lập từ năm 2009. Tuy nhiên, là đồng minh thân thiết của Mỹ, Saudi Arabia muốn gửi thông điệp gì khi ngỏ ý tham gia một cơ chế vốn là “sân chơi” của Nga và Trung Quốc? Động thái này liệu có khiến mối quan hệ Mỹ - Saudi Arabia rơi vào khủng hoảng, sau khi nước này và nhóm OPEC+ mới đây bất chấp lời kêu gọi của Mỹ đã cắt giảm sản lượng dầu toàn cầu.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/10/20/vovlive_vandequocte_ngoymuongianhapnhomcacnenkinhtemoinoibrics.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 21 Oct 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Phương Tây cứng rắn với Iran - Tương lai nào cho thỏa thuận hạt nhân Iran?</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/10/14/vovlive_vandequocte_ngatrungquocduocxacdinhnhuthenaotrongchienluocanninhquocgiaucuamy.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 15 Oct 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Vai trò trung gian hòa giải giữa Nga - Ukraine của Thổ Nhĩ Kỳ</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Trong tuyên bố mới nhất, chính quyền Thổ Nhĩ Kỳ khẳng định sẽ tiếp tục phát huy vai trò trung gian hòa giải trong xung đột Nga - Ukraine tại cuộc gặp với Tổng thống Nga Putin, dự kiến diễn ra ngày 13/10 tại A-xta-na, Kazakhstan. Tổng thống Tayyip Erdogan là nhà lãnh đạo duy nhất hiện nay có thể đưa ông Putin và Tổng thống Ukraine Zelensky ngồi vào bàn đàm phán. Không phải đến bây giờ, Thổ Nhĩ Kỳ mới thúc đẩy vai trò trung gian hòa giải giữa Nga và Ukraine. Thực tế, Ankara cùng Liên hợp quốc đã kết nối thành công giúp Nga và Ukraine đạt thỏa thuận xuất khẩu ngũ cốc từ Ukraine qua biển Đen, góp phần giải quyết mối đe dọa an ninh lương thực toàn cầu. Với mối quan hệ tốt và cách tiếp cận khéo léo, liệu Thổ Nhĩ Kỳ có thể tiếp tục phát huy vai trò trung gian hòa giải, hướng tới “mục tiêu lớn hòa bình” khi tình hình thực địa vẫn chưa hạ nhiệt?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/10/13/vovlive_vandequocte_vaitrotrunggianhoagiaigiuangaukrainecuathonhiky.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 14 Oct 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
