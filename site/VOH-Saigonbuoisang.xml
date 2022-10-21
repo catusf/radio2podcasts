@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 18 Oct 2022 23:41:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 21 Oct 2022 06:34:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 18 Oct 2022 23:41:00 +0700</pubDate>
+    <pubDate>Fri, 21 Oct 2022 06:34:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Kỉ niệm ngày Phụ nữ Việt nam 20/10 – Sài Gòn buổi sáng 20/10/2022</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/ki-niem-ngay-phu-nu-viet-nam-20-10-sai-gon-buoi-sang-20-10-2022-453006.html</link>
+      <description><![CDATA[23:34 - 20/10/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/ki-niem-ngay-phu-nu-viet-nam-20-10-sai-gon-buoi-sang-20-10-2022-453006.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/10/20/FMSGBS06h00p201022-20221020070118.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 21 Oct 2022 06:34:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Doanh nhân viết và viết về doanh nhân - Sài Gòn buổi sáng 15/10/2022</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/doanh-nhan-viet-va-viet-ve-doanh-nhan-sai-gon-buoi-sang-15-10-2022-452669.html</link>
       <description><![CDATA[16:41 - 18/10/2022]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/doanh-nhan-viet-va-viet-ve-doanh-nhan-sai-gon-buoi-sang-15-10-2022-452669.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/10/18/SGBS-Tap-chi-cuoi-tuan-15102022-20221014221630.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 18 Oct 2022 23:41:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Các tỉnh miền trung đang tiếp tục đứng trước thử thách - Sài Gòn buổi sáng 18/10/2022</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/cac-tinh-mien-trung-dang-tiep-tuc-dung-truoc-thu-thach-sai-gon-buoi-sang-18-10-2022-452664.html</link>
-      <description><![CDATA[16:32 - 18/10/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/cac-tinh-mien-trung-dang-tiep-tuc-dung-truoc-thu-thach-sai-gon-buoi-sang-18-10-2022-452664.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/10/18/FMSGBS06h00p181022-20221018140859.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 18 Oct 2022 23:32:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
