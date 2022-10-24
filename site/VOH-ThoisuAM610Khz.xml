@@ -24,6 +24,14 @@
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Ca đậu mùa khỉ thứ 2 không ảnh hưởng đến cộng đồng - Thời sự 5g30 21/10/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/ca-dau-mua-khi-thu-2-khong-anh-huong-den-cong-dong-thoi-su-5g30-21-10-2022-453499.html</link>
+      <description><![CDATA[15:16 - 21/10/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/ca-dau-mua-khi-thu-2-khong-anh-huong-den-cong-dong-thoi-su-5g30-21-10-2022-453499.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/10/24/AM610-THOISU30P05h30p211022.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 21 Oct 2022 22:16:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Tăng lương sớm để giảm bớt khó khăn cho người lao động - Thời sự 17g00 ngày 23/10/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tang-luong-som-de-giam-bot-kho-khan-cho-nguoi-lao-dong-thoi-su-17g00-ngay-23-10-2022-453433.html</link>
       <description><![CDATA[18:00 - 23/10/2022]]></description>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/y-nghia-tu-mot-chuyen-hai-trinh-bai-3-thoi-su-5h30-ngay-17-10-2022-453366.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/10/23/AMThoisu05h30p17102022-20221016225336.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 23 Oct 2022 21:38:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Cần lắm nguồn tạng ghép cho trẻ em – Thời Sự 5g30 19/10/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/can-lam-nguon-tang-ghep-cho-tre-em-thoi-su-5g30-19-10-2022-453362.html</link>
-      <description><![CDATA[14:14 - 23/10/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/can-lam-nguon-tang-ghep-cho-tre-em-thoi-su-5g30-19-10-2022-453362.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/10/23/AMThoisu05h30p19102022-20221018233508.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 23 Oct 2022 21:14:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
