@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 25 Oct 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 26 Oct 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 25 Oct 2022 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 26 Oct 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Những thách thức lớn chưa từng có với chính phủ mới của Anh</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Như vậy là chỉ chưa đầy 2 tháng, nước Anh đã có thủ tướng thứ 3. Cựu Bộ trưởng tài chính Rishi Sunak đã nhận được sự ủng hộ của các nghị sĩ đảng Bảo thủ để trở thành tân Thủ tướng Anh, thay thế bà Liz Truss đã quyết định từ chức hôm 20-10 do những sai lầm trong chương trình kinh tế gây xáo trộn thị trường tài chính. Ông Rishi Sunak, 42 tuổi là cựu Bộ trưởng Tài chính Anh và từng là đối thủ chính của bà Liz Truss trong cuộc đua giành vị trí lãnh đạo đảng Bảo thủ hồi tháng 8 vừa qua. Là chính trị gia có quan điểm kinh tế và chính trị khác biệt so với 2 người tiền nhiệm là Liz Truss và ông Boris Johnson, ông Rishi Sunak sẽ giành những ưu tiên gì trong chương trình nghị sự để đưa nước Anh thoát khỏi những bất ổn về kinh tế và chính trị hiện nay?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/10/26/vovlive_vandequocte_nhungthachthuclonchuatungcovoichinhphumoicuaanh.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 26 Oct 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Bầu cử giữa nhiệm kỳ 2022 tại Mỹ vào chặng nước rút</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/10/20/vovlive_vandequocte_ngoymuongianhapnhomcacnenkinhtemoinoibrics.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 21 Oct 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Phương Tây cứng rắn với Iran - Tương lai nào cho thỏa thuận hạt nhân Iran?</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Liên minh Châu Âu (EU) vừa áp đặt lệnh trừng phạt mới với 11 cá nhân và 4 thực thể Iran. Đáng chú ý trong số những thực thể thuộc diện trừng phạt có Lực lượng Vệ binh Cách mạng Hồi giáo Iran và đơn vị an ninh mạng. Trước đó, Mỹ, Anh và Canada cũng đã áp đặt trừng phạt với các cá nhân và thực thể tại Iran. Trong khi đó, phía Iran cho rằng, đây là hành động “thiếu tính xây dựng và phi lý” của EU và nước này sẽ có phản ứng “ngay lập tức” đối với những quyết định và hành động của EU. Vậy những động thái cứng rắn của phương Tây đối với Iran thời gian qua, có ảnh hưởng ra sao tới cục diện đàm phán về việc khôi phục thỏa thuận Iran mà dư luận đang mong chờ?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/10/19/vovlive_vandequocte_phuongtaycungranvoiirantuonglainaochothoathuanhatnhaniran.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 20 Oct 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
