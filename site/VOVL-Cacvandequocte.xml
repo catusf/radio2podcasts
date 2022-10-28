@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 26 Oct 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 29 Oct 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 26 Oct 2022 19:00:00 +0700</pubDate>
+    <pubDate>Sat, 29 Oct 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,22 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Cảnh báo về sự trở lại của Tổ chức Nhà nước Hồi giáo tự xưng (IS)</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Tổ chức Nhà nước Hồi giáo tự xưng (IS) vừa lên tiếng nhận trách nhiệm đã thực hiện cuộc tấn công nhằm vào một đền thờ Hồi giáo ở Iran ngày 26/10 khiến ít nhất 15 người thiệt mạng. Sau 4 năm kể từ ngày Mỹ tuyên bố chiến thắng trước IS, việc tổ chức khủng bố này nhận trách nhiệm thực hiện một vụ tấn công gây thương vong lớn đang khiến nhiều người lo ngại về nguy cơ IS có thể quay trở lại sau một thời gian củng cố lực lượng. Trên thực tế, trước khi IS nhận trách nhiệm về vụ tấn công tại Iran, Liên hợp quốc từng có báo cáo về việc IS đang từng bước mở rộng hoạt động tại hơn 20 quốc gia Châu Phi, từ đó hình thành cứ điểm mới của một “Nhà nước Hồi giáo” trong tương lai mà IS đang hướng tới. Điều quan trọng mà Liên hợp quốc chỉ ra là các quốc gia dường như chưa quan tâm đầy đủ trong việc ứng phó với IS ngay từ khi tổ chức khủng bố này manh nha trở lại, trong khi các chuyên gia cảnh báo “mọi sự tự mãn luôn là thiếu khôn ngoan”.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/10/28/vovlive_vandequocte_canhbaovesutrolaicuais.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 29 Oct 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Liên minh Châu Âu (EU) tăng tốc hợp tác khu vực Trung Á cạnh tranh với Nga - Trung Quốc</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Theo giới quan sát Châu Âu, kể từ khi nổ ra cuộc xung đột tại Ukraine, đang có những dấu hiệu cho thấy Liên minh Châu Âu (EU) hướng sự quan tâm đặc biệt đến khu vực Trung Á. Theo đó, giới chức hàng đầu EU thời gian qua liên tục có các cuộc tiếp xúc, hội đàm và hiện cũng đang có chuyến công du đến các nước trong khu vực như Kazakhstan hay Uzbekistan. Vốn được coi là “sân sau” của Nga và đối tác hàng đầu trong Sáng kiến "Vành đai và Con đường" của Trung Quốc. Khu vực Trung Á đang ngày càng khẳng định vị thế địa chiến lược, đặc biệt khi cuộc khủng hoảng Ukraine đang tác động mạnh mẽ, làm thay đổi cục diện các mối quan hệ địa chính trị trên toàn cầu. Vì thế, cũng không khó hiểu khi Châu Âu đang nỗ lực “xích lại gần hơn” với khu vực này.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/10/28/vovlive_vandequocte_eutangtochoptackhuvuctrungacanhtranhvoingatrungquoc.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 28 Oct 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Những thách thức lớn chưa từng có với chính phủ mới của Anh</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -38,22 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/10/25/vovlive_vandequocte_baucugiuanhiemky2022taimyvaochangnuocrut.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 25 Oct 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Sóng gió trên chính trường Anh sau khi Thủ tướng Liz Truss tuyên bố từ chức</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Sau nhiều ngày căng thẳng trên chính trường với nhiều áp lực, Thủ tướng Anh Liz Truss đã tuyên bố từ chức chỉ sau 45 ngày đảm nhiệm chức vụ, trở thành vị Thủ tướng tại vị trong thời gian ngắn nhất trong lịch sử vương quốc Anh. Bà thừa nhận không thể thực hiện những lời hứa khi tranh cử lãnh đạo Đảng Bảo thủ và đã đánh mất sự tín nhiệm của Đảng dành cho bà. Chỉ trong 6 tuần, các chính sách kinh tế của bà Liz Truss đã gây ra cuộc khủng hoảng tài chính khiến Ngân hàng Trung ương Anh phải lập tức can thiệp. Bên cạnh đó, nhiều kế hoạch trong chính sách này cũng đã bị đảo ngược. Chính trường Anh trong những ngày tới sẽ ra sao? Những ứng cử viên nào có thể được lựa chọn?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/10/25/vovlive_vandequocte_songgiotrenchinhtruonganh.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 22 Oct 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Ngỏ ý muốn gia nhập nhóm các nền kinh tế mới nổi BRICS, Saudi Arabia muốn gửi thông điệp gì đến Mỹ</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Vừa trở về sau chuyến thăm Saudi Arabia, Tổng thống Nam Phi Cyril Ramaphosa cho biết, Saudi Arabia bày tỏ sự quan tâm đến việc gia nhập Nhóm các nền kinh tế mới nổi (gọi tắt là BRICS) gồm 5 nước: Brazil, Nga, Ấn Độ, Trung Quốc và Nam Phi. Đây được cho là nằm trong lộ trình mở rộng liên minh kinh tế vốn thành lập từ năm 2009. Tuy nhiên, là đồng minh thân thiết của Mỹ, Saudi Arabia muốn gửi thông điệp gì khi ngỏ ý tham gia một cơ chế vốn là “sân chơi” của Nga và Trung Quốc? Động thái này liệu có khiến mối quan hệ Mỹ - Saudi Arabia rơi vào khủng hoảng, sau khi nước này và nhóm OPEC+ mới đây bất chấp lời kêu gọi của Mỹ đã cắt giảm sản lượng dầu toàn cầu.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/10/20/vovlive_vandequocte_ngoymuongianhapnhomcacnenkinhtemoinoibrics.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 21 Oct 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
