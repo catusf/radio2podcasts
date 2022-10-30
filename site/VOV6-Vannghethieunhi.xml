@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 28 Oct 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jan 2000 07:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 28 Oct 2022 19:00:00 +0700</pubDate>
+    <pubDate>Sat, 01 Jan 2000 07:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,29 +23,5 @@
     </itunes:owner>
     <itunes:subtitle>Văn nghệ thiếu nhi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Vannghethieunhi.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>"Đất rừng phương Nam" qua lăng kính tuổi thơ  28/10/2022</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/dat-rung-phuong-nam-qua-lang-kinh-tuoi-tho-c44-34822.aspx</link>
-      <description><![CDATA[Tiểu thuyết “Đất rừng phương Nam” của nhà văn Đoàn Giỏi giới thiệu với bạn đọc mảnh đất phương Nam giàu có, hào phóng và hùng vĩ, với những con người trung hậu, dũng cảm, một lòng đi theo cách mạng. Cuốn sách ghi lại chặng đường phiêu lưu thú vị của cậu bé An sau khi bị lạc gia đình và trở thành con nuôi của người bắt rắn... (Văn nghệ thiếu nhi 27/10/2022)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/dat-rung-phuong-nam-qua-lang-kinh-tuoi-tho-c44-34822.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2022_10/v2_2710_10h4518h15_van_nghe_thieu_nhi_2810202215.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 28 Oct 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đọc truyện “Những cuộc phiêu lưu ly kỳ của Mumi bố” - Buổi mười sáu - Bác Fredrikson ở lại   25/10/2022</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-nhung-cuoc-phieu-luu-ly-ky-cua-mumi-bo-buoi-muoi-sau-bac-fredrikson-c44-34813.aspx</link>
-      <description><![CDATA[Khi con thuyền “Tiếng rì rầm của biển" chuẩn bị xuất bến, bác Fredrikson bất ngờ nhận được bức điện khẩn của nhà vua yêu cầu bác ở lại. Bác Fredrikson đã đồng ý. Hàng tuần, bác miệt mài với những sáng chế theo yêu cầu của nhà vua và cũng say sưa chế tạo ra con thuyền biết bay như bác mơ ước bấy lâu... (Văn nghệ thiếu nhi 23/10/2022)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-nhung-cuoc-phieu-luu-ly-ky-cua-mumi-bo-buoi-muoi-sau-bac-fredrikson-c44-34813.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2022_10/v2_2310_10h4518h15_van_nghe_thieu_nhi_2_2510202214.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 25 Oct 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đọc truyện "Những cuộc phiêu lưu ly kỳ của Mumi bố” - Buổi mười lăm - Những món quà   25/10/2022</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-nhung-cuoc-phieu-luu-ly-ky-cua-mumi-bo-buoi-muoi-lam-nhung-mon-qua-c44-34812.aspx</link>
-      <description><![CDATA[Rất nhiều người đã trúng thưởng. Bác Fredrikson được tặng một chiếc cưa như mong ước bấy lâu. Bố Mumi thì trúng thưởng răng cá mập và một số vật dụng khác. Con gái cô Muymeli thì được hôn lên mũi của nhà vua. Duy chỉ có Chân dính là trắng tay bởi cậu ta tưởng rằng những quả trứng điền số là đồ ăn nên đã chén sạch... (Văn nghệ thiếu nhi 22/10/2022)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-nhung-cuoc-phieu-luu-ly-ky-cua-mumi-bo-buoi-muoi-lam-nhung-mon-qua-c44-34812.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2022_10/v2_2210_10h4518h15_van_nghe_thieu_nhi_1_2510202214.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 25 Oct 2022 19:00:00 +0700</pubDate>
-    </item>
   </channel>
 </rss>
