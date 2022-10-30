@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 24 Oct 2022 01:49:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 31 Oct 2022 03:46:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 24 Oct 2022 01:49:00 +0700</pubDate>
+    <pubDate>Mon, 31 Oct 2022 03:46:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Cửa sổ văn học trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Cuasovanhoc.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Trò chuyện cùng Tống Phước Bảo - Cửa sổ văn học 30/10/2022</title>
+      <link>https://radio.voh.com.vn/cua-so-van-hoc/tro-chuyen-cung-tong-phuoc-bao-cua-so-van-hoc-30-10-2022-454315.html</link>
+      <description><![CDATA[20:46 - 30/10/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/tro-chuyen-cung-tong-phuoc-bao-cua-so-van-hoc-30-10-2022-454315.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/10/30/FMCuasovanhoc07h00p301022-20221029182819.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 31 Oct 2022 03:46:00 +0700</pubDate>
+    </item>
     <item>
       <title>Giao lưu cùng dịch giả Nguyễn Hữu Dũng - Cửa sổ văn học 23/10/2022</title>
       <link>https://radio.voh.com.vn/cua-so-van-hoc/giao-luu-cung-dich-gia-nguyen-huu-dung-cua-so-van-hoc-23-10-2022-453387.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/sach-moi-cua-nha-van-nguyen-truong-quy-cua-so-van-hoc-16-10-2022-452360.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/10/16/FMCuasovanhoc07h00p161022-20221015145825.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 16 Oct 2022 20:05:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Ra mắt tập thơ "Chín nhánh da vàng" - Trần Đức Tín - Cửa sổ văn học 9/10/2022</title>
-      <link>https://radio.voh.com.vn/cua-so-van-hoc/ra-mat-tap-tho-chin-nhanh-da-vang-tran-duc-tin-cua-so-van-hoc-9-10-2022-451255.html</link>
-      <description><![CDATA[14:34 - 09/10/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/ra-mat-tap-tho-chin-nhanh-da-vang-tran-duc-tin-cua-so-van-hoc-9-10-2022-451255.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/10/08/FMCuasovanhoc07h00p091022-20221008074335.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 09 Oct 2022 21:34:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
