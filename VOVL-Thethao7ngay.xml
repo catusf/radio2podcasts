@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 28 Oct 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 31 Oct 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 28 Oct 2022 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 31 Oct 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,15 @@
     </itunes:owner>
     <itunes:subtitle>Thể thao 7 ngày</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Thethao7ngay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Chương trình thể thao 7 ngày 29 tháng 10 năm 2022</title>
+      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
+      <description><![CDATA[- Sau vòng 21 giải vô địch quốc gia V-league 2022 đang chứng kiến những cuộc đua kịch tính ở cả hai đầu bảng xếp hạng. Mặc dù V-league 2022 chỉ còn ít vòng nữa sẽ hạ màn, nhưng tới thời điểm này vẫn còn tới 4 đội có khả năng cạnh tranh ngôi vương. Trong khi đó ở phía cuối bàng xếp hạng có tới 7 câu lạc bộ sẽ phải quyết đấu trong cuộc chiến trụ hạng. 
+- Sự cần thiết của dinh dưỡng trong luyện tập thể thao.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/10/31/vovlive_thethao7ngay_chuongtrinhthethao7ngay29102022.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 31 Oct 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Chường trình thể thao 7 ngày 23 tháng 10 năm 2022</title>
       <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
@@ -52,16 +61,6 @@ Kiến thức thể thao nói về 9 lợi ích tuyệt vời của việc luy�
       <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/10/17/vovlive_thethao7ngay_chuongtrinhthethao7ngay8102022.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 17 Oct 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chương trình thể thao 7 ngày 01 tháng 10 năm 2022</title>
-      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
-      <description><![CDATA[- Tạo ra cơn mưa bàn thắng vào lưới hai đội khách mời Singapore và Ấn Độ. Đội tuyển Việt Nam đã vô địch giải giao hữu Hưng Thịnh 2022 vô cùng thuyết phục. Không chỉ nhận 30.000 đô la Mỹ, tích lũy thêm điểm số để tăng một bậc lên hạng 96 FIFA. Việc hoàn thành mục tiêu tại đợt FIFA Day tháng 9 còn nằm ở khía cạnh tri ân khán giả phía Nam, đồng thời gửi đi thông điệp kép đầy mạnh mẽ: huấn luyện viên Park Hang Seo không hề bảo thủ và các cầu thủ cả cũ lẫn mới đều phải cạnh tranh sòng phẳng. Giới chuyên môn, các cầu thủ và ông Park đánh giá ra sao về hai trận giao hữu vừa qua cũng như chiến dịch lớn vào cuối năm?
-- Cảm nhận sâu sắc hơn về phương châm NO PAIN NO GAIN, không đau đớn, không đạt được mục tiêu. Bên cạnh tầm quan trọng của điểm tựa gia đình qua câu chuyện của lực sĩ thể hình vô địch Châu Á Bùi Thị Thoa. 
-- Cung cấp thông tin về lễ tuyệt vời của việc vận động thể thao trong việc hòa nhập cộng đồng đối với trẻ khiếm thị, khiếm thính chậm phát triển.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/10/04/vovlive_thethao7ngay_chuongtrinhthethao7ngay1102022.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 04 Oct 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
