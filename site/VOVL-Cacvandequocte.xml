@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 29 Oct 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 01 Nov 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 29 Oct 2022 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 01 Nov 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Thỏa thuận ngũ cốc giữa Nga và Ukraine liệu có chết yểu?</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Nga vừa tuyên bố ngừng thực hiện thỏa thuận ngũ cốc giữa nước này với Ukraine. Thỏa thuận này đạt được hồi tháng 7 năm nay với sự trung gian của Liên Hợp Quốc và Thổ Nhĩ Kỳ nhằm giải phóng xuất khẩu nông sản qua Biển Đen từ Nga và Ukraine, vốn bị ngưng trệ do cuộc xung đột giữa 2 bên. Vì sao Nga dừng thực thi thỏa thuận ngũ cốc và điều này sẽ dẫn tới những hệ lụy như thế nào?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/10/31/vovlive_vandequocte_thoathuangucocgiuangavaukrainelieucochetyeu.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 01 Nov 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Cảnh báo về sự trở lại của Tổ chức Nhà nước Hồi giáo tự xưng (IS)</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/10/26/vovlive_vandequocte_nhungthachthuclonchuatungcovoichinhphumoicuaanh.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 26 Oct 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Bầu cử giữa nhiệm kỳ 2022 tại Mỹ vào chặng nước rút</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Chính trường Mỹ đang nóng lên khi chỉ còn hai tuần nữa là tới cuộc bầu cử giữa nhiệm kỳ năm nay. Ngoài cuộc đua vào lưỡng viện Quốc hội khóa 118, cuộc bầu cử còn bầu lại hàng loạt vị trí thống đốc tiểu bang và chính quyền địa phương. Trong tuần này, cử tri tại một số bang ở Mỹ có thể được bỏ phiếu sớm. Dù tên của Tổng thống Joe Biden không có trên bất kỳ lá phiếu nào, song cuộc bầu cử giữa nhiệm kỳ được coi như một cuộc trưng cầu ý dân toàn liên bang đối với kết quả điều hành chính phủ của ông Biden nói riêng, đảng Dân chủ nói chung trong gần 2 năm qua. Kết quả bầu cử cũng sẽ phát đi tín hiệu về đường lối chính sách đối nội và đối ngoại của nước Mỹ trong ít nhất 2 năm tới. Vậy cử tri Mỹ chờ đợi gì ở cuộc đua gay cấn này và những kịch bản nào có thể xảy ra trên chính trường Mỹ?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/10/25/vovlive_vandequocte_baucugiuanhiemky2022taimyvaochangnuocrut.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 25 Oct 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
