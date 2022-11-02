@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 30 Oct 2022 23:37:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 02 Nov 2022 09:49:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 30 Oct 2022 23:37:00 +0700</pubDate>
+    <pubDate>Wed, 02 Nov 2022 09:49:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Cuộc đua xe đạp NKKN 2022 tranh cúp phát thanh VOH chờ ngày khai cuộc - Sài Gòn buổi sáng 1/11/2022</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/cuoc-dua-xe-dap-nkkn-2022-tranh-cup-phat-thanh-voh-cho-ngay-khai-cuoc-sai-gon-buoi-sang-1-11-2022-454646.html</link>
+      <description><![CDATA[02:49 - 02/11/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/cuoc-dua-xe-dap-nkkn-2022-tranh-cup-phat-thanh-voh-cho-ngay-khai-cuoc-sai-gon-buoi-sang-1-11-2022-454646.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/11/02/FMSGBS06h00p011122-20221101175013.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 02 Nov 2022 09:49:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Kết quả xây dựng cổng 1022 của TPHCM – Sài Gòn buổi sáng 24/10/2022</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/ket-qua-xay-dung-cong-1022-cua-tphcm-sai-gon-buoi-sang-24-10-2022-454299.html</link>
       <description><![CDATA[16:37 - 30/10/2022]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/ket-qua-xay-dung-cong-1022-cua-tphcm-sai-gon-buoi-sang-24-10-2022-454299.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/10/30/FMSGBS06h00p241022-20221024070333.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 30 Oct 2022 23:37:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Kỷ niệm 30 năm phát triển các khu chế xuất, khu công nghiệp – Sài Gòn buổi sáng 28/10/2022</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/ky-niem-30-nam-phat-trien-cac-khu-che-xuat-khu-cong-nghiep-sai-gon-buoi-sang-28-10-2022-454010.html</link>
-      <description><![CDATA[12:43 - 28/10/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/ky-niem-30-nam-phat-trien-cac-khu-che-xuat-khu-cong-nghiep-sai-gon-buoi-sang-28-10-2022-454010.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/10/28/FMSGBS06h00p281022-20221028070141.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 28 Oct 2022 19:43:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
