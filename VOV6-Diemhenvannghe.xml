@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 26 Oct 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 03 Nov 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 26 Oct 2022 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 03 Nov 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Điểm hẹn văn nghệ</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Diemhenvannghe.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Nơi về đích đầu tiên 26/10/2022</title>
+      <title>“Nậm Ngặt mây trắng" – Bản hùng ca bi tráng 3/11/2022</title>
+      <link>http://vov6.vov.vn/diem-hen-van-nghe/nam-ngat-may-trang-ban-hung-ca-bi-trang-c158-34835.aspx</link>
+      <description><![CDATA[Chiến tranh được coi là một đề tài thuộc hàng kinh điển của văn học nước nhà. Chúng ta có hàng trăm tác phẩm của nhiều thế hệ nhà văn khác nhau. Nhưng cũng chính vì thế, viết về chiến tranh cũng là một thách thức với người cầm bút. Viết thế nào để không đi vào lối mòn, không sa vào minh họa hiện thực là trăn trở của nhiều người. Tiểu thuyết “Nậm Ngặt mây trắng” của tác giả Nguyễn Hùng Sơn, do NXB Văn học ấn hành, có thể coi là một tác phẩm thành công ở đề tài này khi vừa chinh phục được giới chuyên môn vừa ghi dấu ấn trong lòng độc giả. Để hiểu rõ hơn về tác phẩm, chúng ta cùng nghe một vài cảm nghĩ của BTV Nguyễn Hà qua bài “Nậm Ngặt mây trắng – Bản hùng ca bi tráng”.]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/nam-ngat-may-trang-ban-hung-ca-bi-trang-c158-34835.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2022_11/gts_nam_ngat_may_trang_hc_311202211.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 03 Nov 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Nơi về đích đầu tiên  26/10/2022</title>
       <link>http://vov6.vov.vn/diem-hen-van-nghe/noi-ve-dich-dau-tien-c158-34816.aspx</link>
       <description><![CDATA[Làng Quỳnh xưa nay là xã Quỳnh Đôi, huyện Quỳnh Lưu, từ xa xưa, nổi tiếng ở xứ Nghệ về khoa bảng, nơi sinh các văn thần võ tướng đóng góp nhân tài cho đất nước. Trong thời kỳ đổi mới, không chỉ phát huy truyền thống hiếu học, yêu nước mà Quỳnh Đôi còn là xã đi đầu xây dựng nông thôn mới kiểu mẫu của tỉnh Nghệ An. Là một người con của làng Quỳnh, nhà văn Hồ Ngọc Quang không giấu nổi niềm tự hào về quê hương và trong bút ký “Nơi về đích đầu tiên” mà nhà văn mới viết gần đây, ông đã thốt lên: “Gần đây, khi chủ trương xây dựng Nông thôn mới được tập trung đẩy mạnh, cây “cổ thụ” làng Quỳnh lại đơm hoa, nở nụ thành những chùm lớn. Ấy là lúc tinh thần tập thể được khơi dậy, được khích lệ cao độ tạo nên một sức mạnh, nội lực vô cùng lớn để làng Quỳnh làm nên những điều kỳ diệu của một hình mẫu về Nông thôn mới”...]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/noi-ve-dich-dau-tien-c158-34816.aspx</guid>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/hoi-uc-thieu-nu-doi-dien-voi-bong-den-qua-khu-c158-34805.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2022_10/gts_hoi_uc_thieu_nu_hc_2110202215.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 21 Oct 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Mở ra cánh cửa tiếp cận văn học Hàn Quốc  13/10/2022</title>
-      <link>http://vov6.vov.vn/diem-hen-van-nghe/mo-ra-canh-cua-tiep-can-van-hoc-han-quoc-c158-34790.aspx</link>
-      <description><![CDATA[Tạp chí “Viết và Đọc” của NXB Hội Nhà văn sắp bước sang tuổi thứ 5. Từ mùa thu năm 2018 cho tới nay, “Viết và Đọc” đã luôn là một ấn phẩm chất về nội dung và đẹp về hình thức. Không chỉ giới hạn trong văn học Việt, tạp chí còn giới thiệu nhiều tác giả, tác phẩm nước ngoài. Gần đây, với sự hỗ trợ của Trung tâm Văn hóa Hàn Quốc, “Viết và Đọc” tiếp tục gây chú ý khi cho ra mắt ấn phẩm chuyên đề văn học Hàn Quốc nhân dịp kỷ niệm 30 năm thiết lập quan hệ ngoại giao giữa hai nước. Sau đây, chúng ta cùng tìm hiểu ấn phẩm này qua bài của BTV Nguyễn Hà có nhan đề “Mở ra cánh cửa tiếp cận văn học Hàn Quốc”.]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/mo-ra-canh-cua-tiep-can-van-hoc-han-quoc-c158-34790.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2022_10/chuyen_de_vh_han_quoc_hc_1310202210.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 13 Oct 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
