@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 03 Nov 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 04 Nov 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 03 Nov 2022 19:00:00 +0700</pubDate>
+    <pubDate>Fri, 04 Nov 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Đức mở rộng hợp tác với khu vực Đông Bắc Á, một mũi tên nhiều mục đích</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Lãnh đạo cấp cao của Đức liên tiếp có các chuyến thăm tới khu vực Đông Bắc Á. Trong khi Tổng thống Đức Frank-Walter Steinmeier đang có chuyến thăm Nhật Bản và Hàn Quốc thì Thủ tướng Đức Olaf Scholz bắt đầu có chuyến công du Trung Quốc. Ngoài các nội dung về tăng cường hợp tác song phương, dự kiến các cuộc thảo luận giữa lãnh đạo Đức và các nước Đông Bắc Á sẽ tập trung vào sự hợp tác hướng tới việc hiện thực hóa khu vực Ấn Độ Dương - Thái Bình Dương tự do và rộng mở. Chính phủ Đức tính toán điều gì khi đẩy mạnh hợp tác với các nước trong khu vực này trong bối cảnh hiện nay?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/11/03/vovlive_vandequocte_ducmoronghoptacvoikhuvucdongnama.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 04 Nov 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Bầu cử Quốc hội Israel: Liệu có phá vỡ thế bế tắc chính trị?</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/10/31/vovlive_vandequocte_thoathuangucocgiuangavaukrainelieucochetyeu.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 01 Nov 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Cảnh báo về sự trở lại của Tổ chức Nhà nước Hồi giáo tự xưng (IS)</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Tổ chức Nhà nước Hồi giáo tự xưng (IS) vừa lên tiếng nhận trách nhiệm đã thực hiện cuộc tấn công nhằm vào một đền thờ Hồi giáo ở Iran ngày 26/10 khiến ít nhất 15 người thiệt mạng. Sau 4 năm kể từ ngày Mỹ tuyên bố chiến thắng trước IS, việc tổ chức khủng bố này nhận trách nhiệm thực hiện một vụ tấn công gây thương vong lớn đang khiến nhiều người lo ngại về nguy cơ IS có thể quay trở lại sau một thời gian củng cố lực lượng. Trên thực tế, trước khi IS nhận trách nhiệm về vụ tấn công tại Iran, Liên hợp quốc từng có báo cáo về việc IS đang từng bước mở rộng hoạt động tại hơn 20 quốc gia Châu Phi, từ đó hình thành cứ điểm mới của một “Nhà nước Hồi giáo” trong tương lai mà IS đang hướng tới. Điều quan trọng mà Liên hợp quốc chỉ ra là các quốc gia dường như chưa quan tâm đầy đủ trong việc ứng phó với IS ngay từ khi tổ chức khủng bố này manh nha trở lại, trong khi các chuyên gia cảnh báo “mọi sự tự mãn luôn là thiếu khôn ngoan”.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/10/28/vovlive_vandequocte_canhbaovesutrolaicuais.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 29 Oct 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
