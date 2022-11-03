@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 02 Nov 2022 13:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 03 Nov 2022 22:38:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 02 Nov 2022 13:00:00 +0700</pubDate>
+    <pubDate>Thu, 03 Nov 2022 22:38:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Khai mạc cuộc đua xe đạp Nam Kỳ Khởi Nghĩa lần thứ 24 - Sài Gòn buổi sáng 03/11/2022</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/khai-mac-cuoc-dua-xe-dap-nam-ky-khoi-nghia-lan-thu-24-sai-gon-buoi-sang-03-11-2022-454884.html</link>
+      <description><![CDATA[15:38 - 03/11/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/khai-mac-cuoc-dua-xe-dap-nam-ky-khoi-nghia-lan-thu-24-sai-gon-buoi-sang-03-11-2022-454884.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/11/03/FMSGBS06h00p031122-20221103132617.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 03 Nov 2022 22:38:00 +0700</pubDate>
+    </item>
+    <item>
       <title>TPHCM cần 69.500 – 77.100 lao động trong quý IV năm 2022 - Sài Gòn buổi sáng 2/11/2022</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/tphcm-can-69-500-77-100-lao-dong-trong-quy-iv-nam-2022-sai-gon-buoi-sang-2-11-2022-454750.html</link>
       <description><![CDATA[06:00 - 02/11/2022]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/tphcm-can-69-500-77-100-lao-dong-trong-quy-iv-nam-2022-sai-gon-buoi-sang-2-11-2022-454750.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/11/02/FMSGBS06h00p021122-20221102070238.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 02 Nov 2022 13:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Cuộc đua xe đạp NKKN 2022 tranh cúp phát thanh VOH chờ ngày khai cuộc - Sài Gòn buổi sáng 1/11/2022</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/cuoc-dua-xe-dap-nkkn-2022-tranh-cup-phat-thanh-voh-cho-ngay-khai-cuoc-sai-gon-buoi-sang-1-11-2022-454646.html</link>
-      <description><![CDATA[02:49 - 02/11/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/cuoc-dua-xe-dap-nkkn-2022-tranh-cup-phat-thanh-voh-cho-ngay-khai-cuoc-sai-gon-buoi-sang-1-11-2022-454646.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/11/02/FMSGBS06h00p011122-20221101175013.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 02 Nov 2022 09:49:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
