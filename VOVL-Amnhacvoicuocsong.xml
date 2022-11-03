@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 23 Oct 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 30 Oct 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 23 Oct 2022 19:00:00 +0700</pubDate>
+    <pubDate>Sun, 30 Oct 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,15 @@
     </itunes:owner>
     <itunes:subtitle>Âm nhạc với cuộc sống</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Amnhacvoicuocsong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Đề tài lạc quan, hài hước của người lính trong những tác phẩm âm nhạc</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[- Thưởng thức ca khúc “Niềm vui của anh quân bưu” (Nhạc sĩ Vũ Trọng Hối)
+- Thưởng thức liên khúc: Những cô gái tân binh (Nhạc sĩ Hoàng Thành), Lính binh nhì (Nhạc sĩ Trương Ngọc Ninh), Làng lính trên đảo (Nhạc sĩ Doãn Nho), Tình ca anh lính chưa yêu (Nhạc sĩ Nguyễn Cường), ca khúc Guitar lính (Nhạc sĩ An Hiếu) và lắng nghe những chia sẻ về đề tài lạc quan, hài hước của những người lính trong âm nhạc của các nhạc sĩ: Nhạc sĩ – Đại tá Doãn Nho, NSƯT – Đại tá Dương Minh Đức, Nhạc sĩ – Đại tá Nguyễn Xuân Thủy, Hiệu trưởng trường Đại học Văn hóa Nghệ thuật Quân đội…]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/11/01/vovlive_am_nhac_voi_cuoc_song_de_tai_lac_quan_trong_am_nhac.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 30 Oct 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Ngô Tự Lập từ văn sĩ đến nhạc sĩ</title>
       <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
@@ -48,14 +57,6 @@
       <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/10/10/vovlive_am_nhac_voi_cuoc_song_ha_noi_trong_dong_chay_am_nhac_viet.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 09 Oct 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Thơ Tố Hữu trong lời ca của các nhạc sỹ</title>
-      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[Tố Hữu là một nhà thơ lớn của dân tộc, một nhà thơ tiêu biểu của dòng thơ Cách mạng Việt Nam. Cuộc đời và sự nghiệp cách mạng, sự nghiệp thi ca của ông hòa quyện vào nhau trong từng bước đi của lịch sử và thời đại. Kỷ niệm 102 năm ngày sinh của nhà thơ Tố Hữu (4/10/1920-4/10-2022) thưởng thức một số ca khúc được phổ từ lời thơ của ông: “Em đã thắng” (Nhạc sĩ Văn Ký dựa trên bài thơ “Người con gái Việt Nam” của nhà thơ Tố Hữu), “Người con gái Việt Nam” (NSƯT Hoàng Tùng sáng tác dựa trên bài thơ “Người con gái Việt Nam” của nhà thơ Tố Hữu), “Tổ quốc tôi chưa đẹp thế bao giờ” (Nhạc sĩ Nguyễn Văn Thương phổ từ bài thơ “Vui thế hôm nay” của nhà thơ Tố Hữu) và lắng nghe những chia sẻ của NSƯT Hoàng Tùng để tìm hiểu về ca khúc “Người con gái Việt Nam”…]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/10/03/vovlive_am_nhac_voi_cuoc_song_to_huu.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 02 Oct 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
