@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 28 Oct 2022 17:49:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 04 Nov 2022 21:35:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 28 Oct 2022 17:49:00 +0700</pubDate>
+    <pubDate>Fri, 04 Nov 2022 21:35:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Làn sóng xanh trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Lansongxanh.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Làn Sóng Xanh (tuần 1 tháng 11) - 4/11/2022</title>
+      <link>https://radio.voh.com.vn/lan-song-xanh/lan-song-xanh-tuan-1-thang-11-4-11-2022-455051.html</link>
+      <description><![CDATA[14:35 - 04/11/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/lan-song-xanh/lan-song-xanh-tuan-1-thang-11-4-11-2022-455051.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/11/04/LSX-041122-final-20221103221735.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 04 Nov 2022 21:35:00 +0700</pubDate>
+    </item>
     <item>
       <title>Làn Sóng Xanh (tuần 4 tháng 10) - 28/10/2022</title>
       <link>https://radio.voh.com.vn/lan-song-xanh/lan-song-xanh-tuan-4-thang-10-28-10-2022-453997.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/lan-song-xanh/lan-song-xanh-tuan-1-thang-10-7-10-2022-451091.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/10/07/LSX-071022-final-20221006235823.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 07 Oct 2022 22:48:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Làn Sóng Xanh (tuần 4 tháng 9) - 30/9/2022</title>
-      <link>https://radio.voh.com.vn/lan-song-xanh/lan-song-xanh-tuan-4-thang-9-30-9-2022-450093.html</link>
-      <description><![CDATA[09:11 - 30/09/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/lan-song-xanh/lan-song-xanh-tuan-4-thang-9-30-9-2022-450093.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/09/30/LSX-300922-QC-20220929220352.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 30 Sep 2022 16:11:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
