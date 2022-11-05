@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 04 Nov 2022 19:14:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 06 Nov 2022 03:25:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 04 Nov 2022 19:14:00 +0700</pubDate>
+    <pubDate>Sun, 06 Nov 2022 03:25:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Chuyển đổi số và công dân số - Sài Gòn buổi sáng 31/10/2022</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/chuyen-doi-so-va-cong-dan-so-sai-gon-buoi-sang-31-10-2022-455262.html</link>
+      <description><![CDATA[20:25 - 05/11/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/chuyen-doi-so-va-cong-dan-so-sai-gon-buoi-sang-31-10-2022-455262.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/11/05/FMSGBS06h00p311022-20221031070513.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 06 Nov 2022 03:25:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Bộ trưởng Bộ Xây dựng: Nhà ở xã hội mới đạt được 36% so với nhu cầu – Sài Gòn buổi sáng 4/11/2022</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/bo-truong-bo-xay-dung-nha-o-xa-hoi-moi-dat-duoc-36-so-voi-nhu-cau-sai-gon-buoi-sang-4-11-2022-455025.html</link>
       <description><![CDATA[12:14 - 04/11/2022]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/bo-truong-bo-xay-dung-nha-o-xa-hoi-moi-dat-duoc-36-so-voi-nhu-cau-sai-gon-buoi-sang-4-11-2022-455025.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/11/04/FMSGBS06h00p041122-20221104070319.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 04 Nov 2022 19:14:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Khai mạc cuộc đua xe đạp Nam Kỳ Khởi Nghĩa lần thứ 24 - Sài Gòn buổi sáng 03/11/2022</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/khai-mac-cuoc-dua-xe-dap-nam-ky-khoi-nghia-lan-thu-24-sai-gon-buoi-sang-03-11-2022-454884.html</link>
-      <description><![CDATA[15:38 - 03/11/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/khai-mac-cuoc-dua-xe-dap-nam-ky-khoi-nghia-lan-thu-24-sai-gon-buoi-sang-03-11-2022-454884.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/11/03/FMSGBS06h00p031122-20221103132617.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 03 Nov 2022 22:38:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
