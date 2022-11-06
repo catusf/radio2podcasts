@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 04 Nov 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 05 Nov 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 04 Nov 2022 19:00:00 +0700</pubDate>
+    <pubDate>Sat, 05 Nov 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Mỹ tiếp tục tăng lãi suất tác động gì đến bức tranh kinh tế thế giới?</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Đúng như dự đoán trước đó, Cục Dự trữ liên bang Mỹ (FED) vừa thông báo quyết định tăng lãi suất thêm 0,75 điểm phần trăm, nâng biên độ lãi suất cho vay cơ bản của FED lên khoảng 3,75 đến 4%. Đây là mức cao kỷ lục tính từ năm 2008. Kiểm soát lạm phát đã trở thành mục tiêu chính sách hàng đầu của Mỹ trong giai đoạn hiện nay và lộ trình của FED cho thấy tốc độ tăng lãi suất sẽ không sớm dừng lại. Vậy mức độ tăng sẽ đến đâu và tác động của việc tăng lãi suất này đến nền kinh tế toàn cầu ra sao?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/11/04/vovlive_vandequocte_mytieptuctanglaisuattacdonggidenbuctranhkinhtethegioi.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 05 Nov 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Đức mở rộng hợp tác với khu vực Đông Bắc Á, một mũi tên nhiều mục đích</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/11/01/vovlive_vandequocte_ongluladasilvatrolaighetongthongbraxinsauhonmotthapnien.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 02 Nov 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Thỏa thuận ngũ cốc giữa Nga và Ukraine liệu có chết yểu?</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Nga vừa tuyên bố ngừng thực hiện thỏa thuận ngũ cốc giữa nước này với Ukraine. Thỏa thuận này đạt được hồi tháng 7 năm nay với sự trung gian của Liên Hợp Quốc và Thổ Nhĩ Kỳ nhằm giải phóng xuất khẩu nông sản qua Biển Đen từ Nga và Ukraine, vốn bị ngưng trệ do cuộc xung đột giữa 2 bên. Vì sao Nga dừng thực thi thỏa thuận ngũ cốc và điều này sẽ dẫn tới những hệ lụy như thế nào?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/10/31/vovlive_vandequocte_thoathuangucocgiuangavaukrainelieucochetyeu.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 01 Nov 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
