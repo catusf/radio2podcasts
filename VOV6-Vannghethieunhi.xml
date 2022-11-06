@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 03 Nov 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 06 Nov 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 03 Nov 2022 19:00:00 +0700</pubDate>
+    <pubDate>Sun, 06 Nov 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Văn nghệ thiếu nhi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Vannghethieunhi.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Trải nghiệm hoạt động nghệ thuật trang trí bề mặt 3/11/2022</title>
+      <title>Nhạc sỹ Nguyễn Vĩnh Tiến với hồi ức tuổi thơ 6/11/2022</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/nhac-sy-nguyen-vinh-tien-voi-hoi-uc-tuoi-tho-c44-34836.aspx</link>
+      <description><![CDATA[Nhạc sĩ Nguyễn Vĩnh Tiến để lại nhiều ấn tượng với một số ca khúc thuộc dòng nhạc dân gian đương đại như “Bà tôi”, hay “Giọt sương bay lên”. Chú ấy cũng là một nhà thơ, một kiến trúc sư tài hoa. Với một người đa tài như vậy, tuổi thơ của chú ấy như thế nào? (Văn nghệ thiếu nhi 26/10/2022)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/nhac-sy-nguyen-vinh-tien-voi-hoi-uc-tuoi-tho-c44-34836.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2022_11/v2_2610_10h4518h15_van_nghe_thieu_nhi_611202213.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 06 Nov 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Trải nghiệm hoạt động nghệ thuật trang trí bề mặt  3/11/2022</title>
       <link>http://vov6.vov.vn/van-nghe-thieu-nhi/trai-nghiem-hoat-dong-nghe-thuat-trang-tri-be-mat-c44-34834.aspx</link>
       <description><![CDATA[Trong quá trình may, vẽ, xé, dán, bằng sự khéo léo của bàn tay và đôi mắt thẩm mỹ, nhiều đồ vật cũ đã có thêm một đời sống mới, lung linh sắc màu. Nếu biết ứng dụng linh hoạt thì chúng ta có thể làm cho căn nhà hoặc góc học tập của mình luôn mới mẻ và đầy sức sống… (Trang Văn học nghệ thuật tuổi mới lớn 25/10/2022)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/trai-nghiem-hoat-dong-nghe-thuat-trang-tri-be-mat-c44-34834.aspx</guid>
@@ -37,14 +45,6 @@
       <description><![CDATA[Vở nhạc kịch “Alice ở xứ sở thần tiên” được lấy cảm hứng từ cuốn truyện cùng tên của nhà văn người Anh Charles Lutwidge Dodgson đã chinh phục giới trẻ thủ đô bằng nghệ thuật trình diễn kết hợp giữa kịch hát và ánh sáng công nghệ, khiến các nhân vật trên sân khấu đa màu sắc, sinh động và kì ảo... (Trang Văn học nghệ thuật tuổi mới lớn 18/10/2022)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/sac-mau-moi-cua-nhac-kich-alice-o-xu-so-than-tien-c44-34833.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2022_11/v2_1810_10h4518h15_van_nghe_thieu_nhi_311202210.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 03 Nov 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Trải nghiệm "Lấy tự nhiên vẽ tự nhiên"  3/11/2022</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/trai-nghiem-lay-tu-nhien-ve-tu-nhien-c44-34832.aspx</link>
-      <description><![CDATA[Còn điều gì thú vị hơn khi dưới cái nắng hanh hao của những ngày thu như thế này, chúng mình được cầm cọ vẽ nên những mảng màu đậm nhạt từ sắc màu của đất. Để giúp các bạn tự tin trong quá trình lựa chọn nguyên liệu từ đất, thì bây giờ chúng mình cùng hòa vào không khí vui vẻ, rộn ràng tiếng chim trong buổi hoạt động trải nghiệm nghệ thuật “Lấy tự nhiên vẽ tự nhiên” do họa sĩ Vũ Thị Hiền hướng dẫn nhé! (Trang Văn học nghệ thuật tuổi mới lớn 11/10/2022)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/trai-nghiem-lay-tu-nhien-ve-tu-nhien-c44-34832.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2022_11/v2_1110_10h4518h15_van_nghe_thieu_nhi_1_311202210.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 03 Nov 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
