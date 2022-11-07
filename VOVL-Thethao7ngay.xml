@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 31 Oct 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 07 Nov 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 31 Oct 2022 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 07 Nov 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,17 @@
     </itunes:owner>
     <itunes:subtitle>Thể thao 7 ngày</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Thethao7ngay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Chương trình thể thao 7 ngày 5 tháng 11 năm 2022</title>
+      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
+      <description><![CDATA[- Bàn về Hợp đồng bản quyền truyền hình lớn nhất từ trước đến nay của V-leagua cũng như hai cột mốc lịch sử khác: Kế hoạch triển khai VA và điều chỉnh lịch thi đấu đồng bộ hóa với Châu Á. 
+- Góc nhìn của báo giới về đại hội VFF khóa 9. 
+- Hành trang cần thiết khi lên đường sang Quatar dịp WC 2022 qua cuộc trao đổi với phóng viên Chí Công ở Tạp chí bóng đá.
+- Các giải thể thao dành cho đối tượng công chức, viên chức vừa diễn ra đầy sôi động trong những ngày qua tại Hà Nội.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/11/07/vovlive_thethao7ngay_chuongtrinhthethao7ngay5112022.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 07 Nov 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Chương trình thể thao 7 ngày 29 tháng 10 năm 2022</title>
       <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
@@ -51,16 +62,6 @@ Kiến thức thể thao nói về 9 lợi ích tuyệt vời của việc luy�
       <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/10/28/vovlive_thethao7ngay_chuongtrinhthetheo7ngay15102022.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 28 Oct 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chương trình thể thao 7 ngày 8 tháng 10 năm 2022</title>
-      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
-      <description><![CDATA[- Giai đoạn lượt về giải vô địch quốc gia V-League 2022 đang chứng kiến những cuộc đua hết sức kịch tích ở hai đầu bảng xếp hạng. Với các đội bóng đang tranh tài ở giải đấu cao nhất bóng đá chuyên nghiệp, quãng đường phía trước vẫn còn dài đòi hỏi mỗi cầu thủ, mỗi câu lạc bộ phải nỗ lực đến cùng. 
-- Giới thiệu giải trượt băng nghệ thuật vừa diễn ra tại Hà Nội, giải vô địch quốc gia lần đầu tiên được tổ chức của môn thể thao mới mẻ tại Việt Nam.
-- Bài viết về Nguyễn Anh Minh, một golfer nghiệp dư làm mưa làm gió tại các giải chuyên nghiệp năm 2022.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/10/17/vovlive_thethao7ngay_chuongtrinhthethao7ngay8102022.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 17 Oct 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
