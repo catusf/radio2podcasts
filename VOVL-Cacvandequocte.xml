@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 05 Nov 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 08 Nov 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 05 Nov 2022 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 08 Nov 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>COP27 sẽ đẩy nhanh việc thực hiện các cam kết từ COP26?</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Hội nghị cấp cao lần thứ 27 các bên tham gia công ước khung của Liên hợp quốc về biến đổi khí hậu (COP27) đã chính thức khai mạc tại Sharm el-Sheikh, Ai Cập. Diễn ra từ ngày 6/11 - 18/11, Hội nghị COP27 có sự tham dự của khoảng 35.000 đại biểu, trong đó có 2.000 diễn giả quốc tế thảo luận khoảng 300 chủ đề khác nhau, nhằm đẩy nhanh việc hiện thực hóa các cam kết nhằm giảm phát thải gây hiệu ứng nhà kính. COP27 diễn ra trong bối cảnh biến đổi khí hậu đã và đang gây ra nhiều hiện tượng thời tiết cực đoan, cuộc xung đột quân sự Nga - Ukraine tiếp tục diễn biến phức tạp, khiến giá dầu tăng tới 60%, giá khí đốt tăng tới gần 400% ở Châu Âu. Dường như, trước những lộ trình và mục tiêu đã được xác định sẵn, COP27 được cho là sẽ đối diện với nhiều thách thức.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/11/07/vovlive_vandequocte_cop27sedaynhanhviecthuchiencaccamkettucop26.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 08 Nov 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Mỹ tiếp tục tăng lãi suất tác động gì đến bức tranh kinh tế thế giới?</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/11/02/vovlive_vandequocte_baucuquochoiisrael.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 03 Nov 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Ông Lula da Silva trở lại ghế Tổng thống Brazil sau hơn 01 thập niên</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Theo kết quả kiểm phiếu chính thức trong cuộc đua vào ghế Tổng thống Brazil, cựu Tổng thống nước này, ông Lula da Silva đã giành được 50,8% phiếu bầu, vượt qua Tổng thống đương nhiệm Bolsonaro với số phiếu tương ứng là 49,2%. Với kết quả này, ông Lula da Silva sẽ nhậm chức vào ngày 01/01 năm tới. Ông Lula da Silva là gương mặt quen thuộc trên chính trường Brazil khi ông đã nắm giữ cương vị Tổng thống trong hai nhiệm kỳ từ năm 2003 - 2010, giai đoạn mà ông được người dân tín nhiệm bởi những thành tựu kinh tế ấn tượng. Nhưng lần trở lại này sau hơn 10 năm, ông Lula da Silva phải đối diện với tình hình rất khác, khi Brazil vừa trải qua 4 năm đầy biến động dưới thời của chính quyền cánh hữu cũng như tác động tiêu cực về kinh tế - xã hội do dịch Covid-19 gây ra.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/11/01/vovlive_vandequocte_ongluladasilvatrolaighetongthongbraxinsauhonmotthapnien.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 02 Nov 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
