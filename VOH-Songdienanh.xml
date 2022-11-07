@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 31 Oct 2022 03:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 07 Nov 2022 03:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 31 Oct 2022 03:00:00 +0700</pubDate>
+    <pubDate>Mon, 07 Nov 2022 03:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sóng điện ảnh trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Songdienanh.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Những bộ phim thần tượng kinh điển của Đài Loan (Kỳ 3) - Khung hình thứ 25 6/11/2022</title>
+      <link>https://radio.voh.com.vn/khung-hinh-thu-25/nhung-bo-phim-than-tuong-kinh-dien-cua-dai-loan-ky-3-khung-hinh-thu-25-6-11-2022-455397.html</link>
+      <description><![CDATA[20:00 - 06/11/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/khung-hinh-thu-25/nhung-bo-phim-than-tuong-kinh-dien-cua-dai-loan-ky-3-khung-hinh-thu-25-6-11-2022-455397.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/11/07/FMKhunghinhthuhaimuoilam20h00p061122-20221106080759.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 07 Nov 2022 03:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Những bộ phim thần tượng kinh điển của Đài Loan (Kỳ 2) - Khung hình thứ 25 30/10/2022</title>
       <link>https://radio.voh.com.vn/khung-hinh-thu-25/nhung-bo-phim-than-tuong-kinh-dien-cua-dai-loan-ky-2-khung-hinh-thu-25-30-10-2022-454463.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/khung-hinh-thu-25/hau-truong-phim-muoi-loi-nguyen-tro-lai-ky-cuoi-khung-hinh-thu-25-9-10-2022-451455.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/10/10/FMKhunghinhthuhaimuoilam20h00p091022-20221009080747.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 10 Oct 2022 03:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Hậu trường phim Mười: Lời nguyền trở lại (Kỳ 1) - Khung hình thứ 25 2/10/2022</title>
-      <link>https://radio.voh.com.vn/khung-hinh-thu-25/hau-truong-phim-muoi-loi-nguyen-tro-lai-ky-1-khung-hinh-thu-25-2-10-2022-450424.html</link>
-      <description><![CDATA[20:00 - 02/10/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/khung-hinh-thu-25/hau-truong-phim-muoi-loi-nguyen-tro-lai-ky-1-khung-hinh-thu-25-2-10-2022-450424.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/10/03/khunghinh-021022.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 03 Oct 2022 03:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
