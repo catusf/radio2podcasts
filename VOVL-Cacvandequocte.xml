@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 08 Nov 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 10 Nov 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 08 Nov 2022 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 10 Nov 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,22 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Bầu cử giữa kỳ - Định hình chính trường Mỹ 2 năm tới</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Đến thời điểm này, các đơn vị bỏ phiếu trong cuộc bầu cử giữa kỳ ở Mỹ đã gần như hoàn tất quá trình bầu cử. Dù không phải cuộc bầu cử để tìm ra người lãnh đạo đất nước song cuộc bầu cử giữa kỳ ở Mỹ có ý nghĩa quan trọng khi quyết định đảng Dân chủ hay Cộng hòa sẽ nắm giữ thế đa số trong quốc hội, từ đó ảnh hưởng đến chính trường Mỹ trong 2 năm tiếp theo. Trong lịch sử chính trường Mỹ, Đảng của đương kim tổng thống thường sẽ gặp bất lợi và mất ghế tại lưỡng viện Quốc hội trong các cuộc bầu cử giữa kỳ. Đối với Tổng thống Joe Biden, lá phiếu của cử tri trong cuộc bầu cử này cũng được xem như một “bài sát hạch” đối với 2 năm cầm quyền vừa qua của ông.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/11/09/vovlive_nhatkydothi_baucugiuakydinhhinhchinhtruongmy2namtoi.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 10 Nov 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Kinh tế: Điểm kết nối Nga - Ấn</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Ngày 8/11, Ngoại trưởng Ấn Độ Jaishankar có cuộc gặp với Ngoại trưởng Nga Sergei Lavrov tại Moskva, trọng tâm là tăng cường hợp tác kinh tế giữa hai bên. Đây là cuộc gặp lần thứ 4 giữa hai Ngoại trưởng kể từ tháng 2, thời điểm Nga bắt đầu triển khai chiến dịch quân sự đặc biệt tại Ukraine, cho thấy mối quan hệ song phương được hai bên chú trọng như thế nào trong bối cảnh hiện nay. Ấn Độ vẫn nằm trong nhóm nước thể hiện quan điểm trung lập với cuộc khủng hoảng Ukraine, đồng thời vẫn duy trì quan hệ hợp tác kinh tế chặt chẽ với Nga. Mới đây, Nga còn vượt qua hai đối thủ nặng ký của nhóm OPEC là Iraq và Saudi Arabia để trở thành nhà cung cấp dầu thô lớn nhất cho Ấn Độ.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/11/09/vovlive_vandequocte_kinhtediemketnoingaan.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 09 Nov 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>COP27 sẽ đẩy nhanh việc thực hiện các cam kết từ COP26?</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -38,22 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/11/04/vovlive_vandequocte_mytieptuctanglaisuattacdonggidenbuctranhkinhtethegioi.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 05 Nov 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đức mở rộng hợp tác với khu vực Đông Bắc Á, một mũi tên nhiều mục đích</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Lãnh đạo cấp cao của Đức liên tiếp có các chuyến thăm tới khu vực Đông Bắc Á. Trong khi Tổng thống Đức Frank-Walter Steinmeier đang có chuyến thăm Nhật Bản và Hàn Quốc thì Thủ tướng Đức Olaf Scholz bắt đầu có chuyến công du Trung Quốc. Ngoài các nội dung về tăng cường hợp tác song phương, dự kiến các cuộc thảo luận giữa lãnh đạo Đức và các nước Đông Bắc Á sẽ tập trung vào sự hợp tác hướng tới việc hiện thực hóa khu vực Ấn Độ Dương - Thái Bình Dương tự do và rộng mở. Chính phủ Đức tính toán điều gì khi đẩy mạnh hợp tác với các nước trong khu vực này trong bối cảnh hiện nay?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/11/03/vovlive_vandequocte_ducmoronghoptacvoikhuvucdongnama.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 04 Nov 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Bầu cử Quốc hội Israel: Liệu có phá vỡ thế bế tắc chính trị?</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Ngày 01/11, cử tri tại Israel đã đi bỏ phiếu bầu cử Quốc hội với hy vọng phá vỡ thế bế tắc chính trị trong nhiều năm qua. Đây là cuộc bầu cử lần thứ 5 của Quốc hội Israel trong vòng chưa đầy 4 năm. Đáng chú ý, cuộc bầu cử không chỉ nhằm tìm ra 120 đại biểu đại diện cho người dân Israel để quyết định những vấn đề hệ trọng của đất nước, mà còn quyết định ai sẽ là Thủ tướng điều hành chính phủ trong nhiệm kỳ 4 năm sắp tới. Tuy nhiên, nhiều dấu hiệu cho thấy tình trạng bế tắc chính trị sẽ chưa sớm được khai thông sau cuộc bầu cử lần này.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/11/02/vovlive_vandequocte_baucuquochoiisrael.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 03 Nov 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
