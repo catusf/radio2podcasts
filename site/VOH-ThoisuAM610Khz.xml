@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 08 Nov 2022 23:19:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 10 Nov 2022 11:45:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 08 Nov 2022 23:19:00 +0700</pubDate>
+    <pubDate>Thu, 10 Nov 2022 11:45:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Tăng hỗ trợ pháp lý doanh nghiệp vừa và nhỏ sau COVID-19 - Thời sự 11g00 9/11/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tang-ho-tro-phap-ly-doanh-nghiep-vua-va-nho-sau-covid-19-thoi-su-11g00-9-11-2022-455804.html</link>
+      <description><![CDATA[04:45 - 10/11/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tang-ho-tro-phap-ly-doanh-nghiep-vua-va-nho-sau-covid-19-thoi-su-11g00-9-11-2022-455804.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/11/10/AMThoisu11h00p09112022-20221109104213.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 10 Nov 2022 11:45:00 +0700</pubDate>
+    </item>
     <item>
       <title>TPHCM số hoá 100% dữ liệu ngành giáo dục - Thời sự 5g30 8/11/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-so-hoa-100-du-lieu-nganh-giao-duc-thoi-su-5g30-8-11-2022-455609.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/ngay-lam-viec-thu-15-cua-ky-hop-thu-4-quoc-hoi-khoa-15-thoi-su-17g00-7-11-2022-455605.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/11/08/AMThoisu17h00p071122-20221107164437.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 08 Nov 2022 22:47:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đổi mới nội dung, phương thức bảo vệ nền tảng tư tưởng của Đảng - Thời sự 17g00 27/10/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/doi-moi-noi-dung-phuong-thuc-bao-ve-nen-tang-tu-tuong-cua-dang-thoi-su-17g00-27-10-2022-455473.html</link>
-      <description><![CDATA[16:05 - 07/11/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/doi-moi-noi-dung-phuong-thuc-bao-ve-nen-tang-tu-tuong-cua-dang-thoi-su-17g00-27-10-2022-455473.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/11/07/AMThoisu17h00p271022-20221027164357.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 07 Nov 2022 23:05:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
