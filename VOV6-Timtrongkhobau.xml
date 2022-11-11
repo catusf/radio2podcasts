@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 03 Nov 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 11 Nov 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 03 Nov 2022 19:00:00 +0700</pubDate>
+    <pubDate>Fri, 11 Nov 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Tìm trong kho báu</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Timtrongkhobau.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Nguyễn Thông: Người thầy phát huy học phong Nam bộ 3/11/2022</title>
+      <title>Nhà thơ Nguyễn Thông và tấm lòng với cố hương 11/11/2022</title>
+      <link>http://vov6.vov.vn/tim-trong-kho-bau/nha-tho-nguyen-thong-va-tam-long-voi-co-huong-c54-34852.aspx</link>
+      <description><![CDATA[Là nhà hoạt động chính trị, xã hội, nhà giáo dục, nhà thơ, nhà văn nổi tiếng, nhà sử học có ý thức trách nhiệm cao, Nguyễn Thông có những đóng góp rất tích cực cho đất nước ta giai đoạn nửa cuối thế kỷ 19. Cuộc đời của ông xác lập tư thế một nhà nho hành đạo trong thời đại mới, không chỉ theo đuổi lý tưởng khoa cử, trung quân ái quốc mà còn tích cực tham gia vào công cuộc kháng Pháp, đem nhiệt huyết và tài năng ra giúp nước, giúp đời. Và cũng như nhiều nhà nho cùng thời, qua các trước tác, nhà thơ Nguyễn Thông gửi gắm tâm sự cá nhân, đặc biệt là tấm lòng với cố hương:]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/nha-tho-nguyen-thong-va-tam-long-voi-co-huong-c54-34852.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2022_11/v2_101411_18h30_tim_trong_kho_bau_1111202214.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 11 Nov 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Nguyễn Thông: Người thầy phát huy học phong Nam bộ  3/11/2022</title>
       <link>http://vov6.vov.vn/tim-trong-kho-bau/nguyen-thong-nguoi-thay-phat-huy-hoc-phong-nam-bo-c54-34831.aspx</link>
       <description><![CDATA[Ở khía cạnh tri thức, nhà thơ, danh sĩ Nguyễn Thông được đánh giá là một người thầy đáng kính, một người làm quản lý giáo dục có nhiều đóng góp về giáo dục ở vùng đất phương Nam. Ông là người tiếp tục phát huy học phong Nam Bộ - một truyền thống học vấn khởi đầu từ nhà giáo Võ Trường Toản, chú trọng ở nghĩa lý, chứ không trọng từ chương, đề cao đạo lý, chú trọng thực thực tiễn và vị đời. Theo PGS.TS Lê Quang Trường, vì gia cảnh nghèo, đường khoa cử lận đận, bước đầu Nguyễn Thông nhận chức Huấn đạo ở huyện Phong Phú, tỉnh An Giang, bắt đầu con đường làm quan của mình từ chức học quan ở một huyện nhỏ. Trải qua một hành trình dài, bằng chính những trải nghiệm của mình, ông không chỉ mong muốn nối dài học phong trọng thực dụng và vị đời ở Nam Bộ mà còn mong muốn được lan toả trong cả nước nhằm chấn chỉnh hiện tượng tầm chương trích cú sáo rỗng thời bấy giờ:]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/nguyen-thong-nguoi-thay-phat-huy-hoc-phong-nam-bo-c54-34831.aspx</guid>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/nha-tho-nguyen-thong-nhin-o-goc-do-xa-hoi-hoc-c54-34818.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2022_10/v2_273110_18h30_tim_trong_kho_bau_281020228.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 28 Oct 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Thơ văn nhà nho hành đạo Nguyễn Thông  20/10/2022</title>
-      <link>http://vov6.vov.vn/tim-trong-kho-bau/tho-van-nha-nho-hanh-dao-nguyen-thong-c54-34803.aspx</link>
-      <description><![CDATA[Nhà thơ Nguyễn Thông (còn có tên khác là Nguyễn Thới Thông, tự Hy Phần, và nhiều biệt hiệu: Kỳ Xuyên, Độm Am, Đạm Trai) sinh năm 1827 tại phủ Tân An, tỉnh Gia Định, nay là xã Phú Ngãi Trị, huyện Châu Thành, tỉnh Long An. Cụ Nguyễn Thông đỗ cử nhân năm 1849, từng làm quan, giữ nhiều chức vụ như: Án sát Khánh Hòa, Bố Chánh Quảng Ngãi, Bố Chánh Bình Thuận. Cuộc đời làm quan của Nguyễn Thông trải qua nhiều sóng gió, truân chuyên bởi đức tính thẳng ngay, không dối trá nên nhiều kẻ xu nịnh, vu cáo, hãm hại. Cụ mất vào năm 1884, thọ 57 tuổi, được an táng tại phường Phú Hài, TP Phan Thiết, tỉnh Bình Thuận ngày nay. Về sự nghiệp nghiên cứu, cụ Nguyễn Thông để lại những bộ sử liệu quan trọng là “Khâm định Nhân sự kim giám”, “Khâm định Việt sử thông giám cương mục” và “Việt sử thông giám cương mục khảo lược”. Về sáng tác thơ văn, đến nay, giới nghiên cứu đã sưu tầm được 76 bài thơ, 25 bản văn, 6 bản sớ điều trần của cụ nằm trong các tập: “Độm Am thi văn tập”, “Kỳ Xuyên thi văn sao”, “Kỳ Xuyên công độc”, “Dưỡng chính lục”...]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/tho-van-nha-nho-hanh-dao-nguyen-thong-c54-34803.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/v2_202410_18h30_tim_trong_kho_bau_2110202215.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 20 Oct 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
