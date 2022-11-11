@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 03 Nov 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 11 Nov 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 03 Nov 2022 19:00:00 +0700</pubDate>
+    <pubDate>Fri, 11 Nov 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Điểm hẹn văn nghệ</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Diemhenvannghe.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>“Nậm Ngặt mây trắng" – Bản hùng ca bi tráng 3/11/2022</title>
+      <title>"Ngoan cường vượt định kiến" - Để nữ quyền không đáng sợ 11/11/2022</title>
+      <link>http://vov6.vov.vn/diem-hen-van-nghe/ngoan-cuong-vuot-dinh-kien-de-nu-quyen-khong-dang-so-c158-34850.aspx</link>
+      <description><![CDATA[Chimamanda Ngozi Adichie là nữ nhà văn nổi tiếng người Nigêria. Vào năm 2007, cô đã chiến thắng Giải Orange, giải văn học viết bằng tiếng Anh dành cho nữ với tác phẩm “Nửa mặt trời vàng”, trở thành nữ nhà văn trẻ nhất từng giành được giải thưởng này. Tác phẩm của Chimamanda Ngozi Adichie chưa được giới thiệu nhiều ở nước ta. Cuốn sách mới nhất của cô được chuyển ngữ sang tiếng Việt là cuốn “Ngoan cường vượt định kiến” do dịch giả Đỗ Ái Nhi dịch, NXB Thanh niên và BeBooks ấn hành. Cuốn sách mỏng này có gì thú vị? Chúng ta cùng bước vào thế giới của “Ngoan cường vượt định kiến” qua bài viết của BTV Nguyễn Hà.]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/ngoan-cuong-vuot-dinh-kien-de-nu-quyen-khong-dang-so-c158-34850.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2022_11/gts_ngoan_cuong_hc_111120228.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 11 Nov 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>“Nậm Ngặt mây trắng" – Bản hùng ca bi tráng  3/11/2022</title>
       <link>http://vov6.vov.vn/diem-hen-van-nghe/nam-ngat-may-trang-ban-hung-ca-bi-trang-c158-34835.aspx</link>
       <description><![CDATA[Chiến tranh được coi là một đề tài thuộc hàng kinh điển của văn học nước nhà. Chúng ta có hàng trăm tác phẩm của nhiều thế hệ nhà văn khác nhau. Nhưng cũng chính vì thế, viết về chiến tranh cũng là một thách thức với người cầm bút. Viết thế nào để không đi vào lối mòn, không sa vào minh họa hiện thực là trăn trở của nhiều người. Tiểu thuyết “Nậm Ngặt mây trắng” của tác giả Nguyễn Hùng Sơn, do NXB Văn học ấn hành, có thể coi là một tác phẩm thành công ở đề tài này khi vừa chinh phục được giới chuyên môn vừa ghi dấu ấn trong lòng độc giả. Để hiểu rõ hơn về tác phẩm, chúng ta cùng nghe một vài cảm nghĩ của BTV Nguyễn Hà qua bài “Nậm Ngặt mây trắng – Bản hùng ca bi tráng”.]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/nam-ngat-may-trang-ban-hung-ca-bi-trang-c158-34835.aspx</guid>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/noi-ve-dich-dau-tien-c158-34816.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2022_10/but_ky_noi_ve_dich_dau_tien_261020228.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 26 Oct 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>"Hồi ức thiếu nữ" - Đối diện với bóng đen quá khứ  21/10/2022</title>
-      <link>http://vov6.vov.vn/diem-hen-van-nghe/hoi-uc-thieu-nu-doi-dien-voi-bong-den-qua-khu-c158-34805.aspx</link>
-      <description><![CDATA[Nhà văn Annie Ernaux đã được giới thiệu ở nước ta qua hai tác phẩm: “Một chỗ trong đời” và “Hồi ức thiếu nữ”, đều do Nhã Nam và NXB Hội Nhà văn ấn hành. Nếu như “Một chỗ trong đời” là cuốn sách bản lề, đánh dấu bước chuyển từ văn chương sang tự truyện của An-ni Ê-nô thì “Hồi ức thiếu nữ” cũng là một tác phẩm được đông đảo công chúng đón nhận ngay từ khi ra mắt. Vào năm ngoái, tác phẩm đã có ấn bản tiếng Việt qua bản dịch của Bảo Chân. Đặc trưng của tiểu thuyết tự truyện được thể hiện như thế nào qua “Hồi ức thiếu nữ”? BTV chương trình có một vài cảm nhận.]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/hoi-uc-thieu-nu-doi-dien-voi-bong-den-qua-khu-c158-34805.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2022_10/gts_hoi_uc_thieu_nu_hc_2110202215.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 21 Oct 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
