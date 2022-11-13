@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 06 Nov 2022 22:43:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 14 Nov 2022 04:13:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 06 Nov 2022 22:43:00 +0700</pubDate>
+    <pubDate>Mon, 14 Nov 2022 04:13:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Cửa sổ văn học trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Cuasovanhoc.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Nhà thơ Phan Ngọc Thường Đoan trở lại cùng “Đất nước tôi màu xanh” - Cửa sổ văn học 13/11/2022</title>
+      <link>https://radio.voh.com.vn/cua-so-van-hoc/nha-tho-phan-ngoc-thuong-doan-tro-lai-cung-dat-nuoc-toi-mau-xanh-cua-so-van-hoc-13-11-2022-456238.html</link>
+      <description><![CDATA[21:13 - 13/11/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/nha-tho-phan-ngoc-thuong-doan-tro-lai-cung-dat-nuoc-toi-mau-xanh-cua-so-van-hoc-13-11-2022-456238.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/11/13/FMCuasovanhoc07h00p131122-20221111191415.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 14 Nov 2022 04:13:00 +0700</pubDate>
+    </item>
     <item>
       <title>Nhà văn Trần Tùng Chinh ra mắt "Ba trái tim của bé Bạch Tuộc" - Cửa sổ văn học 6/11/2022</title>
       <link>https://radio.voh.com.vn/cua-so-van-hoc/nha-van-tran-tung-chinh-ra-mat-ba-trai-tim-cua-be-bach-tuoc-cua-so-van-hoc-6-11-2022-455354.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/tro-chuyen-cung-tong-phuoc-bao-cua-so-van-hoc-30-10-2022-454315.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/10/30/FMCuasovanhoc07h00p301022-20221029182819.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 31 Oct 2022 03:46:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Giao lưu cùng dịch giả Nguyễn Hữu Dũng - Cửa sổ văn học 23/10/2022</title>
-      <link>https://radio.voh.com.vn/cua-so-van-hoc/giao-luu-cung-dich-gia-nguyen-huu-dung-cua-so-van-hoc-23-10-2022-453387.html</link>
-      <description><![CDATA[18:49 - 23/10/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/giao-luu-cung-dich-gia-nguyen-huu-dung-cua-so-van-hoc-23-10-2022-453387.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/10/23/FMCuasovanhoc07h00p231022-20221022185219.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 24 Oct 2022 01:49:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
