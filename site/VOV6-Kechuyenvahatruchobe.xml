@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 02 Nov 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 13 Nov 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 02 Nov 2022 19:00:00 +0700</pubDate>
+    <pubDate>Sun, 13 Nov 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Kể chuyện và hát ru cho bé</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Kechuyenvahatruchobe.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Vì sao cà phê nở hoa 2/11/2022</title>
+      <title>Những chữ cái anh em  13/11/2022</title>
+      <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/nhung-chu-cai-anh-em-c43-34857.aspx</link>
+      <description><![CDATA[Các chữ cái ghép với nhau thành nghĩa. Mỗi chúng ta khi ở bên nhau, hỗ trợ nhau cũng vậy. Ở truyện “Chữ A và chữ E”, nhà văn Nguyên Hương đã xây dựng hình ảnh hai anh em cùng các mối quan hệ ruột thịt trong gia đình đã gắn kết họ với nhau... (Kể chuyện và hát ru 07/11/2022)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/nhung-chu-cai-anh-em-c43-34857.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2022_11/v2_0711_21h45_ke_chuyen_va_hat_ru_1311202217.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 13 Nov 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Vì sao cà phê nở hoa  2/11/2022</title>
       <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/vi-sao-ca-phe-no-hoa-c43-34829.aspx</link>
       <description><![CDATA[Trong khu vườn cà phê nọ, bạn ong và bạn bướm tranh cãi nhau quyết liệt vì ai cũng cho rằng cà phê nở được hoa là nhờ mình. Vậy ai đúng, ai sai, sự thật là như thế nào? (Kể chuyện và hát ru 28/10/2022)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/vi-sao-ca-phe-no-hoa-c43-34829.aspx</guid>
@@ -37,14 +45,6 @@
       <description><![CDATA["Tội lão Cú” là một câu chuyện vui của dân tộc Thái. Lão cú làm sao mà lại tội nghiệp nhỉ? Bị bắt nạt, bị chê cười ư? Dù gì thì lão cú cũng sẽ thay đổi, sẽ trở nên tốt hơn đấy! (Kể chuyện và hát ru 26/10/2022)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/lao-cu-toi-nghiep-c43-34828.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2022_11/v2_2610_21h45_ke_chuyen_va_hat_ru_211202212.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 02 Nov 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Con mèo đi giày cao gót  2/11/2022</title>
-      <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/con-meo-di-giay-cao-got-c43-34827.aspx</link>
-      <description><![CDATA[Mèo Khoang đi theo cô chủ để học nghề làm bánh. Vì muốn điệu đà một chút và tạo niềm vui cho mọi người nên Mèo khoang đã đi đôi giày cao gót rất dễ thương. Nhưng đi giày cao gót thì làm thế nào để bắt chuột nhỉ? (Văn nghệ thiếu nhi 24/10/2022)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/con-meo-di-giay-cao-got-c43-34827.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2022_11/v2_2410_21h45_ke_chuyen_va_hat_ru_211202211.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 02 Nov 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
