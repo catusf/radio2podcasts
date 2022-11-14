@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 07 Nov 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 14 Nov 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 07 Nov 2022 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 14 Nov 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,16 @@
     </itunes:owner>
     <itunes:subtitle>Thể thao 7 ngày</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Thethao7ngay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Chương trình thể thao 7 ngày 12 tháng 11 năm 2022</title>
+      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
+      <description><![CDATA[- Chỉ còn 1 tuần nữa, ngày hội bóng đá lớn nhất hành tinh World Cup 2022 sẽ chính thức khai màn. Đến thời điểm này, nước chủ nhà Qatar đã sẵn sàng để tổ chức một kỳ World Cup đặc biệt trong lịch sử túc cầu.
+- Người hâm mộ toàn cầu sục sôi chờ World Cup 
+- Những lưu ý khi tới Qatar tham dự ngày hội bóng đá lớn nhất hành tinh.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/11/14/vovlive_thethao7ngay_chuongtrinhthethao7ngay12112022.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 14 Nov 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Chương trình thể thao 7 ngày 5 tháng 11 năm 2022</title>
       <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
@@ -51,16 +61,6 @@ Thể thao và cuộc sống giới thiệu về Belly Dance khiêu vũ thể th
 Kiến thức thể thao nói về 9 lợi ích tuyệt vời của việc luyện tập thể thao với sức khỏe não bộ...]]></description>
       <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/10/28/vovlive_thethao7ngay_chuongtrinhthetheo7ngay23102022.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 28 Oct 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chương trình thể thao 7 ngày 15 tháng 10 năm 2022</title>
-      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
-      <description><![CDATA[- Điểm nhấn thể thao chia sẻ những thông tin phân tích của chuyên gia, cựu cầu thủ, bình luận viên về sự thành công của Club Brugge đội bóng Bỉ thứ hai giành quyền vào vòng loại trực tiếp Champions League. Sóng ngầm cuồn cuộn trong phòng thay đồi của Paris Saint Germain. Liên đoàn bóng đá Việt Nam chuẩn bị đàm phán với huấn luyện viên Park Hang Seo ở lại hay ra đi. 
-- Kiến thức thể thao cung cấp thêm những thông tin thú vị liên quan đến giải Champions League. Những thay đổi của giải đấu này nhằm tăng tính cạnh tranh hấp dẫn cho các trận đấu và người hâm mộ. 
-- Câu chuyện về Lewis Hamilton tay đua người Anh đau đáu mong muốn đa dạng hóa chủng tộc cho làn đua xe Công thức 1, bắt đầu từ đội đua Mercedes...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/10/28/vovlive_thethao7ngay_chuongtrinhthetheo7ngay15102022.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 28 Oct 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
