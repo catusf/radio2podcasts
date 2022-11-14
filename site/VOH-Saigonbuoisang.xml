@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 14 Nov 2022 05:07:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 15 Nov 2022 01:45:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 14 Nov 2022 05:07:00 +0700</pubDate>
+    <pubDate>Tue, 15 Nov 2022 01:45:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Tạo điều kiện sở hữu nhà cho người thu nhập thấp (Kỳ 2) – Sài Gòn buổi sáng 9/11/2022</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/tao-dieu-kien-so-huu-nha-cho-nguoi-thu-nhap-thap-ky-2-sai-gon-buoi-sang-9-11-2022-456249.html</link>
-      <description><![CDATA[22:07 - 13/11/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/tao-dieu-kien-so-huu-nha-cho-nguoi-thu-nhap-thap-ky-2-sai-gon-buoi-sang-9-11-2022-456249.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/11/13/FMSGBS06h00p091122-20221109100434.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 14 Nov 2022 05:07:00 +0700</pubDate>
+      <title>Xây dựng phẩm chất và kỹ năng của nhà giáo trong kỷ nguyên số - Sài Gòn buổi sáng 14/11/2022</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/xay-dung-pham-chat-va-ky-nang-cua-nha-giao-trong-ky-nguyen-so-sai-gon-buoi-sang-14-11-2022-456374.html</link>
+      <description><![CDATA[18:45 - 14/11/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/xay-dung-pham-chat-va-ky-nang-cua-nha-giao-trong-ky-nguyen-so-sai-gon-buoi-sang-14-11-2022-456374.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/11/14/FMSGBS06h00p141122-20221114070334.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 15 Nov 2022 01:45:00 +0700</pubDate>
     </item>
     <item>
-      <title>Những điều cần biết về Adeno Virus ở trẻ em – Sài Gòn buổi sáng 7/11/2022</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/nhung-dieu-can-biet-ve-adeno-virus-o-tre-em-sai-gon-buoi-sang-7-11-2022-456247.html</link>
-      <description><![CDATA[21:59 - 13/11/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/nhung-dieu-can-biet-ve-adeno-virus-o-tre-em-sai-gon-buoi-sang-7-11-2022-456247.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/11/13/FMSGBS06h00p071122-20221107070250.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 14 Nov 2022 04:59:00 +0700</pubDate>
+      <title>Album Kỷ niệm 25 năm Làn Sóng Xanh, vừa tươi mới vừa hoài niệm-Sài Gòn buổi sáng 12/11/2022</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/album-ky-niem-25-nam-lan-song-xanh-vua-tuoi-moi-vua-hoai-niem-sai-gon-buoi-sang-12-11-2022-456363.html</link>
+      <description><![CDATA[17:14 - 14/11/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/album-ky-niem-25-nam-lan-song-xanh-vua-tuoi-moi-vua-hoai-niem-sai-gon-buoi-sang-12-11-2022-456363.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/11/14/SGBS-121122-Final-20221111221038.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 15 Nov 2022 00:14:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
