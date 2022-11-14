@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 10 Nov 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 12 Nov 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 10 Nov 2022 19:00:00 +0700</pubDate>
+    <pubDate>Sat, 12 Nov 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>ASEAN cùng hành động ứng phó các thách thức</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Ngày 11/11, 2 Hội nghị cấp cao ASEAN lần thứ 40, 41 chính thức khai mạc tại Phnôm Pênh, Campuchia. Cùng với đó là hàng loạt các hội nghị cấp cao liên quan với sự tham dự của nhiều nguyên thủ quốc gia, trong đó có Tổng thống Mỹ Joe Biden, Thủ tướng Chính phủ Phạm Minh Chính... Đây là loạt hội nghị quan trọng cuối cùng trong năm Chủ tịch ASEAN 2022 của Campuchia với sự tham dự của các nhà lãnh đạo cấp cao ASEAN và các đối tác đối thoại. Thủ tướng Chính phủ Phạm Minh Chính sẽ dẫn đầu đoàn đại biểu Việt Nam tham dự sự kiện này. Hội nghị cấp cao lần này đánh dấu sự nối lại đối thoại trực tiếp giữa các nhà lãnh đạo sau hơn 2 năm bị gián đoạn do đại dịch Covid-19. Với chủ đề "ASEAN cùng hành động ứng phó các thách thức", nhiều vấn đề trọng tâm sẽ được thảo luận như hợp tác phục hồi kinh tế khu vực, phối hợp tìm kiếm các giải pháp cho các điểm nóng của khu vực cho đến vấn đề nâng cấp quan hệ đối tác giữa ASEAN với các đối tác nước lớn như Trung Quốc, Hoa Kỳ, Ấn Độ...]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/11/11/vovlive_vandequocte_aseancunghanhdongungphocacthachthuc.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 12 Nov 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Bầu cử giữa kỳ - Định hình chính trường Mỹ 2 năm tới</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/11/07/vovlive_vandequocte_cop27sedaynhanhviecthuchiencaccamkettucop26.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 08 Nov 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Mỹ tiếp tục tăng lãi suất tác động gì đến bức tranh kinh tế thế giới?</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Đúng như dự đoán trước đó, Cục Dự trữ liên bang Mỹ (FED) vừa thông báo quyết định tăng lãi suất thêm 0,75 điểm phần trăm, nâng biên độ lãi suất cho vay cơ bản của FED lên khoảng 3,75 đến 4%. Đây là mức cao kỷ lục tính từ năm 2008. Kiểm soát lạm phát đã trở thành mục tiêu chính sách hàng đầu của Mỹ trong giai đoạn hiện nay và lộ trình của FED cho thấy tốc độ tăng lãi suất sẽ không sớm dừng lại. Vậy mức độ tăng sẽ đến đâu và tác động của việc tăng lãi suất này đến nền kinh tế toàn cầu ra sao?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/11/04/vovlive_vandequocte_mytieptuctanglaisuattacdonggidenbuctranhkinhtethegioi.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 05 Nov 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
