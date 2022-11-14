@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 24 Oct 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 14 Nov 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 24 Oct 2022 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 14 Nov 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,22 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Cơ hội nào cho Trung Quốc trên thị trường máy bay thương mại?</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Tại Triển lãm Hàng không Trung Quốc lần thứ 14 đang diễn ra tại thành phố Chu Hải, tỉnh Quảng Đông, Công ty sản xuất máy bay COMAC đã “trình làng” dòng máy bay chở khách cỡ lớn đầu tiên do Trung Quốc tự phát triển C919. Với C919, Trung Quốc chính thức ghi tên mình vào danh sách ít ỏi những quốc gia có thể tự thiết kế và sản xuất máy bay trên thế giới, bởi thế Chủ tịch Trung Quốc Tập Cận Bình đã nói, C919 mang theo ý chí, giấc mơ của dân tộc, mang theo kỳ vọng của người dân Trung Quốc. Là “người đến sau” trong thị trường máy bay thương mại với những “người khổng lồ” như Airbus, Boeing, C919 có cơ hội thành công như thế nào?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/11/14/vovlive_sukienvabanluan_c-919.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 14 Nov 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Bồi thường thiệt hại do biến đổi khí hậu: Tâm điểm tranh cãi tại COP27</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Lần đầu tiên, các đại biểu tham dự Hội nghị lần thứ 27 các bên tham gia Công ước khung của Liên hợp quốc về biến đổi khí hậu (COP27) tại Ai Cập đã nhất trí đưa vào chương trình thảo luận chính thức về việc các nước giàu với mức phát thải cao có nên bồi thường cho các quốc gia nghèo hơn dễ bị ảnh hưởng nặng nề nhất của tình trạng biến đổi khí hậu hay không. Đây hiện là vấn đề gây tranh cãi nhất, hâm nóng các cuộc thảo luận trong kỳ họp năm nay. Cụ thể ý tưởng này là gì, liệu có thể đưa ra những giải pháp ngay trong đợt hội nghị lần này?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/11/14/vovlive_sukienvabanluan_-cop-27.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 14 Nov 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Đằng sau hiện tượng vàng “dịch chuyển” từ phương Tây sang các nước châu Á</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -38,22 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/10/21/vovlive_sukienvabanluan__kinh_nghiem_thu_phi_tac_nghen_phi_vao_noi_do_cua_cac_nuoc.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 21 Oct 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Những vấn đề đặt ra trong thực hiện Nghị quyết 23 của Bộ Chính trị tại vùng Tây Nguyên</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Ngày 6/10 vừa qua, Bộ Chính trị khoá 8 đã chính thức ban hành Nghị quyết số 23 về phương hướng phát triển kinh tế - xã hội, bảo đảm quốc phòng, an ninh ở Vùng Tây Nguyên đến năm 2030, tầm nhìn đến năm 2045. Nghị quyết đề ra mục tiêu đến năm 2030 tầm nhìn đến năm 2045, Tây Nguyên trở thành vùng phát triển bền vững, có nền kinh tế xanh, tuần hoàn, một số tỉnh trong vùng thuộc nhóm phát triển khá của cả nước.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/10/20/vovlive_sukienvabanluan_nhung_van_de_dat_ra_trong_thuc_hien_nghi_quyet_23.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 20 Oct 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>World Cup 2022 – cú huých “hồi sinh” du lịch khu vực Trung Đông?</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Mặc dù còn khoảng 1 tháng nữa mới diễn ra World Cup 2022 song những người yêu thích thể thao đã đổ dồn sự chú ý tới Qatar - quốc gia chủ nhà tổ chức sự kiện này. Đây là lần đầu tiên một quốc gia Trung Đông tổ chức World Cup và Qatar cũng là quốc gia chủ nhà có diện tích nhỏ nhất. Vì thế, giải đấu bóng đá hấp dẫn nhất hành tinh này còn là cơ hội cho các quốc gia trong khu vực thu hút lượng du khách khổng lồ từ khắp nơi trên thế giới đổ về cũng như quảng bá hình ảnh du lịch khu vực Trung Đông... Đây có thực sự là “cú huých” hồi sinh ngành du lịch cho khu vực Trung Đông sau thời gian ảm đảm vì Covid-19?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/10/17/vovlive_sukienvabinhluan_world-cup-2022-.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 17 Oct 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
