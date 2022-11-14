@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 12 Nov 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 15 Nov 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 12 Nov 2022 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 15 Nov 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Cuộc gặp thượng đỉnh Mỹ - Trung: Cơ hội để tháo gỡ bất đồng</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Ngày 14/11, tại Bali, Indonesia, trước thềm Hội nghị thượng đỉnh Nhóm các nền kinh tế phát triển và mới nổi hàng đầu thế giới (G20), sẽ diễn ra cuộc gặp giữa Tổng thống Mỹ Joe Biden và Chủ tịch Trung Quốc Tập Cận Bình. Đây sẽ là cuộc gặp trực tiếp đầu tiên giữa hai nhà lãnh đạo kể từ khi ông Biden trở thành Tổng thống Mỹ. Dự kiến, hai nhà lãnh đạo sẽ thảo luận về những nỗ lực duy trì và làm sâu sắc hơn nữa "các đường dây liên lạc”, cũng như “cách thức quản lý cạnh tranh” và “hợp tác với nhau khi lợi ích song trùng, đặc biệt là liên quan đến những thách thức xuyên quốc gia”. Trước đó, phát biểu với báo giới, Tổng thống Mỹ Joe Biden nói rằng ông hy vọng sẽ tìm thấy một cơ hội thỏa hiệp với Chủ tịch Trung Quốc Tập Cận Bình để góp phần hạ nhiệt một số căng thẳng khu vực. Liệu cuộc gặp có tạo được cơ hội để tháo gỡ bất đồng?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/11/14/vovlive_vandequocte_cuocgapthuongdinhmytrung.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 15 Nov 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>ASEAN cùng hành động ứng phó các thách thức</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/11/09/vovlive_vandequocte_kinhtediemketnoingaan.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 09 Nov 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>COP27 sẽ đẩy nhanh việc thực hiện các cam kết từ COP26?</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Hội nghị cấp cao lần thứ 27 các bên tham gia công ước khung của Liên hợp quốc về biến đổi khí hậu (COP27) đã chính thức khai mạc tại Sharm el-Sheikh, Ai Cập. Diễn ra từ ngày 6/11 - 18/11, Hội nghị COP27 có sự tham dự của khoảng 35.000 đại biểu, trong đó có 2.000 diễn giả quốc tế thảo luận khoảng 300 chủ đề khác nhau, nhằm đẩy nhanh việc hiện thực hóa các cam kết nhằm giảm phát thải gây hiệu ứng nhà kính. COP27 diễn ra trong bối cảnh biến đổi khí hậu đã và đang gây ra nhiều hiện tượng thời tiết cực đoan, cuộc xung đột quân sự Nga - Ukraine tiếp tục diễn biến phức tạp, khiến giá dầu tăng tới 60%, giá khí đốt tăng tới gần 400% ở Châu Âu. Dường như, trước những lộ trình và mục tiêu đã được xác định sẵn, COP27 được cho là sẽ đối diện với nhiều thách thức.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/11/07/vovlive_vandequocte_cop27sedaynhanhviecthuchiencaccamkettucop26.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 08 Nov 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
