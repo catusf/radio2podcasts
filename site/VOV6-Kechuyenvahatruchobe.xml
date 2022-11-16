@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 13 Nov 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jan 2000 07:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 13 Nov 2022 19:00:00 +0700</pubDate>
+    <pubDate>Sat, 01 Jan 2000 07:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,29 +23,5 @@
     </itunes:owner>
     <itunes:subtitle>Kể chuyện và hát ru cho bé</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Kechuyenvahatruchobe.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Khi gà con ra đời 13/11/2022</title>
-      <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/khi-ga-con-ra-doi-c43-34859.aspx</link>
-      <description><![CDATA[Thông thường thì những quả trứng gà nho nhỏ sẽ được gà mẹ ấp ủ, sau một khoảng thời gian nhất định sẽ nở thành các chú gà con bé xíu chạy xung quanh sân. Nhưng nếu những quả trứng ấy mà được các con vật khác ấp ủ thì nó có nở ra gà không, hay sẽ thành ra một con vật khác? (Kể chuyện và hát ru 11/11/2022)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/khi-ga-con-ra-doi-c43-34859.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2022_11/v2_1111_21h45_ke_chuyen_va_hat_ru_1311202221.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 13 Nov 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Vua củ cải   13/11/2022</title>
-      <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/vua-cu-cai-c43-34858.aspx</link>
-      <description><![CDATA[Mọi người trong vùng gọi người nông dân ấy là “Vua củ cải”. Nhiều lúc anh cũng rất hãnh diện vì chưa một ai có thể tạo ra cây củ cải đặc biệt như thế. Nhưng cũng không ít lần người nông dân ấy đã dở khóc, dở cười vì cái sự "siêu to siêu khổng lồ" của nó... (Kể chuyện và hát ru 09/11/2022)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/vua-cu-cai-c43-34858.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2022_11/v2_0911_21h45_ke_chuyen_va_hat_ru_1311202221.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 13 Nov 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Những chữ cái anh em   13/11/2022</title>
-      <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/nhung-chu-cai-anh-em-c43-34857.aspx</link>
-      <description><![CDATA[Các chữ cái ghép với nhau thành nghĩa. Mỗi chúng ta khi ở bên nhau, hỗ trợ nhau cũng vậy. Ở truyện “Chữ A và chữ E”, nhà văn Nguyên Hương đã xây dựng hình ảnh hai anh em cùng các mối quan hệ ruột thịt trong gia đình đã gắn kết họ với nhau... (Kể chuyện và hát ru 07/11/2022)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/nhung-chu-cai-anh-em-c43-34857.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2022_11/v2_0711_21h45_ke_chuyen_va_hat_ru_1311202217.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 13 Nov 2022 19:00:00 +0700</pubDate>
-    </item>
   </channel>
 </rss>
