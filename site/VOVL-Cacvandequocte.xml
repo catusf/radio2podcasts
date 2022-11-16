@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 15 Nov 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 16 Nov 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 15 Nov 2022 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 16 Nov 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Những thách thức tại Hội nghị thượng đỉnh G20 diễn ra tại Indonesia</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Ngày 15/11, Hội nghị thượng đỉnh Nhóm các nền kinh tế phát triển và mới nổi hàng đầu thế giới (G20) diễn ra tại Indonesia. Được đánh giá là một trong những sự kiện quan trọng nhất của năm, Hội nghị diễn ra trong hai ngày và sẽ tập trung thảo luận các vấn đề ưu tiên là an ninh lương thực và năng lượng, cấu trúc y tế toàn cầu và chuyển đổi kỹ thuật số. Có thể thấy, những vấn đề mà nước Chủ tịch G20 Indonesia đưa vào chương trình nghị sự đều cấp thiết và gai góc, trong bối cảnh tình hình địa chính trị thế giới đang có nhiều biến động. Vì vậy, dư luận thế giới đang rất chờ đợi Indonesia sẽ phát huy vai trò của nước Chủ tịch G20 trong năm nay như thế nào để có thể dung hòa quan điểm, lợi ích rất khác biệt của các quốc gia trong G20, để Hội nghị thượng đỉnh lần này có thể đạt được những kết quả thiết thực.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/11/16/vovlive_vandequocte_hoinghithuongdinhg20.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 16 Nov 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Cuộc gặp thượng đỉnh Mỹ - Trung: Cơ hội để tháo gỡ bất đồng</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/11/09/vovlive_nhatkydothi_baucugiuakydinhhinhchinhtruongmy2namtoi.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 10 Nov 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Kinh tế: Điểm kết nối Nga - Ấn</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Ngày 8/11, Ngoại trưởng Ấn Độ Jaishankar có cuộc gặp với Ngoại trưởng Nga Sergei Lavrov tại Moskva, trọng tâm là tăng cường hợp tác kinh tế giữa hai bên. Đây là cuộc gặp lần thứ 4 giữa hai Ngoại trưởng kể từ tháng 2, thời điểm Nga bắt đầu triển khai chiến dịch quân sự đặc biệt tại Ukraine, cho thấy mối quan hệ song phương được hai bên chú trọng như thế nào trong bối cảnh hiện nay. Ấn Độ vẫn nằm trong nhóm nước thể hiện quan điểm trung lập với cuộc khủng hoảng Ukraine, đồng thời vẫn duy trì quan hệ hợp tác kinh tế chặt chẽ với Nga. Mới đây, Nga còn vượt qua hai đối thủ nặng ký của nhóm OPEC là Iraq và Saudi Arabia để trở thành nhà cung cấp dầu thô lớn nhất cho Ấn Độ.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/11/09/vovlive_vandequocte_kinhtediemketnoingaan.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 09 Nov 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
