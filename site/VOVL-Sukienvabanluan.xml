@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 14 Nov 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 17 Nov 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 14 Nov 2022 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 17 Nov 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Sắp vượt Trung Quốc về dân số - Cơ hội và thách thức cho Ấn Độ</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Dân số thế giới đã chính thức “cán mốc” 8 tỷ người, các quốc gia châu Á và châu Phi đóng góp nhiều nhất vào sự tăng trưởng này. Đáng chú ý, Ấn Độ được dự báo sẽ vượt Trung Quốc để trở thành quốc gia đông dân nhất thế giới trong vòng vài tháng tới khi vẫn đang duy trì tỷ lệ sinh ở mức cao. Quy mô dân số lớn nhất thế giới được cho sẽ là cơ hội thúc đẩy kinh tế của Ấn Độ, hướng tới những mục tiêu cao hơn sau khi vượt qua Anh để trở thành nền kinh tế lớn thứ 5 thế giới. Dù vậy, dân số lớn cũng đặt ra cho Ấn Độ không ít thách thức về phát triển kinh tế - xã hội như cơ sở hạ tầng, giáo dục, bình đẳng giới…]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/11/17/vovlive_sukienvabanluan_sap_vuot_trung_quoc_ve_dan_so.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 17 Nov 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Cơ hội nào cho Trung Quốc trên thị trường máy bay thương mại?</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/10/24/vovlive_sukienvabanluan_dang_sau_hien_tuong_vang_dich_chuyen.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 24 Oct 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Kinh nghiệm thu phí tắc nghẽn, phí vào nội đô của các nước</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Nhằm hạn chế lượng xe cộ vào trung tâm thành phố, giảm ùn tắc và ô nhiễm không khí, nhiều đô thị lớn trên thế giới từ lâu đã áp dụng mô hình thu phí tắc nghẽn hay là phí vào nội đô. Nhìn lại nhiều năm qua, Singapore, Anh hay Hàn Quốc đã từng bước triển khai các phương án thu phí khác nhau, kết hợp đẩy mạnh phát triển mạng lưới giao thông công cộng cùng nhiều giải pháp khả thi khác. Kết quả ghi nhận là tích cực, được dư luận đánh giá tốt.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/10/21/vovlive_sukienvabanluan__kinh_nghiem_thu_phi_tac_nghen_phi_vao_noi_do_cua_cac_nuoc.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 21 Oct 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
