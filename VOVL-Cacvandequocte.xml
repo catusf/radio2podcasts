@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 16 Nov 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 18 Nov 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 16 Nov 2022 19:00:00 +0700</pubDate>
+    <pubDate>Fri, 18 Nov 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Cựu Tổng thống Donald Trump tuyên bố tái tranh cử Tổng thống Mỹ năm 2024: Mở màn cuộc đua gay cấn?</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Dù còn hai năm nữa mới tới cuộc bầu cử Tổng thống Mỹ, tuy nhiên, viễn cảnh về cuộc đua gay cấn đã được hình dung ngay từ lúc này, khi cựu tổng thống Donald Trump chính thức tuyên bố tái tranh cử tổng thống năm 2024, sau khi nộp hồ sơ cho Ủy ban Bầu cử Liên bang. Ông Donald Trump là một tỷ phú, doanh nhân nổi tiếng, là thành viên Đảng Cộng hòa và từng giữ cương vị Tổng thống thứ 45 của nước Mỹ trong một nhiệm kỳ kéo dài từ tháng 1/2017 đến tháng 1/2021. Trong nhiệm kỳ tổng thống của mình, ông Donald Trump nổi tiếng với khẩu hiệu tranh cử “Đưa nước Mỹ vĩ đại trở lại” và theo đuổi quan điểm chính sách “Nước Mỹ trên hết”. Sự trở lại chính trường của cựu Tổng thống Donald Trump được cho sẽ khiến các cuộc đua bầu cử Mỹ thời gian tới thêm gay cấn.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/11/17/vovlive_vandequocte_cuutongthongdonaldtrumptuyenbotaitranhcutongthongmynam2024.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 18 Nov 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Những thách thức tại Hội nghị thượng đỉnh G20 diễn ra tại Indonesia</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/11/11/vovlive_vandequocte_aseancunghanhdongungphocacthachthuc.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 12 Nov 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Bầu cử giữa kỳ - Định hình chính trường Mỹ 2 năm tới</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Đến thời điểm này, các đơn vị bỏ phiếu trong cuộc bầu cử giữa kỳ ở Mỹ đã gần như hoàn tất quá trình bầu cử. Dù không phải cuộc bầu cử để tìm ra người lãnh đạo đất nước song cuộc bầu cử giữa kỳ ở Mỹ có ý nghĩa quan trọng khi quyết định đảng Dân chủ hay Cộng hòa sẽ nắm giữ thế đa số trong quốc hội, từ đó ảnh hưởng đến chính trường Mỹ trong 2 năm tiếp theo. Trong lịch sử chính trường Mỹ, Đảng của đương kim tổng thống thường sẽ gặp bất lợi và mất ghế tại lưỡng viện Quốc hội trong các cuộc bầu cử giữa kỳ. Đối với Tổng thống Joe Biden, lá phiếu của cử tri trong cuộc bầu cử này cũng được xem như một “bài sát hạch” đối với 2 năm cầm quyền vừa qua của ông.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/11/09/vovlive_nhatkydothi_baucugiuakydinhhinhchinhtruongmy2namtoi.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 10 Nov 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
