@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 18 Nov 2022 02:54:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 18 Nov 2022 21:31:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 18 Nov 2022 02:54:00 +0700</pubDate>
+    <pubDate>Fri, 18 Nov 2022 21:31:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Thúc đẩy quan hệ Đối tác Chiến lược tăng cường Việt Nam-Thái Lan – Thời sự 5g30 18/11/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/thuc-day-quan-he-doi-tac-chien-luoc-tang-cuong-viet-nam-thai-lan-thoi-su-5g30-18-11-2022-456852.html</link>
+      <description><![CDATA[14:31 - 18/11/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/thuc-day-quan-he-doi-tac-chien-luoc-tang-cuong-viet-nam-thai-lan-thoi-su-5g30-18-11-2022-456852.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/11/18/amthoisu05h30p18112022-20221117235343.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 18 Nov 2022 21:31:00 +0700</pubDate>
+    </item>
     <item>
       <title>Bế mạc Kỳ họp thứ 4, Quốc hội khóa XV – Thời sự 17h00 15/11/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/be-mac-ky-hop-thu-4-quoc-hoi-khoa-xv-thoi-su-17h00-15-11-2022-456770.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/day-nhanh-tien-do-cac-cong-trinh-du-an-quan-trong-quoc-gia-thoi-su-05g30-17-11-2022-456768.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/11/17/amthoisu05h30p17112022-20221116235130.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 18 Nov 2022 02:46:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Việt Nam đạt thỏa thuận xuất khẩu chanh và bưởi sang New Zealand - Thời sự 05g30 16/11/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/viet-nam-dat-thoa-thuan-xuat-khau-chanh-va-buoi-sang-new-zealand-thoi-su-05g30-16-11-2022-456581.html</link>
-      <description><![CDATA[05:30 - 16/11/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/viet-nam-dat-thoa-thuan-xuat-khau-chanh-va-buoi-sang-new-zealand-thoi-su-05g30-16-11-2022-456581.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/11/16/amthoisu05h30p16112022-20221115235704.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 16 Nov 2022 12:30:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
