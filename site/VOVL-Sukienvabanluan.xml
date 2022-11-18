@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 17 Nov 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 18 Nov 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 17 Nov 2022 19:00:00 +0700</pubDate>
+    <pubDate>Fri, 18 Nov 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Thành phố Hồ Chí Minh thực hiện liên kết vùng Đông Nam Bộ</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Nghị quyết 24 của Bộ chính trị khóa 13 xác định mục tiêu đến năm 2030, vùng Đông Nam bộ trở thành vùng phát triển năng động, có tốc độ tăng trưởng kinh tế cao, trong đó Thành phố Hồ Chí Minh là một cực tăng trưởng của vùng Đông Nam bộ và cả nước. Vậy thành phố Hồ Chí Minh cần phát huy vai trò ra sao trong việc thực hiện liên kết vùng để phát triển kinh tế, cung ứng hàng hóa và bình ổn thị trường.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/11/18/vovlive_sukienvabinhluan_thanh_pho_ho_chi_minh_thuc_hien_lien_ket_vung.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 18 Nov 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Sắp vượt Trung Quốc về dân số - Cơ hội và thách thức cho Ấn Độ</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/11/14/vovlive_sukienvabanluan_-cop-27.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 14 Nov 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đằng sau hiện tượng vàng “dịch chuyển” từ phương Tây sang các nước châu Á</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Theo các chuyên gia kinh tế, đang có hiện tượng dịch chuyển toàn cầu, trong đó một khối lượng lớn vàng miếng, vàng thỏi “chảy ồ ạt” ra khỏi các trung tâm tài chính phương Tây khi các nhà đầu tư “đua nhau đi bán vàng”. Trong khi đó, khu vực châu Á lại đang tận dụng giá rẻ để mua vào các sản phẩm từ kim loại quý này. Ngoài yếu tố văn hóa khi người châu Á vẫn luôn coi vàng là hình thức tiết kiệm cơ bản và tích trữ bền vững, đâu là những nguyên nhân chính dẫn tới cuộc chuyển dịch quy mô lớn này?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/10/24/vovlive_sukienvabanluan_dang_sau_hien_tuong_vang_dich_chuyen.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 24 Oct 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
