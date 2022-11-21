@@ -24,14 +24,6 @@
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Bộ Nông nghiệp hướng dẫn sản xuất theo tiêu chuẩn nông nghiệp hữu cơ - Thời sự 17g00 21/11/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/bo-nong-nghiep-huong-dan-san-xuat-theo-tieu-chuan-nong-nghiep-huu-co-thoi-su-17g00-21-11-2022-457245.html</link>
-      <description><![CDATA[17:00 - 21/11/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/bo-nong-nghiep-huong-dan-san-xuat-theo-tieu-chuan-nong-nghiep-huu-co-thoi-su-17g00-21-11-2022-457245.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/11/21/amthoisu17h00p211122-20221121163957.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 22 Nov 2022 00:00:00 +0700</pubDate>
-    </item>
-    <item>
       <title>12 ngân hàng Việt Nam được Moody's nâng xếp hạng tín nhiệm - Thời sự 11g00 21/11/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/12-ngan-hang-viet-nam-duoc-moody-s-nang-xep-hang-tin-nhiem-thoi-su-11g00-21-11-2022-457222.html</link>
       <description><![CDATA[18:31 - 21/11/2022]]></description>
@@ -46,6 +38,14 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/co-thu-tuong-vo-van-kiet-va-nhung-dau-an-voi-tphcm-thoi-su-5g30-21-11-2022-457198.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/11/21/amthoisu05h30p21112022-20221121020224.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 21 Nov 2022 22:10:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Thành uỷ TPHCM tổ chức Kỷ niệm 40 năm Ngày Nhà giáo Việt Nam – Thời sự 17g00 20/11/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/thanh-uy-tphcm-to-chuc-ky-niem-40-nam-ngay-nha-giao-viet-nam-thoi-su-17g00-20-11-2022-457076.html</link>
+      <description><![CDATA[17:57 - 20/11/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/thanh-uy-tphcm-to-chuc-ky-niem-40-nam-ngay-nha-giao-viet-nam-thoi-su-17g00-20-11-2022-457076.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/11/20/amthoisu17h00p201122-20221120165036.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 21 Nov 2022 00:57:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
