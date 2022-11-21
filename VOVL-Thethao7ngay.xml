@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 14 Nov 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 21 Nov 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 14 Nov 2022 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 21 Nov 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,16 @@
     </itunes:owner>
     <itunes:subtitle>Thể thao 7 ngày</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Thethao7ngay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Chương trình thể thao 7 ngày 19 tháng 11 năm 2022</title>
+      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
+      <description><![CDATA[- Phân tích của các cựu danh thủ bóng đá về khả năng thành công của các đội tuyển Brazil, Pháp, Anh, Achentina. 
+- Danh sách tuyển Việt Nam chuẩn bị cho AFF Cup2022. Các đội tuyển Malaysia, Indonesia, Philipines đẩy nhanh việc nhập tịch cho các cầu thủ nước ngoài. 
+-  Câu chuyện về nhà vô địch thế giới Muray Thái bước lên đỉnh vinh quang bằng một tay ở một trong những môn thể thao đối kháng khốc liệt nhất thế giới.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/11/21/vovlive_thethao7ngay_chuongtrinhthethao7ngay19112022.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 21 Nov 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Chương trình thể thao 7 ngày 12 tháng 11 năm 2022</title>
       <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
@@ -52,16 +62,6 @@
       <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/10/31/vovlive_thethao7ngay_chuongtrinhthethao7ngay29102022.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 31 Oct 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chường trình thể thao 7 ngày 23 tháng 10 năm 2022</title>
-      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
-      <description><![CDATA[Ngay cả những cuộc hành trình vĩ đại nhất cũng phải có lúc kết thúc, và  thời điểm Huấn luyện viên Park Hang-seo chia tay bóng đá Việt Nam đã đến. Quãng thời gian 5 năm vị chiến lược gia người Hàn Quốc gắn bó cùng bóng đá Việt Nam và gặt hái được vô số những vinh quang. 
-Thể thao và cuộc sống giới thiệu về Belly Dance khiêu vũ thể thao đang thu hút mọi người luyện tập. 
-Kiến thức thể thao nói về 9 lợi ích tuyệt vời của việc luyện tập thể thao với sức khỏe não bộ...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/10/28/vovlive_thethao7ngay_chuongtrinhthetheo7ngay23102022.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 28 Oct 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

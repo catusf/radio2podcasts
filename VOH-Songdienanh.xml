@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 14 Nov 2022 03:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 21 Nov 2022 03:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 14 Nov 2022 03:00:00 +0700</pubDate>
+    <pubDate>Mon, 21 Nov 2022 03:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sóng điện ảnh trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Songdienanh.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Các nam phản diện trong điện ảnh Việt - Khung hình thứ 25 20/11/2022</title>
+      <link>https://radio.voh.com.vn/khung-hinh-thu-25/cac-nam-phan-dien-trong-dien-anh-viet-khung-hinh-thu-25-20-11-2022-457212.html</link>
+      <description><![CDATA[20:00 - 20/11/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/khung-hinh-thu-25/cac-nam-phan-dien-trong-dien-anh-viet-khung-hinh-thu-25-20-11-2022-457212.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/11/21/fmkhunghinhthuhaimuoilam20h00p201122-20221120072823.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 21 Nov 2022 03:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Những bộ phim thần tượng kinh điển của Đài Loan (Kỳ cuối) - Khung hình thứ 25 13/11/2022</title>
       <link>https://radio.voh.com.vn/khung-hinh-thu-25/nhung-bo-phim-than-tuong-kinh-dien-cua-dai-loan-ky-cuoi-khung-hinh-thu-25-13-11-2022-456251.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/khung-hinh-thu-25/hau-truong-phim-co-gai-tu-qua-khu-ky-cuoi-khung-hinh-thu-25-23-10-2022-453339.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/10/23/FMKhunghinhthuhaimuoilam20h00p231022-20221023064610.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 24 Oct 2022 03:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Hậu trường phim Cô gái từ quá khứ (Kỳ 1) - Khung hình thứ 25 16/10/2022</title>
-      <link>https://radio.voh.com.vn/khung-hinh-thu-25/hau-truong-phim-co-gai-tu-qua-khu-ky-1-khung-hinh-thu-25-16-10-2022-452440.html</link>
-      <description><![CDATA[20:00 - 16/10/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/khung-hinh-thu-25/hau-truong-phim-co-gai-tu-qua-khu-ky-1-khung-hinh-thu-25-16-10-2022-452440.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/10/17/FMKhunghinhthuhaimuoilam20h00p161022-20221016081759.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 17 Oct 2022 03:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
