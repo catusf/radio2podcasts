@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 21 Nov 2022 00:57:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 21 Nov 2022 22:10:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 21 Nov 2022 00:57:00 +0700</pubDate>
+    <pubDate>Mon, 21 Nov 2022 22:10:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Cố Thủ tướng Võ Văn Kiệt và những dấu ấn với TPHCM – Thời sự 5g30 21/11/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/co-thu-tuong-vo-van-kiet-va-nhung-dau-an-voi-tphcm-thoi-su-5g30-21-11-2022-457198.html</link>
+      <description><![CDATA[15:10 - 21/11/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/co-thu-tuong-vo-van-kiet-va-nhung-dau-an-voi-tphcm-thoi-su-5g30-21-11-2022-457198.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/11/21/amthoisu05h30p21112022-20221121020224.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 21 Nov 2022 22:10:00 +0700</pubDate>
+    </item>
     <item>
       <title>Thành uỷ TPHCM tổ chức Kỷ niệm 40 năm Ngày Nhà giáo Việt Nam – Thời sự 17g00 20/11/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/thanh-uy-tphcm-to-chuc-ky-niem-40-nam-ngay-nha-giao-viet-nam-thoi-su-17g00-20-11-2022-457076.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tien-si-tre-tran-thi-nhu-hoa-dem-huong-nghien-cuu-la-ve-viet-nam-thoi-su-20-11-2022-457055.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/11/20/amthoisu11h00p20112022-33p03s-20221120104254.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 20 Nov 2022 19:19:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Những người thực hiện sứ mệnh kiến tạo giá trị cao đẹp cho con người - Thời sự 5g30 20/11/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/nhung-nguoi-thuc-hien-su-menh-kien-tao-gia-tri-cao-dep-cho-con-nguoi-thoi-su-5g30-20-11-2022-457036.html</link>
-      <description><![CDATA[06:56 - 20/11/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/nhung-nguoi-thuc-hien-su-menh-kien-tao-gia-tri-cao-dep-cho-con-nguoi-thoi-su-5g30-20-11-2022-457036.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/11/20/amthoisu05h30p20112022-20221120001726.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 20 Nov 2022 13:56:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
