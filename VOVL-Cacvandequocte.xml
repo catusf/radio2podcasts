@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 22 Nov 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 18 Nov 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 22 Nov 2022 19:00:00 +0700</pubDate>
+    <pubDate>Fri, 18 Nov 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,22 +23,6 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Những thách thức đang đặt ra để hiện thực hóa các cam kết mang tính lịch sử vừa đạt được tại COP27</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Sau 2 ngày làm việc kéo dài, Hội nghị Thượng đỉnh lần thứ 27 Các bên tham gia Công ước khung của Liên hợp quốc về biến đổi khí hậu (COP27) tại Ai Cập đã đạt được Thỏa thuận mang tính “lịch sử” về việc thành lập một quỹ đền bù cho những nước nghèo chịu tác động nghiêm trọng của tình trạng thời tiết cực đoan. Đây được coi là một bước tiến sau nhiều năm đem lại “sự công bằng” cho những đối tượng bị tổn thương do thiệt hại về môi trường. Mặc dù vậy, đây mới chỉ là thỏa thuận mang tính ban đầu, những nội dung cụ thể như nguồn tài trợ, quy chế hoạt động của Quỹ sẽ được các bên tiếp tục thảo luận tại Hội nghị COP28 vào năm 2023 thông qua một “Ủy ban chuyển tiếp”. Tuy nhiên, giới phân tích cho rằng việc thành lập Quỹ có ý nghĩa vô cùng quan trọng đối với các nước nhỏ kém phát triển.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/11/21/vovlive_vandequocte_conguockhungcualienhopquocvebiendoikhihau.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 22 Nov 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Triển vọng các giải pháp phục hồi kinh tế tại hội nghị cấp cao APEC</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Hội nghị cấp cao Diễn đàn Hợp tác kinh tế Châu Á - Thái Bình Dương (APEC) diễn ra trong 2 ngày 18/11-19/11 tại Thái Lan. Trong bối cảnh toàn cầu đang đối diện với những xung đột và khủng hoảng chưa từng có như căng thẳng Nga - phương Tây liên quan đến Ukraine, bất ổn gia tăng trên bán đảo Triều Tiên, lạm phát, mất an ninh lương thực, biến đổi khí hậu…, sự kiện đang được kỳ vọng sẽ mang đến những làn gió mới để các nền kinh tế có thể phục hồi và phát triển ổn định giai đoạn hậu Covid-19. Là kỳ APEC đầu tiên được tổ chức trực tiếp trở lại kể từ khi đại dịch Covid-19 bùng phát cuối năm 2019, chủ nhà Thái Lan đã lựa chọn chủ đề “Mở - Kết nối - Cân bằng” với nhiều nội dung trọng tâm nhằm thể hiện vai trò dẫn dắt của nước Chủ tịch, cũng như đóng góp những xung lực mới cho phát triển khu vực và toàn cầu.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/11/21/vovlive_vandequocte_trienvongcacgiaiphapphuchoikinhtetaihoinghicapcaoapec.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 19 Nov 2022 19:00:00 +0700</pubDate>
-    </item>
     <item>
       <title>Cựu Tổng thống Donald Trump tuyên bố tái tranh cử Tổng thống Mỹ năm 2024: Mở màn cuộc đua gay cấn?</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -54,6 +38,22 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/11/16/vovlive_vandequocte_hoinghithuongdinhg20.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 16 Nov 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Cuộc gặp thượng đỉnh Mỹ - Trung: Cơ hội để tháo gỡ bất đồng</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Ngày 14/11, tại Bali, Indonesia, trước thềm Hội nghị thượng đỉnh Nhóm các nền kinh tế phát triển và mới nổi hàng đầu thế giới (G20), sẽ diễn ra cuộc gặp giữa Tổng thống Mỹ Joe Biden và Chủ tịch Trung Quốc Tập Cận Bình. Đây sẽ là cuộc gặp trực tiếp đầu tiên giữa hai nhà lãnh đạo kể từ khi ông Biden trở thành Tổng thống Mỹ. Dự kiến, hai nhà lãnh đạo sẽ thảo luận về những nỗ lực duy trì và làm sâu sắc hơn nữa "các đường dây liên lạc”, cũng như “cách thức quản lý cạnh tranh” và “hợp tác với nhau khi lợi ích song trùng, đặc biệt là liên quan đến những thách thức xuyên quốc gia”. Trước đó, phát biểu với báo giới, Tổng thống Mỹ Joe Biden nói rằng ông hy vọng sẽ tìm thấy một cơ hội thỏa hiệp với Chủ tịch Trung Quốc Tập Cận Bình để góp phần hạ nhiệt một số căng thẳng khu vực. Liệu cuộc gặp có tạo được cơ hội để tháo gỡ bất đồng?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/11/14/vovlive_vandequocte_cuocgapthuongdinhmytrung.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 15 Nov 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>ASEAN cùng hành động ứng phó các thách thức</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Ngày 11/11, 2 Hội nghị cấp cao ASEAN lần thứ 40, 41 chính thức khai mạc tại Phnôm Pênh, Campuchia. Cùng với đó là hàng loạt các hội nghị cấp cao liên quan với sự tham dự của nhiều nguyên thủ quốc gia, trong đó có Tổng thống Mỹ Joe Biden, Thủ tướng Chính phủ Phạm Minh Chính... Đây là loạt hội nghị quan trọng cuối cùng trong năm Chủ tịch ASEAN 2022 của Campuchia với sự tham dự của các nhà lãnh đạo cấp cao ASEAN và các đối tác đối thoại. Thủ tướng Chính phủ Phạm Minh Chính sẽ dẫn đầu đoàn đại biểu Việt Nam tham dự sự kiện này. Hội nghị cấp cao lần này đánh dấu sự nối lại đối thoại trực tiếp giữa các nhà lãnh đạo sau hơn 2 năm bị gián đoạn do đại dịch Covid-19. Với chủ đề "ASEAN cùng hành động ứng phó các thách thức", nhiều vấn đề trọng tâm sẽ được thảo luận như hợp tác phục hồi kinh tế khu vực, phối hợp tìm kiếm các giải pháp cho các điểm nóng của khu vực cho đến vấn đề nâng cấp quan hệ đối tác giữa ASEAN với các đối tác nước lớn như Trung Quốc, Hoa Kỳ, Ấn Độ...]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/11/11/vovlive_vandequocte_aseancunghanhdongungphocacthachthuc.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 12 Nov 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
