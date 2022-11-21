@@ -74,6 +74,48 @@ def get_articles_from_html(soup, url, no_items, podcast_title, item_titles=None)
     count = 0
     now = datetime.datetime(2020, 7, 1) # Fixed published  dates because they are not available
 
+    # Get the top articles
+    content_soup = soup.select_one('div.td_block_inner')
+    items = content_soup.select('div.td-module-thumb')
+    for n, i in enumerate(items):
+        count = count + 1
+        if count > no_items:
+            break
+
+        item = i.a
+        link = item.get('href')
+        title = item.get('title')
+        idesc = None #i.select_one('div.td-excerpt')
+        if idesc:
+            description = i.select_one('div.td-excerpt').text.strip()
+        else:
+            description = 'N/A'
+
+        vt_tz = pytz.timezone('Asia/Ho_Chi_Minh')
+
+        print(title, link)
+
+        if item_titles is not None:
+            item_titles.append(title)
+
+        episodes = find_episodes(link)
+
+        # Increase one minute every item
+        min_added = datetime.timedelta(minutes=n)
+        pub_date = (now+min_added).astimezone(vt_tz)
+
+        for m, e in enumerate(episodes):
+            # Add one second for every episode, so they can be sorted
+            sec_added = datetime.timedelta(seconds=m)
+            articles.append(
+                feed_article(
+                    link=link,
+                    title=e['episode_title'],
+                    description=description,
+                    pub_date=pub_date - sec_added, # Reverse order of episodes
+                    media=e['media'],
+                    type=e['mime']))
+
     content_soup = soup.select_one('div.td-ss-main-content')
     items = content_soup.select('div.item-details')
     for n, i in enumerate(items):

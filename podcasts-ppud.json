@@ -27,6 +27,13 @@
       "function": null,
       "programs": [
         {
+          "url": "https://phatphapungdung.com/sach-noi/sach-noi-tong-hop/truyen-co-tich",
+          "title": "Truyện cổ tích",
+          "subtitle": "Trang 1",
+          "cover": "",
+          "no": 100
+        },        
+        {
           "url": "https://phatphapungdung.com/sach-noi/truyen-kiem-hiep-audio/page/1",
           "title": "Truyện kiếm hiệp",
           "subtitle": "Trang 1",
@@ -506,13 +513,6 @@
           "url": "https://phatphapungdung.com/sach-noi/truyen-dai-audio/page/8",
           "title": "Truyện dài",
           "subtitle": "Trang 8",
-          "cover": "",
-          "no": 100
-        },
-        {
-          "url": "https://phatphapungdung.com/sach-noi/sach-noi-tong-hop/truyen-co-tich",
-          "title": "Truyện cổ tích",
-          "subtitle": "Trang 1",
           "cover": "",
           "no": 100
         }
