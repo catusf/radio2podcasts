@@ -6,8 +6,14 @@ import datetime
 import json
 import pytz
 import requests
+import pickle
 from bs4 import BeautifulSoup
+import htmldate
+from datetime import datetime
+import hashlib
 
+
+SITE_DATE_META = 'site_dates.json'
 
 def find_episodes(link):
     ''' Finds all episodes of a single audio book of Phatphapungdung site
@@ -72,7 +78,11 @@ def get_articles_from_html(soup, url, no_items, podcast_title, item_titles=None)
 
     # debug = False
     count = 0
-    now = datetime.datetime(2020, 7, 1) # Fixed published  dates because they are not available
+    # now = datetime(2020, 7, 1) # Fixed published  dates because they are not available
+
+    books = [ ]
+    
+    vt_tz = pytz.timezone('Asia/Ho_Chi_Minh')
 
     # Get the top articles
     content_soup = soup.select_one('div.td_block_inner')
@@ -91,33 +101,13 @@ def get_articles_from_html(soup, url, no_items, podcast_title, item_titles=None)
         else:
             description = 'N/A'
 
-        vt_tz = pytz.timezone('Asia/Ho_Chi_Minh')
-
         print(title, link)
 
-        if item_titles is not None:
-            item_titles.append(title)
-
-        episodes = find_episodes(link)
-
-        # Increase one minute every item
-        min_added = datetime.timedelta(minutes=n)
-        pub_date = (now+min_added).astimezone(vt_tz)
-
-        for m, e in enumerate(episodes):
-            # Add one second for every episode, so they can be sorted
-            sec_added = datetime.timedelta(seconds=m)
-            articles.append(
-                feed_article(
-                    link=link,
-                    title=e['episode_title'],
-                    description=description,
-                    pub_date=pub_date - sec_added, # Reverse order of episodes
-                    media=e['media'],
-                    type=e['mime']))
+        books.append({'link': link, 'description': description})
 
     content_soup = soup.select_one('div.td-ss-main-content')
     items = content_soup.select('div.item-details')
+
     for n, i in enumerate(items):
         count = count + 1
         if count > no_items:
@@ -131,19 +121,40 @@ def get_articles_from_html(soup, url, no_items, podcast_title, item_titles=None)
             description = i.select_one('div.td-excerpt').text.strip()
         else:
             description = 'N/A'
-
-        vt_tz = pytz.timezone('Asia/Ho_Chi_Minh')
+            
+        books.append({'link': link, 'description': description})
 
         print(title, link)
 
-        if item_titles is not None:
-            item_titles.append(title)
+    with open(SITE_DATE_META, 'r', encoding='utf-8') as outfile:
+        SITE_DATES = json.load(outfile)
+
+    for book in books:
+        link = book['link']
+        description = book['description']
+
+        time_format = '%Y-%m-%dT%H:%M:%S' # r'%m/%d/%Y, %H:%M:%S'
+
+        modified_date_str = htmldate.find_date(link, outputformat=time_format, extensive_search=False)
+        modified_date = datetime.strptime(modified_date_str, time_format)
+
+        hexdigest =  hashlib.md5(link.encode()).hexdigest()
+
+        if hexdigest not in SITE_DATES:
+            SITE_DATES[hexdigest] = {'modified': modified_date_str}
+            print(f'New date: {modified_date_str}')
+        else:
+            if datetime.strptime(SITE_DATES[hexdigest]['modified'], time_format) >= modified_date:
+                print('Nothing changes')
+                continue
+
+        continue
 
         episodes = find_episodes(link)
 
         # Increase one minute every item
         min_added = datetime.timedelta(minutes=n)
-        pub_date = (now+min_added).astimezone(vt_tz)
+        pub_date = (modified_date+min_added).astimezone(vt_tz)
 
         for m, e in enumerate(episodes):
             # Add one second for every episode, so they can be sorted
@@ -156,5 +167,9 @@ def get_articles_from_html(soup, url, no_items, podcast_title, item_titles=None)
                     pub_date=pub_date + sec_added,
                     media=e['media'],
                     type=e['mime']))
+
+    with open(SITE_DATE_META, 'w', encoding='utf-8') as outfile:
+        json_object = json.dumps(SITE_DATES, indent=4)
+        outfile.write(json_object)
 
     return articles
