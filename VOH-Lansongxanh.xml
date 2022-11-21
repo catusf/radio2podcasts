@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 11 Nov 2022 23:17:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 19 Nov 2022 15:52:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 11 Nov 2022 23:17:00 +0700</pubDate>
+    <pubDate>Sat, 19 Nov 2022 15:52:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Làn sóng xanh trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Lansongxanh.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Làn Sóng Xanh (tuần 3 tháng 11) - 18/11/2022</title>
+      <link>https://radio.voh.com.vn/lan-song-xanh/lan-song-xanh-tuan-3-thang-11-18-11-2022-456941.html</link>
+      <description><![CDATA[08:52 - 19/11/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/lan-song-xanh/lan-song-xanh-tuan-3-thang-11-18-11-2022-456941.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/11/19/lsx-181122-final-20221118094136.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 19 Nov 2022 15:52:00 +0700</pubDate>
+    </item>
     <item>
       <title>Làn Sóng Xanh (tuần 2 tháng 11) - 11/11/2022</title>
       <link>https://radio.voh.com.vn/lan-song-xanh/lan-song-xanh-tuan-2-thang-11-11-11-2022-455961.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/lan-song-xanh/lan-song-xanh-tuan-3-thang-10-21-10-2022-453067.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/10/21/LSX-211022-final-20221021080818.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 21 Oct 2022 18:10:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Làn Sóng Xanh (tuần 2 tháng 10) - 14/10/2022</title>
-      <link>https://radio.voh.com.vn/lan-song-xanh/lan-song-xanh-tuan-2-thang-10-14-10-2022-452152.html</link>
-      <description><![CDATA[18:55 - 14/10/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/lan-song-xanh/lan-song-xanh-tuan-2-thang-10-14-10-2022-452152.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/10/14/LSX-141022-final-20221014094923.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 15 Oct 2022 01:55:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
