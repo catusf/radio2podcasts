@@ -6,19 +6,20 @@ import sys
 import linecache
 import smtplib
 from email.message import EmailMessage
+import hashlib
+import json
 
 import requests
 
 from bs4 import BeautifulSoup
 import pytz
 
-from podgen import Podcast, Person, Media, Category #, htmlencode
-
-# from botocore.exceptions import ClientError
+from podgen import Podcast, Person, Media, Category  # , htmlencode
 
 EMAIL_SENDER_ENV = 'R2P_EMAIL_SENDER'
 EMAIL_RECIPIENT_ENV = 'R2P_EMAIL_RECIPIENT'
 EMAIL_PASSWORD_ENV = 'R2P_EMAIL_PASSWORD'
+
 
 def exception_info():
     """
@@ -56,7 +57,8 @@ def send_mail_on_error(error):
     exception = exception_info()
     try:
         msg = EmailMessage()
-        msg.set_content(f'We found this error when creating podcasts on Heroku: {error}.\nTime: {time}\n\n{exception}')
+        msg.set_content(
+            f'We found this error when creating podcasts on Heroku: {error}.\nTime: {time}\n\n{exception}')
 
         msg['From'] = sender_email
         msg['To'] = recepient_email
@@ -72,12 +74,14 @@ def send_mail_on_error(error):
     except Exception as ex:
         print('**** ERROR SENDING EMAIL:', ex)
 
+
 def get_true_url(url):
     """
     Gets true url of file, which is redirected destination.
     """
     response = requests.head(url)
-    true_url = response.headers['Location'] # Detects redirection and get destination's url
+    # Detects redirection and get destination's url
+    true_url = response.headers['Location']
 
     return true_url
 
@@ -89,7 +93,8 @@ def output_rss(rss, filename):
     :return: none
     """
 
-    rss.rss_file(filename)
+    if rss:
+        rss.rss_file(filename)
 
 
 def rss_from_webpage(feed_settings, get_articles_from_html, podcast_title, item_titles):
@@ -99,9 +104,11 @@ def rss_from_webpage(feed_settings, get_articles_from_html, podcast_title, item_
     :return:
     """
     print(f'Processing: {podcast_title}')
-    headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0'}
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0'}
 
-    source_page_html = requests.get(feed_settings.source_page_url, headers=headers).content
+    source_page_html = requests.get(
+        feed_settings.source_page_url, headers=headers).content
     soup = BeautifulSoup(source_page_html, 'html.parser')
 
     container_html = soup  # soup.select(feed_settings.container_CSS_selector)
@@ -120,9 +127,14 @@ def generate_rss_from_articles(feed_settings, articles):
     :return:
     """
     # Initialize the feed
+
+    if not len(articles):
+        return None
+
     podcast = Podcast()
     podcast.name = feed_settings.title
-    author = Person(feed_settings.author['name'], feed_settings.author['email'])
+    author = Person(
+        feed_settings.author['name'], feed_settings.author['email'])
     podcast.authors.append(author)
     podcast.website = feed_settings.source_page_url
     podcast.copyright = feed_settings.copyright
@@ -153,7 +165,8 @@ def generate_rss_from_articles(feed_settings, articles):
         episode.publication_date = article.pub_date
         pastdate = max(pastdate, article.pub_date)
         # episode.media = Media.create_from_server_response(article.media, size=None, duration=None)
-        episode.media = Media(article.media, size=None, duration=None, type=article.type)
+        episode.media = Media(article.media, size=None,
+                              duration=None, type=article.type)
 
     podcast.last_updated = pastdate
     podcast.publication_date = pastdate

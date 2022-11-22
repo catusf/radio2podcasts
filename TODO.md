@@ -1,5 +1,5 @@
 # Todo List
-- [ ] Add code to check time stamp/length to save running time: use htmldate to get, store using pickle
+- [ ] Add code to check time stamp/length to save running time: use htmldate to get, store using JSON, and compare sitemaps
 - [ ] Add updated dates to HTML files
 - [ ] Change .json file format so that no need to input abbreveation of podcasts. Use their titles instead
 - [X] Add one config .json for common setting such as email and name, to remove duplication in all .json files

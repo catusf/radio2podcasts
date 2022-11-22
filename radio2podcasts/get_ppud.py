@@ -3,16 +3,87 @@
 
 import collections
 import json
-import pytz
-import requests
-import pickle
-from bs4 import BeautifulSoup
-import htmldate
 from datetime import datetime, timedelta
 import hashlib
+import requests
+import pytz
+from bs4 import BeautifulSoup
+import htmldate
 
-
+SITES_MAP_DATES = {}
+SITES_MAP_DATES_FILE = 'sitemap_dates.json'
 SITE_DATE_META = 'site_dates.json'
+#global SITES_MAP_DATES
+time_format = '%Y-%m-%dT%H:%M:%S' # r'%m/%d/%Y, %H:%M:%S'
+
+
+import csv
+import requests
+import xml.etree.ElementTree as ET
+  
+def loadRSS(url):
+
+    # creating HTTP response object from given url
+    resp = requests.get(url)
+  
+    # saving the xml file
+    #with open('topnewsfeed.xml', 'wb') as f:
+    #    f.write(resp.content)
+
+    return resp.content
+          
+  
+def parseXML(xmlstring):
+  
+    # create element tree object
+    tree = ET.ElementTree(ET.fromstring(xmlstring))
+  
+    # get root element
+    root = tree.getroot()
+  
+    # create empty list for news items
+    pages = {}
+    print('Start parsing')
+    
+    # iterate news items
+    count = 0
+    for item in root:
+        # print(item.tag, item.attrib)
+        count += 1
+        # if count > 3:
+        #     break
+
+        print(f'{item[0].text} {item[1].text}')
+        loc = item[0].text
+        timestamp = item[1].text
+
+        # append news dictionary to news items list
+        hexdigest =  hashlib.md5(loc.encode()).hexdigest()
+
+        pages[hexdigest] = datetime.strptime(timestamp, "%Y-%m-%dT%H:%M:%S%z").strftime(time_format)
+    
+    print(f'Number of items: {count}')
+    
+    return pages
+      
+def load_sitemaps():
+
+    global SITES_MAP_DATES
+  
+    # url of rss feed
+    urls = ['https://phatphapungdung.com/sach-noi/post-sitemap2.xml',
+        'https://phatphapungdung.com/sach-noi/post-sitemap1.xml']
+
+    # load rss from web to update existing xml file
+    for url in urls:
+        contents = loadRSS(url)
+  
+        # parse xml file
+        SITES_MAP_DATES = SITES_MAP_DATES | parseXML(contents)
+
+    with open(SITES_MAP_DATES_FILE, 'w', encoding='utf-8') as f:
+        
+        f.write(json.dumps(SITES_MAP_DATES, indent=4))
 
 def find_episodes(link):
     ''' Finds all episodes of a single audio book of Phatphapungdung site
@@ -130,24 +201,31 @@ def get_articles_from_html(soup, url, no_items, podcast_title, item_titles=None)
 
         print(f'Number of sites stored: {len(SITE_DATES)}')
 
+    if not len(SITES_MAP_DATES):
+        load_sitemaps()
+
     for book in books:
         link = book['link']
         description = book['description']
 
-        time_format = '%Y-%m-%dT%H:%M:%S' # r'%m/%d/%Y, %H:%M:%S'
-
-        modified_date_str = htmldate.find_date(link, outputformat=time_format, extensive_search=False)
-        modified_date = datetime.strptime(modified_date_str, time_format)
+#        modified_date_str = htmldate.find_date(link, outputformat=time_format, extensive_search=False)
+#        modified_date = datetime.strptime(modified_date_str, time_format)
 
         hexdigest =  hashlib.md5(link.encode()).hexdigest()
 
-        if hexdigest not in SITE_DATES:
+        if hexdigest not in SITES_MAP_DATES:
+            modified_date = datetime.today()
+        else:
+            modified_date = datetime.strptime(SITES_MAP_DATES[hexdigest],time_format)
+
+        modified_date_str = datetime.strftime(modified_date, time_format)
+
+        if hexdigest not in SITE_DATES or datetime.strptime(SITE_DATES[hexdigest]['modified'], time_format) < modified_date:
             SITE_DATES[hexdigest] = {'modified': modified_date_str}
             print(f'New date: {modified_date_str}')
         else:
-            if datetime.strptime(SITE_DATES[hexdigest]['modified'], time_format) >= modified_date:
-                print('Nothing changes')
-                # continue
+            print('Nothing changes')
+            continue
 
         episodes = find_episodes(link)
 
@@ -168,7 +246,7 @@ def get_articles_from_html(soup, url, no_items, podcast_title, item_titles=None)
                     type=e['mime']))
 
     with open(SITE_DATE_META, 'w', encoding='utf-8') as outfile:
-        json_object = json.dumps(SITE_DATES, indent=4)
-        outfile.write(json_object)
+        
+        outfile.write(json.dumps(SITE_DATES, indent=4))
 
     return articles
