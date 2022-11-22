@@ -1,6 +1,8 @@
 """This module purse Phatphapungdung website to get the contents for podcast feed.
 """
 
+import xml.etree.ElementTree as ET
+
 import collections
 import json
 from datetime import datetime, timedelta
@@ -8,36 +10,30 @@ import hashlib
 import requests
 import pytz
 from bs4 import BeautifulSoup
-import htmldate
 
-SITES_MAP_DATES = {}
-SITES_MAP_DATES_FILE = 'sitemap_dates.json'
+SITEMAP_DATES = {}
+SITEMAP_DATES_FILE = 'sitemap_dates.json'
 SITE_DATE_META = 'site_dates.json'
-#global SITES_MAP_DATES
-time_format = '%Y-%m-%dT%H:%M:%S' # r'%m/%d/%Y, %H:%M:%S'
+TIME_FORMAT = '%Y-%m-%dT%H:%M:%S' # Normalized time format
 
-
-import csv
-import requests
-import xml.etree.ElementTree as ET
-  
-def loadRSS(url):
+def load_rss(url):
+    """
+    Loads an XML from the internet and returns its string contents
+    """
 
     # creating HTTP response object from given url
     resp = requests.get(url)
-  
-    # saving the xml file
-    #with open('topnewsfeed.xml', 'wb') as f:
-    #    f.write(resp.content)
 
     return resp.content
-          
-  
-def parseXML(xmlstring):
-  
+
+def parse_xml(xmlstring):
+    """
+    Parses the XML string and returns list of urls:modified datses
+    """
+
     # create element tree object
     tree = ET.ElementTree(ET.fromstring(xmlstring))
-  
+
     # get root element
     root = tree.getroot()
   
@@ -53,37 +49,40 @@ def parseXML(xmlstring):
         # if count > 3:
         #     break
 
-        print(f'{item[0].text} {item[1].text}')
         loc = item[0].text
         timestamp = item[1].text
+        print(f'{timestamp}: {loc}')
 
         # append news dictionary to news items list
-        hexdigest =  hashlib.md5(loc.encode()).hexdigest()
+        link_hash =  hashlib.md5(loc.encode()).hexdigest()
 
-        pages[hexdigest] = datetime.strptime(timestamp, "%Y-%m-%dT%H:%M:%S%z").strftime(time_format)
+        pages[link_hash] = datetime.strptime(timestamp, "%Y-%m-%dT%H:%M:%S%z").strftime(TIME_FORMAT)
     
-    print(f'Number of items: {count}')
+    print(f'Number of pages in sitemap: {count}')
     
     return pages
       
 def load_sitemaps():
-    global SITES_MAP_DATES
+    ''' Read sitemap and return a list of urls:modified dates
+    '''
+    global SITEMAP_DATES
 
     # url of rss feed
-    urls = ['https://phatphapungdung.com/sach-noi/post-sitemap2.xml',
+    urls = [
+        'https://phatphapungdung.com/sach-noi/post-sitemap2.xml',
         'https://phatphapungdung.com/sach-noi/post-sitemap1.xml']
 
     # load rss from web to update existing xml file
     for url in urls:
-        contents = loadRSS(url)
+        contents = load_rss(url)
   
         # parse xml file
-        SITES_MAP_DATES = SITES_MAP_DATES | parseXML(contents)
+        SITEMAP_DATES = SITEMAP_DATES | parse_xml(contents)
 
-    with open(SITES_MAP_DATES_FILE, 'w', encoding='utf-8') as f:
-        print(f'Number of pages in sitemap: {len(SITES_MAP_DATES_FILE)}')
+    with open(SITEMAP_DATES_FILE, 'w', encoding='utf-8') as file:
+        print(f'Number of pages in sitemap: {len(SITEMAP_DATES_FILE)}')
         
-        f.write(json.dumps(SITES_MAP_DATES, indent=4))
+        file.write(json.dumps(SITEMAP_DATES, indent=4))
 
 def find_episodes(link):
     ''' Finds all episodes of a single audio book of Phatphapungdung site
@@ -197,31 +196,31 @@ def get_articles_from_html(soup, url, no_items, podcast_title, item_titles=None)
         print(title, link)
 
     with open(SITE_DATE_META, 'r', encoding='utf-8') as outfile:
-        SITE_DATES = json.load(outfile)
+        PAGES_DATES = json.load(outfile)
 
-        print(f'Number of pages stored: {len(SITE_DATES)}')
+        print(f'Number of pages stored: {len(PAGES_DATES)}')
 
-    if not len(SITES_MAP_DATES):
+    if not len(SITEMAP_DATES):
         load_sitemaps()
 
     for book in books:
         link = book['link']
         description = book['description']
 
-#        modified_date_str = htmldate.find_date(link, outputformat=time_format, extensive_search=False)
-#        modified_date = datetime.strptime(modified_date_str, time_format)
+#        modified_date_str = htmldate.find_date(link, outputformat=TIME_FORMAT, extensive_search=False)
+#        modified_date = datetime.strptime(modified_date_str, TIME_FORMAT)
 
-        hexdigest =  hashlib.md5(link.encode()).hexdigest()
+        link_hash =  hashlib.md5(link.encode()).hexdigest()
 
-        if hexdigest not in SITES_MAP_DATES:
+        if link_hash not in SITEMAP_DATES:
             modified_date = datetime.today()
         else:
-            modified_date = datetime.strptime(SITES_MAP_DATES[hexdigest],time_format)
+            modified_date = datetime.strptime(SITEMAP_DATES[link_hash],TIME_FORMAT)
 
-        modified_date_str = datetime.strftime(modified_date, time_format)
+        modified_date_str = datetime.strftime(modified_date, TIME_FORMAT)
 
-        if hexdigest not in SITE_DATES or datetime.strptime(SITE_DATES[hexdigest]['modified'], time_format) < modified_date:
-            SITE_DATES[hexdigest] = {'modified': modified_date_str}
+        if link_hash not in PAGES_DATES or datetime.strptime(PAGES_DATES[link_hash]['modified'], TIME_FORMAT) < modified_date:
+            PAGES_DATES[link_hash] = {'modified': modified_date_str}
             print(f'New date: {modified_date_str}')
         else:
             print('Nothing changes')
@@ -247,6 +246,6 @@ def get_articles_from_html(soup, url, no_items, podcast_title, item_titles=None)
 
     with open(SITE_DATE_META, 'w', encoding='utf-8') as outfile:
         
-        outfile.write(json.dumps(SITE_DATES, indent=4))
+        outfile.write(json.dumps(PAGES_DATES, indent=4))
 
     return articles
