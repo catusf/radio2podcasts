@@ -129,6 +129,8 @@ def get_articles_from_html(soup, url, no_items, podcast_title, item_titles=None)
     with open(SITE_DATE_META, 'r', encoding='utf-8') as outfile:
         SITE_DATES = json.load(outfile)
 
+        print(f'Number of sites stored: {len(SITE_DATES)}')
+
     for book in books:
         link = book['link']
         description = book['description']
@@ -146,9 +148,7 @@ def get_articles_from_html(soup, url, no_items, podcast_title, item_titles=None)
         else:
             if datetime.strptime(SITE_DATES[hexdigest]['modified'], time_format) >= modified_date:
                 print('Nothing changes')
-                continue
-
-        continue
+                # continue
 
         episodes = find_episodes(link)
 
