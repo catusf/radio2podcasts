@@ -2,14 +2,13 @@
 """
 
 import collections
-import datetime
 import json
 import pytz
 import requests
 import pickle
 from bs4 import BeautifulSoup
 import htmldate
-from datetime import datetime
+from datetime import datetime, timedelta
 import hashlib
 
 
@@ -153,12 +152,12 @@ def get_articles_from_html(soup, url, no_items, podcast_title, item_titles=None)
         episodes = find_episodes(link)
 
         # Increase one minute every item
-        min_added = datetime.timedelta(minutes=n)
+        min_added = timedelta(minutes=n)
         pub_date = (modified_date+min_added).astimezone(vt_tz)
 
         for m, e in enumerate(episodes):
             # Add one second for every episode, so they can be sorted
-            sec_added = datetime.timedelta(seconds=m)
+            sec_added = timedelta(seconds=m)
             articles.append(
                 feed_article(
                     link=link,
