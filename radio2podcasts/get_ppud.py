@@ -67,9 +67,8 @@ def parseXML(xmlstring):
     return pages
       
 def load_sitemaps():
-
     global SITES_MAP_DATES
-  
+
     # url of rss feed
     urls = ['https://phatphapungdung.com/sach-noi/post-sitemap2.xml',
         'https://phatphapungdung.com/sach-noi/post-sitemap1.xml']
@@ -82,6 +81,7 @@ def load_sitemaps():
         SITES_MAP_DATES = SITES_MAP_DATES | parseXML(contents)
 
     with open(SITES_MAP_DATES_FILE, 'w', encoding='utf-8') as f:
+        print(f'Number of pages in sitemap: {len(SITES_MAP_DATES_FILE)}')
         
         f.write(json.dumps(SITES_MAP_DATES, indent=4))
 
@@ -199,7 +199,7 @@ def get_articles_from_html(soup, url, no_items, podcast_title, item_titles=None)
     with open(SITE_DATE_META, 'r', encoding='utf-8') as outfile:
         SITE_DATES = json.load(outfile)
 
-        print(f'Number of sites stored: {len(SITE_DATES)}')
+        print(f'Number of pages stored: {len(SITE_DATES)}')
 
     if not len(SITES_MAP_DATES):
         load_sitemaps()
