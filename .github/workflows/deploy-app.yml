@@ -8,6 +8,14 @@ on:
   
   push:
     branches: [ master ]
+    
+    paths-ignore:
+          - '**/.gitignore'
+          - '**/*.md'
+          - LICENSE
+          - site/*
+          - vscode/*
+          
   pull_request:
     branches: [ master ]
   schedule:
