@@ -1,4 +1,6 @@
 # Todo List
+- [ ] Add Copy button to html
+- [ ] Add descriptions to use Google Podcasts
 - [ ] Add code to check time stamp/length to save running time: use htmldate to get, store using JSON, and compare sitemaps
 - [ ] Add updated dates to HTML files
 - [ ] Change .json file format so that no need to input abbreveation of podcasts. Use their titles instead
