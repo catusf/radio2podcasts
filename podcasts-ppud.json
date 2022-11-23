@@ -1,6 +1,5 @@
 {
   "websites": {
-
     "PPUD": {
       "home": "https://phatphapungdung.com/sach-noi/",
       "name": "Sách nói - Phật pháp ứng dụng",
@@ -12,21 +11,21 @@
           "subtitle": "Trang 1",
           "cover": "",
           "no": 100
-        },          
+        },
         {
           "url": "https://phatphapungdung.com/sach-noi/sach-noi-tong-hop/trinh-tham",
           "title": "Truyện trinh thám",
           "subtitle": "Trang 1",
           "cover": "",
           "no": 100
-        },   
+        },
         {
           "url": "https://phatphapungdung.com/sach-noi/sach-noi-tong-hop/truyen-co-tich",
           "title": "Truyện cổ tích",
           "subtitle": "Trang 1",
           "cover": "",
           "no": 100
-        },        
+        }
       ]
     }
   }
