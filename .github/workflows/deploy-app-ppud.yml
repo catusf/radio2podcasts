@@ -19,6 +19,10 @@ on:
   schedule:
     - cron: "0 0 * * 1" #runs at 00:00 on Monday
 
+concurrency: 
+  group: ${{ github.workflow }}
+  cancel-in-progress: true
+
 jobs:
   build:
     if: "!contains(github.event.head_commit.message, 'AUTO')"
