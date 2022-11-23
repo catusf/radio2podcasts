@@ -1,6 +1,6 @@
 # Todo List
 - [ ] Add Copy button to html
-- [ ] Add descriptions to use Google Podcasts
+- [X] Add descriptions to use Google Podcasts
 - [ ] Update VOV Sachnoi to include each episode desc
 - [X] Add code to check time stamp/length to save running time: use htmldate to get, store using JSON, and compare sitemaps
 - [X] Add updated dates to HTML files
