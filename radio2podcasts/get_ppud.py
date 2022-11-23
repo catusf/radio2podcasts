@@ -229,18 +229,19 @@ def get_articles_from_html(soup, url, no_items, podcast_title, item_titles=None)
         episodes = find_episodes(link)
 
         # Increase one minute every item
-        min_added = timedelta(days=n)
-        pub_date = (modified_date+min_added).astimezone(vt_tz)
+        book_time_added = timedelta(days=n)
+        pub_date = (modified_date+book_time_added).astimezone(vt_tz)
 
         for m, e in enumerate(episodes):
             # Add one second for every episode, so they can be sorted
-            sec_added = timedelta(seconds=m)
+            episode_time_added = timedelta(hours=m)
+            episode_link = f'{link}#{m}'
             articles.append(
                 feed_article(
-                    link=link,
+                    link=episode_link,
                     title=e['episode_title'],
                     description=description,
-                    pub_date=pub_date + sec_added,
+                    pub_date=pub_date + episode_time_added,
                     media=e['media'],
                     type=e['mime']))
 
