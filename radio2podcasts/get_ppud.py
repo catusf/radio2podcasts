@@ -229,7 +229,7 @@ def get_articles_from_html(soup, url, no_items, podcast_title, item_titles=None)
         episodes = find_episodes(link)
 
         # Increase one minute every item
-        min_added = timedelta(minutes=n)
+        min_added = timedelta(days=n)
         pub_date = (modified_date+min_added).astimezone(vt_tz)
 
         for m, e in enumerate(episodes):
