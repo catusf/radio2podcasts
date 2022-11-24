@@ -1,5 +1,7 @@
 # Todo List
 - [ ] Add Copy button to html
+- [ ] Fix issue with time/ordering of podcasts
+- [ ] Change format of site_dates to match with the sitemap_dates
 - [X] Add descriptions to use Google Podcasts
 - [ ] Update VOV Sachnoi to include each episode desc
 - [X] Add code to check time stamp/length to save running time: use htmldate to get, store using JSON, and compare sitemaps
