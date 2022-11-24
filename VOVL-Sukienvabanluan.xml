@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 21 Nov 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 24 Nov 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 21 Nov 2022 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 24 Nov 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Giải pháp đảm bảo việc làm cho công nhân mất việc cuối năm</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Chỉ còn 2 tháng nữa là đến Tết Nguyên Đán 2023, thế nhưng ở thời điểm hiện tại, nhiều doanh nghiệp bị giảm đơn hàng, thiếu nguyên phụ liệu sản xuất, phải cắt giảm hàng nghìn lao động thay vì tuyển người như mọi năm. Điều này đặt ra nhiều thách thức cho công nhân khi phải chật vật tìm công việc khác để mưu sinh trong khi chỉ còn ít tháng nữa là đến Tết. Giải pháp nào hỗ trợ công nhân có việc làm, có thu nhập trang trải cuộc sống? Các cơ quan chức năng liên quan có chính sách gì để hỗ trợ công nhân thời điểm cận Tết này?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/11/24/vovlive_sukienvabanluan_giai_phap_dam_bao_viec_lam_cho_cong_nhan_mat_viec_cuoi_nam.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 24 Nov 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Kế hoạch 16 điểm: Biện pháp “giải cứu” thị trường bất động sản của Trung Quốc?</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/11/18/vovlive_sukienvabinhluan_thanh_pho_ho_chi_minh_thuc_hien_lien_ket_vung.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 18 Nov 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Sắp vượt Trung Quốc về dân số - Cơ hội và thách thức cho Ấn Độ</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Dân số thế giới đã chính thức “cán mốc” 8 tỷ người, các quốc gia châu Á và châu Phi đóng góp nhiều nhất vào sự tăng trưởng này. Đáng chú ý, Ấn Độ được dự báo sẽ vượt Trung Quốc để trở thành quốc gia đông dân nhất thế giới trong vòng vài tháng tới khi vẫn đang duy trì tỷ lệ sinh ở mức cao. Quy mô dân số lớn nhất thế giới được cho sẽ là cơ hội thúc đẩy kinh tế của Ấn Độ, hướng tới những mục tiêu cao hơn sau khi vượt qua Anh để trở thành nền kinh tế lớn thứ 5 thế giới. Dù vậy, dân số lớn cũng đặt ra cho Ấn Độ không ít thách thức về phát triển kinh tế - xã hội như cơ sở hạ tầng, giáo dục, bình đẳng giới…]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/11/17/vovlive_sukienvabanluan_sap_vuot_trung_quoc_ve_dan_so.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 17 Nov 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
