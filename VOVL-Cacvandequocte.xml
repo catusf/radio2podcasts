@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 24 Nov 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 25 Nov 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 24 Nov 2022 19:00:00 +0700</pubDate>
+    <pubDate>Fri, 25 Nov 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Liên minh Châu Âu công bố mức giá trần khí đốt: Đề xuất liệu có khả thi?</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Sau nhiều tháng căng thẳng và tranh cãi về câu chuyện áp giá trần lên khí đốt và dầu của Nga nhằm phản ứng với chiến dịch quân sự đặc biệt mà nước này phát động tại Ukraine, mới đây, Liên minh Châu Âu (EU) cuối cùng cũng đã đưa ra được một đề xuất cụ thể. Theo đó, khối này vừa đề xuất áp giá trần khí đốt ở mức 275 euro (tương đương 283 đô-la Mỹ) mỗi MWh. Phía EU khẳng định đây là một công cụ mạnh đồng thời là giải pháp cuối cùng để ngăn chặn tình trạng giá khí đốt tăng cao, kiểm soát nhu cầu hướng tới đảm bảo cung cấp đủ khí đốt cho Châu Âu. Liệu đề xuất này có khả thi và liệu các nước EU có đạt được đồng thuận trong cuộc họp các Bộ trưởng Năng lượng diễn ra ngày 24/11 hay không?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/11/24/vovlive_vandequocte_eucongbomucgiatrankhidot.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 25 Nov 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Động lực mới nào cho định dạng Astana về bảo trợ hòa bình cho Syria?</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/11/21/vovlive_vandequocte_conguockhungcualienhopquocvebiendoikhihau.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 22 Nov 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Triển vọng các giải pháp phục hồi kinh tế tại hội nghị cấp cao APEC</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Hội nghị cấp cao Diễn đàn Hợp tác kinh tế Châu Á - Thái Bình Dương (APEC) diễn ra trong 2 ngày 18/11-19/11 tại Thái Lan. Trong bối cảnh toàn cầu đang đối diện với những xung đột và khủng hoảng chưa từng có như căng thẳng Nga - phương Tây liên quan đến Ukraine, bất ổn gia tăng trên bán đảo Triều Tiên, lạm phát, mất an ninh lương thực, biến đổi khí hậu…, sự kiện đang được kỳ vọng sẽ mang đến những làn gió mới để các nền kinh tế có thể phục hồi và phát triển ổn định giai đoạn hậu Covid-19. Là kỳ APEC đầu tiên được tổ chức trực tiếp trở lại kể từ khi đại dịch Covid-19 bùng phát cuối năm 2019, chủ nhà Thái Lan đã lựa chọn chủ đề “Mở - Kết nối - Cân bằng” với nhiều nội dung trọng tâm nhằm thể hiện vai trò dẫn dắt của nước Chủ tịch, cũng như đóng góp những xung lực mới cho phát triển khu vực và toàn cầu.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/11/21/vovlive_vandequocte_trienvongcacgiaiphapphuchoikinhtetaihoinghicapcaoapec.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 19 Nov 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
