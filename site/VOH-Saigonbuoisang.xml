@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 23 Nov 2022 13:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 26 Nov 2022 00:36:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 23 Nov 2022 13:00:00 +0700</pubDate>
+    <pubDate>Sat, 26 Nov 2022 00:36:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Công an TPHCM ngăn chặn cá độ bóng đá mùa World Cup 2022 – Sài Gòn buổi sáng 25/11/2022</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/cong-an-tphcm-ngan-chan-ca-do-bong-da-mua-world-cup-2022-sai-gon-buoi-sang-25-11-2022-457714.html</link>
+      <description><![CDATA[17:36 - 25/11/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/cong-an-tphcm-ngan-chan-ca-do-bong-da-mua-world-cup-2022-sai-gon-buoi-sang-25-11-2022-457714.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/11/25/fmsgbs06h00p251122-20221125105220.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 26 Nov 2022 00:36:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Khai thác IOC - đầu não số để gia tăng tương tác với người dân - Sài Gòn buổi sáng 23/11/2022</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/khai-thac-ioc-dau-nao-so-de-gia-tang-tuong-tac-voi-nguoi-dan-sai-gon-buoi-sang-23-11-2022-457439.html</link>
       <description><![CDATA[06:00 - 23/11/2022]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/khai-thac-ioc-dau-nao-so-de-gia-tang-tuong-tac-voi-nguoi-dan-sai-gon-buoi-sang-23-11-2022-457439.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/11/23/fmsgbs06h00p231122-20221123081847.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 23 Nov 2022 13:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chiến lược quản trị dữ liệu số của TPHCM - Sài Gòn buổi sáng 22/11/2022</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/chien-luoc-quan-tri-du-lieu-so-cua-tphcm-sai-gon-buoi-sang-22-11-2022-457297.html</link>
-      <description><![CDATA[09:16 - 22/11/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/chien-luoc-quan-tri-du-lieu-so-cua-tphcm-sai-gon-buoi-sang-22-11-2022-457297.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/11/23/fmsgbs06h00p221122-20221122183930.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 22 Nov 2022 16:16:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
