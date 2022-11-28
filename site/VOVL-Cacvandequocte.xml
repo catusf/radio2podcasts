@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 25 Nov 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 29 Nov 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 25 Nov 2022 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 29 Nov 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,22 @@
     </itunes:owner>
     <itunes:subtitle>Các vấn đề quốc tế</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Cacvandequocte.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>EU vẫn mâu thuẫn về áp trần giá khí đốt Nga và những tác động</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Do có quá nhiều mâu thuẫn và tranh cãi, cuối cùng, cuộc họp các Bộ trưởng năng lượng Liên minh Châu Âu (EU) vào tuần trước vẫn “dậm chân tại chỗ”, khi không thể nhất trí được về mức trần giá khí đốt nhằm giảm thiểu cuộc khủng hoảng năng lượng ở Châu Âu. Bất chấp trước đó, một mức giá trần đã được đề xuất ở mức 275 Euro/MWh. Nhiều nước dù ủng hộ việc áp giá trần khí đốt nhưng cũng cho rằng, đây là một mức giá trần quá cao, “không thực tế, có cũng như không” và đi kèm quá nhiều điều kiện.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/11/28/vovlive_vandequocte_euvanmauthuanveaptrangiakhidotngaanhungtacdong.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 29 Nov 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Chiến sự Ukraine phức tạp: Các nước Trung và Đông Âu “tái quân sự hóa"</title>
+      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
+      <description><![CDATA[Trong lúc chiến sự ở Ukraine được nhận định có thể kéo dài, nhiều quốc gia khu vực Trung và Đông Âu dường như đang hướng tới triển khai việc nâng cấp năng lực quân sự, nhất là sau vụ một tên lửa rơi xuống Ba Lan hồi tuần trước khiến 2 người thiệt mạng. Tổ chức Hiệp ước Bắc Đại Tây Dương (NATO) đã tăng cường phòng không ở Đông Âu kể từ khi xung đột Nga - Ukraine nổ ra vào tháng 2. Hồi tháng 10, các quốc gia thành viên NATO do Đức dẫn đầu khởi động sáng kiến cùng mua sắm các hệ thống phòng không, trong đó có cả hệ thống tên lửa Patriot. Những bước đi này cho thấy, cuộc xung đột Nga - Ukraine đã tạo ra sự thay đổi lớn ở Châu Âu. Là lục địa mà nhiều quốc gia vốn cắt giảm chi tiêu quân sự sau chiến tranh Lạnh, các chính phủ Châu Âu lại đang tìm cách tái quân sự hóa.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/11/28/vovlive_vandequocte_chiensuukrainephuctap.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 26 Nov 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Liên minh Châu Âu công bố mức giá trần khí đốt: Đề xuất liệu có khả thi?</title>
       <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
@@ -38,22 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/11/23/vovlive_vandequocte_donglucmoinaochodinhdangastannavebaotrohoabinhchosyria.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 24 Nov 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chuyến thăm Philippines của Phó Tổng thống Mỹ Kamala Harris</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Tiếp nối chuỗi hoạt động ngoại giao của giới chức Mỹ tại khu vực Đông Nam Á, Phó Tổng thống Mỹ Kamala Haris đang có chuyến thăm Philippines. Đây là chuyến đi thứ hai của bà Harris đến Châu Á trong 3 tháng và diễn ra chỉ sau chuyến đi kéo dài một tuần của Tổng thống Joe Biden tới khu vực này. Cả hai chuyến đi đều được thực hiện nhằm củng cố khả năng phòng thủ và liên minh của Mỹ. Sau 5 năm rơi vào tình trạng “lạnh nhạt”, quan hệ Mỹ - Philippines đang có dấu hiệu nồng ấm trở lại. Với chính quyền mới ở Philippines, việc nước này quay lại “quỹ đạo” đồng minh với Mỹ ra sao đang là vấn đề được dư luận quan tâm.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/11/23/vovlive_vandequocte_chuyenthamphilipinescuaphotongthongmy.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 23 Nov 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Những thách thức đang đặt ra để hiện thực hóa các cam kết mang tính lịch sử vừa đạt được tại COP27</title>
-      <link>https://vovlive.vn/cac-van-de-quoc-te-p211.html</link>
-      <description><![CDATA[Sau 2 ngày làm việc kéo dài, Hội nghị Thượng đỉnh lần thứ 27 Các bên tham gia Công ước khung của Liên hợp quốc về biến đổi khí hậu (COP27) tại Ai Cập đã đạt được Thỏa thuận mang tính “lịch sử” về việc thành lập một quỹ đền bù cho những nước nghèo chịu tác động nghiêm trọng của tình trạng thời tiết cực đoan. Đây được coi là một bước tiến sau nhiều năm đem lại “sự công bằng” cho những đối tượng bị tổn thương do thiệt hại về môi trường. Mặc dù vậy, đây mới chỉ là thỏa thuận mang tính ban đầu, những nội dung cụ thể như nguồn tài trợ, quy chế hoạt động của Quỹ sẽ được các bên tiếp tục thảo luận tại Hội nghị COP28 vào năm 2023 thông qua một “Ủy ban chuyển tiếp”. Tuy nhiên, giới phân tích cho rằng việc thành lập Quỹ có ý nghĩa vô cùng quan trọng đối với các nước nhỏ kém phát triển.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/cac-van-de-quoc-te-p211.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/11/21/vovlive_vandequocte_conguockhungcualienhopquocvebiendoikhihau.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 22 Nov 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
