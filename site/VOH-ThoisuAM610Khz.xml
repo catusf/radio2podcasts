@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 27 Nov 2022 21:21:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 28 Nov 2022 00:56:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 27 Nov 2022 21:21:00 +0700</pubDate>
+    <pubDate>Mon, 28 Nov 2022 00:56:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Thủ tướng Phạm Minh Chính kiểm tra và làm việc tại TP.HCM – Thời sự 17g00 27/11/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/thu-tuong-pham-minh-chinh-kiem-tra-va-lam-viec-tai-tp-hcm-thoi-su-17g00-27-11-2022-457918.html</link>
+      <description><![CDATA[17:56 - 27/11/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/thu-tuong-pham-minh-chinh-kiem-tra-va-lam-viec-tai-tp-hcm-thoi-su-17g00-27-11-2022-457918.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/11/27/amthoisu17h00p271122-20221127165025.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 28 Nov 2022 00:56:00 +0700</pubDate>
+    </item>
     <item>
       <title>Vẫn còn nhiều dư địa cho thị trường cá cảnh TPHCM – Thời sự 11g00 26/11/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/van-con-nhieu-du-dia-cho-thi-truong-ca-canh-tphcm-thoi-su-11g00-26-11-2022-457900.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/can-thong-qua-nghi-quyet-moi-tao-dieu-kien-cho-tphcm-phat-trien-ben-vung-thoi-su-17g00-22-11-2022-457899.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/11/27/amthoisu17h00p221122-20221122163629.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 27 Nov 2022 21:15:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Việt Nam có thêm 2 Di sản tư liệu khu vực châu Á-Thái Bình Dương - Thời sự 17g00 26/11/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/viet-nam-co-them-2-di-san-tu-lieu-khu-vuc-chau-a-thai-binh-duong-thoi-su-17g00-26-11-2022-457850.html</link>
-      <description><![CDATA[17:00 - 26/11/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/viet-nam-co-them-2-di-san-tu-lieu-khu-vuc-chau-a-thai-binh-duong-thoi-su-17g00-26-11-2022-457850.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/11/26/amthoisu17h00p261122-20221126164942.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 27 Nov 2022 00:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
