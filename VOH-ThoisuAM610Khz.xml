@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 29 Nov 2022 18:58:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 30 Nov 2022 00:43:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 29 Nov 2022 18:58:00 +0700</pubDate>
+    <pubDate>Wed, 30 Nov 2022 00:43:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Đảm bảo nguồn cung thịt heo cho người dân thành phố - Thời sự 17g00 29/11/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/dam-bao-nguon-cung-thit-heo-cho-nguoi-dan-thanh-pho-thoi-su-17g00-29-11-2022-458218.html</link>
+      <description><![CDATA[17:43 - 29/11/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/dam-bao-nguon-cung-thit-heo-cho-nguoi-dan-thanh-pho-thoi-su-17g00-29-11-2022-458218.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/11/29/amthoisu17h00p291122-20221129163548.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 30 Nov 2022 00:43:00 +0700</pubDate>
+    </item>
     <item>
       <title>Chủ tịch Quốc hội rời Hà Nội, lên đường thăm chính thức Australia - Thời sự 11g00 29/11/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/chu-tich-quoc-hoi-roi-ha-noi-len-duong-tham-chinh-thuc-australia-thoi-su-11g00-29-11-2022-458172.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tri-tue-viet-nam-trong-linh-vuc-cong-nghe-cao-thoi-su-11g00-3-11-2022-458171.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/11/29/AMThoisu11h00p031122-20221103103746.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 03 Nov 2022 18:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Nghiên cứu và xây dựng mô hình phát triển kinh tế ban đêm - Thời sự 11g00 17/11/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/nghien-cuu-va-xay-dung-mo-hinh-phat-trien-kinh-te-ban-dem-thoi-su-11g00-17-11-2022-458168.html</link>
-      <description><![CDATA[11:00 - 17/11/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/nghien-cuu-va-xay-dung-mo-hinh-phat-trien-kinh-te-ban-dem-thoi-su-11g00-17-11-2022-458168.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/11/29/amthoisu11h00p171122-20221117103142.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 17 Nov 2022 18:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
