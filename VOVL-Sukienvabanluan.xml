@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 28 Nov 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 29 Nov 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 28 Nov 2022 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 29 Nov 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Áp lực di cư: Châu Âu rơi vào khủng hoảng kép?</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Cuộc khủng hoảng di cư đang nóng trở lại tại châu Âu khi dòng người kéo đến đây tăng cao kỷ lục và những căng thẳng mới giữa các nước thành viên Liên minh châu Âu (EU) về vấn đề này bùng phát. Đáng nói, việc châu Âu phải chứng kiến lượng người nhập cư ngày càng gia tăng trong bối cảnh các quốc gia ở châu lục này cùng lúc đối mặt với nhiều khó khăn về kinh tế càng khiến khủng hoảng thêm trầm trọng và trở thành bài toán ngày càng khó tìm lời giải thỏa đáng.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/11/29/vovlive_sukienvabanluan_ap_luc_di_cu-29.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 29 Nov 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Tham vọng tăng gấp đôi GDP vào năm 2031 của UAE</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -45,14 +53,6 @@
       <description><![CDATA[Sau một thời gian dài “siết chặt” việc cho vay của ngân hàng với các công ty bất động sản, mới đây Trung Quốc đã có động thái đảo ngược chính sách khi công bố một loạt biện pháp nhằm giải cứu thị trường bất động sản của nước này hiện đang rơi vào tình trạng suy giảm kỷ lục và cạn kiệt thanh khoản. Không giống như các bước đi nhỏ giọt trước đó, gói biện pháp mới bao gồm 16 điểm từ giải quyết cuộc khủng hoảng thanh khoản mà các công ty phát triển bất động sản phải đối mặt, đến nới lỏng các yêu cầu thanh toán đối với người mua nhà trả góp. Liệu đây có phải “liều thuốc” giúp vực dậy lĩnh vực bất động sản ở Trung Quốc?]]></description>
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/11/21/vovlive_sukienvabanluan_ke_hoach_16_diem.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 21 Nov 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Nguồn cung xăng dầu: Liệu có còn căng thẳng?</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Thị trường xăng dầu đã trải qua hơn 2 tháng căng thẳng nguồn cung, chủ yếu đối với mặt hàng xăng phục vụ đi lại của người dân và các hoạt động vận tải, kinh doanh dịch vụ. Trong khi người dân khó mua xăng, phải xếp hàng dài để mua xăng, chưa biết khi nào thị trường mới trở lại bình thường thì trên diễn đàn Quốc hội, việc quản lý xăng dầu đã lộ rõ nhiều bất cập, trong đó nổi lên câu chuyện trách nhiệm... Thủ tướng Chính phủ đã có công điện về việc quản lý, điều hành mặt hàng xăng dầu gửi các Bộ, ngành, địa phương, trong đó chỉ rõ: “Bộ trưởng Bộ Công Thương chịu trách nhiệm toàn diện trước Chính phủ về công tác điều hành thị trường xăng dầu”. Nguồn cung xăng dầu: Liệu có còn căng thẳng?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/11/21/vovlive_sukienvabanluan_nguon_cung_xang_dau_lieu_con_cang_thang.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 21 Nov 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
