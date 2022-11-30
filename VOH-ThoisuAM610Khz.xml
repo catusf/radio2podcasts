@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 30 Nov 2022 00:43:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 30 Nov 2022 12:53:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 30 Nov 2022 00:43:00 +0700</pubDate>
+    <pubDate>Wed, 30 Nov 2022 12:53:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Thủ tướng Phạm Minh Chính tiếp đoàn Giáo hội Phật giáo Việt Nam - Thời sự 5g30 30/11/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/thu-tuong-pham-minh-chinh-tiep-doan-giao-hoi-phat-giao-viet-nam-thoi-su-5g30-30-11-2022-458257.html</link>
+      <description><![CDATA[05:53 - 30/11/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/thu-tuong-pham-minh-chinh-tiep-doan-giao-hoi-phat-giao-viet-nam-thoi-su-5g30-30-11-2022-458257.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/11/30/amthoisu05h30p30112022-20221130045440.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 30 Nov 2022 12:53:00 +0700</pubDate>
+    </item>
     <item>
       <title>Đảm bảo nguồn cung thịt heo cho người dân thành phố - Thời sự 17g00 29/11/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/dam-bao-nguon-cung-thit-heo-cho-nguoi-dan-thanh-pho-thoi-su-17g00-29-11-2022-458218.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/chu-tich-quoc-hoi-roi-ha-noi-len-duong-tham-chinh-thuc-australia-thoi-su-11g00-29-11-2022-458172.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/11/29/amthoisu11h00p29112022-30p30s-20221129104144.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 29 Nov 2022 18:58:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Trí tuệ Việt Nam trong lĩnh vực công nghệ cao - Thời sự 11g00 3/11/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tri-tue-viet-nam-trong-linh-vuc-cong-nghe-cao-thoi-su-11g00-3-11-2022-458171.html</link>
-      <description><![CDATA[11:00 - 03/11/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tri-tue-viet-nam-trong-linh-vuc-cong-nghe-cao-thoi-su-11g00-3-11-2022-458171.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/11/29/AMThoisu11h00p031122-20221103103746.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 03 Nov 2022 18:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
