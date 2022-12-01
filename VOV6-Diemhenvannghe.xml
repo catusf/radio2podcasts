@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 24 Nov 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 01 Dec 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 24 Nov 2022 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 01 Dec 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,8 +24,17 @@
     <itunes:subtitle>Điểm hẹn văn nghệ</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Diemhenvannghe.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>"Thị Lộ Chính Danh": Đi tìm sự chính danh cho Thị Lộ
+ 1/12/2022</title>
+      <link>http://vov6.vov.vn/diem-hen-van-nghe/thi-lo-chinh-danh-di-tim-su-chinh-danh-cho-thi-lo-c158-34892.aspx</link>
+      <description><![CDATA[Vừa qua, tại Hà Nội, Công ty cổ phần Sách và truyền thông San Hô (San Hô Books) phối hợp với NXB Thanh Niên tổ chức ra mắt tiểu thuyết lịch sử Thị Lộ Chính Danh phiên bản mới của nhà văn Võ Khắc Nghiêm.  Buổi ra mắt sách diễn ra trong không khí ấm cúng, chân tình như một nghĩa cử đẹp, một lời tri ân đến nhà văn vừa rời xa chúng ta chưa lâu:]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/thi-lo-chinh-danh-di-tim-su-chinh-danh-cho-thi-lo-c158-34892.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2022_12/gts_thi_lo_chinh_danh_hc_112202215.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 01 Dec 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Hồi ký "Trăm năm cũng từ đây" - Trọn vẹn nghĩa tình
- 24/11/2022</title>
+  24/11/2022</title>
       <link>http://vov6.vov.vn/diem-hen-van-nghe/hoi-ky-tram-nam-cung-tu-day-tron-ven-nghia-tinh-c158-34873.aspx</link>
       <description><![CDATA[Nhân kỷ niệm 40 năm Ngày Nhà giáo Việt Nam vừa qua, NXB Văn học đã phối hợp với Ban Liên lạc Hội Cựu sinh viên Khoa Ngữ văn, Trường Đại học Tổng hợp Hà Nội (nay là Khoa Văn học, Đại học Khoa học xã hội và Nhân văn, Đại học Quốc gia Hà Nội) tổ chức Lễ ra mắt cuốn hồi ký "Trăm năm cũng từ đây" của GS.TS Nguyễn Huy Hoàng. Xuyên suốt tập hồi ký, tác giả Nguyễn Huy Hoàng kể lại những dấu ấn, ký ức về các thầy cô, những người đồng môn, khu giảng đường và tinh thần Văn khoa một thời.	Sự kiện ra mắt sách trong tháng Hiến chương các Nhà giáo chính là lời tri ân chân thành và sâu sắc nhất mà Nhà xuất bản Văn học, Ban Liên lạc Hội Cựu sinh viên Ngữ Văn Đại học Tổng hợp và tác giả Nguyễn Huy Hoàng muốn gửi đến các thầy cô trong sự nghiệp “trồng người” nói chung và các thế hệ nhà giáo Văn khoa nói riêng. PV Thúy Quỳnh tham gia Lễ ra mắt có một vài ghi nhận.]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/hoi-ky-tram-nam-cung-tu-day-tron-ven-nghia-tinh-c158-34873.aspx</guid>
@@ -39,14 +48,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/pgs-ts-bui-hoai-son-tinh-than-cua-hoi-nghi-van-hoa-toan-quoc-da-lan-toa-den-cac-c158-34866.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2022_11/pv_pgs-ts_bui_hoai_son_2111202210.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 21 Nov 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>"Ngoan cường vượt định kiến" - Để nữ quyền không đáng sợ  11/11/2022</title>
-      <link>http://vov6.vov.vn/diem-hen-van-nghe/ngoan-cuong-vuot-dinh-kien-de-nu-quyen-khong-dang-so-c158-34850.aspx</link>
-      <description><![CDATA[Chimamanda Ngozi Adichie là nữ nhà văn nổi tiếng người Nigêria. Vào năm 2007, cô đã chiến thắng Giải Orange, giải văn học viết bằng tiếng Anh dành cho nữ với tác phẩm “Nửa mặt trời vàng”, trở thành nữ nhà văn trẻ nhất từng giành được giải thưởng này. Tác phẩm của Chimamanda Ngozi Adichie chưa được giới thiệu nhiều ở nước ta. Cuốn sách mới nhất của cô được chuyển ngữ sang tiếng Việt là cuốn “Ngoan cường vượt định kiến” do dịch giả Đỗ Ái Nhi dịch, NXB Thanh niên và BeBooks ấn hành. Cuốn sách mỏng này có gì thú vị? Chúng ta cùng bước vào thế giới của “Ngoan cường vượt định kiến” qua bài viết của BTV Nguyễn Hà.]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/ngoan-cuong-vuot-dinh-kien-de-nu-quyen-khong-dang-so-c158-34850.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2022_11/gts_ngoan_cuong_hc_111120228.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 11 Nov 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
