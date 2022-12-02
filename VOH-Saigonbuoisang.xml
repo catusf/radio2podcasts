@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 01 Dec 2022 14:08:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 02 Dec 2022 14:45:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 01 Dec 2022 14:08:00 +0700</pubDate>
+    <pubDate>Fri, 02 Dec 2022 14:45:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Đại hội Thể thao toàn quốc lần thứ 9 - Sài Gòn buổi sáng 2/12/2022</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/dai-hoi-the-thao-toan-quoc-lan-thu-9-sai-gon-buoi-sang-2-12-2022-458563.html</link>
+      <description><![CDATA[07:45 - 02/12/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/dai-hoi-the-thao-toan-quoc-lan-thu-9-sai-gon-buoi-sang-2-12-2022-458563.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/12/02/fmsgbs06h00p021222-20221202070051.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 02 Dec 2022 14:45:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Các mặt hàng nông sản của Việt Nam tiếp cận thị trường thế giới - Sài Gòn buổi sáng 1/12/2022</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/cac-mat-hang-nong-san-cua-viet-nam-tiep-can-thi-truong-the-gioi-sai-gon-buoi-sang-1-12-2022-458474.html</link>
       <description><![CDATA[07:08 - 01/12/2022]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/cac-mat-hang-nong-san-cua-viet-nam-tiep-can-thi-truong-the-gioi-sai-gon-buoi-sang-1-12-2022-458474.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/12/01/fmsgbs06h00p011222-20221201142036.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 01 Dec 2022 14:08:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Tăng cường phòng bệnh thời điểm giao mùa - Sài Gòn buổi sáng 30/11/2022</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/tang-cuong-phong-benh-thoi-diem-giao-mua-sai-gon-buoi-sang-30-11-2022-458269.html</link>
-      <description><![CDATA[08:23 - 30/11/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/tang-cuong-phong-benh-thoi-diem-giao-mua-sai-gon-buoi-sang-30-11-2022-458269.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/11/30/fmsgbs06h00p301122-20221130070146.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 30 Nov 2022 15:23:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
