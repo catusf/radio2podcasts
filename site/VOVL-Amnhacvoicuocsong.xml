@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 20 Nov 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 27 Nov 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 20 Nov 2022 19:00:00 +0700</pubDate>
+    <pubDate>Sun, 27 Nov 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,15 @@
     </itunes:owner>
     <itunes:subtitle>Âm nhạc với cuộc sống</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Amnhacvoicuocsong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>“Tình Bác ấm biển Đông”: Những cung bậc cảm xúc ý nghĩa và tự hào về Chủ tịch Hồ Chí Minh với khát vọng giải phóng quê hương</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[- Thưởng thức “Tình Bác ấm biển Đông” (Nhạc sĩ Ngọc Thịnh, Tác giả thơ: Hữu Chung, Trình bày: NSƯT Đăng Dương) - tác phẩm âm nhạc với âm hưởng dân ca Miền Trung kết tinh từ những tình cảm trong trái tim của tác giả thơ, trái tim người nhạc sĩ dành cho Chủ tịch Hồ Chí Minh kính yêu và lắng nghe những chia sẻ của tác giả thơ về hoàn cảnh ra đời của bài thơ cũng như cơ duyên gặp gỡ giữa nhạc và thơ của tác phẩm âm nhạc này… 
+- Khám phá tác phẩm âm nhạc Hành khúc Thổ Nhĩ Kỳ của nhà soạn nhạc thiên tài người Áo Mozart.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/11/28/vovlive_am_nhac_voi_cuoc_song_tinh_bac_am_bien_dong.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 27 Nov 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Những ca khúc ngợi ca hình ảnh người giáo viên nhân dân những năm tháng kháng chiến chống Mỹ cứu nước và đi lên xây dựng cuộc sống mới tại miền Bắc</title>
       <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
@@ -48,15 +57,6 @@ Gần đây nghệ sĩ Đào Tố Loan và nghệ sĩ Trịnh Minh Trang đã mu
       <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/11/07/vovlive_am_nhac_voi_cuoc_song_doi_canh_tinh_yeu.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 06 Nov 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đề tài lạc quan, hài hước của người lính trong những tác phẩm âm nhạc</title>
-      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[- Thưởng thức ca khúc “Niềm vui của anh quân bưu” (Nhạc sĩ Vũ Trọng Hối)
-- Thưởng thức liên khúc: Những cô gái tân binh (Nhạc sĩ Hoàng Thành), Lính binh nhì (Nhạc sĩ Trương Ngọc Ninh), Làng lính trên đảo (Nhạc sĩ Doãn Nho), Tình ca anh lính chưa yêu (Nhạc sĩ Nguyễn Cường), ca khúc Guitar lính (Nhạc sĩ An Hiếu) và lắng nghe những chia sẻ về đề tài lạc quan, hài hước của những người lính trong âm nhạc của các nhạc sĩ: Nhạc sĩ – Đại tá Doãn Nho, NSƯT – Đại tá Dương Minh Đức, Nhạc sĩ – Đại tá Nguyễn Xuân Thủy, Hiệu trưởng trường Đại học Văn hóa Nghệ thuật Quân đội…]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/11/01/vovlive_am_nhac_voi_cuoc_song_de_tai_lac_quan_trong_am_nhac.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 30 Oct 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
