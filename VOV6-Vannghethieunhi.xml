@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 05 Dec 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 06 Dec 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 05 Dec 2022 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 06 Dec 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Văn nghệ thiếu nhi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Vannghethieunhi.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Đọc truyện “Tháng mười một ở thung lũng Mumi” - Buổi thứ chín - Lá thư  5/12/2022</title>
+      <title>Ngữ văn lớp 11: Ôn tập văn học Việt Nam từ đầu thế kỷ 20 (tiếp theo) 6/12/2022</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/ngu-van-lop-11-on-tap-van-hoc-viet-nam-tu-dau-the-ky-20-tiep-theo-c44-34899.aspx</link>
+      <description><![CDATA[Lần trước chúng ta đã cùng nhau ôn lại bài học trong sách Ngữ văn 11 “Văn học Việt Nam từ đầu thế kỷ XX đến cách mạng tháng 8 năm 1945” với nội dung là bộ phận văn học công khai, còn gọi là hợp pháp. Một nội dung nữa đó là bộ phận văn học không công khai, còn gọi là bất hợp pháp, là những sáng tác chủ yếu của các chí sĩ yêu nước trong tù. Chúng mình cùng nhau ôn tiếp nhé... (Văn nghệ thiếu nhi 05/12/2022)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/ngu-van-lop-11-on-tap-van-hoc-viet-nam-tu-dau-the-ky-20-tiep-theo-c44-34899.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2022_12/v2_0512_10h4518h15_van_nghe_thieu_nhi_61220229.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 06 Dec 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Đọc truyện “Tháng mười một ở thung lũng Mumi” - Buổi thứ chín - Lá thư   5/12/2022</title>
       <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-thang-muoi-mot-o-thung-lung-mumi-buoi-thu-chin-la-thu-c44-34898.aspx</link>
       <description><![CDATA[Khi thấy lão Hemuli viết một tấm bảng có dòng chữ “Thung lũng Mumi” bằng phẩm màu đỏ sậm, Muikunen chợt nhớ ra một thứ rất quan trọng. Đó chính là lá thư từ biệt của Mumi, cậu vội đi khắp nơi trong nhà để tìm lá thư... (Văn nghệ thiếu nhi 27/11/2022)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-thang-muoi-mot-o-thung-lung-mumi-buoi-thu-chin-la-thu-c44-34898.aspx</guid>
@@ -37,14 +45,6 @@
       <description><![CDATA[Sáng hôm sau, Muikunen và lão Hemuli quyết định ra bờ biển để tìm thuyền của Mumi bố. Nhưng hai người không thấy chiếc thuyền nào mà chỉ có một đống rác bị sóng biển đánh lên bờ. Hai người có phát hiện ra điều gì thú vị gì bên bờ biển hay không? (Văn nghệ thiếu nhi 26/11/2022)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-thang-muoi-mot-o-thung-lung-mumi-buoi-thu-tam-cuoc-tim-kiem-c44-34897.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2022_12/v2_2611_10h4518h15_van_nghe_thieu_nhi_2_512202216.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 05 Dec 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đọc truyện “Tháng mười một ở thung lũng Mumi” - Buổi thứ bảy - Món dưa muối  5/12/2022</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-thang-muoi-mot-o-thung-lung-mumi-buoi-thu-bay-mon-dua-muoi-c44-34896.aspx</link>
-      <description><![CDATA[Bà Vilijonka hậm hực với cái bụng đói trở về nghỉ tại căn phòng áp mái của gia đình Mumi. Nửa đêm, lão Khốt đang nằm trên ghế sofa ở phòng khách thì nghe thấy ai đó đang lẻn vào phòng bếp. Lão Khốt giật cửa phòng bếp thì thấy cô bé Muymeli đang ăn dưa muối... (Văn nghệ thiếu nhi 25/11/2022)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-thang-muoi-mot-o-thung-lung-mumi-buoi-thu-bay-mon-dua-muoi-c44-34896.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2022_12/v2_2511_10h4518h15_van_nghe_thieu_nhi_2_512202212.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 05 Dec 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
