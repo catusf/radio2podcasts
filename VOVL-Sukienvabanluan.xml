@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 05 Dec 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 06 Dec 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 05 Dec 2022 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 06 Dec 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Câu chuyện thành công của gạo Campuchia khi nhiều năm giành giải “Gạo ngon nhất thế giới”</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Năm nay, một lần nữa hạt gạo Campuchia lại được tôn vinh ở vị trí cao nhất trong cuộc thi Gạo ngon nhất thế giới năm 2022 tổ chức mới đây tại Thái Lan. Trước đó trong nhiều năm, gạo Campuchia cũng đã xuất sắc giành vị trí cao nhất này. Vậy bí quyết sản xuất ra những hạt gạo ngon nhất của Campuchia là gì? Kinh nghiệm nào cho các nước có ngành sản xuất lúa gạo phát triển như Việt Nam, Thái Lan?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/12/06/vovlive_sukienvabanluan_cau_chuyen_hat_gao_campuchia.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 06 Dec 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Gazprom đầu tư lớn để chuyển hướng dòng chảy khí đốt</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/12/01/vovlive_sukienvabanluan_philippines_phat_dong_chien_dich_chong_ma_tuy_moi.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 01 Dec 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Áp lực di cư: Châu Âu rơi vào khủng hoảng kép?</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Cuộc khủng hoảng di cư đang nóng trở lại tại châu Âu khi dòng người kéo đến đây tăng cao kỷ lục và những căng thẳng mới giữa các nước thành viên Liên minh châu Âu (EU) về vấn đề này bùng phát. Đáng nói, việc châu Âu phải chứng kiến lượng người nhập cư ngày càng gia tăng trong bối cảnh các quốc gia ở châu lục này cùng lúc đối mặt với nhiều khó khăn về kinh tế càng khiến khủng hoảng thêm trầm trọng và trở thành bài toán ngày càng khó tìm lời giải thỏa đáng.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/11/29/vovlive_sukienvabanluan_ap_luc_di_cu-29.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 29 Nov 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
