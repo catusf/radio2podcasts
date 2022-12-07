@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 06 Dec 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 07 Dec 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 06 Dec 2022 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 07 Dec 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Vai trò của thanh niên trong khởi nghiệp, sáng tạo</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Thanh niên luôn là một trong những lực lượng xung kích quan trọng để bảo vệ và xây dựng đất nước. Với tinh thần tuổi trẻ luôn phải dẫn đầu trong lao động, sáng tạo, trong học tập, nghiên cứu khoa học, ứng dụng thực tiễn, thời gian qua, chúng ta đã được chứng kiến không ít thành công của nhiều thanh niên thế hệ mới, nhạy bén sẵn sàng làm chủ cơ hội và tự tin trước những thách thức mới, vững vàng trong lập thân, khởi nghiệp và kiến tạo xã hội. Tuy vậy, để thanh niên trở thành đội ngũ tiên phong trong phong trào khởi nghiệp, đổi mới sáng tạo cần có thêm nhiều chính sách đồng hành và hỗ trợ thanh niên.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/12/07/vovlive_sukienvabanluan_vai_tro_cua_thanh_nien_trong_khoi_nghiep_sang_tao11111.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 07 Dec 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Câu chuyện thành công của gạo Campuchia khi nhiều năm giành giải “Gạo ngon nhất thế giới”</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/12/02/vovlive_sukienvabinhluan_giu_chan_nhan_vien_chuyen_trach_bao_ve_rung_kiem_lam_truoc_lan_song_nghi_viec.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 02 Dec 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Philippines phát động chiến dịch chống ma túy mới</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Sau chiến dịch chống ma túy gây tranh cãi của người tiền nhiệm Rodrigo Duterte, chính quyền mới của Tổng thống Philipines Ferdinand Marcos mới đây chính thức phát động một chiến dịch chống ma túy mới tại nước này. Đâu là những điểm khác biệt của chiến dịch chống ma túy mới của Phlippines?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/12/01/vovlive_sukienvabanluan_philippines_phat_dong_chien_dich_chong_ma_tuy_moi.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 01 Dec 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
