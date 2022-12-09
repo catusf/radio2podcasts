@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 21 Nov 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 08 Dec 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 21 Nov 2022 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 08 Dec 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,15 @@
     </itunes:owner>
     <itunes:subtitle>Thể thao 7 ngày</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Thethao7ngay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Chương trình thể thao 7 ngày 03 tháng 12 năm 2022</title>
+      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
+      <description><![CDATA[- Vòng đấu bảng World Cup 2022 đã chứng kiến những trận đấu đầy bất ngờ và kịch tính. 16 đội bóng mạnh nhất đã vào vòng đấu loại trực tiếp. Đội nào sẽ dành vé vào tứ kết? Đội nào phải ngậm ngùi chia tay giải đấu lớn nhất hành tinh? 
+- Gặp gỡ cặp vận động viên sport Aerobic hàng đầu Việt Nam - Lê Hoàng Phong và Trần Ngọc Thúy Vy - hai vận động viên đã góp công lớn khi mang về tấm huy chương vàng lịch sử cho Aerobic Việt Nam tại giải thế giới.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/12/08/vovlive_thethao7ngay_chuongtrinhthethao7ngay3122022.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 08 Dec 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Chương trình thể thao 7 ngày 19 tháng 11 năm 2022</title>
       <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
@@ -53,15 +62,6 @@
       <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/11/07/vovlive_thethao7ngay_chuongtrinhthethao7ngay5112022.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 07 Nov 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chương trình thể thao 7 ngày 29 tháng 10 năm 2022</title>
-      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
-      <description><![CDATA[- Sau vòng 21 giải vô địch quốc gia V-league 2022 đang chứng kiến những cuộc đua kịch tính ở cả hai đầu bảng xếp hạng. Mặc dù V-league 2022 chỉ còn ít vòng nữa sẽ hạ màn, nhưng tới thời điểm này vẫn còn tới 4 đội có khả năng cạnh tranh ngôi vương. Trong khi đó ở phía cuối bàng xếp hạng có tới 7 câu lạc bộ sẽ phải quyết đấu trong cuộc chiến trụ hạng. 
-- Sự cần thiết của dinh dưỡng trong luyện tập thể thao.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/10/31/vovlive_thethao7ngay_chuongtrinhthethao7ngay29102022.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 31 Oct 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
