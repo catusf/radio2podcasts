@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 08 Dec 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 09 Dec 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 08 Dec 2022 19:00:00 +0700</pubDate>
+    <pubDate>Fri, 09 Dec 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ngân hàng nới chỉ tiêu tăng trưởng tín dụng – tập trung nguồn vốn hỗ trợ sản xuất, kinh doanh</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Sau rất nhiều sức ép phải hoàn thành các chỉ tiêu tăng trưởng kinh tế, nhu cầu vốn của các doanh nghiệp và người dân cuối năm gây áp lực lên chính các ngân hàng. Ngân hàng Nhà nước đã quyết định nâng chỉ tiêu tín dụng (nới room), nghĩa là điều chỉnh chỉ tiêu tăng trưởng 1,5-2% cho toàn hệ thống, tương đương có 157 nghìn tỷ đồng được đưa vào lưu thông. Dòng vốn này được cho là sẽ góp phần giải tỏa một phần nhu cầu vốn cuối năm của doanh nghiệp và người dân, hỗ trợ doanh nghiệp duy trì, phục hồi và phát triển sản xuất - kinh doanh, ổn định thị trường và ổn định kinh tế vĩ mô, thúc đẩy tăng trưởng cuối năm và đầu năm tới.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/12/09/vovlive_sukienvabanluan_ngan_hang_noi_chi_tieu_tang_truong_tin_dung-99999.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 09 Dec 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Thái Lan siết chặt quản lý việc người nước ngoài sở hữu đất đai</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/12/06/vovlive_sukienvabanluan_cau_chuyen_hat_gao_campuchia.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 06 Dec 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Gazprom đầu tư lớn để chuyển hướng dòng chảy khí đốt</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Tập đoàn Năng lượng Gazprom của Nga vừa công bố gói đầu tư trị giá tới 2.300 tỷ ruble, tương đương 35 tỷ USD để xây dựng đường ống khí đốt mới hướng sang khu vực châu Á. Đây là khoản đầu tư lớn nhất trong vòng gần 10 năm qua của Gazprom cho thấy thay đổi chiến lược của Nga trong việc điều hướng dòng chảy khí đốt trên thị trường quốc tế khi khả năng hàn gắn mối liên kết về năng lượng giữa Nga và châu Âu là rất thấp.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/12/05/vovlive_sukienvabanluan_gazprom-_dau_tu_lon_de-chuyen_huong.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 05 Dec 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

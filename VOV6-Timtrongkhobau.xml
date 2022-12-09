@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 18 Nov 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 09 Dec 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 18 Nov 2022 19:00:00 +0700</pubDate>
+    <pubDate>Fri, 09 Dec 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,8 +24,16 @@
     <itunes:subtitle>Tìm trong kho báu</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Timtrongkhobau.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Văn học yêu nước – Cần Vương Quảng Ngãi 9/12/2022</title>
+      <link>http://vov6.vov.vn/tim-trong-kho-bau/van-hoc-yeu-nuoc-can-vuong-quang-ngai-c54-34911.aspx</link>
+      <description><![CDATA[Trong dòng văn học yêu nước nửa cuối thế kỷ 19 ở nước ta, vùng đất Quảng Ngãi, nơi tiên phong phất cờ khởi nghĩa Cần Vương nổi lên những tên tuổi tác giả với các trước tác đặc sắc để lại. Chương trình hôm nay tập trung soi tỏ những gương mặt ấy, tiếng thơ ấy.]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/van-hoc-yeu-nuoc-can-vuong-quang-ngai-c54-34911.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2022_12/v2_010512_18h30_tim_trong_kho_bau_912202212.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 09 Dec 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Sáng tác thơ văn của nhà thơ, nhà giáo, nhà yêu nước Phan Văn Trị
- 18/11/2022</title>
+  18/11/2022</title>
       <link>http://vov6.vov.vn/tim-trong-kho-bau/sang-tac-tho-van-cua-nha-tho-nha-giao-nha-yeu-nuoc-phan-van-tri-c54-34864.aspx</link>
       <description><![CDATA[Năm 19 tuổi, nhà thơ, nhà yêu nước Phan Văn Trị thi đậu Cử nhân, cùng khoa với Nguyễn Thông. Sau đó Nguyễn Thông làm quan nhiều nơi, lên đến chức Bố chánh Quảng Ngãi. Về phần Phan Văn Trị, ông chọn cuộc sống thanh đạm, mở lớp dạy học ở làng quê. Tuy rời xa chốn quan trường nhưng tấm lòng Phan Văn Trị vẫn đau đáu trước tình cảnh triều đình nhu nhược, đất nước nguy cơ rơi vào tay thực dân Pháp. Những bài thơ vịnh cảnh, vịnh vật được ông sáng tác nhằm bày tỏ chí hướng, ước muốn giúp đời, cứu dân hoặc để phê phán những người bất tài, hám danh. Đến khi quân Pháp chiếm đóng Nam bộ, ông làm thơ yêu nước, thơ xướng họa có tính chất bút chiến. Có thể nói, thời kỳ nào, Phan Văn Trị cũng dành tâm sức để nói lên sự quan tâm với thế sự, tấm lòng đối với đồng bào, non sông, Tổ quốc]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/sang-tac-tho-van-cua-nha-tho-nha-giao-nha-yeu-nuoc-phan-van-tri-c54-34864.aspx</guid>
@@ -39,14 +47,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/nha-tho-nguyen-thong-va-tam-long-voi-co-huong-c54-34852.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2022_11/v2_101411_18h30_tim_trong_kho_bau_1111202214.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 11 Nov 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Nguyễn Thông: Người thầy phát huy học phong Nam bộ  3/11/2022</title>
-      <link>http://vov6.vov.vn/tim-trong-kho-bau/nguyen-thong-nguoi-thay-phat-huy-hoc-phong-nam-bo-c54-34831.aspx</link>
-      <description><![CDATA[Ở khía cạnh tri thức, nhà thơ, danh sĩ Nguyễn Thông được đánh giá là một người thầy đáng kính, một người làm quản lý giáo dục có nhiều đóng góp về giáo dục ở vùng đất phương Nam. Ông là người tiếp tục phát huy học phong Nam Bộ - một truyền thống học vấn khởi đầu từ nhà giáo Võ Trường Toản, chú trọng ở nghĩa lý, chứ không trọng từ chương, đề cao đạo lý, chú trọng thực thực tiễn và vị đời. Theo PGS.TS Lê Quang Trường, vì gia cảnh nghèo, đường khoa cử lận đận, bước đầu Nguyễn Thông nhận chức Huấn đạo ở huyện Phong Phú, tỉnh An Giang, bắt đầu con đường làm quan của mình từ chức học quan ở một huyện nhỏ. Trải qua một hành trình dài, bằng chính những trải nghiệm của mình, ông không chỉ mong muốn nối dài học phong trọng thực dụng và vị đời ở Nam Bộ mà còn mong muốn được lan toả trong cả nước nhằm chấn chỉnh hiện tượng tầm chương trích cú sáo rỗng thời bấy giờ:]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/nguyen-thong-nguoi-thay-phat-huy-hoc-phong-nam-bo-c54-34831.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/v2_030711_18h30_tim_trong_kho_bau_111120228.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 03 Nov 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
