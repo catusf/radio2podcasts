@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 10 Dec 2022 12:48:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 10 Dec 2022 18:20:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 10 Dec 2022 12:48:00 +0700</pubDate>
+    <pubDate>Sat, 10 Dec 2022 18:20:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>TPHCM và EU: Hợp tác cùng hướng tới phát triển xanh và bền vững - Thời sự 11g00 10/12/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-va-eu-hop-tac-cung-huong-toi-phat-trien-xanh-va-ben-vung-thoi-su-11g00-10-12-2022-459615.html</link>
+      <description><![CDATA[11:20 - 10/12/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-va-eu-hop-tac-cung-huong-toi-phat-trien-xanh-va-ben-vung-thoi-su-11g00-10-12-2022-459615.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/12/10/ts-11h-10-12-20221210102807.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 10 Dec 2022 18:20:00 +0700</pubDate>
+    </item>
     <item>
       <title>Kỳ họp thứ 8 HĐND TPHCM khóa X đã diễn ra phiên bế mạc - Thời sự 5g30 10/12/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/ky-hop-thu-8-hdnd-tphcm-khoa-x-da-dien-ra-phien-be-mac-thoi-su-5g30-10-12-2022-459586.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/cac-so-nganh-quan-huyen-va-thanh-pho-thu-duc-phai-no-luc-nhieu-hon-thoi-su-17g00-9-12-2022-459539.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/12/09/amthoisu17h00p091222-20221209164627.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 10 Dec 2022 00:29:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Người thầy noi gương Bác học tập suốt đời - Thời sự 11g00 9/12/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/nguoi-thay-noi-guong-bac-hoc-tap-suot-doi-thoi-su-11g00-9-12-2022-459485.html</link>
-      <description><![CDATA[10:51 - 09/12/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/nguoi-thay-noi-guong-bac-hoc-tap-suot-doi-thoi-su-11g00-9-12-2022-459485.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/12/09/amthoisu11h00p091222-20221209102858.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 09 Dec 2022 17:51:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
