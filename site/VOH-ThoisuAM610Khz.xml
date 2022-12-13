@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 13 Dec 2022 18:04:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 14 Dec 2022 00:05:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 13 Dec 2022 18:04:00 +0700</pubDate>
+    <pubDate>Wed, 14 Dec 2022 00:05:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ủy ban Thường vụ Quốc hội khai mạc phiên họp thứ 18 - Thời sự 17g00 13/12/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/uy-ban-thuong-vu-quoc-hoi-khai-mac-phien-hop-thu-18-thoi-su-17g00-13-12-2022-460019.html</link>
+      <description><![CDATA[17:05 - 13/12/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/uy-ban-thuong-vu-quoc-hoi-khai-mac-phien-hop-thu-18-thoi-su-17g00-13-12-2022-460019.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/12/13/amthoisu17h00p131222-20221213163326.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 14 Dec 2022 00:05:00 +0700</pubDate>
+    </item>
     <item>
       <title>Nét văn minh của những nữ tiểu thương chợ truyền thống - Thời sự 11g00 13/12/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/net-van-minh-cua-nhung-nu-tieu-thuong-cho-truyen-thong-thoi-su-11g00-13-12-2022-459957.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/phai-chu-y-den-y-dan-long-dan-su-hai-long-cua-nhan-dan-thoi-su-5g30-13-12-2022-459929.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/12/13/amthoisu05h30p13122022-20221213045942.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 13 Dec 2022 12:32:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Nhộn nhịp thị trường hàng hóa Giáng sinh - Thời sự 17g00 12/12/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/nhon-nhip-thi-truong-hang-hoa-giang-sinh-thoi-su-17g00-12-12-2022-459874.html</link>
-      <description><![CDATA[17:21 - 12/12/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/nhon-nhip-thi-truong-hang-hoa-giang-sinh-thoi-su-17g00-12-12-2022-459874.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/12/12/amthoisu17h00p121222-20221212164823.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 13 Dec 2022 00:21:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
