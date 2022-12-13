@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 13 Dec 2022 00:21:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 13 Dec 2022 12:32:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 13 Dec 2022 00:21:00 +0700</pubDate>
+    <pubDate>Tue, 13 Dec 2022 12:32:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>"Phải chú ý đến ý dân, lòng dân, sự hài lòng của Nhân dân" - Thời sự 5g30 13/12/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/phai-chu-y-den-y-dan-long-dan-su-hai-long-cua-nhan-dan-thoi-su-5g30-13-12-2022-459929.html</link>
+      <description><![CDATA[05:32 - 13/12/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/phai-chu-y-den-y-dan-long-dan-su-hai-long-cua-nhan-dan-thoi-su-5g30-13-12-2022-459929.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/12/13/amthoisu05h30p13122022-20221213045942.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 13 Dec 2022 12:32:00 +0700</pubDate>
+    </item>
     <item>
       <title>Nhộn nhịp thị trường hàng hóa Giáng sinh - Thời sự 17g00 12/12/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/nhon-nhip-thi-truong-hang-hoa-giang-sinh-thoi-su-17g00-12-12-2022-459874.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/nganh-thuy-san-hoan-thanh-xuat-sac-ke-hoach-nam-2022-thoi-su-11g00-12-12-2022-459826.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/12/12/amthoisu11h00p121222-20221212103337.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 12 Dec 2022 17:59:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Ngày 31/12/2022 kết thúc sử dụng sổ hộ khẩu, sổ tạm trú giấy - Thời sự 5g30 12/12/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/ngay-31-12-2022-ket-thuc-su-dung-so-ho-khau-so-tam-tru-giay-thoi-su-5g30-12-12-2022-459790.html</link>
-      <description><![CDATA[05:33 - 12/12/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/ngay-31-12-2022-ket-thuc-su-dung-so-ho-khau-so-tam-tru-giay-thoi-su-5g30-12-12-2022-459790.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/12/12/amthoisu05h30p12122022-20221211230937.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 12 Dec 2022 12:33:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
