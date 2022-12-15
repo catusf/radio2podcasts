@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 14 Dec 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 15 Dec 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 14 Dec 2022 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 15 Dec 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Tổng thống Pháp trì hoãn kế hoạch cải cách hưu trí và những tác động!</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Sau rất nhiều tranh cãi trái chiều và làn sóng phản đối mạnh mẽ của các nghiệp đoàn, mới nhất, Tổng thống Pháp Emmanuel Macron cho biết, chính phủ nước này sẽ hoãn việc trình bày các kế hoạch cải cách hưu trí - vốn sẽ đến hạn vào ngày 15/12. Dự kiến, kế hoạch sẽ được công bố cụ thể vào tháng 01 năm tới, sau khi tiến hành thêm các cuộc tham vấn và thương lượng nhằm tìm ra giải pháp khả thi cho kế hoạch tham vọng cải cách hệ thống tốn kém và phức tạp của Pháp. Đây vốn cũng là một cam kết bầu cử quan trọng của ông Macron khi lên nắm quyền năm 2017. Tuy nhiên, dường như mục tiêu này của Tổng thống Macron vẫn đang vấp phải rất nhiều khó khăn và thách thức.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/12/15/vovlive_sukienvabanluan_tong_thong_phap_keu_goi_tri_hoan.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 15 Dec 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Indonesia đẩy mạnh ứng dụng công nghệ trong giảm ùn tắc giao thông</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/12/08/vovlive_sukienvabanluan_thai_lan_siet_chat_quan_ly_nguoi_nuoc_ngoai.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 08 Dec 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Vai trò của thanh niên trong khởi nghiệp, sáng tạo</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Thanh niên luôn là một trong những lực lượng xung kích quan trọng để bảo vệ và xây dựng đất nước. Với tinh thần tuổi trẻ luôn phải dẫn đầu trong lao động, sáng tạo, trong học tập, nghiên cứu khoa học, ứng dụng thực tiễn, thời gian qua, chúng ta đã được chứng kiến không ít thành công của nhiều thanh niên thế hệ mới, nhạy bén sẵn sàng làm chủ cơ hội và tự tin trước những thách thức mới, vững vàng trong lập thân, khởi nghiệp và kiến tạo xã hội. Tuy vậy, để thanh niên trở thành đội ngũ tiên phong trong phong trào khởi nghiệp, đổi mới sáng tạo cần có thêm nhiều chính sách đồng hành và hỗ trợ thanh niên.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/12/07/vovlive_sukienvabanluan_vai_tro_cua_thanh_nien_trong_khoi_nghiep_sang_tao11111.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 07 Dec 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
