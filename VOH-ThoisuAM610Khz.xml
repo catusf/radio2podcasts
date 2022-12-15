@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 15 Dec 2022 18:12:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 16 Dec 2022 00:08:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 15 Dec 2022 18:12:00 +0700</pubDate>
+    <pubDate>Fri, 16 Dec 2022 00:08:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Phát động chiến dịch nhắn tin ủng hộ bệnh nhân ung thư - Thời sự 17g00 15/12/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/phat-dong-chien-dich-nhan-tin-ung-ho-benh-nhan-ung-thu-thoi-su-17g00-15-12-2022-460374.html</link>
+      <description><![CDATA[17:08 - 15/12/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/phat-dong-chien-dich-nhan-tin-ung-ho-benh-nhan-ung-thu-thoi-su-17g00-15-12-2022-460374.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/12/15/amthoisu17h00p151222-20221215164545.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 16 Dec 2022 00:08:00 +0700</pubDate>
+    </item>
     <item>
       <title>Đại hội Đoàn toàn quốc lần XII bước vào phiên làm việc trọng thể - Thời sự 11g00 15/12/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/dai-hoi-doan-toan-quoc-lan-xii-buoc-vao-phien-lam-viec-trong-the-thoi-su-11g00-15-12-2022-460315.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/noi-room-tin-dung-bien-phap-ho-tro-kip-thoi-cho-doanh-nghiep-thoi-su-5g30-15-12-2022-460275.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/12/15/amthoisu05h30p15122022-31p29s-20221215045127.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 15 Dec 2022 12:51:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Lời cảnh báo an toàn thực phẩm học đường - Thời sự 17g00 14/12/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/loi-canh-bao-an-toan-thuc-pham-hoc-duong-thoi-su-17g00-14-12-2022-460211.html</link>
-      <description><![CDATA[17:15 - 14/12/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/loi-canh-bao-an-toan-thuc-pham-hoc-duong-thoi-su-17g00-14-12-2022-460211.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/12/14/amthoisu17h00p141222-20221214163713.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 15 Dec 2022 00:15:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
