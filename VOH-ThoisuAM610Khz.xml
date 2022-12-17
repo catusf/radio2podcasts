@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 17 Dec 2022 18:15:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 18 Dec 2022 00:05:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 17 Dec 2022 18:15:00 +0700</pubDate>
+    <pubDate>Sun, 18 Dec 2022 00:05:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Khai mạc Hội thảo Văn hoá 2022 - Thời sự 17g00 17/12 /2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/khai-mac-hoi-thao-van-hoa-2022-thoi-su-17g00-17-12-2022-460677.html</link>
+      <description><![CDATA[17:05 - 17/12/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/khai-mac-hoi-thao-van-hoa-2022-thoi-su-17g00-17-12-2022-460677.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/12/17/amthoisu17h00p17122022-20221217165103.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 18 Dec 2022 00:05:00 +0700</pubDate>
+    </item>
     <item>
       <title>Đoàn đại biểu cấp cao TPHCM thăm, làm việc tại Vương quốc Campuchia - Thời sự 11g00 17/12/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/doan-dai-bieu-cap-cao-tphcm-tham-lam-viec-tai-vuong-quoc-campuchia-thoi-su-11g00-17-12-2022-460624.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/cong-an-tp-kham-xet-trung-tam-dang-kiem-50-07v-o-quan-binh-tan-thoi-su-5g30-17-12-2022-460586.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/12/17/amthoisu05h30p17122022-20221216223414.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 17 Dec 2022 12:32:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đồng chí Bùi Quang Huy tái đắc cử Bí thư Thứ nhất BCH Trung ương Đoàn Khoá XII - Thời sự 17g00 16/12</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/dong-chi-bui-quang-huy-tai-dac-cu-bi-thu-thu-nhat-bch-trung-uong-doan-khoa-xii-thoi-su-17g00-16-12-460521.html</link>
-      <description><![CDATA[17:06 - 16/12/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/dong-chi-bui-quang-huy-tai-dac-cu-bi-thu-thu-nhat-bch-trung-uong-doan-khoa-xii-thoi-su-17g00-16-12-460521.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/12/16/amthoisu17h00p161222-20221216164649.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 17 Dec 2022 00:06:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
