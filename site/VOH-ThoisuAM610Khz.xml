@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 17 Dec 2022 12:32:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 17 Dec 2022 18:15:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 17 Dec 2022 12:32:00 +0700</pubDate>
+    <pubDate>Sat, 17 Dec 2022 18:15:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Đoàn đại biểu cấp cao TPHCM thăm, làm việc tại Vương quốc Campuchia - Thời sự 11g00 17/12/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/doan-dai-bieu-cap-cao-tphcm-tham-lam-viec-tai-vuong-quoc-campuchia-thoi-su-11g00-17-12-2022-460624.html</link>
+      <description><![CDATA[11:15 - 17/12/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/doan-dai-bieu-cap-cao-tphcm-tham-lam-viec-tai-vuong-quoc-campuchia-thoi-su-11g00-17-12-2022-460624.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/12/17/amthoisu11h00p17122022-29p17s-20221217103328.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 17 Dec 2022 18:15:00 +0700</pubDate>
+    </item>
     <item>
       <title>Công an TP khám xét Trung tâm đăng kiểm 50-07V ở quận Bình Tân - Thời sự 5g30 17/12/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/cong-an-tp-kham-xet-trung-tam-dang-kiem-50-07v-o-quan-binh-tan-thoi-su-5g30-17-12-2022-460586.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/dong-chi-bui-quang-huy-tai-dac-cu-bi-thu-thu-nhat-bch-trung-uong-doan-khoa-xii-thoi-su-17g00-16-12-460521.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/12/16/amthoisu17h00p161222-20221216164649.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 17 Dec 2022 00:06:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Thủ tướng Phạm Minh Chính thăm Trung tâm IMEC - Thời sự 11g00 16/12/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/thu-tuong-pham-minh-chinh-tham-trung-tam-imec-thoi-su-11g00-16-12-2022-460467.html</link>
-      <description><![CDATA[11:11 - 16/12/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/thu-tuong-pham-minh-chinh-tham-trung-tam-imec-thoi-su-11g00-16-12-2022-460467.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/12/16/amthoisu11h00p161222-20221216102901.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 16 Dec 2022 18:11:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
