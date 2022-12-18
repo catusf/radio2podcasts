@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 12 Dec 2022 03:01:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 18 Dec 2022 15:52:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 12 Dec 2022 03:01:00 +0700</pubDate>
+    <pubDate>Sun, 18 Dec 2022 15:52:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Cửa sổ văn học trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Cuasovanhoc.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Hội nhà văn công bố giải thưởng "Những hy sinh thầm lặng" - Cửa sổ văn học 18/12/2022</title>
+      <link>https://radio.voh.com.vn/cua-so-van-hoc/hoi-nha-van-cong-bo-giai-thuong-nhung-hy-sinh-tham-lang-cua-so-van-hoc-18-12-2022-460562.html</link>
+      <description><![CDATA[08:52 - 18/12/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/hoi-nha-van-cong-bo-giai-thuong-nhung-hy-sinh-tham-lang-cua-so-van-hoc-18-12-2022-460562.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/12/16/fmcuasovanhoc07h00p181222-20221216182227.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 18 Dec 2022 15:52:00 +0700</pubDate>
+    </item>
     <item>
       <title>Đông A tổ chức tọa đàm "Trăm năm Nobel" - Cửa sổ văn học 11/12/2022</title>
       <link>https://radio.voh.com.vn/cua-so-van-hoc/dong-a-to-chuc-toa-dam-tram-nam-nobel-cua-so-van-hoc-11-12-2022-459682.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/hanh-trinh-tu-than-hanh-trinh-cua-nhung-phan-nguoi-cua-so-van-hoc-4-12-2022-458782.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/12/03/fmcuasovanhoc07h00p041222-20221203184332.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 05 Dec 2022 02:23:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Tiểu thuyết "Hồ sơ lửa" nhận kỷ lục Việt Nam - Cửa sổ văn học 27/11/2022</title>
-      <link>https://radio.voh.com.vn/cua-so-van-hoc/tieu-thuyet-ho-so-lua-nhan-ky-luc-viet-nam-cua-so-van-hoc-27-11-2022-457838.html</link>
-      <description><![CDATA[18:58 - 27/11/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/tieu-thuyet-ho-so-lua-nhan-ky-luc-viet-nam-cua-so-van-hoc-27-11-2022-457838.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/11/26/fmcuasovanhoc07h00p271122-20221126185846.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 28 Nov 2022 01:58:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
