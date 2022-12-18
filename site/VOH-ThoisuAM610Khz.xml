@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 18 Dec 2022 12:33:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 18 Dec 2022 18:16:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 18 Dec 2022 12:33:00 +0700</pubDate>
+    <pubDate>Sun, 18 Dec 2022 18:16:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Hà Nội–Điện Biên Phủ trên không: Bản hùng ca bất diệt - Thời sự 11g00 18/12/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/ha-noi-dien-bien-phu-tren-khong-ban-hung-ca-bat-diet-thoi-su-11g00-18-12-2022-460750.html</link>
+      <description><![CDATA[11:16 - 18/12/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/ha-noi-dien-bien-phu-tren-khong-ban-hung-ca-bat-diet-thoi-su-11g00-18-12-2022-460750.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/12/18/amthoisu11h00p18122022-20221218103901.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 18 Dec 2022 18:16:00 +0700</pubDate>
+    </item>
     <item>
       <title>TPHCM gặp gỡ lắng nghe kiến nghị của doanh nghiệp nhà nước - Thời sự 5g30 18/12/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-gap-go-lang-nghe-kien-nghi-cua-doanh-nghiep-nha-nuoc-thoi-su-5g30-18-12-2022-460727.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/khai-mac-hoi-thao-van-hoa-2022-thoi-su-17g00-17-12-2022-460677.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/12/17/amthoisu17h00p17122022-20221217165103.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 18 Dec 2022 00:05:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đoàn đại biểu cấp cao TPHCM thăm, làm việc tại Vương quốc Campuchia - Thời sự 11g00 17/12/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/doan-dai-bieu-cap-cao-tphcm-tham-lam-viec-tai-vuong-quoc-campuchia-thoi-su-11g00-17-12-2022-460624.html</link>
-      <description><![CDATA[11:15 - 17/12/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/doan-dai-bieu-cap-cao-tphcm-tham-lam-viec-tai-vuong-quoc-campuchia-thoi-su-11g00-17-12-2022-460624.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/12/17/amthoisu11h00p17122022-29p17s-20221217103328.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 17 Dec 2022 18:15:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
