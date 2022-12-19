@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 18 Dec 2022 14:27:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 19 Dec 2022 14:59:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 18 Dec 2022 14:27:00 +0700</pubDate>
+    <pubDate>Mon, 19 Dec 2022 14:59:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Về nhà là Tết - Sài Gòn buổi sáng 19/12/2022</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/ve-nha-la-tet-sai-gon-buoi-sang-19-12-2022-460843.html</link>
+      <description><![CDATA[07:59 - 19/12/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/ve-nha-la-tet-sai-gon-buoi-sang-19-12-2022-460843.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/12/19/fmsgbs06h00p191222lan2-20221219073448.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 19 Dec 2022 14:59:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Vở kịch "Dạ cổ hoài lang" được chuyển thể sang cải lương - Sài Gòn buổi sáng 18/12/2022</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/vo-kich-da-co-hoai-lang-duoc-chuyen-the-sang-cai-luong-sai-gon-buoi-sang-18-12-2022-460726.html</link>
       <description><![CDATA[07:27 - 18/12/2022]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/vo-kich-da-co-hoai-lang-duoc-chuyen-the-sang-cai-luong-sai-gon-buoi-sang-18-12-2022-460726.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/12/18/sgbstcct-18122022-hoan-chinh-20221217235631.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 18 Dec 2022 14:27:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Triển lãm Thi - Họa "Nồng nàn mùa xanh" - Sài Gòn buổi sáng 17/12/2022</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/trien-lam-thi-hoa-nong-nan-mua-xanh-sai-gon-buoi-sang-17-12-2022-460604.html</link>
-      <description><![CDATA[08:58 - 17/12/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/trien-lam-thi-hoa-nong-nan-mua-xanh-sai-gon-buoi-sang-17-12-2022-460604.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/12/17/sgbs-tap-chi-cuoi-tuan-17122022-20221216224742.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 17 Dec 2022 15:58:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
