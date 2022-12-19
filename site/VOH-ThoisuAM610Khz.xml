@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 19 Dec 2022 18:08:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 20 Dec 2022 00:04:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 19 Dec 2022 18:08:00 +0700</pubDate>
+    <pubDate>Tue, 20 Dec 2022 00:04:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Người dân đồng tình ủng hộ thực hiện Dự án đường Vành đai 3 - Thời sự 17g00 19/12/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/nguoi-dan-dong-tinh-ung-ho-thuc-hien-du-an-duong-vanh-dai-3-thoi-su-17g00-19-12-2022-460915.html</link>
+      <description><![CDATA[17:04 - 19/12/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/nguoi-dan-dong-tinh-ung-ho-thuc-hien-du-an-duong-vanh-dai-3-thoi-su-17g00-19-12-2022-460915.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/12/19/amthoisu17h00p19122022-20221219164337.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Dec 2022 00:04:00 +0700</pubDate>
+    </item>
     <item>
       <title>Nhà khoa học trẻ đưa công nghệ AI chẩn đoán X-quang phổi về Việt Nam - Thời sự 11g00 19/12/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/nha-khoa-hoc-tre-dua-cong-nghe-ai-chan-doan-x-quang-phoi-ve-viet-nam-thoi-su-11g00-19-12-2022-460868.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/khat-vong-cong-hien-le-song-thanh-nien-thoi-su-5g30-19-12-2022-460830.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/12/19/amthoisu05h30p19122022-20221219012322.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 19 Dec 2022 12:34:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đêm nhạc Rộn ràng xuân - Thời sự 17g00 18/12 /2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/dem-nhac-ron-rang-xuan-thoi-su-17g00-18-12-2022-460799.html</link>
-      <description><![CDATA[17:07 - 18/12/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/dem-nhac-ron-rang-xuan-thoi-su-17g00-18-12-2022-460799.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/12/18/amthoisu17h00p18122022-20221218164949.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 19 Dec 2022 00:07:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

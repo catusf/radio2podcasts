@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 08 Dec 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 19 Dec 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 08 Dec 2022 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 19 Dec 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,25 @@
     </itunes:owner>
     <itunes:subtitle>Thể thao 7 ngày</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Thethao7ngay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Chương trình thể thao 7 ngày 17 tháng 12 năm 2022</title>
+      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
+      <description><![CDATA[- Chung kết Wolrd Cup 2022 tại Qatar không chỉ quyết định xem Argentina hay Pháp lên ngôi vương, mà còn là cuộc cạnh tranh quyết liệt giải thưởng cá nhân giữa Messi và Mbappe. Liệu Messi và các đồng đội có thể thực hiện hóa giấc mơ nâng cao chiếc cup vô địch?
+- Sự phát triển của phong trào tennis.
+- Những lưu ý về bơi lội trong mùa đông.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/12/19/vovlive_thethao7ngay_chuongtrinhthethao7ngay17122022.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 19 Dec 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Chương trình thể thao 7 ngày 10 tháng 12 năm 2022</title>
+      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
+      <description><![CDATA[- AFF Cup 2022 đang đến rất gần và đội tuyển Việt Nam cũng vừa trải qua một tuần rèn thể lực và chiến thuật trong điều kiện thời tiết lý tưởng tại thành phố biển Vũng Tàu. Thầy trò huấn luyện viên Park Hang Seo trở lại Hà Nội vào ngày 10/12, có thêm 4 ngày tập luyện trước khi bước vào trận giao hữu với đội khách Philipiness trên sân Hàng Đẫy. Đây cũng chính là cuộc tổng duyệt để ban huấn luyện tiến hành chốt danh sách cầu thủ dự giải vô địch Đông Nam Á năm nay. Huấn luyện viên Park Hang Seo tiết lộ điều gì về chiến thuật và tiêu chí chọn người, các cầu thủ đặt quyết tâm như thế nào cho trận đấu này?
+- Cổ động viên bóng đá Việt Nam chia sẻ về tình cảm dành cho huấn luyện viên Park Hang Seo, cũng như kỳ vọng chiến dịch lấy lại ngôi vuơng khu vực sắp tới.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/12/19/vovlive_thethao7ngay_chuongtrinhthethao7ngay10122022.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 19 Dec 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Chương trình thể thao 7 ngày 03 tháng 12 năm 2022</title>
       <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
@@ -41,27 +60,6 @@
       <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/11/21/vovlive_thethao7ngay_chuongtrinhthethao7ngay19112022.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 21 Nov 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chương trình thể thao 7 ngày 12 tháng 11 năm 2022</title>
-      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
-      <description><![CDATA[- Chỉ còn 1 tuần nữa, ngày hội bóng đá lớn nhất hành tinh World Cup 2022 sẽ chính thức khai màn. Đến thời điểm này, nước chủ nhà Qatar đã sẵn sàng để tổ chức một kỳ World Cup đặc biệt trong lịch sử túc cầu.
-- Người hâm mộ toàn cầu sục sôi chờ World Cup 
-- Những lưu ý khi tới Qatar tham dự ngày hội bóng đá lớn nhất hành tinh.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/11/14/vovlive_thethao7ngay_chuongtrinhthethao7ngay12112022.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 14 Nov 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chương trình thể thao 7 ngày 5 tháng 11 năm 2022</title>
-      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
-      <description><![CDATA[- Bàn về Hợp đồng bản quyền truyền hình lớn nhất từ trước đến nay của V-leagua cũng như hai cột mốc lịch sử khác: Kế hoạch triển khai VA và điều chỉnh lịch thi đấu đồng bộ hóa với Châu Á. 
-- Góc nhìn của báo giới về đại hội VFF khóa 9. 
-- Hành trang cần thiết khi lên đường sang Quatar dịp WC 2022 qua cuộc trao đổi với phóng viên Chí Công ở Tạp chí bóng đá.
-- Các giải thể thao dành cho đối tượng công chức, viên chức vừa diễn ra đầy sôi động trong những ngày qua tại Hà Nội.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/11/07/vovlive_thethao7ngay_chuongtrinhthethao7ngay5112022.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 07 Nov 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
