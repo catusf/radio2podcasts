@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 20 Dec 2022 18:08:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 21 Dec 2022 00:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 20 Dec 2022 18:08:00 +0700</pubDate>
+    <pubDate>Wed, 21 Dec 2022 00:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Bẫy “hoa hồng” trên không gian mạng - Thời sự 17g00 20/12 /2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/bay-hoa-hong-tren-khong-gian-mang-thoi-su-17g00-20-12-2022-461044.html</link>
+      <description><![CDATA[17:00 - 20/12/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/bay-hoa-hong-tren-khong-gian-mang-thoi-su-17g00-20-12-2022-461044.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/12/20/amthoisu17h00p20122022-20221220164110.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 21 Dec 2022 00:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Tổng Bí thư Nguyễn Phú Trọng dự hội nghị quân chính toàn quân 2022 - Thời sự 11g00 20/12/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tong-bi-thu-nguyen-phu-trong-du-hoi-nghi-quan-chinh-toan-quan-2022-thoi-su-11g00-20-12-2022-460982.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/chu-tich-quoc-hoi-tphcm-vi-ca-nuoc-ca-nuoc-vi-tphcm-thoi-su-5g30-20-12-2022-460957.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/12/20/amthoisu05h30p20122022-30p8s-20221220045758.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 20 Dec 2022 12:33:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Người dân đồng tình ủng hộ thực hiện Dự án đường Vành đai 3 - Thời sự 17g00 19/12/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/nguoi-dan-dong-tinh-ung-ho-thuc-hien-du-an-duong-vanh-dai-3-thoi-su-17g00-19-12-2022-460915.html</link>
-      <description><![CDATA[17:04 - 19/12/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/nguoi-dan-dong-tinh-ung-ho-thuc-hien-du-an-duong-vanh-dai-3-thoi-su-17g00-19-12-2022-460915.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/12/19/amthoisu17h00p19122022-20221219164337.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 20 Dec 2022 00:04:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
