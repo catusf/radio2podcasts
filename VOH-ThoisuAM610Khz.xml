@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 22 Dec 2022 18:11:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 23 Dec 2022 00:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 22 Dec 2022 18:11:00 +0700</pubDate>
+    <pubDate>Fri, 23 Dec 2022 00:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Cần làm rõ nguyên nhân chậm hỗ trợ người dân bị ảnh hưởng dịch Covid-19 - Thời sự 17g00 22/12/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/can-lam-ro-nguyen-nhan-cham-ho-tro-nguoi-dan-bi-anh-huong-dich-covid-19-thoi-su-17g00-22-12-2022-461326.html</link>
+      <description><![CDATA[17:00 - 22/12/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/can-lam-ro-nguyen-nhan-cham-ho-tro-nguoi-dan-bi-anh-huong-dich-covid-19-thoi-su-17g00-22-12-2022-461326.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/12/22/amthoisu17h00p221222-20221222164143.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Điểm tựa vững chắc giữa thời bình - Thời sự 11g00 22/12/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/diem-tua-vung-chac-giua-thoi-binh-thoi-su-11g00-22-12-2022-461273.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/78-nam-xay-dung-va-truong-thanh-cua-luc-luong-qdnd-viet-nam-thoi-su-5g30-22-12-2022-461229.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/12/22/amthoisu05h30p22122022-20221222014832.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 22 Dec 2022 12:34:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Tìm việc, đề phòng thủ đoạn buôn người - Thời sự 17g00 21/12/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tim-viec-de-phong-thu-doan-buon-nguoi-thoi-su-17g00-21-12-2022-461186.html</link>
-      <description><![CDATA[17:10 - 21/12/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tim-viec-de-phong-thu-doan-buon-nguoi-thoi-su-17g00-21-12-2022-461186.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/12/21/amthoisu17h00p211222-20221221164705.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 22 Dec 2022 00:10:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
