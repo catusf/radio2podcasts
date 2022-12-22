@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 15 Dec 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 22 Dec 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 15 Dec 2022 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 22 Dec 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ô nhiễm không khí tại châu Á: Đến hẹn lại lên khi mùa đông đến</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Hằng năm khi mùa Đông đến, tình trạng ô nhiễm khói bụi lại gia tăng tại nhiều nước khu vực châu Á, đặc biệt như Ấn Độ, Trung Quốc, Thái Lan, Indonesia, Việt Nam. Chỉ số chất lượng không khí tại thủ đô các nước dịp này lại đứng trước cảnh báo đỏ về chỉ số bụi mịn PM2.5 tăng vọt, ảnh hưởng nghiêm trọng đến sức khỏe. Nguyên nhân tình trạng ô nhiễm đều đã được chỉ ra, chỉ có điều, liệu các nước có chuẩn bị những giải pháp nào hiệu quả hơn để cải thiện tình trạng này trong mùa đông năm nay?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/12/22/vovlive_sukienvabanluan_o_nhiem_khong_khi_tai_chau_a.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 22 Dec 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Tổng thống Pháp trì hoãn kế hoạch cải cách hưu trí và những tác động!</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/12/09/vovlive_sukienvabanluan_ngan_hang_noi_chi_tieu_tang_truong_tin_dung-99999.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 09 Dec 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Thái Lan siết chặt quản lý việc người nước ngoài sở hữu đất đai</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Cơ quan quản lý đất đai của Thái Lan vừa thông báo đang tiến hành điều tra các trường hợp người nước ngoài cấu kết với người bản địa Thái Lan làm bình phong để sở hữu dự án dân cư tại nước này. Động thái này diễn ra chỉ ít ngày sau khi Thái Lan tạm dừng đề xuất cho phép người nước ngoài được sở hữu đất tại Thái Lan. Những bước đi liên tiếp này cho thấy Thái Lan đang hết sức thận trọng đối với việc sở hữu đất đai của người nước ngoài – một lĩnh vực được đánh giá là rất nhạy cảm.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/12/08/vovlive_sukienvabanluan_thai_lan_siet_chat_quan_ly_nguoi_nuoc_ngoai.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 08 Dec 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
