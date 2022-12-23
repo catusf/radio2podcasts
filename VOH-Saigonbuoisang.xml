@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 22 Dec 2022 14:34:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 23 Dec 2022 14:29:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 22 Dec 2022 14:34:00 +0700</pubDate>
+    <pubDate>Fri, 23 Dec 2022 14:29:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Dự báo thị trường đầu tư tài chính cá nhân 2023 - Sài Gòn buổi sáng 23/12/2022</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/du-bao-thi-truong-dau-tu-tai-chinh-ca-nhan-2023-sai-gon-buoi-sang-23-12-2022-461387.html</link>
+      <description><![CDATA[07:29 - 23/12/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/du-bao-thi-truong-dau-tu-tai-chinh-ca-nhan-2023-sai-gon-buoi-sang-23-12-2022-461387.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/12/23/fmsgbs06h00p231222-20221223053640.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 23 Dec 2022 14:29:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Để liên kết vùng trong du lịch đi vào thực chất - Sài Gòn buổi sáng 22/12/2022</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/de-lien-ket-vung-trong-du-lich-di-vao-thuc-chat-sai-gon-buoi-sang-22-12-2022-461245.html</link>
       <description><![CDATA[07:34 - 22/12/2022]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/de-lien-ket-vung-trong-du-lich-di-vao-thuc-chat-sai-gon-buoi-sang-22-12-2022-461245.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/12/22/fmsgbs06h00p221222-20221222070136.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 22 Dec 2022 14:34:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Bùng nổ phong trào chạy bộ - Sài Gòn buổi sáng 21/12/2022</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/bung-no-phong-trao-chay-bo-sai-gon-buoi-sang-21-12-2022-461116.html</link>
-      <description><![CDATA[07:33 - 21/12/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/bung-no-phong-trao-chay-bo-sai-gon-buoi-sang-21-12-2022-461116.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/12/21/fmsgbs06h00p211222-20221221070224.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 21 Dec 2022 14:33:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
