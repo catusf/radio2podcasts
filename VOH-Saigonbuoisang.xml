@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 25 Dec 2022 14:31:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 26 Dec 2022 14:41:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 25 Dec 2022 14:31:00 +0700</pubDate>
+    <pubDate>Mon, 26 Dec 2022 14:41:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Nhìn lại và hướng tới - Sài Gòn buổi sáng 26/12/2022</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/nhin-lai-va-huong-toi-sai-gon-buoi-sang-26-12-2022-461749.html</link>
+      <description><![CDATA[07:41 - 26/12/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/nhin-lai-va-huong-toi-sai-gon-buoi-sang-26-12-2022-461749.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/12/26/fmsgbs06h00p261222-20221226070228.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 26 Dec 2022 14:41:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Văn nghệ sĩ chung sức xây dựng Không gian văn hóa Hồ Chí Minh - Sài Gòn buổi sáng 25/12/2022</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/van-nghe-si-chung-suc-xay-dung-khong-gian-van-hoa-ho-chi-minh-sai-gon-buoi-sang-25-12-2022-461651.html</link>
       <description><![CDATA[07:31 - 25/12/2022]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/van-nghe-si-chung-suc-xay-dung-khong-gian-van-hoa-ho-chi-minh-sai-gon-buoi-sang-25-12-2022-461651.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/12/25/fmsaigonbuoisang06h00p251222-20221224204717.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 25 Dec 2022 14:31:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Để khán giả trẻ đến gần hơn với nghệ thuật truyền thống - Sài Gòn buổi sáng 24/12/2022</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/de-khan-gia-tre-den-gan-hon-voi-nghe-thuat-truyen-thong-sai-gon-buoi-sang-24-12-2022-461532.html</link>
-      <description><![CDATA[07:09 - 24/12/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/de-khan-gia-tre-den-gan-hon-voi-nghe-thuat-truyen-thong-sai-gon-buoi-sang-24-12-2022-461532.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/12/24/sgbs-241222-final-20221224003442.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 24 Dec 2022 14:09:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
