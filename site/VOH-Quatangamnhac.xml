@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 18 Dec 2022 17:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 25 Dec 2022 17:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 18 Dec 2022 17:00:00 +0700</pubDate>
+    <pubDate>Sun, 25 Dec 2022 17:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Quà tặng âm nhạc trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Quatangamnhac.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Hòa nhịp giáng sinh - Quà tặng âm nhạc 25/12/2022</title>
+      <link>https://radio.voh.com.vn/qua-tang-am-nhac/hoa-nhip-giang-sinh-qua-tang-am-nhac-25-12-2022-461750.html</link>
+      <description><![CDATA[10:00 - 25/12/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/hoa-nhip-giang-sinh-qua-tang-am-nhac-25-12-2022-461750.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/12/26/fmqtan10h00p25122022-20221224161130.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 25 Dec 2022 17:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Nhánh lan rừng - Quà tặng âm nhạc 18/12/2022</title>
       <link>https://radio.voh.com.vn/qua-tang-am-nhac/nhanh-lan-rung-qua-tang-am-nhac-18-12-2022-460790.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/trai-tim-mua-dong-qua-tang-am-nhac-27-11-2022-457928.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/11/27/fmqtan10h00p27112022-20221126124829.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 27 Nov 2022 17:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Người đưa đò - Quà tặng âm nhạc 20/11/2022</title>
-      <link>https://radio.voh.com.vn/qua-tang-am-nhac/nguoi-dua-do-qua-tang-am-nhac-20-11-2022-457006.html</link>
-      <description><![CDATA[10:00 - 20/11/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/nguoi-dua-do-qua-tang-am-nhac-20-11-2022-457006.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/11/19/fmqtan10h00p20112022-20221119134758.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 20 Nov 2022 17:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
