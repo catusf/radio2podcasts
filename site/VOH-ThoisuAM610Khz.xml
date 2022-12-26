@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 26 Dec 2022 12:39:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 26 Dec 2022 18:55:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 26 Dec 2022 12:39:00 +0700</pubDate>
+    <pubDate>Mon, 26 Dec 2022 18:55:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Phát triển và quản lý báo chí Thành phố - Thời sự 11g00 26/12/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/phat-trien-va-quan-ly-bao-chi-thanh-pho-thoi-su-11g00-26-12-2022-461781.html</link>
+      <description><![CDATA[11:55 - 26/12/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/phat-trien-va-quan-ly-bao-chi-thanh-pho-thoi-su-11g00-26-12-2022-461781.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/12/26/amthoisu11h00p261222-20221226104528.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 26 Dec 2022 18:55:00 +0700</pubDate>
+    </item>
     <item>
       <title>Phát triển du lịch đêm trở thành sản phẩm đặc trưng của TPHCM-Bài 3 - Thời sự 5g30 26/12/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/phat-trien-du-lich-dem-tro-thanh-san-pham-dac-trung-cua-tphcm-bai-3-thoi-su-5g30-26-12-2022-461741.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/nhung-chiec-ao-blouse-trang-het-long-vi-benh-nhan-thoi-su-17g00-25-12-2022-461707.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/12/25/amthoisu17h00p251222-20221225165348.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 26 Dec 2022 00:04:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Hội nghị sơ kết 1 năm triển khai Đề án 06 - Thời sự 11g00 25/12/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/hoi-nghi-so-ket-1-nam-trien-khai-de-an-06-thoi-su-11g00-25-12-2022-461677.html</link>
-      <description><![CDATA[11:51 - 25/12/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/hoi-nghi-so-ket-1-nam-trien-khai-de-an-06-thoi-su-11g00-25-12-2022-461677.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/12/25/amthoisu11h00p251222-20221225103136.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 25 Dec 2022 18:51:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
