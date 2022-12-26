@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 23 Dec 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 26 Dec 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 23 Dec 2022 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 26 Dec 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Kể chuyện và hát ru cho bé</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Kechuyenvahatruchobe.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Chó sói lại hoàn chó sói 23/12/2022</title>
+      <title>Chàng hiệp sĩ và người lái buôn 26/12/2022</title>
+      <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/chang-hiep-si-va-nguoi-lai-buon-c43-35964.aspx</link>
+      <description><![CDATA[Vì tấm lòng nghĩa hiệp và tốt bụng của mình mà chàng hiệp sĩ đã gặp được điều may mắn và tốt lành. Còn người lái buôn thì sao? Ông nhận được sự giúp đỡ như thế nào từ phía chàng hiệp sĩ? Giữa hai người có mối quan hệ gì? Cùng nghe câu chuyện thú vị này nhé. (Kể chuyện và hát ru 23/12/2022)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/chang-hiep-si-va-nguoi-lai-buon-c43-35964.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2022_12/v2_2312_21h45_ke_chuyen_va_hat_ru_2612202215.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 26 Dec 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Chó sói lại hoàn chó sói  23/12/2022</title>
       <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/cho-soi-lai-hoan-cho-soi-c43-35957.aspx</link>
       <description><![CDATA[Có chú chó sói không bằng lòng với mình mà muốn giống các loài vật khác khỏe hơn, giỏi hơn. Nhưng chó sói càng thay đổi thì lại càng gặp nhiều phiền phức. Sau bao nhiêu mong muốn thành mặt trời, mây, gió… chó sói ta lại luẩn quẩn một vòng để trở về làm… chó sói! (Kể chuyện và hát ru 21/12/2022)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/cho-soi-lai-hoan-cho-soi-c43-35957.aspx</guid>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/chu-meo-thong-thai-c43-35956.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2022_12/v2_1912_21h45_ke_chuyen_va_hat_ru_2312202211.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 23 Dec 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Ba đồng xu thừa kế  19/12/2022</title>
-      <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/ba-dong-xu-thua-ke-c43-35939.aspx</link>
-      <description><![CDATA[Những câu chuyện kể về lòng hiếu thảo, tình thương yêu các con vật luôn gần gũi với chúng ta. Mỗi câu chuyện là một tình huống, một cách ứng xử, đem đến cho chúng mình nhiều điều ý nghĩa. Câu chuyện cổ tích “Ba đồng xu thừa kế” là một ví dụ... (Kể chuyện và hát ru 09/12/2022)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/ba-dong-xu-thua-ke-c43-35939.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2022_12/v2_0912_21h45_ke_chuyen_va_hat_ru_cho_be_1912202221.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 19 Dec 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
