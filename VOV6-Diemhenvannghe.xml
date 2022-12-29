@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 24 Dec 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 29 Dec 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 24 Dec 2022 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 29 Dec 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,9 +24,17 @@
     <itunes:subtitle>Điểm hẹn văn nghệ</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Diemhenvannghe.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Ngọt ngào sơn ca-Tác phẩm nghiên cứu, sưu tầm, dịch thuật Việt-Hán-Choang 29/12/2022</title>
+      <link>http://vov6.vov.vn/diem-hen-van-nghe/ngot-ngao-son-ca-tac-pham-nghien-cuu-suu-tam-dich-thuat-viet-han-choang-c158-35977.aspx</link>
+      <description><![CDATA[Vào ngày 4/1 tới đây, tại Hà Nội, Liên hiệp các Hội Văn học nghệ thuật Việt Nam sẽ tổ chức trao giải thưởng Văn học nghệ thuật năm 2022. Các tác phẩm được vinh danh thuộc nhiều thể loại khác nhau, bao gồm các ấn phẩm, tranh, ảnh, tác phẩm điêu khắc, phim tài liệu… Một trong những gương mặt trẻ nhận giải năm nay là tác giả Hoàng Diệp Hằng, Hội viện Hội Văn học Nghệ thuật tỉnh Lạng Sơn. Chị nhận Giải C cho tập nghiên cứu, sưu tầm dịch thuật Việt – Hán – Choang có nhan đề “Ngọt ngào sơn ca”, do NXB Văn hóa dân tộc ấn hành. Nghiên cứu về ca dao dân tộc Choang – dân tộc thiểu số có số dân đông nhất Trung Quốc trong mối liên hệ với ca dao dân tộc Tày – Nùng (Lạng Sơn), tác giả Hoàng Diệp Hằng đã gặp phải những khó khăn gì? Chúng ta cùng nghe cuộc trò chuyện sau đây giữa tác giả và phóng viên chương trình.]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/ngot-ngao-son-ca-tac-pham-nghien-cuu-suu-tam-dich-thuat-viet-han-choang-c158-35977.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2022_12/gts_ngot_ngao_son_ca_2912202215.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 29 Dec 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Người chiến binh mang tên sông Thạch Hãn
 
- 24/12/2022</title>
+  24/12/2022</title>
       <link>http://vov6.vov.vn/diem-hen-van-nghe/nguoi-chien-binh-mang-ten-song-thach-han-c158-35960.aspx</link>
       <description><![CDATA[“Tuổi ấu thơ quê hương Quảng Trị / Những đêm về mẹ hát ru con / Nhà trống vắng võng đưa kẽo kẹt / Lời ru mẹ lời của dòng sông / Chỉ mong cho con lưng dài vai rộng / Để lấp biển vá trời như ai / Mẹ bảo rằng tên con là Hãn / Là Thạch Hãn dòng sông quê nhà / Người đi xa bao năm bao tháng / Mà lòng vẫn Thạnh Hãn, Bích La…”. Ca khúc “Người chiến binh mang tên sông Thạch Hãn”, nhạc sĩ Ngọc Khuê phổ nhạc từ bài thơ “Tuổi ấu thơ của một chiến binh” của nhà thơ Châu La Việt. Là đôi bạn văn nghệ thân thiết nên sau khi tham gia trại sáng tác văn học nghệ thuật về đề tài lực lượng vũ trang và chiến tranh cách mạng do Tổng cục Chính trị tổ chức tại Cần Thơ, nhà thơ Châu La Việt đã chia sẻ bài thơ đầy xúc động mà hào hùng, ý nghĩa với nhạc sĩ của “Làng lúa làng hoa”. (Điểm hẹn văn nghệ)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/nguoi-chien-binh-mang-ten-song-thach-han-c158-35960.aspx</guid>
@@ -40,15 +48,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/tuy-but-tro-ve-mien-suong-ngot-c158-34923.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/tro_ve_mien_suong_ngot_1512202210.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 15 Dec 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>"Thị Lộ Chính Danh": Đi tìm sự chính danh cho Thị Lộ
-  1/12/2022</title>
-      <link>http://vov6.vov.vn/diem-hen-van-nghe/thi-lo-chinh-danh-di-tim-su-chinh-danh-cho-thi-lo-c158-34892.aspx</link>
-      <description><![CDATA[Vừa qua, tại Hà Nội, Công ty cổ phần Sách và truyền thông San Hô (San Hô Books) phối hợp với NXB Thanh Niên tổ chức ra mắt tiểu thuyết lịch sử Thị Lộ Chính Danh phiên bản mới của nhà văn Võ Khắc Nghiêm.  Buổi ra mắt sách diễn ra trong không khí ấm cúng, chân tình như một nghĩa cử đẹp, một lời tri ân đến nhà văn vừa rời xa chúng ta chưa lâu:]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/thi-lo-chinh-danh-di-tim-su-chinh-danh-cho-thi-lo-c158-34892.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2022_12/gts_thi_lo_chinh_danh_hc_112202215.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 01 Dec 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
