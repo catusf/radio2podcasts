@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 28 Dec 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 29 Dec 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 28 Dec 2022 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 29 Dec 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Nhìn lại 1 năm cuộc sống phụ nữ Afghanistan dưới thời Taliban: Tương lai bất định!</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Trong tuyên bố mới nhất, lực lượng Taliban đang cầm quyền ở Afghanistan đã ra lệnh cho tất cả các tổ chức phi chính phủ trong nước và quốc tế không cho nhân viên nữ làm việc. Đây là động thái mới nhất của Taliban tiếp nối hàng loạt các hạn chế hà khắc mà nhóm này áp đặt với phụ nữ và trẻ em gái tại nước này kể từ khi lên nắm quyền hồi tháng 8 năm ngoái. Trước đó chỉ cách vài ngày, việc Taliban đã cấm hoàn toàn nữ giới Afghanistan được tiếp cận giáo dục đã khiến dư luận khu vực và cộng đồng quốc tế chỉ trích mạnh mẽ. Nhìn lại 1 năm dưới thời Taliban, tương lai phụ nữ và trẻ em gái Afghanistan ngày càng trở nên bất định!]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/12/29/vovlive_dongchaykinhte_taliban1.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 29 Dec 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Kết quả tích cực sau khi Nhật Bản mở cửa đón du khách quốc tế</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/12/26/vovlive_sukienvabanluan_lam_thay_doi_cach_nghi_cach_lam.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 26 Dec 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Huyện Cờ Đỏ (Cần Thơ) tiến đến nông thôn mới nâng cao</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Cần Thơ là địa phương đầu tiên ở khu vực đồng bằng sông Cửu Long và thứ 3 trong cả nước hoàn thành nhiệm vụ xây dựng nông thôn mới, sớm hơn một năm so với kế hoạch. Sau hơn 3 năm về đích xây dựng nông thôn mới, Cần Thơ đã chuyển dần từ nâng cao số lượng các tiêu chí sang tập trung nâng cao chất lượng tiêu chí, phấn đấu đạt mục tiêu xây dựng nông thôn mới kiểu mẫu và nâng cao. Và huyện Cờ Đỏ của Cần Thơ đang nổi lên như điểm sáng, để nhiều địa phương có thể học hỏi kinh nghiệm trong việc chinh phục mục tiêu huyện nông thôn mới nâng cao, thay đổi toàn diện bộ mặt xóm làng và cải thiện cuộc sống người dân một cách rõ rệt.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/12/26/vovlive_sukienvabanluan_huyen_co_do_can_tho.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 23 Dec 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
