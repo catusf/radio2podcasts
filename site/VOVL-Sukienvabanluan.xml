@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 29 Dec 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 30 Dec 2022 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 29 Dec 2022 19:00:00 +0700</pubDate>
+    <pubDate>Fri, 30 Dec 2022 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Giám sát chặt xe quá khổ chở hàng trong thùng tự chế “giả container” nhìn từ của khẩu Cha Lo, tỉnh Quảng Bình</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Phương tiện chở quá khổ quá tải và xe quá khổ chở hàng trong thùng tự chế “giả container” qua lại giữa các cửa khẩu đã và đang gây mất An toàn giao thông trên các tuyến đường ra cửa khẩu và nhiều hệ lụy. Mặc dù Ủy ban An toàn giao thông Quốc gia, Cục Cảnh sát giao thông đã có văn bản chấn chỉnh, tăng cường kiểm soát nhưng tình trạng vi phạm vẫn tiếp diễn. Mới đây nhất, Hiệp hội Vận tải ô tô Việt Nam lại có công văn kiến nghị Thủ tướng Chính phủ chỉ đạo các đơn vị chức năng tăng cường kiểm soát chặt xe quá khổ chở hàng trong thùng tự chế giả container, nhất là thời điểm này, khi tết nguyên đán đang cận kề, lượng hàng hóa xuất nhập khẩu cũng tăng mạnh.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2022/12/30/vovlive_sukienvabanluan_giam_sat_chat_xe_qua_kho.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 30 Dec 2022 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Nhìn lại 1 năm cuộc sống phụ nữ Afghanistan dưới thời Taliban: Tương lai bất định!</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/12/28/vovlive_sukienvabanluan_khanh_hoa1.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 28 Dec 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Làm thay đổi nếp nghĩ, cách làm của đồng bào dân tộc thiểu số tại Kon Tum</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[“Làm thay đổi nếp nghĩ, cách làm của đồng bào dân tộc thiểu số, làm cho đồng bào dân tộc thiểu số vươn lên thoát nghèo bền vững” là chủ đề cuộc vận động được Ủy ban Mặt trận tổ quốc tỉnh Kon Tum phối hợp với Uỷ ban nhân dân tỉnh và các cơ quan, đơn vị có liên quan tổ chức phát động từ ngày 22/4 năm ngoái. Sau hơn một năm triển khai, cuộc vận động đã mang lại những kết quả tích cực, góp phần nâng cao nhận thức, đời sống cho người dân.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/12/26/vovlive_sukienvabanluan_lam_thay_doi_cach_nghi_cach_lam.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 26 Dec 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
