@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 31 Dec 2022 18:06:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2023 00:27:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 31 Dec 2022 18:06:00 +0700</pubDate>
+    <pubDate>Sun, 01 Jan 2023 00:27:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Lễ hội chào năm mới đã sẵn sàng - Thời sự 17g00 31/12/2022</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/le-hoi-chao-nam-moi-da-san-sang-thoi-su-17g00-31-12-2022-462504.html</link>
+      <description><![CDATA[17:27 - 31/12/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/le-hoi-chao-nam-moi-da-san-sang-thoi-su-17g00-31-12-2022-462504.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/12/31/amthoisu17h00p311222-20221231165157.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 01 Jan 2023 00:27:00 +0700</pubDate>
+    </item>
     <item>
       <title>Công tác đối ngoại phải thực chất đi vào chiều sâu - Thời sự 11g00 31/12/2022</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/cong-tac-doi-ngoai-phai-thuc-chat-di-vao-chieu-sau-thoi-su-11g00-31-12-2022-462459.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/xuan-doan-ket-tet-nghia-tinh-thoi-su-5g30-31-12-2022-462431.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/12/31/amthoisu05h30p31122022-20221230231147.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 31 Dec 2022 12:32:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đại hội đại biểu toàn quốc Hội Cựu chiến binh lần thứ VII - Thời sự 17g00 30/12/2022</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/dai-hoi-dai-bieu-toan-quoc-hoi-cuu-chien-binh-lan-thu-vii-thoi-su-17g00-30-12-2022-462360.html</link>
-      <description><![CDATA[17:00 - 30/12/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/dai-hoi-dai-bieu-toan-quoc-hoi-cuu-chien-binh-lan-thu-vii-thoi-su-17g00-30-12-2022-462360.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/12/30/amthoisu17h00p301222-20221230164652.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 31 Dec 2022 00:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
