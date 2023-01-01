@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 25 Dec 2022 17:28:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2023 15:29:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 25 Dec 2022 17:28:00 +0700</pubDate>
+    <pubDate>Sun, 01 Jan 2023 15:29:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Cửa sổ văn học trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Cuasovanhoc.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Nhà thơ Nguyễn Phong Việt - Tìm thấy bình an sau biến cố - Cửa sổ văn học 1/1/2023</title>
+      <link>https://radio.voh.com.vn/cua-so-van-hoc/nha-tho-nguyen-phong-viet-tim-thay-binh-an-sau-bien-co-cua-so-van-hoc-1-1-2023-462546.html</link>
+      <description><![CDATA[08:29 - 01/01/2023]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/nha-tho-nguyen-phong-viet-tim-thay-binh-an-sau-bien-co-cua-so-van-hoc-1-1-2023-462546.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/01/01/fmcuasovanhoc07h00p010123-20221231174421.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 01 Jan 2023 15:29:00 +0700</pubDate>
+    </item>
     <item>
       <title>Chào đón "Những người hàng xóm" của nhà văn Nguyễn Nhật Ánh - Cửa sổ văn học 25/12/2022</title>
       <link>https://radio.voh.com.vn/cua-so-van-hoc/chao-don-nhung-nguoi-hang-xom-cua-nha-van-nguyen-nhat-anh-cua-so-van-hoc-25-12-2022-461668.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/hoi-nha-van-cong-bo-giai-thuong-van-hoc-2022-cua-so-van-hoc-15-12-2022-461667.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/12/25/fmcuasovanhoc09h05p151222-20221214193533.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 15 Dec 2022 17:28:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Hội nhà văn công bố giải thưởng "Những hy sinh thầm lặng" - Cửa sổ văn học 18/12/2022</title>
-      <link>https://radio.voh.com.vn/cua-so-van-hoc/hoi-nha-van-cong-bo-giai-thuong-nhung-hy-sinh-tham-lang-cua-so-van-hoc-18-12-2022-460562.html</link>
-      <description><![CDATA[08:52 - 18/12/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/hoi-nha-van-cong-bo-giai-thuong-nhung-hy-sinh-tham-lang-cua-so-van-hoc-18-12-2022-460562.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/12/16/fmcuasovanhoc07h00p181222-20221216182227.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 18 Dec 2022 15:52:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
