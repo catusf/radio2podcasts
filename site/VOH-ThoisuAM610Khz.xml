@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 02 Jan 2023 00:24:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 02 Jan 2023 12:33:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 02 Jan 2023 00:24:00 +0700</pubDate>
+    <pubDate>Mon, 02 Jan 2023 12:33:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>TPHCM lần đầu đưa nhiều sản phẩm du lịch vào khai thác trong Tết Nguyên đán - Thời sự 5g30 2/1/2023</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-lan-dau-dua-nhieu-san-pham-du-lich-vao-khai-thac-trong-tet-nguyen-dan-thoi-su-5g30-2-1-2023-462613.html</link>
+      <description><![CDATA[05:33 - 02/01/2023]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tphcm-lan-dau-dua-nhieu-san-pham-du-lich-vao-khai-thac-trong-tet-nguyen-dan-thoi-su-5g30-2-1-2023-462613.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/01/02/amthoisu05h30p020123-20230101233001.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 02 Jan 2023 12:33:00 +0700</pubDate>
+    </item>
     <item>
       <title>10 sự kiện nổi bật trong nước năm 2022 - Thời sự 17g00 1/1/2023</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/10-su-kien-noi-bat-trong-nuoc-nam-2022-thoi-su-17g00-1-1-2023-462586.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/don-xuan-moi-dn-chu-dong-vuot-kho-cho-phuc-hoi-thoi-su-11g00-1-1-2023-462568.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/01/01/amthoisu11h00p010123-20230101103951.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 01 Jan 2023 18:07:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Thế giới vui vẻ chào đón năm 2023 - Thời sự 5g30 1/1/2023</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/the-gioi-vui-ve-chao-don-nam-2023-thoi-su-5g30-1-1-2023-462548.html</link>
-      <description><![CDATA[05:34 - 01/01/2023]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/the-gioi-vui-ve-chao-don-nam-2023-thoi-su-5g30-1-1-2023-462548.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/01/01/amthoisu05h30p01012023-chuagn-30p40s-20230101003559.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 01 Jan 2023 12:34:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
