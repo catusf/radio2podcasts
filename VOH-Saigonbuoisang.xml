@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 02 Jan 2023 14:48:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 03 Jan 2023 22:31:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 02 Jan 2023 14:48:00 +0700</pubDate>
+    <pubDate>Tue, 03 Jan 2023 22:31:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Đảm bảo nguồn cung hàng hóa Tết – Sài Gòn buổi sáng 3/1/2023</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/dam-bao-nguon-cung-hang-hoa-tet-sai-gon-buoi-sang-3-1-2023-462804.html</link>
+      <description><![CDATA[15:31 - 03/01/2023]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/dam-bao-nguon-cung-hang-hoa-tet-sai-gon-buoi-sang-3-1-2023-462804.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/01/03/fmsgbs06h00p030123-20230103152924.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 03 Jan 2023 22:31:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Vinh danh 12 "Công dân trẻ tiêu biểu TPHCM" 2022 - Sài Gòn buổi sáng 2/1/2023</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/vinh-danh-12-cong-dan-tre-tieu-bieu-tphcm-2022-sai-gon-buoi-sang-2-1-2023-462634.html</link>
       <description><![CDATA[07:48 - 02/01/2023]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/vinh-danh-12-cong-dan-tre-tieu-bieu-tphcm-2022-sai-gon-buoi-sang-2-1-2023-462634.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/01/02/fmsgbs06h00p020123-20230102070429.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 02 Jan 2023 14:48:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Khách mời đầu năm: PGS-TS Bùi Hoài Sơn - Sài Gòn buổi sáng 1/1/2023</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/khach-moi-dau-nam-pgs-ts-bui-hoai-son-sai-gon-buoi-sang-1-1-2023-462549.html</link>
-      <description><![CDATA[06:37 - 01/01/2023]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/khach-moi-dau-nam-pgs-ts-bui-hoai-son-sai-gon-buoi-sang-1-1-2023-462549.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/01/01/sgbstcct-01012023-tet-duong-lich-hoan-chinh-20230101003550.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 01 Jan 2023 13:37:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
