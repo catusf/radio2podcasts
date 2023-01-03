@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 26 Dec 2022 03:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 02 Jan 2023 03:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 26 Dec 2022 03:00:00 +0700</pubDate>
+    <pubDate>Mon, 02 Jan 2023 03:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sóng điện ảnh trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Songdienanh.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Hậu trường phim điện ảnh Thanh Sói (Kỳ 1) - Khung hình thứ 25 1/1/2023</title>
+      <link>https://radio.voh.com.vn/khung-hinh-thu-25/hau-truong-phim-dien-anh-thanh-soi-ky-1-khung-hinh-thu-25-1-1-2023-462718.html</link>
+      <description><![CDATA[20:00 - 01/01/2023]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/khung-hinh-thu-25/hau-truong-phim-dien-anh-thanh-soi-ky-1-khung-hinh-thu-25-1-1-2023-462718.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/01/02/fmkhunghinhthuhaimuoilam20h00p010123-20230101130839.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 02 Jan 2023 03:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Hậu trường phim điện ảnh Đảo độc đắc - Khung hình thứ 25 25/12/2022</title>
       <link>https://radio.voh.com.vn/khung-hinh-thu-25/hau-truong-phim-dien-anh-dao-doc-dac-khung-hinh-thu-25-25-12-2022-461751.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/khung-hinh-thu-25/giao-luu-cung-doan-phim-tro-tan-ruc-ro-khung-hinh-thu-25-4-12-2022-458954.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/12/05/fmkhunghinhthuhaimuoilam20h00p041222-20221204082131.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 05 Dec 2022 03:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Giao lưu cùng đoàn phim Hạnh phúc máu - Khung hình thứ 25 27/11/2022</title>
-      <link>https://radio.voh.com.vn/khung-hinh-thu-25/giao-luu-cung-doan-phim-hanh-phuc-mau-khung-hinh-thu-25-27-11-2022-457930.html</link>
-      <description><![CDATA[20:00 - 27/11/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/khung-hinh-thu-25/giao-luu-cung-doan-phim-hanh-phuc-mau-khung-hinh-thu-25-27-11-2022-457930.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/11/27/fmkhunghinhthuhaimuoilam20h00p271122-20221127080546.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 28 Nov 2022 03:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

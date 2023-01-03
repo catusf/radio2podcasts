@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 30 Dec 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 03 Jan 2023 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 30 Dec 2022 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 03 Jan 2023 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Chính phủ Mỹ cấm Tiktok vì lý do an ninh: Phần nổi của tảng băng?</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Hai năm sau khi Tiktok tránh được lệnh cấm ở Mỹ, ứng dụng video dạng ngắn phổ biến hiện đang phải đối mặt với sự phản đối ngày càng tăng ở cấp tiểu bang và nay là các cơ quan chính phủ Mỹ. Đằng sau quyết định cứng rắn này là gì? Liệu Tiktok có bị cấm hoàn toàn tại Mỹ hay không?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2023/01/03/vovlive_sukienvabanluan_chinh_phu_my_cam_tiktok.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 03 Jan 2023 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Giám sát chặt xe quá khổ chở hàng trong thùng tự chế “giả container” nhìn từ của khẩu Cha Lo, tỉnh Quảng Bình</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -45,14 +53,6 @@
       <description><![CDATA[Nhật Bản vừa công bố số liệu cho thấy du khách quốc tế đến Nhật Bản trong tháng 11 vừa qua đạt gần 01 triệu lượt, tăng gấp đôi so với tháng 10 trước đó. Như vậy, lượng du khách quốc tế trở lại Nhật Bản đã tăng rất nhanh chỉ sau hơn 01 tháng Nhật Bản dỡ bỏ các biện pháp hạn chế phòng dịch Covid-19. Sự trở lại của du khách quốc tế cùng các khoản chi tiêu, mua sắm tăng đột biến, nhất là với các mặt hàng xa xỉ vốn là thế mạnh của Nhật Bản đang đóng góp tích cực vào quá trình phục hồi kinh tế hậu đại dịch của quốc gia này.]]></description>
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/12/28/vovlive_sukienvabanluan_nhat_ban1.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 28 Dec 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Khánh Hòa thu hồi đất mặt biển đã giao cho doanh nghiệp sai qui định để phục vụ công cộng</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Từng là địa phương có nhiều dự án vi phạm tai tiếng như: dự án công viên giải trí Nha Trang Sao, dự án Công viên Phù Đổng, dự án khu nghỉ dưỡng Ana Mandara... che chắn bãi biển dài cả cây số, tỉnh Khánh Hòa đang triển khai nhiều biện pháp đồng bộ, khẩn trương thu hồi các khu đất chiếm mặt tiền biển, để xây dựng các công trình công cộng, phục vụ người dân.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/12/28/vovlive_sukienvabanluan_khanh_hoa1.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 28 Dec 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
