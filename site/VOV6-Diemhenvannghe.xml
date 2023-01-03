@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 29 Dec 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 03 Jan 2023 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 29 Dec 2022 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 03 Jan 2023 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Điểm hẹn văn nghệ</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Diemhenvannghe.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Ngọt ngào sơn ca-Tác phẩm nghiên cứu, sưu tầm, dịch thuật Việt-Hán-Choang 29/12/2022</title>
+      <title>PGS-TS Bùi Hoài Sơn: Hệ giá trị dẫn dắt sự phát triển của đất nước, của gia đình và của mỗi cá nhân 3/1/2023</title>
+      <link>http://vov6.vov.vn/diem-hen-van-nghe/pgs-ts-bui-hoai-son-he-gia-tri-dan-dat-su-phat-trien-cua-dat-nuoc-cua-gia-dinh-c158-35988.aspx</link>
+      <description><![CDATA[Để triển khai thực hiện Nghị quyết Đại hội XIII của Đảng, chúng ta đang đẩy mạnh nghiên cứu, phân tích, làm rõ các hệ giá trị quốc gia, hệ giá trị văn hóa, hệ giá trị gia đình và chuẩn mực con người Việt Nam trong thời kỳ mới. Vậy ngoài những điều cơ bản thì các hệ giá trị này có điều gì mới và mối quan hệ biện chứng giữa các hệ giá trị đó ra sao. Chúng ta cùng đi tìm câu trả lời trong chuyên mục Tiếng nói Văn nghệ sỹ với sự tham gia của PGS-TS Bùi Hoài Sơn-Ủy viên Thường trực Ủy ban Văn hóa, Giáo dục của Quốc hội.]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/pgs-ts-bui-hoai-son-he-gia-tri-dan-dat-su-phat-trien-cua-dat-nuoc-cua-gia-dinh-c158-35988.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2023_1/he_gia_tri_gia_dinh_chuan_muc_con_nguoi_31202314.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 03 Jan 2023 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Ngọt ngào sơn ca-Tác phẩm nghiên cứu, sưu tầm, dịch thuật Việt-Hán-Choang  29/12/2022</title>
       <link>http://vov6.vov.vn/diem-hen-van-nghe/ngot-ngao-son-ca-tac-pham-nghien-cuu-suu-tam-dich-thuat-viet-han-choang-c158-35977.aspx</link>
       <description><![CDATA[Vào ngày 4/1 tới đây, tại Hà Nội, Liên hiệp các Hội Văn học nghệ thuật Việt Nam sẽ tổ chức trao giải thưởng Văn học nghệ thuật năm 2022. Các tác phẩm được vinh danh thuộc nhiều thể loại khác nhau, bao gồm các ấn phẩm, tranh, ảnh, tác phẩm điêu khắc, phim tài liệu… Một trong những gương mặt trẻ nhận giải năm nay là tác giả Hoàng Diệp Hằng, Hội viện Hội Văn học Nghệ thuật tỉnh Lạng Sơn. Chị nhận Giải C cho tập nghiên cứu, sưu tầm dịch thuật Việt – Hán – Choang có nhan đề “Ngọt ngào sơn ca”, do NXB Văn hóa dân tộc ấn hành. Nghiên cứu về ca dao dân tộc Choang – dân tộc thiểu số có số dân đông nhất Trung Quốc trong mối liên hệ với ca dao dân tộc Tày – Nùng (Lạng Sơn), tác giả Hoàng Diệp Hằng đã gặp phải những khó khăn gì? Chúng ta cùng nghe cuộc trò chuyện sau đây giữa tác giả và phóng viên chương trình.]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/ngot-ngao-son-ca-tac-pham-nghien-cuu-suu-tam-dich-thuat-viet-han-choang-c158-35977.aspx</guid>
@@ -40,14 +48,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/nguoi-chien-binh-mang-ten-song-thach-han-c158-35960.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/v2_1012_18h30_diem_hen_van_nghe_2412202219.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 24 Dec 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Tùy bút “Trở về miền sương ngọt”   15/12/2022</title>
-      <link>http://vov6.vov.vn/diem-hen-van-nghe/tuy-but-tro-ve-mien-suong-ngot-c158-34923.aspx</link>
-      <description><![CDATA[Khắp nơi trong tỉnh Quảng Trị đều ra sức xây dựng nông thôn mới, mỗi huyện, mỗi xã, mỗi thôn đều có những cách làm hay. Trong đó có Cam Lộ, huyện đầu tiên của tỉnh Quảng Trị về đích nông thôn mới. Đạt được điều ấy ngoài nỗ lực của cả hệ thống chính trị, sự đồng lòng của nhân dân thì còn nhờ vào truyền thống yêu nước trong tiến trình xây dựng và bảo vệ quê hương. Tùy bút “Trở về miền sương ngọt” của nhà thơ Nguyễn Hữu Quý thể hiện điều ấy vừa đậm chất hiện thực vừa đầy chất thơ:]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/tuy-but-tro-ve-mien-suong-ngot-c158-34923.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/tro_ve_mien_suong_ngot_1512202210.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 15 Dec 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
