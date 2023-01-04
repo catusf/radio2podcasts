@@ -60,7 +60,7 @@ def get_articles_from_html(soup, url, no_items, podcast_title, item_titles=None)
 
         articles.append(
             feed_article(
-                link=url,
+                link=f'{url}#{num+1}',
                 title=title,
                 description=description,
                 pub_date=pub_date,
