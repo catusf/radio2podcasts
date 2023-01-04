@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 04 Jan 2023 00:14:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 04 Jan 2023 13:15:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 04 Jan 2023 00:14:00 +0700</pubDate>
+    <pubDate>Wed, 04 Jan 2023 13:15:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Xây dựng Chính phủ, chính quyền thật sự liêm chính, hiệu quả - Thời sự 5g30 4/1/2023</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/xay-dung-chinh-phu-chinh-quyen-that-su-liem-chinh-hieu-qua-thoi-su-5g30-4-1-2023-462860.html</link>
+      <description><![CDATA[06:15 - 04/01/2023]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/xay-dung-chinh-phu-chinh-quyen-that-su-liem-chinh-hieu-qua-thoi-su-5g30-4-1-2023-462860.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/01/04/amthoisu05h30p04012023-31p02s-20230103233432.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 04 Jan 2023 13:15:00 +0700</pubDate>
+    </item>
     <item>
       <title>Lấy ý kiến nhân dân về dự thảo Luật Đất đai sửa đổi - Thời sự 17g00 3/1/2023</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/lay-y-kien-nhan-dan-ve-du-thao-luat-dat-dai-sua-doi-thoi-su-17g00-3-1-2023-462816.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/hoi-nghi-tong-ket-nam-2022-va-trien-khai-ke-hoach-nam-2023-thoi-su-11g00-3-1-2023-462767.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/01/03/amthoisu11h00p030123-20230103103623.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 03 Jan 2023 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Làn sóng đầu tư vào TP Hồ Chí Minh tiếp tục tăng - Thời sự 5g30 3/1/2023</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/lan-song-dau-tu-vao-tp-ho-chi-minh-tiep-tuc-tang-thoi-su-5g30-3-1-2023-462733.html</link>
-      <description><![CDATA[05:30 - 03/01/2023]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/lan-song-dau-tu-vao-tp-ho-chi-minh-tiep-tuc-tang-thoi-su-5g30-3-1-2023-462733.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/01/03/amthoisu05h30p03012023-32p13s-20230102233253.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 03 Jan 2023 12:30:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
