@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 25 Dec 2022 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2023 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 25 Dec 2022 19:00:00 +0700</pubDate>
+    <pubDate>Sun, 01 Jan 2023 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Âm nhạc với cuộc sống</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Amnhacvoicuocsong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Những ca khúc hay về mùa xuân</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[Nhân dịp đón năm mới 2023, cùng trở lại với những mùa xuân thanh bình ấm no hạnh phúc và tận hưởng những cung bậc cảm xúc của tình yêu lứa đôi hòa trong tình yêu đất nước mênh mang qua một số ca khúc: “Mùa xuân đầu tiên” (Nhạc sĩ Văn Cao); “Em ơi mùa xuân đến rồi đó” (Sáng tác: Nhạc sĩ Trần Chung, Trình bày: NSND Lê Dung); “Mùa xuân làng lúa làng hoa (Sáng tác: Nhạc sĩ Ngọc Khuê, Trình bày: NSND Thanh Hoa); “Cung đàn mùa xuân” (Sáng tác: Nhạc sĩ Cao Việt Bách, Thơ: Lưu Trọng Lư);…]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2023/01/03/vovlive_am_nhac_voi_cuoc_song_nhung_ca_khuc_hay_ve_mua_xuan.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 01 Jan 2023 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Sức mạnh của Âm nhạc trong ký ức “Chiến thắng Điện Biên Phủ trên không”</title>
       <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
@@ -48,15 +56,6 @@
       <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/12/13/vovlive_am_nhac_voi_cuoc_song_su_menh_thanh_nien.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 11 Dec 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Trò chuyện cùng PGS, Tiến sĩ, Nhạc sĩ Đỗ Hồng Quân, Chủ tịch Liên hiệp các hội Văn học nghệ thuật Việt Nam</title>
-      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[Văn học nghệ thuật Việt Nam về những đóng góp của nhạc sĩ Đỗ Nhuận 
-Kỷ niệm 100 năm ngày sinh nhạc sĩ Đỗ Nhuận - Tổng thư ký Hội Nhạc sĩ Việt Nam nhiệm kỳ I và nhiệm kỳ II (10/12/1922 – 10/12/2022), thưởng thức “ca khúc Việt Nam quê hương tôi” – một trong những ca khúc bất hủ của ông đã từng chiếm trọn những trái tim yêu nhạc của hàng triệu người qua từng năm tháng, qua từng thế hệ và lắng nghe những chia sẻ của PGS, Tiến sĩ, Nhạc sĩ Đỗ Hồng Quân, Chủ tịch Liên hiệp các hội Văn học nghệ thuật Việt Nam về những đóng góp của nhạc sĩ Đỗ Nhuận cho nền văn học nghệ thuật Cách mạng nước nhà…]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/12/07/vovlive_am_nhac_voi_cuoc_song_do_nhuan.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 04 Dec 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
