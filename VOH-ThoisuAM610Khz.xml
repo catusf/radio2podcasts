@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 05 Jan 2023 00:05:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 05 Jan 2023 12:35:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 05 Jan 2023 00:05:00 +0700</pubDate>
+    <pubDate>Thu, 05 Jan 2023 12:35:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Đường hoa Tết 2023 hứa hẹn tràn ngập sắc xuân - Thời sự 5g30 5/1/2023</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/duong-hoa-tet-2023-hua-hen-tran-ngap-sac-xuan-thoi-su-5g30-5-1-2023-463017.html</link>
+      <description><![CDATA[05:35 - 05/01/2023]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/duong-hoa-tet-2023-hua-hen-tran-ngap-sac-xuan-thoi-su-5g30-5-1-2023-463017.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/01/05/amthoisu05h30p05012023-20230104224554.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 05 Jan 2023 12:35:00 +0700</pubDate>
+    </item>
     <item>
       <title>Tổng kết công tác ngành Nội chính Đảng năm 2022 - Thời sự 17g00 4/1/2023</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tong-ket-cong-tac-nganh-noi-chinh-dang-nam-2022-thoi-su-17g00-4-1-2023-462977.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/trien-lam-tong-tien-cong-va-noi-day-xuan-mau-than-1968-thoi-su-11g00-4-1-2023-462916.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/01/04/amthoisu11h00p040123-20230104103641.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 04 Jan 2023 18:01:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Xây dựng Chính phủ, chính quyền thật sự liêm chính, hiệu quả - Thời sự 5g30 4/1/2023</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/xay-dung-chinh-phu-chinh-quyen-that-su-liem-chinh-hieu-qua-thoi-su-5g30-4-1-2023-462860.html</link>
-      <description><![CDATA[06:15 - 04/01/2023]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/xay-dung-chinh-phu-chinh-quyen-that-su-liem-chinh-hieu-qua-thoi-su-5g30-4-1-2023-462860.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/01/04/amthoisu05h30p04012023-31p02s-20230103233432.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 04 Jan 2023 13:15:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
