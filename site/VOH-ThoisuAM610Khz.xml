@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 07 Jan 2023 00:27:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 07 Jan 2023 12:35:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 07 Jan 2023 00:27:00 +0700</pubDate>
+    <pubDate>Sat, 07 Jan 2023 12:35:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Kỷ niệm 44 năm Ngày chiến thắng chiến tranh bảo vệ biên giới Tây Nam - Thời sự 5g30 7/1/2023</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/ky-niem-44-nam-ngay-chien-thang-chien-tranh-bao-ve-bien-gioi-tay-nam-thoi-su-5g30-7-1-2023-463291.html</link>
+      <description><![CDATA[05:35 - 07/01/2023]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/ky-niem-44-nam-ngay-chien-thang-chien-tranh-bao-ve-bien-gioi-tay-nam-thoi-su-5g30-7-1-2023-463291.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/01/07/amthoisu05h30p07012023-20230106234849.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 07 Jan 2023 12:35:00 +0700</pubDate>
+    </item>
     <item>
       <title>Họp mặt kỷ niệm 55 năm cuộc Tổng tiến công và nổi dậy Xuân Mậu Thân 1968 - Thời sự 17g00 6/1/2023</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/hop-mat-ky-niem-55-nam-cuoc-tong-tien-cong-va-noi-day-xuan-mau-than-1968-thoi-su-17g00-6-1-2023-463240.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/hom-nay-quoc-hoi-thao-luan-o-to-ve-2-noi-dung-thoi-su-11g00-6-1-2023-463192.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/01/06/amthoisu11h00p060123-20230106103107.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 06 Jan 2023 18:12:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Tổng thống Philppines thăm Trung Quốc: Gác bất đồng để hợp tác - Thời sự 5g30 6/1/2023</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/tong-thong-philppines-tham-trung-quoc-gac-bat-dong-de-hop-tac-thoi-su-5g30-6-1-2023-463153.html</link>
-      <description><![CDATA[05:39 - 06/01/2023]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tong-thong-philppines-tham-trung-quoc-gac-bat-dong-de-hop-tac-thoi-su-5g30-6-1-2023-463153.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/01/06/amthoisu05h30p06012023-29p17s-20230105233840.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 06 Jan 2023 12:39:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
