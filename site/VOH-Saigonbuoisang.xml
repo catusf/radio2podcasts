@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 05 Jan 2023 14:37:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 06 Jan 2023 14:34:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 05 Jan 2023 14:37:00 +0700</pubDate>
+    <pubDate>Fri, 06 Jan 2023 14:34:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Đêm trao giải Làn sóng xanh - Sài Gòn buổi sáng 6/1/2023</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/dem-trao-giai-lan-song-xanh-sai-gon-buoi-sang-6-1-2023-463164.html</link>
+      <description><![CDATA[07:34 - 06/01/2023]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/dem-trao-giai-lan-song-xanh-sai-gon-buoi-sang-6-1-2023-463164.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/01/06/fmsgbs06h00p060123-20230106070221.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 06 Jan 2023 14:34:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Bé trai rơi vào trụ bêtông ở Đồng Tháp đã tử vong - Sài Gòn buổi sáng 5/1/2023</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/be-trai-roi-vao-tru-betong-o-dong-thap-da-tu-vong-sai-gon-buoi-sang-5-1-2023-463038.html</link>
       <description><![CDATA[07:37 - 05/01/2023]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/be-trai-roi-vao-tru-betong-o-dong-thap-da-tu-vong-sai-gon-buoi-sang-5-1-2023-463038.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/01/05/fmsgbs06h00p050123-20230105070120.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 05 Jan 2023 14:37:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Làng mai Tết TPHCM tất bật mùa cao điểm - Sài Gòn buổi sáng 4/1/2023</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/lang-mai-tet-tphcm-tat-bat-mua-cao-diem-sai-gon-buoi-sang-4-1-2023-462955.html</link>
-      <description><![CDATA[07:57 - 04/01/2023]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/lang-mai-tet-tphcm-tat-bat-mua-cao-diem-sai-gon-buoi-sang-4-1-2023-462955.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/01/04/fmsgbs06h00p040123-20230104145247.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 04 Jan 2023 14:57:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
