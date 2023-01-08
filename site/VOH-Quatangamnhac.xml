@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 01 Jan 2023 17:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 08 Jan 2023 17:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 01 Jan 2023 17:00:00 +0700</pubDate>
+    <pubDate>Sun, 08 Jan 2023 17:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Quà tặng âm nhạc trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Quatangamnhac.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Xuân ca - Quà tặng âm nhạc 8/1/2023</title>
+      <link>https://radio.voh.com.vn/qua-tang-am-nhac/xuan-ca-qua-tang-am-nhac-8-1-2023-463436.html</link>
+      <description><![CDATA[10:00 - 08/01/2023]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/xuan-ca-qua-tang-am-nhac-8-1-2023-463436.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/01/08/fmqtan10h00p08012023-20230107154805.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 08 Jan 2023 17:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Chào xuân mới - Quà tặng âm nhạc 1/1/2023</title>
       <link>https://radio.voh.com.vn/qua-tang-am-nhac/chao-xuan-moi-qua-tang-am-nhac-1-1-2023-462716.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/mien-tay-que-toi-qua-tang-am-nhac-11-12-2022-459814.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/12/12/fmqtan10h00p11122022-20221210222651.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 11 Dec 2022 17:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Sương lạnh chiều đông - Quà tặng âm nhạc 4/12/2022</title>
-      <link>https://radio.voh.com.vn/qua-tang-am-nhac/suong-lanh-chieu-dong-qua-tang-am-nhac-4-12-2022-458861.html</link>
-      <description><![CDATA[10:00 - 04/12/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/suong-lanh-chieu-dong-qua-tang-am-nhac-4-12-2022-458861.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/12/04/fmqtan10h00p04122022-20221203134603.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 04 Dec 2022 17:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
