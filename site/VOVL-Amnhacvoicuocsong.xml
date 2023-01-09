@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 01 Jan 2023 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 08 Jan 2023 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 01 Jan 2023 19:00:00 +0700</pubDate>
+    <pubDate>Sun, 08 Jan 2023 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,15 @@
     </itunes:owner>
     <itunes:subtitle>Âm nhạc với cuộc sống</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Amnhacvoicuocsong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>“Tây Bắc đó”- Ca khúc ngợi ca vẻ đẹp huyền bí của vùng đất Tây Bắc</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[- Nhạc sĩ Vũ Mạnh Cường hiện đang công tác tại Nhà hát Đài TNVN. Anh tham gia thu thanh, phối khí và dàn dựng nhiều tác phẩm mới của nhiều nhạc sĩ trong cả nước gửi về, góp phần vào việc phổ biến và tuyên truyền đến công chúng yêu âm nhạc những ca khúc mới trên làn sóng phát thanh. Chương trình hôm nay, thưởng thức sáng tác mới của nhạc sĩ Vũ Mạnh Cường, ca khúc “Tây Bắc đó” do các nghệ sĩ Nhà hát Đài TNVN trình bày và lắng nghe những chia sẻ của nhạc sĩ Vũ Mạnh Cường về hoàn cảnh ra đời của bài hát.
+- Nhân dịp kỉ niệm ngày bầu cử đầu tiên của nước Cộng hòa xã hội chủ nghĩa Việt Nam (6/1/1946), thưởng thức các ca khúc “Ngày Quốc hội”– ca khúc đầu tiên viết về đề tài Quốc hội của Nhạc sĩ Đỗ Nhuận; “Bài ca Quốc hội Việt Nam” (Nhạc sĩ Đỗ Hồng Quân) và lắng nghe những chia sẻ của nhạc sĩ Đỗ Hồng Quân - Chủ tịch Liên hiệp các hội văn học nghệ thuật Việt Nam về hai ca khúc này.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2023/01/09/vovlive_am_nhac_voi_cuoc_song_tay_bac_do.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 08 Jan 2023 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Những ca khúc hay về mùa xuân</title>
       <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
@@ -47,15 +56,6 @@
       <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/12/20/vovlive_am_nhac_voi_cuoc_song_ten_lua_ta_danh_rat_hay_huy_thuc.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 18 Dec 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>"Sứ mệnh thanh niên": Bài hát chính thức của Đại hội Đoàn toàn quốc lần thứ XII</title>
-      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[- Trước thềm Đại hội đại biểu toàn quốc Đoàn TNCS Hồ Chí Minh lần thứ XII nhiệm kỳ 2022 - 2027, 1.200 ca sĩ, nghệ sĩ, đoàn viên, thanh niên đã cùng nhau thực hiện MV “Sứ mệnh thanh niên”. Đây như một món quà ý nghĩa dành cho đại hội, là lời cổ vũ, động viên, khích lệ các bạn trẻ tham gia hoạt động Đoàn. Trong chương trình, thưởng thức ca khúc “Sứ mệnh thanh niên” (Lời: Quản Văn Hải, Âm nhạc: Quang Huy) và lắng nghe những chia sẻ của nhạc sĩ Nguyễn Bá Hùng – Giám đốc âm nhạc của MV về bài hát ý nghĩa này…
-- Thưởng thức ca khúc “Thanh niên Việt Nam tự hào tiến bước” và lắng nghe những chia sẻ của thượng úy Trần Thanh Tùng (bút danh Trần Tùng), PTV phòng Thời sự Truyền hình, Trung tâm phát thanh truyền hình quân đội-tác giả ca khúc này…]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/12/13/vovlive_am_nhac_voi_cuoc_song_su_menh_thanh_nien.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 11 Dec 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
