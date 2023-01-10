@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 09 Jan 2023 14:22:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 10 Jan 2023 14:41:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 09 Jan 2023 14:22:00 +0700</pubDate>
+    <pubDate>Tue, 10 Jan 2023 14:41:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>TPHCM sẽ bắn pháo hoa tại 6 điểm trong đêm giao thừa - Sài Gòn buổi sáng 10/1/2023</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/tphcm-se-ban-phao-hoa-tai-6-diem-trong-dem-giao-thua-sai-gon-buoi-sang-10-1-2023-463628.html</link>
+      <description><![CDATA[07:41 - 10/01/2023]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/tphcm-se-ban-phao-hoa-tai-6-diem-trong-dem-giao-thua-sai-gon-buoi-sang-10-1-2023-463628.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/01/10/fmsgbs06h00p100123-20230110070209.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 10 Jan 2023 14:41:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Ý nghĩa phiên chợ 0đ khi Xuân về Tết đến... - Sài Gòn buổi sáng 9/1/2023</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/y-nghia-phien-cho-0d-khi-xuan-ve-tet-den-sai-gon-buoi-sang-9-1-2023-463494.html</link>
       <description><![CDATA[07:22 - 09/01/2023]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/y-nghia-phien-cho-0d-khi-xuan-ve-tet-den-sai-gon-buoi-sang-9-1-2023-463494.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/01/09/fmsgbs06h00p090123-20230109070135.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 09 Jan 2023 14:22:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Trò chuyện NSNA Chu Chí Thành, Giải thưởng Hồ Chí Minh về VHNT 2022 - Sài Gòn buổi sáng 8/1/2023</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/tro-chuyen-nsna-chu-chi-thanh-giai-thuong-ho-chi-minh-ve-vhnt-2022-sai-gon-buoi-sang-8-1-2023-463385.html</link>
-      <description><![CDATA[06:45 - 08/01/2023]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/tro-chuyen-nsna-chu-chi-thanh-giai-thuong-ho-chi-minh-ve-vhnt-2022-sai-gon-buoi-sang-8-1-2023-463385.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/01/07/fmsaigonbuoisang06h00p080123-20230107185829.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 08 Jan 2023 13:45:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
