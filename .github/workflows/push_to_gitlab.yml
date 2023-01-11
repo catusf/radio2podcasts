@@ -1,3 +1,5 @@
+name: Push to GibLab
+
 on:
   - push
   - delete
