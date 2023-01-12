@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 11 Jan 2023 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 12 Jan 2023 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 11 Jan 2023 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 12 Jan 2023 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,17 @@
     <itunes:subtitle>Điểm hẹn văn nghệ</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Diemhenvannghe.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Bút ký “Cơm bộ đội trên hải trình DK1” 11/1/2023</title>
+      <title>“Cõi yêu”: Khám khá cung bậc cảm xúc trong tình yêu
+ 
+ 12/1/2023</title>
+      <link>http://vov6.vov.vn/diem-hen-van-nghe/coi-yeu-kham-kha-cung-bac-cam-xuc-trong-tinh-yeu-c158-36025.aspx</link>
+      <description><![CDATA[Tác giả Trần Vân Anh, bút danh Phong Nguyên (Hội Văn nghệ Lạng Sơn) vinh dự được tặng Giải A Giải thưởng Văn học nghệ thuật năm 2022 của Liên hiệp các Hội Văn học nghệ thuật Việt Nam, cho tập truyện ngắn “Cõi yêu” do Nhà xuất bản Hội Nhà văn ấn hành. Tập truyện gồm 3 tác phẩm: “Cõi yêu”, “Hồng Gai” và “Không thể khiên cưỡng” được viết bằng bút pháp lạ, truyện lồng trong truyện xoay quanh chủ đề muôn thuở tình yêu. (Điểm hẹn văn nghệ)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/coi-yeu-kham-kha-cung-bac-cam-xuc-trong-tinh-yeu-c158-36025.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/v2_0701_18h30_diem_hen_van_nghe_121202310.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Jan 2023 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Bút ký “Cơm bộ đội trên hải trình DK1”  11/1/2023</title>
       <link>http://vov6.vov.vn/diem-hen-van-nghe/but-ky-com-bo-doi-tren-hai-trinh-dk1-c158-36023.aspx</link>
       <description><![CDATA[Ðã thành thông lệ, hàng năm cứ vào dịp trước Tết Nguyên đán là những chuyến tàu của Quân chủng Hải quân và Kiểm ngư lại lên đường ra quần đảo Trường Sa, nhà giàn DK1 và các đảo tiền tiêu trên khắp các vùng biển Tổ quốc, đem những món quà Tết và tấm lòng của nhân dân cả nước đến với các cán bộ, chiến sĩ đang làm nhiệm vụ ngoài hải đảo xa xôi. Trong một chuyến đi như thế cách đây chưa lâu, nhà văn Phan Mai Hương đã có dịp chứng kiến tinh thần làm việc, ý thức trách nhiệm của các chiến sĩ trên tàu; sự quan tâm chăm sóc cũng như tình cảm của các anh dành cho đoàn công tác, trong đó có các nhà văn nhà báo. Nhà văn Phan Mai Hương đã xúc cảm viết nên bút ký “Cơm bộ đội trên hải trình DK1” đong đầy sự cảm phục và niềm tin yêu đối với các chiến sĩ hải quân nhân dân Việt Nam (Văn nghệ 10/1/2023)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/but-ky-com-bo-doi-tren-hai-trinh-dk1-c158-36023.aspx</guid>
@@ -38,14 +48,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/pgs-ts-bui-hoai-son-he-gia-tri-quy-tu-su-doan-ket-cua-moi-nguoi-c158-36004.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2023_1/vu_ha-bui_hoai_son_he_gia_tri_bai_2_91202310.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 09 Jan 2023 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>"Tri âm cùng con chữ”: Tấm chân tình của người cầm bút  5/1/2023</title>
-      <link>http://vov6.vov.vn/diem-hen-van-nghe/tri-am-cung-con-chu-tam-chan-tinh-cua-nguoi-cam-but-c158-35998.aspx</link>
-      <description><![CDATA[Trong 25 tác phẩm văn học được nhận Giải thưởng VHNT năm vừa qua của Liên hiệp các Hội VHNT Việt Nam có tập tiểu luận phê bình “Tri âm cùng con chữ” của nhà giáo, nhà phê bình Trịnh Vĩnh Đức (nhận Giải B). Ông là hội viên Hội Văn học Nghệ thuật Thanh Hóa, đồng thời là một trong những cây viết sung sức, có nhiều bài viết đăng tải trên các báo, tạp chí văn nghệ. Nhà phê bình Trịnh Vĩnh Đức đã ra mắt một số tác phẩm như “Lý luận phê bình văn học Thanh Hóa”, tập thơ “Hương biển”. Tập tiểu luận phê bình “Tri âm cùng con chữ” là tác phẩm mới nhất của ông. Sách do NXB Hội Nhà văn ấn hành. Sau đây, chúng ta cùng tìm hiểu tác phẩm này qua cuộc trò chuyện giữa nhà phê bình Trịnh Vĩnh Đức và phóng viên chương trình.]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/tri-am-cung-con-chu-tam-chan-tinh-cua-nguoi-cam-but-c158-35998.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2023_1/gts_tri_am_cung_con_chu_hc_51202311.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 05 Jan 2023 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
