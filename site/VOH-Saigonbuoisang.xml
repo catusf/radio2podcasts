@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 11 Jan 2023 14:34:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 12 Jan 2023 14:34:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 11 Jan 2023 14:34:00 +0700</pubDate>
+    <pubDate>Thu, 12 Jan 2023 14:34:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Phòng chống dịch Covid-19 dịp Tết Nguyên đán và mùa lễ hội năm 2023 - Sài Gòn buổi sáng 12/1/2023</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/phong-chong-dich-covid-19-dip-tet-nguyen-dan-va-mua-le-hoi-nam-2023-sai-gon-buoi-sang-12-1-2023-463886.html</link>
+      <description><![CDATA[07:34 - 12/01/2023]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/phong-chong-dich-covid-19-dip-tet-nguyen-dan-va-mua-le-hoi-nam-2023-sai-gon-buoi-sang-12-1-2023-463886.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/01/12/fmsgbs06h00p120123-20230112070134.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Jan 2023 14:34:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Người dân đã có thể đăng kiểm trực tuyến - Sài Gòn buổi sáng 11/1/2023</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/nguoi-dan-da-co-the-dang-kiem-truc-tuyen-sai-gon-buoi-sang-11-1-2023-463759.html</link>
       <description><![CDATA[07:34 - 11/01/2023]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/nguoi-dan-da-co-the-dang-kiem-truc-tuyen-sai-gon-buoi-sang-11-1-2023-463759.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/01/11/fmsgbs06h00p110123-20230111070532.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 11 Jan 2023 14:34:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>TPHCM sẽ bắn pháo hoa tại 6 điểm trong đêm giao thừa - Sài Gòn buổi sáng 10/1/2023</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/tphcm-se-ban-phao-hoa-tai-6-diem-trong-dem-giao-thua-sai-gon-buoi-sang-10-1-2023-463628.html</link>
-      <description><![CDATA[07:41 - 10/01/2023]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/tphcm-se-ban-phao-hoa-tai-6-diem-trong-dem-giao-thua-sai-gon-buoi-sang-10-1-2023-463628.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/01/10/fmsgbs06h00p100123-20230110070209.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 10 Jan 2023 14:41:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

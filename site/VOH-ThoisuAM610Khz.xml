@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 12 Jan 2023 00:36:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 12 Jan 2023 12:35:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 12 Jan 2023 00:36:00 +0700</pubDate>
+    <pubDate>Thu, 12 Jan 2023 12:35:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Để người nghèo ai cũng có Tết đầm ấm - Thời sự 5g30 12/1/2023</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/de-nguoi-ngheo-ai-cung-co-tet-dam-am-thoi-su-5g30-12-1-2023-463875.html</link>
+      <description><![CDATA[05:35 - 12/01/2023]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/de-nguoi-ngheo-ai-cung-co-tet-dam-am-thoi-su-5g30-12-1-2023-463875.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/01/12/amthoisu05h30p12012023-20230112022900.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Jan 2023 12:35:00 +0700</pubDate>
+    </item>
     <item>
       <title>Hướng dẫn chuyển đổi môn học lựa chọn, cụm chuyên đề học tập cấp THPT - Thời sự 17g00 11/1/2023</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/huong-dan-chuyen-doi-mon-hoc-lua-chon-cum-chuyen-de-hoc-tap-cap-thpt-thoi-su-17g00-11-1-2023-463836.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/nha-nong-4-0-khong-so-thoi-tiet-bat-thuong-thoi-su-11g00-11-1-2023-463782.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/01/11/amthoisu11h00p110123-20230111103551.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 11 Jan 2023 18:03:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Phiên họp lần 2của Ban Chỉ đạo phòng chống tham nhũng, tiêu cực TPHCM - Thời sự 5g30 11/1/2023</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/phien-hop-lan-2cua-ban-chi-dao-phong-chong-tham-nhung-tieu-cuc-tphcm-thoi-su-5g30-11-1-2023-463750.html</link>
-      <description><![CDATA[05:32 - 11/01/2023]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/phien-hop-lan-2cua-ban-chi-dao-phong-chong-tham-nhung-tieu-cuc-tphcm-thoi-su-5g30-11-1-2023-463750.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/01/11/amthoisu05h30p11012023-32p17s-20230110233027.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 11 Jan 2023 12:32:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
