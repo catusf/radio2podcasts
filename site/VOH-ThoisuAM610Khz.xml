@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 13 Jan 2023 18:10:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 14 Jan 2023 00:47:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 13 Jan 2023 18:10:00 +0700</pubDate>
+    <pubDate>Sat, 14 Jan 2023 00:47:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Thủ tướng Phạm Minh Chính dự Hội nghị tổng kết ngành Nông nghiệp - Thời sự 17g00 13/1/2023</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/thu-tuong-pham-minh-chinh-du-hoi-nghi-tong-ket-nganh-nong-nghiep-thoi-su-17g00-13-1-2023-464082.html</link>
+      <description><![CDATA[17:47 - 13/01/2023]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/thu-tuong-pham-minh-chinh-du-hoi-nghi-tong-ket-nganh-nong-nghiep-thoi-su-17g00-13-1-2023-464082.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/01/13/amthoisu17h00p130123-20230113164407.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 14 Jan 2023 00:47:00 +0700</pubDate>
+    </item>
     <item>
       <title>Mô hình thí điểm đầu tiên của cả nước trong chăm sóc sức khỏe tâm thần - Thời sự 11g00 13/1/2023</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/mo-hinh-thi-diem-dau-tien-cua-ca-nuoc-trong-cham-soc-suc-khoe-tam-than-thoi-su-11g00-13-1-2023-464037.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/chu-tich-nuoc-du-hoi-nghi-thuong-dinh-truc-tuyen-tieng-noi-phuong-nam-thoi-su-5g30-13-1-2023-464006.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/01/13/amthoisu05h30p13012023-20230112235955.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 13 Jan 2023 12:47:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>“Chuyến xe mùa xuân – Tết sum vầy” - Thời sự 17g00 12/1/2023</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/chuyen-xe-mua-xuan-tet-sum-vay-thoi-su-17g00-12-1-2023-463972.html</link>
-      <description><![CDATA[18:28 - 12/01/2023]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/chuyen-xe-mua-xuan-tet-sum-vay-thoi-su-17g00-12-1-2023-463972.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/01/12/amthoisu17h00p120123-20230112164352.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 13 Jan 2023 01:28:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
