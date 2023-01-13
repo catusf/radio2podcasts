@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 13 Jan 2023 12:47:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 13 Jan 2023 18:10:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 13 Jan 2023 12:47:00 +0700</pubDate>
+    <pubDate>Fri, 13 Jan 2023 18:10:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Mô hình thí điểm đầu tiên của cả nước trong chăm sóc sức khỏe tâm thần - Thời sự 11g00 13/1/2023</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/mo-hinh-thi-diem-dau-tien-cua-ca-nuoc-trong-cham-soc-suc-khoe-tam-than-thoi-su-11g00-13-1-2023-464037.html</link>
+      <description><![CDATA[11:10 - 13/01/2023]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/mo-hinh-thi-diem-dau-tien-cua-ca-nuoc-trong-cham-soc-suc-khoe-tam-than-thoi-su-11g00-13-1-2023-464037.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/01/13/amthoisu11h00p130123-20230113103439.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 13 Jan 2023 18:10:00 +0700</pubDate>
+    </item>
     <item>
       <title>Chủ tịch nước dự hội nghị thượng đỉnh trực tuyến “Tiếng nói phương Nam" - Thời sự 5g30 13/1/2023</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/chu-tich-nuoc-du-hoi-nghi-thuong-dinh-truc-tuyen-tieng-noi-phuong-nam-thoi-su-5g30-13-1-2023-464006.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/chuyen-xe-mua-xuan-tet-sum-vay-thoi-su-17g00-12-1-2023-463972.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/01/12/amthoisu17h00p120123-20230112164352.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 13 Jan 2023 01:28:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Phát triển đảng trong doanh nghiệp tư nhân - Thời sự 11g00 12/1/2023</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/phat-trien-dang-trong-doanh-nghiep-tu-nhan-thoi-su-11g00-12-1-2023-463906.html</link>
-      <description><![CDATA[11:45 - 12/01/2023]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/phat-trien-dang-trong-doanh-nghiep-tu-nhan-thoi-su-11g00-12-1-2023-463906.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/01/12/amthoisu11h00p120123-20230112103242.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 12 Jan 2023 18:45:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
