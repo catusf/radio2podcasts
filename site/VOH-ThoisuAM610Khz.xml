@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 18 Jan 2023 00:45:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 18 Jan 2023 12:38:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 18 Jan 2023 00:45:00 +0700</pubDate>
+    <pubDate>Wed, 18 Jan 2023 12:38:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ấm áp mùa xuân cho bệnh nhân không về quê đón Tết - Thời sự 5g30 18/1/2023</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/am-ap-mua-xuan-cho-benh-nhan-khong-ve-que-don-tet-thoi-su-5g30-18-1-2023-464626.html</link>
+      <description><![CDATA[05:38 - 18/01/2023]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/am-ap-mua-xuan-cho-benh-nhan-khong-ve-que-don-tet-thoi-su-5g30-18-1-2023-464626.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/01/18/amthoisu05h30p18012023-33p43s-20230117233952.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 18 Jan 2023 12:38:00 +0700</pubDate>
+    </item>
     <item>
       <title>Kỷ niệm trọng thể 50 năm Ngày ký Hiệp định Paris - Thời sự 17g00 17/1/2023</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/ky-niem-trong-the-50-nam-ngay-ky-hiep-dinh-paris-thoi-su-17g00-17-1-2023-464597.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/chung-tay-mang-tet-den-voi-ban-tre-xa-que-thoi-su-11g00-17-1-2023-464504.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/01/17/amthoisu11h00p170123-20230117103441.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 17 Jan 2023 18:11:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Không chủ quan trong phòng chống Covid-19 dịp Tết nguyên đán 2023 - Thời sự 5g30 17/1/2023</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/khong-chu-quan-trong-phong-chong-covid-19-dip-tet-nguyen-dan-2023-thoi-su-5g30-17-1-2023-464476.html</link>
-      <description><![CDATA[05:57 - 17/01/2023]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/khong-chu-quan-trong-phong-chong-covid-19-dip-tet-nguyen-dan-2023-thoi-su-5g30-17-1-2023-464476.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/01/17/amthoisu05h30p17012023-20230117002108.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 17 Jan 2023 12:57:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
