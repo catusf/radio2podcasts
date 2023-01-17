@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 08 Jan 2023 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 15 Jan 2023 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 08 Jan 2023 19:00:00 +0700</pubDate>
+    <pubDate>Sun, 15 Jan 2023 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Âm nhạc với cuộc sống</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Amnhacvoicuocsong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ca sĩ Hà Myo: Thành công từ những đam mê, trải nghiệm của riêng mình</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[Khán giả trẻ không còn xa lạ với cái tên Hà Myo - nữ ca sĩ tâm huyết đưa âm nhạc truyền thống đến gần với khán giả trẻ bằng con đường ít người lựa chọn. Dường như cá tính mạnh mẽ đã khiến Hà Myo bỏ qua tất cả để trọn vẹn với những đam mê, trải nghiệm riêng của mình. Sau thành công với Xẩm, cái tên Hà Myo tiếp tục được khán giả nhắc đến với MV vừa ra mắt: “Trò chơi… í a… Trời cho”, một phép cộng nhuần nhuyễn giữa hát Xoan với Rap, EDM. Cùng gặp gỡ  Hà Myo để tìm hiểu về những thành công của nữ ca sĩ trong năm 2022 vừa qua…]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2023/01/16/vovlive_am_nhac_voi_cuoc_song_ha_myo_thanh_cong_2022.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 15 Jan 2023 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>“Tây Bắc đó”- Ca khúc ngợi ca vẻ đẹp huyền bí của vùng đất Tây Bắc</title>
       <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
@@ -48,14 +56,6 @@
       <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/12/26/vovlive_am_nhac_voi_cuoc_song_ky_niem_50_nam_chien_thang_dbp_tren_khong.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 25 Dec 2022 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>“Tên lửa ta đánh rất hay”: Ca khúc ghi dấu ấn tầm vóc chiến thắng thời đại</title>
-      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[“Chiến thắng Điện Biên Phủ trên không” là sự kiện lịch sử trọng đại và kỳ tích có một không hai - biểu tượng chiến thắng của bản lĩnh, trí tuệ và chủ nghĩa anh hùng Cách mạng Việt Nam. Đây là chiến thắng có ý nghĩa lịch sử và thời đại sâu sắc, góp phần rất quan trọng đưa cuộc kháng chiến chống Mỹ cứu nước của dân tộc ta đi đến thắng lợi hoàn toàn. Trong 12 ngày đêm chiến đấu anh dũng, kiên cường, mưu trí, sáng tạo, quân và dân ta đã đánh bại hoàn toàn cuộc tập kích chiến lược đường không quy mô lớn chưa từng có, chủ yếu bằng B.52 của Mỹ, làm nên chiến thắng “Hà Nội - Điện Biên Phủ trên không” lẫy lừng, bắn rơi 81 máy bay các loại, trong đó có 34 chiếc B.52, tiêu diệt và bắt sống hàng trăm giặc lái Mỹ. Đây cũng là lần đầu tiên trong lịch sử, “siêu pháo đài bay B.52” thảm bại và không quân Mỹ phải chịu thiệt hại nặng nề nhất. Kỷ niệm 50 năm “Chiến thắng Điện Biên Phủ trên không” (T12/1972-T12/2022), cùng thưởng thức ca khúc “Tên lửa ta đánh rất hay” (Sáng tác: Nhạc sĩ Huy Thục, Trình bày: NSƯT Bích Liên, Nghệ sĩ Phạm Thu Hà) và tìm hiểu ý nghĩa lịch sử của ca khúc này…]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/12/20/vovlive_am_nhac_voi_cuoc_song_ten_lua_ta_danh_rat_hay_huy_thuc.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 18 Dec 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
