@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 20 Jan 2023 13:02:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 20 Jan 2023 18:19:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 20 Jan 2023 13:02:00 +0700</pubDate>
+    <pubDate>Fri, 20 Jan 2023 18:19:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Du lịch TPHCM mang đến cho du khách nhiều thú vị Tết Quý Mão - Thời sự 11g00 20/1/2023</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/du-lich-tphcm-mang-den-cho-du-khach-nhieu-thu-vi-tet-quy-mao-thoi-su-11g00-20-1-2023-464918.html</link>
+      <description><![CDATA[11:19 - 20/01/2023]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/du-lich-tphcm-mang-den-cho-du-khach-nhieu-thu-vi-tet-quy-mao-thoi-su-11g00-20-1-2023-464918.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/01/20/amthoisu11h00p200123-20230120101411.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 20 Jan 2023 18:19:00 +0700</pubDate>
+    </item>
     <item>
       <title>Con đường nhiều kỳ vọng - Thời sự 5g30 20/1/2023</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/con-duong-nhieu-ky-vong-thoi-su-5g30-20-1-2023-464889.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/don-tet-som-tren-nha-gian-dk1-thoi-su-17g00-19-1-2023-464833.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/01/19/amthoisu05h30p19012023-2023011823135.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 20 Jan 2023 01:01:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Sẵn sàng cho một mùa du lịch khởi sắc - Thời sự 11g00 19/1/2023</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/san-sang-cho-mot-mua-du-lich-khoi-sac-thoi-su-11g00-19-1-2023-464768.html</link>
-      <description><![CDATA[11:16 - 19/01/2023]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/san-sang-cho-mot-mua-du-lich-khoi-sac-thoi-su-11g00-19-1-2023-464768.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/01/19/amthoisu11h00p190123-20230119105054.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 19 Jan 2023 18:16:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
