@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 20 Jan 2023 18:19:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 21 Jan 2023 00:58:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 20 Jan 2023 18:19:00 +0700</pubDate>
+    <pubDate>Sat, 21 Jan 2023 00:58:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Vững vàng niềm tin, quyết tâm bảo vệ vững chắc chủ quyền biển đảo - Thời sự 17g00 20/1/2023</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/vung-vang-niem-tin-quyet-tam-bao-ve-vung-chac-chu-quyen-bien-dao-thoi-su-17g00-20-1-2023-464936.html</link>
+      <description><![CDATA[17:58 - 20/01/2023]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/vung-vang-niem-tin-quyet-tam-bao-ve-vung-chac-chu-quyen-bien-dao-thoi-su-17g00-20-1-2023-464936.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/01/20/amthoisu17h00p200123-20230120164210.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 21 Jan 2023 00:58:00 +0700</pubDate>
+    </item>
     <item>
       <title>Du lịch TPHCM mang đến cho du khách nhiều thú vị Tết Quý Mão - Thời sự 11g00 20/1/2023</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/du-lich-tphcm-mang-den-cho-du-khach-nhieu-thu-vi-tet-quy-mao-thoi-su-11g00-20-1-2023-464918.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/con-duong-nhieu-ky-vong-thoi-su-5g30-20-1-2023-464889.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/01/20/amthoisu05h30p20012023-20230119231733.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 20 Jan 2023 13:02:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đón Tết sớm trên nhà giàn DK1 - Thời sự 17g00 19/1/2023</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/don-tet-som-tren-nha-gian-dk1-thoi-su-17g00-19-1-2023-464833.html</link>
-      <description><![CDATA[18:01 - 19/01/2023]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/don-tet-som-tren-nha-gian-dk1-thoi-su-17g00-19-1-2023-464833.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/01/19/amthoisu05h30p19012023-2023011823135.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 20 Jan 2023 01:01:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
