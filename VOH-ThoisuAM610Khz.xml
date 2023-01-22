@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 22 Jan 2023 12:44:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 22 Jan 2023 18:17:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 22 Jan 2023 12:44:00 +0700</pubDate>
+    <pubDate>Sun, 22 Jan 2023 18:17:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Du lịch TPHCM phục hồi mạnh mẽ - Thời sự 11g00 22/1/2023</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/du-lich-tphcm-phuc-hoi-manh-me-thoi-su-11g00-22-1-2023-465061.html</link>
+      <description><![CDATA[11:17 - 22/01/2023]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/du-lich-tphcm-phuc-hoi-manh-me-thoi-su-11g00-22-1-2023-465061.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/01/22/amthoisu11h00p220123-20230122104629.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 22 Jan 2023 18:17:00 +0700</pubDate>
+    </item>
     <item>
       <title>Bứt tốc đón đầu vận hội mới - Thời sự 5g30 22/1/2023</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/but-toc-don-dau-van-hoi-moi-thoi-su-5g30-22-1-2023-465047.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/tet-am-den-voi-dong-bao-dan-toc-thieu-so-o-tphcm-thoi-su-17g00-21-1-2023-465019.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/01/21/amthoisu17h00p210123-20230121165158.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 22 Jan 2023 00:16:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Mong muốn của những nhà nông trước thềm năm mới - Thời sự 11g00 21/1/2023</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/mong-muon-cua-nhung-nha-nong-truoc-them-nam-moi-thoi-su-11g00-21-1-2023-465001.html</link>
-      <description><![CDATA[11:10 - 21/01/2023]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/mong-muon-cua-nhung-nha-nong-truoc-them-nam-moi-thoi-su-11g00-21-1-2023-465001.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/01/21/amthoisu11h00p21012023-20230121104627.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 21 Jan 2023 18:10:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
