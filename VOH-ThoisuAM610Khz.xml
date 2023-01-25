@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 25 Jan 2023 00:59:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 25 Jan 2023 12:45:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 25 Jan 2023 00:59:00 +0700</pubDate>
+    <pubDate>Wed, 25 Jan 2023 12:45:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Xuất khẩu nông sản năm 2022 là nỗ lực đổi mới của người sản xuất và DN - Thời sự 5g30 25/1/2023</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/xuat-khau-nong-san-nam-2022-la-no-luc-doi-moi-cua-nguoi-san-xuat-va-dn-thoi-su-5g30-25-1-2023-465195.html</link>
+      <description><![CDATA[05:45 - 25/01/2023]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/xuat-khau-nong-san-nam-2022-la-no-luc-doi-moi-cua-nguoi-san-xuat-va-dn-thoi-su-5g30-25-1-2023-465195.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/01/25/amthoisu05h30p25012023-30p36s-20230124225305.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 25 Jan 2023 12:45:00 +0700</pubDate>
+    </item>
     <item>
       <title>“Mùng 3 Tết thầy" - Thời sự 17g00 24/1/2023</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/mung-3-tet-thay-thoi-su-17g00-24-1-2023-465169.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/xom-tro-cong-nhan-ron-rang-vui-tet-thoi-su-11g00-24-1-2023-465162.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/01/24/thoi-su-11h00-t3-ngay-24-01-2023-20230124104747.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 24 Jan 2023 18:09:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Những câu chuyện của tình nhân ái - Thời sự 5g30 24/1/2023</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/nhung-cau-chuyen-cua-tinh-nhan-ai-thoi-su-5g30-24-1-2023-465154.html</link>
-      <description><![CDATA[06:10 - 24/01/2023]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/nhung-cau-chuyen-cua-tinh-nhan-ai-thoi-su-5g30-24-1-2023-465154.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/01/24/amthoisu05h30p24012023-20230124002125.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 24 Jan 2023 13:10:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
