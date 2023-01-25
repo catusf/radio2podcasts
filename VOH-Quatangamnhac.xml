@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 22 Jan 2023 17:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 08 Jan 2023 17:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 22 Jan 2023 17:00:00 +0700</pubDate>
+    <pubDate>Sun, 08 Jan 2023 17:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,22 +23,6 @@
     </itunes:owner>
     <itunes:subtitle>Quà tặng âm nhạc trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Quatangamnhac.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Chúc Tết mọi nhà - Quà tặng âm nhạc 22/1/2023</title>
-      <link>https://radio.voh.com.vn/qua-tang-am-nhac/chuc-tet-moi-nha-qua-tang-am-nhac-22-1-2023-465065.html</link>
-      <description><![CDATA[10:00 - 22/01/2023]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/chuc-tet-moi-nha-qua-tang-am-nhac-22-1-2023-465065.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/01/22/fmqtan10h00p22012023-20230108181447.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 22 Jan 2023 17:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Ước mơ ngọt ngào - Quà tặng âm nhạc 15/1/2023</title>
-      <link>https://radio.voh.com.vn/qua-tang-am-nhac/uoc-mo-ngot-ngao-qua-tang-am-nhac-15-1-2023-464377.html</link>
-      <description><![CDATA[10:00 - 15/01/2023]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/uoc-mo-ngot-ngao-qua-tang-am-nhac-15-1-2023-464377.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/01/16/fmqtan10h00p15012023-20230114122843.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 15 Jan 2023 17:00:00 +0700</pubDate>
-    </item>
     <item>
       <title>Xuân ca - Quà tặng âm nhạc 8/1/2023</title>
       <link>https://radio.voh.com.vn/qua-tang-am-nhac/xuan-ca-qua-tang-am-nhac-8-1-2023-463436.html</link>
@@ -62,6 +46,22 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/hoa-nhip-giang-sinh-qua-tang-am-nhac-25-12-2022-461750.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/12/26/fmqtan10h00p25122022-20221224161130.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 25 Dec 2022 17:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Nhánh lan rừng - Quà tặng âm nhạc 18/12/2022</title>
+      <link>https://radio.voh.com.vn/qua-tang-am-nhac/nhanh-lan-rung-qua-tang-am-nhac-18-12-2022-460790.html</link>
+      <description><![CDATA[10:00 - 18/12/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/nhanh-lan-rung-qua-tang-am-nhac-18-12-2022-460790.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/12/18/fmqtan10h00p18122022-20221217130137.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 18 Dec 2022 17:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Miền Tây quê tôi - Quà tặng âm nhạc 11/12/2022</title>
+      <link>https://radio.voh.com.vn/qua-tang-am-nhac/mien-tay-que-toi-qua-tang-am-nhac-11-12-2022-459814.html</link>
+      <description><![CDATA[10:00 - 11/12/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/mien-tay-que-toi-qua-tang-am-nhac-11-12-2022-459814.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/12/12/fmqtan10h00p11122022-20221210222651.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 11 Dec 2022 17:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
