@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 20 Jan 2023 14:48:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 25 Jan 2023 15:22:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 20 Jan 2023 14:48:00 +0700</pubDate>
+    <pubDate>Wed, 25 Jan 2023 15:22:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Nguyện ước năm mới - Sài Gòn buổi sáng 25/1/2023</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/nguyen-uoc-nam-moi-sai-gon-buoi-sang-25-1-2023-465202.html</link>
+      <description><![CDATA[08:22 - 25/01/2023]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/nguyen-uoc-nam-moi-sai-gon-buoi-sang-25-1-2023-465202.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/01/25/sgbs-250123-hoanchinh-20230125072154.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 25 Jan 2023 15:22:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Khai mạc đường hoa Nguyễn Huệ Tết Quý Mão - Sài Gòn buổi sáng 20/1/2023</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/khai-mac-duong-hoa-nguyen-hue-tet-quy-mao-sai-gon-buoi-sang-20-1-2023-464900.html</link>
       <description><![CDATA[07:48 - 20/01/2023]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/khai-mac-duong-hoa-nguyen-hue-tet-quy-mao-sai-gon-buoi-sang-20-1-2023-464900.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/01/20/fmsgbs06h00p200123-20230120070425.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 20 Jan 2023 14:48:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đoàn công tác UBND TPHCM kiểm tra tiến độ đường sách Tết - Sài Gòn buổi sáng 19/1/2023</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/doan-cong-tac-ubnd-tphcm-kiem-tra-tien-do-duong-sach-tet-sai-gon-buoi-sang-19-1-2023-464750.html</link>
-      <description><![CDATA[07:14 - 19/01/2023]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/doan-cong-tac-ubnd-tphcm-kiem-tra-tien-do-duong-sach-tet-sai-gon-buoi-sang-19-1-2023-464750.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/01/19/fmsgbs06h00p190123-20230119070127.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 19 Jan 2023 14:14:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
