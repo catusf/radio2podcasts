@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 20 Jan 2023 20:15:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 07 Jan 2023 02:49:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 20 Jan 2023 20:15:00 +0700</pubDate>
+    <pubDate>Sat, 07 Jan 2023 02:49:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,22 +23,6 @@
     </itunes:owner>
     <itunes:subtitle>Làn sóng xanh trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Lansongxanh.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Làn Sóng Xanh số đặc biệt mừng xuân Quý Mão 2023 - 20/1/2023</title>
-      <link>https://radio.voh.com.vn/lan-song-xanh/lan-song-xanh-so-dac-biet-mung-xuan-quy-mao-2023-20-1-2023-464922.html</link>
-      <description><![CDATA[13:15 - 20/01/2023]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/lan-song-xanh/lan-song-xanh-so-dac-biet-mung-xuan-quy-mao-2023-20-1-2023-464922.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/01/20/lsx-200123-lan2-20230119190011.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 20 Jan 2023 20:15:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Làn Sóng Xanh (tuần 1 tháng 1) - 13/1/2023</title>
-      <link>https://radio.voh.com.vn/lan-song-xanh/lan-song-xanh-tuan-1-thang-1-13-1-2023-464049.html</link>
-      <description><![CDATA[14:30 - 13/01/2023]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/lan-song-xanh/lan-song-xanh-tuan-1-thang-1-13-1-2023-464049.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/01/13/lsx-130123-final-20230112203948.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 13 Jan 2023 21:30:00 +0700</pubDate>
-    </item>
     <item>
       <title>Lễ trao giải Làn Sóng Xanh - 6/1/2023</title>
       <link>https://radio.voh.com.vn/lan-song-xanh/le-trao-giai-lan-song-xanh-6-1-2023-463259.html</link>
@@ -62,6 +46,22 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/lan-song-xanh/lan-song-xanh-tuan-3-thang-12-23-12-2022-461403.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/12/23/lsx-231222-final-20221223001537.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 23 Dec 2022 22:09:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Làn Sóng Xanh (tuần 2 tháng 12) - 16/12/2022</title>
+      <link>https://radio.voh.com.vn/lan-song-xanh/lan-song-xanh-tuan-2-thang-12-16-12-2022-460455.html</link>
+      <description><![CDATA[12:23 - 16/12/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/lan-song-xanh/lan-song-xanh-tuan-2-thang-12-16-12-2022-460455.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/12/16/lsx-161222-final-20221215224529.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 16 Dec 2022 19:23:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Làn Sóng Xanh (tuần 1 tháng 12) - 9/12/2022</title>
+      <link>https://radio.voh.com.vn/lan-song-xanh/lan-song-xanh-tuan-1-thang-12-9-12-2022-459476.html</link>
+      <description><![CDATA[15:04 - 09/12/2022]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/lan-song-xanh/lan-song-xanh-tuan-1-thang-12-9-12-2022-459476.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/12/09/lsx-091222-qc-20221208234103.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 09 Dec 2022 22:04:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
