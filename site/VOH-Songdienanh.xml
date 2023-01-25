@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 16 Jan 2023 03:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 23 Jan 2023 03:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 16 Jan 2023 03:00:00 +0700</pubDate>
+    <pubDate>Mon, 23 Jan 2023 03:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sóng điện ảnh trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Songdienanh.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Hậu trường phim Tết Chị chị em em 2 - Khung hình thứ 25 22/1/2023</title>
+      <link>https://radio.voh.com.vn/khung-hinh-thu-25/hau-truong-phim-tet-chi-chi-em-em-2-khung-hinh-thu-25-22-1-2023-465067.html</link>
+      <description><![CDATA[20:00 - 22/01/2023]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/khung-hinh-thu-25/hau-truong-phim-tet-chi-chi-em-em-2-khung-hinh-thu-25-22-1-2023-465067.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/01/22/fmkhunghinhthuhaimuoilam20h00p220123lan2-20230120064559.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 23 Jan 2023 03:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Giao lưu đoàn phim Siêu lừa gặp siêu lầy - Khung hình thứ 25 15/1/2023</title>
       <link>https://radio.voh.com.vn/khung-hinh-thu-25/giao-luu-doan-phim-sieu-lua-gap-sieu-lay-khung-hinh-thu-25-15-1-2023-464381.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/khung-hinh-thu-25/hau-truong-phim-dien-anh-dao-doc-dac-khung-hinh-thu-25-25-12-2022-461751.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/12/26/fmkhunghinhthuhaimuoilam20h00p251222-20221225074740.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 26 Dec 2022 03:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Các nam phản diện trong điện ảnh Việt (Kỳ cuối) - Khung hình thứ 25 18/12/2022</title>
-      <link>https://radio.voh.com.vn/khung-hinh-thu-25/cac-nam-phan-dien-trong-dien-anh-viet-ky-cuoi-khung-hinh-thu-25-18-12-2022-460793.html</link>
-      <description><![CDATA[20:00 - 18/12/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/khung-hinh-thu-25/cac-nam-phan-dien-trong-dien-anh-viet-ky-cuoi-khung-hinh-thu-25-18-12-2022-460793.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/12/18/fmkhunghinhthuhaimuoilam20h00p181222-20221218131039.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 19 Dec 2022 03:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
