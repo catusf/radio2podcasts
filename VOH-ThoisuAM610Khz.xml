@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 28 Jan 2023 13:03:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 28 Jan 2023 18:27:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 28 Jan 2023 13:03:00 +0700</pubDate>
+    <pubDate>Sat, 28 Jan 2023 18:27:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Thủ tướng đánh giá Tết Nguyên đán 2023 là Tết "an vui, an toàn" - Thời sự 11g 28/1/2023</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/thu-tuong-danh-gia-tet-nguyen-dan-2023-la-tet-an-vui-an-toan-thoi-su-11g-28-1-2023-464944.html</link>
+      <description><![CDATA[11:27 - 28/01/2023]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/thu-tuong-danh-gia-tet-nguyen-dan-2023-la-tet-an-vui-an-toan-thoi-su-11g-28-1-2023-464944.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/01/28/amthoisu11h00p280123-20230128104254.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 28 Jan 2023 18:27:00 +0700</pubDate>
+    </item>
     <item>
       <title>Quốc hội khóa XV tiếp tục đổi mới, nâng cao chất lượng, hiệu quả - Thời sự 5g30 28/1/2023</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/quoc-hoi-khoa-xv-tiep-tuc-doi-moi-nang-cao-chat-luong-hieu-qua-thoi-su-5g30-28-1-2023-464914.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/thu-tuong-du-le-phat-dong-tet-trong-cay-thoi-su-17g00-27-1-2023-464877.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/01/27/amthoisu17h00p270123-20230127164840.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 28 Jan 2023 01:14:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>7 nhóm nhiệm vụ giải pháp thực hiện hiệu quả Nghị quyết số 31 - Thời sự 11g00 27/1/2023</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/7-nhom-nhiem-vu-giai-phap-thuc-hien-hieu-qua-nghi-quyet-so-31-thoi-su-11g00-27-1-2023-464864.html</link>
-      <description><![CDATA[11:00 - 27/01/2023]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/7-nhom-nhiem-vu-giai-phap-thuc-hien-hieu-qua-nghi-quyet-so-31-thoi-su-11g00-27-1-2023-464864.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/01/27/amthoisu11h00p270123-20230127102714.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 27 Jan 2023 18:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
