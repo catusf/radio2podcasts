@@ -24,6 +24,14 @@
     <itunes:subtitle>Cửa sổ văn học trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Cuasovanhoc.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Hội nhà văn TPHCM: Tín hiệu vui từ hội viên mới - Cửa sổ văn học 15/1/2023</title>
+      <link>https://radio.voh.com.vn/cua-so-van-hoc/hoi-nha-van-tphcm-tin-hieu-vui-tu-hoi-vien-moi-cua-so-van-hoc-15-1-2023-465049.html</link>
+      <description><![CDATA[11:25 - 15/01/2023]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/hoi-nha-van-tphcm-tin-hieu-vui-tu-hoi-vien-moi-cua-so-van-hoc-15-1-2023-465049.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/01/15/fmcuasovanhoc07h00p150123-20230114133816.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 15 Jan 2023 18:25:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Ngày thơ Việt Nam tại TPHCM: “Khát vọng phương Nam” - Cửa sổ văn học 29/1/2023</title>
       <link>https://radio.voh.com.vn/cua-so-van-hoc/ngay-tho-viet-nam-tai-tphcm-khat-vong-phuong-nam-cua-so-van-hoc-29-1-2023-464893.html</link>
       <description><![CDATA[08:16 - 29/01/2023]]></description>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/gap-go-nhung-cay-viet-tre-dau-xuan-cua-so-van-hoc-22-1-2023-464486.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/01/22/cua-so-van-hoc-22012023-20230110235126.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 23 Jan 2023 01:46:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Cố nhà thơ Nguyễn Vũ Tiềm được trao giải cống hiến - Cửa sổ văn học 8/1/2023</title>
-      <link>https://radio.voh.com.vn/cua-so-van-hoc/co-nha-tho-nguyen-vu-tiem-duoc-trao-giai-cong-hien-cua-so-van-hoc-8-1-2023-463382.html</link>
-      <description><![CDATA[08:36 - 08/01/2023]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/co-nha-tho-nguyen-vu-tiem-duoc-trao-giai-cong-hien-cua-so-van-hoc-8-1-2023-463382.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/01/07/fmcuasovanhoc07h00p080123-20230107154844.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 08 Jan 2023 15:36:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
