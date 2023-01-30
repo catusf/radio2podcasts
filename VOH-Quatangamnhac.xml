@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 22 Jan 2023 17:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 29 Jan 2023 17:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 22 Jan 2023 17:00:00 +0700</pubDate>
+    <pubDate>Sun, 29 Jan 2023 17:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Quà tặng âm nhạc trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Quatangamnhac.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Một năm mới bình an - Quà tặng âm nhạc 29/1/2023</title>
+      <link>https://radio.voh.com.vn/qua-tang-am-nhac/mot-nam-moi-binh-an-qua-tang-am-nhac-29-1-2023-465524.html</link>
+      <description><![CDATA[10:00 - 29/01/2023]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/mot-nam-moi-binh-an-qua-tang-am-nhac-29-1-2023-465524.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/01/30/fmqtan10h00p29012023-20230128172130.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 29 Jan 2023 17:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Chúc Tết mọi nhà - Quà tặng âm nhạc 22/1/2023</title>
       <link>https://radio.voh.com.vn/qua-tang-am-nhac/chuc-tet-moi-nha-qua-tang-am-nhac-22-1-2023-464497.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/chao-xuan-moi-qua-tang-am-nhac-1-1-2023-462716.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/01/02/fmqtan10h00p01012023-20221231150053.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 01 Jan 2023 17:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Hòa nhịp giáng sinh - Quà tặng âm nhạc 25/12/2022</title>
-      <link>https://radio.voh.com.vn/qua-tang-am-nhac/hoa-nhip-giang-sinh-qua-tang-am-nhac-25-12-2022-461750.html</link>
-      <description><![CDATA[10:00 - 25/12/2022]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/hoa-nhip-giang-sinh-qua-tang-am-nhac-25-12-2022-461750.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2022/12/26/fmqtan10h00p25122022-20221224161130.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 25 Dec 2022 17:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
