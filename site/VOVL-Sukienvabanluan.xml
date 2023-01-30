@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 12 Jan 2023 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 18 Jan 2023 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 12 Jan 2023 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 18 Jan 2023 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Chi tiền để người dân rời Thủ đô: Chính sách giảm tải dân số ở Nhật Bản có hiệu quả?</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Sự quá tải về dân số ở các đô thị lớn là thực trạng đang diễn ra tại nhiều quốc gia trên thế giới. Thành phố Tokyo của Nhật Bản là một điển hình. Trong nỗ lực nhằm giảm tải dân số cho Tokyo cũng như hồi sinh các vùng nông thôn và thúc đẩy tỷ lệ sinh đang giảm, chính phủ Nhật Bản áp dụng nhiều chính sách khuyến khích người dân rời thành phố, đến các nơi khác sinh sống, trong đó có việc cung cấp tiền để các gia đình di dời khỏi vùng đô thị Tokyo. Chính sách mới nhất dự kiến có hiệu lực từ tháng 4 tới - được coi là kế hoạch đầy tham vọng, tuy nhiên liệu đây có thể là giải pháp dài hạn cho vấn đề nhân khẩu học của Nhật Bản hay không?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2023/01/18/vovlive_sukienvabanluan_chi_tien_cho_nguoi_dan_roi_thu_do.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 18 Jan 2023 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Bình Dương - Chuyển đổi số nhằm phục vụ người dân và doanh nghiệp ngày một tốt hơn</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2023/01/09/vovlive_sukienvabanluan_thao_go_kho_khan_ch_cac_trung_tam_dang_kiem.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 09 Jan 2023 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Du lịch Campuchia phục hồi mạnh mẽ</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Theo báo cáo của Bộ Du lịch Campuchia, lượng khách quốc tế đến quốc gia này trong năm 2022 vừa qua đạt hơn 2,2 triệu lượt, đưa du lịch trở thành một trong những lĩnh vực có đóng góp nhiều nhất vào tốc độ tăng trưởng chung 4,8% của nền kinh tế Campuchia. Còn nhớ, trong thời gian đại dịch Covid-19 hoành hành, ngành du lịch của Campuchia gần như “đóng băng”. Bởi thế, con số thống kê về số lượng du khách quốc tế tới Campuchia là một minh chứng rõ nét về sự hồi sinh mạnh mẽ của ngành du lịch, hướng tới mục tiêu phục hồi “ngành công nghiệp không khói” này trở lại trạng thái như trước khi xảy ra Covid-19, chậm nhất là vào năm 2026.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2023/01/06/vovlive_sukienvabanluan_du-_lich_-campuchia_phuc_hoi_manh_me.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 06 Jan 2023 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
