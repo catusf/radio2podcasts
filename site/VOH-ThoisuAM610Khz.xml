@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 01 Feb 2023 01:05:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 01 Feb 2023 12:45:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 01 Feb 2023 01:05:00 +0700</pubDate>
+    <pubDate>Wed, 01 Feb 2023 12:45:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Không để xảy ra tình trạng nghỉ Tết kéo dài, lơ là công việc - Thời sự 5g30 1/2/2023</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/khong-de-xay-ra-tinh-trang-nghi-tet-keo-dai-lo-la-cong-viec-thoi-su-5g30-1-2-2023-465738.html</link>
+      <description><![CDATA[05:45 - 01/02/2023]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/khong-de-xay-ra-tinh-trang-nghi-tet-keo-dai-lo-la-cong-viec-thoi-su-5g30-1-2-2023-465738.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/02/01/amthoisu05h30p01022023-20230131235541.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 01 Feb 2023 12:45:00 +0700</pubDate>
+    </item>
     <item>
       <title>Hội nghị Giao ban báo chí đầu xuân - Thời sự 17g00 31/1/2023</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/hoi-nghi-giao-ban-bao-chi-dau-xuan-thoi-su-17g00-31-1-2023-465711.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/ngay-via-than-tai-nguoi-dan-xep-hang-tu-sang-som-de-mua-vang-thoi-su-11g00-31-1-2023-465668.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/01/31/amthoisu11h00p31012023-20230131104143.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 31 Jan 2023 19:43:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Xăng dầu bất ngờ tăng giá sớm từ 19 giờ ngày 30/1 - Thời sự 5g30 31/1/2023</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/xang-dau-bat-ngo-tang-gia-som-tu-19-gio-ngay-30-1-thoi-su-5g30-31-1-2023-465632.html</link>
-      <description><![CDATA[06:27 - 31/01/2023]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/xang-dau-bat-ngo-tang-gia-som-tu-19-gio-ngay-30-1-thoi-su-5g30-31-1-2023-465632.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/01/31/amthoisu05h30p31012023-20230130234521.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 31 Jan 2023 13:27:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
