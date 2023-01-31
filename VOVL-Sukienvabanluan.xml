@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 18 Jan 2023 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 31 Jan 2023 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 18 Jan 2023 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 31 Jan 2023 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Thử thách khắc nghiệt với người dân Afghanistan</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Người dân Afghanistan đang phải đối mặt với mùa đông khắc nghiệt nhất trong vòng 15 năm trở lại đây. Con số thống kê về số người thiệt mạng vì giá rét đã vượt ngưỡng 3 con số và hiện vẫn đang tiếp tục tăng lên. Tình hình tại quốc gia Tây Nam Á càng trở nên trầm trọng do khủng hoảng kinh tế cùng những lệnh trừng phạt của phương Tây nhằm vào chính quyền Taliban.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2023/01/31/vovlive_sukienvabanluan_thu_thach_khac_nghiet_voi_nguoi_dan_-afghanistan.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 31 Jan 2023 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Chi tiền để người dân rời Thủ đô: Chính sách giảm tải dân số ở Nhật Bản có hiệu quả?</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2023/01/10/vovlive_sukienvabanluan_mo_cua_phong_chong_dich_trung_quoc_ung_pho_ra_sao.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 10 Jan 2023 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Tháo gỡ khó khăn cho các Trung tâm đăng kiểm sau những sai phạm tại các Trung tâm đăng kiểm khu vực phía Nam</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Gần 2 tháng qua, tiêu cực trong ngành đăng kiểm được phanh phui khiến dư luận bức xúc. Việc sai phạm mang tính hệ thống đã khiến hàng chục lãnh đạo của các Trung tâm đăng kiểm và nhiều đăng kiểm viên bị bắt. Nhiều Trung tâm đăng kiểm tạm dừng hoạt động. Hiện, quá trình điều tra vẫn đang được tiến hành. Tuy nhiên, những hệ lụy gây ra cho xã hội là rất lớn. Vậy, làm gì để hạn chế, tiến tới đẩy lùi tham nhũng, tiêu cực trong công tác đăng kiểm phương tiện xe cơ giới đường bộ?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2023/01/09/vovlive_sukienvabanluan_thao_go_kho_khan_ch_cac_trung_tam_dang_kiem.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 09 Jan 2023 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
