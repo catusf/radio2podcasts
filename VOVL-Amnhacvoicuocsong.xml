@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 15 Jan 2023 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 29 Jan 2023 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 15 Jan 2023 19:00:00 +0700</pubDate>
+    <pubDate>Sun, 29 Jan 2023 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,15 @@
     </itunes:owner>
     <itunes:subtitle>Âm nhạc với cuộc sống</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Amnhacvoicuocsong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Như hoa hướng dương: Bức tranh âm thanh chân thực về nỗi lòng dân tộc trước Đảng tiền phong</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[- Thưởng thức bài hát Nụ cười em như đóa hoa mùa xuân và lắng nghe những chia sẻ của tác giả, nhạc sĩ Nguyễn Bá Hùng về hoàn cảnh ra đời của bài hát này.
+- Hướng tới kỷ niệm 93 năm thành lập Đảng Cộng Sản Việt Nam (03/2/1930-03/2/2023), cùng tìm hiểu ca khúc Như hoa hướng dương (Âm nhạc: Nhạc sĩ Tô Vũ, Lời thơ: Nhà thơ Hải Như) và lắng nghe những chia sẻ của nhạc sĩ Tô Vũ về hoàn cảnh ra đời ca khúc này.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2023/01/31/vovlive_am_nhac_voi_cuoc_song_nhu_hoa_huong_duong.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 29 Jan 2023 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Ca sĩ Hà Myo: Thành công từ những đam mê, trải nghiệm của riêng mình</title>
       <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
@@ -47,15 +56,6 @@
       <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2023/01/03/vovlive_am_nhac_voi_cuoc_song_nhung_ca_khuc_hay_ve_mua_xuan.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 01 Jan 2023 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Sức mạnh của Âm nhạc trong ký ức “Chiến thắng Điện Biên Phủ trên không”</title>
-      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[Nhớ về 12 ngày đêm của chiến dịch “Hà Nội - Điện Biên Phủ” năm 1972, không thể quên vai trò của âm nhạc trên làn sóng Đài Tiếng nói Việt Nam. Trong không gian những ngày khói lửa ấy, không khí làm việc tại Đài TNVN vô cùng sôi động. Những sáng tác ra đời được phối khí, thu thanh, phát sóng như những bản tin chiến thắng lan tỏa muôn nơi Giữa thời điểm ác liệt của trận Điện Biên Phủ trên không, những văn nghệ sĩ của Đài TNVN đã cống hiến quên mình để góp một phần nhỏ bé trong chiến công chung của dân tộc, đưa những bản tin đặc biệt bằng âm nhạc để loan tin chiến thắng và cổ vũ động viên tinh thần quân dân ta. Đó là những ca khúc:
- “Hà Nội những đêm không ngủ” và “Hà Nội – Điện Biên Phủ” (Nhạc sĩ Phạm Tuyên); “Cánh cụt cánh què” (Nhạc sĩ Dân Huyền); “Hà Nội chiến thắng” (Nhạc sĩ Thanh Phúc); “Em mãi tìm anh”  (Nhạc sĩ Vũ Việt Hùng)…]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2022/12/26/vovlive_am_nhac_voi_cuoc_song_ky_niem_50_nam_chien_thang_dbp_tren_khong.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 25 Dec 2022 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

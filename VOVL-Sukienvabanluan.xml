@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 31 Jan 2023 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 01 Feb 2023 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 31 Jan 2023 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 01 Feb 2023 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ổn định sản xuất ngay từ đầu năm</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Theo nhận định của Bộ Lao động thương binh và xã hội, năm nay hoạt động sản xuất kinh doanh của các doanh nghiệp sẽ sớm ổn định trở lại. Vì thế, tình hình thị trường lao động được kỳ vọng có những chuyển động tích cực, tiếp tục trở lại đà phục hồi, nhu cầu tuyển dụng lao động của các doanh nghiệp sẽ tiếp tục gia tăng. Người lao động và doanh nghiệp đang hào hứng tập trung ổn định sản xuất ngay từ những ngày đầu của năm mới Quý Mão 2023.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2023/02/01/vovlive_sukienvabanluan_on_dinh_san_xuat_ngay_tu-dau_nam-1.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 01 Feb 2023 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Thử thách khắc nghiệt với người dân Afghanistan</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2023/01/12/vovlive_sukienvabanluan_binh_duong_chuyen_doi_so_nham_phuc_vu_nguoi_dan_doanh_nghiep_ngay_mot_tot_hon.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 12 Jan 2023 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Mở cửa và chống dịch: Trung Quốc ứng phó ra sao?</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Sau gần 3 năm kiên định thi hành chính sách “Zero Covid”, hôm qua Trung Quốc đánh dấu kết thúc hơn 1.000 ngày đóng cửa hoàn toàn biên giới để chiến đấu với dịch bệnh Covid-19. Theo đó, nước này dỡ bỏ các yêu cầu kiểm dịch đối với du khách quốc tế, hạ cấp độ chống dịch để chuyển sang giai đoạn “sống chung với virus”. Tuy nhiên, giai đoạn mở cửa diễn ra đúng vào thời điểm dịch đang bùng phát mạnh tại Trung Quốc, theo ước tính, mỗi ngày nước này ghi nhận hàng triệu người mắc Covid-19. Trong bối cảnh ấy, nhiều quốc gia từ châu Âu đến Mỹ đều bày tỏ lo ngại với du khách Trung Quốc nhập cảnh thời điểm này. Vậy Trung Quốc đã chuẩn bị và ứng phó ra sao với việc mở cửa và phòng chống dịch?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2023/01/10/vovlive_sukienvabanluan_mo_cua_phong_chong_dich_trung_quoc_ung_pho_ra_sao.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 10 Jan 2023 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
