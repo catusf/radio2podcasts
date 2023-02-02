@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 01 Feb 2023 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 02 Feb 2023 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 01 Feb 2023 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 02 Feb 2023 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Nóng cuộc chiến pháp lý về quyền đánh bắt cua tuyết ở Na Uy</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Cua tuyết Na Uy vốn nổi tiếng là loại hải sản ngon hàng đầu với chất lượng hảo hạng, được các đầu bếp kỹ tính nhất thế giới ưa chuộng. Những ngày này, mọi ánh mắt tiếp tục đổ dồn vào loài cua tuyết đặc sản của Na Uy - nhưng với một góc độ khác. Đó là cuộc chiến pháp lý về quyền đánh bắt cua tuyết ngoài khơi Na Uy về phía Bắc Cực đang trở nên nóng bỏng, khi đây được cho là phép thử về khả năng kiểm soát các nguồn tài nguyên khoáng sản đặc biệt là dầu mỏ, khí đốt của nước này. Nhất là khi, biến đổi khí hậu đang khiến Bắc Cực nóng lên và tan băng, làm lộ diện nhiều nguồn tài nguyên quí hiếm.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2023/02/02/vovlive_sukienvabanluan_nong_cuoc_chien_phap_ly_ve_quyen_danh_bat_cua_tuyet_o_na_uy.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 02 Feb 2023 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Ổn định sản xuất ngay từ đầu năm</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2023/01/18/vovlive_sukienvabanluan_chi_tien_cho_nguoi_dan_roi_thu_do.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 18 Jan 2023 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Bình Dương - Chuyển đổi số nhằm phục vụ người dân và doanh nghiệp ngày một tốt hơn</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[UBND tỉnh Bình Dương vừa công bố ứng dụng "Bình Dương số" với chức năng chủ yếu là cung cấp các dịch vụ thiết yếu phục vụ người dân và doanh nghiệp. Thông qua nền tảng này, người dân và doanh nghiệp sẽ tiết kiệm được đáng kể thời gian giải quyết các thủ tục hành chính cùng rất nhiều tiện ích khác. Tại sao Bình Dương lựa chọn việc triển khai ứng dụng tích hợp trên di động? Điều này có ý nghĩa như thế nào trong tiến trình chuyển đổi số đưa Bình Dương trở thành một thành phố thông minh?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2023/01/12/vovlive_sukienvabanluan_binh_duong_chuyen_doi_so_nham_phuc_vu_nguoi_dan_doanh_nghiep_ngay_mot_tot_hon.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 12 Jan 2023 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
