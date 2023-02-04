@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 03 Feb 2023 14:34:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 04 Feb 2023 13:56:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 03 Feb 2023 14:34:00 +0700</pubDate>
+    <pubDate>Sat, 04 Feb 2023 13:56:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Phỏng vấn nhà văn-đạo diễn Nguyễn Thu Phương - Sài Gòn buổi sáng 4/2/2023</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/phong-van-nha-van-dao-dien-nguyen-thu-phuong-sai-gon-buoi-sang-4-2-2023-466098.html</link>
+      <description><![CDATA[06:56 - 04/02/2023]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/phong-van-nha-van-dao-dien-nguyen-thu-phuong-sai-gon-buoi-sang-4-2-2023-466098.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/02/04/sgbs-040223-final-20230204002538.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 04 Feb 2023 13:56:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Kỉ niệm 93 năm thành lập Đảng Cộng sản Việt Nam - Sài Gòn buổi sáng 3/2/2023</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/ki-niem-93-nam-thanh-lap-dang-cong-san-viet-nam-sai-gon-buoi-sang-3-2-2023-465987.html</link>
       <description><![CDATA[07:34 - 03/02/2023]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/ki-niem-93-nam-thanh-lap-dang-cong-san-viet-nam-sai-gon-buoi-sang-3-2-2023-465987.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/02/03/fmsgbs06h00p030223-20230203070336.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 03 Feb 2023 14:34:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Hội nghị công tác giữa Chính phủ với Tổng LĐLĐ Việt Nam - Sài Gòn buổi sáng 2/2/2023</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/hoi-nghi-cong-tac-giua-chinh-phu-voi-tong-ldld-viet-nam-sai-gon-buoi-sang-2-2-2023-465860.html</link>
-      <description><![CDATA[07:40 - 02/02/2023]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/hoi-nghi-cong-tac-giua-chinh-phu-voi-tong-ldld-viet-nam-sai-gon-buoi-sang-2-2-2023-465860.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/02/02/fmsgbs06h00p020223-20230202070052.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 02 Feb 2023 14:40:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
