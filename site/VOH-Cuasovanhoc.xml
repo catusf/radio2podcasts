@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 29 Jan 2023 15:16:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 05 Feb 2023 19:40:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 29 Jan 2023 15:16:00 +0700</pubDate>
+    <pubDate>Sun, 05 Feb 2023 19:40:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Cửa sổ văn học trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Cuasovanhoc.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ngày thơ Việt Nam tưng bừng trên cả nước - Cửa sổ văn học 5/3/2023</title>
+      <link>https://radio.voh.com.vn/cua-so-van-hoc/ngay-tho-viet-nam-tung-bung-tren-ca-nuoc-cua-so-van-hoc-5-3-2023-466224.html</link>
+      <description><![CDATA[12:40 - 05/02/2023]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/ngay-tho-viet-nam-tung-bung-tren-ca-nuoc-cua-so-van-hoc-5-3-2023-466224.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/02/05/fmcuasovanhoc07h00p050223-20230204175734.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 05 Feb 2023 19:40:00 +0700</pubDate>
+    </item>
     <item>
       <title>Hội nhà văn TPHCM: Tín hiệu vui từ hội viên mới - Cửa sổ văn học 15/1/2023</title>
       <link>https://radio.voh.com.vn/cua-so-van-hoc/hoi-nha-van-tphcm-tin-hieu-vui-tu-hoi-vien-moi-cua-so-van-hoc-15-1-2023-465049.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/ngay-tho-viet-nam-tai-tphcm-khat-vong-phuong-nam-cua-so-van-hoc-29-1-2023-464893.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/01/27/fmcuasovanhoc07h00p290123-20230127175714.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 29 Jan 2023 15:16:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Gặp gỡ những cây viết trẻ đầu Xuân - Cửa sổ văn học 22/1/2023</title>
-      <link>https://radio.voh.com.vn/cua-so-van-hoc/gap-go-nhung-cay-viet-tre-dau-xuan-cua-so-van-hoc-22-1-2023-464486.html</link>
-      <description><![CDATA[18:46 - 22/01/2023]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/gap-go-nhung-cay-viet-tre-dau-xuan-cua-so-van-hoc-22-1-2023-464486.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/01/22/cua-so-van-hoc-22012023-20230110235126.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 23 Jan 2023 01:46:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
