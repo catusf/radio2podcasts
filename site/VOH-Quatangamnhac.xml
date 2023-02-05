@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 29 Jan 2023 17:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 05 Feb 2023 17:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 29 Jan 2023 17:00:00 +0700</pubDate>
+    <pubDate>Sun, 05 Feb 2023 17:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Quà tặng âm nhạc trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Quatangamnhac.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Yêu - Quà tặng âm nhạc 5/2/2023</title>
+      <link>https://radio.voh.com.vn/qua-tang-am-nhac/yeu-qua-tang-am-nhac-5-2-2023-466247.html</link>
+      <description><![CDATA[10:00 - 05/02/2023]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/yeu-qua-tang-am-nhac-5-2-2023-466247.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/02/05/fmqtan10h00p05022023-20230204130125.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 05 Feb 2023 17:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Một năm mới bình an - Quà tặng âm nhạc 29/1/2023</title>
       <link>https://radio.voh.com.vn/qua-tang-am-nhac/mot-nam-moi-binh-an-qua-tang-am-nhac-29-1-2023-465524.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/xuan-ca-qua-tang-am-nhac-8-1-2023-463436.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/01/08/fmqtan10h00p08012023-20230107154805.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 08 Jan 2023 17:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chào xuân mới - Quà tặng âm nhạc 1/1/2023</title>
-      <link>https://radio.voh.com.vn/qua-tang-am-nhac/chao-xuan-moi-qua-tang-am-nhac-1-1-2023-462716.html</link>
-      <description><![CDATA[10:00 - 01/01/2023]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/chao-xuan-moi-qua-tang-am-nhac-1-1-2023-462716.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/01/02/fmqtan10h00p01012023-20221231150053.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 01 Jan 2023 17:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
