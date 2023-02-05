@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 05 Feb 2023 18:31:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 06 Feb 2023 01:21:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 05 Feb 2023 18:31:00 +0700</pubDate>
+    <pubDate>Mon, 06 Feb 2023 01:21:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Câu lạc bộ thơ ca hào hứng với Ngày thơ Việt Nam tại TPHCM - Thời sự 17g00 5/2/2023</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/cau-lac-bo-tho-ca-hao-hung-voi-ngay-tho-viet-nam-tai-tphcm-thoi-su-17g00-5-2-2023-466243.html</link>
+      <description><![CDATA[18:21 - 05/02/2023]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/cau-lac-bo-tho-ca-hao-hung-voi-ngay-tho-viet-nam-tai-tphcm-thoi-su-17g00-5-2-2023-466243.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/02/05/amthoisu17h00p050223-20230205164449.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 06 Feb 2023 01:21:00 +0700</pubDate>
+    </item>
     <item>
       <title>Thủ Đức ứng dụng khoa học công nghệ trong quản lý nhà nước - Thời sự 11g00 5/2/2023</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/thu-duc-ung-dung-khoa-hoc-cong-nghe-trong-quan-ly-nha-nuoc-thoi-su-11g00-5-2-2023-466207.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/nhieu-hoat-dong-giao-luu-van-hoa-nhan-ngay-tet-nguyen-tieu-thoi-su-5g30-5-2-2023-466180.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/02/05/amthoisu05h30p05022023-33p42s-20230204230416.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 05 Feb 2023 13:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Tổ chức lễ giao nhận quân trên cả nước từ ngày 6 đến 10/2 - Thời sự 17g00 4/2/2023</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/to-chuc-le-giao-nhan-quan-tren-ca-nuoc-tu-ngay-6-den-10-2-thoi-su-17g00-4-2-2023-466151.html</link>
-      <description><![CDATA[17:15 - 04/02/2023]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/to-chuc-le-giao-nhan-quan-tren-ca-nuoc-tu-ngay-6-den-10-2-thoi-su-17g00-4-2-2023-466151.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/02/04/amthoisu17h00p040223-20230204164659.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 05 Feb 2023 00:15:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
