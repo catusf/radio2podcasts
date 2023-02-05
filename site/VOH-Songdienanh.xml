@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 30 Jan 2023 03:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 06 Feb 2023 03:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 30 Jan 2023 03:00:00 +0700</pubDate>
+    <pubDate>Mon, 06 Feb 2023 03:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sóng điện ảnh trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Songdienanh.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Top phim Việt hay nhất và top phim tệ nhất 2022 (Kỳ 1) - Khung hình thứ 25 5/2/2023</title>
+      <link>https://radio.voh.com.vn/khung-hinh-thu-25/top-phim-viet-hay-nhat-va-top-phim-te-nhat-2022-ky-1-khung-hinh-thu-25-5-2-2023-466250.html</link>
+      <description><![CDATA[20:00 - 05/02/2023]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/khung-hinh-thu-25/top-phim-viet-hay-nhat-va-top-phim-te-nhat-2022-ky-1-khung-hinh-thu-25-5-2-2023-466250.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/02/05/fmkhunghinhthuhaimuoilam20h00p050223-20230205120203.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 06 Feb 2023 03:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Trò chuyện cùng đạo diễn Trấn Thành xung quanh bộ phim Nhà bà Nữ - Khung hình thứ 25 29/1/2023</title>
       <link>https://radio.voh.com.vn/khung-hinh-thu-25/tro-chuyen-cung-dao-dien-tran-thanh-xung-quanh-bo-phim-nha-ba-nu-khung-hinh-thu-25-29-1-2023-465525.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/khung-hinh-thu-25/hau-truong-phim-dien-anh-thanh-soi-ky-2-khung-hinh-thu-25-1-1-2023-463438.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/01/08/fmkhunghinhthuhaimuoilam20h00p080123-20230108073759.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 09 Jan 2023 03:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Hậu trường phim điện ảnh Thanh Sói (Kỳ 1) - Khung hình thứ 25 1/1/2023</title>
-      <link>https://radio.voh.com.vn/khung-hinh-thu-25/hau-truong-phim-dien-anh-thanh-soi-ky-1-khung-hinh-thu-25-1-1-2023-462718.html</link>
-      <description><![CDATA[20:00 - 01/01/2023]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/khung-hinh-thu-25/hau-truong-phim-dien-anh-thanh-soi-ky-1-khung-hinh-thu-25-1-1-2023-462718.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/01/02/fmkhunghinhthuhaimuoilam20h00p010123-20230101130839.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 02 Jan 2023 03:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
