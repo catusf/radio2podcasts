@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 06 Feb 2023 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 09 Feb 2023 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 06 Feb 2023 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 09 Feb 2023 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Điểm hẹn văn nghệ</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Diemhenvannghe.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>"Lênh đênh bốn biển" - Câu chuyện về 30 năm Bác Hồ tìm đường cứu nước 6/2/2023</title>
+      <title>"Công chúa Đồng Xuân": Giải oan cho cuộc biển dâu này 9/2/2023</title>
+      <link>http://vov6.vov.vn/diem-hen-van-nghe/cong-chua-dong-xuan-giai-oan-cho-cuoc-bien-dau-nay-c158-36074.aspx</link>
+      <description><![CDATA[“Công chúa Đồng Xuân” là bộ tiểu thuyết 2 tập, tái hiện khoảng 40 năm đầy biến động từ năm 1859 đến năm 1900. Nhân vật chính là Đồng Xuân công chúa (tức công chúa Gia Phúc), con gái của vua Thiệu Trị. Tên tuổi của bà gắn liền với vụ “hòa gian” tai tiếng với chính người anh ruột cùng cha khác mẹ. Đây là một trong những nghi án lớn nhất triều Nguyễn mà nhiều người cho rằng còn che giấu nhiều điểm khuất tất. Sau thành công của “Từ Dụ Thái hậu”, “Công chúa Đồng Xuân” của nhà văn Trần Thùy Mai liệu có đem đến cho người đọc một trải nghiệm mới về tiểu thuyết lịch sử? Sau đây, chúng ta cùng nghe một vài cảm nhận của BTV Nguyễn Hà.]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/cong-chua-dong-xuan-giai-oan-cho-cuoc-bien-dau-nay-c158-36074.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/gts_cong_chua_dong_xuan_hc_92202314.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 09 Feb 2023 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>"Lênh đênh bốn biển" - Câu chuyện về 30 năm Bác Hồ tìm đường cứu nước  6/2/2023</title>
       <link>http://vov6.vov.vn/diem-hen-van-nghe/lenh-denh-bon-bien-cau-chuyen-ve-30-nam-bac-ho-tim-duong-cuu-nuoc-c158-36063.aspx</link>
       <description><![CDATA[Tiểu thuyết “Lênh đênh bốn biển” của nhà văn Nguyễn Thế Kỷ khắc họa hình tượng Văn Ba - Nguyễn Ái Quốc ở Pháp, Anh, Mỹ, các nước châu Phi, tới Liên Xô, Trung Quốc, Thái Lan... cho tới ngày Người trở về Tổ Quốc, ngày 28 tháng 1 năm 1941. So với tập 1 “Nợ nước non” thì khối lượng tư liệu, nhất là tính tư tưởng của tác phẩm, của nhân vật, sự kiện ở tập 2 “Lênh đênh bốn biển” lớn hơn, rộng hơn rất nhiều. Ở Pháp, Văn Ba - Nguyễn Ái Quốc tham gia Đảng Xã hội Pháp năm 1918; chủ động, chủ trì cùng các ông Phan Chu Trinh, Phan Văn Trường gửi “Yêu sách của nhân dân An Nam” đến Hội nghị Véc-xây; viết “Bản án chế độ thực dân Pháp; bỏ phiếu tán thành Quốc tế thứ Ba (Quốc tế Cộng sản), trở thành một trong những người sáng lập Đảng Cộng sản Pháp (ngày 29-12-1920) và là người cộng sản đầu tiên của Việt Nam.]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/lenh-denh-bon-bien-cau-chuyen-ve-30-nam-bac-ho-tim-duong-cuu-nuoc-c158-36063.aspx</guid>
@@ -38,16 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/tuy-but-nhin-ra-bien-rong-troi-cao-c158-36036.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2023_1/tuy_but_nhin_ra_bien_rong_troi_cao_171202312.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 17 Jan 2023 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>“Cõi yêu”: Khám khá cung bậc cảm xúc trong tình yêu
- 
-  12/1/2023</title>
-      <link>http://vov6.vov.vn/diem-hen-van-nghe/coi-yeu-kham-kha-cung-bac-cam-xuc-trong-tinh-yeu-c158-36025.aspx</link>
-      <description><![CDATA[Tác giả Trần Vân Anh, bút danh Phong Nguyên (Hội Văn nghệ Lạng Sơn) vinh dự được tặng Giải A Giải thưởng Văn học nghệ thuật năm 2022 của Liên hiệp các Hội Văn học nghệ thuật Việt Nam, cho tập truyện ngắn “Cõi yêu” do Nhà xuất bản Hội Nhà văn ấn hành. Tập truyện gồm 3 tác phẩm: “Cõi yêu”, “Hồng Gai” và “Không thể khiên cưỡng” được viết bằng bút pháp lạ, truyện lồng trong truyện xoay quanh chủ đề muôn thuở tình yêu. (Điểm hẹn văn nghệ)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/coi-yeu-kham-kha-cung-bac-cam-xuc-trong-tinh-yeu-c158-36025.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/v2_1401_18h30_diem_hen_van_nghe_161202316.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 12 Jan 2023 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
