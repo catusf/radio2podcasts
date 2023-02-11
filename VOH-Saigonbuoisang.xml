@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 10 Feb 2023 14:35:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 11 Feb 2023 15:13:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 10 Feb 2023 14:35:00 +0700</pubDate>
+    <pubDate>Sat, 11 Feb 2023 15:13:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,20 +24,20 @@
     <itunes:subtitle>Thời sự buổi sáng hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Saigonbuoisang.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Livestream bói toán truyền bá mê tín dị đoan - Sài Gòn buổi sáng 11/2/2023</title>
+      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/livestream-boi-toan-truyen-ba-me-tin-di-doan-sai-gon-buoi-sang-11-2-2023-466879.html</link>
+      <description><![CDATA[08:13 - 11/02/2023]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/livestream-boi-toan-truyen-ba-me-tin-di-doan-sai-gon-buoi-sang-11-2-2023-466879.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/02/11/sgbs-tap-chi-cuoi-tuan-1102023-20230211014251.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 11 Feb 2023 15:13:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Kịch bản Thị trường chứng khoán 2023 - Sài Gòn buổi sáng 10/2/2023</title>
       <link>https://radio.voh.com.vn/sai-gon-buoi-sang/kich-ban-thi-truong-chung-khoan-2023-sai-gon-buoi-sang-10-2-2023-466764.html</link>
       <description><![CDATA[07:35 - 10/02/2023]]></description>
       <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/kich-ban-thi-truong-chung-khoan-2023-sai-gon-buoi-sang-10-2-2023-466764.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/02/10/fmsgbs06h00p100223-20230210070202.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 10 Feb 2023 14:35:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Cảnh báo thời tiết nóng bức sau Tết - Sài Gòn buổi sáng 8/2/2023</title>
-      <link>https://radio.voh.com.vn/sai-gon-buoi-sang/canh-bao-thoi-tiet-nong-buc-sau-tet-sai-gon-buoi-sang-8-2-2023-466664.html</link>
-      <description><![CDATA[08:14 - 09/02/2023]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/sai-gon-buoi-sang/canh-bao-thoi-tiet-nong-buc-sau-tet-sai-gon-buoi-sang-8-2-2023-466664.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/02/09/fmsgbs06h00p090223-20230209094603.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 09 Feb 2023 15:14:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

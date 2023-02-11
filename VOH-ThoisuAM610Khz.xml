@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 11 Feb 2023 00:51:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 11 Feb 2023 13:09:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 11 Feb 2023 00:51:00 +0700</pubDate>
+    <pubDate>Sat, 11 Feb 2023 13:09:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Cân nhắc trước nhiều phương thức tuyển sinh 2023 - Thời sự 5g30 11/2/2023</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/can-nhac-truoc-nhieu-phuong-thuc-tuyen-sinh-2023-thoi-su-5g30-11-2-2023-466855.html</link>
+      <description><![CDATA[06:09 - 11/02/2023]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/can-nhac-truoc-nhieu-phuong-thuc-tuyen-sinh-2023-thoi-su-5g30-11-2-2023-466855.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/02/10/amthoisu05h30p11022023-20230210225921.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 11 Feb 2023 13:09:00 +0700</pubDate>
+    </item>
     <item>
       <title>Hội nghị Diễn đàn Nghị sĩ trẻ toàn cầu lần thứ 9 - Thời sự 17g00 10/2/2023</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/hoi-nghi-dien-dan-nghi-si-tre-toan-cau-lan-thu-9-thoi-su-17g00-10-2-2023-466819.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/phong-van-pho-giao-su-tien-si-ha-minh-hong-thoi-su-11g00-10-2-2023-466782.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/02/10/amthoisu11h00p100223-20230210102851.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 10 Feb 2023 18:08:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Thông điệp hướng tới mục tiêu tái tranh cử - Thời sự 5g30 10/2/2023</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/thong-diep-huong-toi-muc-tieu-tai-tranh-cu-thoi-su-5g30-10-2-2023-466750.html</link>
-      <description><![CDATA[05:39 - 10/02/2023]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/thong-diep-huong-toi-muc-tieu-tai-tranh-cu-thoi-su-5g30-10-2-2023-466750.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/02/10/amthoisu07h30p10022023-20230210020049.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 10 Feb 2023 12:39:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
