@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 12 Feb 2023 18:03:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 13 Feb 2023 00:56:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 12 Feb 2023 18:03:00 +0700</pubDate>
+    <pubDate>Mon, 13 Feb 2023 00:56:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Đình Bình Trị Đông - lưu giữ những giá trị tiêu biểu của ngôi đình Nam Bộ - Thời sự 17g00 12/2/202</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/dinh-binh-tri-dong-luu-giu-nhung-gia-tri-tieu-bieu-cua-ngoi-dinh-nam-bo-thoi-su-17g00-12-2-202-467001.html</link>
+      <description><![CDATA[17:56 - 12/02/2023]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/dinh-binh-tri-dong-luu-giu-nhung-gia-tri-tieu-bieu-cua-ngoi-dinh-nam-bo-thoi-su-17g00-12-2-202-467001.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/02/12/amthoisu17h00p120223-20230212164951.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 13 Feb 2023 00:56:00 +0700</pubDate>
+    </item>
     <item>
       <title>Đổi thay trong cuộc sống cư dân vùng ven sân bay Long Thành - Thời sự 11g00 12/2/2023</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/doi-thay-trong-cuoc-song-cu-dan-vung-ven-san-bay-long-thanh-thoi-su-11g00-12-2-2023-466979.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/thu-tuong-ket-thuc-tot-dep-chuyen-tham-chinh-thuc-singapore-va-brunei-thoi-su-5g30-12-2-2023-466950.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/02/11/amthoisu05h30p12022023-31p52s-20230211230209.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 12 Feb 2023 13:09:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Thủ tướng Phạm Minh Chính hội đàm với Quốc vương Brunei Darussalam - Thời sự 17g00 11/2/2023</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/thu-tuong-pham-minh-chinh-hoi-dam-voi-quoc-vuong-brunei-darussalam-thoi-su-17g00-11-2-2023-466922.html</link>
-      <description><![CDATA[17:53 - 11/02/2023]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/thu-tuong-pham-minh-chinh-hoi-dam-voi-quoc-vuong-brunei-darussalam-thoi-su-17g00-11-2-2023-466922.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/02/11/amthoisu17h00p110223-20230211165113.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 12 Feb 2023 00:53:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
