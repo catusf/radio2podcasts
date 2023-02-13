@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 13 Feb 2023 18:43:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 14 Feb 2023 00:05:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 13 Feb 2023 18:43:00 +0700</pubDate>
+    <pubDate>Tue, 14 Feb 2023 00:05:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Khai mạc phiên họp lần thứ 20 của Ủy ban Thường vụ Quốc hội - Thời sự 17g00 13/2/2023</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/khai-mac-phien-hop-lan-thu-20-cua-uy-ban-thuong-vu-quoc-hoi-thoi-su-17g00-13-2-2023-467176.html</link>
+      <description><![CDATA[17:05 - 13/02/2023]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/khai-mac-phien-hop-lan-thu-20-cua-uy-ban-thuong-vu-quoc-hoi-thoi-su-17g00-13-2-2023-467176.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/02/13/amthoisu17h00p130223-20230213163951.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 14 Feb 2023 00:05:00 +0700</pubDate>
+    </item>
     <item>
       <title>Phỏng vấn tuyển thủ quốc gia Trần Thị Thùy Trang - Thời sự 11g00 13/2/2023</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/phong-van-tuyen-thu-quoc-gia-tran-thi-thuy-trang-thoi-su-11g00-13-2-2023-467092.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/hom-nay-la-ngay-phat-thanh-the-gioi-thoi-su-5g30-13-2-2023-467036.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/02/13/amthoisu05h30p13022023-20230212225927.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 13 Feb 2023 12:38:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đình Bình Trị Đông - lưu giữ những giá trị tiêu biểu của ngôi đình Nam Bộ - Thời sự 17g00 12/2/202</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/dinh-binh-tri-dong-luu-giu-nhung-gia-tri-tieu-bieu-cua-ngoi-dinh-nam-bo-thoi-su-17g00-12-2-202-467001.html</link>
-      <description><![CDATA[17:56 - 12/02/2023]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/dinh-binh-tri-dong-luu-giu-nhung-gia-tri-tieu-bieu-cua-ngoi-dinh-nam-bo-thoi-su-17g00-12-2-202-467001.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/02/12/amthoisu17h00p120223-20230212164951.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 13 Feb 2023 00:56:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
