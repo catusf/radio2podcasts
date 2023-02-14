@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 14 Feb 2023 18:51:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 15 Feb 2023 00:14:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 14 Feb 2023 18:51:00 +0700</pubDate>
+    <pubDate>Wed, 15 Feb 2023 00:14:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Thời sự AM 610 Khz hàng ngày trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-ThoisuAM610Khz.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Quốc hội tổng kết kỳ họp bất thường lần thứ 2 và thứ 3 - Thời sự 17g00 14/2/2023</title>
+      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/quoc-hoi-tong-ket-ky-hop-bat-thuong-lan-thu-2-va-thu-3-thoi-su-17g00-14-2-2023-467300.html</link>
+      <description><![CDATA[17:14 - 14/02/2023]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/quoc-hoi-tong-ket-ky-hop-bat-thuong-lan-thu-2-va-thu-3-thoi-su-17g00-14-2-2023-467300.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/02/14/amthoisu17h00p140223-20230214163437.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 15 Feb 2023 00:14:00 +0700</pubDate>
+    </item>
     <item>
       <title>Giá gạo xuất khẩu của Việt Nam cao nhất trong 2 năm - Thời sự 11g00 14/2/2023</title>
       <link>https://radio.voh.com.vn/thoi-su-am-610-khz/gia-gao-xuat-khau-cua-viet-nam-cao-nhat-trong-2-nam-thoi-su-11g00-14-2-2023-467250.html</link>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/phong-chong-tham-nhung-va-y-thuc-trach-nhiem-cua-cong-dong-thoi-su-5g30-14-2-2023-467224.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/02/14/amthoisu05h30p14022023-20230213233910.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 14 Feb 2023 12:36:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Khai mạc phiên họp lần thứ 20 của Ủy ban Thường vụ Quốc hội - Thời sự 17g00 13/2/2023</title>
-      <link>https://radio.voh.com.vn/thoi-su-am-610-khz/khai-mac-phien-hop-lan-thu-20-cua-uy-ban-thuong-vu-quoc-hoi-thoi-su-17g00-13-2-2023-467176.html</link>
-      <description><![CDATA[17:05 - 13/02/2023]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/thoi-su-am-610-khz/khai-mac-phien-hop-lan-thu-20-cua-uy-ban-thuong-vu-quoc-hoi-thoi-su-17g00-13-2-2023-467176.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/02/13/amthoisu17h00p130223-20230213163951.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 14 Feb 2023 00:05:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
