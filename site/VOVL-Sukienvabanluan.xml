@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 13 Feb 2023 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 14 Feb 2023 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 13 Feb 2023 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 14 Feb 2023 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Làn sóng sa thải nhân viên ở Mỹ: khủng hoảng kinh tế hay điều chỉnh cơ cấu việc làm?</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Dù đã bước sang trung tuần tháng 2 của năm 2023, nhưng làn sóng sa thải nhân viên ở các công ty công nghệ tại Mỹ vẫn chưa dừng lại. Gần 100 nghìn người đã mất việc làm chỉ trong một tháng là một con số khó ai có thể tưởng tượng ở một lĩnh vực đầy tiềm năng như là công nghệ. Đáng chú ý, làn sóng sa thải nhân viên không chỉ ở ngành công nghệ mà đang lan rộng sang có các ngành kinh tế khác của Mỹ. Các thông báo sa thải diễn ra thường xuyên đã đặt ra nhiều câu hỏi về thị trường việc làm ở Mỹ cũng như “sức khỏe” của nền kinh tế số một thế giới?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2023/02/14/vovlive_sukienvabanluan_lan_song_sa_thai_nhan_vien_o_my_khung_hoang_kinh_te_hay_dieu-chinh_co-che_viec_lam.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 14 Feb 2023 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Đầu mối quản lý, điều hành giá xăng dầu: Câu chuyện về trách nhiệm và sự phối hợp</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2023/02/13/vovlive_sukienvabanluan_phat_trien_du_lich_cong_dong.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 13 Feb 2023 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Mỹ - Ấn bắt tay phát triển công nghệ mũi nhọn đối trọng Trung Quốc</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Mới đây, cố vấn an ninh quốc gia Mỹ Jake Sullivan và người đồng cấp Ấn Độ Ajit Doval đã cùng khởi động “Sáng kiến Mỹ - Ấn Độ về công nghệ trọng yếu và mới nổi”. Theo giới quan sát, bước tiến này được đánh giá sẽ thúc đẩy quan hệ đối tác với Ấn Độ, phù hợp với kỳ vọng của Tổng thống Mỹ Joe Biden muốn cả hai nước có thể cạnh tranh với Trung Quốc về thiết bị quân sự, chất bán dẫn và trí tuệ nhân tạo (AI).]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2023/02/09/vovlive_sukienvabanluan_my_an_bat_tay_phat_trien_cong_nghe_mui_nhon_doi_trong_trung_quoc.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 09 Feb 2023 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
