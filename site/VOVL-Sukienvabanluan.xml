@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 21 Feb 2023 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 22 Feb 2023 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 21 Feb 2023 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 22 Feb 2023 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Kỳ vọng hệ sinh thái xe điện cho toàn khu vực ASEAN</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Nhằm giảm thiểu ô nhiễm môi trường, thích ứng biến đổi khí hậu, thời gian qua, nhiều nước ASEAN chú trọng phát triển và mở rộng mạng lưới sử dụng xe điện tại quốc gia mình. Chưa dừng lại, các chuyên gia Indonesia mới đây cho biết, có thể tính tới khả năng phát triển cả một hệ sinh thái xe điện cho toàn khu vực, nhằm đảm bảo an ninh năng lượng như 1 trong 4 trọng tâm của “trụ cột tăng trưởng” của ASEAN hiện nay.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2023/02/22/vovlive_sukienvabanluan_ky_vong_he_sinh_thai_xe_dien_cho_toan_khu_vuc_-asean.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 22 Feb 2023 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Hàn Quốc đối mặt khủng hoảng dân số</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2023/02/20/vovlive_sukienvabanluan_nguy_-co_-is_troi_day_tai_tho_nhi_ky_-va_-syria-_sau_tham_hoa_dong_dat.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 20 Feb 2023 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Quy định vỉa hè cho người đi bộ, vì sao mãi vẫn chỉ nằm trên giấy – nhìn thực tế từ thành phố Hồ Chí Minh</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Câu chuyện lấn chiếm lòng lề đường, vỉa hè vẫn là bài toán dai dẳng của nhiều thành phố lớn. Dù đã có nhiều lần phát động ra quân xử lý nhưng gần như tình trạng này vẫn không giảm mà thậm chí là ngày càng phức tạp hơn. Và mới đây, Sở Giao thông vận tải thành phố  Hồ Chí Minh đang tiếp tục rà soát hiện trạng hạ tầng giao thông đường bộ để xây dựng đề án thu phí sử dụng tạm thời một phần lòng đường, vỉa hè trên địa bàn thành phố nhằm quản lý, sử dụng lòng đường, hè phố bảo đảm an toàn, hiệu quả và tăng mỹ quan đô thị. Mục tiêu của đề án là rất tốt đẹp, còn với người dân, điều quan tâm nhất là nếu đề án được thực thi thì vỉa hè có khang trang sạch đẹp hơn hay không? Liệu có chấm dứt được tình trạng chiếm dụng vỉa hè lòng đường? và đặc biệt là có đảm bảo đúng theo quy định của luật, giành phần đường cho người đi bộ?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2023/02/14/vovlive_sukienvabinhluan_quy_dinh_via_he_cho_nguoi_di_bo_vi-sao_van_mai_nam_tren_giay_nhin_thuc_te_tp_hcm.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 14 Feb 2023 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
