@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 12 Feb 2023 17:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 19 Feb 2023 17:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 12 Feb 2023 17:00:00 +0700</pubDate>
+    <pubDate>Sun, 19 Feb 2023 17:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Quà tặng âm nhạc trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Quatangamnhac.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ngồi hát ca bềnh bồng - Quà tặng âm nhạc 19/2/2023</title>
+      <link>https://radio.voh.com.vn/qua-tang-am-nhac/ngoi-hat-ca-benh-bong-qua-tang-am-nhac-19-2-2023-467856.html</link>
+      <description><![CDATA[10:00 - 19/02/2023]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/ngoi-hat-ca-benh-bong-qua-tang-am-nhac-19-2-2023-467856.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/02/19/fmqtan10h00p19022023-20230218150129.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 19 Feb 2023 17:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Có nhau trọn đời - Quà tặng âm nhạc 12/2/2023</title>
       <link>https://radio.voh.com.vn/qua-tang-am-nhac/co-nhau-tron-doi-qua-tang-am-nhac-12-2-2023-467017.html</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/chuc-tet-moi-nha-qua-tang-am-nhac-22-1-2023-464497.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/01/22/fmqtan10h00p22012023-20230108181447.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 22 Jan 2023 17:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Ước mơ ngọt ngào - Quà tặng âm nhạc 15/1/2023</title>
-      <link>https://radio.voh.com.vn/qua-tang-am-nhac/uoc-mo-ngot-ngao-qua-tang-am-nhac-15-1-2023-464302.html</link>
-      <description><![CDATA[10:00 - 15/01/2023]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/qua-tang-am-nhac/uoc-mo-ngot-ngao-qua-tang-am-nhac-15-1-2023-464302.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/01/16/fmqtan10h00p15012023-20230114122843.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 15 Jan 2023 17:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
