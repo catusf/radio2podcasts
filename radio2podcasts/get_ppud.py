@@ -232,7 +232,7 @@ def get_articles_from_html(soup, url, no_items, podcast_title, item_titles=None)
             print(f'New date: {modified_date_str}')
         else:
             print('Nothing changes')
-            continue
+        #    continue
 
         episodes = find_episodes(link)
 
