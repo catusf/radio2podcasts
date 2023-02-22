@@ -185,8 +185,7 @@ def main():
 
             item_titles = []
 
-            rss = rss_from_webpage(
-                this_feed_settings, website['function'], title, item_titles)
+            rss = rss_from_webpage(this_feed_settings, website['function'], title, item_titles)
             output_rss(rss, this_feed_settings.output_file)
 
             render_site['podcasts'].append(
