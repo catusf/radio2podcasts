@@ -79,8 +79,7 @@
           "url": "https://radio.voh.com.vn/qua-tang-am-nhac-394.html",
           "title": "Quà tặng âm nhạc",
           "subtitle": "Quà tặng âm nhạc trên VOH",
-          "cover": "",
-          "no": 5
+          "cover": "","no": 5
         },
         {
           "url": "https://radio.voh.com.vn/sai-gon-buoi-sang-590.html",
@@ -151,34 +150,6 @@
           "subtitle": "Văn nghệ thiếu nhi",
           "cover": "",
           "no": 3
-        }
-      ]
-    },
-    "RFI": {
-      "home": "https://www.rfi.fr/vi/",
-      "name": "RFI Tiếng Việt",
-      "function": null,
-      "programs": [
-        {
-          "url": "https://www.rfi.fr/vi/emission/info/13h00-13h17-gmt/",
-          "title": "Chương trình 17'",
-          "subtitle": "17'",
-          "cover": "",
-          "no": 5
-        },
-        {
-          "url": "https://www.rfi.fr/vi/emission/info/13h00-13h17-gmt/",
-          "title": "Chương trình 60'",
-          "subtitle": "60'",
-          "cover": "",
-          "no": 5
-        },
-        {
-          "url": "https://www.rfi.fr/vi/emission/info/13h00-13h17-gmt/",
-          "title": "Chương trình 43'",
-          "subtitle": "43'",
-          "cover": "",
-          "no": 5
         }
       ]
     }
