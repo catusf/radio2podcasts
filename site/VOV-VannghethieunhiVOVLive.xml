@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 09 Feb 2023 07:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 17 Feb 2023 07:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 09 Feb 2023 07:00:00 +0700</pubDate>
+    <pubDate>Fri, 17 Feb 2023 07:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,12 +24,36 @@
     <itunes:subtitle>VNTN</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV-VannghethieunhiVOVLive.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>▶ 1/1 Rô-bin-xơn Cơ-ru-xô - Buổi 1: Làm quen với chàng Ro-bin-son</title>
+      <title>▶ 1/4 Rô-bin-xơn Cơ-ru-xô - Buổi 1: Làm quen với chàng Ro-bin-son</title>
       <link>https://vovlive.vn/ro-bin-xon-co-ru-xo-p17334.html</link>
       <description><![CDATA["Rô-Bin-Xơn Cơ-Ru-Xô" là một tác phẩm chan chứa tinh thần lạc quan, yêu đời, là bài ca ca ngợi sức lao động, ca ngợi sức mạnh của con người trong cuộc đấu tranh sinh tồn với thiên nhiên. Tác phẩm kể về cuộc sống lưu lạc trên đảo vắng trong suốt 28 năm, 19 ngày của chàng trai Rô-Bin-Xơn Cơ-Ru-Xô...]]></description>
       <guid isPermaLink="false">https://vovlive.vn/ro-bin-xon-co-ru-xo-p17334.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2023/02/09/v2_0502_10h4518h15_van_nghe_thieu_nhi_72202322.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 09 Feb 2023 07:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>2/4 Rô-bin-xơn Cơ-ru-xô - Buổi 2: Bão biển</title>
+      <link>https://vovlive.vn/ro-bin-xon-co-ru-xo-p17334.html</link>
+      <description><![CDATA["Rô-Bin-Xơn Cơ-Ru-Xô" là một tác phẩm chan chứa tinh thần lạc quan, yêu đời, là bài ca ca ngợi sức lao động, ca ngợi sức mạnh của con người trong cuộc đấu tranh sinh tồn với thiên nhiên. Tác phẩm kể về cuộc sống lưu lạc trên đảo vắng trong suốt 28 năm, 19 ngày của chàng trai Rô-Bin-Xơn Cơ-Ru-Xô...]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/ro-bin-xon-co-ru-xo-p17334.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2023/02/17/vovlive_vannghethieunhi_robinsoncrusoe_buoi2.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 17 Feb 2023 07:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>3/4 Rô-bin-xơn Cơ-ru-xô - Buổi 3: Tiếp tục lênh đênh</title>
+      <link>https://vovlive.vn/ro-bin-xon-co-ru-xo-p17334.html</link>
+      <description><![CDATA["Rô-Bin-Xơn Cơ-Ru-Xô" là một tác phẩm chan chứa tinh thần lạc quan, yêu đời, là bài ca ca ngợi sức lao động, ca ngợi sức mạnh của con người trong cuộc đấu tranh sinh tồn với thiên nhiên. Tác phẩm kể về cuộc sống lưu lạc trên đảo vắng trong suốt 28 năm, 19 ngày của chàng trai Rô-Bin-Xơn Cơ-Ru-Xô...]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/ro-bin-xon-co-ru-xo-p17334.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2023/02/17/vovlive_vannghethieunhi_robinsoncrusoe_buoi3.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 17 Feb 2023 07:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>4/4 Rô-bin-xơn Cơ-ru-xô - Buổi 4: Giam cầm</title>
+      <link>https://vovlive.vn/ro-bin-xon-co-ru-xo-p17334.html</link>
+      <description><![CDATA["Rô-Bin-Xơn Cơ-Ru-Xô" là một tác phẩm chan chứa tinh thần lạc quan, yêu đời, là bài ca ca ngợi sức lao động, ca ngợi sức mạnh của con người trong cuộc đấu tranh sinh tồn với thiên nhiên. Tác phẩm kể về cuộc sống lưu lạc trên đảo vắng trong suốt 28 năm, 19 ngày của chàng trai Rô-Bin-Xơn Cơ-Ru-Xô...]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/ro-bin-xon-co-ru-xo-p17334.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2023/02/17/vovlive_vannghethieunhi_robinsoncrusoe_buoi4.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 17 Feb 2023 07:00:00 +0700</pubDate>
     </item>
     <item>
       <title>▶ 1/18 Về phía binh minh - Buổi 1: Lời giới thiệu về gia đình</title>
