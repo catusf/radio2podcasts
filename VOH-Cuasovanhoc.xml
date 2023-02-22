@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 19 Feb 2023 16:46:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 12 Feb 2023 22:57:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 19 Feb 2023 16:46:00 +0700</pubDate>
+    <pubDate>Sun, 12 Feb 2023 22:57:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,14 +23,6 @@
     </itunes:owner>
     <itunes:subtitle>Cửa sổ văn học trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Cuasovanhoc.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Trường Sa ! Biển ấy là của mình - Cửa sổ văn học 19/2/2023</title>
-      <link>https://radio.voh.com.vn/cua-so-van-hoc/truong-sa-bien-ay-la-cua-minh-cua-so-van-hoc-19-2-2023-467788.html</link>
-      <description><![CDATA[09:46 - 19/02/2023]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/truong-sa-bien-ay-la-cua-minh-cua-so-van-hoc-19-2-2023-467788.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/02/18/fmcuasovanhoc07h00p190223-20230218184034.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 19 Feb 2023 16:46:00 +0700</pubDate>
-    </item>
     <item>
       <title>Hội nhà văn trao giải cuộc thi viết "Những hy sinh thầm lặng" - Cửa sổ văn học 12/2/2023</title>
       <link>https://radio.voh.com.vn/cua-so-van-hoc/hoi-nha-van-trao-giai-cuoc-thi-viet-nhung-hy-sinh-tham-lang-cua-so-van-hoc-12-2-2023-466993.html</link>
@@ -46,6 +38,14 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/ngay-tho-viet-nam-tung-bung-tren-ca-nuoc-cua-so-van-hoc-5-2-2023-466224.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/02/05/fmcuasovanhoc07h00p050223-20230204175734.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 05 Feb 2023 19:40:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Hội nhà văn TPHCM: Tín hiệu vui từ hội viên mới - Cửa sổ văn học 15/1/2023</title>
+      <link>https://radio.voh.com.vn/cua-so-van-hoc/hoi-nha-van-tphcm-tin-hieu-vui-tu-hoi-vien-moi-cua-so-van-hoc-15-1-2023-465049.html</link>
+      <description><![CDATA[11:25 - 15/01/2023]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/cua-so-van-hoc/hoi-nha-van-tphcm-tin-hieu-vui-tu-hoi-vien-moi-cua-so-van-hoc-15-1-2023-465049.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/01/15/fmcuasovanhoc07h00p150123-20230114133816.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 15 Jan 2023 18:25:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

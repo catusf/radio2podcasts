@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 20 Feb 2023 03:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 13 Feb 2023 03:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 20 Feb 2023 03:00:00 +0700</pubDate>
+    <pubDate>Mon, 13 Feb 2023 03:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,14 +23,6 @@
     </itunes:owner>
     <itunes:subtitle>Sóng điện ảnh trên VOH</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOH-Songdienanh.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Top phim Việt hay nhất và top phim tệ nhất 2022 (Kỳ 3) - Khung hình thứ 25 19/2/2023</title>
-      <link>https://radio.voh.com.vn/khung-hinh-thu-25/top-phim-viet-hay-nhat-va-top-phim-te-nhat-2022-ky-3-khung-hinh-thu-25-19-2-2023-467858.html</link>
-      <description><![CDATA[20:00 - 19/02/2023]]></description>
-      <guid isPermaLink="false">https://radio.voh.com.vn/khung-hinh-thu-25/top-phim-viet-hay-nhat-va-top-phim-te-nhat-2022-ky-3-khung-hinh-thu-25-19-2-2023-467858.html</guid>
-      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/02/19/fmkhunghinhthuhaimuoilam20h00p190223-20230219074001.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 20 Feb 2023 03:00:00 +0700</pubDate>
-    </item>
     <item>
       <title>Top phim Việt hay nhất và top phim tệ nhất 2022 (Kỳ 2) - Khung hình thứ 25 12/2/2023</title>
       <link>https://radio.voh.com.vn/khung-hinh-thu-25/top-phim-viet-hay-nhat-va-top-phim-te-nhat-2022-ky-2-khung-hinh-thu-25-12-2-2023-467019.html</link>
@@ -62,6 +54,14 @@
       <guid isPermaLink="false">https://radio.voh.com.vn/khung-hinh-thu-25/hau-truong-phim-tet-chi-chi-em-em-2-khung-hinh-thu-25-22-1-2023-464495.html</guid>
       <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/01/22/fmkhunghinhthuhaimuoilam20h00p220123lan2-20230120064559.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 23 Jan 2023 03:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Giao lưu đoàn phim Siêu lừa gặp siêu lầy - Khung hình thứ 25 15/1/2023</title>
+      <link>https://radio.voh.com.vn/khung-hinh-thu-25/giao-luu-doan-phim-sieu-lua-gap-sieu-lay-khung-hinh-thu-25-15-1-2023-464298.html</link>
+      <description><![CDATA[20:00 - 15/01/2023]]></description>
+      <guid isPermaLink="false">https://radio.voh.com.vn/khung-hinh-thu-25/giao-luu-doan-phim-sieu-lua-gap-sieu-lay-khung-hinh-thu-25-15-1-2023-464298.html</guid>
+      <enclosure url="https://cdn.voh.com.vn/voh/audioE2/2023/01/16/fmkhunghinhthuhaimuoilam20h00p150123-20230115074609.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 16 Jan 2023 03:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
