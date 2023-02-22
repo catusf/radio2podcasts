@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 13 Oct 2019 17:37:26 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2019 14:22:10 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 13 Oct 2019 17:37:26 +0700</pubDate>
+    <pubDate>Wed, 21 Aug 2019 14:22:10 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,740 +24,884 @@
     <itunes:subtitle>Trang 13</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/PPUD-13Tieuthuyet.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>▶ 1/17 Chết! Sập Bẫy Rồi - KingKong Barbie - Phần 1</title>
-      <link>https://phatphapungdung.com/sach-noi/chet-sap-bay-roi-171180.html#0</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/chet-sap-bay-roi-171180.html#0</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/TruyenDoc/ChetSapBayRoi/Sach-Noi-Audio-Book-Chet-Sap-Bay-Roi-1-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 23 Aug 2019 15:28:01 +0700</pubDate>
-    </item>
-    <item>
-      <title>2/17 Chết! Sập Bẫy Rồi - KingKong Barbie - Phần 2</title>
-      <link>https://phatphapungdung.com/sach-noi/chet-sap-bay-roi-171180.html#1</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/chet-sap-bay-roi-171180.html#1</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/TruyenDoc/ChetSapBayRoi/Sach-Noi-Audio-Book-Chet-Sap-Bay-Roi-2-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 23 Aug 2019 16:28:01 +0700</pubDate>
-    </item>
-    <item>
-      <title>3/17 Chết! Sập Bẫy Rồi - KingKong Barbie - Phần 3</title>
-      <link>https://phatphapungdung.com/sach-noi/chet-sap-bay-roi-171180.html#2</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/chet-sap-bay-roi-171180.html#2</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/TruyenDoc/ChetSapBayRoi/Sach-Noi-Audio-Book-Chet-Sap-Bay-Roi-3-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 23 Aug 2019 17:28:01 +0700</pubDate>
-    </item>
-    <item>
-      <title>4/17 Chết! Sập Bẫy Rồi - KingKong Barbie - Phần 4</title>
-      <link>https://phatphapungdung.com/sach-noi/chet-sap-bay-roi-171180.html#3</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/chet-sap-bay-roi-171180.html#3</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/TruyenDoc/ChetSapBayRoi/Sach-Noi-Audio-Book-Chet-Sap-Bay-Roi-4-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 23 Aug 2019 18:28:01 +0700</pubDate>
-    </item>
-    <item>
-      <title>5/17 Chết! Sập Bẫy Rồi - KingKong Barbie - Phần 5</title>
-      <link>https://phatphapungdung.com/sach-noi/chet-sap-bay-roi-171180.html#4</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/chet-sap-bay-roi-171180.html#4</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/TruyenDoc/ChetSapBayRoi/Sach-Noi-Audio-Book-Chet-Sap-Bay-Roi-5-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 23 Aug 2019 19:28:01 +0700</pubDate>
-    </item>
-    <item>
-      <title>6/17 Chết! Sập Bẫy Rồi - KingKong Barbie - Phần 6</title>
-      <link>https://phatphapungdung.com/sach-noi/chet-sap-bay-roi-171180.html#5</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/chet-sap-bay-roi-171180.html#5</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/TruyenDoc/ChetSapBayRoi/Sach-Noi-Audio-Book-Chet-Sap-Bay-Roi-6-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 23 Aug 2019 20:28:01 +0700</pubDate>
-    </item>
-    <item>
-      <title>7/17 Chết! Sập Bẫy Rồi - KingKong Barbie - Phần 7</title>
-      <link>https://phatphapungdung.com/sach-noi/chet-sap-bay-roi-171180.html#6</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/chet-sap-bay-roi-171180.html#6</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/TruyenDoc/ChetSapBayRoi/Sach-Noi-Audio-Book-Chet-Sap-Bay-Roi-7-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 23 Aug 2019 21:28:01 +0700</pubDate>
-    </item>
-    <item>
-      <title>8/17 Chết! Sập Bẫy Rồi - KingKong Barbie - Phần 8</title>
-      <link>https://phatphapungdung.com/sach-noi/chet-sap-bay-roi-171180.html#7</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/chet-sap-bay-roi-171180.html#7</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/TruyenDoc/ChetSapBayRoi/Sach-Noi-Audio-Book-Chet-Sap-Bay-Roi-8-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 23 Aug 2019 22:28:01 +0700</pubDate>
-    </item>
-    <item>
-      <title>9/17 Chết! Sập Bẫy Rồi - KingKong Barbie - Phần 9</title>
-      <link>https://phatphapungdung.com/sach-noi/chet-sap-bay-roi-171180.html#8</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/chet-sap-bay-roi-171180.html#8</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/TruyenDoc/ChetSapBayRoi/Sach-Noi-Audio-Book-Chet-Sap-Bay-Roi-9-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 23 Aug 2019 23:28:01 +0700</pubDate>
-    </item>
-    <item>
-      <title>10/17 Chết! Sập Bẫy Rồi - KingKong Barbie - Phần 10</title>
-      <link>https://phatphapungdung.com/sach-noi/chet-sap-bay-roi-171180.html#9</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/chet-sap-bay-roi-171180.html#9</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/TruyenDoc/ChetSapBayRoi/Sach-Noi-Audio-Book-Chet-Sap-Bay-Roi-10-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 24 Aug 2019 00:28:01 +0700</pubDate>
-    </item>
-    <item>
-      <title>11/17 Chết! Sập Bẫy Rồi - KingKong Barbie - Phần 11</title>
-      <link>https://phatphapungdung.com/sach-noi/chet-sap-bay-roi-171180.html#10</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/chet-sap-bay-roi-171180.html#10</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/TruyenDoc/ChetSapBayRoi/Sach-Noi-Audio-Book-Chet-Sap-Bay-Roi-11-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 24 Aug 2019 01:28:01 +0700</pubDate>
-    </item>
-    <item>
-      <title>12/17 Chết! Sập Bẫy Rồi - KingKong Barbie - Phần 12</title>
-      <link>https://phatphapungdung.com/sach-noi/chet-sap-bay-roi-171180.html#11</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/chet-sap-bay-roi-171180.html#11</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/TruyenDoc/ChetSapBayRoi/Sach-Noi-Audio-Book-Chet-Sap-Bay-Roi-12-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 24 Aug 2019 02:28:01 +0700</pubDate>
-    </item>
-    <item>
-      <title>13/17 Chết! Sập Bẫy Rồi - KingKong Barbie - Phần 13</title>
-      <link>https://phatphapungdung.com/sach-noi/chet-sap-bay-roi-171180.html#12</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/chet-sap-bay-roi-171180.html#12</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/TruyenDoc/ChetSapBayRoi/Sach-Noi-Audio-Book-Chet-Sap-Bay-Roi-13-1-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 24 Aug 2019 03:28:01 +0700</pubDate>
-    </item>
-    <item>
-      <title>14/17 Chết! Sập Bẫy Rồi - KingKong Barbie - Phần 14</title>
-      <link>https://phatphapungdung.com/sach-noi/chet-sap-bay-roi-171180.html#13</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/chet-sap-bay-roi-171180.html#13</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/TruyenDoc/ChetSapBayRoi/Sach-Noi-Audio-Book-Chet-Sap-Bay-Roi-13-2-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 24 Aug 2019 04:28:01 +0700</pubDate>
-    </item>
-    <item>
-      <title>15/17 Chết! Sập Bẫy Rồi - KingKong Barbie - Phần 15</title>
-      <link>https://phatphapungdung.com/sach-noi/chet-sap-bay-roi-171180.html#14</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/chet-sap-bay-roi-171180.html#14</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/TruyenDoc/ChetSapBayRoi/Sach-Noi-Audio-Book-Chet-Sap-Bay-Roi-14-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 24 Aug 2019 05:28:01 +0700</pubDate>
-    </item>
-    <item>
-      <title>16/17 Chết! Sập Bẫy Rồi - KingKong Barbie - Phần 16</title>
-      <link>https://phatphapungdung.com/sach-noi/chet-sap-bay-roi-171180.html#15</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/chet-sap-bay-roi-171180.html#15</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/TruyenDoc/ChetSapBayRoi/Sach-Noi-Audio-Book-Chet-Sap-Bay-Roi-15-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 24 Aug 2019 06:28:01 +0700</pubDate>
-    </item>
-    <item>
-      <title>17/17 Chết! Sập Bẫy Rồi - KingKong Barbie - Phần 17</title>
-      <link>https://phatphapungdung.com/sach-noi/chet-sap-bay-roi-171180.html#16</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/chet-sap-bay-roi-171180.html#16</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/TruyenDoc/ChetSapBayRoi/Sach-Noi-Audio-Book-Chet-Sap-Bay-Roi-16-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 24 Aug 2019 07:28:01 +0700</pubDate>
-    </item>
-    <item>
-      <title>▶ 1/15 Yêu Người Tử Tù - Gong Ji Young - Phần 1</title>
-      <link>https://phatphapungdung.com/sach-noi/yeu-nguoi-tu-tu-178181.html#0</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/yeu-nguoi-tu-tu-178181.html#0</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-nuoc-ngoai-phat-phap-ung-dung/Yeu-Nguoi-Tu-Tu-01-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 23 Aug 2019 10:10:57 +0700</pubDate>
-    </item>
-    <item>
-      <title>2/15 Yêu Người Tử Tù - Gong Ji Young - Phần 2</title>
-      <link>https://phatphapungdung.com/sach-noi/yeu-nguoi-tu-tu-178181.html#1</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/yeu-nguoi-tu-tu-178181.html#1</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-nuoc-ngoai-phat-phap-ung-dung/Yeu-Nguoi-Tu-Tu-02-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 23 Aug 2019 11:10:57 +0700</pubDate>
-    </item>
-    <item>
-      <title>3/15 Yêu Người Tử Tù - Gong Ji Young - Phần 3</title>
-      <link>https://phatphapungdung.com/sach-noi/yeu-nguoi-tu-tu-178181.html#2</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/yeu-nguoi-tu-tu-178181.html#2</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-nuoc-ngoai-phat-phap-ung-dung/Yeu-Nguoi-Tu-Tu-03-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 23 Aug 2019 12:10:57 +0700</pubDate>
-    </item>
-    <item>
-      <title>4/15 Yêu Người Tử Tù - Gong Ji Young - Phần 4</title>
-      <link>https://phatphapungdung.com/sach-noi/yeu-nguoi-tu-tu-178181.html#3</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/yeu-nguoi-tu-tu-178181.html#3</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-nuoc-ngoai-phat-phap-ung-dung/Yeu-Nguoi-Tu-Tu-04-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 23 Aug 2019 13:10:57 +0700</pubDate>
-    </item>
-    <item>
-      <title>5/15 Yêu Người Tử Tù - Gong Ji Young - Phần 5</title>
-      <link>https://phatphapungdung.com/sach-noi/yeu-nguoi-tu-tu-178181.html#4</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/yeu-nguoi-tu-tu-178181.html#4</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-nuoc-ngoai-phat-phap-ung-dung/Yeu-Nguoi-Tu-Tu-05-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 23 Aug 2019 14:10:57 +0700</pubDate>
-    </item>
-    <item>
-      <title>6/15 Yêu Người Tử Tù - Gong Ji Young - Phần 6</title>
-      <link>https://phatphapungdung.com/sach-noi/yeu-nguoi-tu-tu-178181.html#5</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/yeu-nguoi-tu-tu-178181.html#5</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-nuoc-ngoai-phat-phap-ung-dung/Yeu-Nguoi-Tu-Tu-06-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 23 Aug 2019 15:10:57 +0700</pubDate>
-    </item>
-    <item>
-      <title>7/15 Yêu Người Tử Tù - Gong Ji Young - Phần 7</title>
-      <link>https://phatphapungdung.com/sach-noi/yeu-nguoi-tu-tu-178181.html#6</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/yeu-nguoi-tu-tu-178181.html#6</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-nuoc-ngoai-phat-phap-ung-dung/Yeu-Nguoi-Tu-Tu-07-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 23 Aug 2019 16:10:57 +0700</pubDate>
-    </item>
-    <item>
-      <title>8/15 Yêu Người Tử Tù - Gong Ji Young - Phần 8</title>
-      <link>https://phatphapungdung.com/sach-noi/yeu-nguoi-tu-tu-178181.html#7</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/yeu-nguoi-tu-tu-178181.html#7</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-nuoc-ngoai-phat-phap-ung-dung/Yeu-Nguoi-Tu-Tu-08-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 23 Aug 2019 17:10:57 +0700</pubDate>
-    </item>
-    <item>
-      <title>9/15 Yêu Người Tử Tù - Gong Ji Young - Phần 9</title>
-      <link>https://phatphapungdung.com/sach-noi/yeu-nguoi-tu-tu-178181.html#8</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/yeu-nguoi-tu-tu-178181.html#8</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-nuoc-ngoai-phat-phap-ung-dung/Yeu-Nguoi-Tu-Tu-09-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 23 Aug 2019 18:10:57 +0700</pubDate>
-    </item>
-    <item>
-      <title>10/15 Yêu Người Tử Tù - Gong Ji Young - Phần 10</title>
-      <link>https://phatphapungdung.com/sach-noi/yeu-nguoi-tu-tu-178181.html#9</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/yeu-nguoi-tu-tu-178181.html#9</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-nuoc-ngoai-phat-phap-ung-dung/Yeu-Nguoi-Tu-Tu-10-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 23 Aug 2019 19:10:57 +0700</pubDate>
-    </item>
-    <item>
-      <title>11/15 Yêu Người Tử Tù - Gong Ji Young - Phần 11</title>
-      <link>https://phatphapungdung.com/sach-noi/yeu-nguoi-tu-tu-178181.html#10</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/yeu-nguoi-tu-tu-178181.html#10</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-nuoc-ngoai-phat-phap-ung-dung/Yeu-Nguoi-Tu-Tu-11-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 23 Aug 2019 20:10:57 +0700</pubDate>
-    </item>
-    <item>
-      <title>12/15 Yêu Người Tử Tù - Gong Ji Young - Phần 12</title>
-      <link>https://phatphapungdung.com/sach-noi/yeu-nguoi-tu-tu-178181.html#11</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/yeu-nguoi-tu-tu-178181.html#11</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-nuoc-ngoai-phat-phap-ung-dung/Yeu-Nguoi-Tu-Tu-12-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 23 Aug 2019 21:10:57 +0700</pubDate>
-    </item>
-    <item>
-      <title>13/15 Yêu Người Tử Tù - Gong Ji Young - Phần 13</title>
-      <link>https://phatphapungdung.com/sach-noi/yeu-nguoi-tu-tu-178181.html#12</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/yeu-nguoi-tu-tu-178181.html#12</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-nuoc-ngoai-phat-phap-ung-dung/Yeu-Nguoi-Tu-Tu-13-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 23 Aug 2019 22:10:57 +0700</pubDate>
-    </item>
-    <item>
-      <title>14/15 Yêu Người Tử Tù - Gong Ji Young - Phần 14</title>
-      <link>https://phatphapungdung.com/sach-noi/yeu-nguoi-tu-tu-178181.html#13</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/yeu-nguoi-tu-tu-178181.html#13</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-nuoc-ngoai-phat-phap-ung-dung/Yeu-Nguoi-Tu-Tu-14-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 23 Aug 2019 23:10:57 +0700</pubDate>
-    </item>
-    <item>
-      <title>15/15 Yêu Người Tử Tù - Gong Ji Young - Phần 15</title>
-      <link>https://phatphapungdung.com/sach-noi/yeu-nguoi-tu-tu-178181.html#14</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/yeu-nguoi-tu-tu-178181.html#14</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-nuoc-ngoai-phat-phap-ung-dung/Yeu-Nguoi-Tu-Tu-15-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 24 Aug 2019 00:10:57 +0700</pubDate>
-    </item>
-    <item>
-      <title>▶ 1/15 Vòng Tay Kỉ Niệm - Quỳnh Giao - Phần 1</title>
-      <link>https://phatphapungdung.com/sach-noi/vong-tay-ki-niem-quynh-giao-178179.html#0</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/vong-tay-ki-niem-quynh-giao-178179.html#0</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-nuoc-ngoai-phat-phap-ung-dung/Vong-Tay-Ky-Niem-01-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 23 Aug 2019 10:10:44 +0700</pubDate>
-    </item>
-    <item>
-      <title>2/15 Vòng Tay Kỉ Niệm - Quỳnh Giao - Phần 2</title>
-      <link>https://phatphapungdung.com/sach-noi/vong-tay-ki-niem-quynh-giao-178179.html#1</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/vong-tay-ki-niem-quynh-giao-178179.html#1</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-nuoc-ngoai-phat-phap-ung-dung/Vong-Tay-Ky-Niem-02-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 23 Aug 2019 11:10:44 +0700</pubDate>
-    </item>
-    <item>
-      <title>3/15 Vòng Tay Kỉ Niệm - Quỳnh Giao - Phần 3</title>
-      <link>https://phatphapungdung.com/sach-noi/vong-tay-ki-niem-quynh-giao-178179.html#2</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/vong-tay-ki-niem-quynh-giao-178179.html#2</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-nuoc-ngoai-phat-phap-ung-dung/Vong-Tay-Ky-Niem-03-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 23 Aug 2019 12:10:44 +0700</pubDate>
-    </item>
-    <item>
-      <title>4/15 Vòng Tay Kỉ Niệm - Quỳnh Giao - Phần 4</title>
-      <link>https://phatphapungdung.com/sach-noi/vong-tay-ki-niem-quynh-giao-178179.html#3</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/vong-tay-ki-niem-quynh-giao-178179.html#3</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-nuoc-ngoai-phat-phap-ung-dung/Vong-Tay-Ky-Niem-04-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 23 Aug 2019 13:10:44 +0700</pubDate>
-    </item>
-    <item>
-      <title>5/15 Vòng Tay Kỉ Niệm - Quỳnh Giao - Phần 5</title>
-      <link>https://phatphapungdung.com/sach-noi/vong-tay-ki-niem-quynh-giao-178179.html#4</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/vong-tay-ki-niem-quynh-giao-178179.html#4</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-nuoc-ngoai-phat-phap-ung-dung/Vong-Tay-Ky-Niem-05-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 23 Aug 2019 14:10:44 +0700</pubDate>
-    </item>
-    <item>
-      <title>6/15 Vòng Tay Kỉ Niệm - Quỳnh Giao - Phần 6</title>
-      <link>https://phatphapungdung.com/sach-noi/vong-tay-ki-niem-quynh-giao-178179.html#5</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/vong-tay-ki-niem-quynh-giao-178179.html#5</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-nuoc-ngoai-phat-phap-ung-dung/Vong-Tay-Ky-Niem-06-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 23 Aug 2019 15:10:44 +0700</pubDate>
-    </item>
-    <item>
-      <title>7/15 Vòng Tay Kỉ Niệm - Quỳnh Giao - Phần 7</title>
-      <link>https://phatphapungdung.com/sach-noi/vong-tay-ki-niem-quynh-giao-178179.html#6</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/vong-tay-ki-niem-quynh-giao-178179.html#6</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-nuoc-ngoai-phat-phap-ung-dung/Vong-Tay-Ky-Niem-07-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 23 Aug 2019 16:10:44 +0700</pubDate>
-    </item>
-    <item>
-      <title>8/15 Vòng Tay Kỉ Niệm - Quỳnh Giao - Phần 8</title>
-      <link>https://phatphapungdung.com/sach-noi/vong-tay-ki-niem-quynh-giao-178179.html#7</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/vong-tay-ki-niem-quynh-giao-178179.html#7</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-nuoc-ngoai-phat-phap-ung-dung/Vong-Tay-Ky-Niem-08-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 23 Aug 2019 17:10:44 +0700</pubDate>
-    </item>
-    <item>
-      <title>9/15 Vòng Tay Kỉ Niệm - Quỳnh Giao - Phần 9</title>
-      <link>https://phatphapungdung.com/sach-noi/vong-tay-ki-niem-quynh-giao-178179.html#8</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/vong-tay-ki-niem-quynh-giao-178179.html#8</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-nuoc-ngoai-phat-phap-ung-dung/Vong-Tay-Ky-Niem-09-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 23 Aug 2019 18:10:44 +0700</pubDate>
-    </item>
-    <item>
-      <title>10/15 Vòng Tay Kỉ Niệm - Quỳnh Giao - Phần 10</title>
-      <link>https://phatphapungdung.com/sach-noi/vong-tay-ki-niem-quynh-giao-178179.html#9</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/vong-tay-ki-niem-quynh-giao-178179.html#9</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-nuoc-ngoai-phat-phap-ung-dung/Vong-Tay-Ky-Niem-10-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 23 Aug 2019 19:10:44 +0700</pubDate>
-    </item>
-    <item>
-      <title>11/15 Vòng Tay Kỉ Niệm - Quỳnh Giao - Phần 11</title>
-      <link>https://phatphapungdung.com/sach-noi/vong-tay-ki-niem-quynh-giao-178179.html#10</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/vong-tay-ki-niem-quynh-giao-178179.html#10</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-nuoc-ngoai-phat-phap-ung-dung/Vong-Tay-Ky-Niem-11-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 23 Aug 2019 20:10:44 +0700</pubDate>
-    </item>
-    <item>
-      <title>12/15 Vòng Tay Kỉ Niệm - Quỳnh Giao - Phần 12</title>
-      <link>https://phatphapungdung.com/sach-noi/vong-tay-ki-niem-quynh-giao-178179.html#11</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/vong-tay-ki-niem-quynh-giao-178179.html#11</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-nuoc-ngoai-phat-phap-ung-dung/Vong-Tay-Ky-Niem-12-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 23 Aug 2019 21:10:44 +0700</pubDate>
-    </item>
-    <item>
-      <title>13/15 Vòng Tay Kỉ Niệm - Quỳnh Giao - Phần 13</title>
-      <link>https://phatphapungdung.com/sach-noi/vong-tay-ki-niem-quynh-giao-178179.html#12</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/vong-tay-ki-niem-quynh-giao-178179.html#12</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-nuoc-ngoai-phat-phap-ung-dung/Vong-Tay-Ky-Niem-13-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 23 Aug 2019 22:10:44 +0700</pubDate>
-    </item>
-    <item>
-      <title>14/15 Vòng Tay Kỉ Niệm - Quỳnh Giao - Phần 14</title>
-      <link>https://phatphapungdung.com/sach-noi/vong-tay-ki-niem-quynh-giao-178179.html#13</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/vong-tay-ki-niem-quynh-giao-178179.html#13</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-nuoc-ngoai-phat-phap-ung-dung/Vong-Tay-Ky-Niem-14-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 23 Aug 2019 23:10:44 +0700</pubDate>
-    </item>
-    <item>
-      <title>15/15 Vòng Tay Kỉ Niệm - Quỳnh Giao - Phần 15</title>
-      <link>https://phatphapungdung.com/sach-noi/vong-tay-ki-niem-quynh-giao-178179.html#14</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/vong-tay-ki-niem-quynh-giao-178179.html#14</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-nuoc-ngoai-phat-phap-ung-dung/Vong-Tay-Ky-Niem-15-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 24 Aug 2019 00:10:44 +0700</pubDate>
-    </item>
-    <item>
-      <title>▶ 1/45 Túp Lều Của Bác Tom - Harriet Beecher Stowe - Lời Nói Đầu</title>
-      <link>https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#0</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#0</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-nuoc-ngoai-phat-phap-ung-dung/Tup-Leu-Bac-Tom-01-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 23 Aug 2019 10:10:29 +0700</pubDate>
-    </item>
-    <item>
-      <title>2/45 Túp Lều Của Bác Tom - Harriet Beecher Stowe - Chương 1: Bạn đọc làm quen với một người tốt bụng</title>
-      <link>https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#1</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#1</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-nuoc-ngoai-phat-phap-ung-dung/Tup-Leu-Bac-Tom-02-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 23 Aug 2019 11:10:29 +0700</pubDate>
-    </item>
-    <item>
-      <title>3/45 Túp Lều Của Bác Tom - Harriet Beecher Stowe - Chương 2: Người mẹ</title>
-      <link>https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#2</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#2</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-nuoc-ngoai-phat-phap-ung-dung/Tup-Leu-Bac-Tom-03-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 23 Aug 2019 12:10:29 +0700</pubDate>
-    </item>
-    <item>
-      <title>4/45 Túp Lều Của Bác Tom - Harriet Beecher Stowe - Chương 3: Người chồng và người cha</title>
-      <link>https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#3</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#3</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-nuoc-ngoai-phat-phap-ung-dung/Tup-Leu-Bac-Tom-04-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 23 Aug 2019 13:10:29 +0700</pubDate>
-    </item>
-    <item>
-      <title>5/45 Túp Lều Của Bác Tom - Harriet Beecher Stowe - Chương 4: Một buổi tối trong túp lều của bác Tom</title>
-      <link>https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#4</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#4</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-nuoc-ngoai-phat-phap-ung-dung/Tup-Leu-Bac-Tom-05-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 23 Aug 2019 14:10:29 +0700</pubDate>
-    </item>
-    <item>
-      <title>6/45 Túp Lều Của Bác Tom - Harriet Beecher Stowe - Chương 5: Món hàng đổi chủ</title>
-      <link>https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#5</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#5</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-nuoc-ngoai-phat-phap-ung-dung/Tup-Leu-Bac-Tom-06-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 23 Aug 2019 15:10:29 +0700</pubDate>
-    </item>
-    <item>
-      <title>7/45 Túp Lều Của Bác Tom - Harriet Beecher Stowe - Chương 6: Cuộc khám phá</title>
-      <link>https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#6</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#6</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-nuoc-ngoai-phat-phap-ung-dung/Tup-Leu-Bac-Tom-07-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 23 Aug 2019 16:10:29 +0700</pubDate>
-    </item>
-    <item>
-      <title>8/45 Túp Lều Của Bác Tom - Harriet Beecher Stowe - Chương 7: Một bà mẹ chiến đấu</title>
-      <link>https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#7</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#7</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-nuoc-ngoai-phat-phap-ung-dung/Tup-Leu-Bac-Tom-08-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 23 Aug 2019 17:10:29 +0700</pubDate>
-    </item>
-    <item>
-      <title>9/45 Túp Lều Của Bác Tom - Harriet Beecher Stowe - Chương 8: Êlida chạy trốn</title>
-      <link>https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#8</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#8</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-nuoc-ngoai-phat-phap-ung-dung/Tup-Leu-Bac-Tom-09-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 23 Aug 2019 18:10:29 +0700</pubDate>
-    </item>
-    <item>
-      <title>10/45 Túp Lều Của Bác Tom - Harriet Beecher Stowe - Chương 9: Một ngài thượng nghị sĩ cũng chỉ là một con người</title>
-      <link>https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#9</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#9</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-nuoc-ngoai-phat-phap-ung-dung/Tup-Leu-Bac-Tom-10-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 23 Aug 2019 19:10:29 +0700</pubDate>
-    </item>
-    <item>
-      <title>11/45 Túp Lều Của Bác Tom - Harriet Beecher Stowe - Chương 10: Bốc hàng mang đi</title>
-      <link>https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#10</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#10</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-nuoc-ngoai-phat-phap-ung-dung/Tup-Leu-Bac-Tom-11-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 23 Aug 2019 20:10:29 +0700</pubDate>
-    </item>
-    <item>
-      <title>12/45 Túp Lều Của Bác Tom - Harriet Beecher Stowe - Chương 11: Một món hàng đáng bực mình</title>
-      <link>https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#11</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#11</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-nuoc-ngoai-phat-phap-ung-dung/Tup-Leu-Bac-Tom-12-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 23 Aug 2019 21:10:29 +0700</pubDate>
-    </item>
-    <item>
-      <title>13/45 Túp Lều Của Bác Tom - Harriet Beecher Stowe - Chương 12: Dẫn chứng chọn lọc trong một nền thương nghiệp hợp pháp</title>
-      <link>https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#12</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#12</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-nuoc-ngoai-phat-phap-ung-dung/Tup-Leu-Bac-Tom-13-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 23 Aug 2019 22:10:29 +0700</pubDate>
-    </item>
-    <item>
-      <title>14/45 Túp Lều Của Bác Tom - Harriet Beecher Stowe - Chương 13: Đoàn người Quêcơ</title>
-      <link>https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#13</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#13</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-nuoc-ngoai-phat-phap-ung-dung/Tup-Leu-Bac-Tom-14-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 23 Aug 2019 23:10:29 +0700</pubDate>
-    </item>
-    <item>
-      <title>15/45 Túp Lều Của Bác Tom - Harriet Beecher Stowe - Chương 14: Cô bé Êvănggiơlin</title>
-      <link>https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#14</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#14</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-nuoc-ngoai-phat-phap-ung-dung/Tup-Leu-Bac-Tom-15-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 24 Aug 2019 00:10:29 +0700</pubDate>
-    </item>
-    <item>
-      <title>16/45 Túp Lều Của Bác Tom - Harriet Beecher Stowe - Chương 15: Ông chủ mới của bác Tom</title>
-      <link>https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#15</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#15</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-nuoc-ngoai-phat-phap-ung-dung/Tup-Leu-Bac-Tom-16-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 24 Aug 2019 01:10:29 +0700</pubDate>
-    </item>
-    <item>
-      <title>17/45 Túp Lều Của Bác Tom - Harriet Beecher Stowe - Chương 16: Những ý kiến riêng của bà XanhCơla</title>
-      <link>https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#16</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#16</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-nuoc-ngoai-phat-phap-ung-dung/Tup-Leu-Bac-Tom-17-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 24 Aug 2019 02:10:29 +0700</pubDate>
-    </item>
-    <item>
-      <title>18/45 Túp Lều Của Bác Tom - Harriet Beecher Stowe - Chương 17: Con người có tự do tự bảo vệ</title>
-      <link>https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#17</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#17</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-nuoc-ngoai-phat-phap-ung-dung/Tup-Leu-Bac-Tom-18-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 24 Aug 2019 03:10:29 +0700</pubDate>
-    </item>
-    <item>
-      <title>19/45 Túp Lều Của Bác Tom - Harriet Beecher Stowe - Chương 18: Kinh nghiệm và ý kiến của cô Ôphêlia</title>
-      <link>https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#18</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#18</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-nuoc-ngoai-phat-phap-ung-dung/Tup-Leu-Bac-Tom-19-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 24 Aug 2019 04:10:29 +0700</pubDate>
-    </item>
-    <item>
-      <title>20/45 Túp Lều Của Bác Tom - Harriet Beecher Stowe - Chương 19: Chương tiếp theo</title>
-      <link>https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#19</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#19</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-nuoc-ngoai-phat-phap-ung-dung/Tup-Leu-Bac-Tom-20-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 24 Aug 2019 05:10:29 +0700</pubDate>
-    </item>
-    <item>
-      <title>21/45 Túp Lều Của Bác Tom - Harriet Beecher Stowe - Chương 20: Tốpxi</title>
-      <link>https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#20</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#20</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-nuoc-ngoai-phat-phap-ung-dung/Tup-Leu-Bac-Tom-21-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 24 Aug 2019 06:10:29 +0700</pubDate>
-    </item>
-    <item>
-      <title>22/45 Túp Lều Của Bác Tom - Harriet Beecher Stowe - Chương 21: Ở bang Kentơki</title>
-      <link>https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#21</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#21</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-nuoc-ngoai-phat-phap-ung-dung/Tup-Leu-Bac-Tom-22-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 24 Aug 2019 07:10:29 +0700</pubDate>
-    </item>
-    <item>
-      <title>23/45 Túp Lều Của Bác Tom - Harriet Beecher Stowe - Chương 22: Cỏ héo, hoa tàn</title>
-      <link>https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#22</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#22</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-nuoc-ngoai-phat-phap-ung-dung/Tup-Leu-Bac-Tom-23-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 24 Aug 2019 08:10:29 +0700</pubDate>
-    </item>
-    <item>
-      <title>24/45 Túp Lều Của Bác Tom - Harriet Beecher Stowe - Chương 23: Hăngrích</title>
-      <link>https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#23</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#23</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-nuoc-ngoai-phat-phap-ung-dung/Tup-Leu-Bac-Tom-24-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 24 Aug 2019 09:10:29 +0700</pubDate>
-    </item>
-    <item>
-      <title>25/45 Túp Lều Của Bác Tom - Harriet Beecher Stowe - Chương 24: Điềm xấu</title>
-      <link>https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#24</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#24</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-nuoc-ngoai-phat-phap-ung-dung/Tup-Leu-Bac-Tom-25-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 24 Aug 2019 10:10:29 +0700</pubDate>
-    </item>
-    <item>
-      <title>26/45 Túp Lều Của Bác Tom - Harriet Beecher Stowe - Chương 25: Cô bé thiên thần</title>
-      <link>https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#25</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#25</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-nuoc-ngoai-phat-phap-ung-dung/Tup-Leu-Bac-Tom-26-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 24 Aug 2019 11:10:29 +0700</pubDate>
-    </item>
-    <item>
-      <title>27/45 Túp Lều Của Bác Tom - Harriet Beecher Stowe - Chương 26: Cái chết</title>
-      <link>https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#26</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#26</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-nuoc-ngoai-phat-phap-ung-dung/Tup-Leu-Bac-Tom-27-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 24 Aug 2019 12:10:29 +0700</pubDate>
-    </item>
-    <item>
-      <title>28/45 Túp Lều Của Bác Tom - Harriet Beecher Stowe - Chương 27: Thế là hết mọi việc trên cuộc đời trần thế</title>
-      <link>https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#27</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#27</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-nuoc-ngoai-phat-phap-ung-dung/Tup-Leu-Bac-Tom-28-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 24 Aug 2019 13:10:29 +0700</pubDate>
-    </item>
-    <item>
-      <title>29/45 Túp Lều Của Bác Tom - Harriet Beecher Stowe - Chương 28: Họp mặt</title>
-      <link>https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#28</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#28</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-nuoc-ngoai-phat-phap-ung-dung/Tup-Leu-Bac-Tom-29-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 24 Aug 2019 14:10:29 +0700</pubDate>
-    </item>
-    <item>
-      <title>30/45 Túp Lều Của Bác Tom - Harriet Beecher Stowe - Chương 29: Không che chở</title>
-      <link>https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#29</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#29</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-nuoc-ngoai-phat-phap-ung-dung/Tup-Leu-Bac-Tom-30-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 24 Aug 2019 15:10:29 +0700</pubDate>
-    </item>
-    <item>
-      <title>31/45 Túp Lều Của Bác Tom - Harriet Beecher Stowe - Chương 30: Kho hàng nô lệ</title>
-      <link>https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#30</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#30</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-nuoc-ngoai-phat-phap-ung-dung/Tup-Leu-Bac-Tom-31-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 24 Aug 2019 16:10:29 +0700</pubDate>
-    </item>
-    <item>
-      <title>32/45 Túp Lều Của Bác Tom - Harriet Beecher Stowe - Chương 31: Trên boong tàu</title>
-      <link>https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#31</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#31</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-nuoc-ngoai-phat-phap-ung-dung/Tup-Leu-Bac-Tom-32-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 24 Aug 2019 17:10:29 +0700</pubDate>
-    </item>
-    <item>
-      <title>33/45 Túp Lều Của Bác Tom - Harriet Beecher Stowe - Chương 32: Những nơi u ám</title>
-      <link>https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#32</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#32</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-nuoc-ngoai-phat-phap-ung-dung/Tup-Leu-Bac-Tom-33-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 24 Aug 2019 18:10:29 +0700</pubDate>
-    </item>
-    <item>
-      <title>34/45 Túp Lều Của Bác Tom - Harriet Beecher Stowe - Chương 33: Cátxi</title>
-      <link>https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#33</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#33</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-nuoc-ngoai-phat-phap-ung-dung/Tup-Leu-Bac-Tom-34-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 24 Aug 2019 19:10:29 +0700</pubDate>
-    </item>
-    <item>
-      <title>35/45 Túp Lều Của Bác Tom - Harriet Beecher Stowe - Chương 34: Cuộc đời chị Cátxi</title>
-      <link>https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#34</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#34</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-nuoc-ngoai-phat-phap-ung-dung/Tup-Leu-Bac-Tom-35-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 24 Aug 2019 20:10:29 +0700</pubDate>
-    </item>
-    <item>
-      <title>36/45 Túp Lều Của Bác Tom - Harriet Beecher Stowe - Chương 35: Cái bùa</title>
-      <link>https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#35</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#35</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-nuoc-ngoai-phat-phap-ung-dung/Tup-Leu-Bac-Tom-36-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 24 Aug 2019 21:10:29 +0700</pubDate>
-    </item>
-    <item>
-      <title>37/45 Túp Lều Của Bác Tom - Harriet Beecher Stowe - Chương 36: Êmilin và Cátxi</title>
-      <link>https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#36</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#36</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-nuoc-ngoai-phat-phap-ung-dung/Tup-Leu-Bac-Tom-37-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 24 Aug 2019 22:10:29 +0700</pubDate>
-    </item>
-    <item>
-      <title>38/45 Túp Lều Của Bác Tom - Harriet Beecher Stowe - Chương 37: Tự do</title>
-      <link>https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#37</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#37</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-nuoc-ngoai-phat-phap-ung-dung/Tup-Leu-Bac-Tom-38-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 24 Aug 2019 23:10:29 +0700</pubDate>
-    </item>
-    <item>
-      <title>39/45 Túp Lều Của Bác Tom - Harriet Beecher Stowe - Chương 38: Thắng lợi</title>
-      <link>https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#38</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#38</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-nuoc-ngoai-phat-phap-ung-dung/Tup-Leu-Bac-Tom-39-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 25 Aug 2019 00:10:29 +0700</pubDate>
-    </item>
-    <item>
-      <title>40/45 Túp Lều Của Bác Tom - Harriet Beecher Stowe - Chương 39: Mưu kế</title>
-      <link>https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#39</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#39</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-nuoc-ngoai-phat-phap-ung-dung/Tup-Leu-Bac-Tom-40-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 25 Aug 2019 01:10:29 +0700</pubDate>
-    </item>
-    <item>
-      <title>41/45 Túp Lều Của Bác Tom - Harriet Beecher Stowe - Chương 40: Tuẫn tiết</title>
-      <link>https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#40</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#40</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-nuoc-ngoai-phat-phap-ung-dung/Tup-Leu-Bac-Tom-41-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 25 Aug 2019 02:10:29 +0700</pubDate>
-    </item>
-    <item>
-      <title>42/45 Túp Lều Của Bác Tom - Harriet Beecher Stowe - Chương 41: Cậu chủ nhỏ</title>
-      <link>https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#41</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#41</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-nuoc-ngoai-phat-phap-ung-dung/Tup-Leu-Bac-Tom-42-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 25 Aug 2019 03:10:29 +0700</pubDate>
-    </item>
-    <item>
-      <title>43/45 Túp Lều Của Bác Tom - Harriet Beecher Stowe - Chương 42: Câu chuyện thật về những con ma</title>
-      <link>https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#42</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#42</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-nuoc-ngoai-phat-phap-ung-dung/Tup-Leu-Bac-Tom-43-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 25 Aug 2019 04:10:29 +0700</pubDate>
-    </item>
-    <item>
-      <title>44/45 Túp Lều Của Bác Tom - Harriet Beecher Stowe - Chương 43: Kết quả</title>
-      <link>https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#43</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#43</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-nuoc-ngoai-phat-phap-ung-dung/Tup-Leu-Bac-Tom-44-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 25 Aug 2019 05:10:29 +0700</pubDate>
-    </item>
-    <item>
-      <title>45/45 Túp Lều Của Bác Tom - Harriet Beecher Stowe - Chương 44: Người giải phóng</title>
-      <link>https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#44</link>
-      <description><![CDATA[N/A]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/tup-leu-bac-tom-178177.html#44</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-nuoc-ngoai-phat-phap-ung-dung/Tup-Leu-Bac-Tom-45-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 25 Aug 2019 06:10:29 +0700</pubDate>
+      <title>▶ 1/8 Bước Đường Cùng - Nguyễn Công Hoan - Phần 1</title>
+      <link>https://phatphapungdung.com/sach-noi/buoc-duong-cung-nguyen-cong-hoan-176876.html#0</link>
+      <description><![CDATA[Bước Đường Cùng
+Tác giả: Nguyễn Công Hoan 
+Nhà xuất bản Văn Học ấn hành năm 2006
+Giọng đọc: Trung Nghị]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/buoc-duong-cung-nguyen-cong-hoan-176876.html#0</guid>
+      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-viet-nam-phat-phap-ung-dung/Buoc-Duong-Cung-01-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Aug 2019 13:22:44 +0700</pubDate>
+    </item>
+    <item>
+      <title>2/8 Bước Đường Cùng - Nguyễn Công Hoan - Phần 2</title>
+      <link>https://phatphapungdung.com/sach-noi/buoc-duong-cung-nguyen-cong-hoan-176876.html#1</link>
+      <description><![CDATA[Bước Đường Cùng
+Tác giả: Nguyễn Công Hoan 
+Nhà xuất bản Văn Học ấn hành năm 2006
+Giọng đọc: Trung Nghị]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/buoc-duong-cung-nguyen-cong-hoan-176876.html#1</guid>
+      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-viet-nam-phat-phap-ung-dung/Buoc-Duong-Cung-02-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Aug 2019 14:22:44 +0700</pubDate>
+    </item>
+    <item>
+      <title>3/8 Bước Đường Cùng - Nguyễn Công Hoan - Phần 3</title>
+      <link>https://phatphapungdung.com/sach-noi/buoc-duong-cung-nguyen-cong-hoan-176876.html#2</link>
+      <description><![CDATA[Bước Đường Cùng
+Tác giả: Nguyễn Công Hoan 
+Nhà xuất bản Văn Học ấn hành năm 2006
+Giọng đọc: Trung Nghị]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/buoc-duong-cung-nguyen-cong-hoan-176876.html#2</guid>
+      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-viet-nam-phat-phap-ung-dung/Buoc-Duong-Cung-03-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Aug 2019 15:22:44 +0700</pubDate>
+    </item>
+    <item>
+      <title>4/8 Bước Đường Cùng - Nguyễn Công Hoan - Phần 4</title>
+      <link>https://phatphapungdung.com/sach-noi/buoc-duong-cung-nguyen-cong-hoan-176876.html#3</link>
+      <description><![CDATA[Bước Đường Cùng
+Tác giả: Nguyễn Công Hoan 
+Nhà xuất bản Văn Học ấn hành năm 2006
+Giọng đọc: Trung Nghị]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/buoc-duong-cung-nguyen-cong-hoan-176876.html#3</guid>
+      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-viet-nam-phat-phap-ung-dung/Buoc-Duong-Cung-04-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Aug 2019 16:22:44 +0700</pubDate>
+    </item>
+    <item>
+      <title>5/8 Bước Đường Cùng - Nguyễn Công Hoan - Phần 5</title>
+      <link>https://phatphapungdung.com/sach-noi/buoc-duong-cung-nguyen-cong-hoan-176876.html#4</link>
+      <description><![CDATA[Bước Đường Cùng
+Tác giả: Nguyễn Công Hoan 
+Nhà xuất bản Văn Học ấn hành năm 2006
+Giọng đọc: Trung Nghị]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/buoc-duong-cung-nguyen-cong-hoan-176876.html#4</guid>
+      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-viet-nam-phat-phap-ung-dung/Buoc-Duong-Cung-05-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Aug 2019 17:22:44 +0700</pubDate>
+    </item>
+    <item>
+      <title>6/8 Bước Đường Cùng - Nguyễn Công Hoan - Phần 6</title>
+      <link>https://phatphapungdung.com/sach-noi/buoc-duong-cung-nguyen-cong-hoan-176876.html#5</link>
+      <description><![CDATA[Bước Đường Cùng
+Tác giả: Nguyễn Công Hoan 
+Nhà xuất bản Văn Học ấn hành năm 2006
+Giọng đọc: Trung Nghị]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/buoc-duong-cung-nguyen-cong-hoan-176876.html#5</guid>
+      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-viet-nam-phat-phap-ung-dung/Buoc-Duong-Cung-06-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Aug 2019 18:22:44 +0700</pubDate>
+    </item>
+    <item>
+      <title>7/8 Bước Đường Cùng - Nguyễn Công Hoan - Phần 7</title>
+      <link>https://phatphapungdung.com/sach-noi/buoc-duong-cung-nguyen-cong-hoan-176876.html#6</link>
+      <description><![CDATA[Bước Đường Cùng
+Tác giả: Nguyễn Công Hoan 
+Nhà xuất bản Văn Học ấn hành năm 2006
+Giọng đọc: Trung Nghị]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/buoc-duong-cung-nguyen-cong-hoan-176876.html#6</guid>
+      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-viet-nam-phat-phap-ung-dung/Buoc-Duong-Cung-07-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Aug 2019 19:22:44 +0700</pubDate>
+    </item>
+    <item>
+      <title>8/8 Bước Đường Cùng - Nguyễn Công Hoan - Phần 8</title>
+      <link>https://phatphapungdung.com/sach-noi/buoc-duong-cung-nguyen-cong-hoan-176876.html#7</link>
+      <description><![CDATA[Bước Đường Cùng
+Tác giả: Nguyễn Công Hoan 
+Nhà xuất bản Văn Học ấn hành năm 2006
+Giọng đọc: Trung Nghị]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/buoc-duong-cung-nguyen-cong-hoan-176876.html#7</guid>
+      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-viet-nam-phat-phap-ung-dung/Buoc-Duong-Cung-08-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Aug 2019 20:22:44 +0700</pubDate>
+    </item>
+    <item>
+      <title>▶ 1/22 Biển và Chim Bói Cá - Bùi Ngọc Tấn - Phần 1</title>
+      <link>https://phatphapungdung.com/sach-noi/bien-va-chim-boi-ca-bui-ngoc-tan-176873.html#0</link>
+      <description><![CDATA[Biển và Chim Bói Cá 
+Tác giả: Bùi Ngọc Tấn
+Nhà xuất bản Trẻ ấn hành 
+Giọng đọc: Trọng Khanh]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bien-va-chim-boi-ca-bui-ngoc-tan-176873.html#0</guid>
+      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-viet-nam-phat-phap-ung-dung/Bien-Va-Chim-Boi-Ca-01-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Aug 2019 13:22:26 +0700</pubDate>
+    </item>
+    <item>
+      <title>2/22 Biển và Chim Bói Cá - Bùi Ngọc Tấn - Phần 2</title>
+      <link>https://phatphapungdung.com/sach-noi/bien-va-chim-boi-ca-bui-ngoc-tan-176873.html#1</link>
+      <description><![CDATA[Biển và Chim Bói Cá 
+Tác giả: Bùi Ngọc Tấn
+Nhà xuất bản Trẻ ấn hành 
+Giọng đọc: Trọng Khanh]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bien-va-chim-boi-ca-bui-ngoc-tan-176873.html#1</guid>
+      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-viet-nam-phat-phap-ung-dung/Bien-Va-Chim-Boi-Ca-02-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Aug 2019 14:22:26 +0700</pubDate>
+    </item>
+    <item>
+      <title>3/22 Biển và Chim Bói Cá - Bùi Ngọc Tấn - Phần 3</title>
+      <link>https://phatphapungdung.com/sach-noi/bien-va-chim-boi-ca-bui-ngoc-tan-176873.html#2</link>
+      <description><![CDATA[Biển và Chim Bói Cá 
+Tác giả: Bùi Ngọc Tấn
+Nhà xuất bản Trẻ ấn hành 
+Giọng đọc: Trọng Khanh]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bien-va-chim-boi-ca-bui-ngoc-tan-176873.html#2</guid>
+      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-viet-nam-phat-phap-ung-dung/Bien-Va-Chim-Boi-Ca-03-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Aug 2019 15:22:26 +0700</pubDate>
+    </item>
+    <item>
+      <title>4/22 Biển và Chim Bói Cá - Bùi Ngọc Tấn - Phần 4</title>
+      <link>https://phatphapungdung.com/sach-noi/bien-va-chim-boi-ca-bui-ngoc-tan-176873.html#3</link>
+      <description><![CDATA[Biển và Chim Bói Cá 
+Tác giả: Bùi Ngọc Tấn
+Nhà xuất bản Trẻ ấn hành 
+Giọng đọc: Trọng Khanh]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bien-va-chim-boi-ca-bui-ngoc-tan-176873.html#3</guid>
+      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-viet-nam-phat-phap-ung-dung/Bien-Va-Chim-Boi-Ca-04-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Aug 2019 16:22:26 +0700</pubDate>
+    </item>
+    <item>
+      <title>5/22 Biển và Chim Bói Cá - Bùi Ngọc Tấn - Phần 5</title>
+      <link>https://phatphapungdung.com/sach-noi/bien-va-chim-boi-ca-bui-ngoc-tan-176873.html#4</link>
+      <description><![CDATA[Biển và Chim Bói Cá 
+Tác giả: Bùi Ngọc Tấn
+Nhà xuất bản Trẻ ấn hành 
+Giọng đọc: Trọng Khanh]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bien-va-chim-boi-ca-bui-ngoc-tan-176873.html#4</guid>
+      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-viet-nam-phat-phap-ung-dung/Bien-Va-Chim-Boi-Ca-05-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Aug 2019 17:22:26 +0700</pubDate>
+    </item>
+    <item>
+      <title>6/22 Biển và Chim Bói Cá - Bùi Ngọc Tấn - Phần 6</title>
+      <link>https://phatphapungdung.com/sach-noi/bien-va-chim-boi-ca-bui-ngoc-tan-176873.html#5</link>
+      <description><![CDATA[Biển và Chim Bói Cá 
+Tác giả: Bùi Ngọc Tấn
+Nhà xuất bản Trẻ ấn hành 
+Giọng đọc: Trọng Khanh]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bien-va-chim-boi-ca-bui-ngoc-tan-176873.html#5</guid>
+      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-viet-nam-phat-phap-ung-dung/Bien-Va-Chim-Boi-Ca-06-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Aug 2019 18:22:26 +0700</pubDate>
+    </item>
+    <item>
+      <title>7/22 Biển và Chim Bói Cá - Bùi Ngọc Tấn - Phần 7</title>
+      <link>https://phatphapungdung.com/sach-noi/bien-va-chim-boi-ca-bui-ngoc-tan-176873.html#6</link>
+      <description><![CDATA[Biển và Chim Bói Cá 
+Tác giả: Bùi Ngọc Tấn
+Nhà xuất bản Trẻ ấn hành 
+Giọng đọc: Trọng Khanh]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bien-va-chim-boi-ca-bui-ngoc-tan-176873.html#6</guid>
+      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-viet-nam-phat-phap-ung-dung/Bien-Va-Chim-Boi-Ca-07-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Aug 2019 19:22:26 +0700</pubDate>
+    </item>
+    <item>
+      <title>8/22 Biển và Chim Bói Cá - Bùi Ngọc Tấn - Phần 8</title>
+      <link>https://phatphapungdung.com/sach-noi/bien-va-chim-boi-ca-bui-ngoc-tan-176873.html#7</link>
+      <description><![CDATA[Biển và Chim Bói Cá 
+Tác giả: Bùi Ngọc Tấn
+Nhà xuất bản Trẻ ấn hành 
+Giọng đọc: Trọng Khanh]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bien-va-chim-boi-ca-bui-ngoc-tan-176873.html#7</guid>
+      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-viet-nam-phat-phap-ung-dung/Bien-Va-Chim-Boi-Ca-08-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Aug 2019 20:22:26 +0700</pubDate>
+    </item>
+    <item>
+      <title>9/22 Biển và Chim Bói Cá - Bùi Ngọc Tấn - Phần 9</title>
+      <link>https://phatphapungdung.com/sach-noi/bien-va-chim-boi-ca-bui-ngoc-tan-176873.html#8</link>
+      <description><![CDATA[Biển và Chim Bói Cá 
+Tác giả: Bùi Ngọc Tấn
+Nhà xuất bản Trẻ ấn hành 
+Giọng đọc: Trọng Khanh]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bien-va-chim-boi-ca-bui-ngoc-tan-176873.html#8</guid>
+      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-viet-nam-phat-phap-ung-dung/Bien-Va-Chim-Boi-Ca-09-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Aug 2019 21:22:26 +0700</pubDate>
+    </item>
+    <item>
+      <title>10/22 Biển và Chim Bói Cá - Bùi Ngọc Tấn - Phần 10</title>
+      <link>https://phatphapungdung.com/sach-noi/bien-va-chim-boi-ca-bui-ngoc-tan-176873.html#9</link>
+      <description><![CDATA[Biển và Chim Bói Cá 
+Tác giả: Bùi Ngọc Tấn
+Nhà xuất bản Trẻ ấn hành 
+Giọng đọc: Trọng Khanh]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bien-va-chim-boi-ca-bui-ngoc-tan-176873.html#9</guid>
+      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-viet-nam-phat-phap-ung-dung/Bien-Va-Chim-Boi-Ca-10-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Aug 2019 22:22:26 +0700</pubDate>
+    </item>
+    <item>
+      <title>11/22 Biển và Chim Bói Cá - Bùi Ngọc Tấn - Phần 11</title>
+      <link>https://phatphapungdung.com/sach-noi/bien-va-chim-boi-ca-bui-ngoc-tan-176873.html#10</link>
+      <description><![CDATA[Biển và Chim Bói Cá 
+Tác giả: Bùi Ngọc Tấn
+Nhà xuất bản Trẻ ấn hành 
+Giọng đọc: Trọng Khanh]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bien-va-chim-boi-ca-bui-ngoc-tan-176873.html#10</guid>
+      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-viet-nam-phat-phap-ung-dung/Bien-Va-Chim-Boi-Ca-11-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Aug 2019 23:22:26 +0700</pubDate>
+    </item>
+    <item>
+      <title>12/22 Biển và Chim Bói Cá - Bùi Ngọc Tấn - Phần 12</title>
+      <link>https://phatphapungdung.com/sach-noi/bien-va-chim-boi-ca-bui-ngoc-tan-176873.html#11</link>
+      <description><![CDATA[Biển và Chim Bói Cá 
+Tác giả: Bùi Ngọc Tấn
+Nhà xuất bản Trẻ ấn hành 
+Giọng đọc: Trọng Khanh]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bien-va-chim-boi-ca-bui-ngoc-tan-176873.html#11</guid>
+      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-viet-nam-phat-phap-ung-dung/Bien-Va-Chim-Boi-Ca-12-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 21 Aug 2019 00:22:26 +0700</pubDate>
+    </item>
+    <item>
+      <title>13/22 Biển và Chim Bói Cá - Bùi Ngọc Tấn - Phần 13</title>
+      <link>https://phatphapungdung.com/sach-noi/bien-va-chim-boi-ca-bui-ngoc-tan-176873.html#12</link>
+      <description><![CDATA[Biển và Chim Bói Cá 
+Tác giả: Bùi Ngọc Tấn
+Nhà xuất bản Trẻ ấn hành 
+Giọng đọc: Trọng Khanh]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bien-va-chim-boi-ca-bui-ngoc-tan-176873.html#12</guid>
+      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-viet-nam-phat-phap-ung-dung/Bien-Va-Chim-Boi-Ca-13-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 21 Aug 2019 01:22:26 +0700</pubDate>
+    </item>
+    <item>
+      <title>14/22 Biển và Chim Bói Cá - Bùi Ngọc Tấn - Phần 14</title>
+      <link>https://phatphapungdung.com/sach-noi/bien-va-chim-boi-ca-bui-ngoc-tan-176873.html#13</link>
+      <description><![CDATA[Biển và Chim Bói Cá 
+Tác giả: Bùi Ngọc Tấn
+Nhà xuất bản Trẻ ấn hành 
+Giọng đọc: Trọng Khanh]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bien-va-chim-boi-ca-bui-ngoc-tan-176873.html#13</guid>
+      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-viet-nam-phat-phap-ung-dung/Bien-Va-Chim-Boi-Ca-14-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 21 Aug 2019 02:22:26 +0700</pubDate>
+    </item>
+    <item>
+      <title>15/22 Biển và Chim Bói Cá - Bùi Ngọc Tấn - Phần 15</title>
+      <link>https://phatphapungdung.com/sach-noi/bien-va-chim-boi-ca-bui-ngoc-tan-176873.html#14</link>
+      <description><![CDATA[Biển và Chim Bói Cá 
+Tác giả: Bùi Ngọc Tấn
+Nhà xuất bản Trẻ ấn hành 
+Giọng đọc: Trọng Khanh]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bien-va-chim-boi-ca-bui-ngoc-tan-176873.html#14</guid>
+      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-viet-nam-phat-phap-ung-dung/Bien-Va-Chim-Boi-Ca-15-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 21 Aug 2019 03:22:26 +0700</pubDate>
+    </item>
+    <item>
+      <title>16/22 Biển và Chim Bói Cá - Bùi Ngọc Tấn - Phần 16</title>
+      <link>https://phatphapungdung.com/sach-noi/bien-va-chim-boi-ca-bui-ngoc-tan-176873.html#15</link>
+      <description><![CDATA[Biển và Chim Bói Cá 
+Tác giả: Bùi Ngọc Tấn
+Nhà xuất bản Trẻ ấn hành 
+Giọng đọc: Trọng Khanh]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bien-va-chim-boi-ca-bui-ngoc-tan-176873.html#15</guid>
+      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-viet-nam-phat-phap-ung-dung/Bien-Va-Chim-Boi-Ca-16-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 21 Aug 2019 04:22:26 +0700</pubDate>
+    </item>
+    <item>
+      <title>17/22 Biển và Chim Bói Cá - Bùi Ngọc Tấn - Phần 17</title>
+      <link>https://phatphapungdung.com/sach-noi/bien-va-chim-boi-ca-bui-ngoc-tan-176873.html#16</link>
+      <description><![CDATA[Biển và Chim Bói Cá 
+Tác giả: Bùi Ngọc Tấn
+Nhà xuất bản Trẻ ấn hành 
+Giọng đọc: Trọng Khanh]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bien-va-chim-boi-ca-bui-ngoc-tan-176873.html#16</guid>
+      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-viet-nam-phat-phap-ung-dung/Bien-Va-Chim-Boi-Ca-17-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 21 Aug 2019 05:22:26 +0700</pubDate>
+    </item>
+    <item>
+      <title>18/22 Biển và Chim Bói Cá - Bùi Ngọc Tấn - Phần 18</title>
+      <link>https://phatphapungdung.com/sach-noi/bien-va-chim-boi-ca-bui-ngoc-tan-176873.html#17</link>
+      <description><![CDATA[Biển và Chim Bói Cá 
+Tác giả: Bùi Ngọc Tấn
+Nhà xuất bản Trẻ ấn hành 
+Giọng đọc: Trọng Khanh]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bien-va-chim-boi-ca-bui-ngoc-tan-176873.html#17</guid>
+      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-viet-nam-phat-phap-ung-dung/Bien-Va-Chim-Boi-Ca-18-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 21 Aug 2019 06:22:26 +0700</pubDate>
+    </item>
+    <item>
+      <title>19/22 Biển và Chim Bói Cá - Bùi Ngọc Tấn - Phần 19</title>
+      <link>https://phatphapungdung.com/sach-noi/bien-va-chim-boi-ca-bui-ngoc-tan-176873.html#18</link>
+      <description><![CDATA[Biển và Chim Bói Cá 
+Tác giả: Bùi Ngọc Tấn
+Nhà xuất bản Trẻ ấn hành 
+Giọng đọc: Trọng Khanh]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bien-va-chim-boi-ca-bui-ngoc-tan-176873.html#18</guid>
+      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-viet-nam-phat-phap-ung-dung/Bien-Va-Chim-Boi-Ca-19-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 21 Aug 2019 07:22:26 +0700</pubDate>
+    </item>
+    <item>
+      <title>20/22 Biển và Chim Bói Cá - Bùi Ngọc Tấn - Phần 20</title>
+      <link>https://phatphapungdung.com/sach-noi/bien-va-chim-boi-ca-bui-ngoc-tan-176873.html#19</link>
+      <description><![CDATA[Biển và Chim Bói Cá 
+Tác giả: Bùi Ngọc Tấn
+Nhà xuất bản Trẻ ấn hành 
+Giọng đọc: Trọng Khanh]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bien-va-chim-boi-ca-bui-ngoc-tan-176873.html#19</guid>
+      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-viet-nam-phat-phap-ung-dung/Bien-Va-Chim-Boi-Ca-20-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 21 Aug 2019 08:22:26 +0700</pubDate>
+    </item>
+    <item>
+      <title>21/22 Biển và Chim Bói Cá - Bùi Ngọc Tấn - Phần 21</title>
+      <link>https://phatphapungdung.com/sach-noi/bien-va-chim-boi-ca-bui-ngoc-tan-176873.html#20</link>
+      <description><![CDATA[Biển và Chim Bói Cá 
+Tác giả: Bùi Ngọc Tấn
+Nhà xuất bản Trẻ ấn hành 
+Giọng đọc: Trọng Khanh]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bien-va-chim-boi-ca-bui-ngoc-tan-176873.html#20</guid>
+      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-viet-nam-phat-phap-ung-dung/Bien-Va-Chim-Boi-Ca-21-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 21 Aug 2019 09:22:26 +0700</pubDate>
+    </item>
+    <item>
+      <title>22/22 Biển và Chim Bói Cá - Bùi Ngọc Tấn - Phần 22</title>
+      <link>https://phatphapungdung.com/sach-noi/bien-va-chim-boi-ca-bui-ngoc-tan-176873.html#21</link>
+      <description><![CDATA[Biển và Chim Bói Cá 
+Tác giả: Bùi Ngọc Tấn
+Nhà xuất bản Trẻ ấn hành 
+Giọng đọc: Trọng Khanh]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bien-va-chim-boi-ca-bui-ngoc-tan-176873.html#21</guid>
+      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-viet-nam-phat-phap-ung-dung/Bien-Va-Chim-Boi-Ca-22-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 21 Aug 2019 10:22:26 +0700</pubDate>
+    </item>
+    <item>
+      <title>▶ 1/26 Bỉ Vỏ - Nguyên Hồng - Phần 1</title>
+      <link>https://phatphapungdung.com/sach-noi/bi-vo-nguyen-hong-176875.html#0</link>
+      <description><![CDATA[Bỉ Vỏ
+Tác giả: Nguyên Hồng
+Nhà xuất bản Văn Nghệ Tp.HCM ấn hành năm 1999
+Giọng đọc: Bá Trung]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-vo-nguyen-hong-176875.html#0</guid>
+      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-viet-nam-phat-phap-ung-dung/Bi-Vo-01-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Aug 2019 13:22:10 +0700</pubDate>
+    </item>
+    <item>
+      <title>2/26 Bỉ Vỏ - Nguyên Hồng - Phần 2</title>
+      <link>https://phatphapungdung.com/sach-noi/bi-vo-nguyen-hong-176875.html#1</link>
+      <description><![CDATA[Bỉ Vỏ
+Tác giả: Nguyên Hồng
+Nhà xuất bản Văn Nghệ Tp.HCM ấn hành năm 1999
+Giọng đọc: Bá Trung]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-vo-nguyen-hong-176875.html#1</guid>
+      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-viet-nam-phat-phap-ung-dung/Bi-Vo-02-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Aug 2019 14:22:10 +0700</pubDate>
+    </item>
+    <item>
+      <title>3/26 Bỉ Vỏ - Nguyên Hồng - Phần 3</title>
+      <link>https://phatphapungdung.com/sach-noi/bi-vo-nguyen-hong-176875.html#2</link>
+      <description><![CDATA[Bỉ Vỏ
+Tác giả: Nguyên Hồng
+Nhà xuất bản Văn Nghệ Tp.HCM ấn hành năm 1999
+Giọng đọc: Bá Trung]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-vo-nguyen-hong-176875.html#2</guid>
+      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-viet-nam-phat-phap-ung-dung/Bi-Vo-03-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Aug 2019 15:22:10 +0700</pubDate>
+    </item>
+    <item>
+      <title>4/26 Bỉ Vỏ - Nguyên Hồng - Phần 4</title>
+      <link>https://phatphapungdung.com/sach-noi/bi-vo-nguyen-hong-176875.html#3</link>
+      <description><![CDATA[Bỉ Vỏ
+Tác giả: Nguyên Hồng
+Nhà xuất bản Văn Nghệ Tp.HCM ấn hành năm 1999
+Giọng đọc: Bá Trung]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-vo-nguyen-hong-176875.html#3</guid>
+      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-viet-nam-phat-phap-ung-dung/Bi-Vo-04-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Aug 2019 16:22:10 +0700</pubDate>
+    </item>
+    <item>
+      <title>5/26 Bỉ Vỏ - Nguyên Hồng - Phần 5</title>
+      <link>https://phatphapungdung.com/sach-noi/bi-vo-nguyen-hong-176875.html#4</link>
+      <description><![CDATA[Bỉ Vỏ
+Tác giả: Nguyên Hồng
+Nhà xuất bản Văn Nghệ Tp.HCM ấn hành năm 1999
+Giọng đọc: Bá Trung]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-vo-nguyen-hong-176875.html#4</guid>
+      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-viet-nam-phat-phap-ung-dung/Bi-Vo-05-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Aug 2019 17:22:10 +0700</pubDate>
+    </item>
+    <item>
+      <title>6/26 Bỉ Vỏ - Nguyên Hồng - Phần 6</title>
+      <link>https://phatphapungdung.com/sach-noi/bi-vo-nguyen-hong-176875.html#5</link>
+      <description><![CDATA[Bỉ Vỏ
+Tác giả: Nguyên Hồng
+Nhà xuất bản Văn Nghệ Tp.HCM ấn hành năm 1999
+Giọng đọc: Bá Trung]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-vo-nguyen-hong-176875.html#5</guid>
+      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-viet-nam-phat-phap-ung-dung/Bi-Vo-06-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Aug 2019 18:22:10 +0700</pubDate>
+    </item>
+    <item>
+      <title>7/26 Bỉ Vỏ - Nguyên Hồng - Phần 7</title>
+      <link>https://phatphapungdung.com/sach-noi/bi-vo-nguyen-hong-176875.html#6</link>
+      <description><![CDATA[Bỉ Vỏ
+Tác giả: Nguyên Hồng
+Nhà xuất bản Văn Nghệ Tp.HCM ấn hành năm 1999
+Giọng đọc: Bá Trung]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-vo-nguyen-hong-176875.html#6</guid>
+      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-viet-nam-phat-phap-ung-dung/Bi-Vo-07-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Aug 2019 19:22:10 +0700</pubDate>
+    </item>
+    <item>
+      <title>8/26 Bỉ Vỏ - Nguyên Hồng - Phần 8</title>
+      <link>https://phatphapungdung.com/sach-noi/bi-vo-nguyen-hong-176875.html#7</link>
+      <description><![CDATA[Bỉ Vỏ
+Tác giả: Nguyên Hồng
+Nhà xuất bản Văn Nghệ Tp.HCM ấn hành năm 1999
+Giọng đọc: Bá Trung]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-vo-nguyen-hong-176875.html#7</guid>
+      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-viet-nam-phat-phap-ung-dung/Bi-Vo-08-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Aug 2019 20:22:10 +0700</pubDate>
+    </item>
+    <item>
+      <title>9/26 Bỉ Vỏ - Nguyên Hồng - Phần 9</title>
+      <link>https://phatphapungdung.com/sach-noi/bi-vo-nguyen-hong-176875.html#8</link>
+      <description><![CDATA[Bỉ Vỏ
+Tác giả: Nguyên Hồng
+Nhà xuất bản Văn Nghệ Tp.HCM ấn hành năm 1999
+Giọng đọc: Bá Trung]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-vo-nguyen-hong-176875.html#8</guid>
+      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-viet-nam-phat-phap-ung-dung/Bi-Vo-09-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Aug 2019 21:22:10 +0700</pubDate>
+    </item>
+    <item>
+      <title>10/26 Bỉ Vỏ - Nguyên Hồng - Phần 10</title>
+      <link>https://phatphapungdung.com/sach-noi/bi-vo-nguyen-hong-176875.html#9</link>
+      <description><![CDATA[Bỉ Vỏ
+Tác giả: Nguyên Hồng
+Nhà xuất bản Văn Nghệ Tp.HCM ấn hành năm 1999
+Giọng đọc: Bá Trung]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-vo-nguyen-hong-176875.html#9</guid>
+      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-viet-nam-phat-phap-ung-dung/Bi-Vo-10-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Aug 2019 22:22:10 +0700</pubDate>
+    </item>
+    <item>
+      <title>11/26 Bỉ Vỏ - Nguyên Hồng - Phần 11</title>
+      <link>https://phatphapungdung.com/sach-noi/bi-vo-nguyen-hong-176875.html#10</link>
+      <description><![CDATA[Bỉ Vỏ
+Tác giả: Nguyên Hồng
+Nhà xuất bản Văn Nghệ Tp.HCM ấn hành năm 1999
+Giọng đọc: Bá Trung]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-vo-nguyen-hong-176875.html#10</guid>
+      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-viet-nam-phat-phap-ung-dung/Bi-Vo-11-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Aug 2019 23:22:10 +0700</pubDate>
+    </item>
+    <item>
+      <title>12/26 Bỉ Vỏ - Nguyên Hồng - Phần 12</title>
+      <link>https://phatphapungdung.com/sach-noi/bi-vo-nguyen-hong-176875.html#11</link>
+      <description><![CDATA[Bỉ Vỏ
+Tác giả: Nguyên Hồng
+Nhà xuất bản Văn Nghệ Tp.HCM ấn hành năm 1999
+Giọng đọc: Bá Trung]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-vo-nguyen-hong-176875.html#11</guid>
+      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-viet-nam-phat-phap-ung-dung/Bi-Vo-12-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 21 Aug 2019 00:22:10 +0700</pubDate>
+    </item>
+    <item>
+      <title>13/26 Bỉ Vỏ - Nguyên Hồng - Phần 13</title>
+      <link>https://phatphapungdung.com/sach-noi/bi-vo-nguyen-hong-176875.html#12</link>
+      <description><![CDATA[Bỉ Vỏ
+Tác giả: Nguyên Hồng
+Nhà xuất bản Văn Nghệ Tp.HCM ấn hành năm 1999
+Giọng đọc: Bá Trung]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-vo-nguyen-hong-176875.html#12</guid>
+      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-viet-nam-phat-phap-ung-dung/Bi-Vo-13-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 21 Aug 2019 01:22:10 +0700</pubDate>
+    </item>
+    <item>
+      <title>14/26 Bỉ Vỏ - Nguyên Hồng - Phần 14</title>
+      <link>https://phatphapungdung.com/sach-noi/bi-vo-nguyen-hong-176875.html#13</link>
+      <description><![CDATA[Bỉ Vỏ
+Tác giả: Nguyên Hồng
+Nhà xuất bản Văn Nghệ Tp.HCM ấn hành năm 1999
+Giọng đọc: Bá Trung]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-vo-nguyen-hong-176875.html#13</guid>
+      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-viet-nam-phat-phap-ung-dung/Bi-Vo-14-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 21 Aug 2019 02:22:10 +0700</pubDate>
+    </item>
+    <item>
+      <title>15/26 Bỉ Vỏ - Nguyên Hồng - Phần 15</title>
+      <link>https://phatphapungdung.com/sach-noi/bi-vo-nguyen-hong-176875.html#14</link>
+      <description><![CDATA[Bỉ Vỏ
+Tác giả: Nguyên Hồng
+Nhà xuất bản Văn Nghệ Tp.HCM ấn hành năm 1999
+Giọng đọc: Bá Trung]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-vo-nguyen-hong-176875.html#14</guid>
+      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-viet-nam-phat-phap-ung-dung/Bi-Vo-15-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 21 Aug 2019 03:22:10 +0700</pubDate>
+    </item>
+    <item>
+      <title>16/26 Bỉ Vỏ - Nguyên Hồng - Phần 16</title>
+      <link>https://phatphapungdung.com/sach-noi/bi-vo-nguyen-hong-176875.html#15</link>
+      <description><![CDATA[Bỉ Vỏ
+Tác giả: Nguyên Hồng
+Nhà xuất bản Văn Nghệ Tp.HCM ấn hành năm 1999
+Giọng đọc: Bá Trung]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-vo-nguyen-hong-176875.html#15</guid>
+      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-viet-nam-phat-phap-ung-dung/Bi-Vo-16-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 21 Aug 2019 04:22:10 +0700</pubDate>
+    </item>
+    <item>
+      <title>17/26 Bỉ Vỏ - Nguyên Hồng - Phần 17</title>
+      <link>https://phatphapungdung.com/sach-noi/bi-vo-nguyen-hong-176875.html#16</link>
+      <description><![CDATA[Bỉ Vỏ
+Tác giả: Nguyên Hồng
+Nhà xuất bản Văn Nghệ Tp.HCM ấn hành năm 1999
+Giọng đọc: Bá Trung]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-vo-nguyen-hong-176875.html#16</guid>
+      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-viet-nam-phat-phap-ung-dung/Bi-Vo-17-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 21 Aug 2019 05:22:10 +0700</pubDate>
+    </item>
+    <item>
+      <title>18/26 Bỉ Vỏ - Nguyên Hồng - Phần 18</title>
+      <link>https://phatphapungdung.com/sach-noi/bi-vo-nguyen-hong-176875.html#17</link>
+      <description><![CDATA[Bỉ Vỏ
+Tác giả: Nguyên Hồng
+Nhà xuất bản Văn Nghệ Tp.HCM ấn hành năm 1999
+Giọng đọc: Bá Trung]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-vo-nguyen-hong-176875.html#17</guid>
+      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-viet-nam-phat-phap-ung-dung/Bi-Vo-18-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 21 Aug 2019 06:22:10 +0700</pubDate>
+    </item>
+    <item>
+      <title>19/26 Bỉ Vỏ - Nguyên Hồng - Phần 19</title>
+      <link>https://phatphapungdung.com/sach-noi/bi-vo-nguyen-hong-176875.html#18</link>
+      <description><![CDATA[Bỉ Vỏ
+Tác giả: Nguyên Hồng
+Nhà xuất bản Văn Nghệ Tp.HCM ấn hành năm 1999
+Giọng đọc: Bá Trung]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-vo-nguyen-hong-176875.html#18</guid>
+      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-viet-nam-phat-phap-ung-dung/Bi-Vo-19-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 21 Aug 2019 07:22:10 +0700</pubDate>
+    </item>
+    <item>
+      <title>20/26 Bỉ Vỏ - Nguyên Hồng - Phần 20</title>
+      <link>https://phatphapungdung.com/sach-noi/bi-vo-nguyen-hong-176875.html#19</link>
+      <description><![CDATA[Bỉ Vỏ
+Tác giả: Nguyên Hồng
+Nhà xuất bản Văn Nghệ Tp.HCM ấn hành năm 1999
+Giọng đọc: Bá Trung]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-vo-nguyen-hong-176875.html#19</guid>
+      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-viet-nam-phat-phap-ung-dung/Bi-Vo-20-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 21 Aug 2019 08:22:10 +0700</pubDate>
+    </item>
+    <item>
+      <title>21/26 Bỉ Vỏ - Nguyên Hồng - Phần 21</title>
+      <link>https://phatphapungdung.com/sach-noi/bi-vo-nguyen-hong-176875.html#20</link>
+      <description><![CDATA[Bỉ Vỏ
+Tác giả: Nguyên Hồng
+Nhà xuất bản Văn Nghệ Tp.HCM ấn hành năm 1999
+Giọng đọc: Bá Trung]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-vo-nguyen-hong-176875.html#20</guid>
+      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-viet-nam-phat-phap-ung-dung/Bi-Vo-21-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 21 Aug 2019 09:22:10 +0700</pubDate>
+    </item>
+    <item>
+      <title>22/26 Bỉ Vỏ - Nguyên Hồng - Phần 22</title>
+      <link>https://phatphapungdung.com/sach-noi/bi-vo-nguyen-hong-176875.html#21</link>
+      <description><![CDATA[Bỉ Vỏ
+Tác giả: Nguyên Hồng
+Nhà xuất bản Văn Nghệ Tp.HCM ấn hành năm 1999
+Giọng đọc: Bá Trung]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-vo-nguyen-hong-176875.html#21</guid>
+      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-viet-nam-phat-phap-ung-dung/Bi-Vo-22-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 21 Aug 2019 10:22:10 +0700</pubDate>
+    </item>
+    <item>
+      <title>23/26 Bỉ Vỏ - Nguyên Hồng - Phần 23</title>
+      <link>https://phatphapungdung.com/sach-noi/bi-vo-nguyen-hong-176875.html#22</link>
+      <description><![CDATA[Bỉ Vỏ
+Tác giả: Nguyên Hồng
+Nhà xuất bản Văn Nghệ Tp.HCM ấn hành năm 1999
+Giọng đọc: Bá Trung]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-vo-nguyen-hong-176875.html#22</guid>
+      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-viet-nam-phat-phap-ung-dung/Bi-Vo-23-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 21 Aug 2019 11:22:10 +0700</pubDate>
+    </item>
+    <item>
+      <title>24/26 Bỉ Vỏ - Nguyên Hồng - Phần 24</title>
+      <link>https://phatphapungdung.com/sach-noi/bi-vo-nguyen-hong-176875.html#23</link>
+      <description><![CDATA[Bỉ Vỏ
+Tác giả: Nguyên Hồng
+Nhà xuất bản Văn Nghệ Tp.HCM ấn hành năm 1999
+Giọng đọc: Bá Trung]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-vo-nguyen-hong-176875.html#23</guid>
+      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-viet-nam-phat-phap-ung-dung/Bi-Vo-24-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 21 Aug 2019 12:22:10 +0700</pubDate>
+    </item>
+    <item>
+      <title>25/26 Bỉ Vỏ - Nguyên Hồng - Phần 25</title>
+      <link>https://phatphapungdung.com/sach-noi/bi-vo-nguyen-hong-176875.html#24</link>
+      <description><![CDATA[Bỉ Vỏ
+Tác giả: Nguyên Hồng
+Nhà xuất bản Văn Nghệ Tp.HCM ấn hành năm 1999
+Giọng đọc: Bá Trung]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-vo-nguyen-hong-176875.html#24</guid>
+      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-viet-nam-phat-phap-ung-dung/Bi-Vo-25-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 21 Aug 2019 13:22:10 +0700</pubDate>
+    </item>
+    <item>
+      <title>26/26 Bỉ Vỏ - Nguyên Hồng - Phần 26</title>
+      <link>https://phatphapungdung.com/sach-noi/bi-vo-nguyen-hong-176875.html#25</link>
+      <description><![CDATA[Bỉ Vỏ
+Tác giả: Nguyên Hồng
+Nhà xuất bản Văn Nghệ Tp.HCM ấn hành năm 1999
+Giọng đọc: Bá Trung]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/bi-vo-nguyen-hong-176875.html#25</guid>
+      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-viet-nam-phat-phap-ung-dung/Bi-Vo-26-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 21 Aug 2019 14:22:10 +0700</pubDate>
+    </item>
+    <item>
+      <title>▶ 1/11 Bến Không Chồng - Dương Hướng - Phần 1</title>
+      <link>https://phatphapungdung.com/sach-noi/ben-khong-chong-duong-huong-176871.html#0</link>
+      <description><![CDATA[Bến Không Chồng
+Tác giả: Dương Hướng 
+Nhà xuất bản Trẻ ấn hành năm 2015
+Giọng đọc: Hồng Hà]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/ben-khong-chong-duong-huong-176871.html#0</guid>
+      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-viet-nam-phat-phap-ung-dung/Ben-Khong-Chong-01-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Aug 2019 13:21:51 +0700</pubDate>
+    </item>
+    <item>
+      <title>2/11 Bến Không Chồng - Dương Hướng - Phần 2</title>
+      <link>https://phatphapungdung.com/sach-noi/ben-khong-chong-duong-huong-176871.html#1</link>
+      <description><![CDATA[Bến Không Chồng
+Tác giả: Dương Hướng 
+Nhà xuất bản Trẻ ấn hành năm 2015
+Giọng đọc: Hồng Hà]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/ben-khong-chong-duong-huong-176871.html#1</guid>
+      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-viet-nam-phat-phap-ung-dung/Ben-Khong-Chong-02-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Aug 2019 14:21:51 +0700</pubDate>
+    </item>
+    <item>
+      <title>3/11 Bến Không Chồng - Dương Hướng - Phần 3</title>
+      <link>https://phatphapungdung.com/sach-noi/ben-khong-chong-duong-huong-176871.html#2</link>
+      <description><![CDATA[Bến Không Chồng
+Tác giả: Dương Hướng 
+Nhà xuất bản Trẻ ấn hành năm 2015
+Giọng đọc: Hồng Hà]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/ben-khong-chong-duong-huong-176871.html#2</guid>
+      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-viet-nam-phat-phap-ung-dung/Ben-Khong-Chong-03-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Aug 2019 15:21:51 +0700</pubDate>
+    </item>
+    <item>
+      <title>4/11 Bến Không Chồng - Dương Hướng - Phần 4</title>
+      <link>https://phatphapungdung.com/sach-noi/ben-khong-chong-duong-huong-176871.html#3</link>
+      <description><![CDATA[Bến Không Chồng
+Tác giả: Dương Hướng 
+Nhà xuất bản Trẻ ấn hành năm 2015
+Giọng đọc: Hồng Hà]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/ben-khong-chong-duong-huong-176871.html#3</guid>
+      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-viet-nam-phat-phap-ung-dung/Ben-Khong-Chong-04-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Aug 2019 16:21:51 +0700</pubDate>
+    </item>
+    <item>
+      <title>5/11 Bến Không Chồng - Dương Hướng - Phần 5</title>
+      <link>https://phatphapungdung.com/sach-noi/ben-khong-chong-duong-huong-176871.html#4</link>
+      <description><![CDATA[Bến Không Chồng
+Tác giả: Dương Hướng 
+Nhà xuất bản Trẻ ấn hành năm 2015
+Giọng đọc: Hồng Hà]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/ben-khong-chong-duong-huong-176871.html#4</guid>
+      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-viet-nam-phat-phap-ung-dung/Ben-Khong-Chong-05-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Aug 2019 17:21:51 +0700</pubDate>
+    </item>
+    <item>
+      <title>6/11 Bến Không Chồng - Dương Hướng - Phần 6</title>
+      <link>https://phatphapungdung.com/sach-noi/ben-khong-chong-duong-huong-176871.html#5</link>
+      <description><![CDATA[Bến Không Chồng
+Tác giả: Dương Hướng 
+Nhà xuất bản Trẻ ấn hành năm 2015
+Giọng đọc: Hồng Hà]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/ben-khong-chong-duong-huong-176871.html#5</guid>
+      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-viet-nam-phat-phap-ung-dung/Ben-Khong-Chong-06-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Aug 2019 18:21:51 +0700</pubDate>
+    </item>
+    <item>
+      <title>7/11 Bến Không Chồng - Dương Hướng - Phần 7</title>
+      <link>https://phatphapungdung.com/sach-noi/ben-khong-chong-duong-huong-176871.html#6</link>
+      <description><![CDATA[Bến Không Chồng
+Tác giả: Dương Hướng 
+Nhà xuất bản Trẻ ấn hành năm 2015
+Giọng đọc: Hồng Hà]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/ben-khong-chong-duong-huong-176871.html#6</guid>
+      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-viet-nam-phat-phap-ung-dung/Ben-Khong-Chong-07-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Aug 2019 19:21:51 +0700</pubDate>
+    </item>
+    <item>
+      <title>8/11 Bến Không Chồng - Dương Hướng - Phần 8</title>
+      <link>https://phatphapungdung.com/sach-noi/ben-khong-chong-duong-huong-176871.html#7</link>
+      <description><![CDATA[Bến Không Chồng
+Tác giả: Dương Hướng 
+Nhà xuất bản Trẻ ấn hành năm 2015
+Giọng đọc: Hồng Hà]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/ben-khong-chong-duong-huong-176871.html#7</guid>
+      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-viet-nam-phat-phap-ung-dung/Ben-Khong-Chong-08-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Aug 2019 20:21:51 +0700</pubDate>
+    </item>
+    <item>
+      <title>9/11 Bến Không Chồng - Dương Hướng - Phần 9</title>
+      <link>https://phatphapungdung.com/sach-noi/ben-khong-chong-duong-huong-176871.html#8</link>
+      <description><![CDATA[Bến Không Chồng
+Tác giả: Dương Hướng 
+Nhà xuất bản Trẻ ấn hành năm 2015
+Giọng đọc: Hồng Hà]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/ben-khong-chong-duong-huong-176871.html#8</guid>
+      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-viet-nam-phat-phap-ung-dung/Ben-Khong-Chong-09-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Aug 2019 21:21:51 +0700</pubDate>
+    </item>
+    <item>
+      <title>10/11 Bến Không Chồng - Dương Hướng - Phần 10</title>
+      <link>https://phatphapungdung.com/sach-noi/ben-khong-chong-duong-huong-176871.html#9</link>
+      <description><![CDATA[Bến Không Chồng
+Tác giả: Dương Hướng 
+Nhà xuất bản Trẻ ấn hành năm 2015
+Giọng đọc: Hồng Hà]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/ben-khong-chong-duong-huong-176871.html#9</guid>
+      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-viet-nam-phat-phap-ung-dung/Ben-Khong-Chong-10-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Aug 2019 22:21:51 +0700</pubDate>
+    </item>
+    <item>
+      <title>11/11 Bến Không Chồng - Dương Hướng - Phần 11</title>
+      <link>https://phatphapungdung.com/sach-noi/ben-khong-chong-duong-huong-176871.html#10</link>
+      <description><![CDATA[Bến Không Chồng
+Tác giả: Dương Hướng 
+Nhà xuất bản Trẻ ấn hành năm 2015
+Giọng đọc: Hồng Hà]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/ben-khong-chong-duong-huong-176871.html#10</guid>
+      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-viet-nam-phat-phap-ung-dung/Ben-Khong-Chong-11-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Aug 2019 23:21:51 +0700</pubDate>
+    </item>
+    <item>
+      <title>▶ 1/13 Bà Chúa Hòn - Sơn Nam - Phần 1</title>
+      <link>https://phatphapungdung.com/sach-noi/ba-chua-hon-son-nam-176869.html#0</link>
+      <description><![CDATA[Bà Chúa Hòn 
+Tác giả: Sơn Nam 
+Nhà xuất bản Trẻ ấn hành 
+Giọng đọc: Kim Phượng]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/ba-chua-hon-son-nam-176869.html#0</guid>
+      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-viet-nam-phat-phap-ung-dung/Ba-Chua-Hon-01-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Aug 2019 13:19:58 +0700</pubDate>
+    </item>
+    <item>
+      <title>2/13 Bà Chúa Hòn - Sơn Nam - Phần 2</title>
+      <link>https://phatphapungdung.com/sach-noi/ba-chua-hon-son-nam-176869.html#1</link>
+      <description><![CDATA[Bà Chúa Hòn 
+Tác giả: Sơn Nam 
+Nhà xuất bản Trẻ ấn hành 
+Giọng đọc: Kim Phượng]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/ba-chua-hon-son-nam-176869.html#1</guid>
+      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-viet-nam-phat-phap-ung-dung/Ba-Chua-Hon-02-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Aug 2019 14:19:58 +0700</pubDate>
+    </item>
+    <item>
+      <title>3/13 Bà Chúa Hòn - Sơn Nam - Phần 3</title>
+      <link>https://phatphapungdung.com/sach-noi/ba-chua-hon-son-nam-176869.html#2</link>
+      <description><![CDATA[Bà Chúa Hòn 
+Tác giả: Sơn Nam 
+Nhà xuất bản Trẻ ấn hành 
+Giọng đọc: Kim Phượng]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/ba-chua-hon-son-nam-176869.html#2</guid>
+      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-viet-nam-phat-phap-ung-dung/Ba-Chua-Hon-03-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Aug 2019 15:19:58 +0700</pubDate>
+    </item>
+    <item>
+      <title>4/13 Bà Chúa Hòn - Sơn Nam - Phần 4</title>
+      <link>https://phatphapungdung.com/sach-noi/ba-chua-hon-son-nam-176869.html#3</link>
+      <description><![CDATA[Bà Chúa Hòn 
+Tác giả: Sơn Nam 
+Nhà xuất bản Trẻ ấn hành 
+Giọng đọc: Kim Phượng]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/ba-chua-hon-son-nam-176869.html#3</guid>
+      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-viet-nam-phat-phap-ung-dung/Ba-Chua-Hon-04-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Aug 2019 16:19:58 +0700</pubDate>
+    </item>
+    <item>
+      <title>5/13 Bà Chúa Hòn - Sơn Nam - Phần 5</title>
+      <link>https://phatphapungdung.com/sach-noi/ba-chua-hon-son-nam-176869.html#4</link>
+      <description><![CDATA[Bà Chúa Hòn 
+Tác giả: Sơn Nam 
+Nhà xuất bản Trẻ ấn hành 
+Giọng đọc: Kim Phượng]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/ba-chua-hon-son-nam-176869.html#4</guid>
+      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-viet-nam-phat-phap-ung-dung/Ba-Chua-Hon-05-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Aug 2019 17:19:58 +0700</pubDate>
+    </item>
+    <item>
+      <title>6/13 Bà Chúa Hòn - Sơn Nam - Phần 6</title>
+      <link>https://phatphapungdung.com/sach-noi/ba-chua-hon-son-nam-176869.html#5</link>
+      <description><![CDATA[Bà Chúa Hòn 
+Tác giả: Sơn Nam 
+Nhà xuất bản Trẻ ấn hành 
+Giọng đọc: Kim Phượng]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/ba-chua-hon-son-nam-176869.html#5</guid>
+      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-viet-nam-phat-phap-ung-dung/Ba-Chua-Hon-06-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Aug 2019 18:19:58 +0700</pubDate>
+    </item>
+    <item>
+      <title>7/13 Bà Chúa Hòn - Sơn Nam - Phần 7</title>
+      <link>https://phatphapungdung.com/sach-noi/ba-chua-hon-son-nam-176869.html#6</link>
+      <description><![CDATA[Bà Chúa Hòn 
+Tác giả: Sơn Nam 
+Nhà xuất bản Trẻ ấn hành 
+Giọng đọc: Kim Phượng]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/ba-chua-hon-son-nam-176869.html#6</guid>
+      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-viet-nam-phat-phap-ung-dung/Ba-Chua-Hon-07-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Aug 2019 19:19:58 +0700</pubDate>
+    </item>
+    <item>
+      <title>8/13 Bà Chúa Hòn - Sơn Nam - Phần 8</title>
+      <link>https://phatphapungdung.com/sach-noi/ba-chua-hon-son-nam-176869.html#7</link>
+      <description><![CDATA[Bà Chúa Hòn 
+Tác giả: Sơn Nam 
+Nhà xuất bản Trẻ ấn hành 
+Giọng đọc: Kim Phượng]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/ba-chua-hon-son-nam-176869.html#7</guid>
+      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-viet-nam-phat-phap-ung-dung/Ba-Chua-Hon-08-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Aug 2019 20:19:58 +0700</pubDate>
+    </item>
+    <item>
+      <title>9/13 Bà Chúa Hòn - Sơn Nam - Phần 9</title>
+      <link>https://phatphapungdung.com/sach-noi/ba-chua-hon-son-nam-176869.html#8</link>
+      <description><![CDATA[Bà Chúa Hòn 
+Tác giả: Sơn Nam 
+Nhà xuất bản Trẻ ấn hành 
+Giọng đọc: Kim Phượng]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/ba-chua-hon-son-nam-176869.html#8</guid>
+      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-viet-nam-phat-phap-ung-dung/Ba-Chua-Hon-09-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Aug 2019 21:19:58 +0700</pubDate>
+    </item>
+    <item>
+      <title>10/13 Bà Chúa Hòn - Sơn Nam - Phần 10</title>
+      <link>https://phatphapungdung.com/sach-noi/ba-chua-hon-son-nam-176869.html#9</link>
+      <description><![CDATA[Bà Chúa Hòn 
+Tác giả: Sơn Nam 
+Nhà xuất bản Trẻ ấn hành 
+Giọng đọc: Kim Phượng]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/ba-chua-hon-son-nam-176869.html#9</guid>
+      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-viet-nam-phat-phap-ung-dung/Ba-Chua-Hon-10-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Aug 2019 22:19:58 +0700</pubDate>
+    </item>
+    <item>
+      <title>11/13 Bà Chúa Hòn - Sơn Nam - Phần 11</title>
+      <link>https://phatphapungdung.com/sach-noi/ba-chua-hon-son-nam-176869.html#10</link>
+      <description><![CDATA[Bà Chúa Hòn 
+Tác giả: Sơn Nam 
+Nhà xuất bản Trẻ ấn hành 
+Giọng đọc: Kim Phượng]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/ba-chua-hon-son-nam-176869.html#10</guid>
+      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-viet-nam-phat-phap-ung-dung/Ba-Chua-Hon-11-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Aug 2019 23:19:58 +0700</pubDate>
+    </item>
+    <item>
+      <title>12/13 Bà Chúa Hòn - Sơn Nam - Phần 12</title>
+      <link>https://phatphapungdung.com/sach-noi/ba-chua-hon-son-nam-176869.html#11</link>
+      <description><![CDATA[Bà Chúa Hòn 
+Tác giả: Sơn Nam 
+Nhà xuất bản Trẻ ấn hành 
+Giọng đọc: Kim Phượng]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/ba-chua-hon-son-nam-176869.html#11</guid>
+      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-viet-nam-phat-phap-ung-dung/Ba-Chua-Hon-12-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 21 Aug 2019 00:19:58 +0700</pubDate>
+    </item>
+    <item>
+      <title>13/13 Bà Chúa Hòn - Sơn Nam - Phần 13</title>
+      <link>https://phatphapungdung.com/sach-noi/ba-chua-hon-son-nam-176869.html#12</link>
+      <description><![CDATA[Bà Chúa Hòn 
+Tác giả: Sơn Nam 
+Nhà xuất bản Trẻ ấn hành 
+Giọng đọc: Kim Phượng]]></description>
+      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/ba-chua-hon-son-nam-176869.html#12</guid>
+      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/sach-noi-new/tieu-thuyet-van-hoc-viet-nam-phat-phap-ung-dung/Ba-Chua-Hon-13-phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 21 Aug 2019 01:19:58 +0700</pubDate>
     </item>
     <item>
       <title>▶ 1/6 Bà Chúa Chè - Nguyễn Triệu Luật - Bà Chúa Chè</title>
@@ -1210,106 +1354,6 @@ Tác giả: Torey Hayden
       <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/dem-toi-va-anh-sang-61370.html#20</guid>
       <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/TruyenDoc/DemToiVaAnhSang/Sach-Noi-Audio-Book-Dem-Toi-Va-Anh-Sang-C-20-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 01 Aug 2016 14:33:40 +0700</pubDate>
-    </item>
-    <item>
-      <title>▶ 1/10 Thám Tử Sherlock Holmes - Conan DoyLe - Phần 1 : Một Vụ Mất Tích Kỳ Lạ</title>
-      <link>https://phatphapungdung.com/sach-noi/tham-tu-sherlock-holmes-61483.html#0</link>
-      <description><![CDATA[Thám Tử Sherlock Holmes
-Tác giả: Conan DoyLe
-Thần dược nào đã tạo ra Holmes thành một thám tử nổi tiếng và được mến mộ của mọi thời ? Nhiều nhà...]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/tham-tu-sherlock-holmes-61483.html#0</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/TruyenDoc/ThamTuSherlockHolmes/Sach-Noi-Audio-Book-Tham-Tu-Sherlock-Holmes-1-Mot-Vu-Mat-Tich-Ky-La-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 13 Oct 2019 08:37:26 +0700</pubDate>
-    </item>
-    <item>
-      <title>2/10 Thám Tử Sherlock Holmes - Conan DoyLe - Phần 2 : Chàng Quý Tộc Độc Thân</title>
-      <link>https://phatphapungdung.com/sach-noi/tham-tu-sherlock-holmes-61483.html#1</link>
-      <description><![CDATA[Thám Tử Sherlock Holmes
-Tác giả: Conan DoyLe
-Thần dược nào đã tạo ra Holmes thành một thám tử nổi tiếng và được mến mộ của mọi thời ? Nhiều nhà...]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/tham-tu-sherlock-holmes-61483.html#1</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/TruyenDoc/ThamTuSherlockHolmes/Sach-Noi-Audio-Book-Tham-Tu-Sherlock-Holmes-2-Chang-Quy-Toc-Doc-Than-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 13 Oct 2019 09:37:26 +0700</pubDate>
-    </item>
-    <item>
-      <title>3/10 Thám Tử Sherlock Holmes - Conan DoyLe - Phần 3 : Vụ Án Tại Thung Lũng Boscom</title>
-      <link>https://phatphapungdung.com/sach-noi/tham-tu-sherlock-holmes-61483.html#2</link>
-      <description><![CDATA[Thám Tử Sherlock Holmes
-Tác giả: Conan DoyLe
-Thần dược nào đã tạo ra Holmes thành một thám tử nổi tiếng và được mến mộ của mọi thời ? Nhiều nhà...]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/tham-tu-sherlock-holmes-61483.html#2</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/TruyenDoc/ThamTuSherlockHolmes/Sach-Noi-Audio-Book-Tham-Tu-Sherlock-Holmes-3-Vu-An-Tai-Thung-Lung-Boscom-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 13 Oct 2019 10:37:26 +0700</pubDate>
-    </item>
-    <item>
-      <title>4/10 Thám Tử Sherlock Holmes - Conan DoyLe - Phần 4 : Kẻ Dị Dạng</title>
-      <link>https://phatphapungdung.com/sach-noi/tham-tu-sherlock-holmes-61483.html#3</link>
-      <description><![CDATA[Thám Tử Sherlock Holmes
-Tác giả: Conan DoyLe
-Thần dược nào đã tạo ra Holmes thành một thám tử nổi tiếng và được mến mộ của mọi thời ? Nhiều nhà...]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/tham-tu-sherlock-holmes-61483.html#3</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/TruyenDoc/ThamTuSherlockHolmes/Sach-Noi-Audio-Book-Tham-Tu-Sherlock-Holmes-4-Ke-Di-Dang-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 13 Oct 2019 11:37:26 +0700</pubDate>
-    </item>
-    <item>
-      <title>5/10 Thám Tử Sherlock Holmes - Conan DoyLe - Phần 5 : Chiếc Vương Miện Bằng Ngọc Berlin</title>
-      <link>https://phatphapungdung.com/sach-noi/tham-tu-sherlock-holmes-61483.html#4</link>
-      <description><![CDATA[Thám Tử Sherlock Holmes
-Tác giả: Conan DoyLe
-Thần dược nào đã tạo ra Holmes thành một thám tử nổi tiếng và được mến mộ của mọi thời ? Nhiều nhà...]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/tham-tu-sherlock-holmes-61483.html#4</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/TruyenDoc/ThamTuSherlockHolmes/Sach-Noi-Audio-Book-Tham-Tu-Sherlock-Holmes-5-Chiec-Vuong-Mien-Bang-Ngoc-Berlin-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 13 Oct 2019 12:37:26 +0700</pubDate>
-    </item>
-    <item>
-      <title>6/10 Thám Tử Sherlock Holmes - Conan DoyLe - Phần 6 : Người Khách Trọ Được Hưởng Bổng Lộc</title>
-      <link>https://phatphapungdung.com/sach-noi/tham-tu-sherlock-holmes-61483.html#5</link>
-      <description><![CDATA[Thám Tử Sherlock Holmes
-Tác giả: Conan DoyLe
-Thần dược nào đã tạo ra Holmes thành một thám tử nổi tiếng và được mến mộ của mọi thời ? Nhiều nhà...]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/tham-tu-sherlock-holmes-61483.html#5</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/TruyenDoc/ThamTuSherlockHolmes/Sach-Noi-Audio-Book-Tham-Tu-Sherlock-Holmes-6-Nguoi-Khach-Tro-Duoc-Huong-Bong-Loc-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 13 Oct 2019 13:37:26 +0700</pubDate>
-    </item>
-    <item>
-      <title>7/10 Thám Tử Sherlock Holmes - Conan DoyLe - Phần 7 : Công Việc Sau Cùng Của Holmes</title>
-      <link>https://phatphapungdung.com/sach-noi/tham-tu-sherlock-holmes-61483.html#6</link>
-      <description><![CDATA[Thám Tử Sherlock Holmes
-Tác giả: Conan DoyLe
-Thần dược nào đã tạo ra Holmes thành một thám tử nổi tiếng và được mến mộ của mọi thời ? Nhiều nhà...]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/tham-tu-sherlock-holmes-61483.html#6</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/TruyenDoc/ThamTuSherlockHolmes/Sach-Noi-Audio-Book-Tham-Tu-Sherlock-Holmes-7-Cong-Viec-Sau-Cung-Cua-Holmes-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 13 Oct 2019 14:37:26 +0700</pubDate>
-    </item>
-    <item>
-      <title>8/10 Thám Tử Sherlock Holmes - Conan DoyLe - Phần 8 : Ngôi Nhà Trống Không</title>
-      <link>https://phatphapungdung.com/sach-noi/tham-tu-sherlock-holmes-61483.html#7</link>
-      <description><![CDATA[Thám Tử Sherlock Holmes
-Tác giả: Conan DoyLe
-Thần dược nào đã tạo ra Holmes thành một thám tử nổi tiếng và được mến mộ của mọi thời ? Nhiều nhà...]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/tham-tu-sherlock-holmes-61483.html#7</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/TruyenDoc/ThamTuSherlockHolmes/Sach-Noi-Audio-Book-Tham-Tu-Sherlock-Holmes-8-Ngoi-Nha-Trong-Khong-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 13 Oct 2019 15:37:26 +0700</pubDate>
-    </item>
-    <item>
-      <title>9/10 Thám Tử Sherlock Holmes - Conan DoyLe - Phần 9 : Nhà Thầu Khoáng Ở NorthHut</title>
-      <link>https://phatphapungdung.com/sach-noi/tham-tu-sherlock-holmes-61483.html#8</link>
-      <description><![CDATA[Thám Tử Sherlock Holmes
-Tác giả: Conan DoyLe
-Thần dược nào đã tạo ra Holmes thành một thám tử nổi tiếng và được mến mộ của mọi thời ? Nhiều nhà...]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/tham-tu-sherlock-holmes-61483.html#8</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/TruyenDoc/ThamTuSherlockHolmes/Sach-Noi-Audio-Book-Tham-Tu-Sherlock-Holmes-9-Nha-Thau-Khoang-O-North-Hut-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 13 Oct 2019 16:37:26 +0700</pubDate>
-    </item>
-    <item>
-      <title>10/10 Thám Tử Sherlock Holmes - Conan DoyLe - Phần 10 : SherlockHolmes Hấp Hối</title>
-      <link>https://phatphapungdung.com/sach-noi/tham-tu-sherlock-holmes-61483.html#9</link>
-      <description><![CDATA[Thám Tử Sherlock Holmes
-Tác giả: Conan DoyLe
-Thần dược nào đã tạo ra Holmes thành một thám tử nổi tiếng và được mến mộ của mọi thời ? Nhiều nhà...]]></description>
-      <guid isPermaLink="false">https://phatphapungdung.com/sach-noi/tham-tu-sherlock-holmes-61483.html#9</guid>
-      <enclosure url="https://s1.phatphapungdung.com/media/bookspeak/TruyenDoc/ThamTuSherlockHolmes/Sach-Noi-Audio-Book-Tham-Tu-Sherlock-Holmes-10-Sherlock-Holmes-Hap-Hoi-www.phatphapungdung.com.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 13 Oct 2019 17:37:26 +0700</pubDate>
     </item>
     <item>
       <title>▶ 1/16 Tôi, Charley Và Hành Trình Nước Mỹ - John Steinbeck - Phần 1</title>
