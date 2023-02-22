@@ -164,6 +164,10 @@ def get_articles_from_html(soup, url, no_items, podcast_title, item_titles=None)
         item = i.a
         link = item.get('href')
         title = item.get('title')
+
+        if item_titles is not None:
+            item_titles.append(title)
+
         idesc = None #i.select_one('div.td-excerpt')
         if idesc:
             description = i.select_one('div.td-excerpt').text.strip()
@@ -185,6 +189,10 @@ def get_articles_from_html(soup, url, no_items, podcast_title, item_titles=None)
         item = i.select_one('h3.entry-title')
         link = item.a.get('href')
         title = item.text.strip()
+
+        if item_titles is not None:
+            item_titles.append(title)
+
         idesc = i.select_one('div.td-excerpt')
         if idesc:
             description = i.select_one('div.td-excerpt').text.strip()
