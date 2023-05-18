@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 15 May 2023 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 18 May 2023 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 15 May 2023 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 18 May 2023 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Australia nỗ lực chống nạn lừa đảo giảm thiệt hại cho người dân</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Mới đây, Ủy ban Cạnh tranh và Người tiêu dùng Australia cho biết, năm ngoái, người dân nước này thiệt hại khoảng 3,1 tỷ AUD vì các vụ lừa đảo thuộc nhiều thể loại như: lừa đảo đầu tư, lừa đảo thanh toán, lừa đảo tình cảm. Con số này đã tăng 80% so với năm 2021, thậm chí có thể cao hơn 30% do rất nhiều vụ lừa đảo không được báo cáo. Trước thực trạng này, chính phủ Australia vừa thông báo sẽ thành lập Trung tâm chống lừa đảo để hạn chế các vụ việc xảy ra và giảm thiểu thiệt hại cho người dân.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2023/05/18/vovlive_sukienvabanluan_australia-_no_luc_chong_nan_lua-dao_giam_thiet_hai-cho_nguoi_dan.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 18 May 2023 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Thái Lan tập trung mô hình du lịch nông nghiệp, phát huy thế mạnh địa phương</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2023/05/12/vovlive_sukienvabanluan_lam_phat_tang_nhanh_nhat_chau_a_pakistan_ung_pho_ra_sao.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 12 May 2023 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Du lịch Lào bứt phá những tháng đầu năm</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Theo số liệu vừa được công bố, lượng du khách quốc tế tới Lào trong quý 1 năm nay đã tăng mạnh, đạt tới hơn 800.000 lượt. Con số này vượt tới hơn một nửa so với mục tiêu mà Lào đề ra cho cả năm 2023 là thu hút 1,4 triệu lượt khách quốc tế. Đáng chú ý, Lào liên tiếp được nhiều chuyên trang du lịch xếp vào nhóm những điểm đến du lịch hấp dẫn thế giới. Vì sao Lào đạt được những thành tích ấn tượng này, khi thời gian mở cửa đón du khách quốc tế chỉ chưa đầy 1 năm?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2023/05/10/vovlive_sukienvabanluan_du_lich_lao_but_pha_dau_nam.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 10 May 2023 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

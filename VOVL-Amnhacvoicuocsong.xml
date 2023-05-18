@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 07 May 2023 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 14 May 2023 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 07 May 2023 19:00:00 +0700</pubDate>
+    <pubDate>Sun, 14 May 2023 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,15 @@
     </itunes:owner>
     <itunes:subtitle>Âm nhạc với cuộc sống</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Amnhacvoicuocsong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>“Thăm Mẹ” - Món quà ý nghĩa của ca sĩ Hoàng Nga gửi tặng những bà mẹ Việt Nam nhân ngày của Mẹ (14/05/2023)</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[- Kỷ niệm 133 năm ngày sinh Chủ tịch Hồ Chí Minh (19/05/1890-19/05/2023), tìm hiểu về ca khúc “Những bông hoa trong vườn Bác” (Nhạc sĩ Văn Dung).
+- Ngày của mẹ là ngày lễ kỷ niệm tôn vinh những người mẹ được tổ chức tại nhiều nơi trên thế giới. Nhân dịp Ngày của Mẹ năm nay (13/05/2023), thưởng thức bài hát “Thăm mẹ” (nhạc sĩ Phạm Quang Hiển , lời thơ Trần Tựu) – món quà ý nghĩa ca sĩ Hoàng Nga dành tặng những bà mẹ Việt Nam và lắng nghe những cảm nhận về bài hát của nữ ca sĩ...]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2023/05/16/vovlive_am_nhac_voi_cuoc_song_tham_me.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 14 May 2023 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Những góc nhìn về chiến thắng Điện Biên qua những sáng tác âm nhạc mới</title>
       <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
@@ -49,15 +58,6 @@
       <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2023/04/25/vovlive_am_nhac_voi_cuoc_song_ha_noi_thom.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 16 Apr 2023 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>“Giao lưu những người yêu nghệ thuật chèo toàn quốc lần thứ 8, năm 2023” trong hành trình bảo tồn vốn văn hóa cổ truyền của Đài TNVN</title>
-      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[- Kỷ niệm 58 năm chiến thắng Hàm Rồng, Thanh Hóa (3/4/1965-3/4/2023), thưởng thức ca khúc Chào Sông Mã anh hùng (nhạc sĩ Xuân Giao)
-- Từ ngày 21 đến ngày 23/04/2023, tại Khu du lịch biển Đồ Sơn, Đoàn An điều dưỡng 295 – Tp. Hải Phòng, Phòng Dân ca và Nhạc cổ truyền Đài TNVN và những người yêu chèo tổ chức “Giao lưu những người yêu nghệ thuật chèo toàn quốc lần thứ 8, năm 2023”. Trong chương trình, gặp gỡ soạn giả, Nhà báo Mai Văn Lạng - Trưởng Phòng Dân ca và Nhạc cổ truyền Đài TNVN, thành viên Ban Tổ chức để tìm hiểu hoạt động ý nghĩa này trong hành trình bảo tồn vốn văn hóa cổ truyền của Đài TNVN…]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2023/04/04/vovlive_am_nhac_voi_cuoc_song_mai_van_lang.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 02 Apr 2023 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
