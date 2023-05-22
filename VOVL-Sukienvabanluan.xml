@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 18 May 2023 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 22 May 2023 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 18 May 2023 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 22 May 2023 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,22 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Lào phát triển nông nghiệp theo hướng thay thế nhập khẩu</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Khuyến khích sản xuất hàng nông sản để thay thế hàng nhập khẩu - đây là một trong những nhiệm vụ trọng tâm của Lào nhằm giải quyết thách thức lớn nhất hiện nay với nền kinh tế: lạm phát. Hướng đi của Lào được cho là phù hợp với bối cảnh hiện nay, khi tình trạng lạm phát tăng vọt tại nhiều quốc gia trên thế giới có nguyên nhân rất lớn từ giá lương thực, thực phẩm tăng. Tuy nhiên, với một nền kinh tế mà hàng hóa vẫn phụ thuộc vào nhập khẩu, Lào sẽ gặp những thách thức như thế nào để có thể thực hiện chiến lược chuyển đổi này?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2023/05/22/vovlive_sukienvabanluan_lao_phat_trien_nong_nghiep_theo_huong_thay_the_nhap_khau.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 22 May 2023 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Số người rút bảo hiểm xã hội một lần gia tăng, ảnh hưởng quyền lợi người lao động và chính sách an sinh xã hội</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Số người rút bảo hiểm xã hội 1 lần liên tục gia tăng thời gian qua do nhiều doanh nghiệp bị giảm đơn hàng, khiến hàng chục nghìn người lao động bị mất việc, giảm giờ làm. Thu nhập giảm, công việc bấp bênh, không ít người lao động chỉ biết trông chờ vào khoản bảo hiểm xã hội (BHXH). Giải pháp nào để hạn chế tình trạng rút BHXH một lần?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2023/05/22/vovlive_sukienvabanluan_so_nguoi_rut_bao_hiem_xa_hoi_mot_lan_gia_tang.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 22 May 2023 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Australia nỗ lực chống nạn lừa đảo giảm thiệt hại cho người dân</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -38,22 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2023/05/15/vovlive_sukienvabanluan_thai_lan_tap_trung_mo_hinh_doanh_nghiep.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 15 May 2023 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Cải cách thủ tục hành chính để gần dân hơn - nhìn từ Bà Rịa- Vũng Tàu</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Cải cách hành chính là hướng tới việc nâng cao khả năng hoạt động của bộ máy hành chính, giúp cho quá trình quản lý xã hội của Nhà nước được tốt hơn, cũng như định hướng cho nền kinh tế phát triển theo đúng định hướng của Nhà nước, đem lại lợi ích thiết thực cho người dân và doanh nghiệp. Đây là mục tiêu và nỗ lực của nhiều địa phương. Bằng những mô hình, giải pháp sáng tạo, phù hợp với thực tiễn địa phương, công tác cải cách hành chính tại Bà Rịa - Vũng Tàu đã có những chuyển biến tích cực, được người dân, doanh nghiệp đánh giá cao.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2023/05/15/vovlive_sukienvabanluan_cai_cach_hanh_chinh_nhin_tu_ba_ria_vung_tau.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 15 May 2023 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Lạm phát tăng nhanh nhất châu Á: Pakistan ứng phó ra sao?</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Trong bối cảnh nhiều nền kinh tế thế giới bắt đầu kiểm soát được đà tăng của lạm phát – vốn ghi nhận những mức cao kỷ lục trong nhiều thập niên thì tại quốc gia Nam Á Pakistan, lạm phát vẫn tiếp tục “bủa vây”. Pakistan đã trở thành quốc gia có tốc độ lạm phát nhanh nhất châu Á do đồng nội tệ suy yếu, các khoản nợ khổng lồ, trong khi chi phí năng lượng và lương thực tăng cao đã đẩy giá cả tăng lên mức kỷ lục trong tháng Tư. Hiện có những lo ngại rằng, Pakistan đang đi theo vết xe đổ của Sri Lanka, quốc gia Nam Á đã vỡ nợ năm ngoái.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2023/05/12/vovlive_sukienvabanluan_lam_phat_tang_nhanh_nhat_chau_a_pakistan_ung_pho_ra_sao.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 12 May 2023 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
