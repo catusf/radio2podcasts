@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 22 May 2023 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 23 May 2023 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 22 May 2023 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 23 May 2023 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Vì sao nhiều thành phố Trung Quốc nới lỏng mô hình “kinh doanh hàng rong”?</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Cũng giống như nhiều quốc gia châu Á khác, mô hình kinh doanh hàng rong trên đường phố từng là nét đặc trưng của nhiều thành phố ở Trung Quốc. Tuy nhiên, đã dần bị loạn bỏ do nhu cầu phát triển Công nghiệp hóa - và Hiện đại hóa. Khi Trung Quốc rơi vào thời kỳ khó khăn kinh tế do đại dịch COVID-19 gây ra vào năm 2020, Thủ tướng nước này khi đó là ông Lý Khắc Cường đã đưa ra ý tưởng tạo việc làm bằng cách khuyến khích người thất nghiệp bán hàng rong trên đường phố. Có những địa phương ủng hộ nhưng cũng có những thành phố lớn phản đối vì cho rằng cách buôn bán này là “không vệ sinh và thiếu văn minh”. Ba năm trôi qua, ý tưởng “nền kinh tế bán hàng rong” đã quay trở lại xứ tỷ dân với việc nhiều thành phố dỡ bỏ lệnh cấm bán hàng rong. Điều gì đã thúc đẩy mô hình này quay trở lại? Trung Quốc quản lý ra sao ý tưởng kinh doanh nhỏ này?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2023/05/23/vovlive_sukienvabanluan_vi_sao_nhieu_thanh_pho_trung_quoc_noi_long_lenh_ban_hang_rong.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 23 May 2023 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Lào phát triển nông nghiệp theo hướng thay thế nhập khẩu</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2023/05/18/vovlive_sukienvabanluan_australia-_no_luc_chong_nan_lua-dao_giam_thiet_hai-cho_nguoi_dan.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 18 May 2023 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Thái Lan tập trung mô hình du lịch nông nghiệp, phát huy thế mạnh địa phương</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Thái Lan vốn được đánh giá là một trong những điểm du lịch nổi tiếng của Đông Nam Á với thiên nhiên tươi đẹp, nền văn hóa lâu đời, các ngôi chùa kiến trúc độc đáo, những thiên đường mua sắm sôi động. Để thu hút thêm du khách, đặc biệt vực dậy ngành du lịch giai đoạn hậu đại dịch COVID-19, Thái Lan đang tập trung đầu tư đa dạng các sản phẩm du lịch, trong đó nổi bật là kết hợp giữa du lịch và nông nghiệp.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2023/05/15/vovlive_sukienvabanluan_thai_lan_tap_trung_mo_hinh_doanh_nghiep.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 15 May 2023 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
