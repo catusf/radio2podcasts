@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 23 May 2023 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 24 May 2023 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 23 May 2023 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 24 May 2023 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Tìm trong kho báu</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Timtrongkhobau.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Bích Khê: Tài thơ độc đáo 23/5/2023</title>
+      <title>Bích Khê – Từ Tinh huyết thần dị đến Tinh hoa thần linh 24/5/2023</title>
+      <link>http://vov6.vov.vn/tim-trong-kho-bau/bich-khe-tu-tinh-huyet-than-di-den-tinh-hoa-than-linh-c54-37285.aspx</link>
+      <description><![CDATA[Trong chương trình Tìm trong kho báu lần trước, chúng tôi đã giới thiệu tới quý vị di sản văn chương Bích Khê qua tập thơ đầu tiên của ông, tập Tinh huyết, xuất bản năm 1939, cũng là tập thơ duy nhất được in khi ông còn sống. Sau khi Bích Khê qua đời tới nửa thế kỷ, gia đình của ông mới công bố tiếp tập thơ thứ hai mang tên Tinh hoa, gây nhiều sửng sốt trong lòng bạn đọc cũng như giới nghiên cứu văn chương. Trong phần đầu của chương trình Tìm trong kho báu hôm nay, mời quý vị cùng theo dõi phần tiếp theo bài viết của tác giả Trần Thu Hà với nhan đề Bích Khê – Từ Tinh huyết thần dị đến Tinh hoa thần linh, để cùng tìm hiểu về tập thơ di cảo mang tên Tinh hoa của Bích Khê.]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/bich-khe-tu-tinh-huyet-than-di-den-tinh-hoa-than-linh-c54-37285.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/v2_2505_08h00_tim_trong_kho_bau_25520239.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 24 May 2023 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Bích Khê: Tài thơ độc đáo  23/5/2023</title>
       <link>http://vov6.vov.vn/tim-trong-kho-bau/bich-khe-tai-tho-doc-dao-c54-37282.aspx</link>
       <description><![CDATA[Nhìn lại các thành tựu của Thơ Mới lãng mạn (1932-1945), Bích Khê là một trong những gương mặt đặc biệt. Chỉ sống trên dương thế 30 năm và sinh thời chỉ in một tập thơ duy nhất, tập Tinh huyết (năm 1939), Bích Khê đã khẳng định một giọng điệu và phong cách độc đáo, không trộn lẫn với bất kỳ ai. Chương trình Tìm trong kho báu lần này xin được cùng thính giả nhìn lại di sản văn chương của ông.]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/bich-khe-tai-tho-doc-dao-c54-37282.aspx</guid>
@@ -37,14 +45,6 @@
       <description><![CDATA[Trong chương trình Tìm trong kho báu kỳ trước, chúng ta đã cùng tìm hiểu về chặng đường sáng tác thứ nhất của Nguyễn Tuân, đó là thời kỳ trước 1945 với tập tác phẩm nổi tiếng Vang bóng một thời cùng một số tùy bút, tiểu thuyết tiêu biểu khác như Thiếu quê hương, Chiếc lư đồng mắt cua, Chùa Đàn. Trong chương trình Tìm trong kho báu lần này, chúng ta sẽ cùng tìm hiểu về chặng đường sáng tác thứ hai của Nguyễn Tuân, đó là thời kỳ sau 1945]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/sang-tac-cua-nguyen-tuan-thoi-ky-sau-cach-mang-thang-8-1945-c54-37268.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2023_5/v2_1105_08h00_tim_trong_kho_bau_125202312.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 12 May 2023 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Âm vang của một thời vàng son quá vãng  12/5/2023</title>
-      <link>http://vov6.vov.vn/tim-trong-kho-bau/am-vang-cua-mot-thoi-vang-son-qua-vang-c54-37267.aspx</link>
-      <description><![CDATA[Nhìn lại nền văn xuôi Việt Nam hiện đại thế kỷ 20, Nguyễn Tuân là gương mặt thật độc đáo, đặc biệt với các sáng tác trải dài trong cả ba giai đoạn: trước 1945, giai đoạn kháng chiến và sau 1975. Nếu như trước 1945, ông có những thành tựu ở cả ba thể loại: truyện ngắn, tùy bút và tiểu thuyết thì kể từ sau 1945, bút lực Nguyễn Tuân chủ yếu tập trung vào một thể loại duy nhất – tùy bút – mà ông gọi đó là một lối chơi độc tấu.]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/am-vang-cua-mot-thoi-vang-son-qua-vang-c54-37267.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2023_5/v2_0805_08h00_tim_trong_kho_bau_125202310.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 12 May 2023 19:00:00 +0700</pubDate>
     </item>
   </channel>
