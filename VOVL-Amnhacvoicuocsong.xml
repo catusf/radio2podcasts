@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 14 May 2023 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 28 May 2023 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 14 May 2023 19:00:00 +0700</pubDate>
+    <pubDate>Sun, 28 May 2023 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Âm nhạc với cuộc sống</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Amnhacvoicuocsong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Trò chuyện cùng nhạc sĩ Trần Nhật Dương về các tác phẩm đoạt giải Nhà nước về Văn học nghệ thuật</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[Sáng 19/5, tại Nhà hát Lớn Hà Nội, Bộ Văn hóa, Thể thao và Du lịch đã tổ chức trao tặng Giải thưởng Hồ Chí Minh, Giải thưởng Nhà nước về văn học, nghệ thuật năm 2022. Với cụm tác phẩm, ca khúc “Người đàn bà ngược nắng”, "Bản hùng ca một thời kiêu hãnh", tổ khúc cho Piano: "Nhịp điệu chiêng cồng", và “Sonate khúc suy tưởng” của nhà báo, nhạc sĩ Trần Nhật Dương, Trưởng ban Kiểm tra, Hội Nhạc sĩ Việt Nam, nguyên Trưởng ban Âm nhạc, VOV3, Đài Tiếng nói Việt Nam được tặng Giải thưởng Nhà nước về văn học nghệ thuật. Chương trình hôm nay, trò chuyện cùng Nhà báo, nhạc sĩ Trần Nhật Dương về các tác phẩm đoạt giải nhà nước về Văn học nghệ thuật của ông…]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2023/05/31/vovlive_am_nhac_voi_cuoc_song_tran_nhat_duong_giai_thuong_hcm.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 28 May 2023 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>“Thăm Mẹ” - Món quà ý nghĩa của ca sĩ Hoàng Nga gửi tặng những bà mẹ Việt Nam nhân ngày của Mẹ (14/05/2023)</title>
       <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
@@ -49,15 +57,6 @@
       <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2023/04/25/vovlive_am_nhac_voi_cuoc_song_ve_mien_nang_gio.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 23 Apr 2023 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>“Hà Nội thơm”: Những cung bậc âm thanh đầy xúc cảm về Hà Nội</title>
-      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[- Hà Nội mang đến vô vàn cảm xúc cho sự sáng tạo của các nhạc sĩ. Hà Nội anh dũng, kiên cường, Hà Nội của truyền thuyết, với các mùa hoa, với vẻ đẹp của 4 mùa... Bắt gặp cái tứ từ bài thơ cùng tên “Hà Nội thơm” của tác giả Phạm Hồng Điệp, nhạc sĩ Đỗ Hoàng Linh đã viết thêm những cung bậc âm thanh đầy xúc cảm. Thưởng thức ca khúc “Hà Nội thơm” (Nhạc sĩ: Đỗ Hoàng Linh, Lời thơ: Phạm Hồng Điệp) và lắng nghe những chia sẻ của nhạc sĩ về ca khúc này…
-- Thưởng thức ca khúc “Nổi lửa lên em” (Sáng tác: Nhạc sĩ Huy Du, Lời thơ: Giang Nam) và lắng nghe câu chuyện xúc động ý nghĩa về nhân vật của ca khúc…]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2023/04/25/vovlive_am_nhac_voi_cuoc_song_ha_noi_thom.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 16 Apr 2023 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
