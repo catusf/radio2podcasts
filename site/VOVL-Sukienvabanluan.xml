@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 30 May 2023 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jun 2023 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 30 May 2023 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 06 Jun 2023 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Lào ngăn chặn nguy cơ "chảy máu lao động"</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Theo số liệu thống kê, tỷ lệ lạm phát quý 1 năm nay của Lào vẫn đang ở mức 40,5%, tiếp tục tăng cao so với năm trước. Lạm phát cao tác động tiêu cực tới đời sống và kinh tế, xã hội của Lào, trong đó có tác động tới lực lượng lao động của nước này. Mức lương không theo kịp mức tăng chi phí sinh hoạt cùng với tỷ lệ thất nghiệp cao khiến một lượng lớn lao động trẻ nước này phải ra nước ngoài tìm việc làm, trong đó có cả những lao động tay nghề cao. Trước thực trạng này, chính phủ Lào đang có những giải pháp gì để giữ chân lực lượng lao động, ngăn chặn nguy cơ “chảy máu lao động”?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2023/06/06/vovlive_sukienvabanluan_lao_ngan_chan_nguy_co_chay_mau_lao_dong.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 06 Jun 2023 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Tiết kiệm điện hiệu quả bằng những giải pháp cụ thể ở TP Hồ Chí Minh</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2023/05/26/vovlive_sukienvabanluan_keo_giam_ti_le_hut_thuoc_la_o_viet_nam_cach_nao.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 26 May 2023 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Liên minh châu Âu (EU) thông qua Luật cấm các sản phẩm có liên quan đến hoạt động phá rừng</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[27 quốc gia thành viên Liên minh châu Âu (EU) vừa chính thức thông qua luật mới nhằm góp phần giảm bớt tình trạng phá rừng trên toàn cầu. Theo đó, dự luật điều chỉnh hoạt động kinh doanh một loạt các mặt hàng như: dầu cọ, thịt gia súc, gỗ, cà phê, cacao, cao su, đậu nành..., các sản phẩm phái sinh như chocolate, giấy in. Đây được đánh giá là bước đột phá đầy tham vọng của EU trong cuộc chiến chống biến đổi khí hậu và suy giảm đa dạng sinh học khu vực và toàn cầu.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2023/05/25/vovlive_sukienvabanluan_eu-_thong_qua_luat_cam_cac_san_pham_co_lien_quan.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 25 May 2023 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
