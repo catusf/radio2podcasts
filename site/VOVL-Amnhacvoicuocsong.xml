@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 28 May 2023 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 04 Jun 2023 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 28 May 2023 19:00:00 +0700</pubDate>
+    <pubDate>Sun, 04 Jun 2023 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,15 @@
     </itunes:owner>
     <itunes:subtitle>Âm nhạc với cuộc sống</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Amnhacvoicuocsong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>“Người đi tìm hình của nước”: Nhạc sĩ trẻ Kiên Ninh kể về câu chuyện hành trình đi tìm đường cứu nước của Bác</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[- Nhân dịp kỷ niệm 112 năm Ngày Bác Hồ ra đi tìm đường cứu nước (5/6/1911-5/6/2023), thưởng thức ca khúc “Người đi tìm hình của nước” nhạc sĩ Kiên Ninh phổ từ bài thơ cùng tên của nhà thơ Chế Lan Viên (Trình bày: NSND Quốc Hưng, Nghệ sĩ Opera Đào Tố Loan) và cùng tìm hiểu về cảm xúc sáng tác của nhạc sĩ Kiên Ninh…
+- Tìm hiểu về ca khúc “Dấu chân phía trước” (Nhạc sĩ Phạm Minh Tuấn, Thơ Hồ Thi Ca) và thưởng thức ca khúc với sự trình bày của nghệ sĩ Thế Vỹ và hợp xướng…]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2023/06/07/vovlive_am_nhac_voi_cuoc_song_nguoi_di_tim_hinh_cua_nuoc.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 04 Jun 2023 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Trò chuyện cùng nhạc sĩ Trần Nhật Dương về các tác phẩm đoạt giải Nhà nước về Văn học nghệ thuật</title>
       <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
@@ -48,15 +57,6 @@
       <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2023/05/12/vovlive_am_nhac_voi_cuoc_song_chien_thang_dien_bien_qua_nhung_sang_tac_moi.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 07 May 2023 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>“Về miền nắng gió: Những cung bậc cảm xúc về cảnh sắc thiên nhiên tươi đẹp và nét văn hóa của vùng đất Ninh Thuận</title>
-      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[- Thưởng thức ca khúc “Về miền nắng gió” (Nhạc sĩ: Võ Xuân Hùng, Thơ: Hoàng Yến) và lắng nghe những chia sẻ của nhạc sĩ Võ Xuân Hùng về ca khúc này…
-- Thưởng thức một số bài hát dân ca được phối khí theo phong cách đương đại (Bèo dạt mây trôi, Ngồi tựa mạn thuyền, Mục hạ vô nhân)…]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2023/04/25/vovlive_am_nhac_voi_cuoc_song_ve_mien_nang_gio.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 23 Apr 2023 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
