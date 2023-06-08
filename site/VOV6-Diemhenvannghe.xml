@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 05 Jun 2023 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jun 2023 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 05 Jun 2023 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 08 Jun 2023 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,16 @@
     <itunes:subtitle>Điểm hẹn văn nghệ</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Diemhenvannghe.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Nhà văn Nguyễn Thị Việt Nga: "Đưa môn Văn vào tổ hợp xét tuyển ngành Y cần tính toán thật sự kỹ lưỡng và khoa học" 5/6/2023</title>
+      <title>"Điệu foxtrot Thượng Hải" – “Chìm sâu trong xa hoa, bấu chặt lấy cuộc sống”
+ 8/6/2023</title>
+      <link>http://vov6.vov.vn/diem-hen-van-nghe/dieu-foxtrot-thuong-hai-chim-sau-trong-xa-hoa-bau-chat-lay-cuoc-song-c158-37332.aspx</link>
+      <description><![CDATA[Mục Thời Anh là một trong những nhà văn Trung Quốc nổi bật trong thập niên 1930. Qua đời ở tuổi 28, nhà văn họ Mục có quãng đời sáng tác không dài. Tuy nhiên, ông vẫn để lại dấu ấn trên văn đàn khi trở thành cây viết tiên phong thuộc trường phái văn học Tân cảm giác Thượng Hải với hàng loạt các tác phẩm như “Giao lưu”. “Cực Nam Bắc”, “Nghĩa trang”, “Pho tượng nữ bạch kim”, “Tình yêu của thánh nữ còn trinh”… Gần đây, tác phẩm của ông đã được giới thiệu với độc giả Việt qua tập truyện “Điệu foxtrot Thượng Hải”. Sách do Công ty Cổ phần sách và truyền thông San Hô (San Hô Books) & NXB Thanh niên ấn hành, dịch giả Cẩm Ninh và Tố Hinh chuyển ngữ. (Văn nghệ 9/6/2023)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/dieu-foxtrot-thuong-hai-chim-sau-trong-xa-hoa-bau-chat-lay-cuoc-song-c158-37332.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/gts_dieu_foxtrot_thuong_hai_hc_86202314.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 08 Jun 2023 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Nhà văn Nguyễn Thị Việt Nga: "Đưa môn Văn vào tổ hợp xét tuyển ngành Y cần tính toán thật sự kỹ lưỡng và khoa học"  5/6/2023</title>
       <link>http://vov6.vov.vn/diem-hen-van-nghe/nha-van-nguyen-thi-viet-nga-dua-mon-van-vao-to-hop-xet-tuyen-nganh-y-can-tinh-t-c158-37320.aspx</link>
       <description><![CDATA[Vừa qua, việc một số trường đại học đưa môn Văn vào tổ hợp xét tuyển ngành Y nhận được nhiều sự quan tâm của dư luận. Có người đồng tình, nhưng cũng có người cho rằng không phù hợp. Trong cuộc trò chuyện với phóng viên chuyên mục Tiếng nói Văn nghệ sỹ, nhà văn Nguyễn Thị Việt Nga-Đại biểu Quốc hội khóa XV cho rằng, nếu các trường Y chọn môn Văn thì cũng có chủ đích vì học sinh học giỏi môn học này thì ít nhất cũng có khả năng diễn đạt và dễ thấu hiểu, chia sẻ, đồng cảm với người bệnh về mặt tâm lý. Tuy nhiên, phương án đưa môn Văn và rút môn Toán hoặc môn Hóa ra khỏi các môn tuyển sinh ngành Y thì cần tính toán thật sự kỹ lưỡng và khoa học; phải trải qua quá trình nghiên cứu, đánh giá của các nhà khoa học, nhất là các nhà khoa học ngành Y (Văn nghệ 06/06/2023)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/nha-van-nguyen-thi-viet-nga-dua-mon-van-vao-to-hop-xet-tuyen-nganh-y-can-tinh-t-c158-37320.aspx</guid>
@@ -38,14 +47,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/but-ky-xe-om-sai-gon-c158-37301.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/2023_5/but_ky_xe_om_sai_gon_295202315.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 29 May 2023 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>“Ô cửa rêu xanh": Mở ra một khoảng trời hi vọng  25/5/2023</title>
-      <link>http://vov6.vov.vn/diem-hen-van-nghe/o-cua-reu-xanh-mo-ra-mot-khoang-troi-hi-vong-c158-37295.aspx</link>
-      <description><![CDATA[Tác giả Lê Thị Ngọc Hà, bút danh Lê Hà, sinh năm 1983, tốt nghiệp trường Đại học Khoa học xã hội & Nhân văn thành phố Hồ Chí Minh. Chị là tác giả của nhiều truyện ngắn, tản văn, bút kí, phóng sự… xuất hiện trên các báo, tạp chí uy tín như báo Tuổi trẻ, tạp chí Sông Hương, tạp chí Văn nghệ thành phố Hồ Chí Minh… nhưng gần đây, tập truyện ngắn đầu tay “Ô cửa rêu xanh” của chị mới có dịp ra mắt độc giả. Sách do NXB Thuận Hóa ấn hành. Đây cũng là cuốn sách được thai nghén trong quá trình chị chiến đấu với căn bệnh ung thư. Về tập truyện này, mời quý vị và các bạn cùng nghe một vài cảm nhận của BTV chương trình qua bài “Ô cửa rêu xanh – Mở ra một khoảng trời hi vọng”.]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/o-cua-reu-xanh-mo-ra-mot-khoang-troi-hi-vong-c158-37295.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/gts_o_cua_reu_xanh_hc_255202316.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 25 May 2023 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
