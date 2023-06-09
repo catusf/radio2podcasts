@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 06 Jun 2023 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 09 Jun 2023 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 06 Jun 2023 19:00:00 +0700</pubDate>
+    <pubDate>Fri, 09 Jun 2023 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Thách thức của cuộc cách mạng đường sắt Ấn Độ sau thảm kịch tàu hỏa</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Một tuần đã trôi qua, sau vụ tai nạn tàu hỏa nghiêm trọng khiến gần 300 người thiệt mạng và hơn 1.000 người bị thương , Ấn Độ nhanh chóng khắc phục hậu quả và nối lại tuyến đường sắt do thảm kịch. Nguyên nhân vụ tai nạn được xác định là do yếu tố kỹ thuật đã làm thay đổi hệ thống tín hiệu phức tạp, được thiết kế để ngăn các đoàn tàu va chạm. Vụ việc này đã làm dấy lên những cuộc tranh luận gay gắt về việc thiếu các cơ chế an toàn trên những chuyến tàu hỏa chật chội ở quốc gia tỷ dân này cũng như phản ánh những thách thức mà Ấn Độ đang đối mặt trong cuộc cách mạng đường sắt.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2023/06/09/vovlive_sukienvabinhluan_thach_thuc_cua_cuoc-cach_mang_duong_sat_an_do.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 09 Jun 2023 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Lào ngăn chặn nguy cơ "chảy máu lao động"</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2023/05/29/vovlive_sukienvabanluan_lan_song_mat_viec_cua_an_do_lan_sang_an_do.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 29 May 2023 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Kéo giảm tỷ lệ người hút thuốc lá ở Việt Nam bằng cách nào?</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Thời gian qua, nước ta đã thực hiện nhiều biện pháp phòng chống tác hại của thuốc lá nhưng số người hút thuốc lá vẫn không giảm được là bao. Đáng lo ngại, hút thuốc lá điện tử còn đang được coi là trào lưu của một bộ phận giới trẻ và tỉ lệ người hút thuốc trẻ hóa ngày càng tăng. Vì sao luật phòng chống tác hại thuốc lá thực thi được 10 năm rồi nhưng tỷ lệ người hút thuốc vẫn không giảm như kỳ vọng? Cách nào kéo giảm số người hút trong bối cảnh ngày càng xuất hiện nhiều loại hình thuốc lá mới bủa vây người trẻ?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2023/05/26/vovlive_sukienvabanluan_keo_giam_ti_le_hut_thuoc_la_o_viet_nam_cach_nao.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 26 May 2023 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
