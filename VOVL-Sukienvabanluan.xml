@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 09 Jun 2023 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jun 2023 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 09 Jun 2023 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 14 Jun 2023 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Để tránh nguy cơ bị trục xuất ở "thiên đường du lịch" Bali, Indonesia</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Theo số liệu thống kê mới nhất, số lượng du khách quốc tế tới đảo Bali của Indonesia trong những tháng đầu năm 2023 đã gần đạt mức trước đại dịch Covid-19, khẳng định danh xưng “thiên đường du lịch” của hòn đảo này. Nhưng mới đây, chính quyền Bali đã ban hành những quy định mới mà du khách quốc tế rất cần lưu ý khi tới đây, đó là những quy định về ứng xử, nhất là liên quan đến tôn giáo, phong tục, văn hóa truyền thống của người Bali. Indonesia cũng khẳng định luôn “trải thảm đỏ” để chào đón du khách quốc tế, song cũng sẽ xử lý nghiêm khắc những người vi phạm luật pháp cũng như các quy định về ứng xử, kể cả trục xuất. Vì sao Indonesia lại có biện pháp “mạnh tay” như vậy, và liệu những quy định mới có ảnh hưởng đến số lượng du khách quốc tế lựa chọn tới đây?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2023/06/14/vovlive_sukienvabanluan_14.6.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 14 Jun 2023 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Thách thức của cuộc cách mạng đường sắt Ấn Độ sau thảm kịch tàu hỏa</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2023/05/30/vovlive_sukienvabanluan_tiet_kiem_dien_hieu_qua_bang_nhung_giai_phap_cu_the_o_-tphcm.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 30 May 2023 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Làn sóng mất việc trong lĩnh vực công nghệ lan sang Ấn Độ?</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Theo số liệu Liên đoàn nhân sự Ấn Độ vừa công bố, gần 60.000 nhân viên làm việc trong lĩnh vực công nghệ của nước này đã bị mất việc. Khi hàng loạt tập đoàn công nghệ lớn của Mỹ sa thải nhân viên số lượng lớn kể từ cuối năm ngoái, nhiều người cho rằng làn sóng mất việc trong lĩnh vực công nghệ đã lan sang Ấn Độ, trong bối cảnh năm 2023 vẫn tiếp tục là một năm khó khăn với lĩnh vực này. Tuy nhiên, cũng có ý kiến cho rằng thị trường Ấn Độ được các công ty đánh giá là an toàn, vì vậy khó có khả năng xảy ra làn sóng mất việc trong lĩnh vực công nghệ giống như ở Mỹ. Vậy đâu là thực tế đang diễn ra tại Ấn Độ?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2023/05/29/vovlive_sukienvabanluan_lan_song_mat_viec_cua_an_do_lan_sang_an_do.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 29 May 2023 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
