@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 04 Jun 2023 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 11 Jun 2023 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 04 Jun 2023 19:00:00 +0700</pubDate>
+    <pubDate>Sun, 11 Jun 2023 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Âm nhạc với cuộc sống</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Amnhacvoicuocsong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Trò chuyện với tác giả ca khúc “Nước Nga, mùa xuân và cuộc đời”</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[Kỷ niệm Quốc khánh Liên bang Nga (12/6/2023), thưởng thức ca khúc “Nước Nga, mùa xuân và cuộc đời” (tác giả: PGS,TS. Lê Thanh Bình), trò chuyện cùng tác giả ca khúc và tìm hiểu những cảm nhận tình cảm gắn bó giữa nhân dân hai nước Việt Nam và Liên Bang Nga…]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2023/06/15/vovlive_am_nhac_voi_cuoc_song_nuoc_nga_mua_xuan.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 11 Jun 2023 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>“Người đi tìm hình của nước”: Nhạc sĩ trẻ Kiên Ninh kể về câu chuyện hành trình đi tìm đường cứu nước của Bác</title>
       <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
@@ -48,15 +56,6 @@
       <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2023/05/16/vovlive_am_nhac_voi_cuoc_song_tham_me.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 14 May 2023 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Những góc nhìn về chiến thắng Điện Biên qua những sáng tác âm nhạc mới</title>
-      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[- Thưởng thức ca khúc “Hoan hô chiến sĩ Điện Biên Phủ” (Nhạc sĩ Huy Thục, Thơ Tố Hữu)
-- Chiến tranh đã qua đi, nhưng ký ức về bản hùng ca Điện Biên Phủ còn vang mãi, tiếp tục là dòng chảy không ngừng trong kho tàng Âm nhạc Cách mạng Việt Nam. Trong chương trình, thưởng thức những ca khúc “Điện Biên ngày gặp lại” (Nhạc sĩ Nguyễn Xuân Thủy), “Tuổi trẻ hướng về Điện Biên” (Nhạc sĩ Phạm Đăng Khương) và lắng nghe những chia sẻ của các nhạc sĩ khi viết ca khúc này…]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2023/05/12/vovlive_am_nhac_voi_cuoc_song_chien_thang_dien_bien_qua_nhung_sang_tac_moi.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 07 May 2023 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
