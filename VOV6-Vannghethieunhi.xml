@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 12 Jun 2023 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jun 2023 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 12 Jun 2023 19:00:00 +0700</pubDate>
+    <pubDate>Fri, 16 Jun 2023 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Văn nghệ thiếu nhi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Vannghethieunhi.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Đọc truyện "Julie con của bầy sói" - Buổi thứ mười lăm - Khó khăn lại đến  12/6/2023</title>
+      <title>Trang viết của "Dế Mèn" Đoàn Lữ Thụy Phương 16/6/2023</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/trang-viet-cua-de-men-doan-lu-thuy-phuong-c44-37351.aspx</link>
+      <description><![CDATA[Cây bút nhí Đoàn Lữ Thụy Phương vừa được nhận giải Cây bút triển vọng cuộc thi viết thư Quốc tế UPU lần thứ 52 và tặng thưởng của hội đồng giám khảo giải Dế mèn. Đây là kết quá rất đáng mừng bởi Thụy Phương rất đam mê viết lách, đã tập sáng tác truyện, thơ, viết thư từ năm lên 8 tuổi. Tình yêu văn chương, yêu vẻ đẹp của ngôn từ đã thôi thúc Thụy Phương viết mỗi ngày... (Văn nghệ thiếu nhi 12/06/2023)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/trang-viet-cua-de-men-doan-lu-thuy-phuong-c44-37351.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2023_6/v2_1206_10h4518h15_van_nghe_thieu_nhi_166202310.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 16 Jun 2023 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Đọc truyện "Julie con của bầy sói" - Buổi thứ mười lăm - Khó khăn lại đến   12/6/2023</title>
       <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-julie-con-cua-bay-soi-buoi-thu-muoi-lam-kho-khan-lai-den-c44-37340.aspx</link>
       <description><![CDATA[Julie đi tìm Thạch Đông và đau khổ vô cùng khi thấy nó đã chết. Amaroq đã cắn chết nó vì Thạch Đông đã ăn thịt dành cho sói con. Julie buồn lắm nhưng cô không thể làm gì khác, bởi chính cô cũng đang mất nhà, chỗ ngủ và không một mẩu thức ăn nào. Cô nghĩ cách khắc phục và chưa biết phải làm gì lúc này... (Văn nghệ thiếu nhi 11/06/2023)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-julie-con-cua-bay-soi-buoi-thu-muoi-lam-kho-khan-lai-den-c44-37340.aspx</guid>
@@ -37,14 +45,6 @@
       <description><![CDATA[Chuỗi ký ức vụt biến mất khi Julie bừng tỉnh sau một đêm dài nằm trên ụ tuyết. Cô nhận ra Amaroq đã không ở đây nữa, cô gọi mãi và chỉ nhận lại một sự im lặng bao phủ. Quay lại căn nhà tuyết, cô ngạc nhiên đến kinh hoàng khi ngôi nhà đã bị phá tan hoang, cái túi ngủ bị xé nát, thức ăn biến mất... (Văn nghệ thiếu nhi 10/06/2023)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-julie-con-cua-bay-soi-buoi-thu-muoi-bon-tro-ve-hien-tai-c44-37339.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2023_6/v2_1006_10h4518h15_van_nghe_thieu_nhi_126202312.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 12 Jun 2023 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đọc truyện "Julie con của bầy sói" - Buổi thứ mười ba - Kí ức không quên   12/6/2023</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-julie-con-cua-bay-soi-buoi-thu-muoi-ba-ki-uc-khong-quen-c44-37338.aspx</link>
-      <description><![CDATA[Trong ký ức sâu thẳm của Julie, cô vẫn nhớ như in khoảnh khắc gặp Daniel – người chồng bất đắc dĩ. Sự sắp đặt của người lớn và những toan tính của họ khiến Julie không thể hình dung được, cô chỉ lờ mờ đoán ra những trói buộc sắp diễn ra. Cô chia sẻ với Pearl và nhận được lời khuyên chân thành, rằng hãy cởi trói đời mình và hãy trốn đi... (Văn nghệ thiếu nhi 09/06/2023)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-julie-con-cua-bay-soi-buoi-thu-muoi-ba-ki-uc-khong-quen-c44-37338.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2023_6/v2_0906_10h4518h15_van_nghe_thieu_nhi_126202312.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 12 Jun 2023 19:00:00 +0700</pubDate>
     </item>
   </channel>
