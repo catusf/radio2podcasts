@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 14 Jun 2023 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jun 2023 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 14 Jun 2023 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 19 Jun 2023 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Lạm phát tại Lào "hạ nhiệt"</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Theo số liệu thống kê mới nhất, tỷ lệ lạm phát tại Lào trong tháng 5 vừa qua tiếp tục giảm nhẹ so với tháng 4 và dừng lại ở mức 38,86%. Như vậy, tỷ lệ lạm phát tại Lào đã có 3 tháng giảm liên tiếp, cho thấy những biện pháp tổng thể mà Lào thực hiện, nhất là chính sách kiểm soát tiền tệ đã bước đầu mang lại kết quả. Tuy nhiên, nếu so với mặt bằng chung các nước trong khu vực, tỷ lệ lạm phát tại Lào vẫn ở mức cao và vẫn tạo ra gánh nặng cho chi phí sinh hoạt của người dân, đòi hỏi Lào phải tiếp tục triển khai quyết liệt các biện pháp kiềm chế lạm phát.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2023/06/19/vovlive_sukienvabanluan_lam_phat_lao_ha_nhiet.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 19 Jun 2023 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Để tránh nguy cơ bị trục xuất ở "thiên đường du lịch" Bali, Indonesia</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2023/06/06/vovlive_sukienvabanluan_lao_ngan_chan_nguy_co_chay_mau_lao_dong.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 06 Jun 2023 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Tiết kiệm điện hiệu quả bằng những giải pháp cụ thể ở TP Hồ Chí Minh</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Hơn 2 tỉ đồng tiền điện được tiết kiệm mỗi ngày tại TP.HCM kể từ ngày 16/5/2023. Con số này được đại diện Tổng Công ty Điện lực Thành phố công bố tại một hội nghị mới đây. Đáng nói, đây là kết quả sau khi UBND TP.HCM có văn bản yêu cầu các sở ban ngành, UBND quận, huyện và TP Thủ Đức đẩy mạnh tiết kiệm điện. Những giải pháp cụ thể mà TP.HCM đang áp dụng là gì? Cần đẩy mạnh thực hành tiết kiệm ra sao trong thời gian tới khi dự báo khả năng cung ứng đủ điện còn nhiều thách thức?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2023/05/30/vovlive_sukienvabanluan_tiet_kiem_dien_hieu_qua_bang_nhung_giai_phap_cu_the_o_-tphcm.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 30 May 2023 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
