@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 15 Jun 2023 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jun 2023 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 15 Jun 2023 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 21 Jun 2023 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Tìm trong kho báu</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Timtrongkhobau.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Nghĩ về đổi mới thơ từ trường hợp Hàn Mặc Tử  15/6/2023</title>
+      <title>Yến Lan: Một đời thơ sâu lắng và ấm áp 21/6/2023</title>
+      <link>http://vov6.vov.vn/tim-trong-kho-bau/yen-lan-mot-doi-tho-sau-lang-va-am-ap-c54-37363.aspx</link>
+      <description><![CDATA[Trong những chương trình Tìm trong kho báu gần đây, chúng tôi đã lần lượt giới thiệu tới quý vị di sản văn chương của hai nhà thơ trong nhóm Trường thơ Loạn là Bích Khê và Hàn Mặc Tử. Trong chương trình Tìm trong kho báu lần này, chúng tôi tiếp tục giới thiệu tới quý vị di sản văn chương của một nhân vật nữa trong nhóm Trường thơ Loạn, đó là thi sĩ Yến Lan. Không chỉ là thành viên của nhóm Trường thơ Loạn, Yến Lan còn là một trong số bốn nhà thơ của nhóm thơ Bình Định mang tên Bàn Thành tứ hữu, gồm Hàn Mặc Tử, Quách Tấn, Yến Lan và Chế Lan Viên. Năm nay cũng vừa tròn 25 năm ngày Yến Lan rời xa cõi thế.]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/yen-lan-mot-doi-tho-sau-lang-va-am-ap-c54-37363.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/v2_2206_08h00_tim_trong_kho_bau_226202311.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 21 Jun 2023 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Nghĩ về đổi mới thơ từ trường hợp Hàn Mặc Tử   15/6/2023</title>
       <link>http://vov6.vov.vn/tim-trong-kho-bau/nghi-ve-doi-moi-tho-tu-truong-hop-han-mac-tu-c54-37348.aspx</link>
       <description><![CDATA[Trong hai kỳ Tìm trong kho báu vừa qua, chúng tôi đã giới thiệu tới quý vị thính giả di sản văn chương Hàn Mặc Tử qua nhiều bài viết cũng như nhận định của các nhà phê bình nghiên cứu trong khoảng hơn ba chục năm qua. Có thể nói, thơ Hàn Mặc Tử luôn tạo ra sức hút với mọi thế hệ độc giả, là vùng đất còn chứa nhiều bí ẩn, tiếp tục mời gọi các cây bút phê bình tiếp tục khảo cứu và tìm tòi. Chương trình hôm nay, chúng ta tiếp tục tìm hiểu di sản văn chương Hàn Mặc Tử]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/nghi-ve-doi-moi-tho-tu-truong-hop-han-mac-tu-c54-37348.aspx</guid>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/han-mac-tu-mot-hien-tuong-doc-dao-trong-tu-duy-tho-viet-nam-c54-37328.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/v2_0806_08h00_tim_trong_kho_bau_15620238.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 07 Jun 2023 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Hàn Mặc Tử: Một tư duy thơ độc đáo  2/6/2023</title>
-      <link>http://vov6.vov.vn/tim-trong-kho-bau/han-mac-tu-mot-tu-duy-tho-doc-dao-c54-37309.aspx</link>
-      <description><![CDATA[Nhà thơ Hàn Mặc Tử tên thật là Nguyễn Trọng Trí, sinh ngày 22 tháng 9 năm 1912 tại làng Lệ Mỹ, Đồng Hới, Quảng Bình, học ở Huế từ 1926 đến 1930 rồi sau đó, khi cha qua đời, ông theo mẹ vào sống ở Quy Nhơn, Bình Định. Gia đình ông theo đạo Công giáo. Hàn Mặc Tử làm thơ rất sớm khi mới 16 tuổi. Ông đã từng gặp gỡ Phan Bội Châu và chịu ảnh hưởng khá lớn từ nhà chí sĩ này. Năm 1935, gia đình bắt đầu phát hiện dấu hiệu bệnh phong trên cơ thể ông nhưng ông không quan tâm nhiều đến việc điều trị. Đến năm 1938-1939 thì bệnh chuyển nặng, Hàn Mặc Tử lên những cơn đau đớn dữ dội và buộc phải vào Trại phong Quy Hòa ngày 20 tháng 9 năm 1940. Ông qua đời tại đây vào ngày 11 tháng 11 năm 1940 vì chứng bệnh kiết lỵ khi mới vừa bước sang tuổi 28. Sinh thời, Hàn Mặc Tử mới in một tập thơ duy nhất là tập Gái quê (1936). Những tập thơ sau Gái quê của ông chỉ được lưu truyền trong bạn hữu và những người yêu văn chương, gồm có: Thơ điên (gồm 3 tập: Hương thơm, Mật đắng, Máu cuồng và hồn điên), Xuân như ý, Thượng Thanh Khí, Cẩm châu duyên, Duyên kỳ ngộ, Quần tiên hội, Chơi giữa mùa trăng. Sau chặng đường đầu làm thơ Đường luật với tập Lệ Thanh thi tập, Hàn Mặc Tử đã chuyển sang phong cách hiện đại và góp phần đưa thơ trữ tình Việt Nam lên đỉnh cao mới. Đặc biệt ở giai đoạn sau Gái quê, Hàn Mặc Tử trình bày một hồn thơ độc đáo, lạ lùng chưa từng có trước đó và cũng không giống với bất cứ thi sĩ nào đương thời.]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/han-mac-tu-mot-tu-duy-tho-doc-dao-c54-37309.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/bbt/v2_010506_18h30_tim_trong_kho_bau_26202315.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 02 Jun 2023 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
