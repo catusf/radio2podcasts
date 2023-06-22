@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 20 Jun 2023 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jun 2023 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 20 Jun 2023 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 22 Jun 2023 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Nước Pháp trước thách thức quá tải du lịch mùa cao điểm</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Bộ trưởng Du lịch Pháp vừa công bố kế hoạch nhằm điều chỉnh lượng du khách tại các địa điểm nổi tiếng nhất của nước này, để đối phó với tình trạng du lịch quá tải. Theo các chuyên gia, không chỉ Pháp và nhiều nước châu Âu khác cần quản lý tốt hơn lượng khách du lịch mùa cao điểm khi tình trạng lượng khách quá đông đang gây áp lực với môi trường, chất lượng cuộc sống của người dân địa phương cũng như làm ảnh hưởng đến trải nghiệm của du khách.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2023/06/22/vovlive_sukienvabanluan_du_lich_phap_21_6.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 22 Jun 2023 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>70 năm sứ mệnh của người phụ nữ đầu tiên bay vào vũ trụ</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2023/06/14/vovlive_sukienvabanluan_14.6.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 14 Jun 2023 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Thách thức của cuộc cách mạng đường sắt Ấn Độ sau thảm kịch tàu hỏa</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Một tuần đã trôi qua, sau vụ tai nạn tàu hỏa nghiêm trọng khiến gần 300 người thiệt mạng và hơn 1.000 người bị thương , Ấn Độ nhanh chóng khắc phục hậu quả và nối lại tuyến đường sắt do thảm kịch. Nguyên nhân vụ tai nạn được xác định là do yếu tố kỹ thuật đã làm thay đổi hệ thống tín hiệu phức tạp, được thiết kế để ngăn các đoàn tàu va chạm. Vụ việc này đã làm dấy lên những cuộc tranh luận gay gắt về việc thiếu các cơ chế an toàn trên những chuyến tàu hỏa chật chội ở quốc gia tỷ dân này cũng như phản ánh những thách thức mà Ấn Độ đang đối mặt trong cuộc cách mạng đường sắt.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2023/06/09/vovlive_sukienvabinhluan_thach_thuc_cua_cuoc-cach_mang_duong_sat_an_do.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 09 Jun 2023 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
