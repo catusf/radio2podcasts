@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 22 Jun 2023 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jun 2023 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 22 Jun 2023 19:00:00 +0700</pubDate>
+    <pubDate>Fri, 23 Jun 2023 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Nỗi lo dịch chồng dịch ở thành phố Hồ Chí Minh</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Tại thành phố Hồ Chí Minh trong khi dịch bệnh sốt xuất huyết chưa giảm thì bệnh tay chân miệng lại đang gia tăng mạnh ....Nỗi lo dịch chồng dịch hiện hữu khi đang vào mùa cao điểm của các loại dịch bệnh, trong khi thuốc điều trị, trang thiết bị vật tư y tế nhiều nơi đang thiếu. Thành phố Hồ Chí Minh ứng phó ra sao trước thực trạng này?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2023/06/23/vovlive_sukienvabanluan_noi_lo_chong_dich_o_thanh_pho_ho_chi_minh.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 23 Jun 2023 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Nước Pháp trước thách thức quá tải du lịch mùa cao điểm</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2023/06/19/vovlive_sukienvabanluan_lam_phat_lao_ha_nhiet.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 19 Jun 2023 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Để tránh nguy cơ bị trục xuất ở "thiên đường du lịch" Bali, Indonesia</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Theo số liệu thống kê mới nhất, số lượng du khách quốc tế tới đảo Bali của Indonesia trong những tháng đầu năm 2023 đã gần đạt mức trước đại dịch Covid-19, khẳng định danh xưng “thiên đường du lịch” của hòn đảo này. Nhưng mới đây, chính quyền Bali đã ban hành những quy định mới mà du khách quốc tế rất cần lưu ý khi tới đây, đó là những quy định về ứng xử, nhất là liên quan đến tôn giáo, phong tục, văn hóa truyền thống của người Bali. Indonesia cũng khẳng định luôn “trải thảm đỏ” để chào đón du khách quốc tế, song cũng sẽ xử lý nghiêm khắc những người vi phạm luật pháp cũng như các quy định về ứng xử, kể cả trục xuất. Vì sao Indonesia lại có biện pháp “mạnh tay” như vậy, và liệu những quy định mới có ảnh hưởng đến số lượng du khách quốc tế lựa chọn tới đây?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2023/06/14/vovlive_sukienvabanluan_14.6.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 14 Jun 2023 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
