@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 23 Jun 2023 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jun 2023 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 23 Jun 2023 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 26 Jun 2023 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Lý giải tình trạng lạm phát thấp của Trung Quốc?</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Khi gần như cả thế giới phải tìm cách ghìm giá cả đang tăng vọt, Trung Quốc lại đối mặt với tình hình ngược lại. Dữ liệu kinh tế tháng 5 vừa được Cục Thống kê Quốc gia Trung Quốc công bố mới đây cho thấy, giá xuất xưởng tại các nhà máy của nước này trong tháng 5 giảm so với cùng kỳ năm ngoái với tốc độ mạnh nhất trong 7 năm, trong khi chỉ số giá tiêu dùng (CPI) hầu như không thay đổi. Nguy cơ giảm phát là một thách thức mà nền kinh tế lớn thứ hai thế giới phải đối mặt.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2023/06/26/vovlive_sukienvabanluan_ly_giai_tinh_trang_lam_phat_thap_cua_trung-_quoc.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 26 Jun 2023 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Nỗi lo dịch chồng dịch ở thành phố Hồ Chí Minh</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2023/06/20/vovlive_sukienvabanluan_70-_nam_su_menh_cua_nguoi_phu_nu_dau_tien_bay_vao_vu_tru.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 20 Jun 2023 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Lạm phát tại Lào "hạ nhiệt"</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Theo số liệu thống kê mới nhất, tỷ lệ lạm phát tại Lào trong tháng 5 vừa qua tiếp tục giảm nhẹ so với tháng 4 và dừng lại ở mức 38,86%. Như vậy, tỷ lệ lạm phát tại Lào đã có 3 tháng giảm liên tiếp, cho thấy những biện pháp tổng thể mà Lào thực hiện, nhất là chính sách kiểm soát tiền tệ đã bước đầu mang lại kết quả. Tuy nhiên, nếu so với mặt bằng chung các nước trong khu vực, tỷ lệ lạm phát tại Lào vẫn ở mức cao và vẫn tạo ra gánh nặng cho chi phí sinh hoạt của người dân, đòi hỏi Lào phải tiếp tục triển khai quyết liệt các biện pháp kiềm chế lạm phát.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2023/06/19/vovlive_sukienvabanluan_lam_phat_lao_ha_nhiet.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 19 Jun 2023 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
