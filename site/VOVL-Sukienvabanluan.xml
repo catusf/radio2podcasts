@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 26 Jun 2023 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jun 2023 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 26 Jun 2023 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 28 Jun 2023 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Vì sao nhiều doanh nghiệp phương Tây khó rời Nga như dự tính?</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Khi cuộc xung đột Nga – Ukraine xảy ra cách đây hơn 01 năm, hàng loạt công ty phương Tây đứng trước áp lực phải rời khỏi Nga như một biện pháp cô lập kinh tế với Moscow. Các nhà máy, công ty năng lượng và nhà máy điện trị giá hàng tỷ USD nhanh chóng rút đi hoặc rao bán. Nhưng hơn một năm sau, mọi thứ trở nên rõ ràng  việc rời khỏi nước Nga không đơn giản như những thông báo đầu tiên, chỉ một phần nhỏ trong hàng trăm công ty phương Tây từng tuyên bố rời Nga thực sự làm được điều này. Vì sao như vậy và số phận các công ty ở lại như thế nào?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2023/06/28/vovlive_sukienvabanluan_vi_sao_nhung_doanh_nghiep_phuong_tay_kho_roi_khoi_nga_nhu_du_tinh.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 28 Jun 2023 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Lý giải tình trạng lạm phát thấp của Trung Quốc?</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2023/06/22/vovlive_sukienvabanluan_du_lich_phap_21_6.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 22 Jun 2023 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>70 năm sứ mệnh của người phụ nữ đầu tiên bay vào vũ trụ</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Ngược dòng thời gian tròn 70 năm trước, ngày 16/6/1963, nữ phi hành gia người Nga Valentina Tereshkova đã làm nên lịch sử với tư cách là phụ nữ đầu tiên bay vào không gian trên tàu vũ trụ Vostok-6 của Liên bang Xô Viết trước đây - Liên bang Nga ngày nay. Trong 7 thập kỷ qua, đã có thêm nhiều nữ phi hành gia tiếp bước trong hành trình khẳng định vai trò và tầm quan trọng của nữ giới trong lĩnh vực không gian vũ trụ; gửi đi thông điệp về bình đẳng giới và nữ quyền cho các thế hệ sau này.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2023/06/20/vovlive_sukienvabanluan_70-_nam_su_menh_cua_nguoi_phu_nu_dau_tien_bay_vao_vu_tru.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 20 Jun 2023 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
