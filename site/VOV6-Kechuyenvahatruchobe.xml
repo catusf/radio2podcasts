@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 16 Jun 2023 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jun 2023 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 16 Jun 2023 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 28 Jun 2023 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Kể chuyện và hát ru cho bé</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Kechuyenvahatruchobe.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Hoàng tử Ivan và con chim lửa (Phần 2) 16/6/2023</title>
+      <title>Mèo và chuột kết nghĩa  28/6/2023</title>
+      <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/meo-va-chuot-ket-nghia-c43-37378.aspx</link>
+      <description><![CDATA[Chúng mình đã được nghe nhiều câu chuyện hóm hỉnh về mèo và chuột rồi. Loài mèo được xem là khắc tinh của loài chuột đấy. Ấy vậy mà trong câu chuyện hôm nay, chuột lại chơi rất thân với mèo, xem mèo là người bạn tốt nên không có sự đề phòng. Còn mèo thì sao nhỉ? (Kể chuyện và hát ru 19/06/2023)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/meo-va-chuot-ket-nghia-c43-37378.aspx</guid>
+      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2023_6/v2_1906_21h45_ke_chuyen_va_hat_ru_cho_be_286202311.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 28 Jun 2023 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Hoàng tử Ivan và con chim lửa (Phần 2)  16/6/2023</title>
       <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/hoang-tu-ivan-va-con-chim-lua-phan-2-c43-37354.aspx</link>
       <description><![CDATA[Chim lửa đã đánh cắp táo của Sa hoàng. Sa Hoàng muốn bắt được bằng được con chim này. Hai hoàng tử đã lên đường nhưng đều không thấy trở về. Cuối cùng, hoàng tử út I-Van rời cung điện đi tìm con chim lửa. Trên đường đi, chàng đã cứu nguy cho một con sói và được nó giúp đỡ... (Kể chuyện và hát ru 08/06/2023)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/hoang-tu-ivan-va-con-chim-lua-phan-2-c43-37354.aspx</guid>
@@ -37,14 +45,6 @@
       <description><![CDATA[Ngày xửa ngày xưa, ở nước Nga xa xôi có vị Sa hoàng rất yêu thích khu vườn của mình. Ông thích nhất là cây táo với những quả táo bằng vàng. Thế nhưng, khu vườn của ông bỗng nhiên bị kẻ lạ đột nhập... (Kể chuyện và hát ru 07/06/2023)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/hoang-tu-ivan-va-con-chim-lua-phan-1-c43-37353.aspx</guid>
       <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2023_6/v2_070906_21h45_ke_chuyen_va_hat_ru_cho_be_166202311.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 16 Jun 2023 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Cô ong nhỏ dễ thương   16/6/2023</title>
-      <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/co-ong-nho-de-thuong-c43-37352.aspx</link>
-      <description><![CDATA[Trong họ hàng nhà ong mật có một cô ong nhỏ rất dễ thương. Vì một lần mải chơi mà cô bị lạc mất đường về nhà. Một cô ong bé xíu mà bị lạc đường thì thật nguy hiểm. Những điều gì đã xảy ra với cô ấy? Các bé cùng theo dõi nhé! (Kể chuyện và hát ru 05/06/2023)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/co-ong-nho-de-thuong-c43-37352.aspx</guid>
-      <enclosure url="http://quantri.vov6.vov.vn/vov6\attachments/2023_6/v2_050606_21h45_ke_chuyen_va_hat_ru_cho_be_166202310.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 16 Jun 2023 19:00:00 +0700</pubDate>
     </item>
   </channel>
