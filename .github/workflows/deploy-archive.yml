@@ -4,6 +4,8 @@
 name: Generates podcasts for Archive.org uploads
 
 on:
+  workflow_dispatch:
+  
   push:
     branches: [ master ]
    

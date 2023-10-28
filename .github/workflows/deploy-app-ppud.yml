@@ -4,6 +4,8 @@
 name: Generates PPUD podcasts
 
 on:
+  workflow_dispatch:
+  
   push:
     branches: [ master ]
     
