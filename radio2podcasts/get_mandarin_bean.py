@@ -22,7 +22,7 @@ def get_articles_from_html(soup, url, no_items, podcast_title, item_titles=None)
     pub_date = datetime(year, month, day, 12, 0).astimezone(vt_tz)
 
 #    del item_titles
-    JSON_META_FILE = r'C:/Users/it.fsoft/OneDrive - FPT Software/Personal/Playground/MandarinBean/Tem/all_meta.json'
+    JSON_META_FILE = r'./radio2podcasts/all_meta.json'
     
     items = []
     with open(JSON_META_FILE, 'r', encoding='utf-8') as f:
@@ -45,6 +45,12 @@ def get_articles_from_html(soup, url, no_items, podcast_title, item_titles=None)
         pub_date = pub_date - timedelta(days=1)
 
         media = items[i]['mp3']
+
+        if not media:
+            print(f'{i=}')
+
+            media = 'https://vnexpress.net'
+
         tags = '/'.join(items[i]['tags'])
         title = f"{items[i]['title_en']} - {items[i]['title_zh']} / [{tags}] "
 
@@ -55,7 +61,7 @@ def get_articles_from_html(soup, url, no_items, podcast_title, item_titles=None)
         for c, e, p in zip(items[i]['chinese'], items[i]['english'], items[i]['pinyin']):
            all += f'{c} ({p} {e}) ' 
 
-        description = f'{text}\n\n{all}'
+        description = f'{text}\n{all}'
 
         mime_type = 'audio/mpeg'
 
