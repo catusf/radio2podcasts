@@ -29,10 +29,11 @@ def text_wrap(text, font, canvas, max_width, max_height):
                 # keep checking that this doesn't make the textbox too wide,
                 # if so, cycle through previous words until the ellipses can
                 # fit
-                while canvas.multiline_textsize('\n'.join(
-                        [' '.join(line) for line in lines]), font=font)[0] > max_width:
-                    lines[-1].pop()
-                    lines[-1][-1] += '...'
+                # TODO: Fix this
+                # while canvas.multiline_textsize('\n'.join(
+                #         [' '.join(line) for line in lines]), font=font)[0] > max_width:
+                #     lines[-1].pop()
+                #     lines[-1][-1] += '...'
                 break
     return '\n'.join([' '.join(line) for line in lines])
 
