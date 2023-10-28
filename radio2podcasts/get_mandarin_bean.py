@@ -59,7 +59,7 @@ def get_articles_from_html(soup, url, no_items, podcast_title, item_titles=None)
         all = ''
 
         for c, e, p in zip(items[i]['chinese'], items[i]['english'], items[i]['pinyin']):
-           all += f'{c} ({p} {e}) ' 
+           all += f'{c} ({p} - {e}) ' 
 
         description = f'{text}\n{all}'
 
