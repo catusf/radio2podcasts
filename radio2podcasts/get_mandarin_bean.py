@@ -49,7 +49,7 @@ def get_articles_from_html(soup, url, no_items, podcast_title, item_titles=None)
         if not media:
             print(f'{i=}')
 
-            media = 'https://vnexpress.net'
+            media = url
 
         tags = '/'.join(items[i]['tags'])
         title = f"{items[i]['title_en']} - {items[i]['title_zh']} / [{tags}] "
@@ -67,7 +67,7 @@ def get_articles_from_html(soup, url, no_items, podcast_title, item_titles=None)
 
         articles.append(
             feed_article(
-                link=url,
+                link=url+i[3:],
                 title=title,
                 description=description,
                 pub_date=pub_date,
