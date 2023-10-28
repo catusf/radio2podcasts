@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 11 Jun 2023 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 22 Oct 2023 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 11 Jun 2023 19:00:00 +0700</pubDate>
+    <pubDate>Sun, 22 Oct 2023 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,38 +24,39 @@
     <itunes:subtitle>Âm nhạc với cuộc sống</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Amnhacvoicuocsong.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Trò chuyện với tác giả ca khúc “Nước Nga, mùa xuân và cuộc đời”</title>
+      <title>Giáo sư, Nhạc sĩ Chu Minh: Người thầy của những người thầy</title>
       <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[Kỷ niệm Quốc khánh Liên bang Nga (12/6/2023), thưởng thức ca khúc “Nước Nga, mùa xuân và cuộc đời” (tác giả: PGS,TS. Lê Thanh Bình), trò chuyện cùng tác giả ca khúc và tìm hiểu những cảm nhận tình cảm gắn bó giữa nhân dân hai nước Việt Nam và Liên Bang Nga…]]></description>
+      <description><![CDATA[Ngày 17/10 vừa qua, Giáo sư, Nhạc sĩ Chu Minh (tên thật là Triệu Đạt Hiền) - tác giả của ca khúc "Người là niềm tin tất thắng" đã trút hơi thở cuối cùng để về với thế giới người hiền, hưởng thọ 92 tuổi. Sinh thời, ông có nhiều đóng góp cho âm nhạc Việt Nam và là thầy của nhiều nghệ sĩ nổi tiếng. Trong chương trình hôm nay xin dành để tưởng nhớ về ông…]]></description>
       <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2023/06/15/vovlive_am_nhac_voi_cuoc_song_nuoc_nga_mua_xuan.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 11 Jun 2023 19:00:00 +0700</pubDate>
+      <enclosure url="https://cdn.vovlive.vn/audios/2023/10/24/vovlive_am_nhac_voi_cuoc_song_chu_minh.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 22 Oct 2023 19:00:00 +0700</pubDate>
     </item>
     <item>
-      <title>“Người đi tìm hình của nước”: Nhạc sĩ trẻ Kiên Ninh kể về câu chuyện hành trình đi tìm đường cứu nước của Bác</title>
+      <title>Những ca khúc ngợi ca hình ảnh người phụ nữ Việt Nam</title>
       <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[- Nhân dịp kỷ niệm 112 năm Ngày Bác Hồ ra đi tìm đường cứu nước (5/6/1911-5/6/2023), thưởng thức ca khúc “Người đi tìm hình của nước” nhạc sĩ Kiên Ninh phổ từ bài thơ cùng tên của nhà thơ Chế Lan Viên (Trình bày: NSND Quốc Hưng, Nghệ sĩ Opera Đào Tố Loan) và cùng tìm hiểu về cảm xúc sáng tác của nhạc sĩ Kiên Ninh…
-- Tìm hiểu về ca khúc “Dấu chân phía trước” (Nhạc sĩ Phạm Minh Tuấn, Thơ Hồ Thi Ca) và thưởng thức ca khúc với sự trình bày của nghệ sĩ Thế Vỹ và hợp xướng…]]></description>
+      <description><![CDATA[- Kỷ niệm ngày Phụ nữ Việt Nam cùng thưởng thức các ca khúc ngợi ca hình ảnh người phụ nữ Việt Nam trong thời kỳ kháng chiến cứu nước: Chị em bón bèo (Nhạc sĩ Tô Vũ), Bài ca người phụ nữ Việt Nam (Nhạc sĩ Nguyễn Văn Tý), Mẹ yêu con ( Nhạc sĩ Nguyễn Văn Tý).
+- Thưởng thức ca khúc “Đất nước lời ru” (Sáng tác: Nhạc sĩ Văn Thành Nho, Trình bày: Ca sĩ Trần Hồng Nhung) và lắng nghe  những chia sẻ của ca sĩ Trần Hồng Nhung về ý tưởng thực hiện album “Huyền thoại lời ru” -  album gồm mười ca khúc ca ngợi hình ảnh người mẹ Việt Nam….]]></description>
       <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2023/06/07/vovlive_am_nhac_voi_cuoc_song_nguoi_di_tim_hinh_cua_nuoc.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 04 Jun 2023 19:00:00 +0700</pubDate>
+      <enclosure url="https://cdn.vovlive.vn/audios/2023/10/17/vovlive_am_nhac_voi_cuoc_song_ca_khuc_ngoi_ca_nguoi_phu_nu_viet_nam.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 15 Oct 2023 19:00:00 +0700</pubDate>
     </item>
     <item>
-      <title>Trò chuyện cùng nhạc sĩ Trần Nhật Dương về các tác phẩm đoạt giải Nhà nước về Văn học nghệ thuật</title>
+      <title>Chào buổi sáng Hà Nội: Những cung bậc cảm xúc về một Thủ đô yên bình, hạnh phúc hôm nay</title>
       <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[Sáng 19/5, tại Nhà hát Lớn Hà Nội, Bộ Văn hóa, Thể thao và Du lịch đã tổ chức trao tặng Giải thưởng Hồ Chí Minh, Giải thưởng Nhà nước về văn học, nghệ thuật năm 2022. Với cụm tác phẩm, ca khúc “Người đàn bà ngược nắng”, "Bản hùng ca một thời kiêu hãnh", tổ khúc cho Piano: "Nhịp điệu chiêng cồng", và “Sonate khúc suy tưởng” của nhà báo, nhạc sĩ Trần Nhật Dương, Trưởng ban Kiểm tra, Hội Nhạc sĩ Việt Nam, nguyên Trưởng ban Âm nhạc, VOV3, Đài Tiếng nói Việt Nam được tặng Giải thưởng Nhà nước về văn học nghệ thuật. Chương trình hôm nay, trò chuyện cùng Nhà báo, nhạc sĩ Trần Nhật Dương về các tác phẩm đoạt giải nhà nước về Văn học nghệ thuật của ông…]]></description>
+      <description><![CDATA[- Kỷ niệm 69 năm ngày giải phóng Thủ đô (10/10/1954-10/10/2023), ngược dòng thời gian trở về với mùa thu giải phóng Thủ đô Hà Nội qua ca khúc Tiến về Hà Nội (Nhạc sĩ Văn Cao) và lắng nghe những chia sẻ của Nhà thơ, Họa sĩ Văn Thao - Con trai trưởng của nhạc sĩ Văn Cao về ca khúc này….
+- Thưởng thức ca khúc Chào buổi sáng Hà Nội (Sáng tác: Nhà báo, Nhạc sĩ Nguyễn Quang Vinh) và lắng nghe những chia sẻ của Nhà báo, Nhạc sĩ Nguyễn Quang Vinh về hoàn cảnh ra đời của ca khúc này…]]></description>
       <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2023/05/31/vovlive_am_nhac_voi_cuoc_song_tran_nhat_duong_giai_thuong_hcm.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 28 May 2023 19:00:00 +0700</pubDate>
+      <enclosure url="https://cdn.vovlive.vn/audios/2023/10/12/vovlive_am_nhac_voi_cuoc_song_chao_buoi_sang_ha_noi.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 08 Oct 2023 19:00:00 +0700</pubDate>
     </item>
     <item>
-      <title>“Thăm Mẹ” - Món quà ý nghĩa của ca sĩ Hoàng Nga gửi tặng những bà mẹ Việt Nam nhân ngày của Mẹ (14/05/2023)</title>
+      <title>“Nơi đó có chúng ta thuộc về nhau”: Tuyên ngôn của cộng đồng Phượt lan tỏa tình yêu với du lịch, mang những giá trị chân thực, hữu ích đến cho cuộc đời.</title>
       <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[- Kỷ niệm 133 năm ngày sinh Chủ tịch Hồ Chí Minh (19/05/1890-19/05/2023), tìm hiểu về ca khúc “Những bông hoa trong vườn Bác” (Nhạc sĩ Văn Dung).
-- Ngày của mẹ là ngày lễ kỷ niệm tôn vinh những người mẹ được tổ chức tại nhiều nơi trên thế giới. Nhân dịp Ngày của Mẹ năm nay (13/05/2023), thưởng thức bài hát “Thăm mẹ” (nhạc sĩ Phạm Quang Hiển , lời thơ Trần Tựu) – món quà ý nghĩa ca sĩ Hoàng Nga dành tặng những bà mẹ Việt Nam và lắng nghe những cảm nhận về bài hát của nữ ca sĩ...]]></description>
+      <description><![CDATA[- Thưởng thức ca khúc “Nơi đó có chúng ta thuộc về nhau” - bài hát mới nhất của ban nhạc Bức Tường (Sáng tác: Ttrưởng nhóm - nhạc sĩ Trần Tuấn Hùng) và lắng nghe những chia sẻ của nhạc sĩ Trần Tuấn Hùng về ý tưởng ra đời sản phẩm âm nhạc này. 
+- Thưởng thức ca khúc “Miền Trung ơi” (Lời thơ: Nhà báo Nguyễn Thế Kỷ, Âm nhạc: Nhạc sĩ Hồ Trọng Tuấn)]]></description>
       <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2023/05/16/vovlive_am_nhac_voi_cuoc_song_tham_me.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 14 May 2023 19:00:00 +0700</pubDate>
+      <enclosure url="https://cdn.vovlive.vn/audios/2023/10/12/vovlive_am_nhac_voi_cuoc_song_noi_do_co_chung_ta_thuoc_ve_nhau.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 01 Oct 2023 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
