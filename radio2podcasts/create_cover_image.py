@@ -14,12 +14,12 @@ def text_wrap(text, font, canvas, max_width, max_height):
     for word in words:
         # try putting this word in last line then measure
         lines[-1].append(word)
-        (w, h) = canvas.multiline_textsize(
+        (l, t, w, h) = canvas.multiline_textbbox((0,0), 
             '\n'.join([' '.join(line) for line in lines]), font=font)
         if w > max_width:  # too wide
             # take it back out, put it on the next line, then measure again
             lines.append([lines[-1].pop()])
-            (w, h) = canvas.multiline_textsize(
+            (l, t, w, h) = canvas.multiline_textbbox((0, 0),
                 '\n'.join([' '.join(line) for line in lines]), font=font)
             if h > max_height:  # too high now, cannot fit this word in, so take out - add ellipses
                 lines.pop()

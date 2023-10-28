@@ -1,5 +1,20 @@
 {
   "websites": {
+    "MDRB": {
+      "home": "https://https://mandarinbean.com/",
+      "name": "Mandarin Bean",
+      "function": null,
+      "programs": [
+        {
+          "url": "https://mandarinbean.com/",
+          "title": "Mandarin Bean All",
+          "subtitle": "Chinese Conversation",
+          "cover": "",
+          "no": 1000
+        }
+      ]
+    },
+
     "VOVL": {
       "home": "https://vovlive.vn/",
       "name": "VOV Live",
