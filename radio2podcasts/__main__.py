@@ -18,6 +18,7 @@ from podcasts_utils import output_rss, rss_from_webpage, number_in_cirle, send_m
 
 from create_cover_image import create_image
 from remove_marks import remove_marks
+import get_mandarin_bean
 import get_voh_com_vn
 import get_vov1
 import get_vov2
@@ -42,6 +43,7 @@ PODCASTS_FOLDER = 'site/'
 
 # Maps site urls to their processing functions
 PROCESS_FUNCTIONS = {
+    'https://https://mandarinbean.com/': get_mandarin_bean.get_articles_from_html,
     'http://vov1.vov.vn/': get_vov1.get_articles_from_html,
     'http://vov2.vov.vn/': get_vov2.get_articles_from_html,
     'http://vov6.vov.vn/': get_vov6.get_articles_from_html,
@@ -54,7 +56,6 @@ PROCESS_FUNCTIONS = {
     'https://vovlive.vn/sach-noi/': get_vovlive_sachnoi.get_articles_from_html,
     'https://archive.org/': get_archive_org.get_articles_from_html,
 }
-
 
 def cleanup_url(url):
     """
