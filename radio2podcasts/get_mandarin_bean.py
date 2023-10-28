@@ -51,8 +51,8 @@ def get_articles_from_html(soup, url, no_items, podcast_title, item_titles=None)
 
             media = url
 
-        tags = '/'.join(items[i]['tags'])
-        title = f"{items[i]['title_en']} - {items[i]['title_zh']} / [{tags}] "
+        tags = ' - '.join(items[i]['tags'])
+        title = f"{items[i]['title_en']} - {items[i]['title_zh']} # [{tags}] "
 
         text = ''.join(items[i]['text'])
 
