@@ -6,11 +6,10 @@ import json
 ALL_TAGS = {}
 
 def read_html_files():
-    html_files = '../Article*.html'
-    files = glob.glob(html_files)
+    HTML_FILES_PATTERN = '../Article*.html'
+    files = glob.glob(HTML_FILES_PATTERN)
 
     contents = {}
-    tooltip_pattern = r'(.+?):<br />\s(.+?)(.*)'
     for file in files:
 
         # if file != 'Article-Ballet.html':
@@ -20,96 +19,96 @@ def read_html_files():
             print(f'Processing {file}')
             text = f.read().strip()
 
-            if not text:
-                print('Empty file.')
-                continue
+        if not text:
+            print('Empty file.')
+            continue
 
-            soup = BeautifulSoup(text, 'html.parser')
+        soup = BeautifulSoup(text, 'html.parser')
 
-            tags = []
+        tags = []
 
-            cat_pattern = r'<a href="https:\/\/mandarinbean.com\/category(.+?)" class="elementor-post-info__terms-list-item">(.+?)<\/a>'
+        cat_pattern = r'<a href="https:\/\/mandarinbean.com\/category(.+?)" class="elementor-post-info__terms-list-item">(.+?)<\/a>'
 
-            matches = re.findall(cat_pattern, text)
+        matches = re.findall(cat_pattern, text)
 
-            for url, tag in matches:
-                tags.append(tag)
+        for url, tag in matches:
+            tags.append(tag)
 
-            cat_pattern = r'<a href="https:\/\/mandarinbean.com\/tag(.+?)" class="elementor-post-info__terms-list-item">(.+?)<\/a>'
+        cat_pattern = r'<a href="https:\/\/mandarinbean.com\/tag(.+?)" class="elementor-post-info__terms-list-item">(.+?)<\/a>'
 
-            matches = re.findall(cat_pattern, text)
+        matches = re.findall(cat_pattern, text)
 
-            for url, tag in matches:
-                tags.append(tag)
+        for url, tag in matches:
+            tags.append(tag)
 
-            for tag in tags:
-                if tag in ALL_TAGS:
-                    ALL_TAGS[tag] += 1
-                else:
-                    ALL_TAGS[tag] = 1
-
-            mp3_pattern = r'(traffic.libsyn.com.+?\.mp3)'
-
-            matches = re.findall(mp3_pattern, text)
-
-            if matches:
-                mp3_url = 'https://' + matches[0].replace('\\', '')
+        for tag in tags:
+            if tag in ALL_TAGS:
+                ALL_TAGS[tag] += 1
             else:
-                mp3_url = ''
+                ALL_TAGS[tag] = 1
 
-            title_en_pattern = r'<title>(.+?) - Mandarin Bean</title>'
+        mp3_pattern = r'(traffic.libsyn.com.+?\.mp3)'
 
-            matches = re.search(title_en_pattern, text, re.MULTILINE)
+        matches = re.findall(mp3_pattern, text)
 
-            title_en = matches.group(1)
+        if matches:
+            mp3_url = 'https://' + matches[0].replace('\\', '')
+        else:
+            mp3_url = ''
 
-            title_zh_pattern = r'<h2 class="elementor-heading-title elementor-size-default"><span class="si">(.+?)</span>'
+        title_en_pattern = r'<title>(.+?) - Mandarin Bean</title>'
 
-            matches = re.search(title_zh_pattern, text)
+        matches = re.search(title_en_pattern, text, re.MULTILINE)
 
-            title_zh = matches.group(1)
+        title_en = matches.group(1)
 
-            html = soup.find(class_='elementor-widget-theme-post-content')
+        title_zh_pattern = r'<h2 class="elementor-heading-title elementor-size-default"><span class="si">(.+?)</span>'
 
-            paragraphs = html.find_all('p')
+        matches = re.search(title_zh_pattern, text)
 
-            chinese_text = ''
+        title_zh = matches.group(1)
 
-            for p in paragraphs:
-                chinese_text += p.text + '\n'
+        html = soup.find(class_='elementor-widget-theme-post-content')
 
-            abbr = html.find_all('abbr')
+        paragraphs = html.find_all('p')
 
-            chinese = []
-            english = []
-            pinyin = []
-            levels = []
+        chinese_text = ''
 
-            for a in abbr:
-                
-                tooltip = a.get('title')
+        for p in paragraphs:
+            chinese_text += p.text + '\n'
 
-                m = re.search(r'<br />(.*)', tooltip)
+        abbr = html.find_all('abbr')
 
-                chinese.append(a.span.text)
-                pinyin.append(a.rt.text.replace(u'\xa0', ''))
-                eng_text = m.group(1).strip()
-                parenthesis = eng_text.find('(')
+        chinese = []
+        english = []
+        pinyin = []
+        levels = []
 
-                if parenthesis < 0: # No level
-                    english.append(eng_text)
-                else:
-                    english.append(eng_text[:parenthesis-1])
-                    levels.append(eng_text[parenthesis+1:-1])
-
-                pass
+        for a in abbr:
             
-            # print(chinese)
-            # print(english)
-            # print(levels)
-            # print(pinyin)
+            tooltip = a.get('title')
 
-            contents[file] = {'tags': tags, 'mp3': mp3_url, 'title_en': title_en, 'title_zh': title_zh, 'chinese': chinese, 'english': english, 'pinyin': pinyin, 'levels': levels, 'text': chinese_text}
+            m = re.search(r'<br />(.*)', tooltip)
+
+            chinese.append(a.span.text)
+            pinyin.append(a.rt.text.replace(u'\xa0', ''))
+            eng_text = m.group(1).strip()
+            parenthesis = eng_text.find('(')
+
+            if parenthesis < 0: # No level
+                english.append(eng_text)
+            else:
+                english.append(eng_text[:parenthesis-1])
+                levels.append(eng_text[parenthesis+1:-1])
+
+            pass
+        
+        # print(chinese)
+        # print(english)
+        # print(levels)
+        # print(pinyin)
+
+        contents[file] = {'tags': tags, 'mp3': mp3_url, 'title_en': title_en, 'title_zh': title_zh, 'chinese': chinese, 'english': english, 'pinyin': pinyin, 'levels': levels, 'text': chinese_text}
 
     print(f'Processed {len(files)}')
     print(ALL_TAGS)

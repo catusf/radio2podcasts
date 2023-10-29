@@ -1,4 +1,8 @@
 # Todo List
+- [] Add Links to Mandarin Bean episodes
+- [] Add tags (HSK/Category) to front of title
+- [] Sort by appearance on website
+- [] Add more podcasts by level (group by category) and category (sort by level)
 - [ ] Fix  TODO: Fix this: while canvas.multiline_textsize('\n'.join(
 - [ ] Add Copy button to html
 - [ ] Fix issue with time/ordering of podcasts

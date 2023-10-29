@@ -7,14 +7,104 @@
       "programs": [
         {
           "url": "https://mandarinbean.com/",
+          "title": "Mandarin Bean Biz&Economics",
+          "subtitle": "Chinese Conversation",
+          "cover": "",
+          "no": 1000
+        },
+        {
+          "url": "https://mandarinbean.com/",
           "title": "Mandarin Bean All",
+          "subtitle": "Chinese Conversation",
+          "cover": "",
+          "no": 1000
+        },
+        {
+          "url": "https://mandarinbean.com/",
+          "title": "Mandarin Bean HSK1",
+          "subtitle": "Chinese Conversation",
+          "cover": "",
+          "no": 1000
+        },
+        {
+          "url": "https://mandarinbean.com/",
+          "title": "Mandarin Bean HSK2",
+          "subtitle": "Chinese Conversation",
+          "cover": "",
+          "no": 1000
+        },
+        {
+          "url": "https://mandarinbean.com/",
+          "title": "Mandarin Bean HSK3",
+          "subtitle": "Chinese Conversation",
+          "cover": "",
+          "no": 1000
+        },
+        {
+          "url": "https://mandarinbean.com/",
+          "title": "Mandarin Bean HSK4",
+          "subtitle": "Chinese Conversation",
+          "cover": "",
+          "no": 1000
+        },
+        {
+          "url": "https://mandarinbean.com/",
+          "title": "Mandarin Bean HSK5",
+          "subtitle": "Chinese Conversation",
+          "cover": "",
+          "no": 1000
+        },
+        {
+          "url": "https://mandarinbean.com/",
+          "title": "Mandarin Bean HSK6",
+          "subtitle": "Chinese Conversation",
+          "cover": "",
+          "no": 1000
+        },
+        {
+          "url": "https://mandarinbean.com/",
+          "title": "Mandarin Bean HSK6",
+          "subtitle": "Chinese Conversation",
+          "cover": "",
+          "no": 1000
+        },
+        {
+          "url": "https://mandarinbean.com/",
+          "title": "Mandarin Bean Fun",
+          "subtitle": "Chinese Conversation",
+          "cover": "",
+          "no": 1000
+        },
+        {
+          "url": "https://mandarinbean.com/",
+          "title": "Mandarin Bean Story",
+          "subtitle": "Chinese Conversation",
+          "cover": "",
+          "no": 1000
+        },
+        {
+          "url": "https://mandarinbean.com/",
+          "title": "Mandarin Bean Lifestyle",
+          "subtitle": "Chinese Conversation",
+          "cover": "",
+          "no": 1000
+        },
+        {
+          "url": "https://mandarinbean.com/",
+          "title": "Mandarin Bean Biz&Economics",
+          "subtitle": "Chinese Conversation",
+          "cover": "",
+          "no": 1000
+        },
+        {
+          "url": "https://mandarinbean.com/",
+          "title": "Mandarin Bean Culture",
           "subtitle": "Chinese Conversation",
           "cover": "",
           "no": 1000
         }
       ]
     },
-
     "VOVL": {
       "home": "https://vovlive.vn/",
       "name": "VOV Live",
@@ -94,7 +184,8 @@
           "url": "https://radio.voh.com.vn/qua-tang-am-nhac-394.html",
           "title": "Quà tặng âm nhạc",
           "subtitle": "Quà tặng âm nhạc trên VOH",
-          "cover": "","no": 5
+          "cover": "",
+          "no": 5
         },
         {
           "url": "https://radio.voh.com.vn/sai-gon-buoi-sang-590.html",
