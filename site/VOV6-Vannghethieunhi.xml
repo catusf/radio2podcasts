@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 25 Oct 2023 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 29 Oct 2023 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 25 Oct 2023 19:00:00 +0700</pubDate>
+    <pubDate>Sun, 29 Oct 2023 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Văn nghệ thiếu nhi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Vannghethieunhi.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Mở khung cửa vào thơ  25/10/2023</title>
+      <title>Đọc truyện "Giấc mơ bên kia đại dương" - Buổi thứ bảy - Chú Ming  29/10/2023</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-giac-mo-ben-kia-dai-duong-buoi-thu-bay-chu-ming-c44-37625.aspx</link>
+      <description><![CDATA[Gia đình Mia ngạc nhiên khi thấy những vết bầm tím trên mặt chú Ming. Họ rất cảm thông khi biết chú Ming mắc món nợ lớn với bọn cho vay nặng lãi nhưng bản thân gia đình Mia kiếm sống cũng khó khăn nên không thể giúp được gì cho chú... (Văn nghệ thiếu nhi 20/10/2023)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-giac-mo-ben-kia-dai-duong-buoi-thu-bay-chu-ming-c44-37625.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/2023_10/v2_2010_10h4518h15_van_nghe_thieu_nhi_2910202316.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 29 Oct 2023 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Mở khung cửa vào thơ   25/10/2023</title>
       <link>http://vov6.vov.vn/van-nghe-thieu-nhi/mo-khung-cua-vao-tho-c44-37620.aspx</link>
       <description><![CDATA[Buổi giao lưu giữa nhà thơ Đỗ Anh Vũ với các bạn nhỏ trong câu lạc bộ  Khung cửa mở giúp các em hiểu thêm về cách cảm nhận thơ, những điều cơ bản khi viết một bài thơ thiếu nhi, hiểu hơn vẻ đẹp tiếng Việt trong thơ cũng như trong đời sống dân tộc. Tiếng Việt không chỉ là ngôn ngữ giao tiếp mà còn là lịch sử, là văn hóa, là tâm hồn con người Việt Nam... (Văn nghệ thiếu nhi 19/10/2023)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/mo-khung-cua-vao-tho-c44-37620.aspx</guid>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/cung-wolfoo-kham-pha-hon-dao-ky-bi-c44-37619.aspx</guid>
       <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/2023_10/v2_1810_10h4518h15_van_nghe_thieu_nhi_2510202312.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 25 Oct 2023 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Bật mí cách tiếp cận văn bản chính luận  17/10/2023</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/bat-mi-cach-tiep-can-van-ban-chinh-luan-c44-37614.aspx</link>
-      <description><![CDATA[Tiếp cận văn bản chính luận và phong cách chính luận một cách dễ hiểu, biết vận dụng hiệu quả là mục tiêu mà học sinh cần đạt. Tuy nhiên trong quá trình học tập, không phải bạn nào cũng hiểu bài và vận dụng tốt. Cùng gặp lại cô giáo Hồ Bạch Phượng (Trường THCS Thăng Long, quận Ba Đình, Hà Nội) để nghe cô chia sẻ về bài học này nhé! (Văn nghệ thiếu nhi 16/10/2023)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/bat-mi-cach-tiep-can-van-ban-chinh-luan-c44-37614.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/2023_10/v2_1610_10h4518h15_van_nghe_thieu_nhi_1710202318.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 17 Oct 2023 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
