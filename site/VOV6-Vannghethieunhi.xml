@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 31 Oct 2023 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 02 Nov 2023 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 31 Oct 2023 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 02 Nov 2023 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Văn nghệ thiếu nhi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Vannghethieunhi.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>"Cuốc xe tuổi trẻ” và sự đổi mới ở thể loại truyện đồ họa  31/10/2023</title>
+      <title>Trần Trương Như Quỳnh cô gái nhỏ đam mê hội họa  2/11/2023</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/tran-truong-nhu-quynh-co-gai-nho-dam-me-hoi-hoa-c44-37635.aspx</link>
+      <description><![CDATA[Trần Trương Như Quỳnh là học sinh trườngTHCS Chu Văn An, thị trấn Đăk Hà, tỉnh Kon Tum. Bạn ấy có một niềm say mê đặc biệt đối với hội họa. Những mảng màu tươi tắn, những khối hình khỏe khoăn mộc mạc luôn hấp dẫn bạn ấy. Tuy nhiên, không vì mải mê sắc màu mà sao nhãng việc học - đó là điều mà Quỳnh luôn tâm niệm. (Văn nghệ thiếu nhi 25/10/2023)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/tran-truong-nhu-quynh-co-gai-nho-dam-me-hoi-hoa-c44-37635.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/2023_11/v2_2510_10h4518h15_van_nghe_thieu_nhi_211202311.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 02 Nov 2023 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>"Cuốc xe tuổi trẻ” và sự đổi mới ở thể loại truyện đồ họa   31/10/2023</title>
       <link>http://vov6.vov.vn/van-nghe-thieu-nhi/cuoc-xe-tuoi-tre-va-su-doi-moi-o-the-loai-truyen-do-hoa-c44-37633.aspx</link>
       <description><![CDATA[Nhằm khuyến khích các tác giả mạnh dạn sáng tác thể loại truyện đồ họa, vừa qua Dự án truyện tranh do Viện Goethe và Viện Pháp tổ chức đã quy tụ nhiều nghệ sĩ trẻ trong nước tham gia. Thành quả của dự án chính là sự ra đời của tập truyện “Cuốc xe tuổi trẻ”, Nhà xuất bản Thế giới ấn hành. Tác phẩm đã nhanh chóng nhận được tình cảm yêu mến của nhiều độc giả trẻ... (Trang Văn học nghệ thuật tuổi mới lớn 31/10/2023)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/cuoc-xe-tuoi-tre-va-su-doi-moi-o-the-loai-truyen-do-hoa-c44-37633.aspx</guid>
@@ -37,14 +45,6 @@
       <description><![CDATA[Tiếp tục đồng hành cùng chúng ta tiếp cận những tác phẩm trong chương trình ngữ văn THPT, cô Hà Vinh Tâm (giáo viên trường THPT Cửa Lò, Nghệ An) sẽ trao đổi những kiến thức trong bài “Hiền tài là nguyên khí của quốc gia” - bài học thuộc thể loại văn nghị luận. Điều mà chúng mình cần lưu ý rút ra từ bài học là biết cách phân tích nghệ thuật thuyết phục, biết vận dụng vào cuộc sống, các bạn sẽ cảm nhận thể loại văn nghị luận rất gần gũi và thiết thực. (Văn nghệ thiếu nhi 30/10/2023)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/dac-sac-tac-pham-hien-tai-la-nguyen-khi-cua-quoc-gia-c44-37632.aspx</guid>
       <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/2023_10/v2_3010_10h4518h15_van_nghe_thieu_nhi_3110202316.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 31 Oct 2023 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Một hướng tiếp cận văn bản chính luận   31/10/2023</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/mot-huong-tiep-can-van-ban-chinh-luan-c44-37631.aspx</link>
-      <description><![CDATA[Một trong những văn bản khó đối với học sinh bậc THCS và THPT là văn bản chính luận. Tiếp cận văn bản chính luận và phong cách chính luận một cách dễ hiểu, biết vận dụng hiệu quả là mục tiêu mà chúng ta cần đạt. Tuy nhiên trong quá trình học tập, không phải bạn nào cũng hiểu bài và vận dụng tốt. Cùng gặp lại cô Hồ Bạch Phượng (giáo viên ngữ văn trường THCS Thăng Long, quận Ba Đình, Hà Nội) để nghe cô chia sẻ về bài học này nhé! (Văn nghệ thiếu nhi 16/10/2023)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/mot-huong-tiep-can-van-ban-chinh-luan-c44-37631.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/2023_10/v2_1610_10h4518h15_van_nghe_thieu_nhi_3110202315.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 31 Oct 2023 19:00:00 +0700</pubDate>
     </item>
   </channel>
