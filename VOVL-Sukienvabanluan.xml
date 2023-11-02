@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 01 Nov 2023 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 27 Oct 2023 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 01 Nov 2023 19:00:00 +0700</pubDate>
+    <pubDate>Fri, 27 Oct 2023 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,14 +23,6 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Sơn La tiết kiệm hàng trăm tỷ đồng từ Đề án sắp xếp, sáp nhập các bản, tiểu khu, tổ dân phố - Phát huy sức mạnh của hệ thống chính trị.</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Sau 3 năm thực hiện Đề án sắp xếp, sáp nhập các bản, tiểu khu, tổ dân phố, tỉnh Sơn La đã giảm từ hơn 3.300 bản xuống còn hơn 2.200 bản. Việc triển khai sắp xếp, sáp nhập là việc lớn, thâm chí là việc rất khó, gặp không ít khó khăn, vướng mắc trong quá trình triển khai, song chủ trương sắp xếp, sáp nhập bản đã nhận được sự đồng thuận của đại đa số người dân và cả hệ thống chính trị. Vậy đâu là những mấu chốt để Sơn La có được kết quả này? Và giải pháp để nâng cao hiệu quả việc sắp xếp, sáp nhập bản và việc liên quan sau sắp xếp, sáp nhập trong giai đoạn tới là gì?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2023/11/01/vovlive_sukienvabanluan_son_la_tiet_kiem_hang_tram_ty.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Nov 2023 19:00:00 +0700</pubDate>
-    </item>
     <item>
       <title>Cán bộ, công chức, viên chức làm việc tại nhà: Nên nhưng cần cân nhắc</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -54,6 +46,14 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2023/10/24/vovlive_sukienvabanluan_hanh_trinh_thuc_hien_hoa_tham_vong.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 24 Oct 2023 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Gia tăng ca bệnh đậu mùa khỉ</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Từ đầu năm đến nay, cả nước ghi nhận gần 20 ca bệnh đậu mùa khỉ tại các tỉnh thành phố: Đồng Nai, Bình Dương, Long An và Thành phố Hồ Chí Minh. Trong đó, thành phố Hồ Chí Minh có số ca mắc nhiều nhất với 13 ca. Con số này tăng mạnh so với năm ngoái và đáng chú ý là số ca nhiễm đều ở trong nước, không có lịch sử mắc bệnh từ nước ngoài. Diễn biến này liệu có bất thường? Ngành y tế và người dân cần làm gì để phòng tránh bệnh hiệu quả?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2023/10/23/vovlive_sukienvabanluan_benh_dau_mua_khi(1).mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 23 Oct 2023 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
