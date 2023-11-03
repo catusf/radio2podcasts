@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 22 Oct 2023 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 29 Oct 2023 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 22 Oct 2023 19:00:00 +0700</pubDate>
+    <pubDate>Sun, 29 Oct 2023 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,15 @@
     </itunes:owner>
     <itunes:subtitle>Âm nhạc với cuộc sống</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Amnhacvoicuocsong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Những ca khúc về vùng đất con người Quảng Ninh</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[- Kỷ niệm 60 năm thành lập tỉnh Quảng Ninh (30/10/1963-30/10/2023) thưởng thức ca khúc Tôi là người thợ mỏ (Sáng tác: Nhạc sĩ Hoàng Vân; Trình bày NSND Trần Khánh) và những chia sẻ của nhạc sĩ Hoàng Vân về ca khúc này.
+- Thưởng thức ca khúc mới sáng tác của Nhạc sĩ trẻ Đỗ Hoàng Linh “Hạ Long em như thế” và lắng nghe góc nhìn của một nhạc sĩ trẻ về đất Quảng Ninh.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2023/11/02/vovlive_am_nhac_voi_cuoc_song_quang_ninh.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 29 Oct 2023 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Giáo sư, Nhạc sĩ Chu Minh: Người thầy của những người thầy</title>
       <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
@@ -48,15 +57,6 @@
       <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2023/10/12/vovlive_am_nhac_voi_cuoc_song_chao_buoi_sang_ha_noi.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 08 Oct 2023 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>“Nơi đó có chúng ta thuộc về nhau”: Tuyên ngôn của cộng đồng Phượt lan tỏa tình yêu với du lịch, mang những giá trị chân thực, hữu ích đến cho cuộc đời.</title>
-      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[- Thưởng thức ca khúc “Nơi đó có chúng ta thuộc về nhau” - bài hát mới nhất của ban nhạc Bức Tường (Sáng tác: Ttrưởng nhóm - nhạc sĩ Trần Tuấn Hùng) và lắng nghe những chia sẻ của nhạc sĩ Trần Tuấn Hùng về ý tưởng ra đời sản phẩm âm nhạc này. 
-- Thưởng thức ca khúc “Miền Trung ơi” (Lời thơ: Nhà báo Nguyễn Thế Kỷ, Âm nhạc: Nhạc sĩ Hồ Trọng Tuấn)]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2023/10/12/vovlive_am_nhac_voi_cuoc_song_noi_do_co_chung_ta_thuoc_ve_nhau.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 01 Oct 2023 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
