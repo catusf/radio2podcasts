@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 13 Nov 2023 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 09 Nov 2023 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 13 Nov 2023 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 09 Nov 2023 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,14 +23,6 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Biến tre thành vật liệu bền vững: Kế hoạch dài hạn của Trung Quốc</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Từ xưa đến nay, các sản phẩm được làm từ cây tre đã quen thuộc với người dân, đặc biệt là tại các nước nhiệt đới. Trong tương lai, tre có thể hiện diện trong đời sống như một “vật liệu xanh”, thay thế cho đồ nhựa vốn đang gây nên những tác hại đáng kể với môi trường. Trung Quốc - đất nước có lượng tre đứng đầu thế giới – vừa tuyên bố khởi động một chương trình hành động “thay nhựa bằng tre” trong 3 năm, trong đó trọng tâm là xây dựng hệ thống công nghiệp “thay nhựa bằng tre”. Kế hoạch này được thực hiện ra sao và liệu có mở ra những cơ hội đổi mới công nghệ liên quan đến tài nguyên tre?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2023/11/13/vovlive_sukienvabanluan_bien_tre_thanh_vat_lieu_ben_vung_ke_hoach_dai_han_cua_trung_quoc.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 13 Nov 2023 19:00:00 +0700</pubDate>
-    </item>
     <item>
       <title>Tổ chức Giáo dục, khoa học và văn hóa Liên hợp quốc (UNESCO)</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -54,6 +46,14 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2023/10/27/vovlive_sukienvabinhluan_can_bo_cong_chuc_lam_viec-_tai_nha.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 27 Oct 2023 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Kim ngạch xuất khẩu rau quả lập kỷ lục mới</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[4 tỷ 200 triệu đô la Mỹ là giá trị xuất khẩu rau củ quả trong 9 tháng qua, tăng hơn 72% so với năm ngoái và phá rất sâu kỷ lục 3 tỷ 810 triệu đô la Mỹ của năm 2018. Nhiều dự báo cho rằng, xuất khẩu rau quả cả năm nay có thể mang về số ngoại tệ hơn 5 tỷ 500 triệu đô la Mỹ cho nước ta. Điều gì đã tạo ra sự bất tốc mạnh mẽ đáng kinh ngạc của ngành rau quả? Và liệu rằng ngành đã thực sự phát triển bền vững?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2023/10/25/vovlive_sukienvabanluan_kim_ngach_xuat_khau_rau_qua_lap_ky_luc_moi.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 25 Oct 2023 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
