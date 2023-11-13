@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 03 Nov 2023 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 08 Nov 2023 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 03 Nov 2023 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 08 Nov 2023 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Tìm trong kho báu</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Timtrongkhobau.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Vẻ đẹp nụ cười lời nói trong ca dao 3/11/2023</title>
+      <title>Những phạm trù vẻ đẹp hình thức trong ca dao 8/11/2023</title>
+      <link>http://vov6.vov.vn/tim-trong-kho-bau/nhung-pham-tru-ve-dep-hinh-thuc-trong-ca-dao-c54-37653.aspx</link>
+      <description><![CDATA[Trong thị hiếu thẩm mỹ dân gian, sự vận động, chuyển động có một vị trí rất đáng kể. Vẻ đẹp của thân thể không phải chỉ nằm ở sự cân đối hình thức thuần túy của các bộ phận của cơ thể như mắt, miệng mà còn phụ thuộc vào sự kết hợp, tính chất sống động.]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/nhung-pham-tru-ve-dep-hinh-thuc-trong-ca-dao-c54-37653.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/bbt/v2_091311_08h00_tim_trong_kho_bau_pl_18h30_911202311.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 08 Nov 2023 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Vẻ đẹp nụ cười lời nói trong ca dao  3/11/2023</title>
       <link>http://vov6.vov.vn/tim-trong-kho-bau/ve-dep-nu-cuoi-loi-noi-trong-ca-dao-c54-37637.aspx</link>
       <description><![CDATA[Sự hài hòa của ngũ quan làm nên vẻ đẹp gương mặt mỗi con người. Người xưa có những quy chuẩn riêng về vẻ đẹp người phụ nữ, trong đó đề cao nét tự nhiên, tươi tắn gắn với cảm tình về nết ăn ở.]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/ve-dep-nu-cuoi-loi-noi-trong-ca-dao-c54-37637.aspx</guid>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/nguoi-dep-va-thi-hieu-tham-my-dan-gian-qua-ca-dao-c54-37622.aspx</guid>
       <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/bbt/v2_263010_08h00_tim_trong_kho_bau_pl_18h30_261020238.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 25 Oct 2023 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Ca dao về hình tượng người phụ nữ bất hạnh trong cuộc sống gia đình  18/10/2023</title>
-      <link>http://vov6.vov.vn/tim-trong-kho-bau/ca-dao-ve-hinh-tuong-nguoi-phu-nu-bat-hanh-trong-cuoc-song-gia-dinh-c54-37616.aspx</link>
-      <description><![CDATA[Theo khảo sát trong kho tàng ca dao người Việt ta có hơn 4.500 bài ca than thân thì có tới 2/3 trong số đó phản ánh thân phận phụ nữ. Và người phụ nữ trong xã hội phong kiến khi đã có gia đình, tiếng nói than thân càng trở nên não nề.]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/ca-dao-ve-hinh-tuong-nguoi-phu-nu-bat-hanh-trong-cuoc-song-gia-dinh-c54-37616.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/bbt/v2_19_2310_08h00_tim_trong_kho_bau_pl_18h30_191020239.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 18 Oct 2023 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
