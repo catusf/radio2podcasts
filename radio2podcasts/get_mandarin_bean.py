@@ -92,31 +92,6 @@ def get_articles_from_html(soup, url, no_items, podcast_title, item_titles=None)
 
     # debug = False
     count = 0
-    # ALL_TAGS = {}
-    # for i in items:
-    #     count = count + 1
-    #     if count > no_items:
-    #         break
-
-    #     pub_date = pub_date - timedelta(days=1)
-
-    #     media = items[i]['mp3']
-
-    #     if not media:
-    #         print(f'{i=}')
-
-    #         media = url
-
-    #     tags = items[i]['tags']
-
-    #     for tag in tags:
-    #         if tag in ALL_TAGS:
-    #             ALL_TAGS[tag] += 1
-    #         else:
-    #             ALL_TAGS[tag] = 1
-    # print(ALL_TAGS.keys())
-
-    # items = soup.select('div.wrapper-item-large')
 
     hsk_list = []
     category_list = []
@@ -132,7 +107,7 @@ def get_articles_from_html(soup, url, no_items, podcast_title, item_titles=None)
         category = ''
         level = ''
 
-        pub_date = pub_date - timedelta(days=1)
+        # pub_date = pub_date - timedelta(days=1)
 
         media = items[i]['mp3']
 
@@ -203,10 +178,26 @@ def get_articles_from_html(soup, url, no_items, podcast_title, item_titles=None)
     # Sort by order of appearance on website
 
     if podcast_name in CATEGORY_BAG:
+        # Sorts by HSK level in the same category
         sorted_list = sorted(zip(hsk_list, articles), key=lambda t: t[0])
     else:
+        # Sorts by order of appearance on website for easy of looking up
         sorted_list = sorted(zip(order_list, articles), key=lambda t: t[0])
 
     articles = list(zip(*sorted_list))[1]  # Unzip the list
 
-    return articles
+    sorted_articles = []
+
+    # Adds dates in proper order
+    for a in articles:
+        sorted_articles.append(feed_article(
+            link=a.link,
+            title=a.title,
+            description=a.description,
+            pub_date=pub_date,
+            media=a.media,
+            type=a.type))
+
+        pub_date = pub_date - timedelta(days=1)
+
+    return sorted_articles
