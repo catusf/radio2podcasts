@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 20 Nov 2023 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 16 Nov 2023 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 20 Nov 2023 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 16 Nov 2023 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,14 +23,6 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Diện mạo “siêu cầu cạn” trong tương lai của Thái Lan, thay thế eo biển Malacca</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Ý tưởng về một cây cầu cạn vắt ngang bán đảo Mã Lai, cạnh tranh với Eo biển Malacca thu hút sự chú ý của dư luận. Trong chuyến thăm Mỹ để dự Hội nghị cấp cao APEC và trước đó là Diễn đàn cấp cao hợp tác quốc tế Vành đai và Con đường lần thứ 3 tại Trung Quốc, Thủ tướng Thái Lan Srettha Thavisin đã chia sẻ với các nhà đầu tư nhiều thông tin về dự án mang tên cầu cạn “Landbridge”. Theo đó, dự án sẽ giúp cắt giảm đáng kể thời gian đi lại giữa Ấn Độ Dương và Thái Bình Dương trung bình khoảng 4 ngày và giảm 15% chi phí vận chuyển...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2023/11/20/vovlive_sukienvabanluan_dien_mao_sieu_cau_an_trong_tuong_lai_cua_thai_lan.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 20 Nov 2023 19:00:00 +0700</pubDate>
-    </item>
     <item>
       <title>Châu Âu chuẩn bị năng lượng cho mùa đông</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -54,6 +46,14 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2023/11/13/vovlive_sukienvabanluan_bien_tre_thanh_vat_lieu_ben_vung_ke_hoach_dai_han_cua_trung_quoc.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 13 Nov 2023 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Tổ chức Giáo dục, khoa học và văn hóa Liên hợp quốc (UNESCO)</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Mới đây, Tổ chức Giáo dục, khoa học và văn hóa Liên hợp quốc ( gọi tắt là UNESCO) đã công bố danh sách 55 thành phố được công nhận tham gia vào mạng lưới thành phố sáng tạo. Trong đó, Đà Lạt là thành phố sáng tạo âm nhạc đầu tiên của Việt Nam, Đà Lạt được ghi nhận vì cam kết mạnh mẽ trong việc khai thác văn hóa và sáng tạo như một phần của chiến lược phát triển. Cần làm gì để phát huy danh hiệu này và đưa Đà Lạt trở thành điểm đến vể âm nhạc nổi bật trong nước và khu vực?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2023/11/09/vovlive_sukienvabanluan_to_chuc_giao-duc_khoa_hoc.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 09 Nov 2023 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
