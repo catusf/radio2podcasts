@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 16 Nov 2023 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 22 Nov 2023 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 16 Nov 2023 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 22 Nov 2023 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Tìm trong kho báu</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Timtrongkhobau.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Ca dao nói về vẻ đẹp con người qua phục trang 16/11/2023</title>
+      <title>Quan hệ giữa cái đẹp và cái nết trong ca dao 22/11/2023</title>
+      <link>http://vov6.vov.vn/tim-trong-kho-bau/quan-he-giua-cai-dep-va-cai-net-trong-ca-dao-c54-37680.aspx</link>
+      <description><![CDATA[Thật đáng trân quý là nét đẹp tâm hồn con người không vẩn đục dù bất cứ trong hoàn cảnh nào. Người xưa thường nhắc tới cái nết như một biểu tượng đáng trân trọng nhất của con người, thậm chí “Cái nết đánh chết cái đẹp”, nết người còn được đánh giá vượt lên cả cái đẹp bề ngoài. Và cũng thật hoàn hảo khi vẻ đẹp hình thể lại được hòa quyện cùng vẻ đẹp tâm hồn]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/quan-he-giua-cai-dep-va-cai-net-trong-ca-dao-c54-37680.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/bbt/v2_23_2711_08h00_18h30_tim_trong_kho_bau_231120239.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 22 Nov 2023 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Ca dao nói về vẻ đẹp con người qua phục trang  16/11/2023</title>
       <link>http://vov6.vov.vn/tim-trong-kho-bau/ca-dao-noi-ve-ve-dep-con-nguoi-qua-phuc-trang-c54-37672.aspx</link>
       <description><![CDATA[Nói đến vẻ đẹp của con người, ca dao nhắc đến một yếu tố không kém phần quan trọng – đó là trang phục. Vẻ đẹp hình thức của chàng trai hay cô gái rõ ràng không chỉ thể hiện ở khuôn mặt, vóc dáng mà còn phụ thuộc vào cách ăn mặc, vào chất liệu của vải vóc quần áo và những thứ phục trang khác.]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/ca-dao-noi-ve-ve-dep-con-nguoi-qua-phuc-trang-c54-37672.aspx</guid>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/nhung-pham-tru-ve-dep-hinh-thuc-trong-ca-dao-c54-37653.aspx</guid>
       <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/bbt/v2_091311_08h00_tim_trong_kho_bau_pl_18h30_911202311.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 08 Nov 2023 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Vẻ đẹp nụ cười lời nói trong ca dao  3/11/2023</title>
-      <link>http://vov6.vov.vn/tim-trong-kho-bau/ve-dep-nu-cuoi-loi-noi-trong-ca-dao-c54-37637.aspx</link>
-      <description><![CDATA[Sự hài hòa của ngũ quan làm nên vẻ đẹp gương mặt mỗi con người. Người xưa có những quy chuẩn riêng về vẻ đẹp người phụ nữ, trong đó đề cao nét tự nhiên, tươi tắn gắn với cảm tình về nết ăn ở.]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/ve-dep-nu-cuoi-loi-noi-trong-ca-dao-c54-37637.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/bbt/2023_11/v2_020611_08h00_tim_trong_kho_bau_pl_18h30_311202311.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 03 Nov 2023 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
