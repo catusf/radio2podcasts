@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 19 Nov 2023 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 29 Oct 2023 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 19 Nov 2023 19:00:00 +0700</pubDate>
+    <pubDate>Sun, 29 Oct 2023 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,24 +23,6 @@
     </itunes:owner>
     <itunes:subtitle>Âm nhạc với cuộc sống</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Amnhacvoicuocsong.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Những ca khúc đi cùng năm tháng ngợi ca hình ảnh người giáo viên nhân dân</title>
-      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[Tìm hiểu một số ca khúc hay về đề tài ngợi ca hình ảnh người giáo viên nhân dân những năm tháng kháng chiến chống Mỹ cứu nước và đi lên xây dựng cuộc sống mới tại miền Bắc: Cô giáo Tày cầm đàn lên đỉnh núi (Nhạc sĩ Văn Ký), Em đứng giữa giảng đường hôm nay (Nhạc sĩ Tân Huyền), Bài ca người giáo viên nhân dân (Nhạc sĩ Hoàng Vân),…]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2023/11/21/vovlive_am_nhac_voi_cuoc_song_ca_khuc_di_cung_nam_thang_ngoi_ca_nguoi_giao_vien_nhan_dan.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 19 Nov 2023 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>“Tri ân ngày Nhà giáo”: Món quà gửi tới những thầy cô giáo trên cả nước nhân dịp ngày Nhà giáo Việt Nam</title>
-      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[Hướng tới chào mừng ngày Nhà giáo Việt Nam 20/11/2023
-- Thưởng thức ca khúc Tri ân ngày Nhà giáo của Thầy giáo Phạm Thanh Hải ở Bắc Giang gửi tặng và lắng nghe những tâm sự, chia sẻ của thầy về ca khúc này.
-- Lắng nghe những tâm tư bằng âm nhạc của Nhà giáo, Tiến sĩ Lê Thống Nhất qua hai ca khúc: Yêu lắm lớp 1 ơi và Cô giáo của em.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2023/11/21/vovlive_am_nhac_voi_cuoc_song_tri_an_ngay_nha_giao.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 12 Nov 2023 19:00:00 +0700</pubDate>
-    </item>
     <item>
       <title>Những ca khúc về vùng đất con người Quảng Ninh</title>
       <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
@@ -57,6 +39,24 @@
       <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2023/10/24/vovlive_am_nhac_voi_cuoc_song_chu_minh.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 22 Oct 2023 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Những ca khúc ngợi ca hình ảnh người phụ nữ Việt Nam</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[- Kỷ niệm ngày Phụ nữ Việt Nam cùng thưởng thức các ca khúc ngợi ca hình ảnh người phụ nữ Việt Nam trong thời kỳ kháng chiến cứu nước: Chị em bón bèo (Nhạc sĩ Tô Vũ), Bài ca người phụ nữ Việt Nam (Nhạc sĩ Nguyễn Văn Tý), Mẹ yêu con ( Nhạc sĩ Nguyễn Văn Tý).
+- Thưởng thức ca khúc “Đất nước lời ru” (Sáng tác: Nhạc sĩ Văn Thành Nho, Trình bày: Ca sĩ Trần Hồng Nhung) và lắng nghe  những chia sẻ của ca sĩ Trần Hồng Nhung về ý tưởng thực hiện album “Huyền thoại lời ru” -  album gồm mười ca khúc ca ngợi hình ảnh người mẹ Việt Nam….]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2023/10/17/vovlive_am_nhac_voi_cuoc_song_ca_khuc_ngoi_ca_nguoi_phu_nu_viet_nam.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 15 Oct 2023 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Chào buổi sáng Hà Nội: Những cung bậc cảm xúc về một Thủ đô yên bình, hạnh phúc hôm nay</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[- Kỷ niệm 69 năm ngày giải phóng Thủ đô (10/10/1954-10/10/2023), ngược dòng thời gian trở về với mùa thu giải phóng Thủ đô Hà Nội qua ca khúc Tiến về Hà Nội (Nhạc sĩ Văn Cao) và lắng nghe những chia sẻ của Nhà thơ, Họa sĩ Văn Thao - Con trai trưởng của nhạc sĩ Văn Cao về ca khúc này….
+- Thưởng thức ca khúc Chào buổi sáng Hà Nội (Sáng tác: Nhà báo, Nhạc sĩ Nguyễn Quang Vinh) và lắng nghe những chia sẻ của Nhà báo, Nhạc sĩ Nguyễn Quang Vinh về hoàn cảnh ra đời của ca khúc này…]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2023/10/12/vovlive_am_nhac_voi_cuoc_song_chao_buoi_sang_ha_noi.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 08 Oct 2023 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
