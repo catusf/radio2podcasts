@@ -156,7 +156,7 @@ def get_articles_from_html(soup, url, no_items, podcast_title, item_titles=None)
         combined = ''
 
         for c, e, p in zip(items[i]['chinese'], items[i]['english'], items[i]['pinyin']):
-            combined += f'{c} ({p} - {e}) '
+            combined += f'{c} {p} - {e}\n'
 
         description = f'{text}\n{combined}'
 
