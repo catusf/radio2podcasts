@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 01 Dec 2023 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 30 Nov 2023 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 01 Dec 2023 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 30 Nov 2023 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,14 +23,6 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Bài học nào rút ra từ vụ hàng trăm tấn tôm hùm bông bị ứng đọng</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Cả trăm tấn tôm hùm bông đang bị ứ đọng ở vùng nuôi các tỉnh Nam Trung Bộ, không xuất được sang Trung Quốc, sau khi nước này xếp tôm hùm bông vào danh mục các loài động vật nguy cấp hoang dã cần được bảo vệ, đòi hỏi người nuôi phải truy suất được nguồn gốc giống tôm không phải tự nhiên. Hệ quả là giá giảm sâu từ đỉnh điểm hơn 2 triệu 6 nghìn đồng/kg xuống chỉ còn 1 triệu đồng/kg. Giá giảm sâu nhưng tiêu thụ vẫn rất khó khăn. Các địa phương và bộ ngành đang tháo gỡ ra sao cho người nông dân và bài học nào cần rút ra để tránh lặp lại tình trạng tương tự?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2023/12/01/vovlive_sukienvabanluan_tom_hum_bong.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 01 Dec 2023 19:00:00 +0700</pubDate>
-    </item>
     <item>
       <title>Khủng hoảng nhà ở tại Australia</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -54,6 +46,14 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2023/11/24/vovlive_sukienvabanluan_nhan_dinh_nhung_van_de_dat_ra_-online-friday.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 24 Nov 2023 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Chiến dịch tham vọng của Campuchia nhằm giảm rác thải nhựa</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Campuchia vừa chính thức triển khai Chiến lược tuần hoàn về Môi trường giai đoạn 2023 - 2028 với 3 mục tiêu ưu tiên là sạch, xanh, bền vững. Trong đó, một trong những nội dung quan trọng của định hướng phát triển xanh là giảm rác thải nhựa. Theo số liệu Bộ Môi trường Campuchia công bố, hiện phong trào giảm sử dụng nhựa ở quốc gia này đã thu hút được sự tham gia của gần một nửa dân số cả nước và đây là cơ sở để Campuchia tự tin sẽ đạt được mục tiêu đề ra, góp phần cùng cộng đồng quốc tế giải quyết cuộc khủng hoảng toàn cầu về ô nhiễm rác thải nhựa.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2023/11/21/vovlive_sukienvabanluan_chien_dich_tham_vong_cua_campuchia_nham_giam_rac_thai_nhua.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 21 Nov 2023 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
