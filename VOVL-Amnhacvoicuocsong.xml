@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 10 Dec 2023 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 19 Nov 2023 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 10 Dec 2023 19:00:00 +0700</pubDate>
+    <pubDate>Sun, 19 Nov 2023 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,22 +23,6 @@
     </itunes:owner>
     <itunes:subtitle>Âm nhạc với cuộc sống</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Amnhacvoicuocsong.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>“Tuần Châu ơi”: Khúc hoan ca về một chuyện tình của non của nước</title>
-      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[Trong chương trình hôm nay, cùng đến thăm đảo ngọc Tuần Châu tỉnh Quảng Ninh, nơi Bác Hồ về thăm và là nơi khởi nguồn của những đoàn tàu không số dệt nên huyền thoại đường Hồ Chí Minh trên biển qua sáng tác mới “Tuần Châu ơi” của Nhà báo, Nhạc sĩ Tào Khánh Hưng, Phó TBT Báo Xây Dựng và lắng nghe những chia sẻ của nhạc sĩ Tào Khánh Hưng về ca khúc này…]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2023/12/14/vovlive_am_nhac_voi_cuoc_song_tuan_chau_oi.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 10 Dec 2023 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Những đóng góp của Nhạc sĩ Đỗ Nhuận cho đời sống âm nhạc Việt Nam ở mảng khí nhạc và ca khúc</title>
-      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[Nhạc sĩ Đỗ Nhuận là Tổng thư ký đầu tiên của Hội Nhạc sĩ Việt Nam khóa I và II từ năm 1958 đến 1983, một trong những nhạc sĩ tiên phong của âm nhạc Cách mạng. Ông là tác giả của nhiều ca khúc nổi tiếng, sống mãi với thời gian như: “Áo mùa đông”, “Du kích ca”, “Du kích sông Thao”, “Chiến thắng Điện Biên”, “Hành quân xa”, “Việt Nam quê hương tôi” … Đặc biệt, ông là một trong những người đặt nền móng cho thể loại nhạc kịch theo truyền thống của opera phương Tây...Kỷ niệm 110 năm ngày sinh nhạc sĩ Đỗ Nhuận (10/12/1922-10/12/2023), thưởng thức ca khúc Việt Nam quê hương tôi của ông và cùng gặp gỡ nhạc sĩ Đỗ Hồng Quân, Chủ tịch Ủy ban Liên hiệp các hội Văn học nghệ thuật Việt Nam về những đóng góp của Nhạc sĩ Đỗ Nhuận cho đời sống âm nhạc ở mảng khí nhạc và ca khúc…]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2023/12/14/vovlive_am_nhac_voi_cuoc_song_do_nhuan.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 03 Dec 2023 19:00:00 +0700</pubDate>
-    </item>
     <item>
       <title>Những ca khúc đi cùng năm tháng ngợi ca hình ảnh người giáo viên nhân dân</title>
       <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
@@ -56,6 +40,23 @@
       <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2023/11/21/vovlive_am_nhac_voi_cuoc_song_tri_an_ngay_nha_giao.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 12 Nov 2023 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Những ca khúc về vùng đất con người Quảng Ninh</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[- Kỷ niệm 60 năm thành lập tỉnh Quảng Ninh (30/10/1963-30/10/2023) thưởng thức ca khúc Tôi là người thợ mỏ (Sáng tác: Nhạc sĩ Hoàng Vân; Trình bày NSND Trần Khánh) và những chia sẻ của nhạc sĩ Hoàng Vân về ca khúc này.
+- Thưởng thức ca khúc mới sáng tác của Nhạc sĩ trẻ Đỗ Hoàng Linh “Hạ Long em như thế” và lắng nghe góc nhìn của một nhạc sĩ trẻ về đất Quảng Ninh.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2023/11/02/vovlive_am_nhac_voi_cuoc_song_quang_ninh.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 29 Oct 2023 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Giáo sư, Nhạc sĩ Chu Minh: Người thầy của những người thầy</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[Ngày 17/10 vừa qua, Giáo sư, Nhạc sĩ Chu Minh (tên thật là Triệu Đạt Hiền) - tác giả của ca khúc "Người là niềm tin tất thắng" đã trút hơi thở cuối cùng để về với thế giới người hiền, hưởng thọ 92 tuổi. Sinh thời, ông có nhiều đóng góp cho âm nhạc Việt Nam và là thầy của nhiều nghệ sĩ nổi tiếng. Trong chương trình hôm nay xin dành để tưởng nhớ về ông…]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2023/10/24/vovlive_am_nhac_voi_cuoc_song_chu_minh.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 22 Oct 2023 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
