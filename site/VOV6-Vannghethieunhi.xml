@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 10 Dec 2023 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 18 Dec 2023 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 10 Dec 2023 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 18 Dec 2023 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Văn nghệ thiếu nhi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Vannghethieunhi.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Đọc truyện "Giấc mơ bên kia đại dương" - Buổi ba mươi - Chiếc ô tô bị mất cắp  10/12/2023</title>
+      <title>Niềm tự hào Đất Nước  18/12/2023</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/niem-tu-hao-dat-nuoc-c44-37723.aspx</link>
+      <description><![CDATA[Bài thơ “Đất nước” của nhà thơ Nguyễn Khoa Điềm là tác phẩm có vị trí quan trọng trong  trong chương trình Ngữ văn 12.  “Và ở đâu trên khắp ruộng đồng gò bãi/ chẳng mang một dáng hình, một ao ước, một lối sống ông cha/ Ôi Đất Nước sau bốn ngàn năm đi đâu ta cũng thấy/ Những cuộc đời đã hóa núi sông ta”...  Những hình ảnh gợi niềm tự hào, tự tôn dân tộc đồng thời thể hiện lòng kiêu hãnh, biết ơn đối với hai tiếng viết hoa Đất Nước. (Văn nghệ thiếu nhi 11/12/2023)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/niem-tu-hao-dat-nuoc-c44-37723.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/2023_12/v2_1112_10h45_van_nghe_thieu_nhi_1812202322.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 18 Dec 2023 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Đọc truyện "Giấc mơ bên kia đại dương" - Buổi ba mươi - Chiếc ô tô bị mất cắp   10/12/2023</title>
       <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-giac-mo-ben-kia-dai-duong-buoi-ba-muoi-chiec-o-to-bi-mat-cap-c44-37717.aspx</link>
       <description><![CDATA[Lại nói về chiếc xe ô tô  bị mất cắp ở khách sạn Mia quản lý. Cô bé tìm đến nhà ông Lorens để báo với ông là không thể tìm thấy, bởi cảnh sát khu vực đã báo tin như vậy. Ông Lorens nói rằng, công ty bảo hiểm đã đền cho ông số tiền tương đương với chiếc xe bị mất. Thật bất ngờ, khi cả hai người đang nói chuyện với nhau tại nhà ông Lorens thì chiếc ô tô đó, do một người khác lái, đã đỗ ngay cồng nhà... (Văn nghệ thiếu nhi 10/12/2023)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-giac-mo-ben-kia-dai-duong-buoi-ba-muoi-chiec-o-to-bi-mat-cap-c44-37717.aspx</guid>
@@ -37,14 +45,6 @@
       <description><![CDATA[Sau lễ tạ ơn, gia đình Mia đón một người khách quen, đó là chú Zang – người vốn là đồng nghiệp của mẹ ở Trung Quốc. Chú đã đến Mỹ cách đây một năm nhưng không may mắn, chú xin vào làm phụ bếp cho một nhà hàng, họ đã thu hộ chiếu và thẻ căn cước của chú, bắt chú phải làm trong hầm suốt năm không được ra ngoài... (Văn nghệ thiếu nhi 09/12/2013)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-giac-mo-ben-kia-dai-duong-buoi-hai-muoi-chin-chu-zang-c44-37716.aspx</guid>
       <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/2023_12/v2_0912_10h45_van_nghe_thieu_nhi_1012202322.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 10 Dec 2023 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đọc truyện "Giấc mơ bên kia đại dương" - Buổi hai mươi tám - Niềm vui của Mia   10/12/2023</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-giac-mo-ben-kia-dai-duong-buoi-hai-muoi-tam-niem-vui-cua-mia-c44-37715.aspx</link>
-      <description><![CDATA[Mia viết thêm một bức thư nữa với nội dung mong công ty giúp đỡ chú Hank có được công việc như mong muốn. Thật may mắn, chú Hank đã được nhận vào làm bảo vệ. Chú vui mừng đến kể cho Mia nghe, chú còn biết rõ bức  thư Mia viết như thế nào... (Văn nghệ thiếu nhi 08/12/2023)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-giac-mo-ben-kia-dai-duong-buoi-hai-muoi-tam-niem-vui-cua-mia-c44-37715.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/2023_12/v2_0812_10h45_van_nghe_thieu_nhi_1012202322.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 10 Dec 2023 19:00:00 +0700</pubDate>
     </item>
   </channel>
