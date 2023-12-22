@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 22 Dec 2023 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 15 Dec 2023 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 22 Dec 2023 19:00:00 +0700</pubDate>
+    <pubDate>Fri, 15 Dec 2023 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,14 +23,6 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Ấn Độ khai trương sàn giao dịch kim cương lớn nhất thế giới: Cú hích cho ngành công nghiệp đang gặp khó</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Mới đây, Thủ tướng Ấn Độ Narendra Modi công bố khai trương sàn giao dịch kim cương hiện đại, lớn nhất thế giới ở thành phố Surat, bang miền Tây Gujarat quê hương của ông. Đây là bước đi nhằm khẳng định Surat sẽ không chỉ là trung tâm buôn bán kim cương và trang sức quốc tế lớn nhất của Ấn Độ mà còn lớn nhất thế giới cả về kim cương thô, kim cương đánh bóng, cũng như các sản phẩm hoàn thiện khác...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2023/12/22/vovlive_sukienvabanluan_an_do_khai_truong_san_giao_dich.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 22 Dec 2023 19:00:00 +0700</pubDate>
-    </item>
     <item>
       <title>Chính phủ Thái Lan tìm lời giải cho khủng hoảng nợ gia đình</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -54,6 +46,14 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2023/12/11/vovlive_sukienvabanluan_luat_nhap_cu_moi_cua_duc_ai_duong_huong_loi.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 11 Dec 2023 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Nga hé lộ chiến lược mới, tăng tốc trong cuộc đua phát triển trí tuệ nhân tạo</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Trong tuyên bố mới đây, Tổng thống Nga Putin nhấn mạnh, “Nga xác định cần thích ứng với sự thay đổi nhanh chóng của thế giới, bởi thế, sẽ sớm phê chuẩn một phiên bản mới của Chiến lược quốc gia về phát triển trí tuệ nhân tạo (AI)”. Trong bối cảnh cuộc đua phát triển trí tuệ nhân tạo trên toàn cầu đang càng lúc càng nóng bỏng, lĩnh vực AI của Nga đang ở vị trí nào, liệu chiến lược mới sắp tới có thể giúp Nga tăng tốc, cạnh tranh với phương Tây?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2023/12/08/vovlive_sukienvabanluan_nga_he_lo_chien_luoc_moi_tang_toc_trong_cuoc_dua_phat_trien_tri_tue_nhan_tao.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 08 Dec 2023 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
