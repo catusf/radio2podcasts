@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 09 Dec 2023 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 27 Dec 2023 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 09 Dec 2023 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 27 Dec 2023 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Kể chuyện và hát ru cho bé</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Kechuyenvahatruchobe.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Ông hoàng và cô gái chăn cừu (Phần 3) 9/12/2023</title>
+      <title>Lừa và hổ 27/12/2023</title>
+      <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/lua-va-ho-c43-37742.aspx</link>
+      <description><![CDATA["Lừa và hổ” là một câu chuyện ngụ ngôn kể về chú lừa rất hay khoác lác và ảo tưởng sức mạnh. Chính vì vậy mà nó đã bị ông lão đuổi ra khỏi trang trại. Liệu rằng sau khi bị đuổi đi, tính tình của chú ta có thay đổi không nhỉ? (Kể chuyện và hát ru 11/12/2023]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/lua-va-ho-c43-37742.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/2023_12/v2_111212_21h45_ke_chuyen_va_hat_ru_2712202320.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 27 Dec 2023 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Ông hoàng và cô gái chăn cừu (Phần 3)  9/12/2023</title>
       <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/ong-hoang-va-co-gai-chan-cuu-phan-3-c43-37713.aspx</link>
       <description><![CDATA[Vì nhà vua trẻ đã gây ra nhiều tội ác nên cô gái chăn cừu không muốn trở thành hoàng hậu. Chính bởi vậy, nhà vua và một số quan xấu bụng đã đối xử rất tệ với cô. Dần dần, tội ác của nhà vua đã khiến bà tiên nổi giận... (Kể chuyện và hát ru 29/11/2023)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/ong-hoang-va-co-gai-chan-cuu-phan-3-c43-37713.aspx</guid>
@@ -37,14 +45,6 @@
       <description><![CDATA[Vì muốn được sống theo ý mình nên nhà vua trẻ đã tháo chiếc nhẫn của bà tiên ném đi. Vào một hôm nọ, khi đi dạo, nhà vua bắt gặp cô gái chăn cừu có tên là Zê-li và muốn đưa nàng về cung làm hoàng hậu.  Cô gái chăn cừu đã cự tuyệt, không muốn làm vợ của vua... (Kể chuyện và hát ru 28/11/2023)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/ong-hoang-va-co-gai-chan-cuu-phan-2-c43-37712.aspx</guid>
       <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/2023_12/v2_28110112_21h45_ke_chuyen_va_hat_ru_912202323.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 09 Dec 2023 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Ông hoàng và cô gái chăn cừu (Phần 1)  9/12/2023</title>
-      <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/ong-hoang-va-co-gai-chan-cuu-phan-1-c43-37711.aspx</link>
-      <description><![CDATA[Xưa kia, có một vị vua rất tốt bụng. Ông đã được bà tiên trao tặng nhiều may mắn. Trước khi băng hà, nhà vua mong muốn bà tiên sẽ giúp đỡ hoàng tử để chàng có thể trở thành một vị vua đức độ, nối ngôi trị vì vương quốc. Khi hoàng tử lên ngôi, bà tiên đã trao cho chàng một chiếc nhẫn. Mỗi khi chàng làm việc xấu thì chiếc nhẫn sẽ thít ngón tay của chàng lại để nhắc nhở... (Kể chuyện và hát ru 27/11/2023)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/ong-hoang-va-co-gai-chan-cuu-phan-1-c43-37711.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/2023_12/v2_273011_21h45_ke_chuyen_va_hat_ru_912202323.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 09 Dec 2023 19:00:00 +0700</pubDate>
     </item>
   </channel>
