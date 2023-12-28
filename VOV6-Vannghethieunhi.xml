@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 27 Dec 2023 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 28 Dec 2023 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 27 Dec 2023 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 28 Dec 2023 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Văn nghệ thiếu nhi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Vannghethieunhi.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>"Người lái đò sông Đà" và tài hoa Nguyễn Tuân  27/12/2023</title>
+      <title>Tủ sách Shichida - nuôi dưỡng tâm hồn, thắp sáng tương lai 28/12/2023</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/tu-sach-shichida-nuoi-duong-tam-hon-thap-sang-tuong-lai-c44-37748.aspx</link>
+      <description><![CDATA[Bộ sách Shichida góp phần giúp bạn đọc nhỏ tuổi có một tâm hồn lành mạnh, giàu tri thức, là hành trang để các em hướng tới tương lai tươi sáng. Những bài học ý nghĩa, những cái kết bất ngờ, trí tưởng tượng phong phú trong sách khiến chúng ta càng đọc càng thấy cuốn hút, càng thấy còn nhiều điều cần khám phá... (Văn nghệ thiếu nhi 28/12/2023)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/tu-sach-shichida-nuoi-duong-tam-hon-thap-sang-tuong-lai-c44-37748.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/2023_12/v2_2812_10h4518h15_van_nghe_thieu_nhi_moi_2812202320.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 28 Dec 2023 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>"Người lái đò sông Đà" và tài hoa Nguyễn Tuân   27/12/2023</title>
       <link>http://vov6.vov.vn/van-nghe-thieu-nhi/nguoi-lai-do-song-da-va-tai-hoa-nguyen-tuan-c44-37741.aspx</link>
       <description><![CDATA[Nguyễn Tuân là một cây bút tài hoa, uyên bác vào hàng bậc nhất của văn học hiện đại Việt Nam. Chất tài hoa của ông được thể hiện trong việc dựng người, dựng cảnh; trong việc biến hóa các ngôn từ nghệ thuật; trong những trường so sánh, liên tưởng bất ngờ, thú vị với hình ảnh sống động gợi cảm mà "Người lái đò sông Đà" là một ví dụ tiêu biểu. (Văn nghệ thiếu nhi 25/12/2023)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/nguoi-lai-do-song-da-va-tai-hoa-nguyen-tuan-c44-37741.aspx</guid>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-giac-mo-ben-kia-dai-duong-buoi-ba-muoi-sau-pizza-mien-phi-c44-37740.aspx</guid>
       <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/2023_12/v2_2412_10h45_van_nghe_thieu_nhi_1_2712202319.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 27 Dec 2023 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đọc truyện "Giấc mơ bên kia đại dương" - Buổi ba mươi lăm - Vượt qua nỗi buồn   25/12/2023</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-giac-mo-ben-kia-dai-duong-buoi-ba-muoi-lam-vuot-qua-noi-buon-c44-37735.aspx</link>
-      <description><![CDATA[Bố mẹ Mia tỏ ra lạc quan để giúp Mia nhanh chóng quên sự cố không vui. Thậm chí khi bố ôm Mia vào lòng còn kể lại những việc làm tốt của cô bé đã giúp đỡ được chú Huck có một công việc mới, chú Zhang đã được tự do. Còn với bản thân Mia, cô bé sẽ vượt qua nỗi buồn này như thế nào? (Văn nghệ thiếu nhi 23/12/2023)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-giac-mo-ben-kia-dai-duong-buoi-ba-muoi-lam-vuot-qua-noi-buon-c44-37735.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/2023_12/v2_2312_10h45_van_nghe_thieu_nhi_2512202321.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 25 Dec 2023 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
