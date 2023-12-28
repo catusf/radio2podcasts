@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 15 Dec 2023 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 28 Dec 2023 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 15 Dec 2023 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 28 Dec 2023 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Tìm trong kho báu</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Timtrongkhobau.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Ẩn dụ về con người Việt Nam qua ca dao về biểu tượng hoa 15/12/2023</title>
+      <title>Ẩn dụ về con người Việt Nam qua ca dao về cây trúc, cây mai 28/12/2023</title>
+      <link>http://vov6.vov.vn/tim-trong-kho-bau/an-du-ve-con-nguoi-viet-nam-qua-ca-dao-ve-cay-truc-cay-mai-c54-37745.aspx</link>
+      <description><![CDATA[Người xưa thường mượn những hình ảnh thân thuộc, gần gũi để ký thác nỗi niềm, tâm sự. Trúc, mai là những hình ảnh quen thuộc của làng quê Việt và cũng xuất hiện rất nhiều lần trong ca dao. Tác giả dân gian nhắc đến trúc, mai; nhưng không phải để tả thực cây trúc cây mai, cũng không phải bàn chuyện trúc mai phong cảnh, mà mượn mai, trúc để nói về con người.]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/an-du-ve-con-nguoi-viet-nam-qua-ca-dao-ve-cay-truc-cay-mai-c54-37745.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/bbt/2023_12/v2_2812_08h00_18h30_tim_trong_kho_bau_moi_281220239.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 28 Dec 2023 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Ẩn dụ về con người Việt Nam qua ca dao về biểu tượng hoa  15/12/2023</title>
       <link>http://vov6.vov.vn/tim-trong-kho-bau/an-du-ve-con-nguoi-viet-nam-qua-ca-dao-ve-bieu-tuong-hoa-c54-37722.aspx</link>
       <description><![CDATA[Người Việt ta xưa vốn ưa lối giao tiếp khéo léo, lễ nghĩa, kín đáo, nhuần nhị nhưng cũng không kém phần hóm hỉnh, hài hước. Chúng ta hãy thử ngẫm lại mấy câu ca sau: “Bây giờ mận mới hỏi đào/ Vườn hồng đã có ai vào hay chưa/ Mận hỏi thì đào xin thưa/ Vườn hồng có lối nhưng chưa ai vào”. Mượn hình ảnh các loài cây, hoa đặc trưng, rõ ràng người xưa đã rất ý nhị trong cách tỏ tình và đáp lời. Trong kho tàng ca dao không ít những câu sử dụng nghệ thuật ẩn dụ về người lao động với nhiều cung bậc cảm xúc và cách thể hiện vô cùng phong phú.]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/an-du-ve-con-nguoi-viet-nam-qua-ca-dao-ve-bieu-tuong-hoa-c54-37722.aspx</guid>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/ca-dao-viet-ve-su-lang-lo-cua-phu-nu-xua-c54-37706.aspx</guid>
       <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/bbt/v2_071112_08h00_tim_trong_kho_bau_pl_18h30_812202312.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 06 Dec 2023 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Ca dao hài hước về người phụ nữ  24/11/2023</title>
-      <link>http://vov6.vov.vn/tim-trong-kho-bau/ca-dao-hai-huoc-ve-nguoi-phu-nu-c54-37685.aspx</link>
-      <description><![CDATA[Sắc thái hài hước bao trùm trong những bài ca dao trào phúng về phụ nữ. Khác với ca dao trữ tình được sáng tác nhằm giãi bày tâm tư tình cảm, ca dao hài hước dùng tiếng cười để mỉa mai, châm biếm những hiện tượng chưa lành mạnh, những thói hư tật xấu của phụ nữ trong xã hội]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/ca-dao-hai-huoc-ve-nguoi-phu-nu-c54-37685.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/bbt/v2_3011_0412_08h00_tim_trong_kho_bau_pl_18h30_3011202310.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 24 Nov 2023 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
