@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 03 Jan 2024 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jan 2024 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 03 Jan 2024 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 04 Jan 2024 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Nâng tầm sản phẩm OCOP để phát triển du lịch nông thôn</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Làng du lịch Mỹ Khánh ở huyện Phong Điền, TP Cần Thơ là đơn vị đầu tiên ở ĐBSCL được chứng nhận là sản phẩm OCOP du lịch 4 sao. Đây là bước đệm để nâng tầm các sản phẩm du lịch, góp phần phát triển kinh tế nông thôn. Từ đó, nâng tầm và lan tỏa du lịch Cần Thơ và khu vực ĐBSCL. Đồng thời, góp phần bảo tồn và phát huy giá trị văn hóa, ẩm thực dân gian truyền thống, từng bước xây dựng và gìn giữ thương hiệu của từng địa phương.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2024/01/04/vovlive_sukienvabanluan_nang_tam-san_pham_ocop.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 04 Jan 2024 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Thưởng tết 2024 - khi doanh nghiệp và lao động cộng đồng trách nhiệm</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2023/12/29/vovlive_sukienvabanluan_xuat_khau_cua_tien_giang_mang_sang.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 29 Dec 2023 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Thái Lan hướng tới mục tiêu dẫn đầu về kinh tế số</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Thái Lan sẽ thiết lập 1.500 lớp học số tại các trường học trên toàn quốc để đào tạo ít nhất 100.000 lao động trong lĩnh vực này mỗi năm, đồng thời tăng cường hệ sinh thái trí tuệ nhân tạo tại Thung lũng Kỹ thuật số Thái Lan – đây là những nội dung rất đáng chú ý trong chiến lược về phát triển kinh tế số mà Bộ Kinh tế và Xã hội Số Thái Lan vừa công bố. Với những kế hoạch được đánh giá là mang tính đột phá, Thái Lan đang hướng tới mục tiêu trở thành một trong những quốc gia dẫn đầu về kinh tế số - một xu thế phát triển trên toàn cầu hiện nay.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2023/12/25/vovlive_sukienvabanluan_thai_lan_huong_toi_muc_tieu_dan_dau_ve_kinh_te_so.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 25 Dec 2023 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
