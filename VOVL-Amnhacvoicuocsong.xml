@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 10 Dec 2023 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 31 Dec 2023 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 10 Dec 2023 19:00:00 +0700</pubDate>
+    <pubDate>Sun, 31 Dec 2023 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,38 +24,37 @@
     <itunes:subtitle>Âm nhạc với cuộc sống</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Amnhacvoicuocsong.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Ký ức chiến thắng “Hà Nội - Điện Biên Phủ trên không” qua những tác phẩm âm nhạc</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[Cách đây 51 năm thủ đô Hà Nội, Thành phố Hải Phòng và nhiều địa phương ở miền Bắc trải qua 12 ngày đêm không ngủ trong chiến dịch không kích hủy diệt của đế quốc Mỹ. Chiến thắng “Hà Nội - Điện Biên Phủ trên không” tạo bước ngoặt và đòn quyết định buộc Mỹ phải ký kết hiệp định Paris ngày 27/1/1973. Song hành với những chiến công đó là sự góp phần không nhỏ của lực lượng văn nghệ sĩ. Nhiều tác phẩm âm nhạc ra đời ngay trong thời điểm lửa rực sáng bầu trời Hà Nội qua làn sóng phát thanh Đài TNVN, góp phần cổ vũ động viên đồng bào chiến sĩ. Trong không khí kỷ niệm 51 năm chiến thắng “Hà Nội - Điện Biên Phủ trên không”, thưởng thức một số tác phẩm âm nhạc được viết trong những ngày tháng khói lửa của cuộc chiến: Hà Nội niềm tin và hy vọng (Nhạc sĩ Phan Nhân), Hà Nội những đêm không ngủ (Nhạc sĩ Phạm Tuyên), Hà Nội - Điện Biên Phủ (Nhạc sĩ Phạm Tuyên), Hà Nội chiến thắng (Nhạc sĩ Thanh Phúc), Em mãi tìm anh (Nhạc sĩ Vũ Việt Hùng)...]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2024/01/04/vovlive_am_nhac_voi_cuoc_song_51_nam_chien_thang_dien_bien_phu_tren_khong(1).mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 31 Dec 2023 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Nhạc sĩ Lê Anh Hà: “Tôi muốn khai thác hình ảnh Bác Hồ một cách chân thật nhất, giản dị nhất, đây cũng là hành động thực tế để hưởng ứng phong trào học tập và làm theo tư tưởng, đạo đức, phong cách Hồ Chí Minh”</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[Giới thiệu hai tác phẩm âm nhạc của Nhạc sĩ Lê Anh Hà, hội viên Hội Nhạc sĩ Việt Nam, giáo viên âm nhạc trường THCS Lý Nhật Quang, Đô Lương, Nghệ An: “Bước chân Ông Ké” (giải khuyến khích Giải thưởng Văn học nghệ thuật 2019 của Liên hiệp các hội VHNT VN, và "Cánh chim Việt Bắc" giải B - Giải thưởng Sáng tác quảng bá tác phẩm Văn học nghệ thuật báo chí về chủ đề Học tập và làm theo tư tưởng, đạo đức, phong cách Hồ Chí Minh giai đoạn 2021-2025 và trò chuyện cùng nhạc sĩ Lê Anh Hà về hai tác phẩm âm nhạc này...]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2024/01/04/vovlive_am_nhac_voi_cuoc_song_nhac_si_le_anh_ha.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 24 Dec 2023 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Nhạc sĩ, Nhà báo Nguyễn Thụy Kha: Ca khúc “Tên lửa ta đánh rất hay vừa có tính thời sự lại chứa trong đó rất nhiều tinh thần Việt Nam”</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[Chiến thắng “Hà Nội – Điện Biên Phủ trên không” trong 12 ngày đêm năm 1972 không chỉ mang lại niềm tin tưởng, kiêu hãnh, tự hào cho quân và dân ta, “Hà Nội – Điện Biên Phủ trên không” còn là nguồn cảm hứng bất tận trong sáng tác của các nghệ sỹ. Kỷ niệm 51 năm chiến thắng “Hà Nội - Điện Biên Phủ trên không”, tìm hiểu về tác phẩm âm nhạc “Tên lửa ta đánh rất hay” (Nhạc sĩ Huy Thục).
+Kỷ niệm 77 năm ngày toàn quốc kháng chiến (19/12/1946-19/12/2023), tìm hiểu hoàn cảnh ra đời của ca khúc “Mưa đời chiến sĩ” (Âm nhạc: Nhạc sĩ Lương Ngọc Trác, Lời thơ Mạc Tần)]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2024/01/04/vovlive_am_nhac_voi_cuoc_song_ten_lua_ta_danh_rat_hay.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 17 Dec 2023 19:00:00 +0700</pubDate>
+    </item>
+    <item>
       <title>“Tuần Châu ơi”: Khúc hoan ca về một chuyện tình của non của nước</title>
       <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
       <description><![CDATA[Trong chương trình hôm nay, cùng đến thăm đảo ngọc Tuần Châu tỉnh Quảng Ninh, nơi Bác Hồ về thăm và là nơi khởi nguồn của những đoàn tàu không số dệt nên huyền thoại đường Hồ Chí Minh trên biển qua sáng tác mới “Tuần Châu ơi” của Nhà báo, Nhạc sĩ Tào Khánh Hưng, Phó TBT Báo Xây Dựng và lắng nghe những chia sẻ của nhạc sĩ Tào Khánh Hưng về ca khúc này…]]></description>
       <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2023/12/14/vovlive_am_nhac_voi_cuoc_song_tuan_chau_oi.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 10 Dec 2023 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Những đóng góp của Nhạc sĩ Đỗ Nhuận cho đời sống âm nhạc Việt Nam ở mảng khí nhạc và ca khúc</title>
-      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[Nhạc sĩ Đỗ Nhuận là Tổng thư ký đầu tiên của Hội Nhạc sĩ Việt Nam khóa I và II từ năm 1958 đến 1983, một trong những nhạc sĩ tiên phong của âm nhạc Cách mạng. Ông là tác giả của nhiều ca khúc nổi tiếng, sống mãi với thời gian như: “Áo mùa đông”, “Du kích ca”, “Du kích sông Thao”, “Chiến thắng Điện Biên”, “Hành quân xa”, “Việt Nam quê hương tôi” … Đặc biệt, ông là một trong những người đặt nền móng cho thể loại nhạc kịch theo truyền thống của opera phương Tây...Kỷ niệm 110 năm ngày sinh nhạc sĩ Đỗ Nhuận (10/12/1922-10/12/2023), thưởng thức ca khúc Việt Nam quê hương tôi của ông và cùng gặp gỡ nhạc sĩ Đỗ Hồng Quân, Chủ tịch Ủy ban Liên hiệp các hội Văn học nghệ thuật Việt Nam về những đóng góp của Nhạc sĩ Đỗ Nhuận cho đời sống âm nhạc ở mảng khí nhạc và ca khúc…]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2023/12/14/vovlive_am_nhac_voi_cuoc_song_do_nhuan.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 03 Dec 2023 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Những ca khúc đi cùng năm tháng ngợi ca hình ảnh người giáo viên nhân dân</title>
-      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[Tìm hiểu một số ca khúc hay về đề tài ngợi ca hình ảnh người giáo viên nhân dân những năm tháng kháng chiến chống Mỹ cứu nước và đi lên xây dựng cuộc sống mới tại miền Bắc: Cô giáo Tày cầm đàn lên đỉnh núi (Nhạc sĩ Văn Ký), Em đứng giữa giảng đường hôm nay (Nhạc sĩ Tân Huyền), Bài ca người giáo viên nhân dân (Nhạc sĩ Hoàng Vân),…]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2023/11/21/vovlive_am_nhac_voi_cuoc_song_ca_khuc_di_cung_nam_thang_ngoi_ca_nguoi_giao_vien_nhan_dan.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 19 Nov 2023 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>“Tri ân ngày Nhà giáo”: Món quà gửi tới những thầy cô giáo trên cả nước nhân dịp ngày Nhà giáo Việt Nam</title>
-      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[Hướng tới chào mừng ngày Nhà giáo Việt Nam 20/11/2023
-- Thưởng thức ca khúc Tri ân ngày Nhà giáo của Thầy giáo Phạm Thanh Hải ở Bắc Giang gửi tặng và lắng nghe những tâm sự, chia sẻ của thầy về ca khúc này.
-- Lắng nghe những tâm tư bằng âm nhạc của Nhà giáo, Tiến sĩ Lê Thống Nhất qua hai ca khúc: Yêu lắm lớp 1 ơi và Cô giáo của em.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2023/11/21/vovlive_am_nhac_voi_cuoc_song_tri_an_ngay_nha_giao.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 12 Nov 2023 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
