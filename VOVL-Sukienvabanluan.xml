@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 10 Jan 2024 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jan 2024 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 10 Jan 2024 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 04 Jan 2024 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,14 +23,6 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Thách thức chính trị và kinh tế với nước Mỹ khi nợ công cao kỷ lục?</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[34.000 tỷ đô la là khoản nợ kỷ lục của chính phủ Mỹ tính đến ngày 29/12 vừa qua. Đây là mức nợ công cao kỷ lục mọi thời đại ở Mỹ. Điều đáng chú ý, nợ công ở Mỹ ngày càng tăng trong bối cảnh nền kinh tế lớn nhất thế giới đang ở trạng thái tương đối khỏe mạnh, tỉ lệ thất nghiệp thấp vốn được xem là trạng thái tốt để kìm hãm nợ. Bởi thông thường thì trong các giai đoạn kinh tế suy yếu và tỉ lệ thất nghiệp cao, chính phủ mới phải tăng chi tiêu nhằm kích thích tăng trưởng. Với khoản nợ 34.000 tỷ đô la, Mỹ sẽ đối mặt với thách thức gì trong việc ổn định nền tài chính, nhất là khi chỉ vài tuần nữa Quốc hội nước này phải thống nhất các kế hoạch ngân sách liên bang?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2024/01/10/vovlive_sukienvabanluan_thach_thuc_chinh_tri_va_kinh_te_voi_nuoc_my_khi_no_cong_cao_ky_luc.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 10 Jan 2024 19:00:00 +0700</pubDate>
-    </item>
     <item>
       <title>Nâng tầm sản phẩm OCOP để phát triển du lịch nông thôn</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -54,6 +46,14 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2024/01/02/vovlive_sukienvabanluan_phuc-hoi_ngoan_muc.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 02 Jan 2024 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Xuất khẩu của Tiền Giang - Mảng sáng trong tiến trình phục hồi kinh tế</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Dù chịu tác động chung từ suy giảm kinh tế toàn cầu, những biến động của thị trường và điều chỉnh chính sách của các nền kinh tế lớn, nhất là chính sách lãi suất, tỷ giá nhưng hoạt động xuất khẩu hàng hóa của tỉnh Tiền Giang trong năm nay đạt cao. Tổng kim ngạch xuất khẩu đạt 4 tỷ 600 triệu USD, vượt 18,3% chỉ tiêu cả năm, tăng hơn 12,9% so với năm trước và là mức tăng cao nhất từ trước đến nay. So với mục tiêu theo Nghị quyết 25 của Hội đồng nhân dân tỉnh Tiền Giang đề ra về Kế hoạch phát triển kinh tế - xã hội 5 năm 2021-2025 thì đến thời điểm này kim ngạch xuất khẩu của tỉnh đã vượt kế hoạch 5 năm.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2023/12/29/vovlive_sukienvabanluan_xuat_khau_cua_tien_giang_mang_sang.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 29 Dec 2023 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
