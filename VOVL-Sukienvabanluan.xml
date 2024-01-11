@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 11 Jan 2024 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jan 2024 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 11 Jan 2024 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 10 Jan 2024 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,14 +23,6 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Ấn Độ tăng tốc trên đường đua khí thiên nhiên hóa lỏng (LNG)</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Mới đây, Công ty Nhà nước GAIL của Ấn Độ vừa ký hợp đồng nhập khẩu khí thiên nhiên hoá lỏng từ nhà cung cấp năng lượng Vitol - Tập đoàn kinh doanh năng lượng độc lập lớn hàng đầu thế giới có trụ sở tại Thụy Sĩ. Theo đó, GAIL sẽ mua 1 triệu tấn khí thiên nhiên hóa lỏng mỗi năm trong vòng 10 năm, bắt đầu từ năm 2026. Đây được đánh giá là bước đi thể hiện rõ nét chính sách năng lượng mới của Ấn Độ trong bối cảnh khu vực và toàn cầu đang đối diện các nguy cơ về an ninh năng lượng.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2024/01/11/vovlive_sukienvabanluan_an_do_tang_toc_tren_duong_dua_khi_thien_nhien_hoa_long.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 11 Jan 2024 19:00:00 +0700</pubDate>
-    </item>
     <item>
       <title>Thách thức chính trị và kinh tế với nước Mỹ khi nợ công cao kỷ lục?</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -54,6 +46,14 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2024/01/03/vovlive_sukienvabanluan_thuong-_tet_2024.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 03 Jan 2024 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Phục hồi ngoạn mục: Cách thức Nhật Bản “làm mới” du lịch?</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Ngành du lịch quốc tế đã có một năm khởi sắc sau một thời gian trì trệ vì đại dịch Covid-19. Tại châu Á, Nhật Bản được coi là điểm sáng của ngành du lịch khi các số liệu cho thấy lượng khách tới “đất nước mặt trời mọc” liên tục tăng và vào tháng 10 năm 2023 lần đầu tiên đã vượt qua mức trước đại dịch Covid-19, đánh dấu sự phục hồi hoàn toàn về lượng khách nước ngoài kể từ khi nước này nới lỏng các biện pháp kiểm soát biên giới. Yếu tố nào tạo nên kết quả đáng chú ý này, vì sao Nhật Bản là điểm đến ấn tượng của khách quốc tế và quốc gia này đang làm mới ngành du lịch ra sao để phát triển bền vững ngành công nghiệp không khói?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2024/01/02/vovlive_sukienvabanluan_phuc-hoi_ngoan_muc.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 02 Jan 2024 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
