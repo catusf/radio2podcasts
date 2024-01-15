@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 02 Jan 2024 07:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jan 2024 07:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 02 Jan 2024 07:00:00 +0700</pubDate>
+    <pubDate>Thu, 11 Jan 2024 07:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,30 @@
     </itunes:owner>
     <itunes:subtitle>VNTN</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV-VannghethieunhiVOVLive.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>▶ 1/3 Nhà giả kim - Buổi 1: Cậu bé chăn cừu Santiago</title>
+      <link>https://vovlive.vn/nha-gia-kim-p21995.html</link>
+      <description><![CDATA[Tiểu thuyết như một câu chuyện cổ tích giản dị, nhân ái, giàu chất thơ, thấm đẫm những minh triết huyền bí của phương Đông. Trong lần xuất bản đầu tiên tại Brazil vào năm 1988, sách chỉ bán được 900 bản. Tuy nhiên, với số phận đặc biệt của cuốn sách dành cho toàn nhân loại, vượt ra ngoài biên giới quốc gia, "Nhà giả kim" đã làm rung động hàng triệu tâm hồn, trở thành một trong những cuốn sách bán chạy nhất mọi thời đại, và có thể làm thay đổi cuộc đời người đọc...]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/nha-gia-kim-p21995.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2024/01/11/vovlive_vannghethieunhi_nhagiakim_buoi1.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 11 Jan 2024 07:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>2/3 Nhà giả kim - Buổi 2: Giải mã giấc mơ</title>
+      <link>https://vovlive.vn/nha-gia-kim-p21995.html</link>
+      <description><![CDATA[Tiểu thuyết như một câu chuyện cổ tích giản dị, nhân ái, giàu chất thơ, thấm đẫm những minh triết huyền bí của phương Đông. Trong lần xuất bản đầu tiên tại Brazil vào năm 1988, sách chỉ bán được 900 bản. Tuy nhiên, với số phận đặc biệt của cuốn sách dành cho toàn nhân loại, vượt ra ngoài biên giới quốc gia, "Nhà giả kim" đã làm rung động hàng triệu tâm hồn, trở thành một trong những cuốn sách bán chạy nhất mọi thời đại, và có thể làm thay đổi cuộc đời người đọc...]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/nha-gia-kim-p21995.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2024/01/11/vovlive_vannghethieunhi_nhagiakim_buoi2.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 11 Jan 2024 07:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>3/3 Nhà giả kim - Buổi 3: Cuộc gặp gỡ</title>
+      <link>https://vovlive.vn/nha-gia-kim-p21995.html</link>
+      <description><![CDATA[Tiểu thuyết như một câu chuyện cổ tích giản dị, nhân ái, giàu chất thơ, thấm đẫm những minh triết huyền bí của phương Đông. Trong lần xuất bản đầu tiên tại Brazil vào năm 1988, sách chỉ bán được 900 bản. Tuy nhiên, với số phận đặc biệt của cuốn sách dành cho toàn nhân loại, vượt ra ngoài biên giới quốc gia, "Nhà giả kim" đã làm rung động hàng triệu tâm hồn, trở thành một trong những cuốn sách bán chạy nhất mọi thời đại, và có thể làm thay đổi cuộc đời người đọc...]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/nha-gia-kim-p21995.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2024/01/11/vovlive_vannghethieunhi_nhagiakim_buoi3.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 11 Jan 2024 07:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>▶ 1/35 Giấc mơ bên kia đại dương - Buổi 1: Chinh phục giấc mơ Mỹ</title>
       <link>https://vovlive.vn/giac-mo-ben-kia-dai-duong-p21421.html</link>
@@ -2645,366 +2669,6 @@ Những cảm xúc ấm áp, hứng thú phiêu lưu, một chút hương vị u
       <guid isPermaLink="false">https://vovlive.vn/nhung-dua-tre-mac-zich-p10078.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2022/01/12/vovlive.vn_vannghethieunhi_nhungduatremaczich20.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 12 Jan 2022 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>▶ 1/45 Búp sen xanh - Buổi 1: Ngày bé Côn ra đời</title>
-      <link>https://vovlive.vn/bup-sen-xanh-p7380.html</link>
-      <description><![CDATA[Tiểu thuyết "Búp sen xanh" của nhà văn Sơn Tùng tái hiện sinh động thời niên thiếu của chủ tịch Hồ Chí Minh, từ buổi cất tiếng khóc chào đời ở làng Hoàng Trù quê ngoại đến khi tạm biệt bến Nhà Rồng ra đi tìm đường cứu nước. Đây là tác phẩm đầy tâm huyết, được nhà văn dày công sưu tầm tư liệu và viết trong thời gian dài. Cuốn sách chia làm 3 phần: Thời thơ ấu, Thời niên thiếu, Tuổi hai mươi...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/bup-sen-xanh-p7380.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/08/10/vovlive.vn_vannghethieunhi_bupsenxanh1.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 10 Aug 2021 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>2/45 Búp sen xanh - Buổi 2: Trong vòng tay quê ngoại</title>
-      <link>https://vovlive.vn/bup-sen-xanh-p7380.html</link>
-      <description><![CDATA[Tiểu thuyết "Búp sen xanh" của nhà văn Sơn Tùng tái hiện sinh động thời niên thiếu của chủ tịch Hồ Chí Minh, từ buổi cất tiếng khóc chào đời ở làng Hoàng Trù quê ngoại đến khi tạm biệt bến Nhà Rồng ra đi tìm đường cứu nước. Đây là tác phẩm đầy tâm huyết, được nhà văn dày công sưu tầm tư liệu và viết trong thời gian dài. Cuốn sách chia làm 3 phần: Thời thơ ấu, Thời niên thiếu, Tuổi hai mươi...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/bup-sen-xanh-p7380.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/08/19/vovlive.vn_vannghethieunhi_bupsenxanh2.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 19 Aug 2021 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>3/45 Búp sen xanh - Buổi 3: Ông ngoại qua đời</title>
-      <link>https://vovlive.vn/bup-sen-xanh-p7380.html</link>
-      <description><![CDATA[Tiểu thuyết "Búp sen xanh" của nhà văn Sơn Tùng tái hiện sinh động thời niên thiếu của chủ tịch Hồ Chí Minh, từ buổi cất tiếng khóc chào đời ở làng Hoàng Trù quê ngoại đến khi tạm biệt bến Nhà Rồng ra đi tìm đường cứu nước. Đây là tác phẩm đầy tâm huyết, được nhà văn dày công sưu tầm tư liệu và viết trong thời gian dài. Cuốn sách chia làm 3 phần: Thời thơ ấu, Thời niên thiếu, Tuổi hai mươi...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/bup-sen-xanh-p7380.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/08/19/vovlive.vn_vannghethieunhi_bupsenxanh3.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 19 Aug 2021 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>4/45 Búp sen xanh - Buổi 4: Trước kì thi hương</title>
-      <link>https://vovlive.vn/bup-sen-xanh-p7380.html</link>
-      <description><![CDATA[Tiểu thuyết "Búp sen xanh" của nhà văn Sơn Tùng tái hiện sinh động thời niên thiếu của chủ tịch Hồ Chí Minh, từ buổi cất tiếng khóc chào đời ở làng Hoàng Trù quê ngoại đến khi tạm biệt bến Nhà Rồng ra đi tìm đường cứu nước. Đây là tác phẩm đầy tâm huyết, được nhà văn dày công sưu tầm tư liệu và viết trong thời gian dài. Cuốn sách chia làm 3 phần: Thời thơ ấu, Thời niên thiếu, Tuổi hai mươi...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/bup-sen-xanh-p7380.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/08/19/vovlive.vn_vannghethieunhi_bupsenxanh4.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 19 Aug 2021 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>5/45 Búp sen xanh - Buổi 5: Cậu bé mồ côi</title>
-      <link>https://vovlive.vn/bup-sen-xanh-p7380.html</link>
-      <description><![CDATA[Tiểu thuyết "Búp sen xanh" của nhà văn Sơn Tùng tái hiện sinh động thời niên thiếu của chủ tịch Hồ Chí Minh, từ buổi cất tiếng khóc chào đời ở làng Hoàng Trù quê ngoại đến khi tạm biệt bến Nhà Rồng ra đi tìm đường cứu nước. Đây là tác phẩm đầy tâm huyết, được nhà văn dày công sưu tầm tư liệu và viết trong thời gian dài. Cuốn sách chia làm 3 phần: Thời thơ ấu, Thời niên thiếu, Tuổi hai mươi...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/bup-sen-xanh-p7380.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/08/25/vovlive.vn_vannghethieunhi_bupsenxanh5.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 25 Aug 2021 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>6/45 Búp sen xanh - Buổi 6: Người con nuôi hiếu thảo</title>
-      <link>https://vovlive.vn/bup-sen-xanh-p7380.html</link>
-      <description><![CDATA[Tiểu thuyết "Búp sen xanh" của nhà văn Sơn Tùng tái hiện sinh động thời niên thiếu của chủ tịch Hồ Chí Minh, từ buổi cất tiếng khóc chào đời ở làng Hoàng Trù quê ngoại đến khi tạm biệt bến Nhà Rồng ra đi tìm đường cứu nước. Đây là tác phẩm đầy tâm huyết, được nhà văn dày công sưu tầm tư liệu và viết trong thời gian dài. Cuốn sách chia làm 3 phần: Thời thơ ấu, Thời niên thiếu, Tuổi hai mươi...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/bup-sen-xanh-p7380.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/08/25/vovlive.vn_vannghethieunhi_bupsenxanh6.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 25 Aug 2021 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>7/45 Búp sen xanh - Buổi 7: Kì thi hương</title>
-      <link>https://vovlive.vn/bup-sen-xanh-p7380.html</link>
-      <description><![CDATA[Tiểu thuyết "Búp sen xanh" của nhà văn Sơn Tùng tái hiện sinh động thời niên thiếu của chủ tịch Hồ Chí Minh, từ buổi cất tiếng khóc chào đời ở làng Hoàng Trù quê ngoại đến khi tạm biệt bến Nhà Rồng ra đi tìm đường cứu nước. Đây là tác phẩm đầy tâm huyết, được nhà văn dày công sưu tầm tư liệu và viết trong thời gian dài. Cuốn sách chia làm 3 phần: Thời thơ ấu, Thời niên thiếu, Tuổi hai mươi...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/bup-sen-xanh-p7380.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/08/25/vovlive.vn_vannghethieunhi_bupsenxanh7.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 25 Aug 2021 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>8/45 Búp sen xanh - Buổi 8: Nỗi buồn thi hỏng</title>
-      <link>https://vovlive.vn/bup-sen-xanh-p7380.html</link>
-      <description><![CDATA[Tiểu thuyết "Búp sen xanh" của nhà văn Sơn Tùng tái hiện sinh động thời niên thiếu của chủ tịch Hồ Chí Minh, từ buổi cất tiếng khóc chào đời ở làng Hoàng Trù quê ngoại đến khi tạm biệt bến Nhà Rồng ra đi tìm đường cứu nước. Đây là tác phẩm đầy tâm huyết, được nhà văn dày công sưu tầm tư liệu và viết trong thời gian dài. Cuốn sách chia làm 3 phần: Thời thơ ấu, Thời niên thiếu, Tuổi hai mươi...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/bup-sen-xanh-p7380.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/08/31/vovlive.vn_vannghethieunhi_bupsenxanh8.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 31 Aug 2021 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>9/45 Búp sen xanh - Buổi 9: Trước chuyến đi xa</title>
-      <link>https://vovlive.vn/bup-sen-xanh-p7380.html</link>
-      <description><![CDATA[Tiểu thuyết "Búp sen xanh" của nhà văn Sơn Tùng tái hiện sinh động thời niên thiếu của chủ tịch Hồ Chí Minh, từ buổi cất tiếng khóc chào đời ở làng Hoàng Trù quê ngoại đến khi tạm biệt bến Nhà Rồng ra đi tìm đường cứu nước. Đây là tác phẩm đầy tâm huyết, được nhà văn dày công sưu tầm tư liệu và viết trong thời gian dài. Cuốn sách chia làm 3 phần: Thời thơ ấu, Thời niên thiếu, Tuổi hai mươi...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/bup-sen-xanh-p7380.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/08/31/vovlive.vn_vannghethieunhi_bupsenxanh9.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 31 Aug 2021 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>10/45 Búp sen xanh - Buổi 10: Đường tới kinh đô</title>
-      <link>https://vovlive.vn/bup-sen-xanh-p7380.html</link>
-      <description><![CDATA[Tiểu thuyết "Búp sen xanh" của nhà văn Sơn Tùng tái hiện sinh động thời niên thiếu của chủ tịch Hồ Chí Minh, từ buổi cất tiếng khóc chào đời ở làng Hoàng Trù quê ngoại đến khi tạm biệt bến Nhà Rồng ra đi tìm đường cứu nước. Đây là tác phẩm đầy tâm huyết, được nhà văn dày công sưu tầm tư liệu và viết trong thời gian dài. Cuốn sách chia làm 3 phần: Thời thơ ấu, Thời niên thiếu, Tuổi hai mươi...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/bup-sen-xanh-p7380.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/08/31/vovlive.vn_vannghethieunhi_bupsenxanh10.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 31 Aug 2021 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>11/45 Búp sen xanh - Buổi 11: Ngày đầu đến Huế</title>
-      <link>https://vovlive.vn/bup-sen-xanh-p7380.html</link>
-      <description><![CDATA[Tiểu thuyết "Búp sen xanh" của nhà văn Sơn Tùng tái hiện sinh động thời niên thiếu của chủ tịch Hồ Chí Minh, từ buổi cất tiếng khóc chào đời ở làng Hoàng Trù quê ngoại đến khi tạm biệt bến Nhà Rồng ra đi tìm đường cứu nước. Đây là tác phẩm đầy tâm huyết, được nhà văn dày công sưu tầm tư liệu và viết trong thời gian dài. Cuốn sách chia làm 3 phần: Thời thơ ấu, Thời niên thiếu, Tuổi hai mươi...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/bup-sen-xanh-p7380.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/09/08/vovlive.vn_vannghethieunhi_bupsenxanh11.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 08 Sep 2021 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>12/45 Búp sen xanh - Buổi 12: Những người bạn mới</title>
-      <link>https://vovlive.vn/bup-sen-xanh-p7380.html</link>
-      <description><![CDATA[Tiểu thuyết "Búp sen xanh" của nhà văn Sơn Tùng tái hiện sinh động thời niên thiếu của chủ tịch Hồ Chí Minh, từ buổi cất tiếng khóc chào đời ở làng Hoàng Trù quê ngoại đến khi tạm biệt bến Nhà Rồng ra đi tìm đường cứu nước. Đây là tác phẩm đầy tâm huyết, được nhà văn dày công sưu tầm tư liệu và viết trong thời gian dài. Cuốn sách chia làm 3 phần: Thời thơ ấu, Thời niên thiếu, Tuổi hai mươi...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/bup-sen-xanh-p7380.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/09/08/vovlive.vn_vannghethieunhi_bupsenxanh12.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 08 Sep 2021 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>13/45 Búp sen xanh - Buổi 13: Câu chuyện của vị khách quý</title>
-      <link>https://vovlive.vn/bup-sen-xanh-p7380.html</link>
-      <description><![CDATA[Tiểu thuyết "Búp sen xanh" của nhà văn Sơn Tùng tái hiện sinh động thời niên thiếu của chủ tịch Hồ Chí Minh, từ buổi cất tiếng khóc chào đời ở làng Hoàng Trù quê ngoại đến khi tạm biệt bến Nhà Rồng ra đi tìm đường cứu nước. Đây là tác phẩm đầy tâm huyết, được nhà văn dày công sưu tầm tư liệu và viết trong thời gian dài. Cuốn sách chia làm 3 phần: Thời thơ ấu, Thời niên thiếu, Tuổi hai mươi...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/bup-sen-xanh-p7380.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/09/08/vovlive.vn_vannghethieunhi_bupsenxanh13.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 08 Sep 2021 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>14/45 Búp sen xanh - Buổi 14: Những ngày bên mẹ</title>
-      <link>https://vovlive.vn/bup-sen-xanh-p7380.html</link>
-      <description><![CDATA[Tiểu thuyết "Búp sen xanh" của nhà văn Sơn Tùng tái hiện sinh động thời niên thiếu của chủ tịch Hồ Chí Minh, từ buổi cất tiếng khóc chào đời ở làng Hoàng Trù quê ngoại đến khi tạm biệt bến Nhà Rồng ra đi tìm đường cứu nước. Đây là tác phẩm đầy tâm huyết, được nhà văn dày công sưu tầm tư liệu và viết trong thời gian dài. Cuốn sách chia làm 3 phần: Thời thơ ấu, Thời niên thiếu, Tuổi hai mươi...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/bup-sen-xanh-p7380.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/09/16/vovlive.vn_vannghethieunhi_bupsenxanh14.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Sep 2021 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>15/45 Búp sen xanh - Buổi 15: Nỗi đau mất mẹ</title>
-      <link>https://vovlive.vn/bup-sen-xanh-p7380.html</link>
-      <description><![CDATA[Tiểu thuyết "Búp sen xanh" của nhà văn Sơn Tùng tái hiện sinh động thời niên thiếu của chủ tịch Hồ Chí Minh, từ buổi cất tiếng khóc chào đời ở làng Hoàng Trù quê ngoại đến khi tạm biệt bến Nhà Rồng ra đi tìm đường cứu nước. Đây là tác phẩm đầy tâm huyết, được nhà văn dày công sưu tầm tư liệu và viết trong thời gian dài. Cuốn sách chia làm 3 phần: Thời thơ ấu, Thời niên thiếu, Tuổi hai mươi...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/bup-sen-xanh-p7380.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/09/16/vovlive.vn_vannghethieunhi_bupsenxanh15.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Sep 2021 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>16/45 Búp sen xanh - Buổi 16: Tết đầu tiên vắng mẹ</title>
-      <link>https://vovlive.vn/bup-sen-xanh-p7380.html</link>
-      <description><![CDATA[Tiểu thuyết "Búp sen xanh" của nhà văn Sơn Tùng tái hiện sinh động thời niên thiếu của chủ tịch Hồ Chí Minh, từ buổi cất tiếng khóc chào đời ở làng Hoàng Trù quê ngoại đến khi tạm biệt bến Nhà Rồng ra đi tìm đường cứu nước. Đây là tác phẩm đầy tâm huyết, được nhà văn dày công sưu tầm tư liệu và viết trong thời gian dài. Cuốn sách chia làm 3 phần: Thời thơ ấu, Thời niên thiếu, Tuổi hai mươi...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/bup-sen-xanh-p7380.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/09/16/vovlive.vn_vannghethieunhi_bupsenxanh16.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Sep 2021 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>17/45 Búp sen xanh - Buổi 17: Vinh quy bái tổ</title>
-      <link>https://vovlive.vn/bup-sen-xanh-p7380.html</link>
-      <description><![CDATA[Tiểu thuyết "Búp sen xanh" của nhà văn Sơn Tùng tái hiện sinh động thời niên thiếu của chủ tịch Hồ Chí Minh, từ buổi cất tiếng khóc chào đời ở làng Hoàng Trù quê ngoại đến khi tạm biệt bến Nhà Rồng ra đi tìm đường cứu nước. Đây là tác phẩm đầy tâm huyết, được nhà văn dày công sưu tầm tư liệu và viết trong thời gian dài. Cuốn sách chia làm 3 phần: Thời thơ ấu, Thời niên thiếu, Tuổi hai mươi...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/bup-sen-xanh-p7380.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/09/23/vovlive.vn_vannghethieunhi_bupsenxanh17.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 23 Sep 2021 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>18/45 Búp sen xanh - Buổi 18: Trong ngôi nhà mới</title>
-      <link>https://vovlive.vn/bup-sen-xanh-p7380.html</link>
-      <description><![CDATA[Tiểu thuyết "Búp sen xanh" của nhà văn Sơn Tùng tái hiện sinh động thời niên thiếu của chủ tịch Hồ Chí Minh, từ buổi cất tiếng khóc chào đời ở làng Hoàng Trù quê ngoại đến khi tạm biệt bến Nhà Rồng ra đi tìm đường cứu nước. Đây là tác phẩm đầy tâm huyết, được nhà văn dày công sưu tầm tư liệu và viết trong thời gian dài. Cuốn sách chia làm 3 phần: Thời thơ ấu, Thời niên thiếu, Tuổi hai mươi...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/bup-sen-xanh-p7380.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/09/23/vovlive.vn_vannghethieunhi_bupsenxanh18.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 23 Sep 2021 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>19/45 Búp sen xanh - Buổi 19: Những ngày bên cha</title>
-      <link>https://vovlive.vn/bup-sen-xanh-p7380.html</link>
-      <description><![CDATA[Tiểu thuyết "Búp sen xanh" của nhà văn Sơn Tùng tái hiện sinh động thời niên thiếu của chủ tịch Hồ Chí Minh, từ buổi cất tiếng khóc chào đời ở làng Hoàng Trù quê ngoại đến khi tạm biệt bến Nhà Rồng ra đi tìm đường cứu nước. Đây là tác phẩm đầy tâm huyết, được nhà văn dày công sưu tầm tư liệu và viết trong thời gian dài. Cuốn sách chia làm 3 phần: Thời thơ ấu, Thời niên thiếu, Tuổi hai mươi...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/bup-sen-xanh-p7380.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/09/23/vovlive.vn_vannghethieunhi_bupsenxanh19.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 23 Sep 2021 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>20/45 Búp sen xanh - Buổi 20: Bà ngoại bệnh</title>
-      <link>https://vovlive.vn/bup-sen-xanh-p7380.html</link>
-      <description><![CDATA[Tiểu thuyết "Búp sen xanh" của nhà văn Sơn Tùng tái hiện sinh động thời niên thiếu của chủ tịch Hồ Chí Minh, từ buổi cất tiếng khóc chào đời ở làng Hoàng Trù quê ngoại đến khi tạm biệt bến Nhà Rồng ra đi tìm đường cứu nước. Đây là tác phẩm đầy tâm huyết, được nhà văn dày công sưu tầm tư liệu và viết trong thời gian dài. Cuốn sách chia làm 3 phần: Thời thơ ấu, Thời niên thiếu, Tuổi hai mươi...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/bup-sen-xanh-p7380.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/10/01/vovlive.vn_vannghethieunhi_bupsenxanh20.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 01 Oct 2021 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>21/45 Búp sen xanh - Buổi 21: Trước ngày trở lại Huế</title>
-      <link>https://vovlive.vn/bup-sen-xanh-p7380.html</link>
-      <description><![CDATA[Tiểu thuyết "Búp sen xanh" của nhà văn Sơn Tùng tái hiện sinh động thời niên thiếu của chủ tịch Hồ Chí Minh, từ buổi cất tiếng khóc chào đời ở làng Hoàng Trù quê ngoại đến khi tạm biệt bến Nhà Rồng ra đi tìm đường cứu nước. Đây là tác phẩm đầy tâm huyết, được nhà văn dày công sưu tầm tư liệu và viết trong thời gian dài. Cuốn sách chia làm 3 phần: Thời thơ ấu, Thời niên thiếu, Tuổi hai mươi...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/bup-sen-xanh-p7380.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/10/01/vovlive.vn_vannghethieunhi_bupsenxanh21.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 01 Oct 2021 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>22/45 Búp sen xanh - Buổi 22: Bịn rịn quê nhà</title>
-      <link>https://vovlive.vn/bup-sen-xanh-p7380.html</link>
-      <description><![CDATA[Tiểu thuyết "Búp sen xanh" của nhà văn Sơn Tùng tái hiện sinh động thời niên thiếu của chủ tịch Hồ Chí Minh, từ buổi cất tiếng khóc chào đời ở làng Hoàng Trù quê ngoại đến khi tạm biệt bến Nhà Rồng ra đi tìm đường cứu nước. Đây là tác phẩm đầy tâm huyết, được nhà văn dày công sưu tầm tư liệu và viết trong thời gian dài. Cuốn sách chia làm 3 phần: Thời thơ ấu, Thời niên thiếu, Tuổi hai mươi...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/bup-sen-xanh-p7380.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/10/01/vovlive.vn_vannghethieunhi_bupsenxanh22.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 01 Oct 2021 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>23/45 Búp sen xanh - Buổi 23: Trở lại kinh đô Huế</title>
-      <link>https://vovlive.vn/bup-sen-xanh-p7380.html</link>
-      <description><![CDATA[Tiểu thuyết "Búp sen xanh" của nhà văn Sơn Tùng tái hiện sinh động thời niên thiếu của chủ tịch Hồ Chí Minh, từ buổi cất tiếng khóc chào đời ở làng Hoàng Trù quê ngoại đến khi tạm biệt bến Nhà Rồng ra đi tìm đường cứu nước. Đây là tác phẩm đầy tâm huyết, được nhà văn dày công sưu tầm tư liệu và viết trong thời gian dài. Cuốn sách chia làm 3 phần: Thời thơ ấu, Thời niên thiếu, Tuổi hai mươi...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/bup-sen-xanh-p7380.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/10/05/vovlive.vn_vannghethieunhi_bupsenxanh23.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 05 Oct 2021 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>24/45 Búp sen xanh - Buổi 24: Bài học tiếng Pháp</title>
-      <link>https://vovlive.vn/bup-sen-xanh-p7380.html</link>
-      <description><![CDATA[Tiểu thuyết "Búp sen xanh" của nhà văn Sơn Tùng tái hiện sinh động thời niên thiếu của chủ tịch Hồ Chí Minh, từ buổi cất tiếng khóc chào đời ở làng Hoàng Trù quê ngoại đến khi tạm biệt bến Nhà Rồng ra đi tìm đường cứu nước. Đây là tác phẩm đầy tâm huyết, được nhà văn dày công sưu tầm tư liệu và viết trong thời gian dài. Cuốn sách chia làm 3 phần: Thời thơ ấu, Thời niên thiếu, Tuổi hai mươi...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/bup-sen-xanh-p7380.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/10/05/vovlive.vn_vannghethieunhi_bupsenxanh24.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 05 Oct 2021 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>25/45 Búp sen xanh - Buổi 25: Những người bạn của cha</title>
-      <link>https://vovlive.vn/bup-sen-xanh-p7380.html</link>
-      <description><![CDATA[Tiểu thuyết "Búp sen xanh" của nhà văn Sơn Tùng tái hiện sinh động thời niên thiếu của chủ tịch Hồ Chí Minh, từ buổi cất tiếng khóc chào đời ở làng Hoàng Trù quê ngoại đến khi tạm biệt bến Nhà Rồng ra đi tìm đường cứu nước. Đây là tác phẩm đầy tâm huyết, được nhà văn dày công sưu tầm tư liệu và viết trong thời gian dài. Cuốn sách chia làm 3 phần: Thời thơ ấu, Thời niên thiếu, Tuổi hai mươi...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/bup-sen-xanh-p7380.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/10/05/vovlive.vn_vannghethieunhi_bupsenxanh25.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 05 Oct 2021 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>26/45 Búp sen xanh - Buổi 26: Tuổi nhỏ trí lớn</title>
-      <link>https://vovlive.vn/bup-sen-xanh-p7380.html</link>
-      <description><![CDATA[Tiểu thuyết "Búp sen xanh" của nhà văn Sơn Tùng tái hiện sinh động thời niên thiếu của chủ tịch Hồ Chí Minh, từ buổi cất tiếng khóc chào đời ở làng Hoàng Trù quê ngoại đến khi tạm biệt bến Nhà Rồng ra đi tìm đường cứu nước. Đây là tác phẩm đầy tâm huyết, được nhà văn dày công sưu tầm tư liệu và viết trong thời gian dài. Cuốn sách chia làm 3 phần: Thời thơ ấu, Thời niên thiếu, Tuổi hai mươi...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/bup-sen-xanh-p7380.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/10/14/vovlive.vn_vannghethieunhi_bupsenxanh26.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 14 Oct 2021 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>27/45 Búp sen xanh - Buổi 27: Đức vua Thành Thái</title>
-      <link>https://vovlive.vn/bup-sen-xanh-p7380.html</link>
-      <description><![CDATA[Tiểu thuyết "Búp sen xanh" của nhà văn Sơn Tùng tái hiện sinh động thời niên thiếu của chủ tịch Hồ Chí Minh, từ buổi cất tiếng khóc chào đời ở làng Hoàng Trù quê ngoại đến khi tạm biệt bến Nhà Rồng ra đi tìm đường cứu nước. Đây là tác phẩm đầy tâm huyết, được nhà văn dày công sưu tầm tư liệu và viết trong thời gian dài. Cuốn sách chia làm 3 phần: Thời thơ ấu, Thời niên thiếu, Tuổi hai mươi...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/bup-sen-xanh-p7380.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/10/14/vovlive.vn_vannghethieunhi_bupsenxanh27.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 14 Oct 2021 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>28/45 Búp sen xanh - Buổi 28: Gia đình li tán</title>
-      <link>https://vovlive.vn/bup-sen-xanh-p7380.html</link>
-      <description><![CDATA[Tiểu thuyết "Búp sen xanh" của nhà văn Sơn Tùng tái hiện sinh động thời niên thiếu của chủ tịch Hồ Chí Minh, từ buổi cất tiếng khóc chào đời ở làng Hoàng Trù quê ngoại đến khi tạm biệt bến Nhà Rồng ra đi tìm đường cứu nước. Đây là tác phẩm đầy tâm huyết, được nhà văn dày công sưu tầm tư liệu và viết trong thời gian dài. Cuốn sách chia làm 3 phần: Thời thơ ấu, Thời niên thiếu, Tuổi hai mươi...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/bup-sen-xanh-p7380.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/10/14/vovlive.vn_vannghethieunhi_bupsenxanh28.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 14 Oct 2021 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>29/45 Búp sen xanh - Buổi 29: Cuộc biểu tình</title>
-      <link>https://vovlive.vn/bup-sen-xanh-p7380.html</link>
-      <description><![CDATA[Tiểu thuyết "Búp sen xanh" của nhà văn Sơn Tùng tái hiện sinh động thời niên thiếu của chủ tịch Hồ Chí Minh, từ buổi cất tiếng khóc chào đời ở làng Hoàng Trù quê ngoại đến khi tạm biệt bến Nhà Rồng ra đi tìm đường cứu nước. Đây là tác phẩm đầy tâm huyết, được nhà văn dày công sưu tầm tư liệu và viết trong thời gian dài. Cuốn sách chia làm 3 phần: Thời thơ ấu, Thời niên thiếu, Tuổi hai mươi...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/bup-sen-xanh-p7380.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/10/25/vovlive.vn_vannghethieunhi_bupsenxanh29.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 25 Oct 2021 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>30/45 Búp sen xanh - Buổi 30: Rời kinh đô Huế</title>
-      <link>https://vovlive.vn/bup-sen-xanh-p7380.html</link>
-      <description><![CDATA[Tiểu thuyết "Búp sen xanh" của nhà văn Sơn Tùng tái hiện sinh động thời niên thiếu của chủ tịch Hồ Chí Minh, từ buổi cất tiếng khóc chào đời ở làng Hoàng Trù quê ngoại đến khi tạm biệt bến Nhà Rồng ra đi tìm đường cứu nước. Đây là tác phẩm đầy tâm huyết, được nhà văn dày công sưu tầm tư liệu và viết trong thời gian dài. Cuốn sách chia làm 3 phần: Thời thơ ấu, Thời niên thiếu, Tuổi hai mươi...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/bup-sen-xanh-p7380.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/10/25/vovlive.vn_vannghethieunhi_bupsenxanh30.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 25 Oct 2021 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>31/45 Búp sen xanh - Buổi 31: Tìm cha</title>
-      <link>https://vovlive.vn/bup-sen-xanh-p7380.html</link>
-      <description><![CDATA[Tiểu thuyết "Búp sen xanh" của nhà văn Sơn Tùng tái hiện sinh động thời niên thiếu của chủ tịch Hồ Chí Minh, từ buổi cất tiếng khóc chào đời ở làng Hoàng Trù quê ngoại đến khi tạm biệt bến Nhà Rồng ra đi tìm đường cứu nước. Đây là tác phẩm đầy tâm huyết, được nhà văn dày công sưu tầm tư liệu và viết trong thời gian dài. Cuốn sách chia làm 3 phần: Thời thơ ấu, Thời niên thiếu, Tuổi hai mươi...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/bup-sen-xanh-p7380.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/10/25/vovlive.vn_vannghethieunhi_bupsenxanh31.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 25 Oct 2021 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>32/45 Búp sen xanh - Buổi 32: Lời cha dặn</title>
-      <link>https://vovlive.vn/bup-sen-xanh-p7380.html</link>
-      <description><![CDATA[Tiểu thuyết "Búp sen xanh" của nhà văn Sơn Tùng tái hiện sinh động thời niên thiếu của chủ tịch Hồ Chí Minh, từ buổi cất tiếng khóc chào đời ở làng Hoàng Trù quê ngoại đến khi tạm biệt bến Nhà Rồng ra đi tìm đường cứu nước. Đây là tác phẩm đầy tâm huyết, được nhà văn dày công sưu tầm tư liệu và viết trong thời gian dài. Cuốn sách chia làm 3 phần: Thời thơ ấu, Thời niên thiếu, Tuổi hai mươi...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/bup-sen-xanh-p7380.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/11/01/vovlive.vn_vannghethieunhi_bupsenxanh32.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 01 Nov 2021 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>33/45 Búp sen xanh - Buổi 33: Thầy giáo trẻ trường Dục Thanh</title>
-      <link>https://vovlive.vn/bup-sen-xanh-p7380.html</link>
-      <description><![CDATA[Tiểu thuyết "Búp sen xanh" của nhà văn Sơn Tùng tái hiện sinh động thời niên thiếu của chủ tịch Hồ Chí Minh, từ buổi cất tiếng khóc chào đời ở làng Hoàng Trù quê ngoại đến khi tạm biệt bến Nhà Rồng ra đi tìm đường cứu nước. Đây là tác phẩm đầy tâm huyết, được nhà văn dày công sưu tầm tư liệu và viết trong thời gian dài. Cuốn sách chia làm 3 phần: Thời thơ ấu, Thời niên thiếu, Tuổi hai mươi...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/bup-sen-xanh-p7380.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/11/01/vovlive.vn_vannghethieunhi_bupsenxanh33.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 01 Nov 2021 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>34/45 Búp sen xanh - Buổi 34: Được thư cha</title>
-      <link>https://vovlive.vn/bup-sen-xanh-p7380.html</link>
-      <description><![CDATA[Tiểu thuyết "Búp sen xanh" của nhà văn Sơn Tùng tái hiện sinh động thời niên thiếu của chủ tịch Hồ Chí Minh, từ buổi cất tiếng khóc chào đời ở làng Hoàng Trù quê ngoại đến khi tạm biệt bến Nhà Rồng ra đi tìm đường cứu nước. Đây là tác phẩm đầy tâm huyết, được nhà văn dày công sưu tầm tư liệu và viết trong thời gian dài. Cuốn sách chia làm 3 phần: Thời thơ ấu, Thời niên thiếu, Tuổi hai mươi...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/bup-sen-xanh-p7380.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/11/01/vovlive.vn_vannghethieunhi_bupsenxanh34.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 01 Nov 2021 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>35/45 Búp sen xanh - Buổi 35: Bên học trò thân yêu</title>
-      <link>https://vovlive.vn/bup-sen-xanh-p7380.html</link>
-      <description><![CDATA[Tiểu thuyết "Búp sen xanh" của nhà văn Sơn Tùng tái hiện sinh động thời niên thiếu của chủ tịch Hồ Chí Minh, từ buổi cất tiếng khóc chào đời ở làng Hoàng Trù quê ngoại đến khi tạm biệt bến Nhà Rồng ra đi tìm đường cứu nước. Đây là tác phẩm đầy tâm huyết, được nhà văn dày công sưu tầm tư liệu và viết trong thời gian dài. Cuốn sách chia làm 3 phần: Thời thơ ấu, Thời niên thiếu, Tuổi hai mươi...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/bup-sen-xanh-p7380.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/11/03/vovlive.vn_vannghethieunhi_bupsenxanh35.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 03 Nov 2021 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>36/45 Búp sen xanh - Buổi 36: Gặp lại người quen</title>
-      <link>https://vovlive.vn/bup-sen-xanh-p7380.html</link>
-      <description><![CDATA[Tiểu thuyết "Búp sen xanh" của nhà văn Sơn Tùng tái hiện sinh động thời niên thiếu của chủ tịch Hồ Chí Minh, từ buổi cất tiếng khóc chào đời ở làng Hoàng Trù quê ngoại đến khi tạm biệt bến Nhà Rồng ra đi tìm đường cứu nước. Đây là tác phẩm đầy tâm huyết, được nhà văn dày công sưu tầm tư liệu và viết trong thời gian dài. Cuốn sách chia làm 3 phần: Thời thơ ấu, Thời niên thiếu, Tuổi hai mươi...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/bup-sen-xanh-p7380.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/11/03/vovlive.vn_vannghethieunhi_bupsenxanh36.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 03 Nov 2021 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>37/45 Búp sen xanh - Buổi 37: Rời trường Dục Thanh</title>
-      <link>https://vovlive.vn/bup-sen-xanh-p7380.html</link>
-      <description><![CDATA[Tiểu thuyết "Búp sen xanh" của nhà văn Sơn Tùng tái hiện sinh động thời niên thiếu của chủ tịch Hồ Chí Minh, từ buổi cất tiếng khóc chào đời ở làng Hoàng Trù quê ngoại đến khi tạm biệt bến Nhà Rồng ra đi tìm đường cứu nước. Đây là tác phẩm đầy tâm huyết, được nhà văn dày công sưu tầm tư liệu và viết trong thời gian dài. Cuốn sách chia làm 3 phần: Thời thơ ấu, Thời niên thiếu, Tuổi hai mươi...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/bup-sen-xanh-p7380.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/11/03/vovlive.vn_vannghethieunhi_bupsenxanh37.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 03 Nov 2021 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>38/45 Búp sen xanh - Buổi 38: Cư dân xóm trọ</title>
-      <link>https://vovlive.vn/bup-sen-xanh-p7380.html</link>
-      <description><![CDATA[Tiểu thuyết "Búp sen xanh" của nhà văn Sơn Tùng tái hiện sinh động thời niên thiếu của chủ tịch Hồ Chí Minh, từ buổi cất tiếng khóc chào đời ở làng Hoàng Trù quê ngoại đến khi tạm biệt bến Nhà Rồng ra đi tìm đường cứu nước. Đây là tác phẩm đầy tâm huyết, được nhà văn dày công sưu tầm tư liệu và viết trong thời gian dài. Cuốn sách chia làm 3 phần: Thời thơ ấu, Thời niên thiếu, Tuổi hai mươi...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/bup-sen-xanh-p7380.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/11/15/vovlive.vn_vannghethieunhi_bupsenxanh38.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 15 Nov 2021 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>39/45 Búp sen xanh - Buổi 39: Bắt đầu đời thợ</title>
-      <link>https://vovlive.vn/bup-sen-xanh-p7380.html</link>
-      <description><![CDATA[Tiểu thuyết "Búp sen xanh" của nhà văn Sơn Tùng tái hiện sinh động thời niên thiếu của chủ tịch Hồ Chí Minh, từ buổi cất tiếng khóc chào đời ở làng Hoàng Trù quê ngoại đến khi tạm biệt bến Nhà Rồng ra đi tìm đường cứu nước. Đây là tác phẩm đầy tâm huyết, được nhà văn dày công sưu tầm tư liệu và viết trong thời gian dài. Cuốn sách chia làm 3 phần: Thời thơ ấu, Thời niên thiếu, Tuổi hai mươi...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/bup-sen-xanh-p7380.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/11/15/vovlive.vn_vannghethieunhi_bupsenxanh39.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 15 Nov 2021 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>40/45 Búp sen xanh - Buổi 40: Nhìn ra biển rộng</title>
-      <link>https://vovlive.vn/bup-sen-xanh-p7380.html</link>
-      <description><![CDATA[Tiểu thuyết "Búp sen xanh" của nhà văn Sơn Tùng tái hiện sinh động thời niên thiếu của chủ tịch Hồ Chí Minh, từ buổi cất tiếng khóc chào đời ở làng Hoàng Trù quê ngoại đến khi tạm biệt bến Nhà Rồng ra đi tìm đường cứu nước. Đây là tác phẩm đầy tâm huyết, được nhà văn dày công sưu tầm tư liệu và viết trong thời gian dài. Cuốn sách chia làm 3 phần: Thời thơ ấu, Thời niên thiếu, Tuổi hai mươi...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/bup-sen-xanh-p7380.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/11/15/vovlive.vn_vannghethieunhi_bupsenxanh40.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 15 Nov 2021 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>41/45 Búp sen xanh - Buổi 41: Những dự định ấp ủ</title>
-      <link>https://vovlive.vn/bup-sen-xanh-p7380.html</link>
-      <description><![CDATA[Tiểu thuyết "Búp sen xanh" của nhà văn Sơn Tùng tái hiện sinh động thời niên thiếu của chủ tịch Hồ Chí Minh, từ buổi cất tiếng khóc chào đời ở làng Hoàng Trù quê ngoại đến khi tạm biệt bến Nhà Rồng ra đi tìm đường cứu nước. Đây là tác phẩm đầy tâm huyết, được nhà văn dày công sưu tầm tư liệu và viết trong thời gian dài. Cuốn sách chia làm 3 phần: Thời thơ ấu, Thời niên thiếu, Tuổi hai mươi...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/bup-sen-xanh-p7380.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/11/22/vovlive.vn_vannghethieunhi_bupsenxanh41.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 22 Nov 2021 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>42/45 Búp sen xanh - Buổi 42: Lớp học của anh Ba</title>
-      <link>https://vovlive.vn/bup-sen-xanh-p7380.html</link>
-      <description><![CDATA[Tiểu thuyết "Búp sen xanh" của nhà văn Sơn Tùng tái hiện sinh động thời niên thiếu của chủ tịch Hồ Chí Minh, từ buổi cất tiếng khóc chào đời ở làng Hoàng Trù quê ngoại đến khi tạm biệt bến Nhà Rồng ra đi tìm đường cứu nước. Đây là tác phẩm đầy tâm huyết, được nhà văn dày công sưu tầm tư liệu và viết trong thời gian dài. Cuốn sách chia làm 3 phần: Thời thơ ấu, Thời niên thiếu, Tuổi hai mươi...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/bup-sen-xanh-p7380.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/11/22/vovlive.vn_vannghethieunhi_bupsenxanh42.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 22 Nov 2021 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>43/45 Búp sen xanh - Buổi 43: Gặp cha</title>
-      <link>https://vovlive.vn/bup-sen-xanh-p7380.html</link>
-      <description><![CDATA[Tiểu thuyết "Búp sen xanh" của nhà văn Sơn Tùng tái hiện sinh động thời niên thiếu của chủ tịch Hồ Chí Minh, từ buổi cất tiếng khóc chào đời ở làng Hoàng Trù quê ngoại đến khi tạm biệt bến Nhà Rồng ra đi tìm đường cứu nước. Đây là tác phẩm đầy tâm huyết, được nhà văn dày công sưu tầm tư liệu và viết trong thời gian dài. Cuốn sách chia làm 3 phần: Thời thơ ấu, Thời niên thiếu, Tuổi hai mươi...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/bup-sen-xanh-p7380.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/11/22/vovlive.vn_vannghethieunhi_bupsenxanh43.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 22 Nov 2021 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>44/45 Búp sen xanh - Buổi 44: Khát vọng lên đường</title>
-      <link>https://vovlive.vn/bup-sen-xanh-p7380.html</link>
-      <description><![CDATA[Tiểu thuyết "Búp sen xanh" của nhà văn Sơn Tùng tái hiện sinh động thời niên thiếu của chủ tịch Hồ Chí Minh, từ buổi cất tiếng khóc chào đời ở làng Hoàng Trù quê ngoại đến khi tạm biệt bến Nhà Rồng ra đi tìm đường cứu nước. Đây là tác phẩm đầy tâm huyết, được nhà văn dày công sưu tầm tư liệu và viết trong thời gian dài. Cuốn sách chia làm 3 phần: Thời thơ ấu, Thời niên thiếu, Tuổi hai mươi...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/bup-sen-xanh-p7380.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/11/24/vovlive.vn_vannghethieunhi_bupsenxanh44.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 24 Nov 2021 07:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>45/45 Búp sen xanh - Buổi cuối: Tạm biệt bến Nhà Rồng</title>
-      <link>https://vovlive.vn/bup-sen-xanh-p7380.html</link>
-      <description><![CDATA[Tiểu thuyết "Búp sen xanh" của nhà văn Sơn Tùng tái hiện sinh động thời niên thiếu của chủ tịch Hồ Chí Minh, từ buổi cất tiếng khóc chào đời ở làng Hoàng Trù quê ngoại đến khi tạm biệt bến Nhà Rồng ra đi tìm đường cứu nước. Đây là tác phẩm đầy tâm huyết, được nhà văn dày công sưu tầm tư liệu và viết trong thời gian dài. Cuốn sách chia làm 3 phần: Thời thơ ấu, Thời niên thiếu, Tuổi hai mươi...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/bup-sen-xanh-p7380.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2021/11/24/vovlive.vn_vannghethieunhi_bupsenxanh45.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 24 Nov 2021 07:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
