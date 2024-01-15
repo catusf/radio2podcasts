@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 11 Jan 2024 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jan 2024 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 11 Jan 2024 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 15 Jan 2024 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Lan tỏa cuộc vận động hiến giác mạc từ cách làm hay ở huyện Kim Sơn, tỉnh Ninh Bình</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Tại huyện Kim Sơn, tỉnh Ninh Bình, Bộ Y tế mới đây tổ chức lễ tôn vinh, khen thưởng những gia đình có người hiến tặng giác mạc từ năm 2020 đến nay. Đây là sự kiện đặc biệt trong bối cảnh nước ta hiện có hàng chục nghìn người bị mù do bệnh lý giác mạc nhưng số người hiến tặng món quà "cửa sổ tâm hồn" này còn rất khiêm tốn. Cần làm gì để lan tỏa cuộc vận động hiến giác mạc và thay đổi thực trạng vừa nêu?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2024/01/15/vovlive_sukienvabanluan_kim_son_ninh_binh.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 15 Jan 2024 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Ấn Độ tăng tốc trên đường đua khí thiên nhiên hóa lỏng (LNG)</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2024/01/04/vovlive_sukienvabanluan_nang_tam-san_pham_ocop.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 04 Jan 2024 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Thưởng tết 2024 - khi doanh nghiệp và lao động cộng đồng trách nhiệm</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Từ nhiều năm nay, tiền lương và tiền thưởng đã trở thành một nét văn hóa trong quan hệ lao động ở nước ta. Trong bối cảnh kinh tế - xã hội những tháng cuối năm 2023 tiếp tục khó khăn, không ít doanh nghiệp vẫn thiếu đơn hàng, do đó thưởng Tết 2024 tiếp tục trở thành bài toán khó đối với các doanh nghiệp. Mặc dù vậy, xác định thưởng Tết là một nét đẹp trong văn hóa doanh nghiệp, đồng thời để giữ chân và tri ân người lao động, hầu hết các doanh nghiệp đều nỗ lực để đảm bảo thực hiện thưởng Tết cho người lao động không thấp hơn năm trước.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2024/01/03/vovlive_sukienvabanluan_thuong-_tet_2024.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 03 Jan 2024 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
