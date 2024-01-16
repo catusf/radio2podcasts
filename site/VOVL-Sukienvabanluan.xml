@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 16 Jan 2024 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jan 2024 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 16 Jan 2024 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 15 Jan 2024 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,14 +23,6 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Thái Lan quyết tâm cải thiện tình trạng ô nhiễm không khí</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Nội các Thái Lan đầu tuần này đã tán thành dự luật mang tên “Đạo luật không khí sạch” nhằm giải quyết tình trạng ô nhiễm không khí tại quốc gia này. Sau bước đi của Nội các, Quốc hội Thái Lan đã bắt đầu phiên tranh luận về dự thảo luật này từ hôm qua. Nằm trong số các quốc gia có mức độ ô nhiễm không khí nghiêm trọng hàng năm với hai thành phố Chiang Mai và Bangkok thuộc nhóm thành phố ô nhiễm nhất thế giới, việc xây dựng riêng một đạo luật cho thấy quyết tâm của Thái Lan trong việc cải thiện tình trạng ô nhiễm không khí.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2024/01/16/vovlive_sukienvabanluan_thai_lan_quyet_tam_cai_thien_moi_truong_khong_khi_o_nhiem-.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 16 Jan 2024 19:00:00 +0700</pubDate>
-    </item>
     <item>
       <title>Lan tỏa cuộc vận động hiến giác mạc từ cách làm hay ở huyện Kim Sơn, tỉnh Ninh Bình</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -54,6 +46,14 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2024/01/10/vovlive_sukienvabanluan_thach_thuc_chinh_tri_va_kinh_te_voi_nuoc_my_khi_no_cong_cao_ky_luc.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 10 Jan 2024 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Nâng tầm sản phẩm OCOP để phát triển du lịch nông thôn</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Làng du lịch Mỹ Khánh ở huyện Phong Điền, TP Cần Thơ là đơn vị đầu tiên ở ĐBSCL được chứng nhận là sản phẩm OCOP du lịch 4 sao. Đây là bước đệm để nâng tầm các sản phẩm du lịch, góp phần phát triển kinh tế nông thôn. Từ đó, nâng tầm và lan tỏa du lịch Cần Thơ và khu vực ĐBSCL. Đồng thời, góp phần bảo tồn và phát huy giá trị văn hóa, ẩm thực dân gian truyền thống, từng bước xây dựng và gìn giữ thương hiệu của từng địa phương.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2024/01/04/vovlive_sukienvabanluan_nang_tam-san_pham_ocop.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 04 Jan 2024 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
