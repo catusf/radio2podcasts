@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 08 Jan 2024 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jan 2024 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 08 Jan 2024 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 15 Jan 2024 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,16 @@
     </itunes:owner>
     <itunes:subtitle>Thể thao 7 ngày</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Thethao7ngay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Chương trình thể thao 7 ngày 17 tháng 1 năm 2024</title>
+      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
+      <description><![CDATA[- Đội tuyển Việt Nam chuẩn bị bước vào tranh tài ở Asian Cup, nhưng đến lúc này niềm tin dành cho đội tuyển từ người hâm mô khá thấp. Điều này không có nghĩa đội tuyển Việt Nam dưới thời huấn luyện viên Philippe Troussier ít đi tính chiến đấu hay mất đi sự đoàn kết. Nguyên nhân có lẽ xuất phát từ thành tích của đội tuyển Việt Nam đang thua nhiều hơn thắng dưới thời HLV Philippe Troussier. Và đáng nói là lối chơi của đội tuyển Việt Nam đến thời điểm này chưa thực sự thuyết phục. Asian Cup 2023 tới đây sẽ là cơ hội để nhà cầm quân người Pháp thể hiện tài năng. 
+- Bắn cung, môn thể thao chỉ có trên màn ảnh nay đã trở nên gần gũi.
+- Những sự kiện lớn năm 2024 của Futsal Việt Nam.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2024/01/15/vovlive_thethao7ngay_chuongtrinhthethao7ngay14012024.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 15 Jan 2024 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Chương trình thể thao 7 ngày 07 tháng 01 năm 2024</title>
       <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
@@ -51,16 +61,6 @@
       <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2024/01/08/vovlive_thethao7ngay_chuongtrinhthethao7ngay24122023.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 08 Jan 2024 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chương trình thể thao 7 ngày 8 tháng 7 năm 2023</title>
-      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
-      <description><![CDATA[- Cuối cùng thời khắc lịch sử Quốc ca Việt Nam được vang lên và Quốc kỳ Viêt Nam được vang lên tại sân chơi FiFa World Cup nữ 2023 cũng sắp đến. Khó khăn thử thách trong lần đầu thi đấu quốc tế cực lớn, nhưng các nữ tuyển thủ của Việt Nam sẽ vào trận với tinh thần ý chí quyết tâm cao độ. Bởi sau lưng họ là cả triệu người hâm mộ đang dõi theo từng ngày từng giờ.
-- Những ưu điểm mà môn thể thao bơi lội mang lại cho chúng ta hàng ngày. 
-- Cung cấp một số thông tin cần quan tâm liên quan đến việc chạy bộ trong mùa hè sao được dáng mà không hỏng da...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2023/07/12/vovlive_thethao7ngay_chuongtrinhthethao7-ngay872023.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 12 Jul 2023 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
