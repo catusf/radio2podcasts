@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 11 Jan 2024 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jan 2024 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 11 Jan 2024 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 18 Jan 2024 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Tìm trong kho báu</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Timtrongkhobau.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Câu ca dao "Gió đưa cành trúc la đà…" có nguồn gốc từ Huế? 11/1/2024</title>
+      <title>Lời ca dao cho Huế 18/1/2024</title>
+      <link>http://vov6.vov.vn/tim-trong-kho-bau/loi-ca-dao-cho-hue-c54-37775.aspx</link>
+      <description><![CDATA[Huế là vùng đất có truyền thống lịch sử, chiều sâu văn hóa. Từng là Thủ phủ của Đàng Trong thời các chúa Nguyễn, rồi trở thành kinh đô đất nước dưới triều Tây Sơn và tiếp tục là kinh đô trong gần một thế kỷ rưỡi dưới triều Nguyễn, ca dao về xứ Huế cũng phong phú, đa dạng về nội dung, cảm xúc.]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/loi-ca-dao-cho-hue-c54-37775.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/bbt/2024_1/v2_182201_08h00_tim_trong_kho_bau_pl_18h30_181202414.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 18 Jan 2024 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Câu ca dao "Gió đưa cành trúc la đà…" có nguồn gốc từ Huế?  11/1/2024</title>
       <link>http://vov6.vov.vn/tim-trong-kho-bau/cau-ca-dao-gio-dua-canh-truc-la-da-co-nguon-goc-tu-hue-c54-37768.aspx</link>
       <description><![CDATA[Nhiều nhà nghiên cứu đã cất công tìm hiểu về các địa danh được đề cập tới trong bài ca dao "Gió đưa cành trúc la đà...", đặc biệt là địa danh Thọ Xương. Trong đó, những phân tích khoa học của Nhà nghiên cứu Tôn Thất Thọ xác tín hơn cả.]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/cau-ca-dao-gio-dua-canh-truc-la-da-co-nguon-goc-tu-hue-c54-37768.aspx</guid>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/chat-dan-gian-cua-bai-ca-dao-gio-dua-canh-truc-la-da-c54-37755.aspx</guid>
       <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/bbt/v2_04_0801_08h00_18h30_tim_trong_kho_bau_41202411.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 03 Jan 2024 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Ẩn dụ về con người Việt Nam qua ca dao về cây trúc, cây mai  28/12/2023</title>
-      <link>http://vov6.vov.vn/tim-trong-kho-bau/an-du-ve-con-nguoi-viet-nam-qua-ca-dao-ve-cay-truc-cay-mai-c54-37745.aspx</link>
-      <description><![CDATA[Người xưa thường mượn những hình ảnh thân thuộc, gần gũi để ký thác nỗi niềm, tâm sự. Trúc, mai là những hình ảnh quen thuộc của làng quê Việt và cũng xuất hiện rất nhiều lần trong ca dao. Tác giả dân gian nhắc đến trúc, mai; nhưng không phải để tả thực cây trúc cây mai, cũng không phải bàn chuyện trúc mai phong cảnh, mà mượn mai, trúc để nói về con người.]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/an-du-ve-con-nguoi-viet-nam-qua-ca-dao-ve-cay-truc-cay-mai-c54-37745.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/bbt/2023_12/v2_2812_08h00_18h30_tim_trong_kho_bau_moi_281220239.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 28 Dec 2023 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
