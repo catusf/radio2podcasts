@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 15 Jan 2024 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jan 2024 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 15 Jan 2024 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 24 Jan 2024 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,17 @@
     </itunes:owner>
     <itunes:subtitle>Thể thao 7 ngày</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Thethao7ngay.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Chương trình thể thao 7 ngày 21 tháng 01 năm 2024</title>
+      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
+      <description><![CDATA[- Phân tích về những điểm nhấn đáng chú ý trong trận đấu giữa tuyển Việt Nam và Indonesia, lượt trận thứ 2 vòng bảng  ASIAN Cup 2023. 
+- Thông tin liên quan đến việc vận động viên thể dục dụng cụ xin giải nghệ ở tuổi 20.
+- Câu lạc bộ AS Roma bất ngờ sa thải Hoxe Mourinho. Vì sao ngoại hạng Anh im ắng ở kỳ chuyển nhượng tháng 01? Phân tích của các chuyên gia lý giải việc các câu lạc bộ ngoại hạng Anh khá trầm lắng trong kỳ chuyển nhượng mùa đông này. 
+- Câu chuyện về Nghệ sĩ dương cầm và nghệ sĩ sân cỏ Aurelien Tchouamen, là tiền vệ chơi ở vị trí máy quét của Câu lạc bộ Real Madrid.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2024/01/24/vovlive_thethao7ngay_chuongtrinhthethao7ngay21012024.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 24 Jan 2024 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Chương trình thể thao 7 ngày 17 tháng 1 năm 2024</title>
       <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
@@ -50,16 +61,6 @@
 - Giải bóng đá thanh niên, sinh viên Việt Nam.]]></description>
       <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2024/01/08/vovlive_thethao7ngay_chuongtrinhthethao7ngay31212023.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 08 Jan 2024 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chương trình thể thao 7 ngày 24 tháng 12 năm 2023</title>
-      <link>https://vovlive.vn/the-thao-7-ngay-p160.html</link>
-      <description><![CDATA[- Năm 2023 qua đi, thể thao Việt Nam bước vào chu kỳ mới, những mục tiêu mới. Cùng điểm lại những dấu ấn tích cực của thể thao Việt Nam trong tháng cuối năm 2023, đồng thời nhìn lại những thành công, thất bại của các môn thể thao trọng điểm như bắn súng, điền kinh trong suốt một năm qua. 
-- Ghi nhận sức hút của môn thể thao cưỡi ngựa với giới trẻ.
-- Những nét đặc sắc của môn thể thao rowing máy.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/the-thao-7-ngay-p160.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2024/01/08/vovlive_thethao7ngay_chuongtrinhthethao7ngay24122023.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 08 Jan 2024 19:00:00 +0700</pubDate>
     </item>
   </channel>
