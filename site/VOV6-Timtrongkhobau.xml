@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 18 Jan 2024 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jan 2024 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 18 Jan 2024 19:00:00 +0700</pubDate>
+    <pubDate>Fri, 26 Jan 2024 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Tìm trong kho báu</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Timtrongkhobau.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Lời ca dao cho Huế 18/1/2024</title>
+      <title>Cảnh sắc thiên nhiên Huế trong ca dao 26/1/2024</title>
+      <link>http://vov6.vov.vn/tim-trong-kho-bau/canh-sac-thien-nhien-hue-trong-ca-dao-c54-37791.aspx</link>
+      <description><![CDATA[Ca dao về xứ Huế có nhiều câu đặc tả về cảnh sắc thiên nhiên các địa danh. Âm điệu của hầu hết những câu ca dao này là nhẹ nhàng, chuyển tải nỗi niềm tâm sự của con người cố đô đa sầu, đa cảm.]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/canh-sac-thien-nhien-hue-trong-ca-dao-c54-37791.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/bbt/v2_252901_08h00_tim_trong_kho_bau_pl_18h30_261202415.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 26 Jan 2024 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Lời ca dao cho Huế  18/1/2024</title>
       <link>http://vov6.vov.vn/tim-trong-kho-bau/loi-ca-dao-cho-hue-c54-37775.aspx</link>
       <description><![CDATA[Huế là vùng đất có truyền thống lịch sử, chiều sâu văn hóa. Từng là Thủ phủ của Đàng Trong thời các chúa Nguyễn, rồi trở thành kinh đô đất nước dưới triều Tây Sơn và tiếp tục là kinh đô trong gần một thế kỷ rưỡi dưới triều Nguyễn, ca dao về xứ Huế cũng phong phú, đa dạng về nội dung, cảm xúc.]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/loi-ca-dao-cho-hue-c54-37775.aspx</guid>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/cau-ca-dao-gio-dua-canh-truc-la-da-co-nguon-goc-tu-hue-c54-37768.aspx</guid>
       <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/bbt/v2_11_1501_08h00_tim_trong_kho_bau_pl_18h30_11120249.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 11 Jan 2024 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chất dân gian của bài ca dao "Gió đưa cành trúc la đà"  3/1/2024</title>
-      <link>http://vov6.vov.vn/tim-trong-kho-bau/chat-dan-gian-cua-bai-ca-dao-gio-dua-canh-truc-la-da-c54-37755.aspx</link>
-      <description><![CDATA[Nhiều bài ca dao các vùng miền mở đầu bằng mô – típ quen thuộc “Gió đưa”. Và mô – típ này cũng diễn tả, phát triển thành những hình ảnh câu chuyện, cảm xúc vô cùng phong phú, đa dạng. "Gió đưa cành trúc la đà" được xem là một trong số những bài ca dao đề tài thiên nhiên, phong cảnh phổ biến tới tận ngày nay.]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/chat-dan-gian-cua-bai-ca-dao-gio-dua-canh-truc-la-da-c54-37755.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/bbt/v2_04_0801_08h00_18h30_tim_trong_kho_bau_41202411.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 03 Jan 2024 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
