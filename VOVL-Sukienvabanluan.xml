@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 17 Jan 2024 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jan 2024 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 17 Jan 2024 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 29 Jan 2024 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Chiều cao trung bình thấp nhất thế giới: Nỗi trăn trở nhiều thế hệ của Indonesia</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Tạp chí Dân số thế giới vừa công bố khảo sát chiều cao trung bình của các nước cao nhất và thấp nhất thế giới năm 2023. Theo đó, người dân Hà Lan được ghi nhận có chiều cao trung bình cao nhất thế giới; trong khi đó ngược lại, người dân Indonesia có chiều cao trung bình thấp nhất thế giới. Vấn đề đang đặt ra với Indonesia là gì, và liệu có giải pháp cho thực trạng đáng buồn này?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2024/01/29/vovlive_sukienvabanluan_quoc_gia_co_chieu_cao_trung_binh_thap_nhat_the_gioi.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 29 Jan 2024 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Sức ép biểu tình buộc chính phủ Đức nhượng bộ về chính sách nông nghiệp</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2024/01/15/vovlive_sukienvabanluan_kim_son_ninh_binh.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 15 Jan 2024 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Ấn Độ tăng tốc trên đường đua khí thiên nhiên hóa lỏng (LNG)</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Mới đây, Công ty Nhà nước GAIL của Ấn Độ vừa ký hợp đồng nhập khẩu khí thiên nhiên hoá lỏng từ nhà cung cấp năng lượng Vitol - Tập đoàn kinh doanh năng lượng độc lập lớn hàng đầu thế giới có trụ sở tại Thụy Sĩ. Theo đó, GAIL sẽ mua 1 triệu tấn khí thiên nhiên hóa lỏng mỗi năm trong vòng 10 năm, bắt đầu từ năm 2026. Đây được đánh giá là bước đi thể hiện rõ nét chính sách năng lượng mới của Ấn Độ trong bối cảnh khu vực và toàn cầu đang đối diện các nguy cơ về an ninh năng lượng.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2024/01/11/vovlive_sukienvabanluan_an_do_tang_toc_tren_duong_dua_khi_thien_nhien_hoa_long.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 11 Jan 2024 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
