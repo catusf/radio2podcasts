@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 31 Jan 2024 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jan 2024 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 31 Jan 2024 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 29 Jan 2024 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,14 +23,6 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Triển vọng mục tiêu sớm trở thành nền kinh tế 5.000 tỷ USD của Ấn Độ</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Mới đây, các quan chức Ấn Độ một lần nữa khẳng định quyết tâm đầy tham vọng rằng nền kinh tế Ấn Độ sẽ đạt quy mô 5 nghìn tỷ USD trong năm tài chính 2024 -2025. Nhiều tổ chức tài chính quốc tế cũng đưa ra những dự báo rất lạc quan, cho rằng với tốc độ tăng trưởng như hiện nay, Ấn Độ thậm chí sẽ vươn lên nền kinh tế lớn thứ 2 châu Á và số 3 thế giới vào năm 2030. Tiềm năng và triển vọng mục tiêu đầy tham vọng này của Ấn Độ ra sao?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2024/01/31/vovlive_sukienvabanluan_trien_vong_muc_tieu_som_tro_thanh_nen_kinh_te_5000.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 31 Jan 2024 19:00:00 +0700</pubDate>
-    </item>
     <item>
       <title>Chiều cao trung bình thấp nhất thế giới: Nỗi trăn trở nhiều thế hệ của Indonesia</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -54,6 +46,14 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2024/01/16/vovlive_sukienvabanluan_thai_lan_quyet_tam_cai_thien_moi_truong_khong_khi_o_nhiem-.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 16 Jan 2024 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Lan tỏa cuộc vận động hiến giác mạc từ cách làm hay ở huyện Kim Sơn, tỉnh Ninh Bình</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Tại huyện Kim Sơn, tỉnh Ninh Bình, Bộ Y tế mới đây tổ chức lễ tôn vinh, khen thưởng những gia đình có người hiến tặng giác mạc từ năm 2020 đến nay. Đây là sự kiện đặc biệt trong bối cảnh nước ta hiện có hàng chục nghìn người bị mù do bệnh lý giác mạc nhưng số người hiến tặng món quà "cửa sổ tâm hồn" này còn rất khiêm tốn. Cần làm gì để lan tỏa cuộc vận động hiến giác mạc và thay đổi thực trạng vừa nêu?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2024/01/15/vovlive_sukienvabanluan_kim_son_ninh_binh.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 15 Jan 2024 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
