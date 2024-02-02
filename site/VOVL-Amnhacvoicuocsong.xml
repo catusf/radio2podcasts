@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 21 Jan 2024 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jan 2024 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 21 Jan 2024 19:00:00 +0700</pubDate>
+    <pubDate>Sun, 28 Jan 2024 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,15 @@
     </itunes:owner>
     <itunes:subtitle>Âm nhạc với cuộc sống</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Amnhacvoicuocsong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>“Xuân về trên chốt”: Món quà ý nghĩa dành cho những người linh biên phòng dịp tết đến xuân về</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[- Ca khúc “Xuân về trên chốt” được Thượng tá, Nhạc sĩ Xuân Đại hiện đang công tác tại Phòng Tuyên Huấn, Cục Chính trị Bộ đội Biên Phòng viết với tình cảm hướng về biên cương Tổ Quốc, với tinh thần tin yêu, trẻ trung, gần gũi, khỏe mạnh nhưng cũng không thiếu phần tình cảm ấm áp theo cảm xúc của những vần thơ mà tác giả, trung tá, nhà văn Phạm Vân Anh đã sáng tác. Ca khúc với âm hưởng dân gian vùng cao thể hiện rõ tinh thần lạc quan, yêu đời của những chiến sĩ đang thực hiện nhiệm vụ trên điểm chốt tiền tiêu…
+- Thưởng thức bài hát “Như hoa hướng dương” (Âm nhạc: Nhạc sĩ Tô Vũ, Lời thơ Hải Như) và tìm hiểu về hoàn cảnh ra đời của bài hát.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2024/01/29/vovlive_am_nhac_voi_cuoc_song_xuan_ve_tren-chot.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 28 Jan 2024 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>“Đảng chắp cánh lời ru”: Tình cảm da diết với Đảng Cộng sản Việt Nam được nhạc sĩ Đỗ Hoàng Linh gửi gắm trong hơi thở âm nhạc đương đại</title>
       <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
@@ -49,14 +58,6 @@
       <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2024/01/23/vovlive_am_nhac_voi_cuoc_song_nhac_si_do_hong_quan.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 07 Jan 2024 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Ký ức chiến thắng “Hà Nội - Điện Biên Phủ trên không” qua những tác phẩm âm nhạc</title>
-      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[Cách đây 51 năm thủ đô Hà Nội, Thành phố Hải Phòng và nhiều địa phương ở miền Bắc trải qua 12 ngày đêm không ngủ trong chiến dịch không kích hủy diệt của đế quốc Mỹ. Chiến thắng “Hà Nội - Điện Biên Phủ trên không” tạo bước ngoặt và đòn quyết định buộc Mỹ phải ký kết hiệp định Paris ngày 27/1/1973. Song hành với những chiến công đó là sự góp phần không nhỏ của lực lượng văn nghệ sĩ. Nhiều tác phẩm âm nhạc ra đời ngay trong thời điểm lửa rực sáng bầu trời Hà Nội qua làn sóng phát thanh Đài TNVN, góp phần cổ vũ động viên đồng bào chiến sĩ. Trong không khí kỷ niệm 51 năm chiến thắng “Hà Nội - Điện Biên Phủ trên không”, thưởng thức một số tác phẩm âm nhạc được viết trong những ngày tháng khói lửa của cuộc chiến: Hà Nội niềm tin và hy vọng (Nhạc sĩ Phan Nhân), Hà Nội những đêm không ngủ (Nhạc sĩ Phạm Tuyên), Hà Nội - Điện Biên Phủ (Nhạc sĩ Phạm Tuyên), Hà Nội chiến thắng (Nhạc sĩ Thanh Phúc), Em mãi tìm anh (Nhạc sĩ Vũ Việt Hùng)...]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2024/01/04/vovlive_am_nhac_voi_cuoc_song_51_nam_chien_thang_dien_bien_phu_tren_khong(1).mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 31 Dec 2023 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
