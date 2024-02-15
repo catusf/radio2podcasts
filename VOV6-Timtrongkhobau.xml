@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 01 Feb 2024 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 15 Feb 2024 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 01 Feb 2024 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 15 Feb 2024 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Tìm trong kho báu</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Timtrongkhobau.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Địa danh Huế trong ca dao 1/2/2024</title>
+      <title>Ca dao về ngày Tết Nguyên đán 15/2/2024</title>
+      <link>http://vov6.vov.vn/tim-trong-kho-bau/ca-dao-ve-ngay-tet-nguyen-dan-c54-37838.aspx</link>
+      <description><![CDATA[Từ xa xưa, trong tâm thức của mỗi người dân Việt Nam ta, bên cạnh tên gọi quen thuộc là Tết ta, Tết Cổ truyền, Tết Âm lịch, Tết Nguyên đán còn được gọi là Tết Cả, mở đầu một năm mới khoảnh khắc giao thoa đất trời có ý nghĩa vô cùng linh thiêng. Bởi thế mà kho tàng ca dao của dân tộc ta có rất nhiều câu ca nói về ngày Tết.]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/ca-dao-ve-ngay-tet-nguyen-dan-c54-37838.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_2/v2_081202_08h00_tim_trong_kho_bau_pl_18h30_152202415.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 15 Feb 2024 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Địa danh Huế trong ca dao  1/2/2024</title>
       <link>http://vov6.vov.vn/tim-trong-kho-bau/dia-danh-hue-trong-ca-dao-c54-37806.aspx</link>
       <description><![CDATA[Trong kho tàng ca dao của dân tộc ta, những câu ca ca ngợi quê hương, xứ sở chiếm số lượng khá nhiều. Riêng về mảng ca dao về xứ Huế, điều dễ nhận thấy là sự dày đặc các địa danh và tâm tình lắng đọng qua các sự kiện lịch sử.]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/dia-danh-hue-trong-ca-dao-c54-37806.aspx</guid>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/canh-sac-thien-nhien-hue-trong-ca-dao-c54-37791.aspx</guid>
       <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/bbt/v2_252901_08h00_tim_trong_kho_bau_pl_18h30_261202415.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 26 Jan 2024 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Lời ca dao cho Huế  18/1/2024</title>
-      <link>http://vov6.vov.vn/tim-trong-kho-bau/loi-ca-dao-cho-hue-c54-37775.aspx</link>
-      <description><![CDATA[Huế là vùng đất có truyền thống lịch sử, chiều sâu văn hóa. Từng là Thủ phủ của Đàng Trong thời các chúa Nguyễn, rồi trở thành kinh đô đất nước dưới triều Tây Sơn và tiếp tục là kinh đô trong gần một thế kỷ rưỡi dưới triều Nguyễn, ca dao về xứ Huế cũng phong phú, đa dạng về nội dung, cảm xúc.]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/loi-ca-dao-cho-hue-c54-37775.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/bbt/2024_1/v2_182201_08h00_tim_trong_kho_bau_pl_18h30_181202414.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 18 Jan 2024 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
