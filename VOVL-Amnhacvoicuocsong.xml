@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 11 Feb 2024 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jan 2024 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 11 Feb 2024 19:00:00 +0700</pubDate>
+    <pubDate>Sun, 28 Jan 2024 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,14 +23,6 @@
     </itunes:owner>
     <itunes:subtitle>Âm nhạc với cuộc sống</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Amnhacvoicuocsong.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Về địa danh Bắc Sơn trong âm hưởng của những tác phẩm âm nhạc</title>
-      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[Kỷ niệm 83 năm thành lập Đội du kích Bắc Sơn (14/2/1941-14/2/2024) trở lại những năm tháng hào hùng với Bắc Sơn qua những ca khúc: Hương hồi xứ Lạng (Ngô Quốc Tính), Bắc Sơn (Văn Cao), Về Bắc Sơn quê em (Nguyễn Văn Tân)…]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2024/02/15/vovlive_am_nhac_voi_cuoc_song_ve_bac_son.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 11 Feb 2024 19:00:00 +0700</pubDate>
-    </item>
     <item>
       <title>“Xuân về trên chốt”: Món quà ý nghĩa dành cho những người linh biên phòng dịp tết đến xuân về</title>
       <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
@@ -57,6 +49,15 @@
       <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2024/01/23/vovlive_am_nhac_voi_cuoc_song_hoa_moc_mien.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 14 Jan 2024 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Nhạc sĩ Đỗ Hồng Quân: Sáng tác về đề tài Quốc hội không chỉ là vận động kêu gọi, mà còn có ý nghĩa đánh dấu giai đoạn mới của Quốc hội Việt Nam…</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[- Kỷ niệm 45 năm ngày chiến thắng chiến tranh bảo vệ biên giới Tây Nam của Tổ quốc và cùng quân dân Campuchia chiến thắng chế độ diệt chủng (07/01/1979 - 07/01/2024), thưởng thức ca khúc “Anh lính tình nguyện và điệu múa Apsara” (nhạc sĩ Minh Quang) và tìm hiểu hoàn cảnh ra đời của tác phẩm…
+- Cách đây 78 năm, hưởng ứng lời hiệu triệu thiêng liêng của chủ tịch Hồ Chí Minh (06/01/1946) với tinh thần yêu nước nồng nàn và khí thế hào hùng của Cách mạng Tháng 8, công dân Việt Nam từ 18 tuổi trở lên trên khắp mọi miền Tổ quốc không phân biệt nam, nữ; giàu, nghèo, dân tộc, tôn giáo, chính kiến đã nô nức tham gia bầu cử đại biểu quốc hội lần đầu tiên. Thắng lợi của cuộc tổng tuyển cử ngày 06/01/1946 đã đánh dấu sự khai sinh Quốc hội nước Việt Nam dân chủ Cộng hòa (nay là nước Cộng hòa xã hội chủ nghĩa Việt Nam). Trong hành trang của lịch sử âm nhạc cách mạng Việt Nam, nhiều nhạc sĩ đã viết những sáng tác về đề tài Quốc hội cho thấy tinh thần trách nhiệm và sức sáng tạo dồi dào của các thế hệ nhạc sĩ Cách mạng. Cùng thưởng thức ca khúc Lời Bác sáng lòng người đại biểu nhân dân (nhạc sĩ Tuấn Khương), Bài ca Quốc hội Việt Nam (nhạc sĩ Đỗ Hồng Quân) …]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2024/01/23/vovlive_am_nhac_voi_cuoc_song_nhac_si_do_hong_quan.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 07 Jan 2024 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
