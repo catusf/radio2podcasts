@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 11 Feb 2024 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 18 Feb 2024 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 11 Feb 2024 19:00:00 +0700</pubDate>
+    <pubDate>Sun, 18 Feb 2024 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Âm nhạc với cuộc sống</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Amnhacvoicuocsong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Những ca khúc hay về mùa xuân</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[Cùng trở lại với mùa xuân thanh bình ấm no, hạnh phúc và tận hưởng những cung bậc cảm xúc của tình yêu đôi lứa hòa chung tình yêu đất nước mênh mang qua một số ca khúc:  Mùa xuân đầu tiên (Nhạc sĩ Văn Cao), Mùa xuân đến rồi đó (Nhạc sĩ Trần Chung), Mùa xuân làng lúa làng hoa (Nhạc sĩ Ngọc Khuê), Tiếng đàn mùa xuân (Nhạc sĩ Cao Việt Bắc, Lời thơ Lưu Trọng Lư),…]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2024/02/21/vovlive_am_nhac_voi_cuoc_song_nhung_ca_khuc_ve_mua_xuan.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 18 Feb 2024 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Về địa danh Bắc Sơn trong âm hưởng của những tác phẩm âm nhạc</title>
       <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
@@ -48,15 +56,6 @@
       <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2024/01/23/vovlive_am_nhac_voi_cuoc_song_do_hoang_linh.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 21 Jan 2024 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Hoa mộc miên: Giai điệu trữ tình về tình hữu nghị giữa hai nước Việt - Trung</title>
-      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[- Hướng tới 74 năm ngày thiết lập quan hệ ngoại giao giữa Việt Nam và Trung Quốc (18/01/1950-18/01/2024), thưởng thức ca khúc Hoa mộc miên (nhạc sĩ Huy Du) và lắng nghe những chia sẻ của nhạc sĩ về hoàn cảnh ra đời ca khúc.
-- Thưởng thức ca khúc Tây Bắc đó (nhạc sĩ Vũ Mạnh Cường) và lắng nghe những chia sẻ của nhạc sĩ về hoàn cảnh ra đời của ca khúc …]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2024/01/23/vovlive_am_nhac_voi_cuoc_song_hoa_moc_mien.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 14 Jan 2024 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
