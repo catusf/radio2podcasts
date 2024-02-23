@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 21 Feb 2024 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 22 Feb 2024 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 21 Feb 2024 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 22 Feb 2024 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Kỳ vọng kinh tế thành phố HCM tăng tốc</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[TP Hồ Chí Minh kết thúc tháng 1 với nhiều chỉ số kinh tế khả quan. Trong đó đáng chú ý là tổng mức bán lẻ hàng hóa và doanh thu dịch vụ tiêu dùng đạt hơn 103 nghìn tỷ đồng, tăng 1,1% so với tháng trước và tăng 24,4% so với cùng kỳ, hơn 3 nghìn 300 doanh nghiệp thành lập mới, chỉ số sản xuất toàn ngành công nghiệp trên địa bàn thành phố tháng 1 cũng tăng khá, với mức tăng 26,9% so với cùng kỳ... đây là tiền đề quan trọng, là động lực tạo đà triển khai thực hiện thắng lợi các mục tiêu, chỉ tiêu trong cả năm nay. Vậy đâu là những thuận lợi và rào cản nào thành phố cần vượt qua để kinh tế thành phố bứt tốc?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2024/02/22/vovlive_sukienvabanluan_ky_vong_kinh_te_thanh_pho_hcm_tang_toc.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 22 Feb 2024 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Trung Quốc thúc đẩy “nền kinh tế bạc”</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2024/01/29/vovlive_sukienvabanluan_quoc_gia_co_chieu_cao_trung_binh_thap_nhat_the_gioi.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 29 Jan 2024 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Sức ép biểu tình buộc chính phủ Đức nhượng bộ về chính sách nông nghiệp</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Sau khi tiến hành biểu tình tại nhiều địa phương gây ách tắc hệ thống đường cao tốc, những ngày qua, nông dân từ mọi miền nước Đức đã đưa hàng ngàn máy kéo, xe tải về thủ đô Berlin tham gia cuộc biểu tình quy mô lớn để phản đối kế hoạch của chính phủ nhằm cắt giảm trợ cấp nông nghiệp. Trước sức ép biểu tình quá lớn, chính phủ Đức đã đồng ý một số nhượng bộ, nhưng vẫn chưa đáp ứng được kỳ vọng của người nông dân. Vậy cơ hội nào cho sự thỏa hiệp giữa hai bên khi những người nông dân được thúc đẩy bởi những chính trị gia cực hữu, trong khi chính phủ cũng gặp khó với việc điều chỉnh ngân sách liên bang?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2024/01/17/vovlive_sukienvabanluan_suc-ep-bieu_tinh_buoc-chinh_phu_duc_nhuong_bo_ve_chinh_sach_nong-nghiep.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 17 Jan 2024 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
