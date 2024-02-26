@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 25 Feb 2024 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 18 Feb 2024 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 25 Feb 2024 19:00:00 +0700</pubDate>
+    <pubDate>Sun, 18 Feb 2024 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,15 +23,6 @@
     </itunes:owner>
     <itunes:subtitle>Âm nhạc với cuộc sống</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Amnhacvoicuocsong.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Những ca khúc tri ân "chiến sĩ áo trắng"</title>
-      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[- Kỷ niệm ngày Thầy thuốc Việt Nam (27/2/2024), thưởng thức bài hát “Bài ca người chiến sĩ áo trắng” (Sáng tác: Nhạc sĩ Hoàng Vân, Trình bày: NSND Tuyết Thanh và tốp nữ Đài TNVN)
-- Thưởng thức ca khúc “Hạnh phúc nghề y” (Sáng tác: Nhạc sĩ Nguyễn Thanh Thủy, Trình bày: ca sĩ Tùng Dương) và lắng nghe những chia sẻ của nhạc sĩ Nguyễn Thanh Thủy về hoàn cảnh ra đời của ca khúc này…]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2024/02/26/vovlive_am_nhac_voi_cuoc_song_ca_khuc_tri_an_ngay_thay_thuoc.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 25 Feb 2024 19:00:00 +0700</pubDate>
-    </item>
     <item>
       <title>Những ca khúc hay về mùa xuân</title>
       <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
@@ -56,6 +47,15 @@
       <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2024/01/29/vovlive_am_nhac_voi_cuoc_song_xuan_ve_tren-chot.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 28 Jan 2024 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>“Đảng chắp cánh lời ru”: Tình cảm da diết với Đảng Cộng sản Việt Nam được nhạc sĩ Đỗ Hoàng Linh gửi gắm trong hơi thở âm nhạc đương đại</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[- Hướng tới chào mừng ngày Đảng cộng sản Việt Nam (3/2/2024), gặp gỡ nhạc trẻ Đỗ Hoàng Linh, hội viên hội nhạc sĩ Việt Nam tìm hiểu về những cảm nhận của anh về đề tài ngợi ca Đảng cộng sản Việt Nam qua tác phẩm “Đảng chắp cánh lời ru”. 
+- Thưởng thức các ca khúc: Cuộc đời từng phút mong đợi ta (ca khúc đoạt giải 3 cuộc vận động sáng tác âm nhạc về đề tài công an nhân dân giai đoạn 2011-2015), và Chào xuân mới của nhạc sĩ Đỗ Hoàng Linh.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2024/01/23/vovlive_am_nhac_voi_cuoc_song_do_hoang_linh.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 21 Jan 2024 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
