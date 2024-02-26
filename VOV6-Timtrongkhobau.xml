@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 15 Feb 2024 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 26 Feb 2024 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 15 Feb 2024 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 26 Feb 2024 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Tìm trong kho báu</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Timtrongkhobau.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Ca dao về ngày Tết Nguyên đán 15/2/2024</title>
+      <title>Hình tượng rồng trong ca dao 26/2/2024</title>
+      <link>http://vov6.vov.vn/tim-trong-kho-bau/hinh-tuong-rong-trong-ca-dao-c54-37848.aspx</link>
+      <description><![CDATA[Bước ra từ thần thoại, rồng là một biểu tượng tôn nghiêm, cao quý rất được người thời xưa coi trọng. Bởi vậy, nhiều tác phẩm văn học dân gian nước ta đề cập tới biểu tượng rồng.]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/hinh-tuong-rong-trong-ca-dao-c54-37848.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_2/v2_22_2602_08h00_18h30_tim_trong_kho_bau_262202410.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 26 Feb 2024 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Ca dao về ngày Tết Nguyên đán  15/2/2024</title>
       <link>http://vov6.vov.vn/tim-trong-kho-bau/ca-dao-ve-ngay-tet-nguyen-dan-c54-37838.aspx</link>
       <description><![CDATA[Từ xa xưa, trong tâm thức của mỗi người dân Việt Nam ta, bên cạnh tên gọi quen thuộc là Tết ta, Tết Cổ truyền, Tết Âm lịch, Tết Nguyên đán còn được gọi là Tết Cả, mở đầu một năm mới khoảnh khắc giao thoa đất trời có ý nghĩa vô cùng linh thiêng. Bởi thế mà kho tàng ca dao của dân tộc ta có rất nhiều câu ca nói về ngày Tết.]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/ca-dao-ve-ngay-tet-nguyen-dan-c54-37838.aspx</guid>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/dia-danh-hue-trong-ca-dao-c54-37806.aspx</guid>
       <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/bbt/2024_2/v2_010502_08h00_tim_trong_kho_bau_pl_18h30_12202411.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 01 Feb 2024 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Cảnh sắc thiên nhiên Huế trong ca dao  26/1/2024</title>
-      <link>http://vov6.vov.vn/tim-trong-kho-bau/canh-sac-thien-nhien-hue-trong-ca-dao-c54-37791.aspx</link>
-      <description><![CDATA[Ca dao về xứ Huế có nhiều câu đặc tả về cảnh sắc thiên nhiên các địa danh. Âm điệu của hầu hết những câu ca dao này là nhẹ nhàng, chuyển tải nỗi niềm tâm sự của con người cố đô đa sầu, đa cảm.]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/canh-sac-thien-nhien-hue-trong-ca-dao-c54-37791.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/bbt/v2_252901_08h00_tim_trong_kho_bau_pl_18h30_261202415.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 26 Jan 2024 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
