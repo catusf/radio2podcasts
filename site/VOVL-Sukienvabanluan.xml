@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 29 Feb 2024 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 28 Feb 2024 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 29 Feb 2024 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 28 Feb 2024 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,14 +23,6 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Thái Lan hướng tới “trung tâm đa ngành bền vững toàn cầu”</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Thủ tướng Thái Lan Srettha Thavisin mới đây đã công bố “Tầm nhìn Thái Lan 2030” với mục tiêu đưa Thái Lan trở thành trung tâm công nghiệp toàn cầu, thúc đẩy nền kinh tế hướng tới một tương lai bền vững. Thủ tướng Srettha cũng thừa nhận rằng đây là một mục tiêu khá tham vọng, nhưng Thái Lan có những yếu tố thuận lợi về vị trí địa lý, tài nguyên thiên nhiên, cơ sở hạ tầng hoàn thiện và trên hết là tiềm năng vượt trội của người dân Thái Lan, từ đó có thể hiện thực hóa mục tiêu của tầm nhìn, đưa Thái Lan bước lên vị trí trung tâm của khu vực.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2024/02/29/vovlive_sukienvabanluan_thai_lan_huong_toi_trung_tam_da_nganh_ben_vung_toan_cau.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 29 Feb 2024 19:00:00 +0700</pubDate>
-    </item>
     <item>
       <title>Mục tiêu tham vọng của du lịch Lào trong năm 2024</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -54,6 +46,14 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2024/02/22/vovlive_sukienvabanluan_ky_vong_kinh_te_thanh_pho_hcm_tang_toc.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 22 Feb 2024 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Trung Quốc thúc đẩy “nền kinh tế bạc”</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Chính phủ Trung Quốc mới đây đã công bố quy chế hướng dẫn cụ thể nhằm thúc đẩy sự phát triển của “nền kinh tế bạc” (thuật ngữ để chỉ những ngành chăm sóc người cao tuổi) nhằm ứng phó với xu hướng già hoá, đồng thời tạo ra những động lực tăng trưởng kinh tế mới. Đây là văn bản chính sách đầu tiên dành riêng cho mô hình kinh tế này. Hiện quy mô “nền kinh tế bạc” của Trung Quốc là khoảng 7.000 tỷ nhân dân tệ, chiếm 6% tổng GDP và dự báo sẽ tăng lên khoảng 10% tổng GDP vào năm 2035. Vậy văn bản mới của Trung Quốc sẽ tạo nên sự khác biệt như thế nào trong phát triển “nền kinh tế bạc”?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2024/02/21/vovlive_sukienvabanluan_trung_quoc_thuc_day_nen_kinh_te_bac.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 21 Feb 2024 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
