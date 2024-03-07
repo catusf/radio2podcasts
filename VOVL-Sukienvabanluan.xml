@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 04 Mar 2024 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 07 Mar 2024 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 04 Mar 2024 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 07 Mar 2024 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Thực hư vụ rò rỉ băng ghi âm bí mật quân sự của Đức chấn động quan hệ Nga - phương Tây</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Những ngày qua, vụ rò rỉ băng ghi âm của giới chức quân sự Đức đang là tâm điểm dư luận tại châu Âu. Trong lúc tính xác thực của đoạn băng đang được điều tra làm rõ thì các bên đang liên tục cáo buộc, chỉ trích lẫn nhau. Thực hư câu chuyện này ra sao? Liệu sự cố này sẽ tác động ra sao trong bối cảnh các cuộc tranh luận về việc viện trợ cho Ukraine đang nóng lên ở châu Âu với nhiều quan điểm khác biệt.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2024/03/07/vovlive_sukienvabanluan_thuc_hu_ro_ri_bang_ghi_am_bi_mat_quan_su_cua_duc_chan_dong_quan_he_nga-_phuong_tay.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 07 Mar 2024 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Singapore độc quyền concert Taylor Swift ở Đông Nam Á - Giải mã chiến lược phát triển kinh tế từ các đêm nhạc triệu đô</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2024/02/28/vovlive_sukienvabanluan__muc_tieu_tham_vong_cua_du_lich_lao.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 28 Feb 2024 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Buộc Big Tech trả tiền cho tin tức: Báo chí thế giới thiết lập những quy tắc gì?</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Với sự phát triển nhanh và mạnh, các hãng công nghệ khổng lồ (thường được gọi là Big Tech) đang được cho là “đánh cắp” nội dung của báo chí truyền thống khiến nhiều quốc gia trên thế giới bắt đầu xây dựng khung pháp lý để giảm thiểu những ảnh hưởng này. Mới nhất, Indonesia vừa ban hành quy định buộc các “Big Tech” phải đàm phán và trả tiền nội dung cho các cơ quan báo chí của nước này. Tuy nhiên, việc định giá tin tức và các cuộc đàm phán với Google hoặc Facebook có lẽ không dễ dàng và mỗi quốc gia đang chuẩn bị cho các tình huống về quá trình đàm phán đối với các vấn đề này.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2024/02/26/vovlive_sukienvabanluan_buoc_-big-tecphai_tra_tien_cho_tin_tuc.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 26 Feb 2024 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
