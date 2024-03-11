@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 11 Mar 2024 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 07 Mar 2024 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 11 Mar 2024 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 07 Mar 2024 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,14 +23,6 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Nỗ lực "xanh hóa" môi trường khai thác mỏ</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Những năm qua, Tập đoàn Công nghiệp Than - Khoáng sản Việt Nam (TKV) đã cùng với tỉnh Quảng Ninh nỗ lực thực hiện chiến lược chuyển đổi phương thức phát triển từ “nâu” sang “xanh”, chủ động triển khai các giải pháp cấp bách và lâu dài nhằm xanh hóa môi trường sản xuất than. Thêm hàng trăm hecta cây xanh, sử dụng lại khai trường mỏ làm quỹ đất và hồ chứa nước phục vụ đời sống, sản xuất… tiếp tục là những định hướng của ngành than tại Quảng Ninh để “xanh hoá môi trường khai thác”, bảo vệ môi trường trong năm nay. Chiến lược này không những giúp cân bằng, hài hòa với sự phát triển kinh tế-xã hội của địa phương mà còn giúp ngành than bảo đảm các mục tiêu tăng trưởng bền vững.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2024/03/11/vovlive_sukienvabanluan_no_luc_xanh_hoa_moi_truong_khai_thac_mo.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 11 Mar 2024 19:00:00 +0700</pubDate>
-    </item>
     <item>
       <title>Thực hư vụ rò rỉ băng ghi âm bí mật quân sự của Đức chấn động quan hệ Nga - phương Tây</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -54,6 +46,14 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2024/02/29/vovlive_sukienvabanluan_thai_lan_huong_toi_trung_tam_da_nganh_ben_vung_toan_cau.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 29 Feb 2024 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Mục tiêu tham vọng của du lịch Lào trong năm 2024</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[“Năm nay Lào đảm nhiệm vai trò Chủ tịch ASEAN và cũng được chọn là Năm Du lịch Lào 2024. Đây là cơ hội để Lào khẳng định vai trò dẫn dắt Hiệp hội, đồng thời quảng bá hình ảnh, thu hút du khách đến với “đất nước triệu voi” – đây là tuyên bố của Phó Thủ tướng Lào Khaykhamphithoune tại Diễn đàn Du lịch ASEAN vừa diễn ra tại Thủ đô Viêng Chăn, Lào. Với một năm nhiều ý nghĩa như năm 2024, Lào đang đặt mục tiêu khá tham vọng là thu hút 4 triệu lượt khách quốc tế, tạo ra nguồn doanh thu khoảng 1,3 tỷ USD. Vậy Lào làm thế nào để thực hiện hóa mục tiêu này?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2024/02/28/vovlive_sukienvabanluan__muc_tieu_tham_vong_cua_du_lich_lao.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 28 Feb 2024 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
