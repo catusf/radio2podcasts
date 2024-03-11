@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 06 Mar 2024 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 11 Mar 2024 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 06 Mar 2024 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 11 Mar 2024 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Điểm hẹn văn nghệ</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Diemhenvannghe.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Bút ký “Chuyện một người phụ nữ khuyết tật”  6/3/2024</title>
+      <title>Vĩnh biệt nhà văn - nhà phê bình uyên bác Mai Quốc Liên 11/3/2024</title>
+      <link>http://vov6.vov.vn/diem-hen-van-nghe/vinh-biet-nha-van-nha-phe-binh-uyen-bac-mai-quoc-lien-c158-37873.aspx</link>
+      <description><![CDATA[Nhà văn, GS-TS Mai Quốc Liên, sinh ngày 8/6/1940, tại xã Điện Phước, huyện Điện Bàn, tỉnh Quảng Nam. Ông tốt nghiệp Khoa Ngữ Văn (Đại học Tổng hợp Hà Nội), Đại học Hán học, Cao học Hán học (Ủy ban Khoa học Xã hội Việt Nam). Nhà văn từng giữ các chức vụ: Giám đốc Trung tâm nghiên cứu Quốc học, Tổng Biên tập tạp chí Hồn Việt; Từng là Ủy viên Hội đồng Lý luận phê bình văn học nghệ thuật Trung ương, Phó Chủ tịch Hội đồng Lý luận phê bình-Hội Nhà văn Việt Nam, Ủy viên Hội đồng chức danh Giáo sư ngành Văn học. Nhà văn, GS-TS Mai Quốc Liên đã xuất bản hơn 10 tác phẩm, trong đó có nhiều tác phẩm tiểu luận, nghiên cứu, phê bình có giá trị như: Nhà thơ, cơn bão và những cánh hoa; Ngô Thì Nhậm trong nền văn học Tây Sơn; Dưới gốc me vườn Nguyễn Huệ; Trước đèn; Khảo luận Văn chiêu hồn; Nguyễn Du toàn tập; Phê bình và tranh luận văn học; Tạp luận; Nguyễn Trãi toàn tập; Cao Bá Quát toàn tập; Vị mặn biển đời…Nhà văn vừa từ biệt chúng ta vào một ngày cuối tháng Giêng. Bài viết “Nhà văn, nhà PBVH Mai Quốc Liên: Người coi trọng văn phong với ngòi bút uyên bác” của nhà văn Lê Quang Trang như nén tâm hương tưởng nhớ ông. Mời các bạn cùng nghe:]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/vinh-biet-nha-van-nha-phe-binh-uyen-bac-mai-quoc-lien-c158-37873.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/gs-ts_mai_quoc_lien_113202411.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 11 Mar 2024 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Bút ký “Chuyện một người phụ nữ khuyết tật”   6/3/2024</title>
       <link>http://vov6.vov.vn/diem-hen-van-nghe/but-ky-chuyen-mot-nguoi-phu-nu-khuyet-tat-c158-37869.aspx</link>
       <description><![CDATA[Không ít người sinh ra và lớn lên, hoặc là do chiến tranh, hoặc là do bẩm sinh, cơ thể không may bị khuyết tật, và luôn chịu áp lực trước định kiến của những người xung quanh. Trong hoàn cảnh đó, nhiều người tỏ ra bi quan, chán nản, phó mặc cho số phận. Nhưng cũng không hiếm người đã biết vượt qua hoàn cảnh bất trắc của bản thân, vươn lên trở thành người có ích cho gia đình, xã hội. Người phụ nữ trong bút ký “Chuyện một người phụ nữ khuyết tật” của nhà văn Nguyễn Ngọc Chiến mà các bạn nghe sau đây là một người như vậy]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/but-ky-chuyen-mot-nguoi-phu-nu-khuyet-tat-c158-37869.aspx</guid>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/but-ky-giua-nhung-mua-hoa-no-c158-37855.aspx</guid>
       <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_2/but_ky_giua_nhung_mua_hoa_no_29220249.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 29 Feb 2024 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>PGS-TS Bùi Hoài Sơn: "Ngôi chùa giờ đây không chỉ là một thiết chế tâm linh, mà còn là không gian sáng tạo..."  27/2/2024</title>
-      <link>http://vov6.vov.vn/diem-hen-van-nghe/pgs-ts-bui-hoai-son-ngoi-chua-gio-day-khong-chi-la-mot-thiet-che-tam-linh-ma-co-c158-37853.aspx</link>
-      <description><![CDATA[Trong chuyên mục Tiếng nói văn nghệ sĩ tuần trước, nhà văn-nhà báo Hoàng Anh Sướng đã giúp chúng ta hiểu về việc đi lễ chùa đầu năm thế nào cho đúng. Đi lễ chùa là để lòng tĩnh tâm, để tinh thần thanh nhẹ, và nhận về mình những tình cảm cùng bao điều khuyên nhủ. Còn đi lễ chùa mà cầu xin tiền bạc, công danh, chức tước, bổng lộc là điều không đúng và không nên làm. Cũng với tinh thần ấy, PGS-TS Bùi Hoài Sơn-Ủy viên Thường trực Ủy ban Văn hóa, Giáo dục của Quốc hội cho rằng, ngôi chùa giờ đây không chỉ là một thiết chế tâm linh, nơi con người không chỉ nương tựa về tinh thần, rèn luyện, thực hành về đạo đức, mà còn là nơi khai sáng trí tuệ và giải trí sáng tạo cho mọi lứa tuổi:]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/pgs-ts-bui-hoai-son-ngoi-chua-gio-day-khong-chi-la-mot-thiet-che-tam-linh-ma-co-c158-37853.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_2/tnvns_bui_hoai_son_27220249.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 27 Feb 2024 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
