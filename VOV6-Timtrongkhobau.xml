@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 07 Mar 2024 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 14 Mar 2024 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 07 Mar 2024 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 14 Mar 2024 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Tìm trong kho báu</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Timtrongkhobau.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Bi kịch của người phụ nữ trong ca dao 7/3/2024</title>
+      <title>Ca dao về lễ hội mùa Xuân xứ Bắc 14/3/2024</title>
+      <link>http://vov6.vov.vn/tim-trong-kho-bau/ca-dao-ve-le-hoi-mua-xuan-xu-bac-c54-37882.aspx</link>
+      <description><![CDATA[Trong tác phẩm “Việt Nam Cổ Văn Học Sử”, tác giả Nguyễn Đổng Chi đã viết: “Vào những ngày hội hoặc ngày tế thần, thường thường là mùa Xuân xa ngày cấy hái, trai gái các bộ lạc thôn ấp thường tụ tập lại một nơi, đặt ra lời ví hát ghẹo nhau, trong khi gảy đàn, thổi sáo, đánh trống, múa nhảy hay là bày các trò vui”. Nhiều đời nay, đến hẹn lại lên, dân gian khắc ghi những lễ hội truyền thống qua các câu ca dao quen thuộc.]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/ca-dao-ve-le-hoi-mua-xuan-xu-bac-c54-37882.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/v2_14_1803_08h00_18h30_tim_trong_kho_bau_14320249.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 14 Mar 2024 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Bi kịch của người phụ nữ trong ca dao  7/3/2024</title>
       <link>http://vov6.vov.vn/tim-trong-kho-bau/bi-kich-cua-nguoi-phu-nu-trong-ca-dao-c54-37871.aspx</link>
       <description><![CDATA[Ca dao được ví như cung đàn muôn điệu của người bình dân. Có thể nói bên cạnh những giai điệu tươi vui và rộn ràng, ta còn nghe vọng không ít những khúc nhạc buồn thương ai oán. Đó là nỗi lòng của những kiếp người bất hạnh, những cảnh đời éo le, trắc trở. Và ai oán, cảm thương hơn cả là những câu hát than thân của người phụ nữ. Từ đây, người đương thời và đời sau thấy được bi kịch của thân phận phụ nữ trong xã hội phong kiến.]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/bi-kich-cua-nguoi-phu-nu-trong-ca-dao-c54-37871.aspx</guid>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/le-hoi-mua-xuan-trong-ca-dao-c54-37862.aspx</guid>
       <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_3/v2_2902_0403_08h00_tim_trong_kho_bau_pl_18h30_1320249.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 01 Mar 2024 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Hình tượng rồng trong ca dao  26/2/2024</title>
-      <link>http://vov6.vov.vn/tim-trong-kho-bau/hinh-tuong-rong-trong-ca-dao-c54-37848.aspx</link>
-      <description><![CDATA[Bước ra từ thần thoại, rồng là một biểu tượng tôn nghiêm, cao quý rất được người thời xưa coi trọng. Bởi vậy, nhiều tác phẩm văn học dân gian nước ta đề cập tới biểu tượng rồng.]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/hinh-tuong-rong-trong-ca-dao-c54-37848.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_2/v2_22_2602_08h00_18h30_tim_trong_kho_bau_262202410.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 26 Feb 2024 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
