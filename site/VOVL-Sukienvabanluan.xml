@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 14 Mar 2024 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 15 Mar 2024 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 14 Mar 2024 19:00:00 +0700</pubDate>
+    <pubDate>Fri, 15 Mar 2024 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Kỳ vọng đột phá du lịch Điện Biên</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Chỉ còn 2 ngày nữa, lễ khai mạc năm Du lịch quốc gia - Điện Biên 2024 với chủ đề “Vinh quang Điện Biên Phủ - Trải nghiệm bất tận” sẽ diễn ra tại TP Điện Biên Phủ. Sự kiện được kỳ vọng là đòn bẩy quan trọng giúp kinh tế - xã hội nói chung và du lịch tỉnh Điện Biên nói riêng khởi sắc, tạo điều kiện thu hút các nguồn lực trong đầu tư phát triển, xây dựng các sản phẩm mới, hấp dẫn, góp phần tạo động lực phát triển kinh tế - xã hội của tỉnh trong năm 2024 và những năm tiếp theo. Vậy chính quyền tỉnh Điện Biên đã lên kế hoạch như thế nào để biến kỳ vọng đó từng bước thành hiện thực?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2024/03/15/vovlive_sukienvabanluan_ky_vong_dot_pha_du_lich_dien_bien.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 15 Mar 2024 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Phát triển điện gió: Lào muốn trở thành “bình ắc - quy xanh” của Đông Nam Á</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2024/03/11/vovlive_sukienvabanluan_no_luc_xanh_hoa_moi_truong_khai_thac_mo.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 11 Mar 2024 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Thực hư vụ rò rỉ băng ghi âm bí mật quân sự của Đức chấn động quan hệ Nga - phương Tây</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Những ngày qua, vụ rò rỉ băng ghi âm của giới chức quân sự Đức đang là tâm điểm dư luận tại châu Âu. Trong lúc tính xác thực của đoạn băng đang được điều tra làm rõ thì các bên đang liên tục cáo buộc, chỉ trích lẫn nhau. Thực hư câu chuyện này ra sao? Liệu sự cố này sẽ tác động ra sao trong bối cảnh các cuộc tranh luận về việc viện trợ cho Ukraine đang nóng lên ở châu Âu với nhiều quan điểm khác biệt.]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2024/03/07/vovlive_sukienvabanluan_thuc_hu_ro_ri_bang_ghi_am_bi_mat_quan_su_cua_duc_chan_dong_quan_he_nga-_phuong_tay.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 07 Mar 2024 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
