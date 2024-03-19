@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 03 Mar 2024 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 10 Mar 2024 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 03 Mar 2024 19:00:00 +0700</pubDate>
+    <pubDate>Sun, 10 Mar 2024 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Âm nhạc với cuộc sống</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Amnhacvoicuocsong.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>NSND Tuyết Thanh: “Tôi vui vì được nhận danh hiệu này và còn vui hơn khi đã năm, sáu chục năm rồi mà công chúng vẫn nhớ tiếng hát của tôi”</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[Ngày 22/6/2023 Chủ tịch nước đã ký Quyết định 724/QĐ-CTN phong danh hiệu Nghệ sĩ nhân dân lần thứ 10 cho 77 nghệ sĩ. Trong số các nghệ sĩ được phong tặng danh hiệu nghệ sĩ nhân dân lần này có Tuyết Thanh, nghệ sĩ hát lão thành của Đoàn ca nhạc Đài Tiếng nói Việt Nam (nay là Nhà hát Đài TNVN). Tên tuổi của bà được biết đến rộng rãi gắn liền với cuộc đấu tranh giải phóng lừng lẫy của dân tộc từ hơn 60 năm trước. Nhiều bài hát mà bà là người thể hiện đầu tiên, cho tới hôm nay vẫn còn là đỉnh cao, có bài vẫn chưa có ai vượt qua như Bến cảng quê hương tôi (Hồ Bắc), Miền Nam nhớ mãi ơn Người (Lưu Cầu & Trần Nhật Lam), Việt Bắc nhớ Bác Hồ (Phạm Tuyên), Người mẹ miền Nam tay không thắng giặc (Thuận Yến), Anh giải phóng quân ơi (Lê Việt Hòa), Bác Hồ sống mãi với Tây Nguyên (Lê Lôi), Người Châu Yên em bắn máy bay (Trọng Loan), Hoa sen Tháp Mười (Trương Quang Lục)…Lắng nghe những chia sẻ của NSND Tuyết Thanh sau khi nhận danh hiệu NSND…]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2024/03/15/vovlive_am_nhac_voi_cuoc_song_nsnd_tuyet_thanh.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 10 Mar 2024 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Trò chuyện cùng Trung tá, nhà văn Phạm Vân Anh, Cục Chính trị Bộ Tư lệnh Bộ đội Biên phòng về hình ảnh người lính biên phòng trong các sáng tác âm nhạc hiện nay</title>
       <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
@@ -48,14 +56,6 @@
       <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2024/02/21/vovlive_am_nhac_voi_cuoc_song_nhung_ca_khuc_ve_mua_xuan.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 18 Feb 2024 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Về địa danh Bắc Sơn trong âm hưởng của những tác phẩm âm nhạc</title>
-      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[Kỷ niệm 83 năm thành lập Đội du kích Bắc Sơn (14/2/1941-14/2/2024) trở lại những năm tháng hào hùng với Bắc Sơn qua những ca khúc: Hương hồi xứ Lạng (Ngô Quốc Tính), Bắc Sơn (Văn Cao), Về Bắc Sơn quê em (Nguyễn Văn Tân)…]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2024/02/15/vovlive_am_nhac_voi_cuoc_song_ve_bac_son.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 11 Feb 2024 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
