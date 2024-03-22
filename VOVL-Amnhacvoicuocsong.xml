@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 17 Mar 2024 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 10 Mar 2024 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 17 Mar 2024 19:00:00 +0700</pubDate>
+    <pubDate>Sun, 10 Mar 2024 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,15 +23,6 @@
     </itunes:owner>
     <itunes:subtitle>Âm nhạc với cuộc sống</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Amnhacvoicuocsong.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>“Trúc mọc bên đình”: Ca khúc lấy cảm hứng từ quan họ ngợi ca tình yêu đôi lứa, sự khát khao mong chờ hạnh phúc</title>
-      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
-      <description><![CDATA[- Thưởng thức ca khúc “Trúc mọc bên đình” (Tác giả: Nhạc sĩ, nhà nghiên cứu âm nhạc Nguyễn Quang Long; Trình bày: NSƯT Tân Nhàn) và lắng nghe những chia sẻ của nhạc sĩ Nguyễn Quang Long về bài hát.
-- Hướng tới kỷ niệm 70 năm chiến thắng Điện Biên Phủ, trở lại không gian chiến dịch qua ca khúc Trên đồi Him Lam (Nhạc sĩ Đỗ Nhuận) và lắng nghe những chia sẻ của nhạc sĩ Đỗ Hồng Quân - Chủ tịch Liên hiệp các Hội Văn học nghệ thuật đánh giá vai trò của âm nhạc giai đoạn chiến dịch Điện Biên Phủ có đóng góp to lớn với đồng bào chiến sĩ và nền âm nhạc Cách mạng Việt Nam…]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2024/03/19/vovlive_am_nhac_voi_cuoc_song_truc_moc_ben_dinh.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 17 Mar 2024 19:00:00 +0700</pubDate>
-    </item>
     <item>
       <title>NSND Tuyết Thanh: “Tôi vui vì được nhận danh hiệu này và còn vui hơn khi đã năm, sáu chục năm rồi mà công chúng vẫn nhớ tiếng hát của tôi”</title>
       <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
@@ -57,6 +48,14 @@
       <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2024/02/26/vovlive_am_nhac_voi_cuoc_song_ca_khuc_tri_an_ngay_thay_thuoc.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 25 Feb 2024 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Những ca khúc hay về mùa xuân</title>
+      <link>https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</link>
+      <description><![CDATA[Cùng trở lại với mùa xuân thanh bình ấm no, hạnh phúc và tận hưởng những cung bậc cảm xúc của tình yêu đôi lứa hòa chung tình yêu đất nước mênh mang qua một số ca khúc:  Mùa xuân đầu tiên (Nhạc sĩ Văn Cao), Mùa xuân đến rồi đó (Nhạc sĩ Trần Chung), Mùa xuân làng lúa làng hoa (Nhạc sĩ Ngọc Khuê), Tiếng đàn mùa xuân (Nhạc sĩ Cao Việt Bắc, Lời thơ Lưu Trọng Lư),…]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/am-nhac-voi-cuoc-song-p1055.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2024/02/21/vovlive_am_nhac_voi_cuoc_song_nhung_ca_khuc_ve_mua_xuan.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 18 Feb 2024 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
