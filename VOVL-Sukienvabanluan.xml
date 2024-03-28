@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 20 Mar 2024 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 27 Mar 2024 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 20 Mar 2024 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 27 Mar 2024 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,22 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Vì sao ba nước Nam Á là “điểm nóng nhất” của ô nhiễm không khí?</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Ô nhiễm không khí là vấn đề đáng báo động ở nhiều nước trên thế giới, nhất là ở Châu Á khi các nghiên cứu chỉ ra rằng vùng ô nhiễm nhất thế giới đang nằm ở Nam Á. Cụ thể Dữ liệu do IQAir - một tổ chức giám sát không khí của Thụy Sĩ - công bố mới đây cho thấy Pakistan vẫn là một trong ba quốc gia có nồng độ khói bụi cao nhất thế giới trong năm 2023. Trong khi đó, Bangladesh và Ấn Độ thay thế Cộng hòa Chad và Iran trong top ba quốc gia có nồng độ khói bụi cao hơn khoảng 15 lần so với mức khuyến nghị của Tổ chức Y tế Thế giới (WHO). Vì sao ba nước Nam Á là “điểm nóng nhất” của ô nhiễm không khí và do đâu những giải pháp chống ô nhiễm được thực hiện thời gian qua chưa mang lại hiệu quả.?]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2024/03/27/vovlive_sukienvabanluan_vi_sao_ba_nuoc_nam_a_la_diem_nong_nhat.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 27 Mar 2024 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Nâng cao giá trị bền vững cây lúa tại đồng bằng sông Cửu Long qua Đề án 01 triệu héc ta lúa các-bon thấp chất lượng cao</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Chính phủ đặt mục tiêu đến năm 2030 hình thành 01 triệu héc-ta vùng chuyên canh lúa chất lượng cao và phát thải thấp, thực hiện cam kết đưa phát thải ròng bằng 0 vào năm 2050; cắt giảm 30% lượng khí mê-tan vào năm 2030, đồng thời, tăng khả năng cạnh tranh của ngành hàng xuất khẩu chiến lược này. Trong bối cảnh nguồn lực còn hạn chế, điều kiện canh tác chưa đáp ứng, ngành nông nghiệp và các tỉnh khu vực đồng bằng sông Cửu Long cần phải đưa ra những giải pháp trước mắt và lâu dài như thế nào để đạt mục tiêu đề ra.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2024/03/27/vovlive_sukienvabanluan_dbscl.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 25 Mar 2024 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Thành phố Đà Nẵng sau 5 năm thực hiện Nghị quyết 43 của Bộ Chính trị - những thuận lợi và rào cản</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -38,22 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2024/03/19/vovlive_sukienvabanluan_an_toan_giao_thong_tren_cac_tuyen-cao_toc_goc_nhin-tu_trung_quoc.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 19 Mar 2024 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Kỳ vọng đột phá du lịch Điện Biên</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Chỉ còn 2 ngày nữa, lễ khai mạc năm Du lịch quốc gia - Điện Biên 2024 với chủ đề “Vinh quang Điện Biên Phủ - Trải nghiệm bất tận” sẽ diễn ra tại TP Điện Biên Phủ. Sự kiện được kỳ vọng là đòn bẩy quan trọng giúp kinh tế - xã hội nói chung và du lịch tỉnh Điện Biên nói riêng khởi sắc, tạo điều kiện thu hút các nguồn lực trong đầu tư phát triển, xây dựng các sản phẩm mới, hấp dẫn, góp phần tạo động lực phát triển kinh tế - xã hội của tỉnh trong năm 2024 và những năm tiếp theo. Vậy chính quyền tỉnh Điện Biên đã lên kế hoạch như thế nào để biến kỳ vọng đó từng bước thành hiện thực?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2024/03/15/vovlive_sukienvabanluan_ky_vong_dot_pha_du_lich_dien_bien.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 15 Mar 2024 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Phát triển điện gió: Lào muốn trở thành “bình ắc - quy xanh” của Đông Nam Á</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Điện được coi là nguồn thu lớn của Lào, đặc biệt là thông qua xuất khẩu sang các nước láng giềng và các nước ASEAN như Thái Lan, Việt Nam, Campuchia, Malaysia và Myanmar. Nằm trong xu hướng phát triển năng lượng sạch, Lào cũng đang chú trọng phát triển năng lượng tái tạo nhằm phục vụ nhu cầu trong nước, thậm chí là xuất khẩu với mục tiêu trở thành “bình ắc-quy xanh” của khu vực Đông Nam Á. Kế hoạch này của Lào đang được triển khai đến đâu và tính khả thi ở mức nào?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2024/03/14/vovlive_sukienvabanluan_-phat_trien_dien_gio_lao_muon_tro_thanh_binh_acquy_xanh.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 14 Mar 2024 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
