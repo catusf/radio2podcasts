@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 27 Mar 2024 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 29 Mar 2024 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 27 Mar 2024 19:00:00 +0700</pubDate>
+    <pubDate>Fri, 29 Mar 2024 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -23,6 +23,14 @@
     </itunes:owner>
     <itunes:subtitle>Sự kiện và bàn luận</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOVL-Sukienvabanluan.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Vượt Bắc Kinh, thành phố Mumbai trở thành "thủ đô tỷ phú" mới của châu Á</title>
+      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
+      <description><![CDATA[Theo danh sách những người giàu nhất trên thế giới do Viện nghiên cứu Hurun có trụ sở tại Thượng Hải, Trung Quốc vừa công bố, trung tâm tài chính Mumbai của Ấn Độ đã lần đầu tiên vượt qua thủ đô Bắc Kinh của Trung Quốc để rở thành “thủ đô tỷ phú” của châu Á. Mumbai từ lâu đã là trung tâm kinh tế, văn hóa của Ấn Độ và luôn nằm trong nhóm những thành phố giàu có nhất thế giới, nhưng việc lần đầu tiên vượt qua Bắc Kinh về số lượng tỷ phú vẫn là một dấu mốc lớn với Mumbai – không chỉ về mặt danh tiếng mà còn là những cơ hội phát triển kinh tế thực chất phía sau.]]></description>
+      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
+      <enclosure url="https://cdn.vovlive.vn/audios/2024/03/29/vovlive_sukienvabanluan_vuot_bac_kinh_thanh_pho_mumbai_tro_thanh_thu_do_ty_phu.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 29 Mar 2024 19:00:00 +0700</pubDate>
+    </item>
     <item>
       <title>Vì sao ba nước Nam Á là “điểm nóng nhất” của ô nhiễm không khí?</title>
       <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
       <enclosure url="https://cdn.vovlive.vn/audios/2024/03/20/vovlive_sukienvabanluan_thanh_pho_da_nang_sau_5_nam_thuc_hien_nghi_quyet_43.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 20 Mar 2024 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>An toàn giao thông trên các tuyến cao tốc: Góc nhìn từ Trung Quốc</title>
-      <link>https://vovlive.vn/su-kien-va-ban-luan-p194.html</link>
-      <description><![CDATA[Thời gian gần đây, nước ta đã xảy ra một số vụ tai nạn giao thông với những hậu quả nghiêm trọng, đặc biệt là trên các tuyến đường cao tốc. Thực trạng này một lần nữa gióng lên hồi chuông cảnh báo về những bất cập gây mất an toàn giao thông. Theo các chuyên gia, cơ sở hạ tầng giao thông, luật pháp và ý thức của người tham gia giao thông là ba yếu tố quan trọng quyết định đến vấn đề đảm bảo an toàn giao thông. Nhìn sang các quốc gia có hệ thống giao thông đồng bộ và hiện đại, những yếu tố vừa nêu được triển khai như thế nào và chúng ta có thể rút ra bài học gì?]]></description>
-      <guid isPermaLink="false">https://vovlive.vn/su-kien-va-ban-luan-p194.html</guid>
-      <enclosure url="https://cdn.vovlive.vn/audios/2024/03/19/vovlive_sukienvabanluan_an_toan_giao_thong_tren_cac_tuyen-cao_toc_goc_nhin-tu_trung_quoc.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 19 Mar 2024 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
