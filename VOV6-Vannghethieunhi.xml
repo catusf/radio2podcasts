@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 27 Mar 2024 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 30 Mar 2024 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 27 Mar 2024 19:00:00 +0700</pubDate>
+    <pubDate>Sat, 30 Mar 2024 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Văn nghệ thiếu nhi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Vannghethieunhi.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Ngàn lời sử xanh - những câu thơ ấm tình đất nước  27/3/2024</title>
+      <title>Khám phá thế giới của âm nhạc  30/3/2024</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/kham-pha-the-gioi-cua-am-nhac-c44-37932.aspx</link>
+      <description><![CDATA[Năm 1952, John Cage (1912-1992) viết bản nhạc 4’33’’, người biểu diễn phải yên lặng tuyệt đối suốt 4 phút 33 giây. Thính giả trong khán phòng phải lắng nghe sự im lặng như thể đó là một tiết mục âm nhạc. Đây được coi là một trong những nhạc phẩm quan trọng nhất thế kỉ XX, bởi nó khiến ta đặt ra câu hỏi: “Âm nhạc là gì?”. Chim chóc không chỉ cất tiếng ca cho thoả niềm vui như ta thích nghĩ. Chúng tạo âm thanh để báo vị trí, khoe mẽ, thu hút bạn tình, hoặc cảnh báo nguy hiểm đang tới. Ngược lại, loài người thực sự tạo ra âm nhạc – hay sáng tác – chỉ để thoả niềm vui? Rất nhiều thông tin thú vị mà chúng ta gặp trong cuốn sách Lịch sử âm nhạc dành cho trẻ em... (Văn nghệ thiếu nhi 27/03/2024)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/kham-pha-the-gioi-cua-am-nhac-c44-37932.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_3/v2_2703_10h4518h15_van_nghe_thieu_nhi_303202418.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 30 Mar 2024 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Ngàn lời sử xanh - những câu thơ ấm tình đất nước   27/3/2024</title>
       <link>http://vov6.vov.vn/van-nghe-thieu-nhi/ngan-loi-su-xanh-nhung-cau-tho-am-tinh-dat-nuoc-c44-37930.aspx</link>
       <description><![CDATA[“Ngàn lời sử xanh” là sáng tác của nhà thơ Lữ Mai  được chọn giới thiệu trong chương trình Tiếng Việt lớp 5, bộ sách Chân trời sáng tạo. Bài thơ giới thiệu những địa chỉ lịch sử trên mảnh đất Thủ đô ngàn năm văn hiến, thể hiện lòng tự hào, tự tôn dân tộc. Những hình ảnh gần gũi được gợi tả chân thực, giàu cảm xúc... (Văn nghệ thiếu nhi 25/03/2024)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/ngan-loi-su-xanh-nhung-cau-tho-am-tinh-dat-nuoc-c44-37930.aspx</guid>
@@ -37,14 +45,6 @@
       <description><![CDATA[Tới mùa hè, cả gia đình vui mừng khi mắt cậu bình phục hoàn toàn. Thế nhưng chỉ sau một cơn sốt do bị nhiễm mưa, cậu lại tái phát bệnh cũ. Cậu tiếp tục uống ba thang thuốc nam với hy vọng khỏi bệnh để đi học. Nhưng lần này thì mắt cậu đã  không nhìn thấy gì nữa... (Văn nghệ thiếu nhi 24/03/2024)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-mat-troi-luon-ben-toi-buoi-thu-muoi-mot-suy-sup-c44-37929.aspx</guid>
       <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_3/v2_2403_10h4518h15_van_nghe_thieu_nhi_263202422.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 26 Mar 2024 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đọc truyện "Mặt trời luôn bên tôi" - Buổi thứ mười - Ánh sáng trở lại   26/3/2024</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-mat-troi-luon-ben-toi-buoi-thu-muoi-anh-sang-tro-lai-c44-37928.aspx</link>
-      <description><![CDATA[Cậu bé rất buồn khi phải nghỉ học vì mắt kém, buồn khi trẻ con trong xóm không cho chơi cùng. Cậu sợ hãi nghĩ tới việc mình sẽ sống trong bóng tối. Gia đình đưa cậu về quê nội để chữa bệnh bằng thuốc Nam. Uống được mấy thang thuốc, ông bà và bố mẹ rất vui mừng khi thấy mắt cậu được cải thiện rõ rệt. Đến mùa hè thì mắt cậu bình phục hoàn toàn. Không bị cha cấm đọc sách, cậu bé đọc lại hết cả tủ sách để bù lại những ngày bị bệnh... (Văn nghệ thiếu nhi 23/03/2024)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-mat-troi-luon-ben-toi-buoi-thu-muoi-anh-sang-tro-lai-c44-37928.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_3/v2_2303_10h4518h15_van_nghe_thieu_nhi_263202422.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 26 Mar 2024 19:00:00 +0700</pubDate>
     </item>
   </channel>
