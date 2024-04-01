@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 30 Mar 2024 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2024 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 30 Mar 2024 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 01 Apr 2024 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,16 @@
     <itunes:subtitle>Kể chuyện và hát ru cho bé</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Kechuyenvahatruchobe.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Chuyện về chàng Tiều A Lé (Phần 2) 30/3/2024</title>
+      <title>Chàng Giăng Bị Thịt 1/4/2024</title>
+      <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/chang-giang-bi-thit-c43-37934.aspx</link>
+      <description><![CDATA[Xưa kia trong một lâu đài cổ có ba anh em trai. Người em trai út tên là Giăng Bị Thịt thường bị  hai người anh của
+mình chế giễu và coi thường. Vào một lần nọ, ba anh em cùng lên đường để tham gia thi tài kén rể của công chúa trong vùng... (Kể chuyện và hát ru 29/03/2024)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/chang-giang-bi-thit-c43-37934.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_4/v2_293003_21h45_ke_chuyen_hat_ru_1420249.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 01 Apr 2024 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Chuyện về chàng Tiều A Lé (Phần 2)  30/3/2024</title>
       <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/chuyen-ve-chang-tieu-a-le-phan-2-c43-37933.aspx</link>
       <description><![CDATA[Chiếc bè chở Tiều A Lé trôi trên sông dạt vào làng do một A Nha giàu có cai quản. A Nha quyết xua đuổi Tiều A Lé. Lạ thay, chiếc bè cứ trôi đi rồi lại ngược dòng trở về. Nghe lệnh A Nha, dân làng không ai dám giúp đỡ Tiều A Lé, chỉ có con gái út của A Nha hiền lành, tốt bụng, lén mang cơm cho Tiều A Lé ăn... (Kể chuyện và hát ru 26/03/2024)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/chuyen-ve-chang-tieu-a-le-phan-2-c43-37933.aspx</guid>
@@ -38,14 +47,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/chuyen-ve-chang-tieu-a-le-phan-1-c43-37931.aspx</guid>
       <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_3/v2_252703_21h45_ke_chuyen_hat_ru_293202413.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 29 Mar 2024 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Lời mẹ dặn   23/3/2024</title>
-      <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/loi-me-dan-c43-37918.aspx</link>
-      <description><![CDATA[Tình mẫu tử luôn là điều thiêng liêng trong cuộc đời. Đây cũng là nguồn cảm hứng bất tận trong văn chương nghệ thuật. Hôm nay, mời các bé nghe câu chuyện về tình mẫu tử thông qua tác phẩm “Lời dặn của người mẹ”. Từ lời dạy của mẹ mà cậu bé trong truyện đã hiện thực hóa ước mơ của mình. Cậu đã thể hiện được ý chí kiên trì cùng tinh thần vượt khó để bước tới thành công... (Kể chuyện và hát ru 22/03/2024)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/loi-me-dan-c43-37918.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_3/v2_2203_21h45_ke_chuyen_va_hat_ru_233202415.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 23 Mar 2024 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
