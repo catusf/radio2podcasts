@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 21 Mar 2024 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 03 Apr 2024 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 21 Mar 2024 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 03 Apr 2024 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Điểm hẹn văn nghệ</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Diemhenvannghe.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Con người và tự nhiên trong văn xuôi Việt Nam sau năm 1975 từ góc nhìn phê bình sinh thái 21/3/2024</title>
+      <title>Bút ký “Chuyện người dựng nhà trên đá núi”  3/4/2024</title>
+      <link>http://vov6.vov.vn/diem-hen-van-nghe/but-ky-chuyen-nguoi-dung-nha-tren-da-nui-c158-37952.aspx</link>
+      <description><![CDATA[Đã có một thời, truyện thơ “Đồi thông hai mộ” của văn sĩ Tùng Giang-Vũ Đình Trung với nội dung khắc họa mối tình bi thương của đôi trai gái người Mường: Đinh Lăng và Quách Mỵ Dung gây rúng động sâu sắc với các thế hệ độc giả. Thế nhưng, dòng thời gian, những biến động thời cuộc đã khiến tác giả và tác phẩm có một số phận long đong, lận đận. Cách đây gần 5 năm, Hội Nhà văn Việt Nam phối hợp cùng Hội VHNT Hòa Bình đã tổ chức tọa đàm khoa học “Đồi thông hai mộ: Từ di cảo tới di sản” để lật lại và giải mã những vọng âm của tác phẩm tới đương thời và đời sau. Từ bấy đến nay, đã có một nhà lưu niệm được xây dựng trên vùng núi đá Kim Bôi (Hòa Bình) ngay sát cạnh ngôi mộ đôi của hai tiền nhân-Hai nhân vật chính trong truyện thơ “Đồi thông hai mộ”. Cùng với dấu xưa tích cũ, nhà lưu niệm “Đồi thông hai mộ” kể cùng người hôm nay câu chuyện về “Người dựng nhà trên đá núi”. Đó cũng là nội dung bút ký của nhà báo Võ Hà mà chúng tôi muốn gửi tới các bạn trong chương trình hôm nay:]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/but-ky-chuyen-nguoi-dung-nha-tren-da-nui-c158-37952.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_4/but_ky_nguoi_dung_nha_34202411.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 03 Apr 2024 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Con người và tự nhiên trong văn xuôi Việt Nam sau năm 1975 từ góc nhìn phê bình sinh thái  21/3/2024</title>
       <link>http://vov6.vov.vn/diem-hen-van-nghe/con-nguoi-va-tu-nhien-trong-van-xuoi-viet-nam-sau-nam-1975-tu-goc-nhin-phe-binh-c158-37915.aspx</link>
       <description><![CDATA[TS. Trần Thị Ánh Nguyệt, Giảng viên Khoa Ngữ Văn, Trường Đại học Sư phạm, Đại học Đà Nẵng là một trong những đại diện quen thuộc khi nhắc tới phê bình sinh thái ở nước ta. Gần đây, cuốn sách của chị và PGS.TS Lê Lưu Oanh có nhan đề “Con người và tự nhiên trong văn xuôi Việt Nam sau năm 1975 từ góc nhìn phê bình sinh thái” đã được tái bản. Đây là chuyên luận được GS.TS Trần Đình Sử đánh giá là “đã cung cấp một danh sách các tác giả và tác phẩm viết về sinh thái trong văn học Việt Nam đương đại”, đồng thời “khẳng định xác thực sự có mặt của khuynh hướng văn học này”.]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/con-nguoi-va-tu-nhien-trong-van-xuoi-viet-nam-sau-nam-1975-tu-goc-nhin-phe-binh-c158-37915.aspx</guid>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/kts-pham-hoang-phuong-cong-vien-vuon-hoa-tao-dung-ban-sac-kien-truc-tinh-nhan-d-c158-37895.aspx</guid>
       <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_3/khong_gian_cong_cong_183202411.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 18 Mar 2024 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Vĩnh biệt nhà văn - nhà phê bình uyên bác Mai Quốc Liên  11/3/2024</title>
-      <link>http://vov6.vov.vn/diem-hen-van-nghe/vinh-biet-nha-van-nha-phe-binh-uyen-bac-mai-quoc-lien-c158-37873.aspx</link>
-      <description><![CDATA[Nhà văn, GS-TS Mai Quốc Liên, sinh ngày 8/6/1940, tại xã Điện Phước, huyện Điện Bàn, tỉnh Quảng Nam. Ông tốt nghiệp Khoa Ngữ Văn (Đại học Tổng hợp Hà Nội), Đại học Hán học, Cao học Hán học (Ủy ban Khoa học Xã hội Việt Nam). Nhà văn từng giữ các chức vụ: Giám đốc Trung tâm nghiên cứu Quốc học, Tổng Biên tập tạp chí Hồn Việt; Từng là Ủy viên Hội đồng Lý luận phê bình văn học nghệ thuật Trung ương, Phó Chủ tịch Hội đồng Lý luận phê bình-Hội Nhà văn Việt Nam, Ủy viên Hội đồng chức danh Giáo sư ngành Văn học. Nhà văn, GS-TS Mai Quốc Liên đã xuất bản hơn 10 tác phẩm, trong đó có nhiều tác phẩm tiểu luận, nghiên cứu, phê bình có giá trị như: Nhà thơ, cơn bão và những cánh hoa; Ngô Thì Nhậm trong nền văn học Tây Sơn; Dưới gốc me vườn Nguyễn Huệ; Trước đèn; Khảo luận Văn chiêu hồn; Nguyễn Du toàn tập; Phê bình và tranh luận văn học; Tạp luận; Nguyễn Trãi toàn tập; Cao Bá Quát toàn tập; Vị mặn biển đời…Nhà văn vừa từ biệt chúng ta vào một ngày cuối tháng Giêng. Bài viết “Nhà văn, nhà PBVH Mai Quốc Liên: Người coi trọng văn phong với ngòi bút uyên bác” của nhà văn Lê Quang Trang như nén tâm hương tưởng nhớ ông. Mời các bạn cùng nghe:]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/vinh-biet-nha-van-nha-phe-binh-uyen-bac-mai-quoc-lien-c158-37873.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/gs-ts_mai_quoc_lien_113202411.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 11 Mar 2024 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
