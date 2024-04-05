@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 03 Apr 2024 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 05 Apr 2024 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 03 Apr 2024 19:00:00 +0700</pubDate>
+    <pubDate>Fri, 05 Apr 2024 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Văn nghệ thiếu nhi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Vannghethieunhi.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Đọc truyện "Mặt trời luôn bên tôi" - Buổi mười bốn - Những ngày trị bệnh 3/4/2024</title>
+      <title>Cùng đọc sách: "Bạn có thể thay đổi thế giới" 5/4/2024</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/cung-doc-sach-ban-co-the-thay-doi-the-gioi-c44-37964.aspx</link>
+      <description><![CDATA[“Bạn có thể thay đổi thế giới” do Nguyễn Viên Như biên soạn trong tủ sách “Sống đẹp mỗi ngày” của Nhà xuất bản Thế giới gồm 50 câu chuyện nhỏ mang đến cho các em trải nghiệm thú vị về cuộc sống. Những câu chuyện có đề tài đa dạng  như nghị lực vượt khó khăn gian khổ của những nhà khoa học, doanh nhân nổi tiếng, ước mơ đi học của những người ở tuổi 70, 80, tinh thần lạc quan của một chú ếch, bài học đạo đức trong văn học dân gian... (Văn nghệ thiếu nhi 04/04/2024)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/cung-doc-sach-ban-co-the-thay-doi-the-gioi-c44-37964.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_4/v2_0404_10h4518h15_van_nghe_thieu_nhi_54202415.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 05 Apr 2024 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Đọc truyện "Mặt trời luôn bên tôi" - Buổi mười bốn - Những ngày trị bệnh  3/4/2024</title>
       <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-mat-troi-luon-ben-toi-buoi-muoi-bon-nhung-ngay-tri-benh-c44-37955.aspx</link>
       <description><![CDATA[Xác định việc chữa mắt cho Trung sẽ là cả một hành trình dài nên 
 bố mẹ Trung muốn thuê trọ ở trên Hà Nội. Nhịp sống thị thành cũng khiến Trung có nhiều bỡ ngỡ. Tuy không
@@ -44,17 +52,6 @@ khám. Buổi khám kết thúc, vì bệnh viện quá tải và phải chờ c
 tặng nên các bác sĩ hẹn Trung khoảng một tháng sau sẽ lên viện điều trị... (Văn nghệ thiếu nhi 30/03/2024)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-mat-troi-luon-ben-toi-buoi-muoi-ba-loi-hen-cua-bac-sy-c44-37954.aspx</guid>
       <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_4/v2_3003_10h4518h15_van_nghe_thieu_nhi_1_34202412.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 03 Apr 2024 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đọc truyện "Mặt trời luôn bên tôi" - Buổi mười hai - Nơi ở mới   3/4/2024</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-mat-troi-luon-ben-toi-buoi-muoi-hai-noi-o-moi-c44-37953.aspx</link>
-      <description><![CDATA[Gia đình Trung chuyển về nơi ở mới. Nơi này đón cậu bằng một rắc rối.
-Vào một buổi nọ, khi đang đi trên đường, Trung đã quờ gậy đi vào giữa đám trẻ
-đang chơi ô ăn quan. Một cậu cục tính trong đám đông đó đã đánh Trung. Trung đã
-tự vệ bằng cách cắn lại... (Văn nghệ thiếu nhi 29/03/2024)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-mat-troi-luon-ben-toi-buoi-muoi-hai-noi-o-moi-c44-37953.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_4/v2_2903_10h45181h5_van_nghe_thieu_nhi_34202412.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 03 Apr 2024 19:00:00 +0700</pubDate>
     </item>
   </channel>
