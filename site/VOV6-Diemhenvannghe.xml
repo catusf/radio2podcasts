@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 05 Apr 2024 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 08 Apr 2024 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 05 Apr 2024 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 08 Apr 2024 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,17 @@
     <itunes:subtitle>Điểm hẹn văn nghệ</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Diemhenvannghe.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Kiến trúc và con người 5/4/2024</title>
+      <title>Triển lãm tác phẩm đoạt giải cuộc thi “UOB Painting of the year” năm đầu tiên tại Việt Nam
+
+ 8/4/2024</title>
+      <link>http://vov6.vov.vn/diem-hen-van-nghe/trien-lam-tac-pham-doat-giai-cuoc-thi-uob-painting-of-the-year-nam-dau-tien-tai-c158-37971.aspx</link>
+      <description><![CDATA[Các tác phẩm giành giải trong cuộc thi nghệ thuật quốc tế - UOB Painting of the Year mùa đầu tiên tại nước ta trưng bày tại Bảo tàng Mỹ thuật Việt Nam. 8 gương mặt nghệ sĩ được vinh danh với những tác phẩm thể hiện sự khám phá, tìm tòi và chiêm nghiệm trong hình thức và chủ đề hội họa, qua đó bộc lộ góc nhìn về cuộc sống đương đại, những câu chuyện ẩn giấu bên trong đời sống nội tâm. Cuộc thi này cũng mở ra nhiều cơ hội cho các nghệ sĩ trẻ đương đại, được giao lưu với khu vực và thế giới. Sự kiện cũng cho thấy sự quan tâm của các nhà sưu tập, tổ chức nước ngoài với thị trường nghệ thuật trong nước, đặc biệt là hoạt động sáng tạo của nghệ sĩ trẻ. (Điểm hẹn văn nghệ)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/trien-lam-tac-pham-doat-giai-cuoc-thi-uob-painting-of-the-year-nam-dau-tien-tai-c158-37971.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_4/v2_0604_08h0018h30_diem_hen_van_nghe_84202416.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 08 Apr 2024 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Kiến trúc và con người  5/4/2024</title>
       <link>http://vov6.vov.vn/diem-hen-van-nghe/kien-truc-va-con-nguoi-c158-37961.aspx</link>
       <description><![CDATA[Ở nước ta, phê bình kiến trúc là “con đường chẳng mấy ai đi”. Nhưng vẫn có những cá nhân bền bỉ theo đuổi công việc này trong suốt nhiều năm và đem đến nhiều công trình có giá trị. Một trong số đó chính là TS, Kiến trúc sư Trần Minh Tùng (Trường ĐH Xây dựng Hà Nội). Năm ngoái, tác phẩm “Kiến trúc và con người” của anh, do NXB Xây dựng ấn hành đã giành “cú đúp” khi đồng thời nhận được giải Đồng Giải thưởng Kiến trúc Quốc gia lần thứ 15 và tặng thưởng mức C của Hội đồng Lý luận phê bình văn học nghệ thuật Trung ương. Cuốn sách “Kiến trúc và con người” mang đến những kiến thức xoay quanh mối quan hệ giữa hai yếu tố vừa là chủ thể, vừa là khách thể này nhằm chứng minh mối quan hệ biện chứng “con người nào thì kiến trúc đó, và ngược lại”. Nội dung quyển sách gồm 4 chương: “Mối quan hệ giữa con người, thiên nhiên và kiến trúc”, “Kiến trúc của con người, do con người và vì con người”, “Thực hành kiến trúc dưới góc độ nhân học” và “Kiến trúc Việt Nam giữa dòng chảy văn hóa Đông – Tây”. Mỗi chương vừa là một câu chuyện riêng nhưng vừa đóng góp cho bạn đọc hiểu về một câu chuyện chung. Để hiểu thêm về cuốn sách này, mời quý vị và các bạn cùng nghe bài viết của BTV Nguyễn Hà.]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/kien-truc-va-con-nguoi-c158-37961.aspx</guid>
@@ -38,14 +48,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/nha-bao-tran-mai-hanh-song-va-viet-nhu-mot-nhan-chung-lich-su-c158-37957.aspx</guid>
       <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/nha_bao_tran_mai_hanh_hc_44202411.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 04 Apr 2024 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Bút ký “Chuyện người dựng nhà trên đá núi”   3/4/2024</title>
-      <link>http://vov6.vov.vn/diem-hen-van-nghe/but-ky-chuyen-nguoi-dung-nha-tren-da-nui-c158-37952.aspx</link>
-      <description><![CDATA[Đã có một thời, truyện thơ “Đồi thông hai mộ” của văn sĩ Tùng Giang-Vũ Đình Trung với nội dung khắc họa mối tình bi thương của đôi trai gái người Mường: Đinh Lăng và Quách Mỵ Dung gây rúng động sâu sắc với các thế hệ độc giả. Thế nhưng, dòng thời gian, những biến động thời cuộc đã khiến tác giả và tác phẩm có một số phận long đong, lận đận. Cách đây gần 5 năm, Hội Nhà văn Việt Nam phối hợp cùng Hội VHNT Hòa Bình đã tổ chức tọa đàm khoa học “Đồi thông hai mộ: Từ di cảo tới di sản” để lật lại và giải mã những vọng âm của tác phẩm tới đương thời và đời sau. Từ bấy đến nay, đã có một nhà lưu niệm được xây dựng trên vùng núi đá Kim Bôi (Hòa Bình) ngay sát cạnh ngôi mộ đôi của hai tiền nhân-Hai nhân vật chính trong truyện thơ “Đồi thông hai mộ”. Cùng với dấu xưa tích cũ, nhà lưu niệm “Đồi thông hai mộ” kể cùng người hôm nay câu chuyện về “Người dựng nhà trên đá núi”. Đó cũng là nội dung bút ký của nhà báo Võ Hà mà chúng tôi muốn gửi tới các bạn trong chương trình hôm nay:]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/but-ky-chuyen-nguoi-dung-nha-tren-da-nui-c158-37952.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_4/but_ky_nguoi_dung_nha_34202411.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 03 Apr 2024 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
