@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 10 Apr 2024 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2024 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 10 Apr 2024 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 16 Apr 2024 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Văn nghệ thiếu nhi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Vannghethieunhi.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Truyện ngắn “Búp bê biết khóc” và nỗi buồn tuổi mới lớn  10/4/2024</title>
+      <title>Đọc truyện "Mặt trời luôn bên tôi" - Buổi mười tám - Tình yêu đối với sách  16/4/2024</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-mat-troi-luon-ben-toi-buoi-muoi-tam-tinh-yeu-doi-voi-sach-c44-37989.aspx</link>
+      <description><![CDATA[Đối với Trung, sách là người thầy người bạn. Cậu thường nghe các chương trình Văn nghệ của Đài Tiếng nói Việt Nam. Những truyện dài kỳ ở trên sóng phát thanh, Trung theo dõi không sót buổi nào.Từ ngày biết đọc chữ Braille, Trung càng chăm chỉ tìm đọc sách chữ nổi với niềm say mê, thích thú lạ thường... (Văn nghệ thiếu nhi 12/04/2024)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-mat-troi-luon-ben-toi-buoi-muoi-tam-tinh-yeu-doi-voi-sach-c44-37989.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_4/v2_1204_10h4518h15_van_nghe_thieu_nhi_164202410.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 16 Apr 2024 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Truyện ngắn “Búp bê biết khóc” và nỗi buồn tuổi mới lớn   10/4/2024</title>
       <link>http://vov6.vov.vn/van-nghe-thieu-nhi/truyen-ngan-bup-be-biet-khoc-va-noi-buon-tuoi-moi-lon-c44-37979.aspx</link>
       <description><![CDATA[Truyện ngắn “Búp bê biết khóc” của tác giả Nguyễn Thị
 Châu Giang là góc nhìn trực diện về những rạn nứt trong
@@ -40,14 +48,6 @@ tình cảm gia đình, được cảm nhận thông qua một tâm hồn mới 
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/tim-ve-nang-trong-long-pho-c44-37978.aspx</guid>
       <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_4/v2_0204_10h4518h15_van_nghe_thieu_nhi_104202410.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 10 Apr 2024 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đọc truyện "Mặt trời luôn bên tôi" - Buổi mười bảy - Ở ngôi trường mới   8/4/2024</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-mat-troi-luon-ben-toi-buoi-muoi-bay-o-ngoi-truong-moi-c44-37968.aspx</link>
-      <description><![CDATA[Nhập học tại ngôi trường mới, mọi điều đều mới mẻ với Trung. Thế nhưng cậu luôn nhận được tình cảm thật ấm áp của các thầy cô. Thầy cô yêu thương học trò như con, các bạn học cùng cũng rất hoà nhã, giúp đỡ, chia sẻ với nhau. Bởi vậy, Trung đã nhanh chóng hoà nhập, vơi bớt nỗi nhớ nhà... (Văn nghệ thiếu nhi 07/04/2024)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-mat-troi-luon-ben-toi-buoi-muoi-bay-o-ngoi-truong-moi-c44-37968.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_4/v2_0704_10h4518h15_van_nghe_thieu_nhi_84202410.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 08 Apr 2024 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
