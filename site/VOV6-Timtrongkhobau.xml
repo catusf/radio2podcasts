@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 12 Apr 2024 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2024 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 12 Apr 2024 19:00:00 +0700</pubDate>
+    <pubDate>Fri, 19 Apr 2024 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Tìm trong kho báu</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Timtrongkhobau.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Ca dao về hội Xuân xứ Kinh Bắc 12/4/2024</title>
+      <title>Ca dao về những hội Xuân độc đáo ở nước ta  19/4/2024</title>
+      <link>http://vov6.vov.vn/tim-trong-kho-bau/ca-dao-ve-nhung-hoi-xuan-doc-dao-o-nuoc-ta-c54-37998.aspx</link>
+      <description><![CDATA[Trở lại với đề tài lễ hội trong ca dao, từ nhiều đời nay, vào mùa Xuân, ở miền Bắc nước ta diễn ra rất nhiều lễ hội nổi tiếng thu hút khách thập phương. Và trong số những hội Xuân đó, có một số lễ hội có những phần thi tài hết sức li kỳ, độc đáo.]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/ca-dao-ve-nhung-hoi-xuan-doc-dao-o-nuoc-ta-c54-37998.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_4/v2_182204_08h00_tim_trong_kho_bau_pl_18h30_19420249.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 19 Apr 2024 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Ca dao về hội Xuân xứ Kinh Bắc  12/4/2024</title>
       <link>http://vov6.vov.vn/tim-trong-kho-bau/ca-dao-ve-hoi-xuan-xu-kinh-bac-c54-37982.aspx</link>
       <description><![CDATA[Kinh Bắc vốn là một vùng đất có lịch sử lâu đời. Nơi đây tập trung nhiều làng nghề nổi tiếng như tranh Đông Hồ, gốm Bát Tràng, gỗ Đồng Kỵ, nem Bùi, bánh đa nem Thổ Hà, bánh đa Kế, mì Chũ, vải thiều Lục Ngạn... Chính nơi đây, dân ca quan họ và hội Gióng được UNESCO vinh danh di sản văn hóa phi vật thể; mộc bản chùa Vĩnh Nghiêm là di sản tư liệu thế giới. Mỗi độ sang Xuân, đất Kinh Bắc lại rộn ràng nhiều lễ hội.]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/ca-dao-ve-hoi-xuan-xu-kinh-bac-c54-37982.aspx</guid>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/hoi-chua-xuan-trong-ca-dao-c54-37960.aspx</guid>
       <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_4/v2_040804_08h00_tim_trong_kho_bau_pl_18h30_54202410.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 05 Apr 2024 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Ca dao về lễ hội mùa Xuân xứ Bắc  14/3/2024</title>
-      <link>http://vov6.vov.vn/tim-trong-kho-bau/ca-dao-ve-le-hoi-mua-xuan-xu-bac-c54-37882.aspx</link>
-      <description><![CDATA[Trong tác phẩm “Việt Nam Cổ Văn Học Sử”, tác giả Nguyễn Đổng Chi đã viết: “Vào những ngày hội hoặc ngày tế thần, thường thường là mùa Xuân xa ngày cấy hái, trai gái các bộ lạc thôn ấp thường tụ tập lại một nơi, đặt ra lời ví hát ghẹo nhau, trong khi gảy đàn, thổi sáo, đánh trống, múa nhảy hay là bày các trò vui”. Nhiều đời nay, đến hẹn lại lên, dân gian khắc ghi những lễ hội truyền thống qua các câu ca dao quen thuộc.]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/ca-dao-ve-le-hoi-mua-xuan-xu-bac-c54-37882.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/v2_14_1803_08h00_18h30_tim_trong_kho_bau_14320249.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 14 Mar 2024 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
