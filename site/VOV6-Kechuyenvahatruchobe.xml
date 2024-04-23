@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 19 Apr 2024 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 19 Apr 2024 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 23 Apr 2024 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,18 @@
     <itunes:subtitle>Kể chuyện và hát ru cho bé</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Kechuyenvahatruchobe.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Những tên trộm thua cuộc 19/4/2024</title>
+      <title>Sự tích cây ngô  23/4/2024</title>
+      <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/su-tich-cay-ngo-c43-38006.aspx</link>
+      <description><![CDATA[Cây ngô cung cấp lương thực cho con người. Bột ngô có
+thể chế biến thành nhiều món ăn như bánh ngô, xôi ngô, cháo và súp ngô…
+rất nhiều chất dinh dưỡng. Vậy các bé có biết cây ngô ra đời
+như thế nào, và ai là người đã tìm ra loài cây lương thực hữu ích này? (Kể chuyện và hát ru 19/04/2024)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/su-tich-cay-ngo-c43-38006.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_4/v2_192004_21h45_ke_chuyen_va_hat_ru_234202412.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 23 Apr 2024 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Những tên trộm thua cuộc  19/4/2024</title>
       <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/nhung-ten-trom-thua-cuoc-c43-38000.aspx</link>
       <description><![CDATA[Ngày xửa ngày xưa có một cậu bé chẳng may bị lạc vào rừng sâu. Khi gặp phải một toán trộm cướp, mặc dù chân tay cậu ấy run lẩy bẩy vì sợ hãi, nhưng khuôn mặt thì lại tỏ ra bình tĩnh, khiến toán cướp vô cùng ngạc nhiên. Vậy điều gì đã giúp cậu bé giữ được bình tĩnh đến như vậy? (Kể chuyện và hát ru 17/04/2024)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/nhung-ten-trom-thua-cuoc-c43-38000.aspx</guid>
@@ -38,15 +49,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/nhung-chu-voi-tinh-nghia-c43-37999.aspx</guid>
       <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_4/v2_151604_21h45_ke_chuyen_va_hat_ru_194202411.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 19 Apr 2024 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chàng Giăng Bị Thịt  1/4/2024</title>
-      <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/chang-giang-bi-thit-c43-37934.aspx</link>
-      <description><![CDATA[Xưa kia trong một lâu đài cổ có ba anh em trai. Người em trai út tên là Giăng Bị Thịt thường bị  hai người anh của
-mình chế giễu và coi thường. Vào một lần nọ, ba anh em cùng lên đường để tham gia thi tài kén rể của công chúa trong vùng... (Kể chuyện và hát ru 29/03/2024)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/chang-giang-bi-thit-c43-37934.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_4/v2_293003_21h45_ke_chuyen_hat_ru_1420249.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 01 Apr 2024 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
