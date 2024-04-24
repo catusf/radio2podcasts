@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 23 Apr 2024 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 24 Apr 2024 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 23 Apr 2024 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 24 Apr 2024 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,28 +24,34 @@
     <itunes:subtitle>Văn nghệ thiếu nhi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Vannghethieunhi.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Đọc truyện "Mặt trời luôn bên tôi" - Buổi hai mươi ba - Chia tay  23/4/2024</title>
+      <title>Mẹ ơi con muốn bay 24/4/2024</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/me-oi-con-muon-bay-c44-38010.aspx</link>
+      <description><![CDATA[Trong tác phẩm này nhà văn Tống Ngọc Hân đi sâu khai thác tâm lý
+của các cô cậu bé mới lớn sống ở vùng trung du miền núi. Các bạn có một điểm chung là đều thiếu vắng tình yêu thương của mẹ - những người phụ nữ vì muốn trả nợ, muốn thoát nghèo mà phải bươn trải nơi đất
+khách quê người... (Trang Văn học Nghệ thuật tuổi mới lớn 23/04/2024)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/me-oi-con-muon-bay-c44-38010.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_4/v2_2304_10h4518h15_van_nghe_thieu_nhi_244202410.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 24 Apr 2024 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Thời gian và không gian trong bài thơ "Lượm”  24/4/2024</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/thoi-gian-va-khong-gian-trong-bai-tho-luom-c44-38009.aspx</link>
+      <description><![CDATA[Bài thơ “Lượm” chứa đựng tình cảm quý mến, trân trọng của tác giả và
+của bao thế hệ học sinh, là sự ghi nhận công lao của Lượm trong kháng
+chiến. Lượm mãi đáng yêu trong hình ảnh một chú bé liên lạc nhanh nhẹn và dũng cảm. Khi dạy tác
+phẩm này, cô Hồ Bạch Phượng (giáo viên ngữ văn trường THCS Thăng Long,
+quận Ba Đình, Hà Nội) có nhiều suy nghĩ, trăn trở... (Văn nghệ thiếu nhi 22/04/2024)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/thoi-gian-va-khong-gian-trong-bai-tho-luom-c44-38009.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_4/v2_2204_10h4518h15_van_nghe_thieu_nhi_244202410.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 24 Apr 2024 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Đọc truyện "Mặt trời luôn bên tôi" - Buổi hai mươi ba - Chia tay   23/4/2024</title>
       <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-mat-troi-luon-ben-toi-buoi-hai-muoi-ba-chia-tay-c44-38004.aspx</link>
       <description><![CDATA[Hôm chia tay để về với gia đình, ai cũng giữ im lặng, bởi các bạn biết nếu cất tiếng nói thì nước mắt sẽ trào ra.
 Theo chia sẻ từ các thầy cô trong trường thì hầu hết các bạn khi tốt nghiệp đều tìm được việc làm vì thành thạo chữ braille. Mặc dù đang rất buồn khi phải chia tay với các bạn, nhưng Trung luôn hi vọng rằng sẽ tìm được việc làm phù hợp với bản thân... (Văn nghệ thiếu nhi 21/04/2024)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-mat-troi-luon-ben-toi-buoi-hai-muoi-ba-chia-tay-c44-38004.aspx</guid>
       <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_4/v2_2104_10h4518h15_van_nghe_thieu_nhi_234202412.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 23 Apr 2024 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đọc truyện "Mặt trời luôn bên tôi" - Buổi hai mươi hai -  Những ngày bận rộn   23/4/2024</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-mat-troi-luon-ben-toi-buoi-hai-muoi-hai-nhung-ngay-ban-ron-c44-38003.aspx</link>
-      <description><![CDATA[Những ngày bận rộn ôn thi cuối cấp để ra trường khiến cho Trung và các bạn ít có thời gian trò chuyện với nhau. Ngay cả các thầy cô cũng dành hết thời gian để hướng dẫn học sinh. Rất may đề thi năm đó không quá khó, nên tất cả các bạn đều vượt qua...  (Văn nghệ thiếu nhi 20/04/2024)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-mat-troi-luon-ben-toi-buoi-hai-muoi-hai-nhung-ngay-ban-ron-c44-38003.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/v2_2004_10h4518h15_van_nghe_thieu_nhi_234202412.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 23 Apr 2024 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đọc truyện "Mặt trời luôn bên tôi" - Buổi hai mươi mốt - Niềm vui ở ngôi trường mới   23/4/2024</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-mat-troi-luon-ben-toi-buoi-hai-muoi-mot-niem-vui-o-ngoi-truong-moi-c44-38002.aspx</link>
-      <description><![CDATA[Từ khi chuyển về trường mới, cơ sở vật chất khá tiện nghi, sạch sẽ và hiện đại đã giúp nhiều bạn khiếm thị, trong đó có Trung nhanh chóng nhớ đường từ khu lớp học về khu nội trú. Quãng đường ấy phải đi qua bao nhiêu dãy hành lang, bao nhiêu gốc cây xanh, bao nhiêu cái cửa… thân thuộc tới nỗi vào những hôm thời tiết mát mẻ, Trung còn lẩm nhẩm đọc thơ... (Văn nghệ thiếu nhi 19/04/2024)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-mat-troi-luon-ben-toi-buoi-hai-muoi-mot-niem-vui-o-ngoi-truong-moi-c44-38002.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_4/v2_1904_10h4518h15_van_nghe_thieu_nhi_234202412.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 23 Apr 2024 19:00:00 +0700</pubDate>
     </item>
   </channel>
