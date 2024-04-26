@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 23 Apr 2024 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 23 Apr 2024 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 25 Apr 2024 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,16 @@
     <itunes:subtitle>Đọc truyện đêm khuya</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Doctrdemkhuya.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>"Trăm năm phấn thổ": Câu chuyện thước đo tiền tài và nhân nghĩa 23/4/2024</title>
+      <title>“Vòng trong nhân hậu” (P1): Cuộc gặp gỡ định mệnh  25/4/2024</title>
+      <link>http://vov6.vov.vn/doc-truyen-dem-khuya/vong-trong-nhan-hau-p1-cuoc-gap-go-dinh-menh-c11-38014.aspx</link>
+      <description><![CDATA[Trong số các tác giả văn xuôi đương đại xứ Nghệ, nhà văn Hồ Ngọc Quang là gương mặt để lại nhiều ấn tượng cho độc giả. Hồ Ngọc Quang có khả năng viết nhiều thể loại như truyện ngắn, ký, kịch nói, thể loại nào cũng có những đóng góp đáng ghi nhận. Nhà văn Hồ Ngọc Quang bén duyên với văn chương từ cuối những 70, đầu những năm 80 của thế kỷ trước. Ngay từ khi còn rất trẻ, ông đã đạt giải Nhất cuộc thi Ký báo Nghệ An, tiếp đó, đạt giải Nhì cuộc thi truyện ngắn của Hội Văn học nghệ  thuật Nghệ An. Từ đó đến nay, ông vẫn miệt mài sáng tác, đặc biệt là những tác phẩm dành riêng cho Quỳnh Lưu quê ông. 
+     Chương trình Đọc truyện đêm khuya hôm nay xin gửi tới quý vị và các bạn phần mở đầu truyện ngắn “Vòng tròn nhân hậu” của nhà văn Hồ Ngọc Quang, một tác phẩm mới sáng tác của ông:]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/doc-truyen-dem-khuya/vong-trong-nhan-hau-p1-cuoc-gap-go-dinh-menh-c11-38014.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/v2_2504_22h30_doc_truyen_dem_khuya_26420248.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 25 Apr 2024 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>"Trăm năm phấn thổ": Câu chuyện thước đo tiền tài và nhân nghĩa  23/4/2024</title>
       <link>http://vov6.vov.vn/doc-truyen-dem-khuya/tram-nam-phan-tho-cau-chuyen-thuoc-do-tien-tai-va-nhan-nghia-c11-38005.aspx</link>
       <description><![CDATA[Truyện ngắn “Trăm năm phấn thổ” mang đặc trưng văn phong ngòi bút của Trần Huyền Trang, một tác giả xuất hiện thường xuyên trên chuyên trang văn nghệ của nhiều tờ báo tên tuổi. Bằng lối viết tự sự, giàu hình ảnh, tác giả đã kể câu chuyện tâm sự của nhân vật Tân -  một người con trong gia đình có người cha bỏ vợ con để chạy theo cuộc sống phù hoa. Cuộc đời Tân thêm một lần nữa hứng chịu nỗi đau khi người con gái anh thương vì ham giàu sang mà bội ước. Thế nhưng, từ đầu đến cuối truyện, nhân vật Tân không một lời trách cứ. Truyện nhẹ nhàng, miên man theo dòng cảm xúc mà ngưng đọng, thấm thía. Phải hứng chịu những nỗi đau, những vết thương sâu, cuối cùng cuộc đời Tân cũng được trổ hoa hạnh phúc. Truyện kết thúc với câu ca của người xưa: “Tiền tài như phấn thổ/ Nhân nghĩa tợ thiên kim…” – Chạy theo bạc tiền rồi một ngày cũng nhận ra vật chất như bụi đất, chỉ nghĩa tình giữa con người với nhau là đáng quý trọng, bền bỉ qua thời gian….]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/doc-truyen-dem-khuya/tram-nam-phan-tho-cau-chuyen-thuoc-do-tien-tai-va-nhan-nghia-c11-38005.aspx</guid>
@@ -38,14 +47,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/doc-truyen-dem-khuya/tieng-goi-trong-chieu-muon-tieng-goi-cua-tinh-yeu-c11-38001.aspx</guid>
       <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/v2_1804_22h30_doc_truyen_dem_khuya_224202411.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 22 Apr 2024 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>"Từ giờ thứ sáu đến giờ thứ chín" (buổi 28): Ánh sáng của niềm tin  19/4/2024</title>
-      <link>http://vov6.vov.vn/doc-truyen-dem-khuya/tu-gio-thu-sau-den-gio-thu-chin-buoi-28-anh-sang-cua-niem-tin-c11-37997.aspx</link>
-      <description><![CDATA[20 năm sau ngày gặp Diễm lần cuối trước khi cô vượt biên, Sơn trở lại mảnh đất Thủ Biên. Gặp lại ông Tư, bà Mười, nghe chuyện những người xưa, nhất là chuyện về Diễm, từng mảnh kỷ niệm cũ lại dội về trong anh. Tại đây, bà Mười đã trao cho Sơn phong thư Diễm nhờ bà trao tận tay cho anh. Phong thư đã tiết lộ một sự thật choáng váng: lần gặp cuối cùng giữa Sơn và Diễm trên nhà nghỉ bãi biển năm đó đã để lại trong cô giọt máu của anh. Nỗi đau chiến tranh vẫn còn đó – nhưng ánh sáng của niềm tin, hi vọng, của những âm thanh thức tỉnh lương tri vọng mãi trong tâm hồn con người. Đó là thông điệp đọng lại khi kết thúc tiểu thuyết “Từ giờ thứ sáu đến giờ thứ chín” của nhà văn Nguyễn Một. Qua giọng đọc NSUT Việt Hùng, mời các bạn theo dõi những trang cuối tiểu thuyết “Từ giờ thứ sáu đến giờ thứ chín” của nhà văn Nguyễn Một - Tác phẩm được trao giải thưởng văn xuôi của Hội Nhà văn Việt Nam năm vừa qua.]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/doc-truyen-dem-khuya/tu-gio-thu-sau-den-gio-thu-chin-buoi-28-anh-sang-cua-niem-tin-c11-37997.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/v2_1904_22h30_doc_truyen_dem_khuya_224202410.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 19 Apr 2024 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
