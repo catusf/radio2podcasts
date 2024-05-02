@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 24 Apr 2024 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 24 Apr 2024 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 02 May 2024 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Văn nghệ thiếu nhi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Vannghethieunhi.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Mẹ ơi con muốn bay 24/4/2024</title>
+      <title>Tiểu thuyết “Ông cố vấn”: Những trang viết đặc sắc về lực lượng tình báo  2/5/2024</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/tieu-thuyet-ong-co-van-nhung-trang-viet-dac-sac-ve-luc-luong-tinh-bao-c44-38020.aspx</link>
+      <description><![CDATA[Tiểu thuyết “Ông cố vấn” của nhà văn Hữu Mai là một trong những cuốn sách hấp dẫn viết về lực lượng tình báo. Những con người mưu trí, anh dũng, khéo léo len lỏi vào lực lượng địch để cung cấp cho Cách mạng những thông tin trọng yếu. Tiểu thuyết giúp người đọc hiểu hơn một thời kỳ lịch sử khó khăn và anh dũng của dân tộc, giúp thế hệ trẻ hiểu hơn công lao của cha ông và càng trân trọng cuộc sống hòa bình hôm nay... (Văn nghệ thiếu nhi 25/04/2024)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/tieu-thuyet-ong-co-van-nhung-trang-viet-dac-sac-ve-luc-luong-tinh-bao-c44-38020.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_5/v2_2504_10h4518h15_van_nghe_thieu_nhi_25202414.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 02 May 2024 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Mẹ ơi con muốn bay  24/4/2024</title>
       <link>http://vov6.vov.vn/van-nghe-thieu-nhi/me-oi-con-muon-bay-c44-38010.aspx</link>
       <description><![CDATA[Trong tác phẩm này nhà văn Tống Ngọc Hân đi sâu khai thác tâm lý
 của các cô cậu bé mới lớn sống ở vùng trung du miền núi. Các bạn có một điểm chung là đều thiếu vắng tình yêu thương của mẹ - những người phụ nữ vì muốn trả nợ, muốn thoát nghèo mà phải bươn trải nơi đất
@@ -44,15 +52,6 @@ quận Ba Đình, Hà Nội) có nhiều suy nghĩ, trăn trở... (Văn nghệ 
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/thoi-gian-va-khong-gian-trong-bai-tho-luom-c44-38009.aspx</guid>
       <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_4/v2_2204_10h4518h15_van_nghe_thieu_nhi_244202410.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 24 Apr 2024 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đọc truyện "Mặt trời luôn bên tôi" - Buổi hai mươi ba - Chia tay   23/4/2024</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-mat-troi-luon-ben-toi-buoi-hai-muoi-ba-chia-tay-c44-38004.aspx</link>
-      <description><![CDATA[Hôm chia tay để về với gia đình, ai cũng giữ im lặng, bởi các bạn biết nếu cất tiếng nói thì nước mắt sẽ trào ra.
-Theo chia sẻ từ các thầy cô trong trường thì hầu hết các bạn khi tốt nghiệp đều tìm được việc làm vì thành thạo chữ braille. Mặc dù đang rất buồn khi phải chia tay với các bạn, nhưng Trung luôn hi vọng rằng sẽ tìm được việc làm phù hợp với bản thân... (Văn nghệ thiếu nhi 21/04/2024)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-mat-troi-luon-ben-toi-buoi-hai-muoi-ba-chia-tay-c44-38004.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_4/v2_2104_10h4518h15_van_nghe_thieu_nhi_234202412.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 23 Apr 2024 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
