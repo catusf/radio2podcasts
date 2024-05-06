@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 02 May 2024 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2024 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 02 May 2024 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 06 May 2024 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,20 @@
     <itunes:subtitle>Văn nghệ thiếu nhi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Vannghethieunhi.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Trường Sa kỳ vĩ và gian lao 2/5/2024</title>
+      <title>Có một Điện Biên Phủ trong phim hoạt hình (Phần 1) 6/5/2024</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/co-mot-dien-bien-phu-trong-phim-hoat-hinh-phan-1-c44-38031.aspx</link>
+      <description><![CDATA[Chiến thắng Điện Biên Phủ 
+là một trong những mốc son vĩ đại của cha ông ta trong công cuộc bảo vệ Tổ Quốc. Chúng mình có thể tìm hiểu về chiến thắng Điện Biên Phủ qua bài giảng, qua phim tài liệu, sách báo, vậy khi chiến thắng vĩ đại này được
+thể hiện qua phim hoạt hình thì sao nhỉ? Mới đây
+Hãng phim Hoạt Hình Việt Nam đã hoàn thành bộ phim “Chiếc xe thồ Điện
+Biên”. Bên cạnh đó còn có bộ phim “Lời hứa Điện Biên” đang trong
+quá trình sản xuất đấy! (Văn nghệ thiếu nhi 24/04/2024)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/co-mot-dien-bien-phu-trong-phim-hoat-hinh-phan-1-c44-38031.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_5/v2_2404_10h4518h15_van_nghe_thieu_nhi_65202416.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 06 May 2024 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Trường Sa kỳ vĩ và gian lao  2/5/2024</title>
       <link>http://vov6.vov.vn/van-nghe-thieu-nhi/truong-sa-ky-vi-va-gian-lao-c44-38024.aspx</link>
       <description><![CDATA[Trong chuyến công tác gần 20 ngày ở quần đảo Trường Sa,  nhà văn Sương Nguyệt Minh đã có những trải nghiệm vô cùng tuyệt vời. Ông tâm sự “Hai tiếng Trường Sa luôn ám ảnh, giục giã tôi phải viết. Bởi bao nhiêu trang sách cũng không thể diễn tả hết sự hùng vĩ của biển đảo, nỗi gian lao và hi sinh của người lính canh giữ biển đảo, thềm lục địa của Tổ quốc... (Trang Văn học Nghệ thuật tuổi mới lớn 30/04/2024)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/truong-sa-ky-vi-va-gian-lao-c44-38024.aspx</guid>
@@ -37,14 +50,6 @@
       <description><![CDATA[Sơn là người bạn thân cùng tuổi với Trung. Anh đã từng đi bộ đội rồi tiếp tục đi học. Về phần Trung, hết lớp 7, Trung được chuyển sang lớp học buổi sáng. Cậu sẽ nhận được tiền trợ cấp từ trường Nuôi dạy trẻ Khiếm thị Hải Phòng. Niềm vui nhân đôi khi em trai của cậu đỗ đại học... (Văn nghệ thiếu nhi 28/04/2024)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-mat-troi-luon-ben-toi-buoi-hai-muoi-sau-niem-vui-nhan-doi-c44-38023.aspx</guid>
       <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_5/v2_2804_10h4518h15_van_nghe_thieu_nhi_25202415.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 02 May 2024 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đọc truyện "Mặt trời luôn bên tôi" - Buổi hai mươi lăm - Niềm vui được đi học   2/5/2024</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-mat-troi-luon-ben-toi-buoi-hai-muoi-lam-niem-vui-duoc-di-hoc-c44-38022.aspx</link>
-      <description><![CDATA[Ngồi học trong lớp, Trung cảm nhận được hàng cây xanh reo vui bên ngoài. Nghe thầy giáo kể chuyện những liệt sĩ được an táng tại nghĩa trang ngay cạnh lớp học, cậu rất xúc động. Nhiều điều bình thường với các bạn học nhưng lại vô cùng khó khăn với người khiếm thị. Dù còn nhiều bỡ ngỡ nhưng cậu vui vì được cô giáo và bạn bè giúp đỡ, chia sẻ... (Văn nghệ thiếu nhi 27/04/2024)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-mat-troi-luon-ben-toi-buoi-hai-muoi-lam-niem-vui-duoc-di-hoc-c44-38022.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_5/v2_2704_10h4518h15_van_nghe_thieu_nhi_25202415.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 02 May 2024 19:00:00 +0700</pubDate>
     </item>
   </channel>
