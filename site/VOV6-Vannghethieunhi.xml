@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 06 May 2024 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2024 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 06 May 2024 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 07 May 2024 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,17 @@
     <itunes:subtitle>Văn nghệ thiếu nhi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Vannghethieunhi.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Có một Điện Biên Phủ trong phim hoạt hình (Phần 2) 6/5/2024</title>
+      <title>Từ, ngữ và câu tiếng Việt  7/5/2024</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/tu-ngu-va-cau-tieng-viet-c44-38033.aspx</link>
+      <description><![CDATA[Đối với các em học sinh bậc tiểu học, đặc biệt là lớp 5, môn Tiếng Việt có những bài học khó. Các em cần nắm những kiến thức cơ bản để áp dụng vào quá trình thực hành làm bài, viết bài. Cùng nghe
+những chia sẻ của thầy giáo Bùi Ngọc Phúc, giáo viên trường Thực nghiệm Hà
+Nội về nội dung này nhé! (Văn nghệ thiếu nhi 06/05/2024)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/tu-ngu-va-cau-tieng-viet-c44-38033.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_5/v2_0605_10h4518h15_van_nghe_thieu_nhi_75202411.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 07 May 2024 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Có một Điện Biên Phủ trong phim hoạt hình (Phần 2)  6/5/2024</title>
       <link>http://vov6.vov.vn/van-nghe-thieu-nhi/co-mot-dien-bien-phu-trong-phim-hoat-hinh-phan-2-c44-38032.aspx</link>
       <description><![CDATA[Trong chương trình trước, chúng ta đã nghe nhà biên kịch Phạm Thanh Hà giới thiệu bộ phim “Chiếc xe thồ Điện Biên”, do Hãng phim Hoạt hình Việt Nam sản xuất nhân kỷ niệm 70 năm chiến thắng
 Điện Biên Phủ. Trong chương trình hôm nay, chúng mình cùng nghe cô bật mí về bộ phim “Lời hứa Điện Biên” đang
@@ -46,14 +56,6 @@ quá trình sản xuất đấy! (Văn nghệ thiếu nhi 24/04/2024)]]></descri
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/co-mot-dien-bien-phu-trong-phim-hoat-hinh-phan-1-c44-38031.aspx</guid>
       <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_5/v2_2404_10h4518h15_van_nghe_thieu_nhi_65202416.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 06 May 2024 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Trường Sa kỳ vĩ và gian lao  2/5/2024</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/truong-sa-ky-vi-va-gian-lao-c44-38024.aspx</link>
-      <description><![CDATA[Trong chuyến công tác gần 20 ngày ở quần đảo Trường Sa,  nhà văn Sương Nguyệt Minh đã có những trải nghiệm vô cùng tuyệt vời. Ông tâm sự “Hai tiếng Trường Sa luôn ám ảnh, giục giã tôi phải viết. Bởi bao nhiêu trang sách cũng không thể diễn tả hết sự hùng vĩ của biển đảo, nỗi gian lao và hi sinh của người lính canh giữ biển đảo, thềm lục địa của Tổ quốc... (Trang Văn học Nghệ thuật tuổi mới lớn 30/04/2024)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/truong-sa-ky-vi-va-gian-lao-c44-38024.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_5/v2_3004_10h4518h15_van_nghe_thieu_nhi_25202416.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 02 May 2024 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
