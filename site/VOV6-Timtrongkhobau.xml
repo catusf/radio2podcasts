@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 25 Apr 2024 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2024 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 25 Apr 2024 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 08 May 2024 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Tìm trong kho báu</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Timtrongkhobau.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Ca dao về cây lúa Việt Nam 25/4/2024</title>
+      <title>Hình tượng người phụ nữ qua biểu tượng con cò trong ca dao 8/5/2024</title>
+      <link>http://vov6.vov.vn/tim-trong-kho-bau/hinh-tuong-nguoi-phu-nu-qua-bieu-tuong-con-co-trong-ca-dao-c54-38041.aspx</link>
+      <description><![CDATA[Từ trong ca dao, những cánh cò là biểu tượng cho số phận nhọc nhằn, nắng mưa vất vả của người nông dân và đặc biệt là người phụ nữ Việt Nam. Những câu ca giàu hình ảnh, nhẹ nhàng mà thấm thía biết bao nỗi đời.]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/hinh-tuong-nguoi-phu-nu-qua-bieu-tuong-con-co-trong-ca-dao-c54-38041.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/v2_091305_08h00_tim_trong_kho_bau_pl_18h30_105202411.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 08 May 2024 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Ca dao về cây lúa Việt Nam  25/4/2024</title>
       <link>http://vov6.vov.vn/tim-trong-kho-bau/ca-dao-ve-cay-lua-viet-nam-c54-38013.aspx</link>
       <description><![CDATA[Từ xa xưa, các thể loại văn học dân gian nước ta như thành ngữ, tục ngữ, ca dao đều có nhiều câu ngợi ca cây lúa, hạt gạo đã làm nên bản sắc và tầm vóc tinh thần của dân tộc. Từ một hình ảnh bình dị, quen thuộc, qua các thủ pháp nghệ thuật đã trở thành biểu tượng cảm xúc, cho số phận con người Việt Nam ta qua nhiều thời đoạn.]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/ca-dao-ve-cay-lua-viet-nam-c54-38013.aspx</guid>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/ca-dao-ve-nhung-hoi-xuan-doc-dao-o-nuoc-ta-c54-37998.aspx</guid>
       <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_4/v2_182204_08h00_tim_trong_kho_bau_pl_18h30_19420249.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 19 Apr 2024 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Ca dao về hội Xuân xứ Kinh Bắc  12/4/2024</title>
-      <link>http://vov6.vov.vn/tim-trong-kho-bau/ca-dao-ve-hoi-xuan-xu-kinh-bac-c54-37982.aspx</link>
-      <description><![CDATA[Kinh Bắc vốn là một vùng đất có lịch sử lâu đời. Nơi đây tập trung nhiều làng nghề nổi tiếng như tranh Đông Hồ, gốm Bát Tràng, gỗ Đồng Kỵ, nem Bùi, bánh đa nem Thổ Hà, bánh đa Kế, mì Chũ, vải thiều Lục Ngạn... Chính nơi đây, dân ca quan họ và hội Gióng được UNESCO vinh danh di sản văn hóa phi vật thể; mộc bản chùa Vĩnh Nghiêm là di sản tư liệu thế giới. Mỗi độ sang Xuân, đất Kinh Bắc lại rộn ràng nhiều lễ hội.]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/ca-dao-ve-hoi-xuan-xu-kinh-bac-c54-37982.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_4/v2_111504_08h0018h30_tim_trong_kho_bau_12420249.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 12 Apr 2024 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
