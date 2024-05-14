@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 07 May 2024 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 14 May 2024 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 07 May 2024 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 14 May 2024 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,18 @@
     <itunes:subtitle>Kể chuyện và hát ru cho bé</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Kechuyenvahatruchobe.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Nàng công chúa nhìn xa 7/5/2024</title>
+      <title>Chàng trai có tài thiện xạ  14/5/2024</title>
+      <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/chang-trai-co-tai-thien-xa-c43-38051.aspx</link>
+      <description><![CDATA[Xưa có một chàng trai có tài thiện xạ. Lâu dần mọi
+người thường gọi chàng là Người săn linh dương giỏi, mà quên đi cái tên ban đầu
+cha mẹ đặt cho. Người săn linh dương cũng không hề buồn vì đều này, ngược lại
+chàng luôn cố gắng chăm chút cho tay cung của mình thêm phần rắn rỏi. Biết được tài năng của chàng, Chim Sấm mẹ đã đưa chàng lên đỉnh núi cao để nhờ làm giúp một việc... (Kể chuyện và hát ru 13/05/2024)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/chang-trai-co-tai-thien-xa-c43-38051.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_5/v2_131405_21h45_ke_chuyen_va_hat_ru_145202411.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 14 May 2024 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Nàng công chúa nhìn xa  7/5/2024</title>
       <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/nang-cong-chua-nhin-xa-c43-38034.aspx</link>
       <description><![CDATA[Nàng công chúa nọ nhìn xa tinh tường, kén phò mã có tài ẩn nấp. Chàng hoàng tử tài giỏi, tốt bụng, được các loài vật đồng lòng giúp sức. Nhờ họ nhà chuột, chàng đã tìm được chỗ ẩn nấp gần và kín, khiến công chúa không tài nào nhìn ra... (Kể chuyện và hát ru 03/05/2024)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/nang-cong-chua-nhin-xa-c43-38034.aspx</guid>
@@ -40,14 +51,6 @@ mặt đất đã trải qua những biến đổi để có được như ngày
 (Kể chuyện và hát ru 01/05/2024)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/vi-sao-co-mat-dat-c43-38026.aspx</guid>
       <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_5/v2_010205_21h45_ke_chuyen_va_hat_ru_25202416.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 02 May 2024 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Vị thần của âm nhạc   2/5/2024</title>
-      <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/vi-than-cua-am-nhac-c43-38025.aspx</link>
-      <description><![CDATA[Thần đã dùng mọi quyền năng để hô mưa gió sấm sét bủa vây khiến Mặt Trời phải đầu hàng và nhân cơ hội đó, thần đã đưa tất cả những nhạc công, nghệ sĩ trên trời về mặt đất. Từ đó chúng ta có âm nhạc đấy, các bé ạ! Âm nhạc đã làm cho cuộc sống của con người trở nên sinh động, tươi vui, đẹp đẽ hơn... (Kể chuyện và hát ru 29/04/2024)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/vi-than-cua-am-nhac-c43-38025.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_5/v2_293004_21h45_ke_chuyen_va_hat_ru_25202416.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 02 May 2024 19:00:00 +0700</pubDate>
     </item>
   </channel>
