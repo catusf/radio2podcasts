@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 30 May 2024 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 02 Jun 2024 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 30 May 2024 19:00:00 +0700</pubDate>
+    <pubDate>Sun, 02 Jun 2024 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,18 @@
     <itunes:subtitle>Văn nghệ thiếu nhi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Vannghethieunhi.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Chương trình đổi mới môn Ngữ văn: Câu chuyện về triết lý nhân sinh (Phần 3) 30/5/2024</title>
+      <title>Tình yêu của mẹ qua trang sách 2/6/2024</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/tinh-yeu-cua-me-qua-trang-sach-c44-38080.aspx</link>
+      <description><![CDATA[Hoạt động nghệ thuật liên quan tới mẹ và con luôn thu hút khá đông khán giả tham dự, bởi trong trái tim mỗi người
+mẹ luôn đầy ắp tình yêu thương dành cho con, và trong trái tim của những người
+con thì luôn có hình ảnh thân thương về mẹ. Xuất phát từ điều đó, vừa qua, phòng đọc của Công ty cổ phần Văn
+hóa và Truyền thông Nhã Nam đã tổ chức buổi tọa đàm “Tình yêu của mẹ qua trang sách”... (Trang Văn học Nghệ thuật tuổi mới lớn 21/05/2024)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/tinh-yeu-cua-me-qua-trang-sach-c44-38080.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_6/v2_2105_10h4518h15_van_nghe_thieu_nhi_26202421.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 02 Jun 2024 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Chương trình đổi mới môn Ngữ văn: Câu chuyện về triết lý nhân sinh (Phần 3)  30/5/2024</title>
       <link>http://vov6.vov.vn/van-nghe-thieu-nhi/chuong-trinh-doi-moi-mon-ngu-van-cau-chuyen-ve-triet-ly-nhan-sinh-phan-3-c44-38079.aspx</link>
       <description><![CDATA[Tiếp tục chia sẻ những bài học về triết lý nhân sinh trong môn Ngữ văn ở khía cạnh tiếp cận chi tiết, hình ảnh và không gian, thời gian nghệ thuật trong tác phẩm, cô giáo Hà Vinh Tâm (giáo viên Ngữ văn trường THPT Cửa Lò – Nghệ An) có những trao đổi cụ thể và sâu sắc. Chúng mình cùng nghe! (Văn nghệ thiếu nhi 27/05/2024)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/chuong-trinh-doi-moi-mon-ngu-van-cau-chuyen-ve-triet-ly-nhan-sinh-phan-3-c44-38079.aspx</guid>
@@ -37,16 +48,6 @@
       <description><![CDATA[Trong chương trình tuần trước, chúng ta đã nghe cô Hà Vinh Tâm (giáo viên ngữ văn trường THPT Cửa Lò, Nghệ An) chia sẻ về ý nghĩa và tầm quan trọng của triết lý nhân sinh trong bộ môn Ngữ văn. Chương trình hôm nay, cô giáo Vinh Tâm tiếp tục đồng hành với chúng ta trong phần tiếp theo của triết lý nhân sinh ở khía cạnh tác phẩm nhé! (Văn nghệ thiếu nhi 20/05/2025)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/chuong-trinh-doi-moi-mon-ngu-van-cau-chuyen-ve-triet-ly-nhan-sinh-phan-2-c44-38073.aspx</guid>
       <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_5/v2_2005_10h4518h15_van_nghe_thieu_nhi_285202422.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 28 May 2024 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Gặp gỡ "Hoàng tử trăn" (Phần 2 )  28/5/2024</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/gap-go-hoang-tu-tran-phan-2-c44-38070.aspx</link>
-      <description><![CDATA[Trong chương trình trước, chúng ta đã cùng nhau nghe NSND Tống Toàn Thắng trò chuyện về những tiết mục xiếc trăn. Buổi hôm nay nghệ sỹ muốn chia sẻ hồi ức về những năm tháng tuổi thơ 
-cũng như bật mí với chúng mình các chương trình đặc sắc của Liên đoàn
-Xiếc Việt Nam dịp hè này đấy... (Văn nghệ thiếu nhi 15/05/2024)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/gap-go-hoang-tu-tran-phan-2-c44-38070.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_5/v2_1505_10h4518h15_van_nghe_thieu_nhi_285202412.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 28 May 2024 19:00:00 +0700</pubDate>
     </item>
   </channel>
