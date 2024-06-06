@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 02 Jun 2024 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jun 2024 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 02 Jun 2024 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 06 Jun 2024 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,31 +24,32 @@
     <itunes:subtitle>Văn nghệ thiếu nhi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Vannghethieunhi.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Thực hành tranh khắc gỗ  2/6/2024</title>
+      <title>Giấc mơ tuổi thần tiên 6/6/2024</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/giac-mo-tuoi-than-tien-c44-38088.aspx</link>
+      <description><![CDATA[Mùa hè này, Liên đoàn Xiếc Việt Nam đã công
+diễn chương trình xiếc “Giấc mơ tuổi thần tiên” cực công phu và ấn tượng. Chương trình không chỉ mang đến cho chúng mình những màn trình diễn đẹp mắt mà còn dẫn chúng mình bước vào thế giới của các siêu anh hùng cùng những bài học ý nghĩa, với cách tiếp cận vô cùng gần gũi... (Văn nghệ thiếu nhi 29/5/2024)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/giac-mo-tuoi-than-tien-c44-38088.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_6/v2_2905_10h45_18h15_van_nghe_thieu_nhi_66202413.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 06 Jun 2024 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Nét vẽ ngày hè   6/6/2024</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/net-ve-ngay-he-c44-38087.aspx</link>
+      <description><![CDATA[Giữa những ngày oi nóng, các bạn thường làm gì để “hạ
+nhiệt”? Các bạn có thể đi biển, đi dã ngoại, đi bơi ở bể bơi… nhưng có
+bạn nào nghĩ rằng vẽ tranh cũng là một cách để chúng ta cảm thấy sáng khoái, mát
+lành hơn không? (Kể chuyện và hát ru 22/05/2024)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/net-ve-ngay-he-c44-38087.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_6/v2_2205_10h4518h15_van_nghe_thieu_nhi_66202413.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 06 Jun 2024 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Thực hành tranh khắc gỗ   2/6/2024</title>
       <link>http://vov6.vov.vn/van-nghe-thieu-nhi/thuc-hanh-tranh-khac-go-c44-38081.aspx</link>
       <description><![CDATA[Vài năm trở lại đây, nhiều bạn trẻ thường tìm hiểu, tham dự khóa học ngắn về tranh khắc gỗ. Một trong các yếu tố không thể thiếu khi thực hành tranh khắc gỗ, đó là độ khỏe khoắn, dẻo dai của đôi tay trong quá trình chạm khắc... (Trang Văn học Nghệ thuật tuổi mới lớn 28/05/2024)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/thuc-hanh-tranh-khac-go-c44-38081.aspx</guid>
       <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_6/v2_2805_10h4518h15_van_nghe_thieu_nhi_1_26202422.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 02 Jun 2024 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Tình yêu của mẹ qua trang sách  2/6/2024</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/tinh-yeu-cua-me-qua-trang-sach-c44-38080.aspx</link>
-      <description><![CDATA[Hoạt động nghệ thuật liên quan tới mẹ và con luôn thu hút khá đông khán giả tham dự, bởi trong trái tim mỗi người
-mẹ luôn đầy ắp tình yêu thương dành cho con, và trong trái tim của những người
-con thì luôn có hình ảnh thân thương về mẹ. Xuất phát từ điều đó, vừa qua, phòng đọc của Công ty cổ phần Văn
-hóa và Truyền thông Nhã Nam đã tổ chức buổi tọa đàm “Tình yêu của mẹ qua trang sách”... (Trang Văn học Nghệ thuật tuổi mới lớn 21/05/2024)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/tinh-yeu-cua-me-qua-trang-sach-c44-38080.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_6/v2_2105_10h4518h15_van_nghe_thieu_nhi_26202421.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 02 Jun 2024 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Chương trình đổi mới môn Ngữ văn: Câu chuyện về triết lý nhân sinh (Phần 3)  30/5/2024</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/chuong-trinh-doi-moi-mon-ngu-van-cau-chuyen-ve-triet-ly-nhan-sinh-phan-3-c44-38079.aspx</link>
-      <description><![CDATA[Tiếp tục chia sẻ những bài học về triết lý nhân sinh trong môn Ngữ văn ở khía cạnh tiếp cận chi tiết, hình ảnh và không gian, thời gian nghệ thuật trong tác phẩm, cô giáo Hà Vinh Tâm (giáo viên Ngữ văn trường THPT Cửa Lò – Nghệ An) có những trao đổi cụ thể và sâu sắc. Chúng mình cùng nghe! (Văn nghệ thiếu nhi 27/05/2024)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/chuong-trinh-doi-moi-mon-ngu-van-cau-chuyen-ve-triet-ly-nhan-sinh-phan-3-c44-38079.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_5/v2_275_10h4518h15_van_nghe_thieu_nhi_305202416.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 30 May 2024 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
