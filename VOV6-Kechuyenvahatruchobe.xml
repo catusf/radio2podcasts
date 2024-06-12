@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 11 Jun 2024 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jun 2024 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 11 Jun 2024 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 12 Jun 2024 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,18 @@
     <itunes:subtitle>Kể chuyện và hát ru cho bé</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Kechuyenvahatruchobe.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Người gieo hạt (Phần 1) 11/6/2024</title>
+      <title>Người gieo hạt (Phần 2) 12/6/2024</title>
+      <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/nguoi-gieo-hat-phan-2-c43-38102.aspx</link>
+      <description><![CDATA[Cậu học trò sau khi lên kinh thành học tập thì không về thăm bà cô nữa. Bà rất
+buồn vì điều này và thường mong ngóng cháu trở về trong những dịp nghỉ
+hè. Thậm chí bà nhớ và thương cháu tới mức nhờ bướm và dơi
+mang chùm nhãn đầu mùa tới cho cậu... (Kể chuyện và hát ru 11/06/2024)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/nguoi-gieo-hat-phan-2-c43-38102.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_6/v2_111306_21h45_ke_chuyen_va_hat_ru_1_126202410.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 12 Jun 2024 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Người gieo hạt (Phần 1)  11/6/2024</title>
       <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/nguoi-gieo-hat-phan-1-c43-38098.aspx</link>
       <description><![CDATA[Cậu bé mồ côi cả cha lẫn mẹ, sống với người cô từ khi
 còn rất nhỏ. Nhờ vậy mà cậu bé đã được ăn học đến nơi đến chốn. Khi lớn
@@ -41,14 +52,6 @@ về. Nhưng rồi tin tức về cậu học trò ngày càng xa vời vợi...
       <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/cay-nhan-con-doi-va-con-buom-c43-38086.aspx</guid>
       <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_6/v2_3105_21h45_ke_chuyen_hat_ru_66202413.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 06 Jun 2024 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Mèo mun bị phạt   3/6/2024</title>
-      <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/meo-mun-bi-phat-c43-38083.aspx</link>
-      <description><![CDATA[Những chú mèo vốn thông minh, nhanh nhẹn và tinh nghịch lắm cơ. Chơi với mèo lại có thú vị riêng. Nhưng nhiều khi, cũng vì nghịch quá mà mèo bị phạt đấy. Bé cũng đừng bênh vực cho chúng nhiều nhé, dễ làm hư chúng lắm đấy... (Kể chuyện và hát ru 29/05/2024)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/meo-mun-bi-phat-c43-38083.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_6/v2_293005_21h45_ke_chuyen_hat_ru_3620249.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 03 Jun 2024 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
