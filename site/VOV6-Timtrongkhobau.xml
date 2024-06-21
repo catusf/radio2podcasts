@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 13 Jun 2024 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jun 2024 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 13 Jun 2024 19:00:00 +0700</pubDate>
+    <pubDate>Fri, 21 Jun 2024 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Tìm trong kho báu</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Timtrongkhobau.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Ca dao về hình ảnh con trâu trong ý nghĩa hành ngôn 13/6/2024</title>
+      <title>Ý niệm về đôi – cặp trong ca dao người Việt về hôn nhân và gia đình 21/6/2024</title>
+      <link>http://vov6.vov.vn/tim-trong-kho-bau/y-niem-ve-doi-cap-trong-ca-dao-nguoi-viet-ve-hon-nhan-va-gia-dinh-c54-38110.aspx</link>
+      <description><![CDATA[Tình yêu, mái ấm gia đình vẫn luôn là khát vọng, hướng vọng của con người mọi thời, mọi đời. Điều đó thể hiện một cách đầy tinh tế và sâu sắc trong ca dao đề cập tới lứa đôi của người Việt ta.]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/y-niem-ve-doi-cap-trong-ca-dao-nguoi-viet-ve-hon-nhan-va-gia-dinh-c54-38110.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_6/v2_202406_08h00_tim_trong_kho_bau_pl_18h30_216202415.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 21 Jun 2024 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Ca dao về hình ảnh con trâu trong ý nghĩa hành ngôn  13/6/2024</title>
       <link>http://vov6.vov.vn/tim-trong-kho-bau/ca-dao-ve-hinh-anh-con-trau-trong-y-nghia-hanh-ngon-c54-38105.aspx</link>
       <description><![CDATA[Ngôn ngữ ca dao, tục ngữ có hình ảnh con trâu thể hiện đầy đủ các khía cạnh của văn hoá vật chất và văn hoá tinh thần. Nói đến trâu là nói đến nền sản xuất nông nghiệp và văn hoá làng xã. Bên cạnh ý nghĩa hiển ngôn, PGS.TS Lê Đức Luận – Đại học Sư phạm – Đại học Đà Nẵng còn chỉ ra ý nghĩa hành ngôn của những bài ca dao nói về hình ảnh con trâu, thể hiện những nhận xét của tác giả dân gian về con người, việc đời và rút ra các mối quan hệ nhân sinh.]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/ca-dao-ve-hinh-anh-con-trau-trong-y-nghia-hanh-ngon-c54-38105.aspx</guid>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/con-trau-trong-ngon-ngu-ca-dao-c54-38090.aspx</guid>
       <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_6/v2_061006_08h0018h30_tim_trong_kho_bau_76202411.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 07 Jun 2024 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Ý nghĩa đằng sau câu chuyện "nắm xôi" trong bài ca dao "Thằng Bờm"  29/5/2024</title>
-      <link>http://vov6.vov.vn/tim-trong-kho-bau/y-nghia-dang-sau-cau-chuyen-nam-xoi-trong-bai-ca-dao-thang-bom-c54-38077.aspx</link>
-      <description><![CDATA[Bài ca dao “Thằng Bờm” nói về câu chuyện đổi chác kịch tính gay cấn giữa hai con người đại diện cho hai tầng lớp đối lập trong xã hội phong kiến. Bài ca dao kết thúc với hình ảnh “nắm xôi” gần gũi với người lao động.Không phải ngẫu nhiên mà bài ca dao “Thằng Bờm” phổ biến trong dân gian, già trẻ, lớn bé đều thích, đều thuộc. Câu chuyện “nắm xôi” tưởng giản đơn nhưng giá trị mà những câu ca để lại vô cùng đa nghĩa và thấm thía.]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/y-nghia-dang-sau-cau-chuyen-nam-xoi-trong-bai-ca-dao-thang-bom-c54-38077.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/v6_30050306_08h00_tim_trong_kho_bau_305202410.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 29 May 2024 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
