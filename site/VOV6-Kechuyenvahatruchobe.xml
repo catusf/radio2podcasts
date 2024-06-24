@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 21 Jun 2024 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2024 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 21 Jun 2024 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 24 Jun 2024 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,18 @@
     <itunes:subtitle>Kể chuyện và hát ru cho bé</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Kechuyenvahatruchobe.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Chàng thợ săn và thiên nga (Phần 2) 21/6/2024</title>
+      <title>Người thợ săn dũng
+cảm 24/6/2024</title>
+      <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/nguoi-tho-san-dung-cam-c43-38112.aspx</link>
+      <description><![CDATA[Chuyện xưa kể rằng có chàng thợ săn tên là Shamil tài giỏi, tốt bụng. Trong một lần đi săn,
+chàng đã tha chết cho các con vật như: đại bàng, sơn dương và cáo. Các con
+vật này đều hứa rằng khi chàng gặp hoạn nạn sẽ giúp đỡ chàng... (Kể chuyện và hát ru 21/6/2024)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/nguoi-tho-san-dung-cam-c43-38112.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_6/v2_212206_21h45_ke_chuyen_va_hat_ru_246202417.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 24 Jun 2024 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Chàng thợ săn và thiên nga (Phần 2)  21/6/2024</title>
       <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/chang-tho-san-va-thien-nga-phan-2-c43-38109.aspx</link>
       <description><![CDATA[Hôm nay chúng mình có hẹn để nghe phần kết của truyện cổ tích về chàng thợ săn và thiên nga đỏ thắm. Hóa ra thiên nga đỏ là con gái của một pháp sư. Trong lúc
 chiến đấu, ông đã bị kẻ thù hãm hại và lấy đi một vật quý giá... (Kể chuyện và hát ru 18/6/2024)]]></description>
@@ -42,17 +53,6 @@ mũi tên về con thiên nga... (Kể chuyện và hát ru 17/6/2024)]]></descr
       <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/chang-tho-san-va-thien-nga-phan-1-c43-38108.aspx</guid>
       <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_6/v2_171906_21h45_ke_chuyen_va_hat_ru_216202411.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 21 Jun 2024 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Người gieo hạt (Phần 2)  12/6/2024</title>
-      <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/nguoi-gieo-hat-phan-2-c43-38102.aspx</link>
-      <description><![CDATA[Cậu học trò sau khi lên kinh thành học tập thì không về thăm bà cô nữa. Bà rất
-buồn vì điều này và thường mong ngóng cháu trở về trong những dịp nghỉ
-hè. Thậm chí bà nhớ và thương cháu tới mức nhờ bướm và dơi
-mang chùm nhãn đầu mùa tới cho cậu... (Kể chuyện và hát ru 11/06/2024)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/nguoi-gieo-hat-phan-2-c43-38102.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_6/v2_111306_21h45_ke_chuyen_va_hat_ru_1_126202410.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 12 Jun 2024 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
