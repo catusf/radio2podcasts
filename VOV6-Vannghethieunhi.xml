@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 12 Jun 2024 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2024 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 12 Jun 2024 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 24 Jun 2024 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,19 @@
     <itunes:subtitle>Văn nghệ thiếu nhi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Vannghethieunhi.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Món quà quý từ tình bạn chân thành 12/6/2024</title>
+      <title>Khi triết học đồng hành cùng văn học 24/6/2024</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/khi-triet-hoc-dong-hanh-cung-van-hoc-c44-38113.aspx</link>
+      <description><![CDATA[Bạn Phạm Bùi Gia Khanh (Lớp 10 trường Quốc tế
+Anh BIS Hà Nội) là học sinh Việt Nam đầu tiên giành Giải cuộc thi Olympic Triết
+học quốc tế (IPO) được tổ chức tại Hy Lạp vào năm ngoái. Theo chia sẻ của Gia Khanh, bạn thích đọc tài liệu về Triết học, song cảm xúc thì luôn hướng tới những gì thuộc về văn chương và chữ
+nghĩa. Gần đây, Gia Khanh và nhóm bạn trong trường đã tổ chức thành
+công trại viết văn học Camp Lumina đấy... (Trang Văn học nghệ thuật tuổi mới lớn 18/6/2024)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/khi-triet-hoc-dong-hanh-cung-van-hoc-c44-38113.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_6/v2_1806_10h4518h15_van_nghe_thieu_nhi_246202417.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 24 Jun 2024 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Món quà quý từ tình bạn chân thành  12/6/2024</title>
       <link>http://vov6.vov.vn/van-nghe-thieu-nhi/mon-qua-quy-tu-tinh-ban-chan-thanh-c44-38101.aspx</link>
       <description><![CDATA[Bạn Lê Sinh Hùng là một trong bốn tác giả vinh dự được
 nhận giải thưởng Khát vọng Dế Mèn mùa thứ 5. Tác phẩm của Hùng là cuốn truyện tranh nhan đề “Thư viện kỳ bí” được bạn sáng tác vào cuối năm ngoái. Câu chuyện xoay quanh tình bạn giữa Lu
@@ -43,18 +55,6 @@ nhiều thể loại như cổ tích, đồng dao, thơ, truyện. Nhà
 thơ đặt mình vào thế giới tuổi thơ để khám phá, phát hiện những nét đẹp ngộ nghĩnh, sáng trong, nhân hậu... (Văn nghệ thiếu nhi 6/6/2024)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/xuan-quynh-am-ap-nhung-trang-viet-cho-thieu-nhi-c44-38100.aspx</guid>
       <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_6/v2_0606_10h4518h15_van_nghe_thieu_nhi_116202415.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 11 Jun 2024 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Bốn mùa đi qua   11/6/2024</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/bon-mua-di-qua-c44-38099.aspx</link>
-      <description><![CDATA[Mỗi chúng ta có cảm nhận khác nhau về vẻ đẹp cũng như sự
-thân quen nơi mình sinh sống. Nếu như các bạn ở miền núi luôn nhớ 
- màu xanh ngút ngàn trùng điệp của núi của rừng thì
-các bạn ở vùng nông thôn đồng bằng lại thân quen với những cánh đồng lúa chín, 
-những thửa ruộng mang hơi thở nồng nàn của đất,  các bạn ở phố thị cảm nhận bốn mùa qua đi bằng sắc hoa trải dài từng con phố... (Trang văn học nghệ thuật Tuổi mới lớn 4/6/2024)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/bon-mua-di-qua-c44-38099.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_6/v2_0406_10h4518h15_van_nghe_thieu_nhi_116202415.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 11 Jun 2024 19:00:00 +0700</pubDate>
     </item>
   </channel>
