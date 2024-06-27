@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 21 Jun 2024 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jun 2024 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 21 Jun 2024 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 26 Jun 2024 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Tìm trong kho báu</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Timtrongkhobau.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Ý niệm về đôi – cặp trong ca dao người Việt về hôn nhân và gia đình 21/6/2024</title>
+      <title>Khát vọng lứa đôi trong ca dao người Việt 26/6/2024</title>
+      <link>http://vov6.vov.vn/tim-trong-kho-bau/khat-vong-lua-doi-trong-ca-dao-nguoi-viet-c54-38117.aspx</link>
+      <description><![CDATA[Một mái ấm, một người bạn đời cùng chia sẻ buồn vui, đó là khát vọng, là mục đích hướng tới trong cuộc sống của người Việt ta nhiều đời nay. Mái ấm gia đình là giá trị tinh thần của con người ở tuổi trưởng thành. Trong ca dao về hôn nhân và tình cảm vợ chồng đã đề cập một cách kỹ lưỡng điều này, cho thấy đó là đặc trưng văn hoá của con người, dân tộc ta.]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/khat-vong-lua-doi-trong-ca-dao-nguoi-viet-c54-38117.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/v2_2706_0107_08h0018h30_tim_trong_kho_bau_27620249.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 26 Jun 2024 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Ý niệm về đôi – cặp trong ca dao người Việt về hôn nhân và gia đình  21/6/2024</title>
       <link>http://vov6.vov.vn/tim-trong-kho-bau/y-niem-ve-doi-cap-trong-ca-dao-nguoi-viet-ve-hon-nhan-va-gia-dinh-c54-38110.aspx</link>
       <description><![CDATA[Tình yêu, mái ấm gia đình vẫn luôn là khát vọng, hướng vọng của con người mọi thời, mọi đời. Điều đó thể hiện một cách đầy tinh tế và sâu sắc trong ca dao đề cập tới lứa đôi của người Việt ta.]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/y-niem-ve-doi-cap-trong-ca-dao-nguoi-viet-ve-hon-nhan-va-gia-dinh-c54-38110.aspx</guid>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/ca-dao-ve-hinh-anh-con-trau-trong-y-nghia-hanh-ngon-c54-38105.aspx</guid>
       <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_6/v2_131706_08h0018h30_tim_trong_kho_bau_136202410.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 13 Jun 2024 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Con trâu trong ngôn ngữ ca dao  7/6/2024</title>
-      <link>http://vov6.vov.vn/tim-trong-kho-bau/con-trau-trong-ngon-ngu-ca-dao-c54-38090.aspx</link>
-      <description><![CDATA[Nói đến hình ảnh con trâu là nói đến nền sản xuất nông nghiệp và văn hoá làng xã. Ngày nay, thời đại máy móc và công nghiệp, chúng ta ít thấy hình ảnh con trâu kéo cày trên cánh đồng như những ngày xưa. Thật đáng quý là vẫn còn lại những câu ca cho thấy quan niệm của cha ông về một loài vật gắn bó thân thuộc, và sâu đậm hơn cả là ân tình gửi gắm trong hình ảnh đẹp về lao động sản xuất nông nghiệp.]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/con-trau-trong-ngon-ngu-ca-dao-c54-38090.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_6/v2_061006_08h0018h30_tim_trong_kho_bau_76202411.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 07 Jun 2024 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
