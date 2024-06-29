@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 27 Jun 2024 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 29 Jun 2024 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 27 Jun 2024 19:00:00 +0700</pubDate>
+    <pubDate>Sat, 29 Jun 2024 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,19 @@
     <itunes:subtitle>Văn nghệ thiếu nhi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Vannghethieunhi.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Đọc truyện "Lũ trẻ nhà Penderwicks" - Buổi thứ tư - Khu vườn đặc biệt  27/6/2024</title>
+      <title>Nâng cao khả năng cảm thụ văn học 29/6/2024</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/nang-cao-kha-nang-cam-thu-van-hoc-c44-38125.aspx</link>
+      <description><![CDATA[Đọc sách, nghe và xem những chương trình bổ trợ cho môn
+ngữ văn là một cách để chúng mình vừa nâng cao khả năng đọc, cảm thụ
+văn học, vừa được thư giãn đấy, các bạn ạ. Cùng nghe những chia sẻ của cô
+Trần Thu Lan, giáo viên trường THCS Trưng Vương, quận Hoàn Kiếm, Hà Nội
+về những hoạt động trải nghiệm này nha! (Văn nghệ thiếu nhi 24/6/2024)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/nang-cao-kha-nang-cam-thu-van-hoc-c44-38125.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_6/v2_2406_10h4518h15_van_nghe_thieu_nhi_296202416.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 29 Jun 2024 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Đọc truyện "Lũ trẻ nhà Penderwicks" - Buổi thứ tư - Khu vườn đặc biệt   27/6/2024</title>
       <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-lu-tre-nha-penderwicks-buoi-thu-tu-khu-vuon-dac-biet-c44-38124.aspx</link>
       <description><![CDATA[Gần ngôi nhà gia đình ông Penderwicks
 đang ở có một khu vườn được bà Tifton rất yêu thích. Bà đã giao cho anh Cagney
@@ -44,19 +56,6 @@ chuyện hấp dẫn. Em út Batty khá nhút nhát cả ngày thích chơi vớ
 con gái này sẽ có kỳ nghỉ hè thú vị như thế nào ở khu nghỉ dưỡng nhỉ? (Văn nghệ thiếu nhi 22/06/2024)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-lu-tre-nha-penderwicks-buoi-thu-ba-nha-co-bon-chi-em-c44-38123.aspx</guid>
       <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_6/v2_2206_10h4518h15_van_nghe_thieu_nhi_276202421.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 27 Jun 2024 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đọc truyện "Lũ trẻ nhà Penderwicks" - Buổi thứ hai - Lạc đường   27/6/2024</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-lu-tre-nha-penderwicks-buoi-thu-hai-lac-duong-c44-38122.aspx</link>
-      <description><![CDATA[Xe chạy lòng vòng gần 2 giờ
-đồng hồ mà vẫn chưa tìm thấy phố Stafford. Lạc lối và kiệt sức, 4 chị em bắt đầu
-cãi vã và đổ lỗi cho nhau. Chỉ còn ông Penderwicks giữ được bình tĩnh. Đúng lúc
-đó thì gia đình gặp ông Harry- người nông bán cà chua vui tính và tốt bụng. Bác ấy
-đã nhiệt tình chỉ dẫn để gia đình Penderwicks nhanh chóng tìm được đường tới khu nghỉ
-dưỡng Arundel... (Văn nghệ thiếu nhi 21/6/2024)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-lu-tre-nha-penderwicks-buoi-thu-hai-lac-duong-c44-38122.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_6/v2_2106_10h4518h15_van_nghe_thieu_nhi_276202421.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 27 Jun 2024 19:00:00 +0700</pubDate>
     </item>
   </channel>
