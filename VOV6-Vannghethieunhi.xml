@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 29 Jun 2024 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jul 2024 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 29 Jun 2024 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 02 Jul 2024 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,17 @@
     <itunes:subtitle>Văn nghệ thiếu nhi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Vannghethieunhi.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Bí ẩn giọt nước ngôn từ  29/6/2024</title>
+      <title>Nào, mình cùng xoay 2/7/2024</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/nao-minh-cung-xoay-c44-38128.aspx</link>
+      <description><![CDATA[Với những điệu múa uyển chuyển, đẹp mắt, các diễn viên múa ba-lê cũng thường
+được gọi là các vũ công ba-lê đấy! Khi đứng trên đầu ngón chân và xoay những vòng tròn - cảm giác ấy thật thú vị. Các bạn nghĩ sao nếu chúng ta theo học lớp múa ba-lê chuyên
+nghiệp do một nghệ sỹ có nhiều năm trong nghề hướng dẫn nhỉ? (Văn nghệ thiếu nhi 19/6/2024)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/nao-minh-cung-xoay-c44-38128.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_7/v2_1906_10h4518h15_van_nghe_thieu_nhi_27202416.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 02 Jul 2024 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Bí ẩn giọt nước ngôn từ   29/6/2024</title>
       <link>http://vov6.vov.vn/van-nghe-thieu-nhi/bi-an-giot-nuoc-ngon-tu-c44-38126.aspx</link>
       <description><![CDATA[Vừa qua tại phòng
 đọc trường quốc tế Westminster Hà Nội, nhà thơ - dịch giả - nhà nghiên cứu Nhật
@@ -45,17 +55,6 @@ về những hoạt động trải nghiệm này nha! (Văn nghệ thiếu nhi 2
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/nang-cao-kha-nang-cam-thu-van-hoc-c44-38125.aspx</guid>
       <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_6/v2_2406_10h4518h15_van_nghe_thieu_nhi_296202416.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 29 Jun 2024 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đọc truyện "Lũ trẻ nhà Penderwicks" - Buổi thứ tư - Khu vườn đặc biệt   27/6/2024</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-lu-tre-nha-penderwicks-buoi-thu-tu-khu-vuon-dac-biet-c44-38124.aspx</link>
-      <description><![CDATA[Gần ngôi nhà gia đình ông Penderwicks
-đang ở có một khu vườn được bà Tifton rất yêu thích. Bà đã giao cho anh Cagney
-chăm sóc. Ngay từ ngày đầu tới đây, Skye đã nhận thấy khu vườn có điều
-gì đó rất đặc biệt... (Văn nghệ thiếu nhi 23/06/2024)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-lu-tre-nha-penderwicks-buoi-thu-tu-khu-vuon-dac-biet-c44-38124.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_6/v2_2306_10h4518h15_van_nghe_thieu_nhi_276202421.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 27 Jun 2024 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
