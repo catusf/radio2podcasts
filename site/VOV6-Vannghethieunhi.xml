@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 05 Jul 2024 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jul 2024 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 05 Jul 2024 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 08 Jul 2024 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,26 @@
     <itunes:subtitle>Văn nghệ thiếu nhi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Vannghethieunhi.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>"An" và "Yên" cùng tuổi hồng  5/7/2024</title>
+      <title>Khúc ca mùa hè của nhạc sỹ Lê Dũng  8/7/2024</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/khuc-ca-mua-he-cua-nhac-sy-le-dung-c44-39143.aspx</link>
+      <description><![CDATA[Những giai điệu của ca khúc thiếu nhi viết về mùa hè thường rất
+vui tươi, sôi nổi, gợi bao điều háo hức, hân hoan. Trong hàng chục ca khúc viết cho thiếu nhi, nhạc sĩ Lê Dũng cũng sáng tác những ca khúc về mùa hè đấy.  Một trong số đó là “Hè về bên em”... (Văn nghệ thiếu nhi 3/7/2024)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/khuc-ca-mua-he-cua-nhac-sy-le-dung-c44-39143.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_7/v2_0307_10h4518h15_van_nghe_thieu_nhi_1_87202411.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 08 Jul 2024 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Họa sĩ Linh Rab: Tuổi thơ của chàng Dế Choắt   8/7/2024</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/hoa-si-linh-rab-tuoi-tho-cua-chang-de-choat-c44-39142.aspx</link>
+      <description><![CDATA[Họa sĩ Linh Rab sinh năm 1985 tại Thái Bình. Anh được
+nhiều bạn nhỏ yêu mến qua bộ truyện tranh “Cuộc phiêu lưu của Dế Choắt” - tác phẩm vừa được trao giải thưởng thiếu nhi “Dế Mèn” năm nay. Họa sĩ Linh
+Rab đã có một hành trình say mê cùng hội họa từ thời thơ ấu đấy các bạn ạ! (Văn nghệ thiếu nhi 26/6/2024)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/hoa-si-linh-rab-tuoi-tho-cua-chang-de-choat-c44-39142.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_7/v2_2606_10h4518h15_van_nghe_thieu_nhi_87202411.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 08 Jul 2024 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>"An" và "Yên" cùng tuổi hồng   5/7/2024</title>
       <link>http://vov6.vov.vn/van-nghe-thieu-nhi/an-va-yen-cung-tuoi-hong-c44-39136.aspx</link>
       <description><![CDATA[Chị Đặng Châu Hoàng Yến (sinh viên trường Đại học Kinh tế thành phố Hồ Chí Minh) vừa có 2 tập thơ được xuất bản với nhan đề “An” và “Yên”. Có thể nhiều bạn sẽ thắc mắc rằng chị là dân học tự nhiên mà lại có tâm hồn yêu mến văn
 chương đến vậy?  Để trả lời cho câu hỏi này, mời các bạn nghe cuộc trò
@@ -33,30 +52,6 @@ chương dành cho tuổi chúng mình... (Trang Văn học nghệ thuật tuổ
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/an-va-yen-cung-tuoi-hong-c44-39136.aspx</guid>
       <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_7/v2_0207_10h4518h15_van_nghe_thieu_nhi_57202410.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 05 Jul 2024 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đọc truyện "Lũ trẻ nhà Penderwicks" - Buổi thứ bảy - Bánh cháy đen rồi  2/7/2024</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-lu-tre-nha-penderwicks-buoi-thu-bay-banh-chay-den-roi-c44-38131.aspx</link>
-      <description><![CDATA[Jane đã thay mặt chị gái Skye nói
-lời xin lỗi tới Jeffrey.
-Cậu bé vui vẻ nhận lời và coi như không có chuyện gì xảy ra, dù trên trán
-vẫn còn vết bầm. Cậu cũng đồng ý sang nhà Penderwicks để ăn bánh. Thế nhưng ở
-nhà, cô chị Rosalind mải đi trồng hoa hồng, cô em Skye thì đi làm bài tập. Vậy là
-bánh trong lò đã cháy đen... (Văn nghệ thiếu nhi 30/6/2024)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-lu-tre-nha-penderwicks-buoi-thu-bay-banh-chay-den-roi-c44-38131.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_7/v2_3006_10h4518h15_van_nghe_thieu_nhi_27202422.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 02 Jul 2024 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đọc truyện "Lũ trẻ nhà Penderwicks" - Buổi thứ sáu - Cùng làm bánh   2/7/2024</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-lu-tre-nha-penderwicks-buoi-thu-sau-cung-lam-banh-c44-38130.aspx</link>
-      <description><![CDATA[Trong lúc Jane sang gặp Jeffrey, Rosalind ở nhà cùng Skye
-làm bánh. Mấy chị em thống nhất rằng sau khi nói lời xin lỗi, Jane sẽ mời con trai bà
-chủ sang nhà ăn bánh. Đang làm bánh cùng Skye, Rosalind nhìn thấy anh làm
-vườn Cagney chuẩn bị di chuyển bụi hoa hồng nên chạy ra giúp... (Văn nghệ thiếu nhi 29/6/2024)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-lu-tre-nha-penderwicks-buoi-thu-sau-cung-lam-banh-c44-38130.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_7/v2_2906_10h4518h15_van_nghe_thieu_nhi_27202422.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 02 Jul 2024 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
