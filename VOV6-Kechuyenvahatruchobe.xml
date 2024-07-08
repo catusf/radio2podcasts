@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 05 Jul 2024 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jul 2024 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 05 Jul 2024 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 08 Jul 2024 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,18 @@
     <itunes:subtitle>Kể chuyện và hát ru cho bé</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Kechuyenvahatruchobe.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Hồ cá vàng  5/7/2024</title>
+      <title>Chiếc áo tàng hình 8/7/2024</title>
+      <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/chiec-ao-tang-hinh-c43-39141.aspx</link>
+      <description><![CDATA[Ngày xửa ngày xưa có chàng trai rất tốt bụng tên là Triều. Trong một lần giúp đỡ
+cụ già, anh được cụ tặng cho một chiếc áo tàng hình đặc
+biệt. Chính nhờ chiếc áo này mà Triều đã giúp đỡ được nhiều người nghèo khó
+trong vùng... (Kể chuyện và hát ru 5/7/2024)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/chiec-ao-tang-hinh-c43-39141.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_7/v2_050607_21h45_ke_chuyen_hat_ru_87202411.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 08 Jul 2024 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Hồ cá vàng   5/7/2024</title>
       <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/ho-ca-vang-c43-39138.aspx</link>
       <description><![CDATA[Câu
 chuyện đưa chúng mình tới một vùng đất rất xa, nơi có nhiều ngôi làng xinh xắn
@@ -44,17 +55,6 @@ buồn, yêu, ghét… khá giống với tính cách của các bé đấy! (K�
       <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/vi-sao-thuoc-ke-chui-ra-khoi-cap-c43-39137.aspx</guid>
       <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_7/v2_010207_21h45_ke_chuyen_hat_ru_57202410.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 05 Jul 2024 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Người thợ săn dũng
-cảm  24/6/2024</title>
-      <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/nguoi-tho-san-dung-cam-c43-38112.aspx</link>
-      <description><![CDATA[Chuyện xưa kể rằng có chàng thợ săn tên là Shamil tài giỏi, tốt bụng. Trong một lần đi săn,
-chàng đã tha chết cho các con vật như: đại bàng, sơn dương và cáo. Các con
-vật này đều hứa rằng khi chàng gặp hoạn nạn sẽ giúp đỡ chàng... (Kể chuyện và hát ru 21/6/2024)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/nguoi-tho-san-dung-cam-c43-38112.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_6/v2_212206_21h45_ke_chuyen_va_hat_ru_246202417.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 24 Jun 2024 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
