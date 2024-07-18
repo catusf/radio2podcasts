@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 11 Jul 2024 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jul 2024 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 11 Jul 2024 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 18 Jul 2024 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,8 +24,16 @@
     <itunes:subtitle>Tìm trong kho báu</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Timtrongkhobau.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Chiến lược rào đón trong ca dao tình yêu đôi lứa 18/7/2024</title>
+      <link>http://vov6.vov.vn/tim-trong-kho-bau/chien-luoc-rao-don-trong-ca-dao-tinh-yeu-doi-lua-c54-39159.aspx</link>
+      <description><![CDATA[Rào đón và bày tỏ thái độ trực tiếp qua những câu hát giao duyên, các chàng trai cô gái đã bộc lộ mong muốn và giãi bày nỗi lòng với đối phương.]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/chien-luoc-rao-don-trong-ca-dao-tinh-yeu-doi-lua-c54-39159.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_7/v2_182207_08h0018h30_tim_trong_kho_bau_187202414.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 18 Jul 2024 19:00:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Chiến lược sử dụng lối nói mơ hồ trong ca dao về tình yêu đôi lứa
- 11/7/2024</title>
+  11/7/2024</title>
       <link>http://vov6.vov.vn/tim-trong-kho-bau/chien-luoc-su-dung-loi-noi-mo-ho-trong-ca-dao-ve-tinh-yeu-doi-lua-c54-39154.aspx</link>
       <description><![CDATA[Trong số các cách thức giao tiếp trong tình yêu đôi lứa thì việc sử dụng lối nói mơ hồ, vòng vo được xem là một cách ý nhị nhằm thổ lộ tình cảm, mong muốn của các chàng trai, cô gái xưa, vốn trọng sự kín đáo. Sử dụng lối nói mơ hồ, không rõ ràng đã tạo ra những hàm ngôn trong câu thoại của cuộc giao tiếp. Tác giả dân gian đã dùng nhiều biện pháp tu từ như ẩn dụ, hoán dụ, so sánh, điển tích điển cố... Trong đó, nổi bật nhất là biện pháp tu từ ẩn dụ để nói lên cảm xúc trước một sự kiện, câu chuyện.]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/chien-luoc-su-dung-loi-noi-mo-ho-trong-ca-dao-ve-tinh-yeu-doi-lua-c54-39154.aspx</guid>
@@ -39,14 +47,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/xung-ho-trong-ca-dao-ve-tinh-yeu-doi-lua-c54-39133.aspx</guid>
       <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_7/v2_040807_08h00_18h30_tim_trong_kho_bau_47202415.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 04 Jul 2024 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Khát vọng lứa đôi trong ca dao người Việt  26/6/2024</title>
-      <link>http://vov6.vov.vn/tim-trong-kho-bau/khat-vong-lua-doi-trong-ca-dao-nguoi-viet-c54-38117.aspx</link>
-      <description><![CDATA[Một mái ấm, một người bạn đời cùng chia sẻ buồn vui, đó là khát vọng, là mục đích hướng tới trong cuộc sống của người Việt ta nhiều đời nay. Mái ấm gia đình là giá trị tinh thần của con người ở tuổi trưởng thành. Trong ca dao về hôn nhân và tình cảm vợ chồng đã đề cập một cách kỹ lưỡng điều này, cho thấy đó là đặc trưng văn hoá của con người, dân tộc ta.]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/khat-vong-lua-doi-trong-ca-dao-nguoi-viet-c54-38117.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/v2_2706_0107_08h0018h30_tim_trong_kho_bau_27620249.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 26 Jun 2024 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
