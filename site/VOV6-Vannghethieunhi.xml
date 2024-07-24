@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 22 Jul 2024 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jul 2024 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 22 Jul 2024 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 24 Jul 2024 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,19 @@
     <itunes:subtitle>Văn nghệ thiếu nhi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Vannghethieunhi.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Đọc truyện "Lũ trẻ nhà Penderwicks" - Buổi mười sáu - Tâm trạng của Jeffrey 22/7/2024</title>
+      <title>Một đề thi gợi mở  24/7/2024</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/mot-de-thi-goi-mo-c44-39175.aspx</link>
+      <description><![CDATA[Đề thi tốt nghiệp trung học phổ thông quốc gia năm nay
+có nhiều đổi mới ở ngữ liệu khi phần đọc hiểu đã dẫn một trích đoạn trong tác
+phẩm “Dòng sông và những thế hệ của nước” của nhà văn Nguyễn Quang Thiều
+ Thêm
+nữa, trường ca “Mặt đường khát vọng” của nhà thơ Nguyễn Khoa Điềm cũng đã khơi gợi cho học sinh nhiều cảm xúc khi cảm nhận và phân tích đoạn trích này... (Văn nghệ thiếu nhi 22/7/2024)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/mot-de-thi-goi-mo-c44-39175.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_7/v2_2207_10h4518h15_van_nghe_thieu_nhi_moi_247202414.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 24 Jul 2024 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Đọc truyện "Lũ trẻ nhà Penderwicks" - Buổi mười sáu - Tâm trạng của Jeffrey  22/7/2024</title>
       <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-lu-tre-nha-penderwicks-buoi-muoi-sau-tam-trang-cua-jeffrey-c44-39171.aspx</link>
       <description><![CDATA[Jeffrey mệt mỏi và
 cảm thấy không dễ chịu chút nào. Rosalind và mấy đứa em cũng cảm nhận điều
@@ -44,17 +56,6 @@ muốn rời khỏi bàn ăn và được nô đùa cùng mấy chị em nhà Ro
 mẹ vẫn ngồi đó, nghiêm nghị và khó hiểu khiến bọn trẻ không biết phải nói gì... (Văn nghệ thiếu nhi 20/07/2024)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-lu-tre-nha-penderwicks-buoi-muoi-lam-me-cua-jeffrey-c44-39170.aspx</guid>
       <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_7/v2_2007_10h4518h15_van_nghe_thieu_nhi_227202416.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 22 Jul 2024 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đọc truyện "Lũ trẻ nhà Penderwicks" - Buổi mười bốn - Bầu không khí gượng gạo   22/7/2024</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-lu-tre-nha-penderwicks-buoi-muoi-bon-bau-khong-khi-guong-gao-c44-39169.aspx</link>
-      <description><![CDATA[Rosalind tỏ ra khá lo lắng vì những đứa em bướng bỉnh không
-nghe lời, sợ rằng khi đến nhà người lạ, chúng lại làm điều gì đó không vừa lòng
-chủ nhà. Quả nhiên, chúng không được thoải mái và tự nhiên. Điều ấy khiến chúng
-vừa buồn cười, vừa tội nghiệp... (Văn nghệ thiếu nhi 19/07/2024)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-lu-tre-nha-penderwicks-buoi-muoi-bon-bau-khong-khi-guong-gao-c44-39169.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_7/v2_1907_10h4518h15_van_nghe_thieu_nhi_227202415.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 22 Jul 2024 19:00:00 +0700</pubDate>
     </item>
   </channel>
