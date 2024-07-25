@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 18 Jul 2024 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jul 2024 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 18 Jul 2024 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 25 Jul 2024 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Tìm trong kho báu</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Timtrongkhobau.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Chiến lược rào đón trong ca dao tình yêu đôi lứa 18/7/2024</title>
+      <title>Phong tình dải yếm 25/7/2024</title>
+      <link>http://vov6.vov.vn/tim-trong-kho-bau/phong-tinh-dai-yem-c54-39176.aspx</link>
+      <description><![CDATA[Tự thuở xa xưa, cùng với nón thúng vai thao, áo tứ thân, khăn mỏ quạ, quần nái, dải yếm thắm mang lại cho người thiếu nữ vẻ đẹp dịu dàng, yểu điệu, duyên dáng mà cũng rất mặn mà và đằm thắm. Dải yếm đào -  biểu tượng cho vẻ xuân sắc trở đi trở lại trong những câu ca dao tình tứ. Một trang phục phổ biến đã trở thành đại từ danh xưng chỉ người phụ nữ Việt, đại diện cho ái tình và cũng là số mệnh của họ. Dải yếm chứng kiến nhân duyên lứa đôi; Câu chuyện của dải yếm, là câu chuyện của ái tình, của ân nghĩa đã xuôi ngược ngàn năm đất Việt.]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/phong-tinh-dai-yem-c54-39176.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_7/v2_252907_08h00_tim_trong_kho_bau_pl_18h30_257202415.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 25 Jul 2024 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Chiến lược rào đón trong ca dao tình yêu đôi lứa  18/7/2024</title>
       <link>http://vov6.vov.vn/tim-trong-kho-bau/chien-luoc-rao-don-trong-ca-dao-tinh-yeu-doi-lua-c54-39159.aspx</link>
       <description><![CDATA[Rào đón và bày tỏ thái độ trực tiếp qua những câu hát giao duyên, các chàng trai cô gái đã bộc lộ mong muốn và giãi bày nỗi lòng với đối phương.]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/chien-luoc-rao-don-trong-ca-dao-tinh-yeu-doi-lua-c54-39159.aspx</guid>
@@ -39,14 +47,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/chien-luoc-su-dung-loi-noi-mo-ho-trong-ca-dao-ve-tinh-yeu-doi-lua-c54-39154.aspx</guid>
       <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_7/v2_111507_08h00_tim_trong_kho_bau_pl_18h30_117202412.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 11 Jul 2024 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Xưng hô trong ca dao về tình yêu đôi lứa  4/7/2024</title>
-      <link>http://vov6.vov.vn/tim-trong-kho-bau/xung-ho-trong-ca-dao-ve-tinh-yeu-doi-lua-c54-39133.aspx</link>
-      <description><![CDATA[Trong ca dao về đề tài tình yêu đôi lứa, có nhiều cách xưng hô khác nhau. Tùy theo cách lựa chọn từ xưng hô của nhân vật giao tiếp sẽ giúp thiết lập và duy trì mối quan hệ tình cảm. Cách xưng hô trong ca dao tình yêu đã thấy được thái độ, tình cảm của người nói đối với người nghe. Đó cũng là yếu tố làm nên chất trữ tình, điểm đặc sắc của thể loại văn học dân gian này]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/xung-ho-trong-ca-dao-ve-tinh-yeu-doi-lua-c54-39133.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_7/v2_040807_08h00_18h30_tim_trong_kho_bau_47202415.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 04 Jul 2024 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
