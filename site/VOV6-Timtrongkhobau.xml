@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 07 Aug 2024 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 15 Aug 2024 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 07 Aug 2024 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 15 Aug 2024 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Tìm trong kho báu</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Timtrongkhobau.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Chiều chiều - Nỗi nhớ trong ca dao 7/8/2024</title>
+      <title>Phong dao của Á Nam - Trần Tuấn Khải 15/8/2024</title>
+      <link>http://vov6.vov.vn/tim-trong-kho-bau/phong-dao-cua-a-nam-tran-tuan-khai-c54-39212.aspx</link>
+      <description><![CDATA[Trong tập Hai của cuốn sách “Nhà văn hiện đại”, nhà phê bình Vũ Ngọc Phan tôn kính gọi Á Nam – Trần Tuấn Khải là thi gia. Ông đánh giá: “Những bài ca, những bài phong dao của Á Nam được người đời hoan nghênh bởi những bài ấy rất hợp với tính tình và tư tưởng hạng người bậc trung trong xã hội nước ta”.]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/phong-dao-cua-a-nam-tran-tuan-khai-c54-39212.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_8/v2_151908_08h0018h30_tim_trong_kho_bau_158202410.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 15 Aug 2024 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Chiều chiều - Nỗi nhớ trong ca dao  7/8/2024</title>
       <link>http://vov6.vov.vn/tim-trong-kho-bau/chieu-chieu-noi-nho-trong-ca-dao-c54-39199.aspx</link>
       <description><![CDATA[Chương trình “Tìm trong kho báu” tuần này, ngay sau bài phân tích về mô – típ “Chiều chiều” trong ca dao, nhà thơ Vũ Quần Phương chia sẻ cùng Quý vị và các bạn những cảm nghĩ về tình cảm và trí tuệ người xưa thể hiện qua những áng thơ dân gian tiêu biểu. Chuyên mục “Chuyện cũ tích xưa” tìm về với câu chuyện ngọn nguồn câu ca “Chiều chiều trước bến Văn Lâu”]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/chieu-chieu-noi-nho-trong-ca-dao-c54-39199.aspx</guid>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/bieu-tuong-hoa-sen-trong-ca-dao-c54-39189.aspx</guid>
       <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_8/v2_010508_08h00_tim_trong_kho_bau_pl_18h30_28202410.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 02 Aug 2024 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Phong tình dải yếm  25/7/2024</title>
-      <link>http://vov6.vov.vn/tim-trong-kho-bau/phong-tinh-dai-yem-c54-39176.aspx</link>
-      <description><![CDATA[Tự thuở xa xưa, cùng với nón thúng vai thao, áo tứ thân, khăn mỏ quạ, quần nái, dải yếm thắm mang lại cho người thiếu nữ vẻ đẹp dịu dàng, yểu điệu, duyên dáng mà cũng rất mặn mà và đằm thắm. Dải yếm đào -  biểu tượng cho vẻ xuân sắc trở đi trở lại trong những câu ca dao tình tứ. Một trang phục phổ biến đã trở thành đại từ danh xưng chỉ người phụ nữ Việt, đại diện cho ái tình và cũng là số mệnh của họ. Dải yếm chứng kiến nhân duyên lứa đôi; Câu chuyện của dải yếm, là câu chuyện của ái tình, của ân nghĩa đã xuôi ngược ngàn năm đất Việt.]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/phong-tinh-dai-yem-c54-39176.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_7/v2_252907_08h00_tim_trong_kho_bau_pl_18h30_257202415.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 25 Jul 2024 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
