@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 20 Aug 2024 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2024 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 20 Aug 2024 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 21 Aug 2024 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,17 @@
     <itunes:subtitle>Văn nghệ thiếu nhi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Vannghethieunhi.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Năm giác quan trong viết văn 20/8/2024</title>
+      <title>“Chị Sáu ở Côn Đảo”: Vẻ đẹp người nữ anh hùng  21/8/2024</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/chi-sau-o-con-dao-ve-dep-nguoi-nu-anh-hung-c44-39226.aspx</link>
+      <description><![CDATA[Trong nhiều tấm gương anh dũng, thế hệ trẻ sẽ không thể quên người nữ anh hùng Võ Thị Sáu đã ngã xuống khi vừa tròn 16 tuổi. Nhân dịp này, tại phòng đọc của Nhà xuất bản Kim Đồng,
+buổi đọc sách “Chị Sáu ở Côn Đảo” của tác giả Lê Quang Vịnh đã thu hút nhiều bạn học sinh, sinh viên muốn tìm hiểu về cuộc đời của người
+nữ anh hùng... (Trang Văn học nghệ thuật tuổi mới lớn 13/8/2024)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/chi-sau-o-con-dao-ve-dep-nguoi-nu-anh-hung-c44-39226.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_8/v2_1308_10h4518h15_van_nghe_thieu_nhi_21820249.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 21 Aug 2024 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Năm giác quan trong viết văn  20/8/2024</title>
       <link>http://vov6.vov.vn/van-nghe-thieu-nhi/nam-giac-quan-trong-viet-van-c44-39225.aspx</link>
       <description><![CDATA[Trong chương trình tuần trước, nhà thơ Lữ Mai chia sẻ về việc sử dụng các biện pháp tu từ so sánh và nhân hóa trong viết văn và sáng tác. Hôm nay, nhà thơ Lữ Mai tiếp tục chia sẻ về 5 giác quan trong việc viết văn như thế nào. (Văn nghệ thiếu nhi 19/8/2024)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/nam-giac-quan-trong-viet-van-c44-39225.aspx</guid>
@@ -43,20 +53,6 @@ một cậu bé vì lý do đặc biệt mà không thể thực hiện niềm y
 mình... (Văn nghệ thiếu nhi 15/8/2024)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/nha-van-phong-diep-nhay-len-va-het-c44-39224.aspx</guid>
       <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_8/v2_1508_10h4518h15_van_nghe_thieu_nhi_208202411.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 20 Aug 2024 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Tuổi mới lớn với câu hỏi “Tôi là ai”  20/8/2024</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/tuoi-moi-lon-voi-cau-hoi-toi-la-ai-c44-39223.aspx</link>
-      <description><![CDATA[Nhằm giúp các em có thêm cách thức triển khai
-nhiều chủ đề trong cuộc sống, đặc biệt là vấn đề của bản thân, vừa qua tiến sĩ giáo
-dục Nguyễn Chí Hiếu đã có buổi trò chuyện với các bạn học sinh từ 13 đến 18 tuổi
-về chủ đề “Tôi là ai”. Các bạn học sinh đã đưa ra
-nhiều tình huống, mong diễn giả Nguyễn Chí Hiếu có thể gợi ý để các bạn tự
-sắp xếp, đánh giá mình đang ở đâu để hoàn thiện bản thân trong dòng chảy xã hội
-nhiều biến động hiện nay... (Trang Văn học nghệ thuật tuổi mới lớn 6/8/2024)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/tuoi-moi-lon-voi-cau-hoi-toi-la-ai-c44-39223.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_8/v2_0608_10h4518h15_van_nghe_thieu_nhi_208202411.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 20 Aug 2024 19:00:00 +0700</pubDate>
     </item>
   </channel>
