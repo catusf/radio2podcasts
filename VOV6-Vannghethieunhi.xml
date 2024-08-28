@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 26 Aug 2024 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 28 Aug 2024 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 26 Aug 2024 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 28 Aug 2024 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,18 @@
     <itunes:subtitle>Văn nghệ thiếu nhi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Vannghethieunhi.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Đọc truyện "Lũ trẻ nhà Penderwicks" - Buổi ba mươi mốt - Kế hoạch của Jeffrey 26/8/2024</title>
+      <title>Học vẽ ở làng trẻ SOS 28/8/2024</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/hoc-ve-o-lang-tre-sos-c44-39238.aspx</link>
+      <description><![CDATA[Nghệ thuật mang đến những điều tốt đẹp cho mọi người và nhất là đối với
+những bạn nhỏ trong Làng trẻ SOS thì nghệ thuật còn mang những giá trị đặc biệt. Xuất phát từ tình yêu trẻ thơ và tấm lòng nhân văn, 5 năm vừa qua, kiến trúc
+sư Tôn Thất Hiếu Khoa đã cùng các cộng sự trong TK
+Studio tài trợ họa phẩm, tổ chức các lớp dạy vẽ miễn phí cho trẻ em Làng SOS Huế. Tuy nhiên trên hành trình thiện nguyện ấy cũng còn nhiều khó khăn... (Văn nghệ thiếu nhi 21/8/2024)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/hoc-ve-o-lang-tre-sos-c44-39238.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_8/v2_2108_10h4518h15_van_nghe_thieu_nhi_288202414.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 28 Aug 2024 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Đọc truyện "Lũ trẻ nhà Penderwicks" - Buổi ba mươi mốt - Kế hoạch của Jeffrey  26/8/2024</title>
       <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-lu-tre-nha-penderwicks-buoi-ba-muoi-mot-ke-hoach-cua-jeffrey-c44-39233.aspx</link>
       <description><![CDATA[Skye và Jane lo lắng cho Jeffrey vì sợ cậu buồn khi tới Boston. Rosalind cũng băn khoăn không tài nào ngủ được. Cô bé luôn tự hỏi liệu
 mình có đang bao che cho Jeffrey không? Ông Penderwick để ý thấy dạo
@@ -42,17 +53,6 @@ nào, bởi tính kỷ luật nghiêm khắc rất cao. Cậu muốn ở lại �
 vui chơi với chị em nhà Penderwick cùng chú cún nhỏ dễ thương... (Văn nghệ thiếu nhi 24/8/2024)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-lu-tre-nha-penderwicks-buoi-ba-muoi-tam-trang-cua-jeffrey-c44-39232.aspx</guid>
       <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_8/v2_2408_10h4518h15_van_nghe_thieu_nhi_268202412.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 26 Aug 2024 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đọc truyện "Lũ trẻ nhà Penderwicks" - Buổi hai mươi chín - Bản thảo của Jane   26/8/2024</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-lu-tre-nha-penderwicks-buoi-hai-muoi-chin-ban-thao-cua-jane-c44-39231.aspx</link>
-      <description><![CDATA[Khi thấy Jane không làm
-chủ được cảm xúc, đôi tay không ngừng xé các trang bản thảo, ông
-Penderwick vô cùng ngạc nhiên và bình tĩnh làm dịu cơn nóng giận của Jane. Ông động viên Jane rằng bản thảo cuốn truyện có sức hấp dẫn
-riêng và sẽ có một nhà xuất bản uy tín đồng ý phát hành... (Văn nghệ thiếu nhi 23/8/2024)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-lu-tre-nha-penderwicks-buoi-hai-muoi-chin-ban-thao-cua-jane-c44-39231.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_8/v2_2308_10h4518h15_van_nghe_thieu_nhi_268202411.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 26 Aug 2024 19:00:00 +0700</pubDate>
     </item>
   </channel>
