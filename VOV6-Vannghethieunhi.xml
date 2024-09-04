@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 28 Aug 2024 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 04 Sep 2024 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 28 Aug 2024 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 04 Sep 2024 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,18 @@
     <itunes:subtitle>Văn nghệ thiếu nhi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Vannghethieunhi.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Học vẽ ở làng trẻ SOS 28/8/2024</title>
+      <title>Đọc truyện "Lũ trẻ nhà Penderwicks" - Buổi ba mươi hai - Những món quà  4/9/2024</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-lu-tre-nha-penderwicks-buoi-ba-muoi-hai-nhung-mon-qua-c44-39247.aspx</link>
+      <description><![CDATA[Sau khi dọn dẹp, sắp xếp đồ đạc để chuẩn bị rời đi, gia đình Penderwicks
+chuẩn bị những món quà để tặng cho Jeffrey. Jane tặng cuốn
+sách “Sabrina Starr giải cứu một cậu bé”, Batty tặng bức ảnh cún
+con và một bức tranh vẽ hình con bò. Skye thì vẽ một bức chân dung ngộ nghĩnh... (Văn nghệ thiếu nhi 30/8/2024)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-lu-tre-nha-penderwicks-buoi-ba-muoi-hai-nhung-mon-qua-c44-39247.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_9/v2_3008_10h4518h15_van_nghe_thieu_nhi_49202416.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 04 Sep 2024 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Học vẽ ở làng trẻ SOS  28/8/2024</title>
       <link>http://vov6.vov.vn/van-nghe-thieu-nhi/hoc-ve-o-lang-tre-sos-c44-39238.aspx</link>
       <description><![CDATA[Nghệ thuật mang đến những điều tốt đẹp cho mọi người và nhất là đối với
 những bạn nhỏ trong Làng trẻ SOS thì nghệ thuật còn mang những giá trị đặc biệt. Xuất phát từ tình yêu trẻ thơ và tấm lòng nhân văn, 5 năm vừa qua, kiến trúc
@@ -42,17 +53,6 @@ mình có đang bao che cho Jeffrey không? Ông Penderwick để ý thấy dạ
 này bọn trẻ như đang giấu ông điều gì, nhất là cậu bé Jeffrey... (Văn nghệ thiếu nhi 25/8/2024)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-lu-tre-nha-penderwicks-buoi-ba-muoi-mot-ke-hoach-cua-jeffrey-c44-39233.aspx</guid>
       <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_8/v2_2508_10h4518h15_van_nghe_thieu_nhi_268202412.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 26 Aug 2024 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đọc truyện "Lũ trẻ nhà Penderwicks" - Buổi ba mươi - Tâm trạng của Jeffrey   26/8/2024</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-lu-tre-nha-penderwicks-buoi-ba-muoi-tam-trang-cua-jeffrey-c44-39232.aspx</link>
-      <description><![CDATA[Jeffrey giận bố mẹ đã bắt cậu phải tới Pencey tham gia cuộc phỏng vấn để
-vào ngôi trường mới. Jeffrey thì không muốn học ở ngôi trường này một chút
-nào, bởi tính kỷ luật nghiêm khắc rất cao. Cậu muốn ở lại để hằng ngày được
-vui chơi với chị em nhà Penderwick cùng chú cún nhỏ dễ thương... (Văn nghệ thiếu nhi 24/8/2024)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-lu-tre-nha-penderwicks-buoi-ba-muoi-tam-trang-cua-jeffrey-c44-39232.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_8/v2_2408_10h4518h15_van_nghe_thieu_nhi_268202412.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 26 Aug 2024 19:00:00 +0700</pubDate>
     </item>
   </channel>
