@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 13 Sep 2024 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 18 Sep 2024 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 13 Sep 2024 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 18 Sep 2024 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,17 @@
     <itunes:subtitle>Văn nghệ thiếu nhi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Vannghethieunhi.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Hà Nội qua những câu chuyện kể 13/9/2024</title>
+      <title>Những bài văn về tình yêu đất nước  18/9/2024</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/nhung-bai-van-ve-tinh-yeu-dat-nuoc-c44-39268.aspx</link>
+      <description><![CDATA[Lòng tự hào tự tôn dân tộc, tình yêu quê hương đất nước luôn là cảm hứng
+sâu sắc đối với các nhà văn nhà thơ và điều này còn thể hiện rõ qua từng bài văn
+của các bạn học sinh. Chúng mình ý thức hơn về trách nhiệm đối với gia đình, quê hương, cố gắng học tập và rèn luyện thật tốt, góp phần dựng xây đất nước... (Văn nghệ thiếu nhi 2/9/2024)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/nhung-bai-van-ve-tinh-yeu-dat-nuoc-c44-39268.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_9/v2_0209_10h4518h15_van_nghe_thieu_nhi_189202411.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 18 Sep 2024 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Hà Nội qua những câu chuyện kể  13/9/2024</title>
       <link>http://vov6.vov.vn/van-nghe-thieu-nhi/ha-noi-qua-nhung-cau-chuyen-ke-c44-39257.aspx</link>
       <description><![CDATA[Thế hệ trẻ cùng với tình yêu và màu sắc riêng, các
 bạn đã từng bước khơi dậy niềm tự hào về thủ đô Hà Nội - mảnh đất ngàn năm văn
@@ -46,17 +56,6 @@ tới nay... (Trang Văn học nghệ thuật tuổi mới lớn 27/8/2024)]]></
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/gia-tri-nhan-van-trong-sang-tac-ve-ha-noi-c44-39256.aspx</guid>
       <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_9/v2_2708_van_nghe_thieu_nhi_139202415.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 13 Sep 2024 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đọc truyện "Lũ trẻ nhà Penderwicks" - Buổi cuối cùng - Rời xa   4/9/2024</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-lu-tre-nha-penderwicks-buoi-cuoi-cung-roi-xa-c44-39248.aspx</link>
-      <description><![CDATA[Sáng hôm sau, mấy chị em rất buồn
-khi đồ đạc được chuyển lên xe rồi mà chưa được gặp mặt Jeffrey. Trái tim  Rosalind
- đập nhanh khác thường khi người bạn trai cô yêu mến tới chào từ biệt. Anh tặng cô
-một chậu hoa hồng rất đẹp... (Văn nghệ thiếu nhi 31/8/2024)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-lu-tre-nha-penderwicks-buoi-cuoi-cung-roi-xa-c44-39248.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_9/v2_3108_10h4518h15_van_nghe_thieu_nhi_49202416.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 04 Sep 2024 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
