@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 13 Sep 2024 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 21 Sep 2024 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 13 Sep 2024 19:00:00 +0700</pubDate>
+    <pubDate>Sat, 21 Sep 2024 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Kể chuyện và hát ru cho bé</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Kechuyenvahatruchobe.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Cuộc đua giữa diệc và chim ruồi 13/9/2024</title>
+      <title>Chim sơn ca của hoàng đế 21/9/2024</title>
+      <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/chim-son-ca-cua-hoang-de-c43-39277.aspx</link>
+      <description><![CDATA[Xưa kia, chim sơn ca sống ở khu rừng bên cạnh cung điện của nhà vua có giọng hót hay nhất thế gian.  Nhà vua sai quân vào rừng tìm bắt cho bằng được sơn ca để mang vào cung nuôi. Khi nhà vua thực hiện được mong muốn của mình, tiếng chim sơn ca có còn vang lên thánh thót, mê hồn? (Kể chuyện và hát ru 16/9/2024)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/chim-son-ca-cua-hoang-de-c43-39277.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_9/v2_1609_21h45_ke_chuyen_va_hat_ru_219202417.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 21 Sep 2024 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Cuộc đua giữa diệc và chim ruồi  13/9/2024</title>
       <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/cuoc-dua-giua-diec-va-chim-ruoi-c43-39260.aspx</link>
       <description><![CDATA[Những câu chuyện ngụ ngôn kể về cuộc chạy đua giữa các
 con vật trong rừng thì chúng mình đã được nghe nhiều rồi phải không các bé! Mỗi
@@ -44,17 +52,6 @@ Khi tỉnh dậy Mèo thấy bên cạnh mình có một chú chim. Thì ra tron
 nạn chính chú chim bé nhỏ này đã cứu tính mạng của Mèo vàng... (Kể chuyện và hát ru 4/9/2024)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/doi-canh-tinh-ban-c43-39259.aspx</guid>
       <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_9/v2_040509_21h45_ke_chuyen_va_hat_ru_139202416.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 13 Sep 2024 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Truyền thuyết Con Rồng cháu Tiên  13/9/2024</title>
-      <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/truyen-thuyet-con-rong-chau-tien-c43-39258.aspx</link>
-      <description><![CDATA[Lạc Long
-Quân là con trai của thần Long Nữ ở Đông Hải (tức biển Đông). Còn nàng Âu Cơ thuộc
-dòng họ Thần Nông, sống ở miền non cao phương Bắc. Mỗi thần đều có phép thuật
-riêng. Nếu như Lạc Long Quân tài năng, dũng cảm thì Âu Cơ là tiên nữ xinh đẹp tuyệt trần... (Kể chuyện và hát ru 2/9/2024)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/truyen-thuyet-con-rong-chau-tien-c43-39258.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_9/v2_020309_21h45_ke_chuyen_va_hat_ru_139202416.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 13 Sep 2024 19:00:00 +0700</pubDate>
     </item>
   </channel>
