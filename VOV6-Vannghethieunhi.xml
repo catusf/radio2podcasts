@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 18 Sep 2024 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 21 Sep 2024 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 18 Sep 2024 19:00:00 +0700</pubDate>
+    <pubDate>Sat, 21 Sep 2024 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Văn nghệ thiếu nhi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Vannghethieunhi.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Làm quen với Ngữ văn 6  18/9/2024</title>
+      <title>Họa sỹ Trần Thắng rong chơi cùng tuổi thơ  21/9/2024</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/hoa-sy-tran-thang-rong-choi-cung-tuoi-tho-c44-39274.aspx</link>
+      <description><![CDATA[Họa sỹ Trần Thắng sinh năm 1971 tại Nam Định, hiện sống và làm việc tại Hà Nội. Ngoài niềm đam mê hội họa, chú ấy còn làm rất nhiều thơ, là một "ông trùm" trong lĩnh vực xuất bản sách nữa đấy. Chú ấy ít nói, hiền khô, nhưng khi gợi về tuổi thơ thì chú ấy lại nói rất nhiều... (Văn nghệ thiếu nhi 4/9/2024)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/hoa-sy-tran-thang-rong-choi-cung-tuoi-tho-c44-39274.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_9/v2_0409_10h4518h15_van_nghe_thieu_nhi_219202414.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 21 Sep 2024 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Làm quen với Ngữ văn 6   18/9/2024</title>
       <link>http://vov6.vov.vn/van-nghe-thieu-nhi/lam-quen-voi-ngu-van-6-c44-39269.aspx</link>
       <description><![CDATA[Bước vào lớp 6 hẳn 
 sẽ gặp nhiều bỡ ngỡ, đặc biệt là với môn Ngữ văn  cách tiếp nhận sẽ khác so với bậc
@@ -43,18 +51,6 @@ của các bạn học sinh. Chúng mình ý thức hơn về trách nhiệm đ�
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/nhung-bai-van-ve-tinh-yeu-dat-nuoc-c44-39268.aspx</guid>
       <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_9/v2_0209_10h4518h15_van_nghe_thieu_nhi_189202411.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 18 Sep 2024 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Hà Nội qua những câu chuyện kể  13/9/2024</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/ha-noi-qua-nhung-cau-chuyen-ke-c44-39257.aspx</link>
-      <description><![CDATA[Thế hệ trẻ cùng với tình yêu và màu sắc riêng, các
-bạn đã từng bước khơi dậy niềm tự hào về thủ đô Hà Nội - mảnh đất ngàn năm văn
-hiến và lan tỏa nét đẹp ấy tới đông đảo người dân cả nước bằng những tác phẩm
-văn chương được ấn hành trong thời gian gần đây. Chương trình hôm nay tiếp tục giới thiệu tới các bạn phóng sự kỳ 2 có nhan đề “Hà Nội tồn tại qua những câu chuyện kể” nằm trong vệt bài có
-chủ đề “Hà Nội qua góc nhìn của người trẻ” do phóng viên Dương Hà thực hiện... (Trang Văn học nghệ thuật tuổi mới lớn 3/9/2024)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/ha-noi-qua-nhung-cau-chuyen-ke-c44-39257.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_9/v2_0309_10h4518h15_van_nghe_thieu_nhi_139202415.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 13 Sep 2024 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
