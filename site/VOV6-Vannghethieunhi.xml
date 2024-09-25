@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 21 Sep 2024 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 25 Sep 2024 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 21 Sep 2024 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 25 Sep 2024 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,28 +24,34 @@
     <itunes:subtitle>Văn nghệ thiếu nhi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Vannghethieunhi.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Hà Nội trong nét vẽ của họa sỹ Kim Duẩn  21/9/2024</title>
+      <title>Hà Nội trong trang viết của người trẻ 25/9/2024</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/ha-noi-trong-trang-viet-cua-nguoi-tre-c44-39284.aspx</link>
+      <description><![CDATA[Thủ đô Hà Nội qua góc nhìn của thế hệ trẻ sẽ mang
+sắc màu gì? Năm cửa ô cổ kính cùng nhiều công trình văn hóa nghệ thuật khác của
+đất kinh kỳ sẽ được khoác lên mình tấm áo mới ra sao? Phóng sự “Hà Nội trong trang viết của người trẻ” giúp chúng mình có thêm niềm tin vào góc nhìn mới mẻ, hiện đại của thế hệ
+trẻ tiếp tục duy trì và nối dài tình yêu đối với thủ đô Hà Nội mến yêu... (Trang Văn học nghệ thuật tuổi mới lớn 10/9/2024)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/ha-noi-trong-trang-viet-cua-nguoi-tre-c44-39284.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_9/v2_1009_10h4518h15_van_nghe_thieu_nhi_259202411.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 25 Sep 2024 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Để viết một bài văn sáng tạo   25/9/2024</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/de-viet-mot-bai-van-sang-tao-c44-39281.aspx</link>
+      <description><![CDATA[Để viết một bài văn độc lập và sáng
+tạo về ý tưởng, hành văn sao cho chuẩn mực, sinh động, cuốn hút và đặc biệt đề
+cao cảm xúc chân thực của người viết, đó là mục tiêu hướng tới của lớp học
+online này. Cô giáo Hà Vinh Tâm sẽ chia sẻ trong buồi học đầu tiên cho chúng
+mình nghe nhé! (Văn nghệ thiếu nhi 23/9/2024)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/de-viet-mot-bai-van-sang-tao-c44-39281.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_9/v2_2309_10h4518h15_van_nghe_thieu_nhi_259202410.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 25 Sep 2024 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Hà Nội trong nét vẽ của họa sỹ Kim Duẩn   21/9/2024</title>
       <link>http://vov6.vov.vn/van-nghe-thieu-nhi/ha-noi-trong-net-ve-cua-hoa-sy-kim-duan-c44-39276.aspx</link>
       <description><![CDATA[Sinh ra và lớn lên ở Hà Nội, họa sỹ Kim Duẩn có một tình yêu sâu nặng với từng dáng hình, màu sắc, không gian nơi đây. Trong những sáng tác của mình, hay trong các tác phẩm minh họa truyện tranh, họa sỹ đều muốn gửi gắm một phần tình yêu ấy, như một cách song hành cùng Hà Nội... (Văn nghệ thiếu nhi 18/9/2024)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/ha-noi-trong-net-ve-cua-hoa-sy-kim-duan-c44-39276.aspx</guid>
       <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_9/v2_1809_10h4518h15_van_nghe_thieu_nhi_219202415.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 21 Sep 2024 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Nhà văn Đào Bá Đoàn thương một thời thơ ấu   21/9/2024</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/nha-van-dao-ba-doan-thuong-mot-thoi-tho-au-c44-39275.aspx</link>
-      <description><![CDATA[Nhà văn Đào Bá Đoàn là tác giả của nhiều tập truyện ngắn và tiểu thuyết như: “Rượu của thời chưa
-sinh”, “Chỉ để bay qua một bình minh”,  “Mảnh vỡ”. Nếu đọc tác phẩm của nhà văn Đào Bá Đoàn, có thể nhận ra một phần tính cách của chú ấy, như sự nghiêm cẩn, cầu toàn, luôn muốn tìm kiếm những sáng tạo mới mẻ. Tính cách, tài năng và cả nghề nghiệp sau này của mỗi người một phần cũng được dệt nên từ tuổi thơ. Cùng nghe câu chuyện của chú ấy về một tuổi thơ đầy thương khó chưa xa...  (Văn nghệ thiếu nhi 11/9/2024)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/nha-van-dao-ba-doan-thuong-mot-thoi-tho-au-c44-39275.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_9/v2_1109_10h4518h15_van_nghe_thieu_nhi_219202415.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 21 Sep 2024 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Họa sỹ Trần Thắng rong chơi cùng tuổi thơ   21/9/2024</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/hoa-sy-tran-thang-rong-choi-cung-tuoi-tho-c44-39274.aspx</link>
-      <description><![CDATA[Họa sỹ Trần Thắng sinh năm 1971 tại Nam Định, hiện sống và làm việc tại Hà Nội. Ngoài niềm đam mê hội họa, chú ấy còn làm rất nhiều thơ, là một "ông trùm" trong lĩnh vực xuất bản sách nữa đấy. Chú ấy ít nói, hiền khô, nhưng khi gợi về tuổi thơ thì chú ấy lại nói rất nhiều... (Văn nghệ thiếu nhi 4/9/2024)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/hoa-sy-tran-thang-rong-choi-cung-tuoi-tho-c44-39274.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_9/v2_0409_10h4518h15_van_nghe_thieu_nhi_219202414.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 21 Sep 2024 19:00:00 +0700</pubDate>
     </item>
   </channel>
