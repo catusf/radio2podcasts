@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 25 Sep 2024 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 28 Sep 2024 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 25 Sep 2024 19:00:00 +0700</pubDate>
+    <pubDate>Sat, 28 Sep 2024 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,20 @@
     <itunes:subtitle>Văn nghệ thiếu nhi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Vannghethieunhi.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Thiên nhiên qua nét bút  25/9/2024</title>
+      <title>Kỹ năng phòng chống bão lũ từ series hoạt hình “An toàn cho con” 28/9/2024</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/ky-nang-phong-chong-bao-lu-tu-series-hoat-hinh-an-toan-cho-con-c44-39289.aspx</link>
+      <description><![CDATA[Vừa qua, Cục quản lý đê điều và phòng chống thiên tai thuộc Bộ Nông nghiệp
+và Phát triển nông thôn phối hợp cùng Công ty Times Media và Đài truyền hình Việt Nam thực
+hiện phát sóng series hoạt hình “An toàn cho con” về phòng chống bão lũ cực kỳ
+thiết thực. Series phim cũng được dịch ra các thứ tiếng Mông, Thái, Jrai và Chăm để các
+bạn đồng bào dân tộc thiểu số theo dõi đấy. Cùng tìm hiểu về series hoạt hình
+này nhé! (Văn nghệ thiếu nhi 25/09/2024)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/ky-nang-phong-chong-bao-lu-tu-series-hoat-hinh-an-toan-cho-con-c44-39289.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_9/v2_2509_10h4518h15_van_nghe_thieu_nhi_289202419.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 28 Sep 2024 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Thiên nhiên qua nét bút   25/9/2024</title>
       <link>http://vov6.vov.vn/van-nghe-thieu-nhi/thien-nhien-qua-net-but-c44-39285.aspx</link>
       <description><![CDATA[Vẽ màu nước đòi hỏi kỹ thuật khó hơn vẽ màu chì.
 Bởi màu nước thường khô nhanh nên người vẽ cần phải nắm vững cách thức pha
@@ -46,18 +59,6 @@ sắc màu gì? Năm cửa ô cổ kính cùng nhiều công trình văn hóa ng
 trẻ tiếp tục duy trì và nối dài tình yêu đối với thủ đô Hà Nội mến yêu... (Trang Văn học nghệ thuật tuổi mới lớn 10/9/2024)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/ha-noi-trong-trang-viet-cua-nguoi-tre-c44-39284.aspx</guid>
       <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_9/v2_1009_10h4518h15_van_nghe_thieu_nhi_259202411.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 25 Sep 2024 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Để viết một bài văn sáng tạo   25/9/2024</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/de-viet-mot-bai-van-sang-tao-c44-39281.aspx</link>
-      <description><![CDATA[Để viết một bài văn độc lập và sáng
-tạo về ý tưởng, hành văn sao cho chuẩn mực, sinh động, cuốn hút và đặc biệt đề
-cao cảm xúc chân thực của người viết, đó là mục tiêu hướng tới của lớp học
-online này. Cô giáo Hà Vinh Tâm sẽ chia sẻ trong buồi học đầu tiên cho chúng
-mình nghe nhé! (Văn nghệ thiếu nhi 23/9/2024)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/de-viet-mot-bai-van-sang-tao-c44-39281.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_9/v2_2309_10h4518h15_van_nghe_thieu_nhi_259202410.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 25 Sep 2024 19:00:00 +0700</pubDate>
     </item>
   </channel>
