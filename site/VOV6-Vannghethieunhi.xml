@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 04 Oct 2024 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 12 Oct 2024 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 04 Oct 2024 19:00:00 +0700</pubDate>
+    <pubDate>Sat, 12 Oct 2024 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,8 +24,17 @@
     <itunes:subtitle>Văn nghệ thiếu nhi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Vannghethieunhi.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Ký họa về Hà Nội qua thơ  12/10/2024</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/ky-hoa-ve-ha-noi-qua-tho-c44-39312.aspx</link>
+      <description><![CDATA[Cùng với những lớp trầm tích lịch sử văn hóa, Hà Nội còn mang trong mình dáng vẻ trẻ trung, hiện đại của một đô thị đang phát triển. Đặc biệt trong các sáng tác thơ, bằng góc quan sát tinh tế, mỗi địa danh,
+mỗi con đường đều rất gần gũi và thân thiện với chúng ta. Xuất phát từ xúc cảm đó, tác giả Huỳnh Mai Liên đã “ký họa” về một Hà Nội của hôm nay qua tập thơ “Bay qua Hồ Gươm”... (Văn nghệ thiếu nhi 10/10/2024)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/ky-hoa-ve-ha-noi-qua-tho-c44-39312.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_10/v2_1010_10h4518h15_van_nghe_thieu_nhi_1210202419.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 12 Oct 2024 19:00:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Gặp gỡ các họa sỹ nhí “Thiện nguyện tuổi
-hồng” 4/10/2024</title>
+hồng”  4/10/2024</title>
       <link>http://vov6.vov.vn/van-nghe-thieu-nhi/gap-go-cac-hoa-sy-nhi-thien-nguyen-tuoi-hong-c44-39298.aspx</link>
       <description><![CDATA[Mở đầu chương trình hôm nay chúng mình cùng cảm
 nhận về hành trình thiện nguyện của các họa sĩ nhí Thủ đô nhé! Tiếp đó, chúng ta
@@ -44,17 +53,6 @@ xuất bản Kim Đồng ấn hành. Lối viết chân thật, những chi ti�
 xóm, đặc biệt là cuộc sống mưu sinh vất vả của những người nông dân đã giúp chúng ta hiểu hơn về  tình đất tình người nơi có dòng sông Tiền và sông Hậu chảy qua... (Trang Văn học nghệ thuật tuổi mới lớn 1/10/2024)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/tinh-que-qua-tap-tan-van-trong-suong-thuong-ma-c44-39297.aspx</guid>
       <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_10/v2_0110_10h4518h15_van_nghe_thieu_nhi_410202415.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 04 Oct 2024 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Tìm hiểu về thơ và tản văn   4/10/2024</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/tim-hieu-ve-tho-va-tan-van-c44-39296.aspx</link>
-      <description><![CDATA[Đọc, tìm hiểu thể loại thơ và tản văn từ các tác phẩm cụ thể rồi đi đến khái
-niệm sẽ giúp các bạn nắm bắt bài học sinh động và hiệu quả hơn. Thực hành
-sáng tác những bài thơ, tản văn hay về gia đình, thầy cô, bạn bè, cảnh sắc thiên nhiên… sẽ
-giúp chúng mình cảm nhận và yêu hơn văn học đấy, các bạn ạ! (Văn nghệ thiếu nhi 30/9/2024)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/tim-hieu-ve-tho-va-tan-van-c44-39296.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_10/v2_3009_10h4518h15_van_nghe_thieu_nhi_410202415.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 04 Oct 2024 19:00:00 +0700</pubDate>
     </item>
   </channel>
