@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 01 Nov 2024 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 08 Nov 2024 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 01 Nov 2024 19:00:00 +0700</pubDate>
+    <pubDate>Fri, 08 Nov 2024 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Điểm hẹn văn nghệ</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Diemhenvannghe.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Hai tập tùy văn của Nguyễn Linh Khiếu - Chất tự sự đầy mỹ cảm 1/11/2024</title>
+      <title>"Thư tình Hoàng tử bé" - Khi tình yêu không chỉ có màu hồng 8/11/2024</title>
+      <link>http://vov6.vov.vn/diem-hen-van-nghe/thu-tinh-hoang-tu-be-khi-tinh-yeu-khong-chi-co-mau-hong-c158-39359.aspx</link>
+      <description><![CDATA[“Hoàng tử bé” của nhà văn Antoine de Saint-Exupéry là một trong những cuốn sách bán chạy mọi thời đại. Nhưng cuộc đời của tác giả cũng như chính bản thân tác phẩm này dường như vẫn còn nhiều bí ẩn. Để cung cấp cho độc giả yêu mến “Hoàng tử bé” cái nhìn rõ nét hơn về tiểu sử của Antoine de Saint-Exupéry, vừa qua, Công ty SeaBooks và NXB Thanh niên đã cho ra mắt cuốn “Thư tình Hoàng tử bé”, tập hợp những bức thư giữa tác giả Antoine và người vợ Consuelo trong khoảng thời gian hai người xa cách nhau vì chiến sự. Từ đây người đọc có cơ hội được tiến lại gần hơn với con người và đời sống thực của tác giả Antoine, đồng thời cũng hiểu thêm điều mà cha đẻ "Hoàng Tử Bé" muốn gửi gắm vào tác phẩm của mình. Sau đây, mời quý vị và các bạn cùng bước vào thế giới của những bức tình thư qua bài viết của BTV chương trình.]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/thu-tinh-hoang-tu-be-khi-tinh-yeu-khong-chi-co-mau-hong-c158-39359.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_11/gts_thu_tinh_hoang_tu_be_hc_811202412.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 08 Nov 2024 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Hai tập tùy văn của Nguyễn Linh Khiếu - Chất tự sự đầy mỹ cảm  1/11/2024</title>
       <link>http://vov6.vov.vn/diem-hen-van-nghe/hai-tap-tuy-van-cua-nguyen-linh-khieu-chat-tu-su-day-my-cam-c158-39351.aspx</link>
       <description><![CDATA[Nhà thơ PGS.TS. Nguyễn Linh Khiếu vừa ra mắt hai tác phẩm "Chân mây" và "Hoa khởi trinh". Đây là hai tập tùy văn, một dạng thức của tản văn trong văn học. “Chân mây” gồm 79 tùy văn, “Hoa khởi trinh” gồm 82 tùy văn do họa sĩ Trần Thắng trình bày mỹ thuật. Đặc điểm chung của tùy văn là ngắn gọn, hàm súc; vừa trữ tình vừa tự sự về đời sống xung quanh, những nơi nhà thơ đã từng qua. Đọc Chân mây và Khoa khởi trinh, càng cho thấy nhà thơ, PGS.TS. Nguyễn Linh Khiếu yêu thiên nhiên, sự cân bằng vĩnh cửu và trách nhiệm xã hội của một ngòi bút sung mãn sáng tạo. Ở Chân Mây và Hoa khởi trinh, dễ nhận ra những ẩn dụ giàu chất thơ, lấp lánh minh triết trữ tình của một nhà thơ xuất thân từ môi trường nghiên cứu triết học. Nguyễn Linh Khiếu luôn nhận ra sự vận động, phồn sinh trong các chiều cảm xúc, dẫu là thơ hay văn xuôi. Về 2 tập tùy văn này, pv chương trình có bài viết "2 tập tùy văn của Nguyễn Linh Khiếu - Chất tự sự đầy mỹ cảm".]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/hai-tap-tuy-van-cua-nguyen-linh-khieu-chat-tu-su-day-my-cam-c158-39351.aspx</guid>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/ngu-giua-hoa-sen-tinh-yeu-thiet-tha-voi-cuoc-doi-c158-39337.aspx</guid>
       <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_10/nguyen_anh_vu_2810202410.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 28 Oct 2024 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>“Ai nói và tại sao lại nói như thế”: Một lối kể chuyện bất ngờ và hấp dẫn   18/10/2024</title>
-      <link>http://vov6.vov.vn/diem-hen-van-nghe/ai-noi-va-tai-sao-lai-noi-nhu-the-mot-loi-ke-chuyen-bat-ngo-va-hap-dan-c158-39324.aspx</link>
-      <description><![CDATA[Nhà văn Văn Giá được biết đến nhiều với vai trò là nhà phê bình văn học và gắn bó với Khoa Viết văn - Báo chí, Trường Đại học Văn hóa Hà Nội (nơi đào tạo nhiều nhà văn, nhà thơ) trong nhiều năm qua. Nhưng truyện ngắn cũng là thể loại mà nhà văn cho rằng mình có duyên nợ và nhiều đau đáu. Từ những truyện ngắn đầu tiên xuất hiện trên văn đàn quãng năm 2008 như Về thôi, Trên máy bay… Văn Giá đã mang đến ấn tượng nhất định cho bạn đọc. Để khẳng định cho mối duyên với truyện ngắn của Văn Giá là sự ra đời lần lượt của các tập truyện ngắn Một ngày nát vụn (2009), Một ngày lưng lửng (2015), Mưa ở Bình Dương (2029). “Ai nói & tại sao lại nói như thế” là tập truyện ngắn thứ tư của nhà văn Văn Giá vừa được ấn hành.]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/ai-noi-va-tai-sao-lai-noi-nhu-the-mot-loi-ke-chuyen-bat-ngo-va-hap-dan-c158-39324.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_10/1810_gioi_thieu_sach_1810202415.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 18 Oct 2024 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
