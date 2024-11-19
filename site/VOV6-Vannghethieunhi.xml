@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 13 Nov 2024 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 19 Nov 2024 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 13 Nov 2024 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 19 Nov 2024 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,19 @@
     <itunes:subtitle>Văn nghệ thiếu nhi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Vannghethieunhi.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Đọc tiểu thuyết không khó  13/11/2024</title>
+      <title>Thăm thầy
+giáo cũ 19/11/2024</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/tham-thay-giao-cu-c44-39371.aspx</link>
+      <description><![CDATA[“Hai mươi bốn năm xa/ con ngồi lặng bên thầy/ Phố Nguyễn Du nồng nàn
+hoa sữa/ tóc thầy bạc phau/ Mái tóc con nửa đời sương gió”... Những câu thơ
+chan chứa tình cảm thầy trò, không cần nói nhiều, chỉ im lặng, nén lại, thầy và
+trò - hai mái tóc bạc phau, sương gió mà nói được nhiều điều. (Văn nghệ thiếu nhi 18/11/2024)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/tham-thay-giao-cu-c44-39371.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_11/v2_1811_10h4518h15_van_nghe_thieu_nhi_1911202411.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 19 Nov 2024 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Đọc tiểu thuyết không khó   13/11/2024</title>
       <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-tieu-thuyet-khong-kho-c44-39367.aspx</link>
       <description><![CDATA[Tiểu thuyết là một thể
 loại văn học khá khó để các bạn học sinh lớp 7 tiếp nhận thông qua những trích
@@ -43,17 +55,6 @@ gây quỹ ủng hộ đồng bào bị lũ lụt, gặp hoàn cảnh khó khăn
 với cộng đồng nữa đấy!]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/hoang-bao-anh-cay-co-nhi-tot-bung-c44-39366.aspx</guid>
       <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_11/v2_0611_10h4518h15_van_nghe_thieu_nhi_1311202412.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 13 Nov 2024 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Viết tiếp một truyện ngắn thế nào?   13/11/2024</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/viet-tiep-mot-truyen-ngan-the-nao-c44-39365.aspx</link>
-      <description><![CDATA[Tiếp tục đồng hành với chúng mình về viết văn sáng tạo,
-chương trình hôm nay cô giáo Hà Vinh Tâm, giáo viên ngữ văn trường THPT
-Cửa Lò, Nghệ An tiếp tục chia sẻ về kỹ năng và phương pháp viết tiếp câu
-chuyện trong những tác phẩm truyện ngắn mà chúng mình đã học nhé! (Văn nghệ thiếu nhi 4/11/2024)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/viet-tiep-mot-truyen-ngan-the-nao-c44-39365.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_11/v2_0411_10h4518h15_van_nghe_thieu_nhi_1311202412.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 13 Nov 2024 19:00:00 +0700</pubDate>
     </item>
   </channel>
