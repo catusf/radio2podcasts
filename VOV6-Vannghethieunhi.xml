@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 19 Nov 2024 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2024 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 19 Nov 2024 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 20 Nov 2024 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,8 +24,20 @@
     <itunes:subtitle>Văn nghệ thiếu nhi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Vannghethieunhi.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Cúc họa mi vào tranh  20/11/2024</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/cuc-hoa-mi-vao-tranh-c44-39377.aspx</link>
+      <description><![CDATA[Tháng 11 dịu dàng
+cũng là lúc những bông hoa cúc họa mi trắng tinh khôi bung nở càng khiến cho
+cảnh vật nên thơ. Chúng mình không chỉ thấy các mẹ hay cắm cúc họa mi làm đẹp cho
+ngôi nhà, mà loài hoa này cũng trở thành cảm hứng cho nhiều bộ môn nghệ thuật
+như âm nhạc, thơ ca và hội họa nữa đấy! (Văn nghệ thiếu nhi 13/11/2024)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/cuc-hoa-mi-vao-tranh-c44-39377.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_11/v2_1311_10h4518h15_van_nghe_thieu_nhi_201120249.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 20 Nov 2024 19:00:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Thăm thầy
-giáo cũ 19/11/2024</title>
+giáo cũ  19/11/2024</title>
       <link>http://vov6.vov.vn/van-nghe-thieu-nhi/tham-thay-giao-cu-c44-39371.aspx</link>
       <description><![CDATA[“Hai mươi bốn năm xa/ con ngồi lặng bên thầy/ Phố Nguyễn Du nồng nàn
 hoa sữa/ tóc thầy bạc phau/ Mái tóc con nửa đời sương gió”... Những câu thơ
@@ -44,17 +56,6 @@ loại văn học khá khó để các bạn học sinh lớp 7 tiếp nhận th
 đặc điểm, phương pháp tiếp nhận thể loại văn học này... (Văn nghệ thiếu nhi 11/11/2024)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-tieu-thuyet-khong-kho-c44-39367.aspx</guid>
       <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_11/v2_1111_10h4518h15_van_nghe_thieu_nhi_1311202415.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 13 Nov 2024 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Hoàng Bảo Anh cây cọ nhí tốt bụng   13/11/2024</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/hoang-bao-anh-cay-co-nhi-tot-bung-c44-39366.aspx</link>
-      <description><![CDATA[Những hoạt động
-hướng đến cộng đồng, những sự kiện đấu giá tranh
-gây quỹ ủng hộ đồng bào bị lũ lụt, gặp hoàn cảnh khó khăn cho thấy tấm lòng nhân ái của những người làm nghệ thuật. Noi gương thế hệ đi trước, nhiều bạn nhỏ cũng có hành động rất thiết thực, như cô bạn dễ thương mà chúng ta gặp hôm nay! (Văn nghệ thiếu nhi 6/11/2024) 
-với cộng đồng nữa đấy!]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/hoang-bao-anh-cay-co-nhi-tot-bung-c44-39366.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_11/v2_0611_10h4518h15_van_nghe_thieu_nhi_1311202412.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 13 Nov 2024 19:00:00 +0700</pubDate>
     </item>
   </channel>
