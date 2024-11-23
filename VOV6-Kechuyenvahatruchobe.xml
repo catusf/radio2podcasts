@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 19 Nov 2024 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 23 Nov 2024 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 19 Nov 2024 19:00:00 +0700</pubDate>
+    <pubDate>Sat, 23 Nov 2024 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Kể chuyện và hát ru cho bé</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Kechuyenvahatruchobe.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>"Đôi ủng da trâu": Người lính không biết sợ  19/11/2024</title>
+      <title>Sự tích núi Mẫu tử  23/11/2024</title>
+      <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/su-tich-nui-mau-tu-c43-39384.aspx</link>
+      <description><![CDATA[Ngày xưa, ở một vùng núi cao, có hai vợ chồng nhà nọ đến sinh cơ lập nghiệp. Họ cũng trồng lúa bắp, chăn nuôi gà lợn như nhiều gia đình khác. Nhưng nhờ của cải của bố mẹ để lại, họ sống có vẻ phong lưu. Rồi một hôm có người bạn cũ tới thăm... (Kể chuyện và hát ru 22/11//2024)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/su-tich-nui-mau-tu-c43-39384.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_11/v2_2211_21h45_ke_chuyen_va_hat_ru_2311202418.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 23 Nov 2024 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>"Đôi ủng da trâu": Người lính không biết sợ   19/11/2024</title>
       <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/doi-ung-da-trau-nguoi-linh-khong-biet-so-c43-39372.aspx</link>
       <description><![CDATA[Có một người lính không hề biết sợ và cũng chẳng bao giờ lo âu, buồn rầu. Khi được giải ngũ, vì chẳng biết nghề gì, nên anh ta đành phải lang thang khắp chốn, xin ăn những người hảo tâm... (Kể chuyện và hát ru 18/11/2024)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/doi-ung-da-trau-nguoi-linh-khong-biet-so-c43-39372.aspx</guid>
@@ -40,17 +48,6 @@ rồi người lính ấy đã bị thương và phải trở về quê nhà. M�
 người người lính phải thực hiện... (Kể chuyện và hát ru 1/11/2024)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/nguoi-linh-trong-truyen-co-tich-ngon-den-xanh-c43-39349.aspx</guid>
       <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/v2_010211_21h45_ke_chuyen_va_hat_ru_311202420.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 01 Nov 2024 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Lòng tham vô đáy   1/11/2024</title>
-      <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/long-tham-vo-day-c43-39348.aspx</link>
-      <description><![CDATA[Câu chuyện đưa
-chúng ta đến một thành phố, nơi có nhiều tòa nhà cao tầng cùng những cung đường
-tấp nập phương tiện qua lại. Vậy mà trong một con hẻm nhỏ, có bốn người rất nghèo, mặc dù hằng ngày đều phải lao động cực nhọc từ sáng
-đến tối. Thế là họ quyết định cùng nhau lên đường tìm tới miền đất hứa... (Kể chuyện và hát ru 30/10/2024)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/long-tham-vo-day-c43-39348.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_11/v2_303110_21h45_ke_chuyen_va_hat_ru_111202411.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 01 Nov 2024 19:00:00 +0700</pubDate>
     </item>
   </channel>
