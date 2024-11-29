@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 23 Nov 2024 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 29 Nov 2024 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sat, 23 Nov 2024 19:00:00 +0700</pubDate>
+    <pubDate>Fri, 29 Nov 2024 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,31 +24,35 @@
     <itunes:subtitle>Kể chuyện và hát ru cho bé</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Kechuyenvahatruchobe.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Sự tích núi Mẫu tử  23/11/2024</title>
+      <title>Truyện cổ tích "Nàng Hạc": Cô gái có tài dệt lụa (Phần 2) 29/11/2024</title>
+      <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/truyen-co-tich-nang-hac-co-gai-co-tai-det-lua-phan-2-c43-39392.aspx</link>
+      <description><![CDATA[Hàng ngày, nàng Hạc rất chăm chỉ dệt lụa.
+Những tấm lụa đẹp như tranh ấy ngay lập tức được bán hết. Cuộc sống của họ ngày
+càng khấm khá, đầy đủ. Từ đó rất nhiều người trong vùng muốn biết bí quyết
+nàng Hạc dệt lụa như thế nào... (Kể chuyện và hát ru 27/11/2024)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/truyen-co-tich-nang-hac-co-gai-co-tai-det-lua-phan-2-c43-39392.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_11/v2_272811_21h45_ke_truyen_va_hat_ru_2911202416.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 29 Nov 2024 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Truyện cổ tích "Nàng Hạc": Cô gái có tài dệt lụa (Phần 1)  29/11/2024</title>
+      <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/truyen-co-tich-nang-hac-co-gai-co-tai-det-lua-phan-1-c43-39391.aspx</link>
+      <description><![CDATA[Câu chuyện đưa chúng mình
+tới ngôi làng nhỏ bé dưới chân núi Phú Sĩ, nơi có hai vợ chồng tuy đã già mà vẫn
+chưa có con. Niềm mong mỏi lớn nhất của họ là trong nhà có tiếng nói cười của trẻ
+nhỏ. Cuộc sống của họ cứ thế trôi qua. Cho tới một ngày, khi ngoài trời đang nổi bão tuyết,
+bỗng có tiếng gõ cửa vang lên trong căn nhà... (Kể chuyện và hát ru 25/11/2024)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/truyen-co-tich-nang-hac-co-gai-co-tai-det-lua-phan-1-c43-39391.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_11/v2_252611_21h45_ke_truyen_va_hat_ru_2911202415.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 29 Nov 2024 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Sự tích núi Mẫu tử   23/11/2024</title>
       <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/su-tich-nui-mau-tu-c43-39384.aspx</link>
       <description><![CDATA[Ngày xưa, ở một vùng núi cao, có hai vợ chồng nhà nọ đến sinh cơ lập nghiệp. Họ cũng trồng lúa bắp, chăn nuôi gà lợn như nhiều gia đình khác. Nhưng nhờ của cải của bố mẹ để lại, họ sống có vẻ phong lưu. Rồi một hôm có người bạn cũ tới thăm... (Kể chuyện và hát ru 22/11//2024)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/su-tich-nui-mau-tu-c43-39384.aspx</guid>
       <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_11/v2_2211_21h45_ke_chuyen_va_hat_ru_2311202418.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 23 Nov 2024 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>"Đôi ủng da trâu": Người lính không biết sợ   19/11/2024</title>
-      <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/doi-ung-da-trau-nguoi-linh-khong-biet-so-c43-39372.aspx</link>
-      <description><![CDATA[Có một người lính không hề biết sợ và cũng chẳng bao giờ lo âu, buồn rầu. Khi được giải ngũ, vì chẳng biết nghề gì, nên anh ta đành phải lang thang khắp chốn, xin ăn những người hảo tâm... (Kể chuyện và hát ru 18/11/2024)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/doi-ung-da-trau-nguoi-linh-khong-biet-so-c43-39372.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_11/v2_1811_21h45_ke_chuyen_va_hat_ru_1911202412.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 19 Nov 2024 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Người lính trong truyện cổ tích "Ngọn đèn xanh"  1/11/2024</title>
-      <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/nguoi-linh-trong-truyen-co-tich-ngon-den-xanh-c43-39349.aspx</link>
-      <description><![CDATA[Ngày xửa ngày xưa có một
-người lính rất yêu lao động và luôn sẵn sàng giúp đỡ mọi người xung quanh. Nhưng
-rồi người lính ấy đã bị thương và phải trở về quê nhà. Mụ phù thùy gian ác đã đưa ra một yêu cầu bắt buộc
-người người lính phải thực hiện... (Kể chuyện và hát ru 1/11/2024)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/nguoi-linh-trong-truyen-co-tich-ngon-den-xanh-c43-39349.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/v2_010211_21h45_ke_chuyen_va_hat_ru_311202420.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 01 Nov 2024 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
