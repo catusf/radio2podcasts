@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 29 Nov 2024 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 02 Dec 2024 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 29 Nov 2024 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 02 Dec 2024 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,29 @@
     <itunes:subtitle>Văn nghệ thiếu nhi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Vannghethieunhi.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Đọc truyện “Mùa đông bất tận” - Buổi thứ ba- Tuyết đầu mùa  29/11/2024</title>
+      <title>Tiểu thuyết khoa học viễn tưởng: Thật khó và thật hay  2/12/2024</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/tieu-thuyet-khoa-hoc-vien-tuong-that-kho-va-that-hay-c44-39400.aspx</link>
+      <description><![CDATA[Trong chương trình Ngữ văn 7 bộ Cánh diều, chúng mình được học một trích đoạn 
+tiểu thuyết “Hai vạn dặm dưới đáy biển” của nhà văn người Pháp Jules Verne.
+Đoạn trích thể hiện khát vọng của con người trước biển cả mênh mông rộng lớn, những ước mơ những hoài bão cho tương lai... (Văn nghệ thiếu nhi 02/12/2024)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/tieu-thuyet-khoa-hoc-vien-tuong-that-kho-va-that-hay-c44-39400.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_12/v2_0212_10h4518h15_van_nghe_thieu_nhi_212202416.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 02 Dec 2024 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Những bông hoa đẹp từ cuộc thi “Đóa hoa đồng thoại”  2/12/2024</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/nhung-bong-hoa-dep-tu-cuoc-thi-doa-hoa-dong-thoai-c44-39399.aspx</link>
+      <description><![CDATA[Cuộc thi sáng tác truyện “Đóa hoa đồng thoại” do
+Công ty trách nhiệm hữu hạn ENEOS phối hợp với Quỹ Bắc Cầu tổ chức đã bước
+sang năm thứ 7, thu hút sự tham dự của các nhà văn và cây bút ở nhiều lứa tuổi. Với 3 hạng mục dự thi là: Tiểu học, Trung học cơ sở và Tự do, nhiều tác
+phẩm được đánh giá cao với nội dung phong phú, cách
+xây dựng truyện sinh động, giàu màu sắc... (Văn nghệ thiếu nhi 28/11/2024)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/nhung-bong-hoa-dep-tu-cuoc-thi-doa-hoa-dong-thoai-c44-39399.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_12/v2_2811_10h4518h15_van_nghe_thieu_nhi_212202415.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 02 Dec 2024 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Đọc truyện “Mùa đông bất tận” - Buổi thứ ba- Tuyết đầu mùa   29/11/2024</title>
       <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-mua-dong-bat-tan-buoi-thu-ba-tuyet-dau-mua-c44-39396.aspx</link>
       <description><![CDATA[Thông qua các câu chuyện kể về sự kỳ diệu của thế giới tự nhiên, về sự
 cộng sinh giữa con người và các loài động thực vật đã được cha đúc kết qua
@@ -33,32 +55,6 @@ Những bông tuyết đầu tiên rơi xuống thảo nguyên. Laura lại
 quyết định ra thị trấn để mua cho cha lưỡi dao cắt cỏ... (Văn nghệ thiếu nhi 24/11/2024)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-mua-dong-bat-tan-buoi-thu-ba-tuyet-dau-mua-c44-39396.aspx</guid>
       <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_11/v2_2411_10h4518h15_van_nghe_thieu_nhi_2911202417.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 29 Nov 2024 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đọc truyện “Mùa đông bất tận” - Buổi thứ hai - Tình
-yêu lao động  29/11/2024</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-mua-dong-bat-tan-buoi-thu-hai-tinh-yeu-lao-dong-c44-39395.aspx</link>
-      <description><![CDATA[Tình
-yêu lao động của người cha đã gieo vào trái tim Laura lòng kính yêu và tự hào về cha mẹ. Chính vì thế những lần Laura đi lấy nước từ giếng về nhà
-luôn nhọc nhằn, nhưng cô bé vẫn nở nụ cười vì đã giúp gia đình nhỏ của mình có
-thêm nguồn nước sạch... (Văn nghệ thiếu nhi 23/11/2024)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-mua-dong-bat-tan-buoi-thu-hai-tinh-yeu-lao-dong-c44-39395.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_11/v2_2311_10h4518h15_van_nghe_thieu_nhi_2911202417.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 29 Nov 2024 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đọc truyện “Mùa đông bất tận” - Buổi thứ nhất - Gia đình thân yêu   29/11/2024</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-mua-dong-bat-tan-buoi-thu-nhat-gia-dinh-than-yeu-c44-39394.aspx</link>
-      <description><![CDATA[Tập truyện “Mùa Đông bất tận” là cuốn truyện thứ 6 trong tổng số 9 cuốn
-sách của bộ tiểu thuyết "Ngôi nhà trên thảo nguyên" của nhà văn Mỹ Laura Ingalls Wilder.
-Ấn tượng lớn nhất với độc giả
-về tác phẩm này là tình
-cảm gia đình ấm áp, tình làng xóm, tình bạn bè trong sáng luôn giúp đỡ
-nhau trong cuộc sống. Ngoài ra tác phẩm còn ngợi ca những con người lạc quan,
-yêu đời, tràn đầy nghị lực dù sống trong điều kiện còn nhiều khó khăn ở vùng đất mới... (Văn nghệ thiếu nhi 22/11/2024)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-mua-dong-bat-tan-buoi-thu-nhat-gia-dinh-than-yeu-c44-39394.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_11/v2_2211_10h4518h15_van_nghe_thieu_nhi_2911202416.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 29 Nov 2024 19:00:00 +0700</pubDate>
     </item>
   </channel>
