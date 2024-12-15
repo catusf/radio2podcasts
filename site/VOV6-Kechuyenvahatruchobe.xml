@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 29 Nov 2024 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 15 Dec 2024 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 29 Nov 2024 19:00:00 +0700</pubDate>
+    <pubDate>Sun, 15 Dec 2024 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,26 @@
     <itunes:subtitle>Kể chuyện và hát ru cho bé</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Kechuyenvahatruchobe.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Truyện cổ tích về Quốc đảo sư tử  29/11/2024</title>
+      <title>Kể chuyện "Lời hứa của nhà vua" (Phần 2) 15/12/2024</title>
+      <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/ke-chuyen-loi-hua-cua-nha-vua-phan-2-c43-39419.aspx</link>
+      <description><![CDATA[Vì không biết vị khách là tên phù thủy độc ác, nên nhà vua đã giữ đúng lời hứa. Hoàng tử, con đầu lòng của nhà vua đã phải đi theo tên phù thủy để làm thuộc hạ cho hắn. Những hiểm nguy nào đang thử thách lòng can đảm, trí thông minh của chàng? (Kể chuyện và hát ru 10/12/2024)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/ke-chuyen-loi-hua-cua-nha-vua-phan-2-c43-39419.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_12/v2_101212_21h45_ke_chuyen_va_hat_ru_1512202416.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 15 Dec 2024 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Kể chuyện "Lời hứa của nhà vua" (Phần 1)  15/12/2024</title>
+      <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/ke-chuyen-loi-hua-cua-nha-vua-phan-1-c43-39418.aspx</link>
+      <description><![CDATA[Ngày xửa ngày xưa, ở vương quốc xa xôi nọ, nhà vua và hoàng hậu mãi không sinh được con. Một vị khách nói với
+nhà vua rằng ông ta có loại kẹo thần kỳ có thể giúp hoàng hậu sớm hoài thai. Thế
+nhưng vị khách đưa ra yêu cầu thật oái oăm, rằng nhà vua và hoàng hậu sẽ phải
+giao phó con đầu lòng cho ông ta... (Kể chuyện và hát ru 9/12/2024)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/ke-chuyen-loi-hua-cua-nha-vua-phan-1-c43-39418.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_12/v2_091112_21h45_ke_chuyen_va_hat_ru_1512202416.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 15 Dec 2024 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Truyện cổ tích về Quốc đảo sư tử   29/11/2024</title>
       <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/truyen-co-tich-ve-quoc-dao-su-tu-c43-39393.aspx</link>
       <description><![CDATA[Đất nước Singapore là quốc gia có diện tích nhỏ nhất ở khu
 vực Đông Nam Á. Nhưng nếu ai từng đến đây thì
@@ -32,29 +51,6 @@ không khỏi thán phục vì sự sầm uất với nhiều tòa nhà cao tầ
 Singapore ra đời như thế nào không? (Kể chuyện và hát ru 29/11/2024)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/truyen-co-tich-ve-quoc-dao-su-tu-c43-39393.aspx</guid>
       <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/v2_293011_21h45_ke_truyen_va_hat_ru_212202415.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 29 Nov 2024 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Truyện cổ tích "Nàng Hạc": Cô gái có tài dệt lụa (Phần 2)  29/11/2024</title>
-      <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/truyen-co-tich-nang-hac-co-gai-co-tai-det-lua-phan-2-c43-39392.aspx</link>
-      <description><![CDATA[Hàng ngày, nàng Hạc rất chăm chỉ dệt lụa.
-Những tấm lụa đẹp như tranh ấy ngay lập tức được bán hết. Cuộc sống của họ ngày
-càng khấm khá, đầy đủ. Từ đó rất nhiều người trong vùng muốn biết bí quyết
-nàng Hạc dệt lụa như thế nào... (Kể chuyện và hát ru 27/11/2024)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/truyen-co-tich-nang-hac-co-gai-co-tai-det-lua-phan-2-c43-39392.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_11/v2_272811_21h45_ke_truyen_va_hat_ru_2911202416.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 29 Nov 2024 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Truyện cổ tích "Nàng Hạc": Cô gái có tài dệt lụa (Phần 1)  29/11/2024</title>
-      <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/truyen-co-tich-nang-hac-co-gai-co-tai-det-lua-phan-1-c43-39391.aspx</link>
-      <description><![CDATA[Câu chuyện đưa chúng mình
-tới ngôi làng nhỏ bé dưới chân núi Phú Sĩ, nơi có hai vợ chồng tuy đã già mà vẫn
-chưa có con. Niềm mong mỏi lớn nhất của họ là trong nhà có tiếng nói cười của trẻ
-nhỏ. Cuộc sống của họ cứ thế trôi qua. Cho tới một ngày, khi ngoài trời đang nổi bão tuyết,
-bỗng có tiếng gõ cửa vang lên trong căn nhà... (Kể chuyện và hát ru 25/11/2024)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/truyen-co-tich-nang-hac-co-gai-co-tai-det-lua-phan-1-c43-39391.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_11/v2_252611_21h45_ke_truyen_va_hat_ru_2911202415.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 29 Nov 2024 19:00:00 +0700</pubDate>
     </item>
   </channel>
