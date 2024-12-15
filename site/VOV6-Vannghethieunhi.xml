@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 08 Dec 2024 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 15 Dec 2024 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 08 Dec 2024 19:00:00 +0700</pubDate>
+    <pubDate>Sun, 15 Dec 2024 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,30 @@
     <itunes:subtitle>Văn nghệ thiếu nhi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Vannghethieunhi.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Đọc truyện “Mùa đông bất tận” - Buổi thứ chín - Ở ngôi nhà mới  8/12/2024</title>
+      <title>Tìm hiểu về văn bản nhật dụng  15/12/2024</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/tim-hieu-ve-van-ban-nhat-dung-c44-39422.aspx</link>
+      <description><![CDATA[Văn bản nhật dụng thường dùng trong đời
+sống hàng ngày, được sử dụng dưới dạng tự sự, thuyết minh, miêu tả, hay bàn
+luận. Nó dùng để đánh giá các sự vật, hiện tượng xung quanh các hoạt động của
+con người. Một số văn bản nhật dụng được đưa vào giảng dạy trong
+nhà trường... (Văn nghệ thiếu nhi 9/12/2024)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/tim-hieu-ve-van-ban-nhat-dung-c44-39422.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_12/v2_0912_10h4518h15_van_nghe_thieu_nhi_1512202416.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 15 Dec 2024 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>"Con Rồng cháu Tiên" qua nét vẽ người thầy   15/12/2024</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/con-rong-chau-tien-qua-net-ve-nguoi-thay-c44-39421.aspx</link>
+      <description><![CDATA[Thầy Nguyễn Trí Hạnh (giáo viên mỹ thuật
+trường phổ thông Hermann Gmeiner Vinh - tỉnh Nghệ An) đã nhận được sự yêu mến nồng nhiệt của cộng đồng mạng
+ khi giới thiệu tác phẩm vẽ phấn có tên là “Con Rồng, cháu
+Tiên”. Theo chia sẻ của thầy Hạnh, đam mê vẽ tranh trên bảng của thầy bắt đầu từ những buổi hội khóa, hội lớp. Sau đó, thầy có ý tưởng vẽ thành những tác phẩm có thông điệp và câu chuyện... (Văn nghệ thiếu nhi 11/12/2024)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/con-rong-chau-tien-qua-net-ve-nguoi-thay-c44-39421.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/v2_1112_10h4518h15_van_nghe_thieu_nhi_1512202416.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 15 Dec 2024 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Đọc truyện “Mùa đông bất tận” - Buổi thứ chín - Ở ngôi nhà mới   8/12/2024</title>
       <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-mua-dong-bat-tan-buoi-thu-chin-o-ngoi-nha-moi-c44-39412.aspx</link>
       <description><![CDATA[Chuyển đến ngôi nhà trong thị trấn, mặc dù không thích chốn đông người và càng không thích phải đi
 học nhưng Laura buộc phải thích nghi. Cô bé giúp mẹ
@@ -32,28 +55,6 @@ dọn nhà, dọn chỗ ngủ ấm áp và sắp xếp đồ đạc gọn gàng.
 vẻ ăn tối quanh lò than ấm áp... (Văn nghệ thiếu nhi 8/12/2024)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-mua-dong-bat-tan-buoi-thu-chin-o-ngoi-nha-moi-c44-39412.aspx</guid>
       <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_12/v2_0812_10h4518h15_van_nghe_thieu_nhi_812202417.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 08 Dec 2024 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đọc truyện “Mùa đông bất tận” - Buổi thứ tám - Nỗi bất an   8/12/2024</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-mua-dong-bat-tan-buoi-thu-tam-noi-bat-an-c44-39411.aspx</link>
-      <description><![CDATA[Theo kinh nghiệm của người da đỏ thì khi thấy chuột đào hang rất
-sâu nghĩa là mùa đông năm đó rất khắc nghiệt, cần phải chuẩn bị mọi thứ thật kỹ
-lưỡng và đầy đủ để chống đỡ. Ông Charles rất lo lắng và chia sẻ điều này với vợ
-con... (Văn nghệ thiếu nhi 7/12/2024)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-mua-dong-bat-tan-buoi-thu-tam-noi-bat-an-c44-39411.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_12/v2_0712_10h4518h15_van_nghe_thieu_nhi_812202416.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 08 Dec 2024 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đọc truyện “Mùa đông bất tận” - Buổi thứ bảy - Trong bão tuyết  8/12/2024</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-mua-dong-bat-tan-buoi-thu-bay-trong-bao-tuyet-c44-39410.aspx</link>
-      <description><![CDATA[Đã lâu lắm rồi cả gia đình Laura mới chứng kiến một
-trận bão tuyết dữ dội như thế. Cha của Laura phải đi lấy thêm củi để
-sưởi và cứu đàn gia súc bị tuyết phủ ngoài trời. Ông đánh đàn và hát, kể chuyện cho mấy chị
-em nghe để quên đi cái lạnh thấu xương... (Văn nghệ thiếu nhi 6/12/2024)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-mua-dong-bat-tan-buoi-thu-bay-trong-bao-tuyet-c44-39410.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_12/v2_0612_10h4518h15_van_nghe_thieu_nhi_812202416.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 08 Dec 2024 19:00:00 +0700</pubDate>
     </item>
   </channel>
