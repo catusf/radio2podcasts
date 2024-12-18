@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 15 Dec 2024 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 18 Dec 2024 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 15 Dec 2024 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 18 Dec 2024 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,19 @@
     <itunes:subtitle>Văn nghệ thiếu nhi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Vannghethieunhi.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Tìm hiểu về văn bản nhật dụng  15/12/2024</title>
+      <title>Ôn tập văn nghị luận  18/12/2024</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/on-tap-van-nghi-luan-c44-39427.aspx</link>
+      <description><![CDATA[Một học kì sắp qua đi. Các bạn lên kế hoạch để vừa học bài mới, vừa ôn tập lại bài
+cũ một cách khoa học và hiệu quả. Hôm nay, cô Trần Thảo Nhi (giáo
+viên ngữ văn trường THCS Nguyễn Gia Thiều, quận Hà Đông, Hà Nội) sẽ trao
+đổi cùng các bạn phương pháp ôn tập phần làm văn với 2 nội dung nghị luận
+văn học và nghị luận xã hội nhé! (Văn nghệ thiếu nhi 16/12/2024)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/on-tap-van-nghi-luan-c44-39427.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_12/v2_1612_10h4518h15_van_nghe_thieu_nhi_1812202419.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 18 Dec 2024 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Tìm hiểu về văn bản nhật dụng   15/12/2024</title>
       <link>http://vov6.vov.vn/van-nghe-thieu-nhi/tim-hieu-ve-van-ban-nhat-dung-c44-39422.aspx</link>
       <description><![CDATA[Văn bản nhật dụng thường dùng trong đời
 sống hàng ngày, được sử dụng dưới dạng tự sự, thuyết minh, miêu tả, hay bàn
@@ -45,17 +57,6 @@ Tiên”. Theo chia sẻ của thầy Hạnh, đam mê vẽ tranh trên bảng c
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/con-rong-chau-tien-qua-net-ve-nguoi-thay-c44-39421.aspx</guid>
       <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/v2_1112_10h4518h15_van_nghe_thieu_nhi_1512202416.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 15 Dec 2024 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đọc truyện “Mùa đông bất tận” - Buổi thứ chín - Ở ngôi nhà mới   8/12/2024</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-mua-dong-bat-tan-buoi-thu-chin-o-ngoi-nha-moi-c44-39412.aspx</link>
-      <description><![CDATA[Chuyển đến ngôi nhà trong thị trấn, mặc dù không thích chốn đông người và càng không thích phải đi
-học nhưng Laura buộc phải thích nghi. Cô bé giúp mẹ
-dọn nhà, dọn chỗ ngủ ấm áp và sắp xếp đồ đạc gọn gàng. Cả nhà Laura vui
-vẻ ăn tối quanh lò than ấm áp... (Văn nghệ thiếu nhi 8/12/2024)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-mua-dong-bat-tan-buoi-thu-chin-o-ngoi-nha-moi-c44-39412.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_12/v2_0812_10h4518h15_van_nghe_thieu_nhi_812202417.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 08 Dec 2024 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
