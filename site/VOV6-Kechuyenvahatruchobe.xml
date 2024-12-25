@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 19 Dec 2024 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 25 Dec 2024 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 19 Dec 2024 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 25 Dec 2024 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,27 @@
     <itunes:subtitle>Kể chuyện và hát ru cho bé</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Kechuyenvahatruchobe.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Chuyện kể về rừng  19/12/2024</title>
+      <title>Truyện kể đêm Noel 25/12/2024</title>
+      <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/truyen-ke-dem-noel-c43-39446.aspx</link>
+      <description><![CDATA[Có một câu chuyện thần kỳ xảy ra ở những nơi có tuyết, có
+rừng và những chú tuần lộc đáng yêu. Đó là một ngôi làng xa xôi với những người
+nông dân còn nghèo khó. Họ luôn phải làm việc từ sáng đến tối mà cuộc sống vẫn
+không lúc nào được dư giả. Vậy mà tình yêu thương và lòng tự trọng trong mỗi
+con người luôn ấm áp... (Kể chuyện và hát ru 23/12/2024)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/truyen-ke-dem-noel-c43-39446.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_12/v2_232412_21h45_ke_chuyen_va_hat_ru_2512202415.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 25 Dec 2024 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Vị thần đáng sợ   25/12/2024</title>
+      <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/vi-than-dang-so-c43-39445.aspx</link>
+      <description><![CDATA[Trong tưởng tượng của chúng ta, vị thần chết thật lạnh lùng đáng sợ, là sự đe dọa của mọi người mọi nhà. Những câu chuyện kể dân gian về vị thần này cũng rất nhiều... (Kể chuyện và hát ru 20/12/2024)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/vi-than-dang-so-c43-39445.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_12/v2_202112_21h45_ke_chuyen_va_hat_ru_2512202415.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 25 Dec 2024 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Chuyện kể về rừng   19/12/2024</title>
       <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/chuyen-ke-ve-rung-c43-39432.aspx</link>
       <description><![CDATA[Có một khu rừng rất đặc biệt bởi đây là khu rừng được vẽ bởi người
 họa sĩ tài hoa. Nhưng bức tranh về khu rừng của ông luôn thiếu, nào là cây cổ thụ,
@@ -32,22 +52,6 @@ các loài vật hay là loài nấm nhỏ bé... Vì sao lại vậy nhỉ? (K�
       <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/chuyen-ke-ve-rung-c43-39432.aspx</guid>
       <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_12/v2_181912_21h45_ke_chuyen_va_hat_ru_1912202416.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 19 Dec 2024 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Người thợ dệt thảm  19/12/2024</title>
-      <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/nguoi-tho-det-tham-c43-39431.aspx</link>
-      <description><![CDATA[Tại một thành phố ở miền nam Ấn Độ có một người thợ dệt thảm tên là Xa-ca. Anh dệt rất khéo, nhưng cả năm mới dệt xong được một tấm, vì thế mà nghèo lắm. Một hôm, sắp dệt xong một tấm thảm đẹp thì khung cửi bỗng bị gãy... (Kể chuyện và hát ru 16/12/2024)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/nguoi-tho-det-tham-c43-39431.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_12/v2_161712_21h45_ke_chuyen_va_hat_ru_1912202416.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 19 Dec 2024 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Sự tích bãi ông Nam   15/12/2024</title>
-      <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/su-tich-bai-ong-nam-c43-39420.aspx</link>
-      <description><![CDATA[Ngày ấy, những người dân chài vùng biển Nam trong khi ra khơi làm ăn thường bị nạn bão tố. Mỗi lần bão tố thình lình xảy ra, thiệt hại về người và của rất lớn. Nó còn chôn vùi xuống đáy biển biết bao nhiêu là chài lưới thuyền mảng, những của cải mồ hôi nước mắt tích góp không phải chỉ một ngày... (Kể chuyện và hát ru 13/12/2024)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/su-tich-bai-ong-nam-c43-39420.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_12/v2_1312_21h45_ke_chuyen_va_hat_ru_1512202416.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 15 Dec 2024 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
