@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 18 Dec 2024 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 25 Dec 2024 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 18 Dec 2024 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 25 Dec 2024 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Văn nghệ thiếu nhi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Vannghethieunhi.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Nét riêng ở triển lãm “Họa cam thành cảm” 18/12/2024</title>
+      <title>Làm văn phát biểu cảm nghĩ  25/12/2024</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/lam-van-phat-bieu-cam-nghi-c44-39441.aspx</link>
+      <description><![CDATA[Những sự việc xảy ra trong cuộc sống đôi khi để lại cho chúng ta ấn tượng khó phai, có thể là niềm vui, sự xúc động, hay những bài học ý nghĩa. Khi  viết bài văn phát biểu cảm nghĩ về những sự việc ấy, chúng mình cần bắt đầu từ đâu? (Văn nghệ thiếu nhi 23/12/2024)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/lam-van-phat-bieu-cam-nghi-c44-39441.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_12/v2_2312_10h4518h15_van_nghe_thieu_nhi_2512202413.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 25 Dec 2024 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Nét riêng ở triển lãm “Họa cam thành cảm”  18/12/2024</title>
       <link>http://vov6.vov.vn/van-nghe-thieu-nhi/net-rieng-o-trien-lam-hoa-cam-thanh-cam-c44-39428.aspx</link>
       <description><![CDATA[Những ngày qua, khá đông bạn trẻ cùng người yêu nghệ thuật ghé thăm không gian triển lãm “Họa cam thành cảm” của nhóm sinh viên Đại học FPT tổ chức tại Trung tâm nghệ thuật đương đại Area (số
 75 phố Hàng Bồ - Hà Nội). Mục đích của triển lãm là gây quỹ ủng hộ nạn nhân chất độc da cam ở
@@ -44,18 +52,6 @@ văn học và nghị luận xã hội nhé! (Văn nghệ thiếu nhi 16/12/2024
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/on-tap-van-nghi-luan-c44-39427.aspx</guid>
       <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_12/v2_1612_10h4518h15_van_nghe_thieu_nhi_1812202419.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 18 Dec 2024 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Tìm hiểu về văn bản nhật dụng   15/12/2024</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/tim-hieu-ve-van-ban-nhat-dung-c44-39422.aspx</link>
-      <description><![CDATA[Văn bản nhật dụng thường dùng trong đời
-sống hàng ngày, được sử dụng dưới dạng tự sự, thuyết minh, miêu tả, hay bàn
-luận. Nó dùng để đánh giá các sự vật, hiện tượng xung quanh các hoạt động của
-con người. Một số văn bản nhật dụng được đưa vào giảng dạy trong
-nhà trường... (Văn nghệ thiếu nhi 9/12/2024)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/tim-hieu-ve-van-ban-nhat-dung-c44-39422.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_12/v2_0912_10h4518h15_van_nghe_thieu_nhi_1512202416.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 15 Dec 2024 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
