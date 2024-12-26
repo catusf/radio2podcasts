@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 25 Dec 2024 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 26 Dec 2024 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 25 Dec 2024 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 26 Dec 2024 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,19 @@
     <itunes:subtitle>Văn nghệ thiếu nhi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Vannghethieunhi.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Sắc xuân ở triển lãm "Xuân sắc" 25/12/2024</title>
+      <title>Tiếng chim sau cơn mưa 26/12/2024</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/tieng-chim-sau-con-mua-c44-39447.aspx</link>
+      <description><![CDATA[Trong thế giới loài chim, chúng ta thường nhớ tới
+chim sơn ca hay chim họa mi với tiếng hót hay đặc biệt. Nhưng các loài chim khác cũng có vẻ đẹp đặc
+trưng. Tiếng chim cu gù nhẹ nhàng trong những buổi trưa hè, tiếng chim sẻ vui
+tai ngoài hiên nhà hay tiếng chích bông rộn vang trên triền đê đều mang đến
+cho chúng ta những cảm xúc khác nhau... (Văn nghệ thiếu nhi 19/12/2024)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/tieng-chim-sau-con-mua-c44-39447.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_12/v2_1912_10h4518h15_van_nghe_thieu_nhi_2612202410.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 26 Dec 2024 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Sắc xuân ở triển lãm "Xuân sắc"  25/12/2024</title>
       <link>http://vov6.vov.vn/van-nghe-thieu-nhi/sac-xuan-o-trien-lam-xuan-sac-c44-39444.aspx</link>
       <description><![CDATA[Đam mê vẽ tranh từ khi còn rất nhỏ, đến nay Hải Nam đã có
 hàng chục giải thưởng  của các cuộc thi lớn như “Chiếc ô tô mơ ước”, “Ngôi
@@ -43,14 +55,6 @@ hoạt hình, ca khúc thiếu nhi.Tuổi thơ giàu sắc màu đáng nhớ c�
 liệu dồi dào để ông sáng tác những tác phẩm dành cho chúng mình đấy! (Văn nghệ thiếu nhi 18/12/2024)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/nha-van-thai-chi-thanh-di-cung-tuoi-tho-c44-39443.aspx</guid>
       <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_12/v2_1812_10h4518h15_van_nghe_thieu_nhi_2512202415.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 25 Dec 2024 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Làm văn phát biểu cảm nghĩ   25/12/2024</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/lam-van-phat-bieu-cam-nghi-c44-39441.aspx</link>
-      <description><![CDATA[Những sự việc xảy ra trong cuộc sống đôi khi để lại cho chúng ta ấn tượng khó phai, có thể là niềm vui, sự xúc động, hay những bài học ý nghĩa. Khi  viết bài văn phát biểu cảm nghĩ về những sự việc ấy, chúng mình cần bắt đầu từ đâu? (Văn nghệ thiếu nhi 23/12/2024)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/lam-van-phat-bieu-cam-nghi-c44-39441.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_12/v2_2312_10h4518h15_van_nghe_thieu_nhi_2512202413.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 25 Dec 2024 19:00:00 +0700</pubDate>
     </item>
   </channel>
