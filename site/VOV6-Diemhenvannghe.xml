@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 06 Dec 2024 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 30 Dec 2024 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 06 Dec 2024 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 30 Dec 2024 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Điểm hẹn văn nghệ</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Diemhenvannghe.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>"Trước nhà có cây hoàng mai" - Người Huế kể chuyện Huế  6/12/2024</title>
+      <title>“Truyện sử Trần”: Một cái nhìn lịch sử cởi mở 30/12/2024</title>
+      <link>http://vov6.vov.vn/diem-hen-van-nghe/truyen-su-tran-mot-cai-nhin-lich-su-coi-mo-c158-39458.aspx</link>
+      <description><![CDATA[Nhà văn Trần Thanh Cảnh là tác giả xuất hiện khoảng 10 năm qua, ra mắt tác phẩm đầu tiên năm 2013 nhưng đến nay đã có 14 tác phẩm, trong đó cuốn “Kỳ nhân làng Ngọc”  được nhận giải thưởng Hội Nhà văn Việt Nam năm 2015. Bên cạnh những tác phẩm khai thác đề tài nông thôn, nhà văn Trần Thanh Cảnh luôn quan tâm đến đề tài lịch sử và với các tiếu thuyết lịch sử "Đức Thánh Trần", "Trần Thủ Độ" nhà văn Trần Thanh Cảnh đã đem đến cho bạn đọc những phát hiện mới mẻ, thú vị với cái nhìn trọn vẹn hơn về nhân vật lịch sử và thời cuộc. Mới đây, nhà văn Trần Thanh Cảnh ra mắt tập truyện ngắn “Truyện sử Trần” gồm 7 truyện ngắn viết về các nhân vật lich sử đờiTrần. Về cuốn sách này, phóng viên chương trình có bài “Truyện sử Trần – Một cái nhìn lịch sử cởi mở”. Mời quý vị và các bạn cùng nghe.]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/truyen-su-tran-mot-cai-nhin-lich-su-coi-mo-c158-39458.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/sach_tran_thanh_canh_3012202410.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 30 Dec 2024 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>"Trước nhà có cây hoàng mai" - Người Huế kể chuyện Huế   6/12/2024</title>
       <link>http://vov6.vov.vn/diem-hen-van-nghe/truoc-nha-co-cay-hoang-mai-nguoi-hue-ke-chuyen-hue-c158-39405.aspx</link>
       <description><![CDATA[“Trước nhà có cây hoàng mai: Những ghi chép về Huế - xứ sở phong rêu kiêu sa” gồm hơn 30 bài viết của nhà báo Minh Tự (sinh năm 1968) về văn hóa, lối sống của người Huế. Tập ghi chép khắc họa từ cách ăn uống theo lối Huế với cơm hến, mè xửng, tô bún bò đến từng đường kim mũi chỉ trên vành nón bài thơ, gốc mai lão trượng, lối sống thanh nhã trong ngôi nhà rường hay thú sưu tầm tiền cổ… Hầu hết các ghi chép trong sách được viết vào những năm 2000-2002, khi tác giả từ Đà Lạt trở về quê hương sau gần 10 năm xa xứ Huế. 
 	Về cuốn sách này, nhà báo Minh Tự đã có cuộc trò chuyện với phóng viên chương trình.]]></description>
@@ -39,16 +47,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/thuong-nhung-xa-xoi-nhung-hoai-niem-khac-khoai-c158-39401.aspx</guid>
       <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_12/thuong_nhung_xa_xoi_312202412.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 03 Dec 2024 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Truyện ngắn “Mầm sống”: Câu chuyện xúc động về tình người
-
-  19/11/2024</title>
-      <link>http://vov6.vov.vn/diem-hen-van-nghe/truyen-ngan-mam-song-cau-chuyen-xuc-dong-ve-tinh-nguoi-c158-39374.aspx</link>
-      <description><![CDATA[“Những ngày nghỉ hè tôi thích theo bà vào đồng chùa cắt cỏ, cũng là cái cớ để tôi dễ chui vào lều trông vó của chú Việt để thỏa thích ngắm nhìn những con cá mắc lưới. Chú Việt vào lính với bố tôi một ngày, không bị thương nhưng cứ trở trời lại hô khẩu hiệu. Bố mẹ chết hết, anh em lưu lạc chẳng còn ai. Bọn trẻ con trong làng bảo chú là người điên. Tiếng chú đang hò đấy, âm vang dọc triền sông ngạt ngào mùi hoa cỏ lác. “Hò ơ… Sông sâu cá lặn biệt tăm, công anh đơm đó, dầm đăng tháng ngày.” Rõ là chú không điên tí nào. Dáng chú cao to, bóng đổ trùm lên bờ sông vắng vẻ. Bà bảo: “Từ ngày chú ở chiến trường về ai đi qua khúc sông này cũng không lo nước to đắm đò nữa. Chú đã cứu khối người ở khúc sông này đấy.” Thi thoảng bọn thanh niên rửng mỡ trong làng, những đêm trăng sáng không còn trò gì để chơi chúng đem rượu vào gạ gẫm chú uống cho say, say phát điên. Tôi thấy thế mà lại hay, phải có một cái gì đó nó khác những nhàm chán thường ngày...” (Trích đoạn truyện ngắn “Mầm sống” của nhà văn Viên Lan Anh) (Điểm hẹn văn nghệ)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/truyen-ngan-mam-song-cau-chuyen-xuc-dong-ve-tinh-nguoi-c158-39374.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_11/mam_song_truyen_1911202416.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 19 Nov 2024 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
