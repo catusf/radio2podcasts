@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 30 Dec 2024 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 31 Dec 2024 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 30 Dec 2024 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 31 Dec 2024 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,16 @@
     <itunes:subtitle>Điểm hẹn văn nghệ</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Diemhenvannghe.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>“Truyện sử Trần”: Một cái nhìn lịch sử cởi mở 30/12/2024</title>
+      <title>Tùy bút “Bước tới kỷ nguyên vươn mình phát triển”  31/12/2024</title>
+      <link>http://vov6.vov.vn/diem-hen-van-nghe/tuy-but-buoc-toi-ky-nguyen-vuon-minh-phat-trien-c158-39466.aspx</link>
+      <description><![CDATA[Các bạn thân mến!         
+Đất nước ta sắp bước sang năm thứ 80 trong lịch sử hiện đại. Hành trình 80 năm đi qua chông gai và máu lửa của người Việt, hành trình tạo lập nên thời cơ và vị thế của đất nước Việt Nam hôm nay, tiếng gọi của khát vọng thịnh vượng trong những giấc mơ thịnh trị của tiền nhân, đã mang đến cho chúng ta những trải nghiệm cùng nhiều bài học quý báu. Và khi một kỷ nguyên mới đang dần hiện ra trước mắt chúng ta, trong tâm thế dân tộc cùng đồng lòng với tinh thần kiến tạo mạnh mẽ, thời khắc bắt đầu ấy sẽ thật sự là một khởi điểm lịch sử mới, mở ra một kỷ nguyên mới: kỷ nguyên của tinh thần kiến quốc - kỷ nguyên vươn mình bước tới văn minh và thịnh vượng. Trên nền cảm hứng ấy, nhà thơ Nguyễn Thành Phong đã viết tùy bút “Bước tới kỷ nguyên vươn mình phát triển”. Mời các bạn cùng nghe:]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/tuy-but-buoc-toi-ky-nguyen-vuon-minh-phat-trien-c158-39466.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_12/tuy_but_ky_nguyen_vuon_minh_3112202414.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 31 Dec 2024 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>“Truyện sử Trần”: Một cái nhìn lịch sử cởi mở  30/12/2024</title>
       <link>http://vov6.vov.vn/diem-hen-van-nghe/truyen-su-tran-mot-cai-nhin-lich-su-coi-mo-c158-39458.aspx</link>
       <description><![CDATA[Nhà văn Trần Thanh Cảnh là tác giả xuất hiện khoảng 10 năm qua, ra mắt tác phẩm đầu tiên năm 2013 nhưng đến nay đã có 14 tác phẩm, trong đó cuốn “Kỳ nhân làng Ngọc”  được nhận giải thưởng Hội Nhà văn Việt Nam năm 2015. Bên cạnh những tác phẩm khai thác đề tài nông thôn, nhà văn Trần Thanh Cảnh luôn quan tâm đến đề tài lịch sử và với các tiếu thuyết lịch sử "Đức Thánh Trần", "Trần Thủ Độ" nhà văn Trần Thanh Cảnh đã đem đến cho bạn đọc những phát hiện mới mẻ, thú vị với cái nhìn trọn vẹn hơn về nhân vật lịch sử và thời cuộc. Mới đây, nhà văn Trần Thanh Cảnh ra mắt tập truyện ngắn “Truyện sử Trần” gồm 7 truyện ngắn viết về các nhân vật lich sử đờiTrần. Về cuốn sách này, phóng viên chương trình có bài “Truyện sử Trần – Một cái nhìn lịch sử cởi mở”. Mời quý vị và các bạn cùng nghe.]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/truyen-su-tran-mot-cai-nhin-lich-su-coi-mo-c158-39458.aspx</guid>
@@ -39,14 +48,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/truoc-nha-co-cay-hoang-mai-nguoi-hue-ke-chuyen-hue-c158-39405.aspx</guid>
       <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_12/gts_truoc_nha_co_cay_hoang_mai_hc_612202410.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 06 Dec 2024 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>“Thương những xa xôi”: Những hoài niệm khắc khoải  3/12/2024</title>
-      <link>http://vov6.vov.vn/diem-hen-van-nghe/thuong-nhung-xa-xoi-nhung-hoai-niem-khac-khoai-c158-39401.aspx</link>
-      <description><![CDATA[Nhà văn Như Bình là cái tên quen thuộc đối với bạn đọc, bởi chị gắn bó với công việc làm báo tại Báo Công an nhân dân hơn 30 năm nay, với nhiều vai trò, từ cây bút đến phụ trách các ấn phẩm nổi tiếng như An ninh thế giới, Cảnh sát toàn cầu, Văn nghệ công an…. đồng thời đã có tới 11 tác phẩm văn chương được xuất bản và gây dấu ấn trong lòng bạn đọc. Cả hai tác phẩm thơ “Sự im lặng biếc xanh” và tạp bút “Thương những xa xôi”  do Nhà xuất bản Hội Nhà văn ấn hành vào tháng 10/2024. Đây là cuộc “trở lại” ấn tượng của Như Bình sau 10 năm “lặng lẽ” trên văn đàn, đánh dấu một bước đi mới trên con đường sáng tạo của chị khi “đột phá” vào ba loại hình mới: thơ, tạp bút và hội họa. Về 2 cuốn sách này, BTV chương trình có bài “Thương những xa xôi” và “Sự im lặng biếc xanh” – Những hoài niệm khắc khoải”. Mời quý vị và các bạn cùng nghe!]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/thuong-nhung-xa-xoi-nhung-hoai-niem-khac-khoai-c158-39401.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_12/thuong_nhung_xa_xoi_312202412.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 03 Dec 2024 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
