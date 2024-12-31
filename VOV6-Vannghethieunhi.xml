@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 30 Dec 2024 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 31 Dec 2024 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 30 Dec 2024 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 31 Dec 2024 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,31 @@
     <itunes:subtitle>Văn nghệ thiếu nhi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Vannghethieunhi.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Đọc truyện “Mùa đông bất tận” - Buổi mười tám - Bão tuyết quay lại  30/12/2024</title>
+      <title>Chi tiết nhỏ làm nên nhà văn lớn 31/12/2024</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/chi-tiet-nho-lam-nen-nha-van-lon-c44-39465.aspx</link>
+      <description><![CDATA[Chi tiết
+nghệ thuật không chỉ là yếu tố cấu thành tác phẩm mà còn là nơi gửi gắm những
+quan niệm nghệ thuật về con người, về cuộc đời. Lựa chọn chi tiết để xây dựng nên tác
+phẩm nghệ thuật thể hiện bản chất sáng tạo, tài năng, tư tưởng của người cầm bút... (Văn nghệ thiếu nhi 30/12/2024)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/chi-tiet-nho-lam-nen-nha-van-lon-c44-39465.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_12/v2_3012_10h4518h15_van_nghe_thieu_nhi_3112202413.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 31 Dec 2024 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Người lính phi công kể chuyện qua trang sách   31/12/2024</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/nguoi-linh-phi-cong-ke-chuyen-qua-trang-sach-c44-39464.aspx</link>
+      <description><![CDATA[Mỗi khi tới dịp kỷ niệm chiến thắng Điện Biên Phủ trên không, chúng ta ôn lại truyền thống của cha ông thông qua những câu chuyện xúc
+động, thấm đượm tình người, trong đó có câu chuyện của những người lính phi công trực tiếp
+đối mặt với quân thù. Bằng lòng dũng cảm, kiên trung, họ đã lần lượt tiêu diệt
+nhiều pháo đài bay B52 trên bầu trời. Đại tá phi công Nguyễn Công Huy là một trong số những chiến sĩ gan
+dạ đó. Tuổi trẻ cùng những chuyến xuất kích đã được ông kể lại trong cuốn truyện
+“Người lính phi công kể chuyện” vừa được Nhà xuất bản Kim Đồng ấn hành. (Văn nghệ thiếu nhi 26/12/2024)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/nguoi-linh-phi-cong-ke-chuyen-qua-trang-sach-c44-39464.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/v2_2612_10h4518h15_van_nghe_thieu_nhi_3112202412.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 31 Dec 2024 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Đọc truyện “Mùa đông bất tận” - Buổi mười tám - Bão tuyết quay lại   30/12/2024</title>
       <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-mua-dong-bat-tan-buoi-muoi-tam-bao-tuyet-quay-lai-c44-39462.aspx</link>
       <description><![CDATA[Một trận bão tuyết nữa lại ập về bất ngờ khiến các chị em nhà
 Laura buồn thiu. Mấy chị em buồn vì việc học bị gián đoạn quá nhiều. Hơn
@@ -32,27 +56,6 @@ nữa, tàu hỏa không hoạt động được khiến các nguồn nhiên li�
 phẩm trong thị trấn đang dần cạn kiệt... (Văn nghệ thiếu nhi 29/12/2024)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-mua-dong-bat-tan-buoi-muoi-tam-bao-tuyet-quay-lai-c44-39462.aspx</guid>
       <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_12/v2_2912_10h4518h15_van_nghe_thieu_nhi_3012202416.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 30 Dec 2024 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đọc truyện “Mùa đông bất tận” - Buổi mười bảy - Đường xe lửa đã thông   30/12/2024</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-mua-dong-bat-tan-buoi-muoi-bay-duong-xe-lua-da-thong-c44-39461.aspx</link>
-      <description><![CDATA[Cơn bão đi qua khiến cảnh vật yên bình hơn. Những vạt nắng nhẹ lại xuất
-hiện. Đám trẻ con được sổ lồng vui chơi thỏa thích trên tuyết. Chú Boast đến nhà
- báo cho cha biết rằng đường tàu hỏa đang được sửa chữa. Đường tàu được
-thông thì mọi người không phải lo khan hiếm lương thực... (Văn nghệ thiếu nhi 28/12/2024)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-mua-dong-bat-tan-buoi-muoi-bay-duong-xe-lua-da-thong-c44-39461.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_12/v2_2812_10h4518h15_van_nghe_thieu_nhi_3012202416.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 30 Dec 2024 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đọc truyện “Mùa đông bất tận” - Buổi mười sáu - Vượt qua cơn lạnh  30/12/2024</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-mua-dong-bat-tan-buoi-muoi-sau-vuot-qua-con-lanh-c44-39460.aspx</link>
-      <description><![CDATA[Đến giờ đi ngủ, chị em nhà Laura không ai muốn trèo lên căn phòng áp mái
-vì trên đó rất lạnh. Thế nhưng không có lựa chọn nào khác. Các cô gái vẫn phải cố
-gắng vượt qua cơn lạnh để chìm vào giấc ngủ... (Văn nghệ thiếu nhi 27/12/2024)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-mua-dong-bat-tan-buoi-muoi-sau-vuot-qua-con-lanh-c44-39460.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_12/v2_2712_10h4518h15_van_nghe_thieu_nhi_3012202416.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 30 Dec 2024 19:00:00 +0700</pubDate>
     </item>
   </channel>
