@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 27 Dec 2024 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jan 2025 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 27 Dec 2024 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 02 Jan 2025 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Tìm trong kho báu</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Timtrongkhobau.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Nghệ thuật chơi chữ trong ca dao 27/12/2024</title>
+      <title>Các hình thức chơi chữ trong ca dao 2/1/2025</title>
+      <link>http://vov6.vov.vn/tim-trong-kho-bau/cac-hinh-thuc-choi-chu-trong-ca-dao-c54-39468.aspx</link>
+      <description><![CDATA[Chơi chữ là một đặc điểm độc đáo của ngôn ngữ thơ tiếng Việt. Các hình thức của nghệ thuật chơi chữ trong ca dao rất phong phú, trong đó có: nói lái, dùng từ đồng âm hoặc gần âm, dùng từ gần nghĩa, tách một từ thành các từ khác nhau. Mục đích của các hình thức này là mang tới tính hài hước, trào phúng cho các câu thơ hay lời đối đáp.]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/cac-hinh-thuc-choi-chu-trong-ca-dao-c54-39468.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2025_1/v2_020601_08h00tim_trong_kho_bau_pl_18h30_2120259.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 02 Jan 2025 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Nghệ thuật chơi chữ trong ca dao  27/12/2024</title>
       <link>http://vov6.vov.vn/tim-trong-kho-bau/nghe-thuat-choi-chu-trong-ca-dao-c54-39451.aspx</link>
       <description><![CDATA[Chơi chữ là một nghệ thuật độc đáo trong ngôn ngữ nói chung và trong Tiếng Việt nói riêng. Từ điển Tiếng Việt đã giải thích:”Chơi chữ là lợi dụng hiện tượng đồng âm, đa nghĩa, v.v, … trong ngôn ngữ nhằm gây một tác dụng nhất định (như bóng gió, châm biếm, hài hước, …) trong lời nói”. Từ điển thuật ngữ văn học gọi chơi chữ là "lộng ngữ" và giải thích là một biện pháp tu từ có đặc điểm: người sáng tác sử dụng những chỗ giống nhau về ngữ âm, ngữ nghĩa, văn tự, văn cảnh để tạo ra sự bất ngờ thú vị trong cách hiểu, trong dòng liên tưởng của người, người nghe".]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/nghe-thuat-choi-chu-trong-ca-dao-c54-39451.aspx</guid>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/nguyen-du-va-di-san-truyen-kieu-nhan-100-nam-tranh-luan-truyen-kieu-c54-39429.aspx</guid>
       <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_12/v2_19_2312_08h00_18h30_tim_trong_kho_bau_191220249.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 19 Dec 2024 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Tục ngữ các dân tộc về quan hệ gia đình, xã hội  13/12/2024</title>
-      <link>http://vov6.vov.vn/tim-trong-kho-bau/tuc-ngu-cac-dan-toc-ve-quan-he-gia-dinh-xa-hoi-c54-39417.aspx</link>
-      <description><![CDATA[Người Việt chúng ta vốn coi trọng các giá trị truyền thống bởi thế kho tàng tục ngữ của các tộc người có rất nhiều câu chí lý răn dạy về đạo nghĩa, về ứng xử trong quan hệ gia đình và xã hội.]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/tim-trong-kho-bau/tuc-ngu-cac-dan-toc-ve-quan-he-gia-dinh-xa-hoi-c54-39417.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_12/v2_121612_08h00_tim_trong_kho_bau_pl_18h30_131220249.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 13 Dec 2024 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
