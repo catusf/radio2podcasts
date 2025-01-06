@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 03 Jan 2025 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jan 2025 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 03 Jan 2025 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 06 Jan 2025 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Điểm hẹn văn nghệ</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Diemhenvannghe.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Hoa xuân trong gió xuân 3/1/2025</title>
+      <title>Nhà báo-nhà văn Vũ Xuân Bân: "Một trong những yếu tố quan trọng để bước vào kỷ nguyên mới chính là tinh thần yêu nước, ý chí tự lực, tự cường của người dân Việt Nam..." 6/1/2025</title>
+      <link>http://vov6.vov.vn/diem-hen-van-nghe/nha-bao-nha-van-vu-xuan-ban-mot-trong-nhung-yeu-to-quan-trong-de-buoc-vao-ky-ng-c158-39473.aspx</link>
+      <description><![CDATA[Thưa các bạn!  Trong bối cảnh hiện tại, Việt Nam đang đứng trước thời cơ và thách thức đan xen trong quá trình hội nhập quốc tế sâu rộng và những biến động toàn cầu. Mặc dù nền kinh tế nước ta sau 40 năm đổi mới đất nước có sự phát triển mạnh mẽ, nhưng lại phải đối mặt với các vấn đề như toàn cầu hóa, cạnh tranh khốc liệt và biến đổi khí hậu. Tuy nhiên, điều này cũng tạo ra cơ hội để Việt Nam thể hiện khát vọng “vươn mình,” hướng đến một tương lai thịnh vượng, bền vững và luôn gắn kết với những giá trị văn hóa đặc sắc của mình. Theo nhà báo-nhà văn Vũ Xuân Bân, khát vọng vươn mình của dân tộc ta không chỉ là mong muốn phát triển về mặt kinh tế, mà còn là sự hòa nhập, phát triển bền vững trong khi vẫn bảo tồn và phát huy bản sắc văn hóa dân tộc:]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/nha-bao-nha-van-vu-xuan-ban-mot-trong-nhung-yeu-to-quan-trong-de-buoc-vao-ky-ng-c158-39473.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/tieng_noi_vns_61202515.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 06 Jan 2025 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Hoa xuân trong gió xuân  3/1/2025</title>
       <link>http://vov6.vov.vn/diem-hen-van-nghe/hoa-xuan-trong-gio-xuan-c158-39471.aspx</link>
       <description><![CDATA[Nhà văn Đỗ Bích Thúy sinh năm 1975 tại Hà Giang, hiện sống ở Hà Nội. Nhà văn nổi tiếng với các tác phẩm đề tài miền núi như: Tiếng đàn môi sau bờ rào đá, Chúa đất, Lặng yên dưới vực sâu, Người yêu ơi , Than đỏ dưới tro tàn. Trong đó, truyện ngắn “Tiếng đàn môi sau bờ rào đá” được chuyển thể thành phim điện ảnh “Chuyện của Pao” và đoạt giải thưởng Cánh diều Vàng  năm 2005, bộ phim truyền hình “Lặng yên dưới vực sâu” của đạo diễn Đào Duy Phúc cũng dựa trên tác phẩm cùng tên của Đỗ Bích Thúy. Vừa qua, Đỗ Bích Thúy ra mắt tập truyện ngắn “Hoa xuân trong gió xuân” với 19 truyện ngắn chọn lọc, trong số đó có những truyện chưa từng xuất hiện trong cuốn sách nào. Đề tài chủ đạo vẫn là dân tộc thiểu số và miền núi, thấm đẫm hơi thở của những vùng văn hoá Mông, Tày, Dao… trên núi cao. Những câu chuyện tình yêu trong trẻo, chất phác, những vui buồn thuần hậu của người miền núi, những mối quan hệ ấm áp nhân văn. Về cuốn sách này, phóng viên chương trình có bài viết “Hoa xuân trong gió xuân” – chân dung phụ nữ vùng Tây Bắc”.]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/hoa-xuan-trong-gio-xuan-c158-39471.aspx</guid>
@@ -39,14 +47,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/tuy-but-buoc-toi-ky-nguyen-vuon-minh-phat-trien-c158-39466.aspx</guid>
       <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_12/tuy_but_ky_nguyen_vuon_minh_3112202414.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 31 Dec 2024 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>“Truyện sử Trần”: Một cái nhìn lịch sử cởi mở  30/12/2024</title>
-      <link>http://vov6.vov.vn/diem-hen-van-nghe/truyen-su-tran-mot-cai-nhin-lich-su-coi-mo-c158-39458.aspx</link>
-      <description><![CDATA[Nhà văn Trần Thanh Cảnh là tác giả xuất hiện khoảng 10 năm qua, ra mắt tác phẩm đầu tiên năm 2013 nhưng đến nay đã có 14 tác phẩm, trong đó cuốn “Kỳ nhân làng Ngọc”  được nhận giải thưởng Hội Nhà văn Việt Nam năm 2015. Bên cạnh những tác phẩm khai thác đề tài nông thôn, nhà văn Trần Thanh Cảnh luôn quan tâm đến đề tài lịch sử và với các tiếu thuyết lịch sử "Đức Thánh Trần", "Trần Thủ Độ" nhà văn Trần Thanh Cảnh đã đem đến cho bạn đọc những phát hiện mới mẻ, thú vị với cái nhìn trọn vẹn hơn về nhân vật lịch sử và thời cuộc. Mới đây, nhà văn Trần Thanh Cảnh ra mắt tập truyện ngắn “Truyện sử Trần” gồm 7 truyện ngắn viết về các nhân vật lich sử đờiTrần. Về cuốn sách này, phóng viên chương trình có bài “Truyện sử Trần – Một cái nhìn lịch sử cởi mở”. Mời quý vị và các bạn cùng nghe.]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/truyen-su-tran-mot-cai-nhin-lich-su-coi-mo-c158-39458.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/sach_tran_thanh_canh_3012202410.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 30 Dec 2024 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
