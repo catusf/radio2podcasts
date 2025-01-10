@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 06 Jan 2025 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jan 2025 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 06 Jan 2025 19:00:00 +0700</pubDate>
+    <pubDate>Fri, 10 Jan 2025 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Điểm hẹn văn nghệ</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Diemhenvannghe.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Yếu tố quan trọng để Việt Nam bước vào kỷ nguyên mới 6/1/2025</title>
+      <title>"Đỉnh Kinh": Một cái nhìn thấu đáo về hình tượng người lính, người chiến sĩ công an nhân dân 10/1/2025</title>
+      <link>http://vov6.vov.vn/diem-hen-van-nghe/dinh-kinh-mot-cai-nhin-thau-dao-ve-hinh-tuong-nguoi-linh-nguoi-chien-si-cong-an-c158-39484.aspx</link>
+      <description><![CDATA[Nhà văn Bùi Tuấn Minh sinh năm 1984 tại Tuy Lai, Mỹ Đức, Hà Nội. Hiện anh công tác tại Trường cao đẳng Cảnh sát nhân dân I, Bộ Công an; là hội viên Hội Nhà văn Việt Nam, Ủy viên Ban Chấp hành Chi hội Nhà văn Công an nhiệm kỳ 2025-2030. Tập truyện ngắn "Đỉnh Kinh" của Trung tá - nhà văn Bùi Tuấn Minh do Nhà xuất bản Hội Nhà văn phát hành vừa qua, gồm 17 truyện ngắn. Đây là thành quả sự lao động nghiêm túc, miệt mài và cẩn trọng của nhà văn trong suốt 4 năm với nội dung đậm nét về đề tài lực lượng vũ trang, chiến tranh cách mạng, các vấn đề mang hơi thở xã hội hướng tới giá trị nhân văn. Về cuốn sách này, phóng viên chương trình có bài “Đỉnh Kinh - Một cái nhìn thấu đáo về hình tượng người lính, người chiến sĩ công an nhân dân”. Mời quý vị và các bạn cùng nghe.]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/dinh-kinh-mot-cai-nhin-thau-dao-ve-hinh-tuong-nguoi-linh-nguoi-chien-si-cong-an-c158-39484.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2025_1/ra_mat_sach_bui_tuan_minh_10120259.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 10 Jan 2025 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Yếu tố quan trọng để Việt Nam bước vào kỷ nguyên mới  6/1/2025</title>
       <link>http://vov6.vov.vn/diem-hen-van-nghe/yeu-to-quan-trong-de-viet-nam-buoc-vao-ky-nguyen-moi-c158-39473.aspx</link>
       <description><![CDATA[Trong bối cảnh hiện tại, Việt Nam đang đứng trước thời cơ và thách thức đan xen trong quá trình hội nhập quốc tế sâu rộng và những biến động toàn cầu. Mặc dù nền kinh tế nước ta sau 40 năm đổi mới đất nước có sự phát triển mạnh mẽ, nhưng lại phải đối mặt với các vấn đề như toàn cầu hóa, cạnh tranh khốc liệt và biến đổi khí hậu. Tuy nhiên, điều này cũng tạo ra cơ hội để Việt Nam thể hiện khát vọng “vươn mình,” hướng đến một tương lai thịnh vượng, bền vững và luôn gắn kết với những giá trị văn hóa đặc sắc của mình. Theo nhà báo, nhà văn Vũ Xuân Bân, khát vọng vươn mình của dân tộc ta không chỉ là mong muốn phát triển về mặt kinh tế, mà còn là sự hòa nhập, phát triển bền vững trong khi vẫn bảo tồn và phát huy bản sắc văn hóa dân tộc.]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/yeu-to-quan-trong-de-viet-nam-buoc-vao-ky-nguyen-moi-c158-39473.aspx</guid>
@@ -38,15 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/hoa-xuan-trong-gio-xuan-c158-39471.aspx</guid>
       <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2025_1/hoa_xuan_trong_gio_xuan_3120259.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 03 Jan 2025 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Tùy bút “Bước tới kỷ nguyên vươn mình phát triển”   31/12/2024</title>
-      <link>http://vov6.vov.vn/diem-hen-van-nghe/tuy-but-buoc-toi-ky-nguyen-vuon-minh-phat-trien-c158-39466.aspx</link>
-      <description><![CDATA[Các bạn thân mến!         
-Đất nước ta sắp bước sang năm thứ 80 trong lịch sử hiện đại. Hành trình 80 năm đi qua chông gai và máu lửa của người Việt, hành trình tạo lập nên thời cơ và vị thế của đất nước Việt Nam hôm nay, tiếng gọi của khát vọng thịnh vượng trong những giấc mơ thịnh trị của tiền nhân, đã mang đến cho chúng ta những trải nghiệm cùng nhiều bài học quý báu. Và khi một kỷ nguyên mới đang dần hiện ra trước mắt chúng ta, trong tâm thế dân tộc cùng đồng lòng với tinh thần kiến tạo mạnh mẽ, thời khắc bắt đầu ấy sẽ thật sự là một khởi điểm lịch sử mới, mở ra một kỷ nguyên mới: kỷ nguyên của tinh thần kiến quốc - kỷ nguyên vươn mình bước tới văn minh và thịnh vượng. Trên nền cảm hứng ấy, nhà thơ Nguyễn Thành Phong đã viết tùy bút “Bước tới kỷ nguyên vươn mình phát triển”. Mời các bạn cùng nghe:]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/tuy-but-buoc-toi-ky-nguyen-vuon-minh-phat-trien-c158-39466.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_12/tuy_but_ky_nguyen_vuon_minh_3112202414.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 31 Dec 2024 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
