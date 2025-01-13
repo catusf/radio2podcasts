@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 29 Dec 2024 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jan 2025 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Sun, 29 Dec 2024 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 13 Jan 2025 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,19 @@
     <itunes:subtitle>Kể chuyện và hát ru cho bé</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Kechuyenvahatruchobe.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Chuyện nàng công chúa Kê-tơ 29/12/2024</title>
+      <title>Điều kỳ diệu của mùa
+Đông 13/1/2025</title>
+      <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/dieu-ky-dieu-cua-mua-dong-c43-39489.aspx</link>
+      <description><![CDATA[Khi mùa Đông đến, phần lớn các loài cây đều
+rụng lá, chỉ còn lại những cành nhánh khẳng khiu trong khô lạnh. Ấy
+vậy mà có một loài cây khi trời càng giá rét thì lá càng đỏ rực. Những
+chiếc lá ấy được ví như những bông hoa đẹp nhất trong mùa Đông... (Kể chuyện và hát ru 25/12/2024)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/dieu-ky-dieu-cua-mua-dong-c43-39489.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2025_1/v2_252612_21h45_ke_chuyen_va_hat_ru_131202521.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 13 Jan 2025 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Chuyện nàng công chúa Kê-tơ  29/12/2024</title>
       <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/chuyen-nang-cong-chua-ke-to-c43-39453.aspx</link>
       <description><![CDATA[Ở một tòa lâu đài nguy nga,
 lộng lẫy có nhà vua, hoàng hậu và hai nàng công chúa nhỏ tên là En-nơ và
@@ -44,14 +56,6 @@ không lúc nào được dư giả. Vậy mà tình yêu thương và lòng t�
 con người luôn ấm áp... (Kể chuyện và hát ru 23/12/2024)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/truyen-ke-dem-noel-c43-39446.aspx</guid>
       <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_12/v2_232412_21h45_ke_chuyen_va_hat_ru_2512202415.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 25 Dec 2024 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Vị thần đáng sợ   25/12/2024</title>
-      <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/vi-than-dang-so-c43-39445.aspx</link>
-      <description><![CDATA[Trong tưởng tượng của chúng ta, vị thần chết thật lạnh lùng đáng sợ, là sự đe dọa của mọi người mọi nhà. Những câu chuyện kể dân gian về vị thần này cũng rất nhiều... (Kể chuyện và hát ru 20/12/2024)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/vi-than-dang-so-c43-39445.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_12/v2_202112_21h45_ke_chuyen_va_hat_ru_2512202415.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 25 Dec 2024 19:00:00 +0700</pubDate>
     </item>
   </channel>
