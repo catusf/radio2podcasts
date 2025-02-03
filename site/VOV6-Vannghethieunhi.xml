@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 23 Jan 2025 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 03 Feb 2025 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Thu, 23 Jan 2025 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 03 Feb 2025 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,17 @@
     <itunes:subtitle>Văn nghệ thiếu nhi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Vannghethieunhi.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Nhâm nhi Tết Ất Tỵ 23/1/2025</title>
+      <title>Đọc truyện “Mùa đông bất tận” - Buổi hai mươi tám - Những ngày bên nhau  3/2/2025</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-mua-dong-bat-tan-buoi-hai-muoi-tam-nhung-ngay-ben-nhau-c44-39512.aspx</link>
+      <description><![CDATA[Gia đình Laura chào buổi sáng trong thời tiết lạnh giá như thường lệ. Cả nhà
+quây quần ăn sáng với những chiếc bánh mì nóng và nhường nhau từng củ khoai
+tây. Mỗi ngày Laura dành một khoảng thời gian để học bài và bện cỏ khô để đốt lò... (Văn nghệ thiếu nhi 24/1/2025)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-mua-dong-bat-tan-buoi-hai-muoi-tam-nhung-ngay-ben-nhau-c44-39512.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2025_2/v2_2401_10h4518h15_van_nghe_thieu_nhi_32202511.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 03 Feb 2025 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Nhâm nhi Tết Ất Tỵ  23/1/2025</title>
       <link>http://vov6.vov.vn/van-nghe-thieu-nhi/nham-nhi-tet-at-ty-c44-39507.aspx</link>
       <description><![CDATA[Mỗi dịp Tết đến Xuân về, NXB Kim Đồng lại ra mắt bạn đọc ấn phẩm đặc biệt
 có nhan đề “Nhâm nhi Tết”. “Nhâm nhi Tết Ất Tỵ” là cuốn sách thứ 6 trong
@@ -40,16 +50,6 @@ loạt sách này. Ấn phẩm có nội dung phong phú đa dạng và trình b
 ngôi nhà và ở ngoài đường phố nữa. Không khí đón Tết thêm rộn ràng trong âm thanh những khúc ca xuân. Cùng nhạc sỹ Lê Dũng hòa vào giai điệu tươi vui của "Xin chào Tết ơi", các bạn nhé! (Văn nghệ thiếu nhi 22/1/2025)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/xin-chao-tet-oi-c44-39505.aspx</guid>
       <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2025_1/v2_2201_10h4518h15_van_nghe_thieu_nhi_231202515.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 23 Jan 2025 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Ở lớp học vẽ vui vẻ   23/1/2025</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/o-lop-hoc-ve-vui-ve-c44-39504.aspx</link>
-      <description><![CDATA[Tết cổ truyền đã gần kề rồi. Các công việc dọn dẹp,
-trang hoàng nhà cửa đang thật náo nức khẩn trương ở mọi gia đình. Các bạn sẽ làm gì để
-trang trí ngôi nhà bằng chính đôi bàn tay khéo léo của mình? Cùng nghe những gợi ý từ lớp vẽ Vui vẻ các bạn nhé! (Văn nghệ thiếu nhi 15/1/2025)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/o-lop-hoc-ve-vui-ve-c44-39504.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2025_1/v2_1501_10h4518h15_van_nghe_thieu_nhi_231202515.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 23 Jan 2025 19:00:00 +0700</pubDate>
     </item>
   </channel>
