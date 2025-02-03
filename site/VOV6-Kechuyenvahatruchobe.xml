@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 13 Jan 2025 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 03 Feb 2025 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 13 Jan 2025 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 03 Feb 2025 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,8 +24,19 @@
     <itunes:subtitle>Kể chuyện và hát ru cho bé</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Kechuyenvahatruchobe.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Hạt giống hoa mùa xuân 3/2/2025</title>
+      <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/hat-giong-hoa-mua-xuan-c43-39516.aspx</link>
+      <description><![CDATA[Xưa kia có hai anh em trai, người anh tên là Jan, người em tên là Bô-kô.
+Khi trưởng thành, hai anh em đi về hai ngả để lập thành. Người anh lập thành ở
+phương Bắc, người em lập thành ở phương Nam. Trước ngày từ giã nhau, họ gặp
+một ông lão, ông đã đưa cho mỗi người một túi hạt giống hoa... (Kể chuyện và hát ru 1/2/2025)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/hat-giong-hoa-mua-xuan-c43-39516.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2025_2/v2_0102_21h45_ke_chuyen_va_hat_ru_32202518.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 03 Feb 2025 19:00:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Điều kỳ diệu của mùa
-Đông 13/1/2025</title>
+Đông  13/1/2025</title>
       <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/dieu-ky-dieu-cua-mua-dong-c43-39489.aspx</link>
       <description><![CDATA[Khi mùa Đông đến, phần lớn các loài cây đều
 rụng lá, chỉ còn lại những cành nhánh khẳng khiu trong khô lạnh. Ấy
@@ -45,18 +56,6 @@ em nhưng luôn tỏ ra can đảm và mạnh mẽ hơn chị En-nơ... (Kể ch
       <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/chuyen-nang-cong-chua-ke-to-c43-39453.aspx</guid>
       <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_12/v2_272812_21h45_ke_chuyen_va_hat_ru_291220249.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 29 Dec 2024 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Truyện kể đêm Noel  25/12/2024</title>
-      <link>http://vov6.vov.vn/ke-chuyen-va-hat-ru/truyen-ke-dem-noel-c43-39446.aspx</link>
-      <description><![CDATA[Có một câu chuyện thần kỳ xảy ra ở những nơi có tuyết, có
-rừng và những chú tuần lộc đáng yêu. Đó là một ngôi làng xa xôi với những người
-nông dân còn nghèo khó. Họ luôn phải làm việc từ sáng đến tối mà cuộc sống vẫn
-không lúc nào được dư giả. Vậy mà tình yêu thương và lòng tự trọng trong mỗi
-con người luôn ấm áp... (Kể chuyện và hát ru 23/12/2024)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/ke-chuyen-va-hat-ru/truyen-ke-dem-noel-c43-39446.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2024_12/v2_232412_21h45_ke_chuyen_va_hat_ru_2512202415.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Wed, 25 Dec 2024 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
