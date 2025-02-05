@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 03 Feb 2025 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 05 Feb 2025 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 03 Feb 2025 19:00:00 +0700</pubDate>
+    <pubDate>Wed, 05 Feb 2025 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,18 @@
     <itunes:subtitle>Văn nghệ thiếu nhi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Vannghethieunhi.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Món quà mùa xuân 3/2/2025</title>
+      <title>Họa rắn qua hình tượng chữ Nôm cổ 5/2/2025</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/hoa-ran-qua-hinh-tuong-chu-nom-co-c44-39522.aspx</link>
+      <description><![CDATA[Chữ Nôm là bộ chữ được ông cha ta sáng tạo
+dựa trên chữ Hán. Từ những ý tưởng được gợi ý gắn với bộ chữ cổ truyền của dân tộc, vừa qua họa sĩ
+Nguyễn Doãn Sơn (Trường Đại học Mỹ thuật Công nghiệp Hà Nội) đã sáng tạo
+nên nhiều bức tranh về rắn giàu màu sắc... (Trang Văn học nghệ thuật tuổi mới lớn 4/2/2025)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/hoa-ran-qua-hinh-tuong-chu-nom-co-c44-39522.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2025_2/v2_0402_10h4518h15_van_nghe_thieu_nhi_52202515.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 05 Feb 2025 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Món quà mùa xuân  3/2/2025</title>
       <link>http://vov6.vov.vn/van-nghe-thieu-nhi/mon-qua-mua-xuan-c44-39515.aspx</link>
       <description><![CDATA[Mùa xuân là khởi đầu một năm với biết bao dự định, ước mơ
 và niềm vui. Mùa xuân là món quà của tự nhiên gửi tặng cho con người cũng
@@ -41,16 +52,6 @@ như vạn vật. Chúng ta cùng đón chào một “Món quà mùa xuân” �
 giúp ích cho ông và các thành viên trong gia đình. Thế rồi cả nhà lại bị cuốn vào cơn bão tuyết mới... (Văn nghệ thiếu nhi 26/1/2025)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-mua-dong-bat-tan-buoi-ba-muoi-duong-ham-tuyet-c44-39514.aspx</guid>
       <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2025_2/v2_2601_10h4518h15_van_nghe_thieu_nhi_32202511.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 03 Feb 2025 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đọc truyện “Mùa đông bất tận” - Buổi hai mươi chín - Ai mua cỏ khô nào  3/2/2025</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-mua-dong-bat-tan-buoi-hai-muoi-chin-ai-mua-co-kho-nao-c44-39513.aspx</link>
-      <description><![CDATA[Trong thị trấn xuất hiện người bán cỏ khô. Giá bán hơi cao một chút, nhưng
-cha cho rằng đó là điều hợp lý vì họ phải đối mặt với nhiều nguy hiểm khi
-gom và bán cỏ... (Văn nghệ thiếu nhi 25/1/2025)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-mua-dong-bat-tan-buoi-hai-muoi-chin-ai-mua-co-kho-nao-c44-39513.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2025_2/v2_2501_10h4518h15_van_nghe_thieu_nhi_32202511.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 03 Feb 2025 19:00:00 +0700</pubDate>
     </item>
   </channel>
