@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 05 Feb 2025 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 17 Feb 2025 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Wed, 05 Feb 2025 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 17 Feb 2025 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,15 @@
     <itunes:subtitle>Điểm hẹn văn nghệ</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Diemhenvannghe.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Sắc xuân 5/2/2025</title>
+      <title>Tùy bút “Mãi là mùa xuân đầu tiên”  17/2/2025</title>
+      <link>http://vov6.vov.vn/diem-hen-van-nghe/tuy-but-mai-la-mua-xuan-dau-tien-c158-39546.aspx</link>
+      <description><![CDATA[Giữa cái rét ngọt lành, vạn vật như khẽ cựa mình, rũ bỏ lớp buốt giá còn vương vấn, vươn mình đón những tia nắng đầu tiên, hân hoan chào đón xuân sang. Xuân len lỏi trong từng cơn gió rét, trong làn khói bếp trầm mặc bay lên từ mái nhà xưa, trong sắc lộc non hé nở, những cánh đào, cánh mận e ấp bung hoa, và cả trong sự cần mẫn, miệt mài dựng xây quê hương của mỗi con người. Tất cả hòa quyện thành một bản tình ca tràn đầy sức sống, khát khao vươn mình giữa mùa xuân mới. Tùy bút “Mãi là mùa xuân đầu tiên” của nhà thơ Nguyễn Hữu Quý đong đầy xúc cảm, thể hiện khát vọng hòa bình cho dân tộc, bình yên và hạnh phúc cho bao tâm hồn con người…Mời các bạn cùng nghe:]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/tuy-but-mai-la-mua-xuan-dau-tien-c158-39546.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2025_2/tuy_but_mai_la_mua_xuan_dau_tien_172202515.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 17 Feb 2025 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Sắc xuân  5/2/2025</title>
       <link>http://vov6.vov.vn/diem-hen-van-nghe/sac-xuan-c158-39520.aspx</link>
       <description><![CDATA[Ca khúc “Sắc xuân” do nhạc sĩ Võ Xuân Hùng phổ thơ từ bài thơ cùng tên của nhà thơ Nguyễn Đăng Độ. “Xuân về sưởi ấm những mầm hoa/ Trong cõi thẳm nghe lòng xao xuyến lạ /  Cơn gió nhẹ reo vui cùng ngọn lá /  Hương thơm bay ngào ngạt đất trời”, những câu thơ mở đầu đã mở ra một không gian xanh mát, tươi tắn của mùa xuân, xuân đến với muôn người, với đất trời. Nhạc sĩ Võ Xuân Hùng bắt gặp cảm xúc ấy trong tứ thơ và anh đã phổ thành ca khúc. “Sớm xuân sang muôn ánh rạng ngời/ Trên đôi má em hồng hương nắng mới/ Chim én liệng bầu trời xanh vời vợi/ Mây mơ màng tha thướt giữa bao la /Xuân mang đến dâng đời muôn sắc lá/ Chim ca vang điệp khúc đón xuân về/ Hoa đào nở đỏ một niềm thương nhớ/ Bao đôi lứa xe duyên ngây ngất xuân mơ/ Ta trở về say đắm những vần thơ”, những hình ảnh thơ đong đầy cảm xúc yêu thương và vui sướng khi được hòa mình vào không gian tuyệt đẹp của mùa xuân. (Điểm hẹn văn nghệ)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/sac-xuan-c158-39520.aspx</guid>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/but-ky-tet-nguyen-dan-o-noi-xa-xu-c158-39498.aspx</guid>
       <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2025_1/bk_tet_nguyen_dan_o_noi_xa_xu_22120259.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 22 Jan 2025 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>"Đỉnh Kinh": Một cái nhìn thấu đáo về hình tượng người lính, người chiến sĩ công an nhân dân  10/1/2025</title>
-      <link>http://vov6.vov.vn/diem-hen-van-nghe/dinh-kinh-mot-cai-nhin-thau-dao-ve-hinh-tuong-nguoi-linh-nguoi-chien-si-cong-an-c158-39484.aspx</link>
-      <description><![CDATA[Nhà văn Bùi Tuấn Minh sinh năm 1984 tại Tuy Lai, Mỹ Đức, Hà Nội. Hiện anh công tác tại Trường cao đẳng Cảnh sát nhân dân I, Bộ Công an; là hội viên Hội Nhà văn Việt Nam, Ủy viên Ban Chấp hành Chi hội Nhà văn Công an nhiệm kỳ 2025-2030. Tập truyện ngắn "Đỉnh Kinh" của Trung tá - nhà văn Bùi Tuấn Minh do Nhà xuất bản Hội Nhà văn phát hành vừa qua, gồm 17 truyện ngắn. Đây là thành quả sự lao động nghiêm túc, miệt mài và cẩn trọng của nhà văn trong suốt 4 năm với nội dung đậm nét về đề tài lực lượng vũ trang, chiến tranh cách mạng, các vấn đề mang hơi thở xã hội hướng tới giá trị nhân văn. Về cuốn sách này, phóng viên chương trình có bài “Đỉnh Kinh - Một cái nhìn thấu đáo về hình tượng người lính, người chiến sĩ công an nhân dân”. Mời quý vị và các bạn cùng nghe.]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/diem-hen-van-nghe/dinh-kinh-mot-cai-nhin-thau-dao-ve-hinh-tuong-nguoi-linh-nguoi-chien-si-cong-an-c158-39484.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2025_1/ra_mat_sach_bui_tuan_minh_10120259.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 10 Jan 2025 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
