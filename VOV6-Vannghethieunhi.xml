@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 14 Feb 2025 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 17 Feb 2025 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Fri, 14 Feb 2025 19:00:00 +0700</pubDate>
+    <pubDate>Mon, 17 Feb 2025 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,17 @@
     <itunes:subtitle>Văn nghệ thiếu nhi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Vannghethieunhi.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Ferda chú kiến tài ba: Những trang viết sinh động về thế giới côn trùng  14/2/2025</title>
+      <title>Nguyễn Hữu Thiên Vinh chinh phục đam mê hội họa  17/2/2025</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/nguyen-huu-thien-vinh-chinh-phuc-dam-me-hoi-hoa-c44-39541.aspx</link>
+      <description><![CDATA[Thiên Vinh đã đoạt nhiều giải thưởng mỹ thuật cấp trường, cấp
+quốc gia và quốc tế: Giải tài năng cuộc thi vẽ tranh "Hoan hô chiến sĩ Điện Biên 2024" chào mừng 70 năm
+chiến thắng Điện Biên Phủ, giải bạc kỳ thi Thiết kế Poster Giáo dục toàn cầu UniCEP, giải danh dự kỳ thi Thiết kế Poster Giáo dục UniCep 2025... (Văn nghệ thiếu nhi 5/2/2025)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/nguyen-huu-thien-vinh-chinh-phuc-dam-me-hoi-hoa-c44-39541.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2025_2/v2_0502_10h4518h15_van_nghe_thieu_nhi_172202510.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 17 Feb 2025 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Ferda chú kiến tài ba: Những trang viết sinh động về thế giới côn trùng   14/2/2025</title>
       <link>http://vov6.vov.vn/van-nghe-thieu-nhi/ferda-chu-kien-tai-ba-nhung-trang-viet-sinh-dong-ve-the-gioi-con-trung-c44-39539.aspx</link>
       <description><![CDATA[Biết bao thế hệ bạn đọc nhỏ tuổi nước ta đã say mê với thế giới côn trùng
 vô cùng sinh động trong truyện dài “Dế mèn phiêu lưu ký” của nhà văn Tô Hoài.
@@ -42,17 +52,6 @@ cũng về được đến thị trấn. Khi biết Cap và Almanzo mang lúa m�
 mọi người trong thị trấn nhanh chóng tụ tập lại... (Văn nghệ thiếu nhi 9/2/2025)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-mua-dong-bat-tan-buoi-ba-muoi-sau-tro-ve-an-toan-c44-39538.aspx</guid>
       <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2025_2/v2_0902_10h4518h15_van_nghe_thieu_nhi_142202515.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 14 Feb 2025 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đọc truyện “Mùa đông bất tận” - Buổi ba mươi lăm - Đường về 
-  14/2/2025</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-mua-dong-bat-tan-buoi-ba-muoi-lam-duong-ve-c44-39537.aspx</link>
-      <description><![CDATA[Đi được một chặng dài nhưng Cap và Almanzo vẫn không tìm được đường để trở về thị trấn. Trời ngày càng
-tối, hai người đã kiệt sức nhưng vẫn cố gắng thúc giục hai con ngựa tiến về phía
-trước... (Văn nghệ thiếu nhi 8/2/2025)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-mua-dong-bat-tan-buoi-ba-muoi-lam-duong-ve-c44-39537.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2025_2/v2_0802_10h4518h15_van_nghe_thieu_nhi_142202515.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 14 Feb 2025 19:00:00 +0700</pubDate>
     </item>
   </channel>
