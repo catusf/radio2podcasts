@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 17 Feb 2025 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 18 Feb 2025 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 17 Feb 2025 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 18 Feb 2025 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,27 @@
     <itunes:subtitle>Văn nghệ thiếu nhi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Vannghethieunhi.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Nguyễn Hữu Thiên Vinh chinh phục đam mê hội họa  17/2/2025</title>
+      <title>Khung cửa mở chào mùa xuân  18/2/2025</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/khung-cua-mo-chao-mua-xuan-c44-39549.aspx</link>
+      <description><![CDATA[Mùa Xuân là mùa khởi đầu của một năm mới tràn
+đầy hi vọng, mùa của chồi non lộc biếc. Khung cảnh tươi đẹp này đã đi vào sáng tác thơ văn của các bạn thật gần gũi, tự nhiên.
+Bây giờ, mời các bạn đến với không gian của hoa lá cùng tiếng tí tách
+nảy mầm của chồi non, thông qua một số sáng tác thơ văn của các bạn trong
+Câu lạc bộ văn học “Khung cửa mở”... (Trang Văn học nghệ thuật tuổi mới lớn 6/2/2025)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/khung-cua-mo-chao-mua-xuan-c44-39549.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2025_2/v2_0602_10h4518h15_van_nghe_thieu_nhi_182202511.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 18 Feb 2025 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Vẽ tranh về lễ hội mùa xuân  18/2/2025</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/ve-tranh-ve-le-hoi-mua-xuan-c44-39548.aspx</link>
+      <description><![CDATA[Mở đầu chương trình hôm nay, chúng mình cùng hoạ sĩ Đặng Việt Linh vẽ tranh về lễ hội mùa xuân. Cuối chương trình là tiểu phẩm vui “Khuyến mãi”. Các bạn cùng nghe nhé! (Văn nghệ thiếu nhi 12/2/2025)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/ve-tranh-ve-le-hoi-mua-xuan-c44-39548.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2025_2/v2_1202_10h4518h15_van_nghe_thieu_nhi_182202511.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 18 Feb 2025 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Nguyễn Hữu Thiên Vinh chinh phục đam mê hội họa   17/2/2025</title>
       <link>http://vov6.vov.vn/van-nghe-thieu-nhi/nguyen-huu-thien-vinh-chinh-phuc-dam-me-hoi-hoa-c44-39541.aspx</link>
       <description><![CDATA[Thiên Vinh đã đoạt nhiều giải thưởng mỹ thuật cấp trường, cấp
 quốc gia và quốc tế: Giải tài năng cuộc thi vẽ tranh "Hoan hô chiến sĩ Điện Biên 2024" chào mừng 70 năm
@@ -32,27 +52,6 @@ chiến thắng Điện Biên Phủ, giải bạc kỳ thi Thiết kế Poster G
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/nguyen-huu-thien-vinh-chinh-phuc-dam-me-hoi-hoa-c44-39541.aspx</guid>
       <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2025_2/v2_0502_10h4518h15_van_nghe_thieu_nhi_172202510.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 17 Feb 2025 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Ferda chú kiến tài ba: Những trang viết sinh động về thế giới côn trùng   14/2/2025</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/ferda-chu-kien-tai-ba-nhung-trang-viet-sinh-dong-ve-the-gioi-con-trung-c44-39539.aspx</link>
-      <description><![CDATA[Biết bao thế hệ bạn đọc nhỏ tuổi nước ta đã say mê với thế giới côn trùng
-vô cùng sinh động trong truyện dài “Dế mèn phiêu lưu ký” của nhà văn Tô Hoài.
-Nhà văn người Séc Ondrej Sekora cũng có một cuốn sách rất thú vị về thế giới côn
-trùng có nhan đề “Ferda chú kiến tài ba”... (Văn nghệ thiếu nhi 13/2/2025)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/ferda-chu-kien-tai-ba-nhung-trang-viet-sinh-dong-ve-the-gioi-con-trung-c44-39539.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2025_2/v2_1302_10h4518h15_van_nghe_thieu_nhi_142202515.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 14 Feb 2025 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đọc truyện “Mùa đông bất tận” - Buổi ba mươi sáu - Trở về an toàn   14/2/2025</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-mua-dong-bat-tan-buoi-ba-muoi-sau-tro-ve-an-toan-c44-39538.aspx</link>
-      <description><![CDATA[Nhờ ánh đèn le lói trong đêm tối mà hai chàng trai
-cũng về được đến thị trấn. Khi biết Cap và Almanzo mang lúa mì về thì
-mọi người trong thị trấn nhanh chóng tụ tập lại... (Văn nghệ thiếu nhi 9/2/2025)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-mua-dong-bat-tan-buoi-ba-muoi-sau-tro-ve-an-toan-c44-39538.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2025_2/v2_0902_10h4518h15_van_nghe_thieu_nhi_142202515.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 14 Feb 2025 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
