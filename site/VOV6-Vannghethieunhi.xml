@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 18 Feb 2025 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 20 Feb 2025 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Tue, 18 Feb 2025 19:00:00 +0700</pubDate>
+    <pubDate>Thu, 20 Feb 2025 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,18 @@
     <itunes:subtitle>Văn nghệ thiếu nhi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Vannghethieunhi.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Đọc truyện “Mùa đông bất tận” - Buổi ba mươi chín - Những ngày vui sắp tới  18/2/2025</title>
+      <title>Xin chữ đầu năm  20/2/2025</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/xin-chu-dau-nam-c44-39555.aspx</link>
+      <description><![CDATA[Một trong những phong tục ngày đầu Xuân
+đó là tục xin chữ, với mong muốn khởi đầu một năm mới
+thuận lợi và bình an. Nét chữ thanh đậm, phóng khoáng của các thầy đồ, thầy thư
+pháp giống như bức tranh chữ độc đáo... (Trang Văn học nghệ thuật tuổi mới lớn 18/2/2025)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/xin-chu-dau-nam-c44-39555.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2025_2/v2_1802_10h4518h15_van_nghe_thieu_nhi_20220259.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 20 Feb 2025 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Đọc truyện “Mùa đông bất tận” - Buổi ba mươi chín - Những ngày vui sắp tới   18/2/2025</title>
       <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-mua-dong-bat-tan-buoi-ba-muoi-chin-nhung-ngay-vui-sap-toi-c44-39552.aspx</link>
       <description><![CDATA[Chỉ vài ngày
 nữa thôi, cả thị trấn sẽ lại nghe thấy tiếng còi tàu, nhìn thấy cột khói tỏa lên bầu
@@ -43,16 +54,6 @@ thành viên trong gia đình vẫn luôn vui vẻ, tin tưởng vào mùa Xuân
 mai... (Văn nghệ thiếu nhi 15/2/2025)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-mua-dong-bat-tan-buoi-ba-muoi-tam-mua-xuan-se-toi-c44-39551.aspx</guid>
       <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2025_2/v2_1502_10h4518h15_van_nghe_thieu_nhi_182202511.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Tue, 18 Feb 2025 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đọc truyện “Mùa đông bất tận” - Buổi ba mươi bảy - Ông Loftus tham lam   18/2/2025</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-mua-dong-bat-tan-buoi-ba-muoi-bay-ong-loftus-tham-lam-c44-39550.aspx</link>
-      <description><![CDATA[Cả Almanzo và Cap không thể nghĩ rằng ông Loftus lại là
-một người tham lam đến vậy. Ông ấy đã lợi dụng lúc cả thị trấn khan hiếm lương thực,
-tự ý đẩy giá bột mì lên cao, khiến cho nhiều gia đình không thể mua được... (Văn nghệ thiếu nhi 14/2/2025)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-mua-dong-bat-tan-buoi-ba-muoi-bay-ong-loftus-tham-lam-c44-39550.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2025_2/v2_1402_10h4518h15_van_nghe_thieu_nhi_182202511.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 18 Feb 2025 19:00:00 +0700</pubDate>
     </item>
   </channel>
