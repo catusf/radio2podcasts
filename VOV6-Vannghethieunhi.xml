@@ -9,10 +9,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 10 Mar 2025 19:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 11 Mar 2025 19:00:00 +0700</lastBuildDate>
     <itunes:author>catus.phan</itunes:author>
     <managingEditor>catus.phan@gmail.com (catus.phan)</managingEditor>
-    <pubDate>Mon, 10 Mar 2025 19:00:00 +0700</pubDate>
+    <pubDate>Tue, 11 Mar 2025 19:00:00 +0700</pubDate>
     <itunes:category text="Music">
       <itunes:category text="Music Commentary"/>
     </itunes:category>
@@ -24,7 +24,19 @@
     <itunes:subtitle>Văn nghệ thiếu nhi</itunes:subtitle>
     <atom:link href="https://catusf.github.io/radio2podcasts/VOV6-Vannghethieunhi.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Vẻ đẹp người lính trong thơ  10/3/2025</title>
+      <title>Gặp gỡ tác giả "Tớ tên là Hy Vọng" 11/3/2025</title>
+      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/gap-go-tac-gia-to-ten-la-hy-vong-c44-39584.aspx</link>
+      <description><![CDATA[Nhà văn Y Ban là tác giả của hơn
+30 tập truyện ngắn, truyện dài, tiểu thuyết và được trao tặng nhiều giải thưởng của
+Hội Nhà văn Việt Nam, Liên hiệp các hội Văn học Nghệ thuật Việt Nam, các báo và tạp chí chuyên
+ngành. Cuốn sách “Tớ tên là Hy Vọng” là tác phẩm dành cho thiếu nhi mới nhất
+của nhà văn Y Ban được NXB Kim Đồng giới thiệu với bạn đọc nhỏ tuổi... (Văn nghệ thiếu nhi 6/3/2025)]]></description>
+      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/gap-go-tac-gia-to-ten-la-hy-vong-c44-39584.aspx</guid>
+      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/v2_0603_10h4518h15_van_nghe_thieu_nhi_113202511.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 11 Mar 2025 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Vẻ đẹp người lính trong thơ   10/3/2025</title>
       <link>http://vov6.vov.vn/van-nghe-thieu-nhi/ve-dep-nguoi-linh-trong-tho-c44-39582.aspx</link>
       <description><![CDATA[Cảm hứng thi ca về vẻ đẹp của người lính luôn
 thường trực trong ngòi bút của các văn nghệ sĩ. Những vần thơ đong đầy cảm xúc về tuổi trẻ, về những cống hiến
@@ -41,17 +53,6 @@ trời dìu dịu, những đợt mưa xuân và hương hoa bưởi ngát thơm
 phố, vườn quê. Tháng ba gợi những cảm xúc thật đẹp, dịu dàng... (Văn nghệ thiếu nhi 3/3/2025)]]></description>
       <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/cam-xuc-thang-3-c44-39581.aspx</guid>
       <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2025_3/v2_0303_10h4518h15_van_nghe_thieu_nhi_sua_103202514.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Mon, 10 Mar 2025 19:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Đọc truyện "Ven bờ hồ Bạc" - Buổi thứ sáu - Cả nhà bên nhau   10/3/2025</title>
-      <link>http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-ven-bo-ho-bac-buoi-thu-sau-ca-nha-ben-nhau-c44-39580.aspx</link>
-      <description><![CDATA[Mẹ vui vẻ khi các con phấn khích và thích
-thú trong chuyến đi này. Cả nhà chờ mãi mà vẫn chưa thấy ba xuất hiện. Lau-ra
-đi ra đi vào, trông cô bé rất lo lắng. Cuối cùng, ba đến khi đã khuya. Ba rất
-vui khi gặp lại mấy mẹ con... (Văn nghệ thiếu nhi 2/3/2025)]]></description>
-      <guid isPermaLink="false">http://vov6.vov.vn/van-nghe-thieu-nhi/doc-truyen-ven-bo-ho-bac-buoi-thu-sau-ca-nha-ben-nhau-c44-39580.aspx</guid>
-      <enclosure url="https://quantrivov6.vov.vn/vov6\attachments/btv/2025_3/v2_0203_10h4518h15_van_nghe_thieu_nhi_103202512.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 10 Mar 2025 19:00:00 +0700</pubDate>
     </item>
   </channel>
